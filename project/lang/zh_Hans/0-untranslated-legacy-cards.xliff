@@ -13592,6 +13592,11 @@
         <target state="translated">结附于生物</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
+      <trans-unit resname="LEA·21 | Guardian Angel | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Prevent the next X damage that would be dealt to any target this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that permanent or player this turn.</source>
+        <target state="translated">于本回合中，对任意一个目标而言，防止接下来将对其造成的X点伤害。本回合中，你可以任意次数地支付 {1}。你每如此做一次，便防止接下来将对该永久物或牌手造成的1点伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
     </body>
   </file>
 </xliff>
