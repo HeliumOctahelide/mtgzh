@@ -13502,6 +13502,11 @@
         <target state="translated">只要~未被横置，所有未受阻挡的生物对你造成的伤害都改为对~造成之。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
+      <trans-unit resname="LEA·6 | Blaze of Glory | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Target creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able.</source>
+        <target state="translated">目标由防御牌手操控的生物本回合能阻挡任意数量的生物，且本回合中，对每个攻击生物而言，若前者能阻挡它，则必须阻挡之。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
     </body>
   </file>
 </xliff>
