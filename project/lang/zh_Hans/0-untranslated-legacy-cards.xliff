@@ -13697,6 +13697,11 @@
         <target state="translated">{R}：防止本回合中岩石多头龙之后将要受到的1点伤害。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
+      <trans-unit resname="MIR·7 | Civic Guildmage | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{G}, {T}: Target creature gets +0/+1 until end of turn.</source>
+        <target state="translated">{T}：目标生物得+1/+1直到回合结束。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
     </body>
   </file>
 </xliff>
