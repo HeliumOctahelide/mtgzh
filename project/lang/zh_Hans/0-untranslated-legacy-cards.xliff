@@ -13699,7 +13699,7 @@
       </trans-unit>
       <trans-unit resname="MIR·7 | Civic Guildmage | Card Text: Paragraph 1" xml:space="preserve">
         <source>{G}, {T}: Target creature gets +0/+1 until end of turn.</source>
-        <target state="translated">{T}：目标生物得+1/+1直到回合结束。</target>
+        <target state="new"></target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·179 | Two-Headed Giant of Foriys | Card Text: Paragraph 1" xml:space="preserve">
@@ -13720,6 +13720,11 @@
       <trans-unit resname="LEA·172 | Sedge Troll | Card Text: Paragraph 2" xml:space="preserve">
         <source>{B}: Regenerate Sedge Troll.</source>
         <target state="translated">{B}：重生~。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="MIR·3 | Auspicious Ancestor | Card Text: Paragraph 2">
+        <source>Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.</source>
+        <target state="new"></target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
