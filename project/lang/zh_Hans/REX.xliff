@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1">
+    <file>
+        <body>
+            <trans-unit id="1d06f729-990b-4c2c-ad2a-c17449117f75" resname="REX·1 | Don't Move | Card Name">
+    <source>Don't Move</source>
+    <target state="translated">别动</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="1d06f729-990b-4c2c-ad2a-c17449117f75" resname="REX·1 | Don't Move | Card Text">
+    <source>Destroy all tapped creatures. Until your next turn, whenever a creature becomes tapped, destroy it.</source>
+    <target state="translated">消灭所有已横置的生物。直到你的下一个回合，每当一个生物成为横置时，将它消灭。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="1d06f729-990b-4c2c-ad2a-c17449117f75" resname="REX·1 | Don't Move | Flavor Text">
+    <source>"Keep absolutely still. Its vision is based on movement."\n—Alan Grant</source>
+    <target state="translated">「绝对不要动。它只会看见移动的物体。」
+～艾伦·格兰特</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="b6011e4b-a8a7-4cad-a276-c1022b45edc3" resname="REX·2 | Cresting Mosasaurus | Card Name">
+    <source>Cresting Mosasaurus</source>
+    <target state="translated">狂咬沧龙</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="b6011e4b-a8a7-4cad-a276-c1022b45edc3" resname="REX·2 | Cresting Mosasaurus | Card Text: Paragraph 1">
+    <source>Emerge {6}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)</source>
+    <target state="translated">化生{6}{U}（你可以牺牲一个生物并支付化生费用来施放此咒语，此时总费用会扣除该生物之法术力值。）</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="b6011e4b-a8a7-4cad-a276-c1022b45edc3" resname="REX·2 | Cresting Mosasaurus | Card Text: Paragraph 2">
+    <source>When Cresting Mosasaurus enters the battlefield, if you cast it, return each non-Dinosaur creature to its owner's hand.</source>
+    <target state="translated">当狂咬沧龙进战场时，若它经你施放，则将所有非恐龙生物移回其拥有者手上。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="b6011e4b-a8a7-4cad-a276-c1022b45edc3" resname="REX·2 | Cresting Mosasaurus | Flavor Text">
+    <source>It preyed on anything it could sink its teeth into.</source>
+    <target state="translated">它会捕食任何它能咬到的东西。</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="f4f0c479-5fd1-45c2-af3f-15b6e5811b0f" resname="REX·3 | Spitting Dilophosaurus | Card Name">
+    <source>Spitting Dilophosaurus</source>
+    <target state="translated">吐液双冠龙</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="f4f0c479-5fd1-45c2-af3f-15b6e5811b0f" resname="REX·3 | Spitting Dilophosaurus | Card Text: Paragraph 1">
+    <source>Whenever Spitting Dilophosaurus enters the battlefield or attacks, put a -1/-1 counter on up to one target creature.</source>
+    <target state="translated">每当吐液双冠龙进战场或攻击时，在至多一个目标生物上放置一个-1/-1指示物。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="f4f0c479-5fd1-45c2-af3f-15b6e5811b0f" resname="REX·3 | Spitting Dilophosaurus | Card Text: Paragraph 2">
+    <source>Creatures your opponents control with -1/-1 counters on them can't block.</source>
+    <target state="translated">由对手操控且其上有-1/-1指示物的生物不能进行阻挡。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="f4f0c479-5fd1-45c2-af3f-15b6e5811b0f" resname="REX·3 | Spitting Dilophosaurus | Flavor Text">
+    <source>"Nice boy . . . nice boy. Nice dinosaur!"</source>
+    <target state="translated">「好孩子…乖孩子。乖恐龙！」</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="e2c5c161-49c5-404d-bd8e-86e634222232" resname="REX·4 | Hunting Velociraptor | Card Name">
+    <source>Hunting Velociraptor</source>
+    <target state="translated">狩猎迅猛龙</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="e2c5c161-49c5-404d-bd8e-86e634222232" resname="REX·4 | Hunting Velociraptor | Card Text: Paragraph 1">
+    <source>First strike</source>
+    <target state="translated">先攻</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="e2c5c161-49c5-404d-bd8e-86e634222232" resname="REX·4 | Hunting Velociraptor | Card Text: Paragraph 2">
+    <source>Dinosaur spells you cast have prowl {2}{R}. (You may cast a spell for its prowl cost if you dealt combat damage to a player this turn with a creature with any of its creature types.)</source>
+    <target state="translated">你施放的恐龙咒语具有伺机{2}{R}。（如果你本回合中曾以与伺机咒语有共通生物类别的生物对任一牌手造成战斗伤害，则你可以支付该咒语的伺机费用来施放之。））</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="e2c5c161-49c5-404d-bd8e-86e634222232" resname="REX·4 | Hunting Velociraptor | Flavor Text">
+    <source>"Clever girl."\n—Robert Muldoon</source>
+    <target state="translated">「聪明的女孩。」
+～罗伯特·马尔登</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="72137cda-ab1b-4bb7-9190-66a954c36e1e" resname="REX·5 | Life Finds a Way | Card Name">
+    <source>Life Finds a Way</source>
+    <target state="translated">生命自有出路</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="72137cda-ab1b-4bb7-9190-66a954c36e1e" resname="REX·5 | Life Finds a Way | Card Text">
+    <source>Whenever a nontoken creature with power 4 or greater enters the battlefield under your control, populate. (Create a token that's a copy of a creature token you control.)</source>
+    <target state="translated">每当一个力量等于或大于4且非衍生物的生物在你的操控下进战场时，殖民。（派出一个衍生物，此衍生物为由你操控的某衍生生物之复制品。）</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="72137cda-ab1b-4bb7-9190-66a954c36e1e" resname="REX·5 | Life Finds a Way | Flavor Text">
+    <source>"Life breaks free. It expands to new territories and crashes through barriers. Painfully, maybe even dangerously. But, uh, well there it is."\n—Ian Malcolm</source>
+    <target state="translated">「生命会挣脱桎梏。它会扩展到新的领土，突破所有障碍。这个过程很辛苦，甚至会很危险。但是，呃，生命就是这样。」
+～伊恩·马科姆</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="f571ef55-50dd-4624-aa42-fea5a0303033" resname="REX·6 | Savage Order | Card Name">
+    <source>Savage Order</source>
+    <target state="translated">捕杀命令</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="f571ef55-50dd-4624-aa42-fea5a0303033" resname="REX·6 | Savage Order | Card Text: Paragraph 1">
+    <source>As an additional cost to cast this spell, sacrifice a creature with power 4 or greater.</source>
+    <target state="translated">牺牲一个力量等于或大于4的生物，以作为施放此咒语的额外费用。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="f571ef55-50dd-4624-aa42-fea5a0303033" resname="REX·6 | Savage Order | Card Text: Paragraph 2">
+    <source>Search your library for a Dinosaur creature card, put it onto the battlefield, then shuffle. It gains indestructible until your next turn.</source>
+    <target state="translated">从你牌库中搜寻一张恐龙生物牌，将之放进战场，然后洗牌。它获得不灭异能直到你的下一个回合。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="f571ef55-50dd-4624-aa42-fea5a0303033" resname="REX·6 | Savage Order | Flavor Text">
+    <source>"Well... it's a superpredator."\n—Billy Brennan</source>
+    <target state="translated">「嗯…是超级掠食者。」
+～比利·布伦南</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="6d84e2d4-38bf-4d46-99a6-37c2dda66b16" resname="REX·7 | Welcome to . . . | Card Name">
+    <source>Welcome to . . .</source>
+    <target state="translated">欢迎来到…</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="6d84e2d4-38bf-4d46-99a6-37c2dda66b16" resname="REX·7 | Welcome to . . . | Card Text">
+    <source>(As this Saga enters and after your draw step, add a lore counter.)
+I — For each opponent, up to one target noncreature artifact they control becomes a 0/4 Wall artifact creature with defender for as long as you control this Saga.
+II — Create a 3/3 green Dinosaur creature token with trample. It gains haste until end of turn.
+III — Destroy all Walls. Exile this Saga, then return it to the battlefield transformed under your control.</source>
+    <target state="translated">（于此传纪进战场时及于你抓牌步骤后，加一个学问指示物。）
+I — 为每位对手各选择至多一个目标由其操控且非生物的神器。于你操控此传纪的时段内，这些神器成为0/4具守军异能的墙神器生物。
+II — 派出一个3/3绿色，具践踏异能的恐龙衍生生物。它获得敏捷异能直到回合结束。
+III — 消灭所有墙。放逐此传纪，然后将它在你的操控下移回战场且已转化。
+</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="6d84e2d4-38bf-4d46-99a6-37c2dda66b16" resname="REX·7 | Jurassic Park | Card Name">
+    <source>Jurassic Park</source>
+    <target state="translated">侏罗纪公园</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="6d84e2d4-38bf-4d46-99a6-37c2dda66b16" resname="REX·7 | Jurassic Park | Card Text">
+    <source>(Transforms from Welcome to ....)
+Each Dinosaur card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)
+{T}: Add {G} for each Dinosaur you control.</source>
+    <target state="translated">（由欢迎来到…转化。）
+你坟墓场中的每张恐龙牌均具有逸脱异能。其逸脱费用等同于该牌的法术力费用加上从你的坟墓场放逐三张其他牌。（你可以从你的坟墓场施放牌，并支付其逸脱费用。）
+{T}：你每操控一个恐龙，便加{G}。
+</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="0a764ec9-6a30-4df3-91b4-c64fd8e32fa0" resname="REX·8 | Blue, Loyal Raptor | Card Name">
+    <source>Blue, Loyal Raptor</source>
+    <target state="translated">忠诚迅猛龙布鲁</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="0a764ec9-6a30-4df3-91b4-c64fd8e32fa0" resname="REX·8 | Blue, Loyal Raptor | Card Text: Paragraph 1">
+    <source>Partner with Owen Grady, Raptor Trainer (When this creature enters the battlefield, target player may put Owen into their hand from their library, then shuffle.)</source>
+    <target state="translated">与迅猛龙训练师欧文·格雷迪拍档（当此生物进战场时，目标牌手可以将欧文从其牌库置于其手上，然后洗牌。）</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="0a764ec9-6a30-4df3-91b4-c64fd8e32fa0" resname="REX·8 | Blue, Loyal Raptor | Card Text: Paragraph 2">
+    <source>For each kind of counter on Blue, Loyal Raptor, each other Dinosaur you control enters the battlefield with a counter of that kind on it.</source>
+    <target state="translated">每个由你操控的其他恐龙进战场时上面均有若干指示物，其种类与数量为「忠诚迅猛龙布鲁上的每种指示物各一个」。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="800871ee-7394-4a31-98a7-4b92860208a1" resname="REX·9 | Compy Swarm | Card Name">
+    <source>Compy Swarm</source>
+    <target state="translated">美颌龙大群</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="800871ee-7394-4a31-98a7-4b92860208a1" resname="REX·9 | Compy Swarm | Card Text">
+    <source>At the beginning of your end step, if a creature died this turn, create a tapped token that's a copy of Compy Swarm.</source>
+    <target state="translated">在你的结束步骤开始时，若本回合中有生物死去，则派出一个已横置的衍生物，此衍生物为美颌龙大群的复制品。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="800871ee-7394-4a31-98a7-4b92860208a1" resname="REX·9 | Compy Swarm | Flavor Text">
+    <source>"There's no reason for it to fear man."\n—Robert Burke</source>
+    <target state="translated">「它没有道理要怕人类。」
+～罗伯特·伯克</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="c40b25d7-73c9-4f30-a707-5afb08185a8d" resname="REX·10 | Ellie and Alan, Paleontologists | Card Name">
+    <source>Ellie and Alan, Paleontologists</source>
+    <target state="translated">古生物学家艾丽与艾伦</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="c40b25d7-73c9-4f30-a707-5afb08185a8d" resname="REX·10 | Ellie and Alan, Paleontologists | Card Text">
+    <source>{T}, Exile a creature card from your graveyard: Discover X, where X is the mana value of the exiled card. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with that mana value or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</source>
+    <target state="translated">{T}，从你的坟墓场放逐一张生物牌：倾探X，X为所放逐之牌的法术力值。只能于法术时机起动。（从你的牌库顶开始放逐牌，直到放逐一张法术力值等于或小于该数值的非地牌为止。施放之且不需支付其法术力费用，或将之置于你手上。将其余的牌以随机顺序置于你牌库底。）</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="ae30b824-9586-413b-b925-ce6f915bf7e5" resname="REX·11 | Grim Giganotosaurus | Card Name">
+    <source>Grim Giganotosaurus</source>
+    <target state="translated">阴森南巨龙</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="ae30b824-9586-413b-b925-ce6f915bf7e5" resname="REX·11 | Grim Giganotosaurus | Card Text: Paragraph 1">
+    <source>{10}{B}{G}: Monstrosity 10. This ability costs {1} less to activate for each creature with power 4 or greater your opponents control. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)</source>
+    <target state="translated">{10}{B}{G}：蛮化10。对手每操控一个力量等于或大于4的生物，此异能便减少{1}来起动。（如果此生物未蛮化，则在其上放置十个+1/+1指示物且它已蛮化。）</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="ae30b824-9586-413b-b925-ce6f915bf7e5" resname="REX·11 | Grim Giganotosaurus | Card Text: Paragraph 2">
+    <source>When Grim Giganotosaurus becomes monstrous, destroy all artifacts and creatures other than Grim Giganotosaurus.</source>
+    <target state="translated">当阴森南巨龙蛮化时，消灭阴森南巨龙以外的所有神器和生物。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="5b67d302-ddaa-4627-adc8-86bb665f69ad" resname="REX·12 | Henry Wu, InGen Geneticist | Card Name">
+    <source>Henry Wu, InGen Geneticist</source>
+    <target state="translated">基因科技遗传学家吴亨利</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="5b67d302-ddaa-4627-adc8-86bb665f69ad" resname="REX·12 | Henry Wu, InGen Geneticist | Card Text: Paragraph 1">
+    <source>Henry Wu, InGen Geneticist and other Human creatures you control have exploit. (When a creature with exploit enters the battlefield, you may sacrifice a creature.)</source>
+    <target state="translated">基因科技遗传学家吴亨利和由你操控的其他人类生物具有榨取异能。（当具榨取异能的生物进战场时，你可以牺牲一个生物。）</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="5b67d302-ddaa-4627-adc8-86bb665f69ad" resname="REX·12 | Henry Wu, InGen Geneticist | Card Text: Paragraph 2">
+    <source>Whenever a creature you control exploits a non-Human creature, draw a card. If the exploited creature had power 3 or greater, create a Treasure token.</source>
+    <target state="translated">每当一个由你操控的生物榨取一个非人类生物时，抓一张牌。如果所榨取的生物力量等于或大于3，则派出一个珍宝衍生物。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="b4a0402e-e39b-4008-b654-189b4a5e03a3" resname="REX·13 | Ian Malcolm, Chaotician | Card Name">
+    <source>Ian Malcolm, Chaotician</source>
+    <target state="translated">混沌学家伊恩·马科姆</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="b4a0402e-e39b-4008-b654-189b4a5e03a3" resname="REX·13 | Ian Malcolm, Chaotician | Card Text: Paragraph 1">
+    <source>Whenever a player draws their second card each turn, that player exiles the top card of their library.</source>
+    <target state="translated">每当任一牌手抓每回合中其第二张牌时，该牌手放逐其牌库顶牌。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="b4a0402e-e39b-4008-b654-189b4a5e03a3" resname="REX·13 | Ian Malcolm, Chaotician | Card Text: Paragraph 2">
+    <source>During each player's turn, that player may cast a spell from among the cards they don't own exiled with Ian Malcolm, Chaotician, and mana of any type can be spent to cast it.</source>
+    <target state="translated">于每位牌手的回合中，该牌手可以从以混沌学家伊恩·马科姆放逐、且不由其拥有的牌之中施放一个咒语，且能用任意种类的法术力来施放之。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="b4a0402e-e39b-4008-b654-189b4a5e03a3" resname="REX·13 | Ian Malcolm, Chaotician | Flavor Text">
+    <source>"You've heard of chaos theory?"</source>
+    <target state="translated">「你们听过混沌理论吗？」</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="25e6ebfb-8f0b-44f0-a911-103ade41c6bc" resname="REX·14 | Indominus Rex, Alpha | Card Name">
+    <source>Indominus Rex, Alpha</source>
+    <target state="translated">恐龙之首暴虐霸王龙</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="25e6ebfb-8f0b-44f0-a911-103ade41c6bc" resname="REX·14 | Indominus Rex, Alpha | Card Text: Paragraph 1">
+    <source>As Indominus Rex, Alpha enters the battlefield, discard any number of creature cards. It enters with a flying counter on it if a card discarded this way has flying. The same is true for first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, trample, and vigilance.</source>
+    <target state="translated">于恐龙之首暴虐霸王龙进战场时，弃任意数量的生物牌。如果某张以此法弃掉的牌具有飞行异能，则它进战场时上面有一个飞行指示物。且先攻、连击、死触、辟邪、敏捷、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="25e6ebfb-8f0b-44f0-a911-103ade41c6bc" resname="REX·14 | Indominus Rex, Alpha | Card Text: Paragraph 2">
+    <source>When Indominus Rex enters the battlefield, draw a card for each counter on it.</source>
+    <target state="translated">当暴虐霸王龙进战场时，其上每有一个指示物，便抓一张牌。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="3826e2af-c134-4dc1-98b5-574b1bda9a98" resname="REX·15 | Indoraptor, the Perfect Hybrid | Card Name">
+    <source>Indoraptor, the Perfect Hybrid</source>
+    <target state="translated">完美混种暴虐迅猛龙</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="3826e2af-c134-4dc1-98b5-574b1bda9a98" resname="REX·15 | Indoraptor, the Perfect Hybrid | Card Text: Paragraph 1">
+    <source>Bloodthirst X (This creature enters the battlefield with X +1/+1 counters on it, where X is the damage dealt to your opponents this turn.)</source>
+    <target state="translated">嗜血X（此生物进战场时上面有X个+1/+1指示物，X为对手本回合受过的伤害数量。）</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="3826e2af-c134-4dc1-98b5-574b1bda9a98" resname="REX·15 | Indoraptor, the Perfect Hybrid | Card Text: Paragraph 2">
+    <source>Menace</source>
+    <target state="translated">威慑</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="3826e2af-c134-4dc1-98b5-574b1bda9a98" resname="REX·15 | Indoraptor, the Perfect Hybrid | Card Text: Paragraph 3">
+    <source>Enrage — Whenever Indoraptor, the Perfect Hybrid is dealt damage, choose an opponent at random. Indoraptor deals damage equal to its power to that player unless they sacrifice a nontoken creature.</source>
+    <target state="translated">激怒～每当完美混种暴虐迅猛龙受到伤害时，随机选择一位对手。除非该牌手牺牲一个非衍生物的生物，否则暴虐迅猛龙对该牌手造成等同于其力量的伤害。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="a85a1e4c-af02-4072-872f-956fa74f8aa6" resname="REX·16 | Owen Grady, Raptor Trainer | Card Name">
+    <source>Owen Grady, Raptor Trainer</source>
+    <target state="translated">迅猛龙驯师欧文·格雷迪</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="a85a1e4c-af02-4072-872f-956fa74f8aa6" resname="REX·16 | Owen Grady, Raptor Trainer | Card Text: Paragraph 1">
+    <source>Partner with Blue, Loyal Raptor</source>
+    <target state="translated">与忠诚迅猛龙布鲁拍档</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="a85a1e4c-af02-4072-872f-956fa74f8aa6" resname="REX·16 | Owen Grady, Raptor Trainer | Card Text: Paragraph 2">
+    <source>{T}: Put your choice of a menace, trample, reach, or haste counter on target Dinosaur. Activate only as a sorcery.</source>
+    <target state="translated">{T}：在目标恐龙上依你的选择放置一个威慑，践踏，延势或敏捷指示物。只能于法术时机起动。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="a85a1e4c-af02-4072-872f-956fa74f8aa6" resname="REX·16 | Owen Grady, Raptor Trainer | Flavor Text">
+    <source>"I don't control the raptors. It's a relationship. It's based on mutual respect."</source>
+    <target state="translated">「我不控制迅猛龙，我和它们建立关系。我们互相尊重。」</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="c3e8dd5a-d52d-481d-b48c-1392462beb33" resname="REX·17 | Permission Denied | Card Name">
+    <source>Permission Denied</source>
+    <target state="translated">权限遭拒</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="c3e8dd5a-d52d-481d-b48c-1392462beb33" resname="REX·17 | Permission Denied | Card Text">
+    <source>Counter target noncreature spell. Your opponents can't cast noncreature spells this turn.</source>
+    <target state="translated">反击目标非生物咒语。所有对手本回合都不能施放非生物咒语。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="c3e8dd5a-d52d-481d-b48c-1392462beb33" resname="REX·17 | Permission Denied | Flavor Text">
+    <source>"Ah, ah, ah! You didn't say the magic word."</source>
+    <target state="translated">「啊，啊，啊！你没念开门咒。」</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="2be38927-637b-4dce-b228-83ce4f50c4a4" resname="REX·18 | Ravenous Tyrannosaurus | Card Name">
+    <source>Ravenous Tyrannosaurus</source>
+    <target state="translated">血口霸王龙</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="2be38927-637b-4dce-b228-83ce4f50c4a4" resname="REX·18 | Ravenous Tyrannosaurus | Card Text: Paragraph 1">
+    <source>Devour 3 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with three times that many +1/+1 counters on it.)</source>
+    <target state="translated">吞噬3（于它进战场时，你可以牺牲任意数量的生物。此生物进战场时上面有该数量三倍的+1/+1指示物。）</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="2be38927-637b-4dce-b228-83ce4f50c4a4" resname="REX·18 | Ravenous Tyrannosaurus | Card Text: Paragraph 2">
+    <source>Whenever Ravenous Tyrannosaurus attacks, it deals damage equal to its power to up to one other target creature. Excess damage is dealt to that creature's controller instead.</source>
+    <target state="translated">每当血口霸王龙攻击时，它对至多另一个目标生物造成伤害，其数量等同于前者的力量。过量伤害改为对该生物的操控者造成之。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="43aa5d97-7483-4f90-998d-70732a7ae1dc" resname="REX·19 | Swooping Pteranodon | Card Name">
+    <source>Swooping Pteranodon</source>
+    <target state="translated">扑袭无齿翼龙</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="43aa5d97-7483-4f90-998d-70732a7ae1dc" resname="REX·19 | Swooping Pteranodon | Card Text: Paragraph 1">
+    <source>Flying, haste</source>
+    <target state="translated">飞行，敏捷</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="43aa5d97-7483-4f90-998d-70732a7ae1dc" resname="REX·19 | Swooping Pteranodon | Card Text: Paragraph 2">
+    <source>Whenever Swooping Pteranodon or another Dinosaur with flying enters the battlefield under your control, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains flying and haste until end of turn. At the beginning of the next end step, target land deals 3 damage to that creature.</source>
+    <target state="translated">每当扑袭无齿翼龙或另一个具飞行异能的恐龙在你操控下进战场时，获得目标由对手操控之生物的操控权直到回合结束。重置该生物。它获得飞行与敏捷异能直到回合结束。在下一个结束步骤开始时，目标地对该生物造成3点伤害。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="ceb287d3-cb8e-4ff2-8082-c0bd59c59b45" resname="REX·20 | Dino DNA | Card Name">
+    <source>Dino DNA</source>
+    <target state="translated">恐龙基因</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="ceb287d3-cb8e-4ff2-8082-c0bd59c59b45" resname="REX·20 | Dino DNA | Card Text: Paragraph 1">
+    <source>Imprint — {1}, {T}: Exile target creature card from a graveyard. Activate only as a sorcery.</source>
+    <target state="translated">压印～{1}，{T}：将目标生物牌从坟墓场放逐。只能于法术时机起动。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="ceb287d3-cb8e-4ff2-8082-c0bd59c59b45" resname="REX·20 | Dino DNA | Card Text: Paragraph 2">
+    <source>{6}: Create a token that's a copy of target creature card exiled with Dino DNA, except it's a 6/6 green Dinosaur creature with trample. Activate only as a sorcery.</source>
+    <target state="translated">{6}：派出一个衍生物，此衍生物为目标以恐龙基因放逐之牌的复制品，但它是6/6绿色，具践踏异能的恐龙生物。只能于法术时机起动。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="ceb287d3-cb8e-4ff2-8082-c0bd59c59b45" resname="REX·20 | Dino DNA | Flavor Text">
+    <source>"Dinosaurs left their blueprints behind for us."\n—Mr. DNA</source>
+    <target state="translated">「恐龙也留下了它们的蓝图，待我们去寻找。」
+～DNA先生</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5" resname="REX·21 | Plains | Card Name">
+    <source>Plains</source>
+    <target state="translated">平原</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5" resname="REX·21 | Plains | Card Text">
+    <source>({T}: Add {W}.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5" resname="REX·21 | Plains | Card Name">
+    <source>Plains</source>
+    <target state="translated">平原</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="6620b5f4-b1e5-4d1b-bbf2-c6ad9c8284c5" resname="REX·21 | Plains | Card Text">
+    <source>({T}: Add {W}.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="76c343f5-6955-4ba2-a435-36d55182d1dd" resname="REX·22 | Island | Card Name">
+    <source>Island</source>
+    <target state="translated">海岛</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="76c343f5-6955-4ba2-a435-36d55182d1dd" resname="REX·22 | Island | Card Text">
+    <source>({T}: Add {U}.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="76c343f5-6955-4ba2-a435-36d55182d1dd" resname="REX·22 | Island | Card Name">
+    <source>Island</source>
+    <target state="translated">海岛</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="76c343f5-6955-4ba2-a435-36d55182d1dd" resname="REX·22 | Island | Card Text">
+    <source>({T}: Add {U}.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="843b35ec-7b59-4a22-8fee-2e876a02306b" resname="REX·23 | Swamp | Card Name">
+    <source>Swamp</source>
+    <target state="translated">沼泽</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="843b35ec-7b59-4a22-8fee-2e876a02306b" resname="REX·23 | Swamp | Card Text">
+    <source>({T}: Add {B}.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="843b35ec-7b59-4a22-8fee-2e876a02306b" resname="REX·23 | Swamp | Card Name">
+    <source>Swamp</source>
+    <target state="translated">沼泽</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="843b35ec-7b59-4a22-8fee-2e876a02306b" resname="REX·23 | Swamp | Card Text">
+    <source>({T}: Add {B}.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="aae84079-b65b-4132-86fb-e82503bb6c7b" resname="REX·24 | Mountain | Card Name">
+    <source>Mountain</source>
+    <target state="translated">山脉</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="aae84079-b65b-4132-86fb-e82503bb6c7b" resname="REX·24 | Mountain | Card Text">
+    <source>({T}: Add {R}.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="aae84079-b65b-4132-86fb-e82503bb6c7b" resname="REX·24 | Mountain | Card Name">
+    <source>Mountain</source>
+    <target state="translated">山脉</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="aae84079-b65b-4132-86fb-e82503bb6c7b" resname="REX·24 | Mountain | Card Text">
+    <source>({T}: Add {R}.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="7e703632-5ed0-4509-a12b-594269f865f1" resname="REX·25 | Forest | Card Name">
+    <source>Forest</source>
+    <target state="translated">树林</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="7e703632-5ed0-4509-a12b-594269f865f1" resname="REX·25 | Forest | Card Text">
+    <source>({T}: Add {G}.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="7e703632-5ed0-4509-a12b-594269f865f1" resname="REX·25 | Forest | Card Name">
+    <source>Forest</source>
+    <target state="translated">树林</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="7e703632-5ed0-4509-a12b-594269f865f1" resname="REX·25 | Forest | Card Text">
+    <source>({T}: Add {G}.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="bffbe9ec-edbc-43ed-a3bf-60635e7e625c" resname="REX·26 | Command Tower | Card Name">
+    <source>Command Tower</source>
+    <target state="translated">指挥塔</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="bffbe9ec-edbc-43ed-a3bf-60635e7e625c" resname="REX·26 | Command Tower | Card Text">
+    <source>{T}: Add one mana of any color in your commander's color identity.</source>
+    <target state="translated">{T}：加一点法术力，其颜色为你指挥官标识色中的任意颜色。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="bffbe9ec-edbc-43ed-a3bf-60635e7e625c" resname="REX·26 | Command Tower | Flavor Text">
+    <source>"Corporate felt genetic modification would up the 'wow' factor."\n—Claire Dearing</source>
+    <target state="translated">「公司觉得基因改造后会更『劲爆』。」
+～克莱尔·迪林</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="bffbe9ec-edbc-43ed-a3bf-60635e7e625c" resname="REX·26 | Command Tower | Card Name">
+    <source>Command Tower</source>
+    <target state="translated">指挥塔</target>
+    <note from="developer" priority="1" category="card_name"></note>
+</trans-unit>
+<trans-unit id="bffbe9ec-edbc-43ed-a3bf-60635e7e625c" resname="REX·26 | Command Tower | Card Text">
+    <source>{T}: Add one mana of any color in your commander's color identity.</source>
+    <target state="translated">{T}：加一点法术力，其颜色为你指挥官标识色中的任意颜色。</target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="bffbe9ec-edbc-43ed-a3bf-60635e7e625c" resname="REX·26 | Command Tower | Flavor Text">
+    <source>"They're dinosaurs. 'Wow' enough."\n—Owen Grady</source>
+    <target state="translated">「它们是恐龙。已经够『劲爆』了。」
+～欧文·格雷迪</target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="ebcadd5b-bc0a-4a0b-b04f-7f49e50373b2" resname="REX·27 | Don't Move | Card Text">
+    <source>Destroy all tapped creatures. Until your next turn, whenever a creature becomes tapped, destroy it.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="ebcadd5b-bc0a-4a0b-b04f-7f49e50373b2" resname="REX·27 | Don't Move | Flavor Text">
+    <source>"Keep absolutely still. Its vision is based on movement."\n—Alan Grant</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="4de4a3a6-f50d-4fea-80a4-5615266189f1" resname="REX·28 | Cresting Mosasaurus | Card Text">
+    <source>Emerge {6}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When Cresting Mosasaurus enters the battlefield, if you cast it, return each non-Dinosaur creature to its owner's hand.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="4de4a3a6-f50d-4fea-80a4-5615266189f1" resname="REX·28 | Cresting Mosasaurus | Flavor Text">
+    <source>It preyed on anything it could sink its teeth into.</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="cd062615-648f-4cc7-9373-520f3f6a90e3" resname="REX·29 | Spitting Dilophosaurus | Card Text">
+    <source>Whenever Spitting Dilophosaurus enters the battlefield or attacks, put a -1/-1 counter on up to one target creature.
+Creatures your opponents control with -1/-1 counters on them can't block.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="cd062615-648f-4cc7-9373-520f3f6a90e3" resname="REX·29 | Spitting Dilophosaurus | Flavor Text">
+    <source>"Nice boy . . . nice boy. Nice dinosaur!"</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="419ef4a1-20d2-4770-99a5-7673518d0b86" resname="REX·30 | Hunting Velociraptor | Card Text">
+    <source>First strike
+Dinosaur spells you cast have prowl {2}{R}. (You may cast a spell for its prowl cost if you dealt combat damage to a player this turn with a creature with any of its creature types.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="419ef4a1-20d2-4770-99a5-7673518d0b86" resname="REX·30 | Hunting Velociraptor | Flavor Text">
+    <source>"Clever girl."\n—Robert Muldoon</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="5d095694-9016-4b1b-81d0-ffa1fc7662a3" resname="REX·31 | Life Finds a Way | Card Text">
+    <source>Whenever a nontoken creature with power 4 or greater enters the battlefield under your control, populate. (Create a token that's a copy of a creature token you control.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="5d095694-9016-4b1b-81d0-ffa1fc7662a3" resname="REX·31 | Life Finds a Way | Flavor Text">
+    <source>"Life breaks free. It expands to new territories and crashes through barriers. Painfully, maybe even dangerously. But, uh, well there it is."\n—Ian Malcolm</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="e01e2ded-f3ed-41c2-b200-6573d2c15611" resname="REX·32 | Savage Order | Card Text">
+    <source>As an additional cost to cast this spell, sacrifice a creature with power 4 or greater.
+Search your library for a Dinosaur creature card, put it onto the battlefield, then shuffle. It gains indestructible until your next turn.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="e01e2ded-f3ed-41c2-b200-6573d2c15611" resname="REX·32 | Savage Order | Flavor Text">
+    <source>"Well... it's a superpredator."\n—Billy Brennan</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="f197b176-8fa0-451b-a981-a7a942890296" resname="REX·33 | Blue, Loyal Raptor | Card Text">
+    <source>Partner with Owen Grady, Raptor Trainer (When this creature enters the battlefield, target player may put Owen into their hand from their library, then shuffle.)
+For each kind of counter on Blue, Loyal Raptor, each other Dinosaur you control enters the battlefield with a counter of that kind on it.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="801b3fc9-722d-497a-a1ae-c3a158d5ca64" resname="REX·34 | Compy Swarm | Card Text">
+    <source>At the beginning of your end step, if a creature died this turn, create a tapped token that's a copy of Compy Swarm.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="801b3fc9-722d-497a-a1ae-c3a158d5ca64" resname="REX·34 | Compy Swarm | Flavor Text">
+    <source>"There's no reason for it to fear man."\n—Robert Burke</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="a4c6aac8-2852-4948-9be1-b458f646f6c6" resname="REX·35 | Ellie and Alan, Paleontologists | Card Text">
+    <source>{T}, Exile a creature card from your graveyard: Discover X, where X is the mana value of the exiled card. Activate only as a sorcery. (Exile cards from the top of your library until you exile a nonland card with that mana value or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="00d7d3e5-ae59-497b-a376-8a553f2020eb" resname="REX·36 | Grim Giganotosaurus | Card Text">
+    <source>{10}{B}{G}: Monstrosity 10. This ability costs {1} less to activate for each creature with power 4 or greater your opponents control. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)
+When Grim Giganotosaurus becomes monstrous, destroy all artifacts and creatures other than Grim Giganotosaurus.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="c4150d37-36f2-49ba-8830-0bfa1d4df6e3" resname="REX·37 | Henry Wu, InGen Geneticist | Card Text">
+    <source>Henry Wu, InGen Geneticist and other Human creatures you control have exploit. (When a creature with exploit enters the battlefield, you may sacrifice a creature.)
+Whenever a creature you control exploits a non-Human creature, draw a card. If the exploited creature had power 3 or greater, create a Treasure token.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="311b5a21-544c-4096-87cd-17e5a8c4b0fc" resname="REX·38 | Ian Malcolm, Chaotician | Card Text">
+    <source>Whenever a player draws their second card each turn, that player exiles the top card of their library.
+During each player's turn, that player may cast a spell from among the cards they don't own exiled with Ian Malcolm, Chaotician, and mana of any type can be spent to cast it.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="311b5a21-544c-4096-87cd-17e5a8c4b0fc" resname="REX·38 | Ian Malcolm, Chaotician | Flavor Text">
+    <source>"You've heard of chaos theory?"</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="9113178d-7e2e-4248-a338-f3b5f0bad301" resname="REX·39 | Indominus Rex, Alpha | Card Text">
+    <source>As Indominus Rex, Alpha enters the battlefield, discard any number of creature cards. It enters with a flying counter on it if a card discarded this way has flying. The same is true for first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, trample, and vigilance.
+When Indominus Rex enters the battlefield, draw a card for each counter on it.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="194406d0-7065-4c28-9771-52c179ce4d94" resname="REX·40 | Indoraptor, the Perfect Hybrid | Card Text">
+    <source>Bloodthirst X (This creature enters the battlefield with X +1/+1 counters on it, where X is the damage dealt to your opponents this turn.)
+Menace
+Enrage — Whenever Indoraptor, the Perfect Hybrid is dealt damage, choose an opponent at random. Indoraptor deals damage equal to its power to that player unless they sacrifice a nontoken creature.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="d69d3be4-3ab2-426e-90a0-848acf7c2cdb" resname="REX·41 | Owen Grady, Raptor Trainer | Card Text">
+    <source>Partner with Blue, Loyal Raptor
+{T}: Put your choice of a menace, trample, reach, or haste counter on target Dinosaur. Activate only as a sorcery.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="d69d3be4-3ab2-426e-90a0-848acf7c2cdb" resname="REX·41 | Owen Grady, Raptor Trainer | Flavor Text">
+    <source>"I don't control the raptors. It's a relationship. It's based on mutual respect."</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="678ad86d-6b2b-4e66-a535-9fc696cfa4ab" resname="REX·42 | Permission Denied | Card Text">
+    <source>Counter target noncreature spell. Your opponents can't cast noncreature spells this turn.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="678ad86d-6b2b-4e66-a535-9fc696cfa4ab" resname="REX·42 | Permission Denied | Flavor Text">
+    <source>"Ah, ah, ah! You didn't say the magic word."</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+<trans-unit id="64d141ed-31ed-4d05-9338-8bb7ff05d382" resname="REX·43 | Ravenous Tyrannosaurus | Card Text">
+    <source>Devour 3 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with three times that many +1/+1 counters on it.)
+Whenever Ravenous Tyrannosaurus attacks, it deals damage equal to its power to up to one other target creature. Excess damage is dealt to that creature's controller instead.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="33e9046c-6b87-429a-ac67-43b166469265" resname="REX·44 | Swooping Pteranodon | Card Text">
+    <source>Flying, haste
+Whenever Swooping Pteranodon or another Dinosaur with flying enters the battlefield under your control, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains flying and haste until end of turn. At the beginning of the next end step, target land deals 3 damage to that creature.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="f5f192d0-6265-41a7-8d95-4cbe48d1657f" resname="REX·45 | Dino DNA | Card Text">
+    <source>Imprint — {1}, {T}: Exile target creature card from a graveyard. Activate only as a sorcery.
+{6}: Create a token that's a copy of target creature card exiled with Dino DNA, except it's a 6/6 green Dinosaur creature with trample. Activate only as a sorcery.</source>
+    <target state="translated"></target>
+    <note from="developer" priority="1" category="card_text"></note>
+</trans-unit>
+<trans-unit id="f5f192d0-6265-41a7-8d95-4cbe48d1657f" resname="REX·45 | Dino DNA | Flavor Text">
+    <source>"Dinosaurs left their blueprints behind for us."\n—Mr. DNA</source>
+    <target state="needs-translation"></target>
+    <note from="developer" priority="1" category="flavor_text"></note>
+</trans-unit>
+
+        </body>
+    </file>
+</xliff>

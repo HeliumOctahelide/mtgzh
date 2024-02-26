@@ -8,7 +8,8 @@
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="e107bd35-eddd-40f7-aea8-3a1eec3363c0" resname="C13·1 | Act of Authority | Card Text">
-    <source>When Act of Authority enters the battlefield, you may exile target artifact or enchantment.\nAt the beginning of your upkeep, you may exile target artifact or enchantment. If you do, its controller gains control of Act of Authority.</source>
+    <source>When Act of Authority enters the battlefield, you may exile target artifact or enchantment.
+At the beginning of your upkeep, you may exile target artifact or enchantment. If you do, its controller gains control of Act of Authority.</source>
     <target state="translated">When Act of Authority enters the battlefield, you may exile target artifact or enchantment.
 At the beginning of your upkeep, you may exile target artifact or enchantment. If you do, its controller gains control of Act of Authority.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -78,19 +79,13 @@ At the beginning of your upkeep, you may exile target artifact or enchantment. I
     <target state="translated">Azorius Herald</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="813cea4e-1e87-4d2f-a580-16805ff53ff0" resname="C13·6 | Azorius Herald | Card Text: Paragraph 1">
-    <source>Azorius Herald can't be blocked.</source>
-    <target state="translated">Azorius Herald can't be blocked.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="813cea4e-1e87-4d2f-a580-16805ff53ff0" resname="C13·6 | Azorius Herald | Card Text: Paragraph 2">
-    <source>When Azorius Herald enters the battlefield, you gain 4 life.</source>
-    <target state="translated">When Azorius Herald enters the battlefield, you gain 4 life.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="813cea4e-1e87-4d2f-a580-16805ff53ff0" resname="C13·6 | Azorius Herald | Card Text: Paragraph 3">
-    <source>When Azorius Herald enters the battlefield, sacrifice it unless {U} was spent to cast it.</source>
-    <target state="translated">When Azorius Herald enters the battlefield, sacrifice it unless {U} was spent to cast it.</target>
+<trans-unit id="813cea4e-1e87-4d2f-a580-16805ff53ff0" resname="C13·6 | Azorius Herald | Card Text">
+    <source>Azorius Herald can't be blocked.
+When Azorius Herald enters the battlefield, you gain 4 life.
+When Azorius Herald enters the battlefield, sacrifice it unless {U} was spent to cast it.</source>
+    <target state="translated">Azorius Herald can't be blocked.
+When Azorius Herald enters the battlefield, you gain 4 life.
+When Azorius Herald enters the battlefield, sacrifice it unless {U} was spent to cast it.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="813cea4e-1e87-4d2f-a580-16805ff53ff0" resname="C13·6 | Azorius Herald | Flavor Text">
@@ -119,7 +114,8 @@ At the beginning of your upkeep, you may exile target artifact or enchantment. I
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="5f0ff150-e9cc-4e20-96e4-6d6bce8d83c3" resname="C13·8 | Curse of the Forsaken | Card Text">
-    <source>Enchant player\nWhenever a creature attacks enchanted player, its controller gains 1 life.</source>
+    <source>Enchant player
+Whenever a creature attacks enchanted player, its controller gains 1 life.</source>
     <target state="translated">Enchant player
 Whenever a creature attacks enchanted player, its controller gains 1 life.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -134,14 +130,11 @@ Whenever a creature attacks enchanted player, its controller gains 1 life.</targ
     <target state="translated">Darksteel Mutation</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="df7d800b-0120-4036-81d7-dec60ccc8057" resname="C13·9 | Darksteel Mutation | Card Text: Paragraph 1">
-    <source>Enchant creature</source>
-    <target state="translated">Enchant creature</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="df7d800b-0120-4036-81d7-dec60ccc8057" resname="C13·9 | Darksteel Mutation | Card Text: Paragraph 2">
-    <source>Enchanted creature is a 0/1 Insect artifact creature with indestructible and loses all other abilities.</source>
-    <target state="translated">Enchanted creature is a 0/1 Insect artifact creature with indestructible and loses all other abilities.</target>
+<trans-unit id="df7d800b-0120-4036-81d7-dec60ccc8057" resname="C13·9 | Darksteel Mutation | Card Text">
+    <source>Enchant creature
+Enchanted creature is a 0/1 Insect artifact creature with indestructible and loses all other abilities.</source>
+    <target state="translated">Enchant creature
+Enchanted creature is a 0/1 Insect artifact creature with indestructible and loses all other abilities.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="df7d800b-0120-4036-81d7-dec60ccc8057" resname="C13·9 | Darksteel Mutation | Flavor Text">
@@ -155,7 +148,8 @@ Whenever a creature attacks enchanted player, its controller gains 1 life.</targ
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="2a57191e-58a8-4ba9-8b5d-5a4e5a08b404" resname="C13·10 | Eternal Dragon | Card Text">
-    <source>Flying{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)</source>
+    <source>Flying{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)</source>
     <target state="translated">Flying{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
 Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -165,14 +159,11 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
     <target state="translated">Fiend Hunter</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="c0037568-4cc0-4af7-a5bd-e51aea9f0e83" resname="C13·11 | Fiend Hunter | Card Text: Paragraph 1">
-    <source>When Fiend Hunter enters the battlefield, you may exile another target creature.</source>
-    <target state="translated">When Fiend Hunter enters the battlefield, you may exile another target creature.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="c0037568-4cc0-4af7-a5bd-e51aea9f0e83" resname="C13·11 | Fiend Hunter | Card Text: Paragraph 2">
-    <source>When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.</source>
-    <target state="translated">When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.</target>
+<trans-unit id="c0037568-4cc0-4af7-a5bd-e51aea9f0e83" resname="C13·11 | Fiend Hunter | Card Text">
+    <source>When Fiend Hunter enters the battlefield, you may exile another target creature.
+When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.</source>
+    <target state="translated">When Fiend Hunter enters the battlefield, you may exile another target creature.
+When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="0113159a-f971-460a-b9fc-42530484c852" resname="C13·12 | Flickerform | Card Name">
@@ -190,14 +181,11 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
     <target state="translated">Flickerwisp</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="99f9b749-9a94-4c8a-b618-bd2834e4c199" resname="C13·13 | Flickerwisp | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="99f9b749-9a94-4c8a-b618-bd2834e4c199" resname="C13·13 | Flickerwisp | Card Text: Paragraph 2">
-    <source>When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.</source>
-    <target state="translated">When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.</target>
+<trans-unit id="99f9b749-9a94-4c8a-b618-bd2834e4c199" resname="C13·13 | Flickerwisp | Card Text">
+    <source>Flying
+When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.</source>
+    <target state="translated">Flying
+When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="99f9b749-9a94-4c8a-b618-bd2834e4c199" resname="C13·13 | Flickerwisp | Flavor Text">
@@ -210,19 +198,13 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
     <target state="translated">Karmic Guide</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="7a31d971-4bc6-4507-a66d-3529735e195e" resname="C13·14 | Karmic Guide | Card Text: Paragraph 1">
-    <source>Flying, protection from black</source>
-    <target state="translated">Flying, protection from black</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="7a31d971-4bc6-4507-a66d-3529735e195e" resname="C13·14 | Karmic Guide | Card Text: Paragraph 2">
-    <source>Echo {3}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</source>
-    <target state="translated">Echo {3}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="7a31d971-4bc6-4507-a66d-3529735e195e" resname="C13·14 | Karmic Guide | Card Text: Paragraph 3">
-    <source>When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield.</source>
-    <target state="translated">When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield.</target>
+<trans-unit id="7a31d971-4bc6-4507-a66d-3529735e195e" resname="C13·14 | Karmic Guide | Card Text">
+    <source>Flying, protection from black
+Echo {3}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield.</source>
+    <target state="translated">Flying, protection from black
+Echo {3}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="03166ed0-ace1-420c-a703-06d5ad9a812f" resname="C13·15 | Kirtar's Wrath | Card Name">
@@ -230,27 +212,24 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
     <target state="translated">Kirtar's Wrath</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="03166ed0-ace1-420c-a703-06d5ad9a812f" resname="C13·15 | Kirtar's Wrath | Card Text: Paragraph 1">
-    <source>Destroy all creatures. They can't be regenerated.</source>
-    <target state="translated">Destroy all creatures. They can't be regenerated.</target>
+<trans-unit id="03166ed0-ace1-420c-a703-06d5ad9a812f" resname="C13·15 | Kirtar's Wrath | Card Text">
+    <source>Destroy all creatures. They can't be regenerated.
+Threshold — If seven or more cards are in your graveyard, instead destroy all creatures, then put two 1/1 white Spirit creature tokens with flying onto the battlefield. Creatures destroyed this way can't be regenerated.</source>
+    <target state="translated">Destroy all creatures. They can't be regenerated.
+Threshold — If seven or more cards are in your graveyard, instead destroy all creatures, then put two 1/1 white Spirit creature tokens with flying onto the battlefield. Creatures destroyed this way can't be regenerated.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
-<trans-unit id="03166ed0-ace1-420c-a703-06d5ad9a812f" resname="C13·15 | Kirtar's Wrath | Card Text: Paragraph 2">
-    <source>Threshold — If seven or more cards are in your graveyard, instead destroy all creatures, then put two 1/1 white Spirit creature tokens with flying onto the battlefield. Creatures destroyed this way can't be regenerated.</source>
-    <target state="translated">Threshold — If seven or more cards are in your graveyard, instead destroy all creatures, then put two 1/1 white Spirit creature tokens with flying onto the battlefield. Creatures destroyed this way can't be regenerated.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="5432b863-21cc-4898-9463-29049f939e51" resname="C13·16 | Kongming, Sleeping Dragon | Card Name">
-    <source>Kongming, Sleeping Dragon</source>
-    <target state="translated">Kongming, Sleeping Dragon</target>
+<trans-unit id="5432b863-21cc-4898-9463-29049f939e51" resname="C13·16 | Kongming, &quot;Sleeping Dragon&quot; | Card Name">
+    <source>Kongming, &quot;Sleeping Dragon&quot;</source>
+    <target state="translated">Kongming, &quot;Sleeping Dragon&quot;</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="5432b863-21cc-4898-9463-29049f939e51" resname="C13·16 | Kongming, Sleeping Dragon | Card Text">
+<trans-unit id="5432b863-21cc-4898-9463-29049f939e51" resname="C13·16 | Kongming, &quot;Sleeping Dragon&quot; | Card Text">
     <source>Other creatures you control get +1/+1.</source>
     <target state="translated">Other creatures you control get +1/+1.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
-<trans-unit id="5432b863-21cc-4898-9463-29049f939e51" resname="C13·16 | Kongming, Sleeping Dragon | Flavor Text">
+<trans-unit id="5432b863-21cc-4898-9463-29049f939e51" resname="C13·16 | Kongming, &quot;Sleeping Dragon&quot; | Flavor Text">
     <source>"Such a lord as this—all virtues' height—Had never been, nor ever was again."</source>
     <target state="translated">"Such a lord as this—all virtues' height—Had never been, nor ever was again."</target>
     <note from="developer" priority="1" category="flavor_text"></note>
@@ -276,7 +255,8 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="ffb70bd4-e876-4242-b5b4-bb7493710f0f" resname="C13·18 | Mystic Barrier | Card Text">
-    <source>When Mystic Barrier enters the battlefield or at the beginning of your upkeep, choose left or right.\nEach player may attack only the opponent seated nearest him or her in the last chosen direction and planeswalkers controlled by that player.</source>
+    <source>When Mystic Barrier enters the battlefield or at the beginning of your upkeep, choose left or right.
+Each player may attack only the opponent seated nearest him or her in the last chosen direction and planeswalkers controlled by that player.</source>
     <target state="translated">When Mystic Barrier enters the battlefield or at the beginning of your upkeep, choose left or right.
 Each player may attack only the opponent seated nearest him or her in the last chosen direction and planeswalkers controlled by that player.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -286,14 +266,11 @@ Each player may attack only the opponent seated nearest him or her in the last c
     <target state="translated">Razor Hippogriff</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="3ed71d2e-dbf4-42e0-a70c-ab82b59bc048" resname="C13·19 | Razor Hippogriff | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="3ed71d2e-dbf4-42e0-a70c-ab82b59bc048" resname="C13·19 | Razor Hippogriff | Card Text: Paragraph 2">
-    <source>When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.</source>
-    <target state="translated">When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.</target>
+<trans-unit id="3ed71d2e-dbf4-42e0-a70c-ab82b59bc048" resname="C13·19 | Razor Hippogriff | Card Text">
+    <source>Flying
+When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.</source>
+    <target state="translated">Flying
+When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="3ed71d2e-dbf4-42e0-a70c-ab82b59bc048" resname="C13·19 | Razor Hippogriff | Flavor Text">
@@ -321,14 +298,11 @@ Each player may attack only the opponent seated nearest him or her in the last c
     <target state="translated">Serra Avatar</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="1aa3550d-6a53-46d7-b62b-a952c9f95454" resname="C13·21 | Serra Avatar | Card Text: Paragraph 1">
-    <source>Serra Avatar's power and toughness are each equal to your life total.</source>
-    <target state="translated">Serra Avatar's power and toughness are each equal to your life total.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="1aa3550d-6a53-46d7-b62b-a952c9f95454" resname="C13·21 | Serra Avatar | Card Text: Paragraph 2">
-    <source>When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.</source>
-    <target state="translated">When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.</target>
+<trans-unit id="1aa3550d-6a53-46d7-b62b-a952c9f95454" resname="C13·21 | Serra Avatar | Card Text">
+    <source>Serra Avatar's power and toughness are each equal to your life total.
+When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.</source>
+    <target state="translated">Serra Avatar's power and toughness are each equal to your life total.
+When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="1aa3550d-6a53-46d7-b62b-a952c9f95454" resname="C13·21 | Serra Avatar | Flavor Text">
@@ -341,24 +315,15 @@ Each player may attack only the opponent seated nearest him or her in the last c
     <target state="translated">Stonecloaker</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="d64ea201-61bf-41af-9aa9-a6976c01995f" resname="C13·22 | Stonecloaker | Card Text: Paragraph 1">
-    <source>Flash (You may cast this spell any time you could cast an instant.)</source>
-    <target state="translated">Flash (You may cast this spell any time you could cast an instant.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="d64ea201-61bf-41af-9aa9-a6976c01995f" resname="C13·22 | Stonecloaker | Card Text: Paragraph 2">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="d64ea201-61bf-41af-9aa9-a6976c01995f" resname="C13·22 | Stonecloaker | Card Text: Paragraph 3">
-    <source>When Stonecloaker enters the battlefield, return a creature you control to its owner's hand.</source>
-    <target state="translated">When Stonecloaker enters the battlefield, return a creature you control to its owner's hand.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="d64ea201-61bf-41af-9aa9-a6976c01995f" resname="C13·22 | Stonecloaker | Card Text: Paragraph 4">
-    <source>When Stonecloaker enters the battlefield, exile target card from a graveyard.</source>
-    <target state="translated">When Stonecloaker enters the battlefield, exile target card from a graveyard.</target>
+<trans-unit id="d64ea201-61bf-41af-9aa9-a6976c01995f" resname="C13·22 | Stonecloaker | Card Text">
+    <source>Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Stonecloaker enters the battlefield, return a creature you control to its owner's hand.
+When Stonecloaker enters the battlefield, exile target card from a graveyard.</source>
+    <target state="translated">Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Stonecloaker enters the battlefield, return a creature you control to its owner's hand.
+When Stonecloaker enters the battlefield, exile target card from a graveyard.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="1f98f6aa-d80b-426c-8160-6073af871fa8" resname="C13·23 | Survival Cache | Card Name">
@@ -366,14 +331,11 @@ Each player may attack only the opponent seated nearest him or her in the last c
     <target state="translated">Survival Cache</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="1f98f6aa-d80b-426c-8160-6073af871fa8" resname="C13·23 | Survival Cache | Card Text: Paragraph 1">
-    <source>You gain 2 life. Then if you have more life than an opponent, draw a card.</source>
-    <target state="translated">You gain 2 life. Then if you have more life than an opponent, draw a card.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="1f98f6aa-d80b-426c-8160-6073af871fa8" resname="C13·23 | Survival Cache | Card Text: Paragraph 2">
-    <source>Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</source>
-    <target state="translated">Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</target>
+<trans-unit id="1f98f6aa-d80b-426c-8160-6073af871fa8" resname="C13·23 | Survival Cache | Card Text">
+    <source>You gain 2 life. Then if you have more life than an opponent, draw a card.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</source>
+    <target state="translated">You gain 2 life. Then if you have more life than an opponent, draw a card.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="190bcef2-c819-4da7-9b8d-d14b87ab9f66" resname="C13·24 | Tempt with Glory | Card Name">
@@ -406,14 +368,11 @@ Each player may attack only the opponent seated nearest him or her in the last c
     <target state="translated">Wall of Reverence</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="db3784df-3f4b-4704-bc52-44a9e285e3a5" resname="C13·26 | Wall of Reverence | Card Text: Paragraph 1">
-    <source>Defender, flying</source>
-    <target state="translated">Defender, flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="db3784df-3f4b-4704-bc52-44a9e285e3a5" resname="C13·26 | Wall of Reverence | Card Text: Paragraph 2">
-    <source>At the beginning of your end step, you may gain life equal to the power of target creature you control.</source>
-    <target state="translated">At the beginning of your end step, you may gain life equal to the power of target creature you control.</target>
+<trans-unit id="db3784df-3f4b-4704-bc52-44a9e285e3a5" resname="C13·26 | Wall of Reverence | Card Text">
+    <source>Defender, flying
+At the beginning of your end step, you may gain life equal to the power of target creature you control.</source>
+    <target state="translated">Defender, flying
+At the beginning of your end step, you may gain life equal to the power of target creature you control.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="db3784df-3f4b-4704-bc52-44a9e285e3a5" resname="C13·26 | Wall of Reverence | Flavor Text">
@@ -436,14 +395,11 @@ Each player may attack only the opponent seated nearest him or her in the last c
     <target state="translated">Arcane Denial</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="ab175817-da6a-4ae7-a016-c3bfb087eae0" resname="C13·28 | Arcane Denial | Card Text: Paragraph 1">
-    <source>Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.</source>
-    <target state="translated">Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="ab175817-da6a-4ae7-a016-c3bfb087eae0" resname="C13·28 | Arcane Denial | Card Text: Paragraph 2">
-    <source>You draw a card at the beginning of the next turn's upkeep.</source>
-    <target state="translated">You draw a card at the beginning of the next turn's upkeep.</target>
+<trans-unit id="ab175817-da6a-4ae7-a016-c3bfb087eae0" resname="C13·28 | Arcane Denial | Card Text">
+    <source>Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.
+You draw a card at the beginning of the next turn's upkeep.</source>
+    <target state="translated">Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.
+You draw a card at the beginning of the next turn's upkeep.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="9ea8fd24-311a-4745-804e-46b2abbe217a" resname="C13·29 | Arcane Melee | Card Name">
@@ -536,14 +492,11 @@ Each player may attack only the opponent seated nearest him or her in the last c
     <target state="translated">Control Magic</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="d845d044-7457-4015-a893-1b7ca35df889" resname="C13·35 | Control Magic | Card Text: Paragraph 1">
-    <source>Enchant creature</source>
-    <target state="translated">Enchant creature</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="d845d044-7457-4015-a893-1b7ca35df889" resname="C13·35 | Control Magic | Card Text: Paragraph 2">
-    <source>You control enchanted creature.</source>
-    <target state="translated">You control enchanted creature.</target>
+<trans-unit id="d845d044-7457-4015-a893-1b7ca35df889" resname="C13·35 | Control Magic | Card Text">
+    <source>Enchant creature
+You control enchanted creature.</source>
+    <target state="translated">Enchant creature
+You control enchanted creature.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="d845d044-7457-4015-a893-1b7ca35df889" resname="C13·35 | Control Magic | Flavor Text">
@@ -557,7 +510,8 @@ Each player may attack only the opponent seated nearest him or her in the last c
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="5f6073c3-43aa-441f-98fe-0135f96ffa04" resname="C13·36 | Curse of Inertia | Card Text">
-    <source>Enchant player\nWhenever a player attacks enchanted player with one or more creatures, that attacking player may tap or untap target permanent of his or her choice.</source>
+    <source>Enchant player
+Whenever a player attacks enchanted player with one or more creatures, that attacking player may tap or untap target permanent of his or her choice.</source>
     <target state="translated">Enchant player
 Whenever a player attacks enchanted player with one or more creatures, that attacking player may tap or untap target permanent of his or her choice.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -573,7 +527,8 @@ Whenever a player attacks enchanted player with one or more creatures, that atta
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="b9c5761b-52f8-4f43-abfb-8d2366500f8f" resname="C13·37 | Deceiver Exarch | Card Text">
-    <source>Flash (You may cast this spell any time you could cast an instant.)\nWhen Deceiver Exarch enters the battlefield, choose one — Untap target permanent you control; or tap target permanent an opponent controls.</source>
+    <source>Flash (You may cast this spell any time you could cast an instant.)
+When Deceiver Exarch enters the battlefield, choose one — Untap target permanent you control; or tap target permanent an opponent controls.</source>
     <target state="translated">Flash (You may cast this spell any time you could cast an instant.)
 When Deceiver Exarch enters the battlefield, choose one — Untap target permanent you control; or tap target permanent an opponent controls.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -583,14 +538,11 @@ When Deceiver Exarch enters the battlefield, choose one — Untap target permane
     <target state="translated">Deep Analysis</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="952800af-f52c-44bf-a98b-51c5f8142dc9" resname="C13·38 | Deep Analysis | Card Text: Paragraph 1">
-    <source>Target player draws two cards.</source>
-    <target state="translated">Target player draws two cards.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="952800af-f52c-44bf-a98b-51c5f8142dc9" resname="C13·38 | Deep Analysis | Card Text: Paragraph 2">
-    <source>Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
-    <target state="translated">Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</target>
+<trans-unit id="952800af-f52c-44bf-a98b-51c5f8142dc9" resname="C13·38 | Deep Analysis | Card Text">
+    <source>Target player draws two cards.
+Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
+    <target state="translated">Target player draws two cards.
+Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="952800af-f52c-44bf-a98b-51c5f8142dc9" resname="C13·38 | Deep Analysis | Flavor Text">
@@ -603,14 +555,11 @@ When Deceiver Exarch enters the battlefield, choose one — Untap target permane
     <target state="translated">Dismiss</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="d64a483e-9e02-4d0b-b85f-5fe43f6101ac" resname="C13·39 | Dismiss | Card Text: Paragraph 1">
-    <source>Counter target spell.</source>
-    <target state="translated">Counter target spell.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="d64a483e-9e02-4d0b-b85f-5fe43f6101ac" resname="C13·39 | Dismiss | Card Text: Paragraph 2">
-    <source>Draw a card.</source>
-    <target state="translated">Draw a card.</target>
+<trans-unit id="d64a483e-9e02-4d0b-b85f-5fe43f6101ac" resname="C13·39 | Dismiss | Card Text">
+    <source>Counter target spell.
+Draw a card.</source>
+    <target state="translated">Counter target spell.
+Draw a card.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="d64a483e-9e02-4d0b-b85f-5fe43f6101ac" resname="C13·39 | Dismiss | Flavor Text">
@@ -653,14 +602,11 @@ When Deceiver Exarch enters the battlefield, choose one — Untap target permane
     <target state="translated">Dungeon Geists</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="6d2b3b06-af65-4df6-a035-21b61b43b557" resname="C13·42 | Dungeon Geists | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="6d2b3b06-af65-4df6-a035-21b61b43b557" resname="C13·42 | Dungeon Geists | Card Text: Paragraph 2">
-    <source>When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.</source>
-    <target state="translated">When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.</target>
+<trans-unit id="6d2b3b06-af65-4df6-a035-21b61b43b557" resname="C13·42 | Dungeon Geists | Card Text">
+    <source>Flying
+When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.</source>
+    <target state="translated">Flying
+When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="8b76ba96-9630-44fb-849e-3c3848c03876" resname="C13·43 | Echo Mage | Card Name">
@@ -669,7 +615,9 @@ When Deceiver Exarch enters the battlefield, choose one — Untap target permane
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="8b76ba96-9630-44fb-849e-3c3848c03876" resname="C13·43 | Echo Mage | Card Text">
-    <source>Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-32/4{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.\nLEVEL 4+2/5{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.</source>
+    <source>Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-32/4{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.
+LEVEL 4+2/5{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.</source>
     <target state="translated">Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)
 LEVEL 2-32/4{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.
 LEVEL 4+2/5{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.</target>
@@ -680,14 +628,11 @@ LEVEL 4+2/5{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choo
     <target state="translated">Fog Bank</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="191bdf86-38dc-40c6-bf18-d95caf0c4a1f" resname="C13·44 | Fog Bank | Card Text: Paragraph 1">
-    <source>Defender, flying</source>
-    <target state="translated">Defender, flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="191bdf86-38dc-40c6-bf18-d95caf0c4a1f" resname="C13·44 | Fog Bank | Card Text: Paragraph 2">
-    <source>Prevent all combat damage that would be dealt to and dealt by Fog Bank.</source>
-    <target state="translated">Prevent all combat damage that would be dealt to and dealt by Fog Bank.</target>
+<trans-unit id="191bdf86-38dc-40c6-bf18-d95caf0c4a1f" resname="C13·44 | Fog Bank | Card Text">
+    <source>Defender, flying
+Prevent all combat damage that would be dealt to and dealt by Fog Bank.</source>
+    <target state="translated">Defender, flying
+Prevent all combat damage that would be dealt to and dealt by Fog Bank.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="191bdf86-38dc-40c6-bf18-d95caf0c4a1f" resname="C13·44 | Fog Bank | Flavor Text">
@@ -700,14 +645,11 @@ LEVEL 4+2/5{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choo
     <target state="translated">Guard Gomazoa</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="08d6de22-a274-4a19-aa1a-cf88ae2fda5a" resname="C13·45 | Guard Gomazoa | Card Text: Paragraph 1">
-    <source>Defender, flying</source>
-    <target state="translated">Defender, flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="08d6de22-a274-4a19-aa1a-cf88ae2fda5a" resname="C13·45 | Guard Gomazoa | Card Text: Paragraph 2">
-    <source>Prevent all combat damage that would be dealt to Guard Gomazoa.</source>
-    <target state="translated">Prevent all combat damage that would be dealt to Guard Gomazoa.</target>
+<trans-unit id="08d6de22-a274-4a19-aa1a-cf88ae2fda5a" resname="C13·45 | Guard Gomazoa | Card Text">
+    <source>Defender, flying
+Prevent all combat damage that would be dealt to Guard Gomazoa.</source>
+    <target state="translated">Defender, flying
+Prevent all combat damage that would be dealt to Guard Gomazoa.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="08d6de22-a274-4a19-aa1a-cf88ae2fda5a" resname="C13·45 | Guard Gomazoa | Flavor Text">
@@ -721,7 +663,10 @@ LEVEL 4+2/5{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choo
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="a9110a51-a83b-4af8-bd52-32d42688a26b" resname="C13·46 | Hada Spy Patrol | Card Text">
-    <source>Level up {2}{U} ({2}{U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-22/2Hada Spy Patrol can't be blocked.\nLEVEL 3+3/3\nShroudHada Spy Patrol can't be blocked.</source>
+    <source>Level up {2}{U} ({2}{U}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 1-22/2Hada Spy Patrol can't be blocked.
+LEVEL 3+3/3
+ShroudHada Spy Patrol can't be blocked.</source>
     <target state="translated">Level up {2}{U} ({2}{U}: Put a level counter on this. Level up only as a sorcery.)
 LEVEL 1-22/2Hada Spy Patrol can't be blocked.
 LEVEL 3+3/3
@@ -734,7 +679,8 @@ ShroudHada Spy Patrol can't be blocked.</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="a00cc6ab-e97c-4eba-bc7e-49d77690433b" resname="C13·47 | Illusionist's Gambit | Card Text">
-    <source>Cast Illusionist's Gambit only during the declare blockers step on an opponent's turn.\nRemove all attacking creatures from combat and untap them. After this phase, there is an additional combat phase. Each of those creatures attacks that combat if able. They can't attack you or a planeswalker you control that combat.</source>
+    <source>Cast Illusionist's Gambit only during the declare blockers step on an opponent's turn.
+Remove all attacking creatures from combat and untap them. After this phase, there is an additional combat phase. Each of those creatures attacks that combat if able. They can't attack you or a planeswalker you control that combat.</source>
     <target state="translated">Cast Illusionist's Gambit only during the declare blockers step on an opponent's turn.
 Remove all attacking creatures from combat and untap them. After this phase, there is an additional combat phase. Each of those creatures attacks that combat if able. They can't attack you or a planeswalker you control that combat.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -759,14 +705,11 @@ Remove all attacking creatures from combat and untap them. After this phase, the
     <target state="translated">Lu Xun, Scholar General</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="54274222-d2c3-4249-a12e-7a5f53331937" resname="C13·49 | Lu Xun, Scholar General | Card Text: Paragraph 1">
-    <source>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</source>
-    <target state="translated">Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="54274222-d2c3-4249-a12e-7a5f53331937" resname="C13·49 | Lu Xun, Scholar General | Card Text: Paragraph 2">
-    <source>Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.</source>
-    <target state="translated">Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.</target>
+<trans-unit id="54274222-d2c3-4249-a12e-7a5f53331937" resname="C13·49 | Lu Xun, Scholar General | Card Text">
+    <source>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.</source>
+    <target state="translated">Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="c8b1debf-9f5e-4635-a480-26e1c454eb9f" resname="C13·50 | Mnemonic Wall | Card Name">
@@ -774,14 +717,11 @@ Remove all attacking creatures from combat and untap them. After this phase, the
     <target state="translated">Mnemonic Wall</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="c8b1debf-9f5e-4635-a480-26e1c454eb9f" resname="C13·50 | Mnemonic Wall | Card Text: Paragraph 1">
-    <source>Defender</source>
-    <target state="translated">Defender</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="c8b1debf-9f5e-4635-a480-26e1c454eb9f" resname="C13·50 | Mnemonic Wall | Card Text: Paragraph 2">
-    <source>When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.</source>
-    <target state="translated">When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.</target>
+<trans-unit id="c8b1debf-9f5e-4635-a480-26e1c454eb9f" resname="C13·50 | Mnemonic Wall | Card Text">
+    <source>Defender
+When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.</source>
+    <target state="translated">Defender
+When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="c8b1debf-9f5e-4635-a480-26e1c454eb9f" resname="C13·50 | Mnemonic Wall | Flavor Text">
@@ -855,7 +795,9 @@ Remove all attacking creatures from combat and untap them. After this phase, the
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="8b60227d-74de-4f2a-b281-3512dd77ffe8" resname="C13·55 | Raven Familiar | Card Text">
-    <source>Flying\nEcho {2}{U} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Raven Familiar enters the battlefield, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</source>
+    <source>Flying
+Echo {2}{U} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Raven Familiar enters the battlefield, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</source>
     <target state="translated">Flying
 Echo {2}{U} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
 When Raven Familiar enters the battlefield, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</target>
@@ -866,14 +808,11 @@ When Raven Familiar enters the battlefield, look at the top three cards of your 
     <target state="translated">Sharding Sphinx</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e" resname="C13·56 | Sharding Sphinx | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e" resname="C13·56 | Sharding Sphinx | Card Text: Paragraph 2">
-    <source>Whenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying onto the battlefield.</source>
-    <target state="translated">Whenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying onto the battlefield.</target>
+<trans-unit id="3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e" resname="C13·56 | Sharding Sphinx | Card Text">
+    <source>Flying
+Whenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying onto the battlefield.</source>
+    <target state="translated">Flying
+Whenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying onto the battlefield.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="3bd00a70-7f6d-4e66-b38d-f6284b9e1d0e" resname="C13·56 | Sharding Sphinx | Flavor Text">
@@ -886,14 +825,11 @@ When Raven Familiar enters the battlefield, look at the top three cards of your 
     <target state="translated">Skyscribing</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="b6ef8e44-3b40-46c2-973e-8f857126a13e" resname="C13·57 | Skyscribing | Card Text: Paragraph 1">
-    <source>Each player draws X cards.</source>
-    <target state="translated">Each player draws X cards.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="b6ef8e44-3b40-46c2-973e-8f857126a13e" resname="C13·57 | Skyscribing | Card Text: Paragraph 2">
-    <source>Forecast — {2}{U}, Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)</source>
-    <target state="translated">Forecast — {2}{U}, Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)</target>
+<trans-unit id="b6ef8e44-3b40-46c2-973e-8f857126a13e" resname="C13·57 | Skyscribing | Card Text">
+    <source>Each player draws X cards.
+Forecast — {2}{U}, Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)</source>
+    <target state="translated">Each player draws X cards.
+Forecast — {2}{U}, Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="b6ef8e44-3b40-46c2-973e-8f857126a13e" resname="C13·57 | Skyscribing | Flavor Text">
@@ -906,19 +842,13 @@ When Raven Familiar enters the battlefield, look at the top three cards of your 
     <target state="translated">Stormscape Battlemage</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="e8bfb971-0ff4-4413-907f-047fb84dfba9" resname="C13·58 | Stormscape Battlemage | Card Text: Paragraph 1">
-    <source>Kicker {W} and/or {2}{B}</source>
-    <target state="translated">Kicker {W} and/or {2}{B}</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="e8bfb971-0ff4-4413-907f-047fb84dfba9" resname="C13·58 | Stormscape Battlemage | Card Text: Paragraph 2">
-    <source>When Stormscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, you gain 3 life.</source>
-    <target state="translated">When Stormscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, you gain 3 life.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="e8bfb971-0ff4-4413-907f-047fb84dfba9" resname="C13·58 | Stormscape Battlemage | Card Text: Paragraph 3">
-    <source>When Stormscape Battlemage enters the battlefield, if it was kicked with its {2}{B} kicker, destroy target nonblack creature. That creature can't be regenerated.</source>
-    <target state="translated">When Stormscape Battlemage enters the battlefield, if it was kicked with its {2}{B} kicker, destroy target nonblack creature. That creature can't be regenerated.</target>
+<trans-unit id="e8bfb971-0ff4-4413-907f-047fb84dfba9" resname="C13·58 | Stormscape Battlemage | Card Text">
+    <source>Kicker {W} and/or {2}{B}
+When Stormscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, you gain 3 life.
+When Stormscape Battlemage enters the battlefield, if it was kicked with its {2}{B} kicker, destroy target nonblack creature. That creature can't be regenerated.</source>
+    <target state="translated">Kicker {W} and/or {2}{B}
+When Stormscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, you gain 3 life.
+When Stormscape Battlemage enters the battlefield, if it was kicked with its {2}{B} kicker, destroy target nonblack creature. That creature can't be regenerated.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="372993c8-8a55-4c40-a543-26ce6b827544" resname="C13·59 | Strategic Planning | Card Name">
@@ -1031,14 +961,11 @@ When Raven Familiar enters the battlefield, look at the top three cards of your 
     <target state="translated">Wonder</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="96593e24-8a6a-49a8-b1bc-773048f429d6" resname="C13·67 | Wonder | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="96593e24-8a6a-49a8-b1bc-773048f429d6" resname="C13·67 | Wonder | Card Text: Paragraph 2">
-    <source>As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.</source>
-    <target state="translated">As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.</target>
+<trans-unit id="96593e24-8a6a-49a8-b1bc-773048f429d6" resname="C13·67 | Wonder | Card Text">
+    <source>Flying
+As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.</source>
+    <target state="translated">Flying
+As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="96593e24-8a6a-49a8-b1bc-773048f429d6" resname="C13·67 | Wonder | Flavor Text">
@@ -1051,14 +978,11 @@ When Raven Familiar enters the battlefield, look at the top three cards of your 
     <target state="translated">Annihilate</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="595e8c26-672d-4978-87ec-9e0ed64ceaf0" resname="C13·68 | Annihilate | Card Text: Paragraph 1">
-    <source>Destroy target nonblack creature. It can't be regenerated.</source>
-    <target state="translated">Destroy target nonblack creature. It can't be regenerated.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="595e8c26-672d-4978-87ec-9e0ed64ceaf0" resname="C13·68 | Annihilate | Card Text: Paragraph 2">
-    <source>Draw a card.</source>
-    <target state="translated">Draw a card.</target>
+<trans-unit id="595e8c26-672d-4978-87ec-9e0ed64ceaf0" resname="C13·68 | Annihilate | Card Text">
+    <source>Destroy target nonblack creature. It can't be regenerated.
+Draw a card.</source>
+    <target state="translated">Destroy target nonblack creature. It can't be regenerated.
+Draw a card.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="595e8c26-672d-4978-87ec-9e0ed64ceaf0" resname="C13·68 | Annihilate | Flavor Text">
@@ -1071,14 +995,11 @@ When Raven Familiar enters the battlefield, look at the top three cards of your 
     <target state="translated">Army of the Damned</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="1222d958-7f4b-44fe-91ee-93ef435a5857" resname="C13·69 | Army of the Damned | Card Text: Paragraph 1">
-    <source>Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.</source>
-    <target state="translated">Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="1222d958-7f4b-44fe-91ee-93ef435a5857" resname="C13·69 | Army of the Damned | Card Text: Paragraph 2">
-    <source>Flashback {7}{B}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
-    <target state="translated">Flashback {7}{B}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</target>
+<trans-unit id="1222d958-7f4b-44fe-91ee-93ef435a5857" resname="C13·69 | Army of the Damned | Card Text">
+    <source>Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.
+Flashback {7}{B}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
+    <target state="translated">Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.
+Flashback {7}{B}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="1222d958-7f4b-44fe-91ee-93ef435a5857" resname="C13·69 | Army of the Damned | Flavor Text">
@@ -1107,7 +1028,8 @@ When Raven Familiar enters the battlefield, look at the top three cards of your 
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="849996e2-fb62-428f-88f1-4ac419617395" resname="C13·71 | Curse of Shallow Graves | Card Text">
-    <source>Enchant player\nWhenever a player attacks enchanted player with one or more creatures, that attacking player may put a 2/2 black Zombie creature token onto the battlefield tapped.</source>
+    <source>Enchant player
+Whenever a player attacks enchanted player with one or more creatures, that attacking player may put a 2/2 black Zombie creature token onto the battlefield tapped.</source>
     <target state="translated">Enchant player
 Whenever a player attacks enchanted player with one or more creatures, that attacking player may put a 2/2 black Zombie creature token onto the battlefield tapped.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -1117,19 +1039,13 @@ Whenever a player attacks enchanted player with one or more creatures, that atta
     <target state="translated">Decree of Pain</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="85a24793-2d19-4e29-bdb9-0b8e0ba90fd3" resname="C13·72 | Decree of Pain | Card Text: Paragraph 1">
-    <source>Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.</source>
-    <target state="translated">Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="85a24793-2d19-4e29-bdb9-0b8e0ba90fd3" resname="C13·72 | Decree of Pain | Card Text: Paragraph 2">
-    <source>Cycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)</source>
-    <target state="translated">Cycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="85a24793-2d19-4e29-bdb9-0b8e0ba90fd3" resname="C13·72 | Decree of Pain | Card Text: Paragraph 3">
-    <source>When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.</source>
-    <target state="translated">When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.</target>
+<trans-unit id="85a24793-2d19-4e29-bdb9-0b8e0ba90fd3" resname="C13·72 | Decree of Pain | Card Text">
+    <source>Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.
+Cycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)
+When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.</source>
+    <target state="translated">Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.
+Cycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)
+When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="a938b00e-a829-4860-a53a-83110493d0bd" resname="C13·73 | Dirge of Dread | Card Name">
@@ -1137,19 +1053,13 @@ Whenever a player attacks enchanted player with one or more creatures, that atta
     <target state="translated">Dirge of Dread</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="a938b00e-a829-4860-a53a-83110493d0bd" resname="C13·73 | Dirge of Dread | Card Text: Paragraph 1">
-    <source>All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)</source>
-    <target state="translated">All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="a938b00e-a829-4860-a53a-83110493d0bd" resname="C13·73 | Dirge of Dread | Card Text: Paragraph 2">
-    <source>Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</source>
-    <target state="translated">Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="a938b00e-a829-4860-a53a-83110493d0bd" resname="C13·73 | Dirge of Dread | Card Text: Paragraph 3">
-    <source>When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.</source>
-    <target state="translated">When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.</target>
+<trans-unit id="a938b00e-a829-4860-a53a-83110493d0bd" resname="C13·73 | Dirge of Dread | Card Text">
+    <source>All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)
+When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.</source>
+    <target state="translated">All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)
+When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="30c9c0f0-2668-4163-8158-fada2d953cb3" resname="C13·74 | Disciple of Griselbrand | Card Name">
@@ -1187,14 +1097,11 @@ Whenever a player attacks enchanted player with one or more creatures, that atta
     <target state="translated">Endrek Sahr, Master Breeder</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="48eac047-f888-49c7-aa7e-339f900f558f" resname="C13·76 | Endrek Sahr, Master Breeder | Card Text: Paragraph 1">
-    <source>Whenever you cast a creature spell, put X 1/1 black Thrull creature tokens onto the battlefield, where X is that spell's converted mana cost.</source>
-    <target state="translated">Whenever you cast a creature spell, put X 1/1 black Thrull creature tokens onto the battlefield, where X is that spell's converted mana cost.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="48eac047-f888-49c7-aa7e-339f900f558f" resname="C13·76 | Endrek Sahr, Master Breeder | Card Text: Paragraph 2">
-    <source>When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Breeder.</source>
-    <target state="translated">When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Breeder.</target>
+<trans-unit id="48eac047-f888-49c7-aa7e-339f900f558f" resname="C13·76 | Endrek Sahr, Master Breeder | Card Text">
+    <source>Whenever you cast a creature spell, put X 1/1 black Thrull creature tokens onto the battlefield, where X is that spell's converted mana cost.
+When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Breeder.</source>
+    <target state="translated">Whenever you cast a creature spell, put X 1/1 black Thrull creature tokens onto the battlefield, where X is that spell's converted mana cost.
+When you control seven or more Thrulls, sacrifice Endrek Sahr, Master Breeder.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="a56410a7-6f99-4bdf-9385-f23571c263c3" resname="C13·77 | Famine | Card Name">
@@ -1272,14 +1179,11 @@ Whenever a player attacks enchanted player with one or more creatures, that atta
     <target state="translated">Marrow Bats</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="a469e9a9-2498-4651-89fb-a86729d8c978" resname="C13·82 | Marrow Bats | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="a469e9a9-2498-4651-89fb-a86729d8c978" resname="C13·82 | Marrow Bats | Card Text: Paragraph 2">
-    <source>Pay 4 life: Regenerate Marrow Bats.</source>
-    <target state="translated">Pay 4 life: Regenerate Marrow Bats.</target>
+<trans-unit id="a469e9a9-2498-4651-89fb-a86729d8c978" resname="C13·82 | Marrow Bats | Card Text">
+    <source>Flying
+Pay 4 life: Regenerate Marrow Bats.</source>
+    <target state="translated">Flying
+Pay 4 life: Regenerate Marrow Bats.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="a469e9a9-2498-4651-89fb-a86729d8c978" resname="C13·82 | Marrow Bats | Flavor Text">
@@ -1322,14 +1226,11 @@ Whenever a player attacks enchanted player with one or more creatures, that atta
     <target state="translated">Phthisis</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="8b1e6db5-e0a8-4d65-8640-abe788fe846f" resname="C13·85 | Phthisis | Card Text: Paragraph 1">
-    <source>Destroy target creature. Its controller loses life equal to its power plus its toughness.</source>
-    <target state="translated">Destroy target creature. Its controller loses life equal to its power plus its toughness.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="8b1e6db5-e0a8-4d65-8640-abe788fe846f" resname="C13·85 | Phthisis | Card Text: Paragraph 2">
-    <source>Suspend 5—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</source>
-    <target state="translated">Suspend 5—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</target>
+<trans-unit id="8b1e6db5-e0a8-4d65-8640-abe788fe846f" resname="C13·85 | Phthisis | Card Text">
+    <source>Destroy target creature. Its controller loses life equal to its power plus its toughness.
+Suspend 5—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</source>
+    <target state="translated">Destroy target creature. Its controller loses life equal to its power plus its toughness.
+Suspend 5—{1}{B} (Rather than cast this card from your hand, you may pay {1}{B} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="36cb477d-85b1-4cb4-a4b7-c700a3a0e148" resname="C13·86 | Phyrexian Delver | Card Name">
@@ -1383,7 +1284,8 @@ Whenever a player attacks enchanted player with one or more creatures, that atta
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="97f536be-7836-4c9a-befc-94590e602f26" resname="C13·89 | Price of Knowledge | Card Text">
-    <source>Players have no maximum hand size.\nAt the beginning of each opponent's upkeep, Price of Knowledge deals damage to that player equal to the number of cards in that player's hand.</source>
+    <source>Players have no maximum hand size.
+At the beginning of each opponent's upkeep, Price of Knowledge deals damage to that player equal to the number of cards in that player's hand.</source>
     <target state="translated">Players have no maximum hand size.
 At the beginning of each opponent's upkeep, Price of Knowledge deals damage to that player equal to the number of cards in that player's hand.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -1453,14 +1355,11 @@ At the beginning of each opponent's upkeep, Price of Knowledge deals damage to t
     <target state="translated">Sudden Spoiling</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="14d8bf94-ba55-437f-ac69-ece24049944d" resname="C13·94 | Sudden Spoiling | Card Text: Paragraph 1">
-    <source>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</source>
-    <target state="translated">Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="14d8bf94-ba55-437f-ac69-ece24049944d" resname="C13·94 | Sudden Spoiling | Card Text: Paragraph 2">
-    <source>Creatures target player controls become 0/2 and lose all abilities until end of turn.</source>
-    <target state="translated">Creatures target player controls become 0/2 and lose all abilities until end of turn.</target>
+<trans-unit id="14d8bf94-ba55-437f-ac69-ece24049944d" resname="C13·94 | Sudden Spoiling | Card Text">
+    <source>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Creatures target player controls become 0/2 and lose all abilities until end of turn.</source>
+    <target state="translated">Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Creatures target player controls become 0/2 and lose all abilities until end of turn.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="c87ff489-2d9c-4f04-a169-9eafb046dd7e" resname="C13·95 | Tempt with Immortality | Card Name">
@@ -1478,14 +1377,11 @@ At the beginning of each opponent's upkeep, Price of Knowledge deals damage to t
     <target state="translated">Toxic Deluge</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="564caf57-4ba5-4993-a35e-945699c94eb7" resname="C13·96 | Toxic Deluge | Card Text: Paragraph 1">
-    <source>As an additional cost to cast Toxic Deluge, pay X life.</source>
-    <target state="translated">As an additional cost to cast Toxic Deluge, pay X life.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="564caf57-4ba5-4993-a35e-945699c94eb7" resname="C13·96 | Toxic Deluge | Card Text: Paragraph 2">
-    <source>All creatures get -X/-X until end of turn.</source>
-    <target state="translated">All creatures get -X/-X until end of turn.</target>
+<trans-unit id="564caf57-4ba5-4993-a35e-945699c94eb7" resname="C13·96 | Toxic Deluge | Card Text">
+    <source>As an additional cost to cast Toxic Deluge, pay X life.
+All creatures get -X/-X until end of turn.</source>
+    <target state="translated">As an additional cost to cast Toxic Deluge, pay X life.
+All creatures get -X/-X until end of turn.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="564caf57-4ba5-4993-a35e-945699c94eb7" resname="C13·96 | Toxic Deluge | Flavor Text">
@@ -1499,7 +1395,9 @@ At the beginning of each opponent's upkeep, Price of Knowledge deals damage to t
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="88a78e21-e594-4051-bddb-a06beb087252" resname="C13·97 | Vampire Nighthawk | Card Text">
-    <source>Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)</source>
+    <source>Flying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)</source>
     <target state="translated">Flying
 Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 Lifelink (Damage dealt by this creature also causes you to gain that much life.)</target>
@@ -1580,14 +1478,11 @@ Lifelink (Damage dealt by this creature also causes you to gain that much life.)
     <target state="translated">Charmbreaker Devils</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="abb9f2cb-e5de-45a3-936f-685465cdbb70" resname="C13·103 | Charmbreaker Devils | Card Text: Paragraph 1">
-    <source>At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.</source>
-    <target state="translated">At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="abb9f2cb-e5de-45a3-936f-685465cdbb70" resname="C13·103 | Charmbreaker Devils | Card Text: Paragraph 2">
-    <source>Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.</source>
-    <target state="translated">Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.</target>
+<trans-unit id="abb9f2cb-e5de-45a3-936f-685465cdbb70" resname="C13·103 | Charmbreaker Devils | Card Text">
+    <source>At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.
+Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.</source>
+    <target state="translated">At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.
+Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="88e3a05a-d5c7-46d9-9a66-8de4b737e9dd" resname="C13·104 | Crater Hellion | Card Name">
@@ -1595,14 +1490,11 @@ Lifelink (Damage dealt by this creature also causes you to gain that much life.)
     <target state="translated">Crater Hellion</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="88e3a05a-d5c7-46d9-9a66-8de4b737e9dd" resname="C13·104 | Crater Hellion | Card Text: Paragraph 1">
-    <source>Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</source>
-    <target state="translated">Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="88e3a05a-d5c7-46d9-9a66-8de4b737e9dd" resname="C13·104 | Crater Hellion | Card Text: Paragraph 2">
-    <source>When Crater Hellion enters the battlefield, it deals 4 damage to each other creature.</source>
-    <target state="translated">When Crater Hellion enters the battlefield, it deals 4 damage to each other creature.</target>
+<trans-unit id="88e3a05a-d5c7-46d9-9a66-8de4b737e9dd" resname="C13·104 | Crater Hellion | Card Text">
+    <source>Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Crater Hellion enters the battlefield, it deals 4 damage to each other creature.</source>
+    <target state="translated">Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Crater Hellion enters the battlefield, it deals 4 damage to each other creature.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="fd95b9aa-1abb-4a10-a622-51a2bb578d17" resname="C13·105 | Curse of Chaos | Card Name">
@@ -1611,7 +1503,8 @@ Lifelink (Damage dealt by this creature also causes you to gain that much life.)
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="fd95b9aa-1abb-4a10-a622-51a2bb578d17" resname="C13·105 | Curse of Chaos | Card Text">
-    <source>Enchant player\nWhenever a player attacks enchanted player with one or more creatures, that attacking player may discard a card. If the player does, he or she draws a card.</source>
+    <source>Enchant player
+Whenever a player attacks enchanted player with one or more creatures, that attacking player may discard a card. If the player does, he or she draws a card.</source>
     <target state="translated">Enchant player
 Whenever a player attacks enchanted player with one or more creatures, that attacking player may discard a card. If the player does, he or she draws a card.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -1692,7 +1585,8 @@ Whenever a player attacks enchanted player with one or more creatures, that atta
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="4f72e9e2-ed47-40ff-bc2e-8446ef545022" resname="C13·111 | Goblin Sharpshooter | Card Text">
-    <source>Goblin Sharpshooter doesn't untap during your untap step.\nWhenever a creature dies, untap Goblin Sharpshooter.{T}: Goblin Sharpshooter deals 1 damage to target creature or player.</source>
+    <source>Goblin Sharpshooter doesn't untap during your untap step.
+Whenever a creature dies, untap Goblin Sharpshooter.{T}: Goblin Sharpshooter deals 1 damage to target creature or player.</source>
     <target state="translated">Goblin Sharpshooter doesn't untap during your untap step.
 Whenever a creature dies, untap Goblin Sharpshooter.{T}: Goblin Sharpshooter deals 1 damage to target creature or player.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -1727,14 +1621,11 @@ Whenever a creature dies, untap Goblin Sharpshooter.{T}: Goblin Sharpshooter dea
     <target state="translated">Inferno Titan</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="446a99f8-29e9-41c8-bf68-c50a2c21e056" resname="C13·114 | Inferno Titan | Card Text: Paragraph 1">
-    <source>{R}: Inferno Titan gets +1/+0 until end of turn.</source>
-    <target state="translated">{R}: Inferno Titan gets +1/+0 until end of turn.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="446a99f8-29e9-41c8-bf68-c50a2c21e056" resname="C13·114 | Inferno Titan | Card Text: Paragraph 2">
-    <source>Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</source>
-    <target state="translated">Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</target>
+<trans-unit id="446a99f8-29e9-41c8-bf68-c50a2c21e056" resname="C13·114 | Inferno Titan | Card Text">
+    <source>{R}: Inferno Titan gets +1/+0 until end of turn.
+Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</source>
+    <target state="translated">{R}: Inferno Titan gets +1/+0 until end of turn.
+Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="91e1c919-58e8-4637-a030-99ae90165585" resname="C13·115 | Magus of the Arena | Card Name">
@@ -1773,7 +1664,8 @@ Whenever a creature dies, untap Goblin Sharpshooter.{T}: Goblin Sharpshooter dea
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="17ca6865-e894-4390-ba27-b7cc8b03a424" resname="C13·117 | Molten Disaster | Card Text">
-    <source>Kicker {R} (You may pay an additional {R} as you cast this spell.)\nIf Molten Disaster was kicked, it has split second. (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)Molten Disaster deals X damage to each creature without flying and each player.</source>
+    <source>Kicker {R} (You may pay an additional {R} as you cast this spell.)
+If Molten Disaster was kicked, it has split second. (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)Molten Disaster deals X damage to each creature without flying and each player.</source>
     <target state="translated">Kicker {R} (You may pay an additional {R} as you cast this spell.)
 If Molten Disaster was kicked, it has split second. (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)Molten Disaster deals X damage to each creature without flying and each player.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -1803,19 +1695,13 @@ If Molten Disaster was kicked, it has split second. (As long as this spell is on
     <target state="translated">Slice and Dice</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="bc358b85-660a-4a26-8e4a-bac8edfb7cb4" resname="C13·119 | Slice and Dice | Card Text: Paragraph 1">
-    <source>Slice and Dice deals 4 damage to each creature.</source>
-    <target state="translated">Slice and Dice deals 4 damage to each creature.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="bc358b85-660a-4a26-8e4a-bac8edfb7cb4" resname="C13·119 | Slice and Dice | Card Text: Paragraph 2">
-    <source>Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)</source>
-    <target state="translated">Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="bc358b85-660a-4a26-8e4a-bac8edfb7cb4" resname="C13·119 | Slice and Dice | Card Text: Paragraph 3">
-    <source>When you cycle Slice and Dice, you may have it deal 1 damage to each creature.</source>
-    <target state="translated">When you cycle Slice and Dice, you may have it deal 1 damage to each creature.</target>
+<trans-unit id="bc358b85-660a-4a26-8e4a-bac8edfb7cb4" resname="C13·119 | Slice and Dice | Card Text">
+    <source>Slice and Dice deals 4 damage to each creature.
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+When you cycle Slice and Dice, you may have it deal 1 damage to each creature.</source>
+    <target state="translated">Slice and Dice deals 4 damage to each creature.
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+When you cycle Slice and Dice, you may have it deal 1 damage to each creature.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="d0ee0c68-8f00-447d-b36e-e2f6ce40f374" resname="C13·120 | Spitebellows | Card Name">
@@ -1823,14 +1709,11 @@ If Molten Disaster was kicked, it has split second. (As long as this spell is on
     <target state="translated">Spitebellows</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="d0ee0c68-8f00-447d-b36e-e2f6ce40f374" resname="C13·120 | Spitebellows | Card Text: Paragraph 1">
-    <source>When Spitebellows leaves the battlefield, it deals 6 damage to target creature.</source>
-    <target state="translated">When Spitebellows leaves the battlefield, it deals 6 damage to target creature.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="d0ee0c68-8f00-447d-b36e-e2f6ce40f374" resname="C13·120 | Spitebellows | Card Text: Paragraph 2">
-    <source>Evoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
-    <target state="translated">Evoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</target>
+<trans-unit id="d0ee0c68-8f00-447d-b36e-e2f6ce40f374" resname="C13·120 | Spitebellows | Card Text">
+    <source>When Spitebellows leaves the battlefield, it deals 6 damage to target creature.
+Evoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
+    <target state="translated">When Spitebellows leaves the battlefield, it deals 6 damage to target creature.
+Evoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="d0ee0c68-8f00-447d-b36e-e2f6ce40f374" resname="C13·120 | Spitebellows | Flavor Text">
@@ -1843,14 +1726,11 @@ If Molten Disaster was kicked, it has split second. (As long as this spell is on
     <target state="translated">Stalking Vengeance</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="ad0a5f5b-14c8-4c72-a521-7d015b060ca4" resname="C13·121 | Stalking Vengeance | Card Text: Paragraph 1">
-    <source>Haste</source>
-    <target state="translated">Haste</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="ad0a5f5b-14c8-4c72-a521-7d015b060ca4" resname="C13·121 | Stalking Vengeance | Card Text: Paragraph 2">
-    <source>Whenever another creature you control dies, it deals damage equal to its power to target player.</source>
-    <target state="translated">Whenever another creature you control dies, it deals damage equal to its power to target player.</target>
+<trans-unit id="ad0a5f5b-14c8-4c72-a521-7d015b060ca4" resname="C13·121 | Stalking Vengeance | Card Text">
+    <source>Haste
+Whenever another creature you control dies, it deals damage equal to its power to target player.</source>
+    <target state="translated">Haste
+Whenever another creature you control dies, it deals damage equal to its power to target player.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="ad0a5f5b-14c8-4c72-a521-7d015b060ca4" resname="C13·121 | Stalking Vengeance | Flavor Text">
@@ -1863,14 +1743,11 @@ If Molten Disaster was kicked, it has split second. (As long as this spell is on
     <target state="translated">Starstorm</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="439aa3eb-fa1f-46b2-a13a-369b6a88d97c" resname="C13·122 | Starstorm | Card Text: Paragraph 1">
-    <source>Starstorm deals X damage to each creature.</source>
-    <target state="translated">Starstorm deals X damage to each creature.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="439aa3eb-fa1f-46b2-a13a-369b6a88d97c" resname="C13·122 | Starstorm | Card Text: Paragraph 2">
-    <source>Cycling {3} ({3}, Discard this card: Draw a card.)</source>
-    <target state="translated">Cycling {3} ({3}, Discard this card: Draw a card.)</target>
+<trans-unit id="439aa3eb-fa1f-46b2-a13a-369b6a88d97c" resname="C13·122 | Starstorm | Card Text">
+    <source>Starstorm deals X damage to each creature.
+Cycling {3} ({3}, Discard this card: Draw a card.)</source>
+    <target state="translated">Starstorm deals X damage to each creature.
+Cycling {3} ({3}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="439aa3eb-fa1f-46b2-a13a-369b6a88d97c" resname="C13·122 | Starstorm | Flavor Text">
@@ -1883,14 +1760,11 @@ If Molten Disaster was kicked, it has split second. (As long as this spell is on
     <target state="translated">Street Spasm</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="92bc9bb0-e38f-48fb-8431-5e534fd0bba4" resname="C13·123 | Street Spasm | Card Text: Paragraph 1">
-    <source>Street Spasm deals X damage to target creature without flying you don't control.</source>
-    <target state="translated">Street Spasm deals X damage to target creature without flying you don't control.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="92bc9bb0-e38f-48fb-8431-5e534fd0bba4" resname="C13·123 | Street Spasm | Card Text: Paragraph 2">
-    <source>Overload {X}{X}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")</source>
-    <target state="translated">Overload {X}{X}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")</target>
+<trans-unit id="92bc9bb0-e38f-48fb-8431-5e534fd0bba4" resname="C13·123 | Street Spasm | Card Text">
+    <source>Street Spasm deals X damage to target creature without flying you don't control.
+Overload {X}{X}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")</source>
+    <target state="translated">Street Spasm deals X damage to target creature without flying you don't control.
+Overload {X}{X}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="7217afaa-00e1-45a7-bb7f-66a770487b77" resname="C13·124 | Sudden Demise | Card Name">
@@ -2029,7 +1903,9 @@ If Molten Disaster was kicked, it has split second. (As long as this spell is on
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="1db6d2a4-183e-47ff-bebe-efefd4bcc4be" resname="C13·133 | Witch Hunt | Card Text">
-    <source>Players can't gain life.\nAt the beginning of your upkeep, Witch Hunt deals 4 damage to you.\nAt the beginning of your end step, target opponent chosen at random gains control of Witch Hunt.</source>
+    <source>Players can't gain life.
+At the beginning of your upkeep, Witch Hunt deals 4 damage to you.
+At the beginning of your end step, target opponent chosen at random gains control of Witch Hunt.</source>
     <target state="translated">Players can't gain life.
 At the beginning of your upkeep, Witch Hunt deals 4 damage to you.
 At the beginning of your end step, target opponent chosen at random gains control of Witch Hunt.</target>
@@ -2045,14 +1921,11 @@ At the beginning of your end step, target opponent chosen at random gains contro
     <target state="translated">Acidic Slime</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="533c81d5-c067-435c-9581-e37667f399b1" resname="C13·134 | Acidic Slime | Card Text: Paragraph 1">
-    <source>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</source>
-    <target state="translated">Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="533c81d5-c067-435c-9581-e37667f399b1" resname="C13·134 | Acidic Slime | Card Text: Paragraph 2">
-    <source>When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.</source>
-    <target state="translated">When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.</target>
+<trans-unit id="533c81d5-c067-435c-9581-e37667f399b1" resname="C13·134 | Acidic Slime | Card Text">
+    <source>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.</source>
+    <target state="translated">Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="e5ea8759-99a6-4659-8f50-fd71189b8dd4" resname="C13·135 | Avenger of Zendikar | Card Name">
@@ -2060,14 +1933,11 @@ At the beginning of your end step, target opponent chosen at random gains contro
     <target state="translated">Avenger of Zendikar</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="e5ea8759-99a6-4659-8f50-fd71189b8dd4" resname="C13·135 | Avenger of Zendikar | Card Text: Paragraph 1">
-    <source>When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.</source>
-    <target state="translated">When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="e5ea8759-99a6-4659-8f50-fd71189b8dd4" resname="C13·135 | Avenger of Zendikar | Card Text: Paragraph 2">
-    <source>Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.</source>
-    <target state="translated">Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.</target>
+<trans-unit id="e5ea8759-99a6-4659-8f50-fd71189b8dd4" resname="C13·135 | Avenger of Zendikar | Card Text">
+    <source>When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.
+Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.</source>
+    <target state="translated">When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.
+Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="d8af1377-72bb-4d93-80bd-2c927b02cc73" resname="C13·136 | Baloth Woodcrasher | Card Name">
@@ -2135,14 +2005,11 @@ At the beginning of your end step, target opponent chosen at random gains contro
     <target state="translated">Curse of Predation</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="d28f824e-8cd4-4915-a46f-6e3c646c6378" resname="C13·140 | Curse of Predation | Card Text: Paragraph 1">
-    <source>Enchant player</source>
-    <target state="translated">Enchant player</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="d28f824e-8cd4-4915-a46f-6e3c646c6378" resname="C13·140 | Curse of Predation | Card Text: Paragraph 2">
-    <source>Whenever a creature attacks enchanted player, put a +1/+1 counter on it.</source>
-    <target state="translated">Whenever a creature attacks enchanted player, put a +1/+1 counter on it.</target>
+<trans-unit id="d28f824e-8cd4-4915-a46f-6e3c646c6378" resname="C13·140 | Curse of Predation | Card Text">
+    <source>Enchant player
+Whenever a creature attacks enchanted player, put a +1/+1 counter on it.</source>
+    <target state="translated">Enchant player
+Whenever a creature attacks enchanted player, put a +1/+1 counter on it.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="d28f824e-8cd4-4915-a46f-6e3c646c6378" resname="C13·140 | Curse of Predation | Flavor Text">
@@ -2155,14 +2022,11 @@ At the beginning of your end step, target opponent chosen at random gains contro
     <target state="translated">Deadwood Treefolk</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="69983244-a9c6-4025-91c6-a4742cb1db1e" resname="C13·141 | Deadwood Treefolk | Card Text: Paragraph 1">
-    <source>Vanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</source>
-    <target state="translated">Vanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="69983244-a9c6-4025-91c6-a4742cb1db1e" resname="C13·141 | Deadwood Treefolk | Card Text: Paragraph 2">
-    <source>When Deadwood Treefolk enters the battlefield or leaves the battlefield, return another target creature card from your graveyard to your hand.</source>
-    <target state="translated">When Deadwood Treefolk enters the battlefield or leaves the battlefield, return another target creature card from your graveyard to your hand.</target>
+<trans-unit id="69983244-a9c6-4025-91c6-a4742cb1db1e" resname="C13·141 | Deadwood Treefolk | Card Text">
+    <source>Vanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Deadwood Treefolk enters the battlefield or leaves the battlefield, return another target creature card from your graveyard to your hand.</source>
+    <target state="translated">Vanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Deadwood Treefolk enters the battlefield or leaves the battlefield, return another target creature card from your graveyard to your hand.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="343ef398-576a-43b6-a32b-f916ccd63579" resname="C13·142 | Drumhunter | Card Name">
@@ -2306,7 +2170,9 @@ At the beginning of your end step, target opponent chosen at random gains contro
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="d4de23f9-8612-4c5e-8c96-3581893976eb" resname="C13·152 | Kazandu Tuskcaller | Card Text">
-    <source>Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-51/1{T}: Put a 3/3 green Elephant creature token onto the battlefield.\nLEVEL 6+1/1{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.</source>
+    <source>Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)
+LEVEL 2-51/1{T}: Put a 3/3 green Elephant creature token onto the battlefield.
+LEVEL 6+1/1{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.</source>
     <target state="translated">Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)
 LEVEL 2-51/1{T}: Put a 3/3 green Elephant creature token onto the battlefield.
 LEVEL 6+1/1{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.</target>
@@ -2317,14 +2183,11 @@ LEVEL 6+1/1{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.
     <target state="translated">Krosan Grip</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="7d68d87b-4079-4576-a730-96b9a3c171cb" resname="C13·153 | Krosan Grip | Card Text: Paragraph 1">
-    <source>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</source>
-    <target state="translated">Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="7d68d87b-4079-4576-a730-96b9a3c171cb" resname="C13·153 | Krosan Grip | Card Text: Paragraph 2">
-    <source>Destroy target artifact or enchantment.</source>
-    <target state="translated">Destroy target artifact or enchantment.</target>
+<trans-unit id="7d68d87b-4079-4576-a730-96b9a3c171cb" resname="C13·153 | Krosan Grip | Card Text">
+    <source>Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Destroy target artifact or enchantment.</source>
+    <target state="translated">Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+Destroy target artifact or enchantment.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="7d68d87b-4079-4576-a730-96b9a3c171cb" resname="C13·153 | Krosan Grip | Flavor Text">
@@ -2337,14 +2200,11 @@ LEVEL 6+1/1{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.
     <target state="translated">Krosan Tusker</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="01b39bc2-947b-4be3-8b53-1da65def1b05" resname="C13·154 | Krosan Tusker | Card Text: Paragraph 1">
-    <source>Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)</source>
-    <target state="translated">Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="01b39bc2-947b-4be3-8b53-1da65def1b05" resname="C13·154 | Krosan Tusker | Card Text: Paragraph 2">
-    <source>When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.</source>
-    <target state="translated">When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.</target>
+<trans-unit id="01b39bc2-947b-4be3-8b53-1da65def1b05" resname="C13·154 | Krosan Tusker | Card Text">
+    <source>Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.</source>
+    <target state="translated">Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="0bfc9b24-6dbe-42df-a2c7-cb4845afb50f" resname="C13·155 | Krosan Warchief | Card Name">
@@ -2367,14 +2227,11 @@ LEVEL 6+1/1{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.
     <target state="translated">Mold Shambler</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="2fff6824-ebd7-4a13-8897-ee2467aab111" resname="C13·156 | Mold Shambler | Card Text: Paragraph 1">
-    <source>Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)</source>
-    <target state="translated">Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="2fff6824-ebd7-4a13-8897-ee2467aab111" resname="C13·156 | Mold Shambler | Card Text: Paragraph 2">
-    <source>When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.</source>
-    <target state="translated">When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.</target>
+<trans-unit id="2fff6824-ebd7-4a13-8897-ee2467aab111" resname="C13·156 | Mold Shambler | Card Text">
+    <source>Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)
+When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.</source>
+    <target state="translated">Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)
+When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="2fff6824-ebd7-4a13-8897-ee2467aab111" resname="C13·156 | Mold Shambler | Flavor Text">
@@ -2388,7 +2245,8 @@ LEVEL 6+1/1{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="f0e4b468-096b-4f80-9e78-022fe24a7e45" resname="C13·157 | Naya Soulbeast | Card Text">
-    <source>Trample\nWhen you cast Naya Soulbeast, each player reveals the top card of his or her library. Naya Soulbeast enters the battlefield with X +1/+1 counters on it, where X is the total converted mana cost of all cards revealed this way.</source>
+    <source>Trample
+When you cast Naya Soulbeast, each player reveals the top card of his or her library. Naya Soulbeast enters the battlefield with X +1/+1 counters on it, where X is the total converted mana cost of all cards revealed this way.</source>
     <target state="translated">Trample
 When you cast Naya Soulbeast, each player reveals the top card of his or her library. Naya Soulbeast enters the battlefield with X +1/+1 counters on it, where X is the total converted mana cost of all cards revealed this way.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -2413,14 +2271,11 @@ When you cast Naya Soulbeast, each player reveals the top card of his or her lib
     <target state="translated">One Dozen Eyes</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="451f317f-f587-4187-9e02-6ac5d7ae9cd8" resname="C13·159 | One Dozen Eyes | Card Text: Paragraph 1">
-    <source>Choose one — Put a 5/5 green Beast creature token onto the battlefield; or put five 1/1 green Insect creature tokens onto the battlefield.</source>
-    <target state="translated">Choose one — Put a 5/5 green Beast creature token onto the battlefield; or put five 1/1 green Insect creature tokens onto the battlefield.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="451f317f-f587-4187-9e02-6ac5d7ae9cd8" resname="C13·159 | One Dozen Eyes | Card Text: Paragraph 2">
-    <source>Entwine {G}{G}{G} (Choose both if you pay the entwine cost.)</source>
-    <target state="translated">Entwine {G}{G}{G} (Choose both if you pay the entwine cost.)</target>
+<trans-unit id="451f317f-f587-4187-9e02-6ac5d7ae9cd8" resname="C13·159 | One Dozen Eyes | Card Text">
+    <source>Choose one — Put a 5/5 green Beast creature token onto the battlefield; or put five 1/1 green Insect creature tokens onto the battlefield.
+Entwine {G}{G}{G} (Choose both if you pay the entwine cost.)</source>
+    <target state="translated">Choose one — Put a 5/5 green Beast creature token onto the battlefield; or put five 1/1 green Insect creature tokens onto the battlefield.
+Entwine {G}{G}{G} (Choose both if you pay the entwine cost.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="bfd9ba5b-534f-4d3b-a997-441f6911f670" resname="C13·160 | Phantom Nantuko | Card Name">
@@ -2429,7 +2284,8 @@ When you cast Naya Soulbeast, each player reveals the top card of his or her lib
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="bfd9ba5b-534f-4d3b-a997-441f6911f670" resname="C13·160 | Phantom Nantuko | Card Text">
-    <source>TramplePhantom Nantuko enters the battlefield with two +1/+1 counters on it.\nIf damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1 counter from Phantom Nantuko.{T}: Put a +1/+1 counter on Phantom Nantuko.</source>
+    <source>TramplePhantom Nantuko enters the battlefield with two +1/+1 counters on it.
+If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1 counter from Phantom Nantuko.{T}: Put a +1/+1 counter on Phantom Nantuko.</source>
     <target state="translated">TramplePhantom Nantuko enters the battlefield with two +1/+1 counters on it.
 If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1 counter from Phantom Nantuko.{T}: Put a +1/+1 counter on Phantom Nantuko.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -2439,14 +2295,11 @@ If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1
     <target state="translated">Presence of Gond</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="2660faeb-9681-4e35-b9f3-bff5d08a333e" resname="C13·161 | Presence of Gond | Card Text: Paragraph 1">
-    <source>Enchant creature</source>
-    <target state="translated">Enchant creature</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="2660faeb-9681-4e35-b9f3-bff5d08a333e" resname="C13·161 | Presence of Gond | Card Text: Paragraph 2">
-    <source>Enchanted creature has "{T}: Put a 1/1 green Elf Warrior creature token onto the battlefield."</source>
-    <target state="translated">Enchanted creature has "{T}: Put a 1/1 green Elf Warrior creature token onto the battlefield."</target>
+<trans-unit id="2660faeb-9681-4e35-b9f3-bff5d08a333e" resname="C13·161 | Presence of Gond | Card Text">
+    <source>Enchant creature
+Enchanted creature has "{T}: Put a 1/1 green Elf Warrior creature token onto the battlefield."</source>
+    <target state="translated">Enchant creature
+Enchanted creature has "{T}: Put a 1/1 green Elf Warrior creature token onto the battlefield."</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="2660faeb-9681-4e35-b9f3-bff5d08a333e" resname="C13·161 | Presence of Gond | Flavor Text">
@@ -2459,14 +2312,11 @@ If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1
     <target state="translated">Primal Vigor</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="dafea0d1-6986-46b3-affc-1337ef564947" resname="C13·162 | Primal Vigor | Card Text: Paragraph 1">
-    <source>If one or more tokens would be put onto the battlefield, twice that many of those tokens are put onto the battlefield instead.</source>
-    <target state="translated">If one or more tokens would be put onto the battlefield, twice that many of those tokens are put onto the battlefield instead.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="dafea0d1-6986-46b3-affc-1337ef564947" resname="C13·162 | Primal Vigor | Card Text: Paragraph 2">
-    <source>If one or more +1/+1 counters would be placed on a creature, twice that many +1/+1 counters are placed on that creature instead.</source>
-    <target state="translated">If one or more +1/+1 counters would be placed on a creature, twice that many +1/+1 counters are placed on that creature instead.</target>
+<trans-unit id="dafea0d1-6986-46b3-affc-1337ef564947" resname="C13·162 | Primal Vigor | Card Text">
+    <source>If one or more tokens would be put onto the battlefield, twice that many of those tokens are put onto the battlefield instead.
+If one or more +1/+1 counters would be placed on a creature, twice that many +1/+1 counters are placed on that creature instead.</source>
+    <target state="translated">If one or more tokens would be put onto the battlefield, twice that many of those tokens are put onto the battlefield instead.
+If one or more +1/+1 counters would be placed on a creature, twice that many +1/+1 counters are placed on that creature instead.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="909fbbde-9db4-42fa-9d79-4f2b0568ae24" resname="C13·163 | Rain of Thorns | Card Name">
@@ -2489,14 +2339,11 @@ If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1
     <target state="translated">Rampaging Baloths</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="6daaa97a-6864-4897-ad42-92a68dc6980d" resname="C13·164 | Rampaging Baloths | Card Text: Paragraph 1">
-    <source>Trample</source>
-    <target state="translated">Trample</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="6daaa97a-6864-4897-ad42-92a68dc6980d" resname="C13·164 | Rampaging Baloths | Card Text: Paragraph 2">
-    <source>Landfall — Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.</source>
-    <target state="translated">Landfall — Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.</target>
+<trans-unit id="6daaa97a-6864-4897-ad42-92a68dc6980d" resname="C13·164 | Rampaging Baloths | Card Text">
+    <source>Trample
+Landfall — Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.</source>
+    <target state="translated">Trample
+Landfall — Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="6daaa97a-6864-4897-ad42-92a68dc6980d" resname="C13·164 | Rampaging Baloths | Flavor Text">
@@ -2584,14 +2431,11 @@ If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1
     <target state="translated">Slice in Twain</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="2e717eb0-cb71-43dd-87f8-e460d24de68a" resname="C13·170 | Slice in Twain | Card Text: Paragraph 1">
-    <source>Destroy target artifact or enchantment.</source>
-    <target state="translated">Destroy target artifact or enchantment.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="2e717eb0-cb71-43dd-87f8-e460d24de68a" resname="C13·170 | Slice in Twain | Card Text: Paragraph 2">
-    <source>Draw a card.</source>
-    <target state="translated">Draw a card.</target>
+<trans-unit id="2e717eb0-cb71-43dd-87f8-e460d24de68a" resname="C13·170 | Slice in Twain | Card Text">
+    <source>Destroy target artifact or enchantment.
+Draw a card.</source>
+    <target state="translated">Destroy target artifact or enchantment.
+Draw a card.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="2e717eb0-cb71-43dd-87f8-e460d24de68a" resname="C13·170 | Slice in Twain | Flavor Text">
@@ -2605,7 +2449,8 @@ If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="356f0766-2cdc-469e-8488-27e528871dd5" resname="C13·171 | Spawning Grounds | Card Text">
-    <source>Enchant land\nEnchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto the battlefield."</source>
+    <source>Enchant land
+Enchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto the battlefield."</source>
     <target state="translated">Enchant land
 Enchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto the battlefield."</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -2630,14 +2475,11 @@ Enchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto 
     <target state="translated">Sprouting Vines</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="b16ba7be-47e6-4c64-918d-bec60abccaa3" resname="C13·173 | Sprouting Vines | Card Text: Paragraph 1">
-    <source>Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.</source>
-    <target state="translated">Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="b16ba7be-47e6-4c64-918d-bec60abccaa3" resname="C13·173 | Sprouting Vines | Card Text: Paragraph 2">
-    <source>Storm (When you cast this spell, copy it for each spell cast before it this turn.)</source>
-    <target state="translated">Storm (When you cast this spell, copy it for each spell cast before it this turn.)</target>
+<trans-unit id="b16ba7be-47e6-4c64-918d-bec60abccaa3" resname="C13·173 | Sprouting Vines | Card Text">
+    <source>Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</source>
+    <target state="translated">Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="00bfc923-4f6b-4c6f-b74f-ddf95a3459f8" resname="C13·174 | Tempt with Discovery | Card Name">
@@ -2655,14 +2497,11 @@ Enchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto 
     <target state="translated">Walker of the Grove</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="3a4e30fa-c49a-4992-b029-5234a3063aee" resname="C13·175 | Walker of the Grove | Card Text: Paragraph 1">
-    <source>When Walker of the Grove leaves the battlefield, put a 4/4 green Elemental creature token onto the battlefield.</source>
-    <target state="translated">When Walker of the Grove leaves the battlefield, put a 4/4 green Elemental creature token onto the battlefield.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="3a4e30fa-c49a-4992-b029-5234a3063aee" resname="C13·175 | Walker of the Grove | Card Text: Paragraph 2">
-    <source>Evoke {4}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
-    <target state="translated">Evoke {4}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</target>
+<trans-unit id="3a4e30fa-c49a-4992-b029-5234a3063aee" resname="C13·175 | Walker of the Grove | Card Text">
+    <source>When Walker of the Grove leaves the battlefield, put a 4/4 green Elemental creature token onto the battlefield.
+Evoke {4}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
+    <target state="translated">When Walker of the Grove leaves the battlefield, put a 4/4 green Elemental creature token onto the battlefield.
+Evoke {4}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="2b93eac0-8205-4e52-ad6c-823756f90ab1" resname="C13·176 | Aethermage's Touch | Card Name">
@@ -2680,14 +2519,11 @@ Enchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto 
     <target state="translated">Baleful Strix</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="47ac0f77-1294-4de9-93d1-141a9f314f98" resname="C13·177 | Baleful Strix | Card Text: Paragraph 1">
-    <source>Flying, deathtouch</source>
-    <target state="translated">Flying, deathtouch</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="47ac0f77-1294-4de9-93d1-141a9f314f98" resname="C13·177 | Baleful Strix | Card Text: Paragraph 2">
-    <source>When Baleful Strix enters the battlefield, draw a card.</source>
-    <target state="translated">When Baleful Strix enters the battlefield, draw a card.</target>
+<trans-unit id="47ac0f77-1294-4de9-93d1-141a9f314f98" resname="C13·177 | Baleful Strix | Card Text">
+    <source>Flying, deathtouch
+When Baleful Strix enters the battlefield, draw a card.</source>
+    <target state="translated">Flying, deathtouch
+When Baleful Strix enters the battlefield, draw a card.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="47ac0f77-1294-4de9-93d1-141a9f314f98" resname="C13·177 | Baleful Strix | Flavor Text">
@@ -2700,14 +2536,11 @@ Enchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto 
     <target state="translated">Behemoth Sledge</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="1cf41508-64c0-48ce-8bd3-e1ec554d085f" resname="C13·178 | Behemoth Sledge | Card Text: Paragraph 1">
-    <source>Equipped creature gets +2/+2 and has lifelink and trample.</source>
-    <target state="translated">Equipped creature gets +2/+2 and has lifelink and trample.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="1cf41508-64c0-48ce-8bd3-e1ec554d085f" resname="C13·178 | Behemoth Sledge | Card Text: Paragraph 2">
-    <source>Equip {3}</source>
-    <target state="translated">Equip {3}</target>
+<trans-unit id="1cf41508-64c0-48ce-8bd3-e1ec554d085f" resname="C13·178 | Behemoth Sledge | Card Text">
+    <source>Equipped creature gets +2/+2 and has lifelink and trample.
+Equip {3}</source>
+    <target state="translated">Equipped creature gets +2/+2 and has lifelink and trample.
+Equip {3}</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="1cf41508-64c0-48ce-8bd3-e1ec554d085f" resname="C13·178 | Behemoth Sledge | Flavor Text">
@@ -2735,14 +2568,11 @@ Enchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto 
     <target state="translated">Charnelhoard Wurm</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="1c0ec55e-88df-40f8-b08d-6185cdb4a3cc" resname="C13·180 | Charnelhoard Wurm | Card Text: Paragraph 1">
-    <source>Trample</source>
-    <target state="translated">Trample</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="1c0ec55e-88df-40f8-b08d-6185cdb4a3cc" resname="C13·180 | Charnelhoard Wurm | Card Text: Paragraph 2">
-    <source>Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.</source>
-    <target state="translated">Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.</target>
+<trans-unit id="1c0ec55e-88df-40f8-b08d-6185cdb4a3cc" resname="C13·180 | Charnelhoard Wurm | Card Text">
+    <source>Trample
+Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.</source>
+    <target state="translated">Trample
+Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="1c0ec55e-88df-40f8-b08d-6185cdb4a3cc" resname="C13·180 | Charnelhoard Wurm | Flavor Text">
@@ -2800,14 +2630,11 @@ Enchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto 
     <target state="translated">Deathbringer Thoctar</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="fdffa46e-8802-4479-a669-d33618f75d4f" resname="C13·184 | Deathbringer Thoctar | Card Text: Paragraph 1">
-    <source>Whenever another creature dies, you may put a +1/+1 counter on Deathbringer Thoctar.</source>
-    <target state="translated">Whenever another creature dies, you may put a +1/+1 counter on Deathbringer Thoctar.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="fdffa46e-8802-4479-a669-d33618f75d4f" resname="C13·184 | Deathbringer Thoctar | Card Text: Paragraph 2">
-    <source>Remove a +1/+1 counter from Deathbringer Thoctar: Deathbringer Thoctar deals 1 damage to target creature or player.</source>
-    <target state="translated">Remove a +1/+1 counter from Deathbringer Thoctar: Deathbringer Thoctar deals 1 damage to target creature or player.</target>
+<trans-unit id="fdffa46e-8802-4479-a669-d33618f75d4f" resname="C13·184 | Deathbringer Thoctar | Card Text">
+    <source>Whenever another creature dies, you may put a +1/+1 counter on Deathbringer Thoctar.
+Remove a +1/+1 counter from Deathbringer Thoctar: Deathbringer Thoctar deals 1 damage to target creature or player.</source>
+    <target state="translated">Whenever another creature dies, you may put a +1/+1 counter on Deathbringer Thoctar.
+Remove a +1/+1 counter from Deathbringer Thoctar: Deathbringer Thoctar deals 1 damage to target creature or player.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="d81fc89c-6eb8-4b75-bbaf-a7eb9679bab2" resname="C13·185 | Deepfire Elemental | Card Name">
@@ -2831,7 +2658,8 @@ Enchanted land has "{T}: Put a 5/5 green Beast creature token with trample onto 
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="3d61a4d4-f0d5-4bc4-8977-57bbb3d97776" resname="C13·186 | Derevi, Empyrial Tactician | Card Text">
-    <source>Flying\nWhenever Derevi, Empyrial Tactician enters the battlefield or a creature you control deals combat damage to a player, you may tap or untap target permanent.{1}{G}{W}{U}: Put Derevi onto the battlefield from the command zone.</source>
+    <source>Flying
+Whenever Derevi, Empyrial Tactician enters the battlefield or a creature you control deals combat damage to a player, you may tap or untap target permanent.{1}{G}{W}{U}: Put Derevi onto the battlefield from the command zone.</source>
     <target state="translated">Flying
 Whenever Derevi, Empyrial Tactician enters the battlefield or a creature you control deals combat damage to a player, you may tap or untap target permanent.{1}{G}{W}{U}: Put Derevi onto the battlefield from the command zone.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -2871,14 +2699,11 @@ Whenever Derevi, Empyrial Tactician enters the battlefield or a creature you con
     <target state="translated">Filigree Angel</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="46c0b36c-d2b8-4ed0-b523-3068584c1e71" resname="C13·189 | Filigree Angel | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="46c0b36c-d2b8-4ed0-b523-3068584c1e71" resname="C13·189 | Filigree Angel | Card Text: Paragraph 2">
-    <source>When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.</source>
-    <target state="translated">When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.</target>
+<trans-unit id="46c0b36c-d2b8-4ed0-b523-3068584c1e71" resname="C13·189 | Filigree Angel | Card Text">
+    <source>Flying
+When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.</source>
+    <target state="translated">Flying
+When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="46c0b36c-d2b8-4ed0-b523-3068584c1e71" resname="C13·189 | Filigree Angel | Flavor Text">
@@ -2891,14 +2716,11 @@ Whenever Derevi, Empyrial Tactician enters the battlefield or a creature you con
     <target state="translated">Fires of Yavimaya</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="82538d1b-7477-4d65-8aa2-e2b4ffec8d65" resname="C13·190 | Fires of Yavimaya | Card Text: Paragraph 1">
-    <source>Creatures you control have haste.</source>
-    <target state="translated">Creatures you control have haste.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="82538d1b-7477-4d65-8aa2-e2b4ffec8d65" resname="C13·190 | Fires of Yavimaya | Card Text: Paragraph 2">
-    <source>Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.</source>
-    <target state="translated">Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.</target>
+<trans-unit id="82538d1b-7477-4d65-8aa2-e2b4ffec8d65" resname="C13·190 | Fires of Yavimaya | Card Text">
+    <source>Creatures you control have haste.
+Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.</source>
+    <target state="translated">Creatures you control have haste.
+Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="82538d1b-7477-4d65-8aa2-e2b4ffec8d65" resname="C13·190 | Fires of Yavimaya | Flavor Text">
@@ -2957,7 +2779,9 @@ Whenever Derevi, Empyrial Tactician enters the battlefield or a creature you con
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="83f9aeb8-05ba-49d9-a834-62f42fcd295b" resname="C13·194 | Jeleva, Nephalia's Scourge | Card Text">
-    <source>Flying\nWhen Jeleva, Nephalia's Scourge enters the battlefield, each player exiles the top X cards of his or her library, where X is the amount of mana spent to cast Jeleva.\nWhenever Jeleva attacks, you may cast an instant or sorcery card exiled with it without paying its mana cost.</source>
+    <source>Flying
+When Jeleva, Nephalia's Scourge enters the battlefield, each player exiles the top X cards of his or her library, where X is the amount of mana spent to cast Jeleva.
+Whenever Jeleva attacks, you may cast an instant or sorcery card exiled with it without paying its mana cost.</source>
     <target state="translated">Flying
 When Jeleva, Nephalia's Scourge enters the battlefield, each player exiles the top X cards of his or her library, where X is the amount of mana spent to cast Jeleva.
 Whenever Jeleva attacks, you may cast an instant or sorcery card exiled with it without paying its mana cost.</target>
@@ -2983,14 +2807,11 @@ Whenever Jeleva attacks, you may cast an instant or sorcery card exiled with it 
     <target state="translated">Leafdrake Roost</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="1afe37e4-e2ba-4275-9d24-d58382587924" resname="C13·196 | Leafdrake Roost | Card Text: Paragraph 1">
-    <source>Enchant land</source>
-    <target state="translated">Enchant land</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="1afe37e4-e2ba-4275-9d24-d58382587924" resname="C13·196 | Leafdrake Roost | Card Text: Paragraph 2">
-    <source>Enchanted land has "{G}{U}, {T}: Put a 2/2 green and blue Drake creature token with flying onto the battlefield."</source>
-    <target state="translated">Enchanted land has "{G}{U}, {T}: Put a 2/2 green and blue Drake creature token with flying onto the battlefield."</target>
+<trans-unit id="1afe37e4-e2ba-4275-9d24-d58382587924" resname="C13·196 | Leafdrake Roost | Card Text">
+    <source>Enchant land
+Enchanted land has "{G}{U}, {T}: Put a 2/2 green and blue Drake creature token with flying onto the battlefield."</source>
+    <target state="translated">Enchant land
+Enchanted land has "{G}{U}, {T}: Put a 2/2 green and blue Drake creature token with flying onto the battlefield."</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="1afe37e4-e2ba-4275-9d24-d58382587924" resname="C13·196 | Leafdrake Roost | Flavor Text">
@@ -3053,14 +2874,11 @@ Whenever Jeleva attacks, you may cast an instant or sorcery card exiled with it 
     <target state="translated">Nekusar, the Mindrazer</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="3f7f2417-12de-4e57-9714-d878880a1208" resname="C13·201 | Nekusar, the Mindrazer | Card Text: Paragraph 1">
-    <source>At the beginning of each player's draw step, that player draws an additional card.</source>
-    <target state="translated">At the beginning of each player's draw step, that player draws an additional card.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="3f7f2417-12de-4e57-9714-d878880a1208" resname="C13·201 | Nekusar, the Mindrazer | Card Text: Paragraph 2">
-    <source>Whenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player.</source>
-    <target state="translated">Whenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player.</target>
+<trans-unit id="3f7f2417-12de-4e57-9714-d878880a1208" resname="C13·201 | Nekusar, the Mindrazer | Card Text">
+    <source>At the beginning of each player's draw step, that player draws an additional card.
+Whenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player.</source>
+    <target state="translated">At the beginning of each player's draw step, that player draws an additional card.
+Whenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="3f7f2417-12de-4e57-9714-d878880a1208" resname="C13·201 | Nekusar, the Mindrazer | Flavor Text">
@@ -3089,7 +2907,9 @@ Whenever Jeleva attacks, you may cast an instant or sorcery card exiled with it 
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="abf8df47-405c-42d8-be9e-0f0d0a49589b" resname="C13·203 | Oloro, Ageless Ascetic | Card Text">
-    <source>At the beginning of your upkeep, you gain 2 life.\nWhenever you gain life, you may pay {1}. If you do, draw a card and each opponent loses 1 life.\nAt the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zone, you gain 2 life.</source>
+    <source>At the beginning of your upkeep, you gain 2 life.
+Whenever you gain life, you may pay {1}. If you do, draw a card and each opponent loses 1 life.
+At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zone, you gain 2 life.</source>
     <target state="translated">At the beginning of your upkeep, you gain 2 life.
 Whenever you gain life, you may pay {1}. If you do, draw a card and each opponent loses 1 life.
 At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zone, you gain 2 life.</target>
@@ -3100,19 +2920,13 @@ At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zon
     <target state="translated">Prossh, Skyraider of Kher</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="fc411c52-3ee2-4fe4-983d-3fa43b516237" resname="C13·204 | Prossh, Skyraider of Kher | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="fc411c52-3ee2-4fe4-983d-3fa43b516237" resname="C13·204 | Prossh, Skyraider of Kher | Card Text: Paragraph 2">
-    <source>When you cast Prossh, Skyraider of Kher, put X 0/1 red Kobold creature tokens named Kobolds of Kher Keep onto the battlefield, where X is the amount of mana spent to cast Prossh.</source>
-    <target state="translated">When you cast Prossh, Skyraider of Kher, put X 0/1 red Kobold creature tokens named Kobolds of Kher Keep onto the battlefield, where X is the amount of mana spent to cast Prossh.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="fc411c52-3ee2-4fe4-983d-3fa43b516237" resname="C13·204 | Prossh, Skyraider of Kher | Card Text: Paragraph 3">
-    <source>Sacrifice another creature: Prossh gets +1/+0 until end of turn.</source>
-    <target state="translated">Sacrifice another creature: Prossh gets +1/+0 until end of turn.</target>
+<trans-unit id="fc411c52-3ee2-4fe4-983d-3fa43b516237" resname="C13·204 | Prossh, Skyraider of Kher | Card Text">
+    <source>Flying
+When you cast Prossh, Skyraider of Kher, put X 0/1 red Kobold creature tokens named Kobolds of Kher Keep onto the battlefield, where X is the amount of mana spent to cast Prossh.
+Sacrifice another creature: Prossh gets +1/+0 until end of turn.</source>
+    <target state="translated">Flying
+When you cast Prossh, Skyraider of Kher, put X 0/1 red Kobold creature tokens named Kobolds of Kher Keep onto the battlefield, where X is the amount of mana spent to cast Prossh.
+Sacrifice another creature: Prossh gets +1/+0 until end of turn.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="a158bb17-d2e0-416d-840a-5e25fb5ac5c1" resname="C13·205 | Rakeclaw Gargantuan | Card Name">
@@ -3220,14 +3034,11 @@ At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zon
     <target state="translated">Sharuum the Hegemon</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="67a492b5-a392-497c-907d-29d3ede7e486" resname="C13·212 | Sharuum the Hegemon | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="67a492b5-a392-497c-907d-29d3ede7e486" resname="C13·212 | Sharuum the Hegemon | Card Text: Paragraph 2">
-    <source>When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.</source>
-    <target state="translated">When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.</target>
+<trans-unit id="67a492b5-a392-497c-907d-29d3ede7e486" resname="C13·212 | Sharuum the Hegemon | Card Text">
+    <source>Flying
+When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.</source>
+    <target state="translated">Flying
+When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="67a492b5-a392-497c-907d-29d3ede7e486" resname="C13·212 | Sharuum the Hegemon | Flavor Text">
@@ -3280,14 +3091,11 @@ At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zon
     <target state="translated">Spellbreaker Behemoth</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="b8f73857-8bfb-400a-8c33-47c85276fb2a" resname="C13·216 | Spellbreaker Behemoth | Card Text: Paragraph 1">
-    <source>Spellbreaker Behemoth can't be countered.</source>
-    <target state="translated">Spellbreaker Behemoth can't be countered.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="b8f73857-8bfb-400a-8c33-47c85276fb2a" resname="C13·216 | Spellbreaker Behemoth | Card Text: Paragraph 2">
-    <source>Creature spells you control with power 5 or greater can't be countered.</source>
-    <target state="translated">Creature spells you control with power 5 or greater can't be countered.</target>
+<trans-unit id="b8f73857-8bfb-400a-8c33-47c85276fb2a" resname="C13·216 | Spellbreaker Behemoth | Card Text">
+    <source>Spellbreaker Behemoth can't be countered.
+Creature spells you control with power 5 or greater can't be countered.</source>
+    <target state="translated">Spellbreaker Behemoth can't be countered.
+Creature spells you control with power 5 or greater can't be countered.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="b8f73857-8bfb-400a-8c33-47c85276fb2a" resname="C13·216 | Spellbreaker Behemoth | Flavor Text">
@@ -3315,14 +3123,11 @@ At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zon
     <target state="translated">Spinal Embrace</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="f1f40893-82b6-4849-a882-b5807dbb03ff" resname="C13·218 | Spinal Embrace | Card Text: Paragraph 1">
-    <source>Cast Spinal Embrace only during combat.</source>
-    <target state="translated">Cast Spinal Embrace only during combat.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="f1f40893-82b6-4849-a882-b5807dbb03ff" resname="C13·218 | Spinal Embrace | Card Text: Paragraph 2">
-    <source>Untap target creature you don't control and gain control of it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. If you do, you gain life equal to its toughness.</source>
-    <target state="translated">Untap target creature you don't control and gain control of it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. If you do, you gain life equal to its toughness.</target>
+<trans-unit id="f1f40893-82b6-4849-a882-b5807dbb03ff" resname="C13·218 | Spinal Embrace | Card Text">
+    <source>Cast Spinal Embrace only during combat.
+Untap target creature you don't control and gain control of it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. If you do, you gain life equal to its toughness.</source>
+    <target state="translated">Cast Spinal Embrace only during combat.
+Untap target creature you don't control and gain control of it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. If you do, you gain life equal to its toughness.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="f9a7cf01-23d1-4006-8a71-e1e8e57e20bf" resname="C13·219 | Sprouting Thrinax | Card Name">
@@ -3355,19 +3160,13 @@ At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zon
     <target state="translated">Thraximundar</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="199d862e-d043-47f1-b097-76877b260608" resname="C13·221 | Thraximundar | Card Text: Paragraph 1">
-    <source>Haste</source>
-    <target state="translated">Haste</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="199d862e-d043-47f1-b097-76877b260608" resname="C13·221 | Thraximundar | Card Text: Paragraph 2">
-    <source>Whenever Thraximundar attacks, defending player sacrifices a creature.</source>
-    <target state="translated">Whenever Thraximundar attacks, defending player sacrifices a creature.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="199d862e-d043-47f1-b097-76877b260608" resname="C13·221 | Thraximundar | Card Text: Paragraph 3">
-    <source>Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.</source>
-    <target state="translated">Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.</target>
+<trans-unit id="199d862e-d043-47f1-b097-76877b260608" resname="C13·221 | Thraximundar | Card Text">
+    <source>Haste
+Whenever Thraximundar attacks, defending player sacrifices a creature.
+Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.</source>
+    <target state="translated">Haste
+Whenever Thraximundar attacks, defending player sacrifices a creature.
+Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="199d862e-d043-47f1-b097-76877b260608" resname="C13·221 | Thraximundar | Flavor Text">
@@ -3380,14 +3179,11 @@ At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zon
     <target state="translated">Tidehollow Strix</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="17be4a4e-5f11-4c3e-b447-9feb5ccbc448" resname="C13·222 | Tidehollow Strix | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="17be4a4e-5f11-4c3e-b447-9feb5ccbc448" resname="C13·222 | Tidehollow Strix | Card Text: Paragraph 2">
-    <source>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</source>
-    <target state="translated">Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</target>
+<trans-unit id="17be4a4e-5f11-4c3e-b447-9feb5ccbc448" resname="C13·222 | Tidehollow Strix | Card Text">
+    <source>Flying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</source>
+    <target state="translated">Flying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="17be4a4e-5f11-4c3e-b447-9feb5ccbc448" resname="C13·222 | Tidehollow Strix | Flavor Text">
@@ -3436,7 +3232,9 @@ At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zon
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="9e54f4bc-eb76-4353-af2f-188a6c914db7" resname="C13·226 | Winged Coatl | Card Text">
-    <source>Flash (You may cast this spell any time you could cast an instant.)\nFlying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</source>
+    <source>Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</source>
     <target state="translated">Flash (You may cast this spell any time you could cast an instant.)
 Flying
 Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</target>
@@ -3507,19 +3305,13 @@ Deathtouch (Any amount of damage this deals to a creature is enough to destroy i
     <target state="translated">Murkfiend Liege</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="d150a778-3f54-4f76-ad44-bc069335d9fc" resname="C13·231 | Murkfiend Liege | Card Text: Paragraph 1">
-    <source>Other green creatures you control get +1/+1.</source>
-    <target state="translated">Other green creatures you control get +1/+1.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="d150a778-3f54-4f76-ad44-bc069335d9fc" resname="C13·231 | Murkfiend Liege | Card Text: Paragraph 2">
-    <source>Other blue creatures you control get +1/+1.</source>
-    <target state="translated">Other blue creatures you control get +1/+1.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="d150a778-3f54-4f76-ad44-bc069335d9fc" resname="C13·231 | Murkfiend Liege | Card Text: Paragraph 3">
-    <source>Untap all green and/or blue creatures you control during each other player's untap step.</source>
-    <target state="translated">Untap all green and/or blue creatures you control during each other player's untap step.</target>
+<trans-unit id="d150a778-3f54-4f76-ad44-bc069335d9fc" resname="C13·231 | Murkfiend Liege | Card Text">
+    <source>Other green creatures you control get +1/+1.
+Other blue creatures you control get +1/+1.
+Untap all green and/or blue creatures you control during each other player's untap step.</source>
+    <target state="translated">Other green creatures you control get +1/+1.
+Other blue creatures you control get +1/+1.
+Untap all green and/or blue creatures you control during each other player's untap step.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="f251cd07-d3b8-4a22-a5fb-4a1a98cc6da4" resname="C13·232 | Selesnya Guildmage | Card Name">
@@ -3537,14 +3329,11 @@ Deathtouch (Any amount of damage this deals to a creature is enough to destroy i
     <target state="translated">Spiteful Visions</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="e2475965-01a6-4a32-bca9-80018ab31d9a" resname="C13·233 | Spiteful Visions | Card Text: Paragraph 1">
-    <source>At the beginning of each player's draw step, that player draws an additional card.</source>
-    <target state="translated">At the beginning of each player's draw step, that player draws an additional card.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="e2475965-01a6-4a32-bca9-80018ab31d9a" resname="C13·233 | Spiteful Visions | Card Text: Paragraph 2">
-    <source>Whenever a player draws a card, Spiteful Visions deals 1 damage to that player.</source>
-    <target state="translated">Whenever a player draws a card, Spiteful Visions deals 1 damage to that player.</target>
+<trans-unit id="e2475965-01a6-4a32-bca9-80018ab31d9a" resname="C13·233 | Spiteful Visions | Card Text">
+    <source>At the beginning of each player's draw step, that player draws an additional card.
+Whenever a player draws a card, Spiteful Visions deals 1 damage to that player.</source>
+    <target state="translated">At the beginning of each player's draw step, that player draws an additional card.
+Whenever a player draws a card, Spiteful Visions deals 1 damage to that player.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="e2475965-01a6-4a32-bca9-80018ab31d9a" resname="C13·233 | Spiteful Visions | Flavor Text">
@@ -3727,14 +3516,11 @@ Deathtouch (Any amount of damage this deals to a creature is enough to destroy i
     <target state="translated">Myr Battlesphere</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="05e8a4ea-8c0d-4284-ac23-80e19fdde11d" resname="C13·247 | Myr Battlesphere | Card Text: Paragraph 1">
-    <source>When Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.</source>
-    <target state="translated">When Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="05e8a4ea-8c0d-4284-ac23-80e19fdde11d" resname="C13·247 | Myr Battlesphere | Card Text: Paragraph 2">
-    <source>Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.</source>
-    <target state="translated">Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.</target>
+<trans-unit id="05e8a4ea-8c0d-4284-ac23-80e19fdde11d" resname="C13·247 | Myr Battlesphere | Card Text">
+    <source>When Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.
+Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.</source>
+    <target state="translated">When Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.
+Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="d35c5690-427c-4f82-8489-c7a2a6ef355d" resname="C13·248 | Nevinyrral's Disk | Card Name">
@@ -3752,14 +3538,11 @@ Deathtouch (Any amount of damage this deals to a creature is enough to destroy i
     <target state="translated">Nihil Spellbomb</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="2cbaefb7-98d2-418c-926a-6c2c1cba79ba" resname="C13·249 | Nihil Spellbomb | Card Text: Paragraph 1">
-    <source>{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.</source>
-    <target state="translated">{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="2cbaefb7-98d2-418c-926a-6c2c1cba79ba" resname="C13·249 | Nihil Spellbomb | Card Text: Paragraph 2">
-    <source>When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.</source>
-    <target state="translated">When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.</target>
+<trans-unit id="2cbaefb7-98d2-418c-926a-6c2c1cba79ba" resname="C13·249 | Nihil Spellbomb | Card Text">
+    <source>{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.
+When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.</source>
+    <target state="translated">{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.
+When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="70b347b1-9277-4ad0-88c8-faacace08827" resname="C13·250 | Obelisk of Esper | Card Name">
@@ -3812,14 +3595,11 @@ Deathtouch (Any amount of damage this deals to a creature is enough to destroy i
     <target state="translated">Pilgrim's Eye</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="ae9488d9-efeb-45a9-afcd-c5bb386847c8" resname="C13·253 | Pilgrim's Eye | Card Text: Paragraph 1">
-    <source>Flying</source>
-    <target state="translated">Flying</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="ae9488d9-efeb-45a9-afcd-c5bb386847c8" resname="C13·253 | Pilgrim's Eye | Card Text: Paragraph 2">
-    <source>When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</source>
-    <target state="translated">When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</target>
+<trans-unit id="ae9488d9-efeb-45a9-afcd-c5bb386847c8" resname="C13·253 | Pilgrim's Eye | Card Text">
+    <source>Flying
+When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</source>
+    <target state="translated">Flying
+When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="ae9488d9-efeb-45a9-afcd-c5bb386847c8" resname="C13·253 | Pilgrim's Eye | Flavor Text">
@@ -3833,7 +3613,8 @@ Deathtouch (Any amount of damage this deals to a creature is enough to destroy i
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="869e27e3-1707-4e1d-b04a-8309da2e41b4" resname="C13·254 | Plague Boiler | Card Text">
-    <source>At the beginning of your upkeep, put a plague counter on Plague Boiler.{1}{B}{G}: Put a plague counter on Plague Boiler or remove a plague counter from it.\nWhen Plague Boiler has three or more plague counters on it, sacrifice it. If you do, destroy all nonland permanents.</source>
+    <source>At the beginning of your upkeep, put a plague counter on Plague Boiler.{1}{B}{G}: Put a plague counter on Plague Boiler or remove a plague counter from it.
+When Plague Boiler has three or more plague counters on it, sacrifice it. If you do, destroy all nonland permanents.</source>
     <target state="translated">At the beginning of your upkeep, put a plague counter on Plague Boiler.{1}{B}{G}: Put a plague counter on Plague Boiler or remove a plague counter from it.
 When Plague Boiler has three or more plague counters on it, sacrifice it. If you do, destroy all nonland permanents.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -3918,14 +3699,11 @@ When Plague Boiler has three or more plague counters on it, sacrifice it. If you
     <target state="translated">Spine of Ish Sah</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="86cd428e-b60e-481c-8cdb-8e57f8cc59e3" resname="C13·260 | Spine of Ish Sah | Card Text: Paragraph 1">
-    <source>When Spine of Ish Sah enters the battlefield, destroy target permanent.</source>
-    <target state="translated">When Spine of Ish Sah enters the battlefield, destroy target permanent.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="86cd428e-b60e-481c-8cdb-8e57f8cc59e3" resname="C13·260 | Spine of Ish Sah | Card Text: Paragraph 2">
-    <source>When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner's hand.</source>
-    <target state="translated">When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner's hand.</target>
+<trans-unit id="86cd428e-b60e-481c-8cdb-8e57f8cc59e3" resname="C13·260 | Spine of Ish Sah | Card Text">
+    <source>When Spine of Ish Sah enters the battlefield, destroy target permanent.
+When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner's hand.</source>
+    <target state="translated">When Spine of Ish Sah enters the battlefield, destroy target permanent.
+When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner's hand.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="65478c6a-05ba-461d-b1f0-c441d4922f34" resname="C13·261 | Sun Droplet | Card Name">
@@ -3933,14 +3711,11 @@ When Plague Boiler has three or more plague counters on it, sacrifice it. If you
     <target state="translated">Sun Droplet</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="65478c6a-05ba-461d-b1f0-c441d4922f34" resname="C13·261 | Sun Droplet | Card Text: Paragraph 1">
-    <source>Whenever you're dealt damage, put that many charge counters on Sun Droplet.</source>
-    <target state="translated">Whenever you're dealt damage, put that many charge counters on Sun Droplet.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="65478c6a-05ba-461d-b1f0-c441d4922f34" resname="C13·261 | Sun Droplet | Card Text: Paragraph 2">
-    <source>At the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.</source>
-    <target state="translated">At the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.</target>
+<trans-unit id="65478c6a-05ba-461d-b1f0-c441d4922f34" resname="C13·261 | Sun Droplet | Card Text">
+    <source>Whenever you're dealt damage, put that many charge counters on Sun Droplet.
+At the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.</source>
+    <target state="translated">Whenever you're dealt damage, put that many charge counters on Sun Droplet.
+At the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="07a2e39d-037a-464e-9102-f06feebefaf9" resname="C13·262 | Surveyor's Scope | Card Name">
@@ -3958,14 +3733,11 @@ When Plague Boiler has three or more plague counters on it, sacrifice it. If you
     <target state="translated">Swiftfoot Boots</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
-<trans-unit id="da8ac93d-3377-4768-8152-d988a090de2a" resname="C13·263 | Swiftfoot Boots | Card Text: Paragraph 1">
-    <source>Equipped creature has hexproof and haste.</source>
-    <target state="translated">Equipped creature has hexproof and haste.</target>
-    <note from="developer" priority="1" category="card_text"></note>
-</trans-unit>
-<trans-unit id="da8ac93d-3377-4768-8152-d988a090de2a" resname="C13·263 | Swiftfoot Boots | Card Text: Paragraph 2">
-    <source>Equip {1}</source>
-    <target state="translated">Equip {1}</target>
+<trans-unit id="da8ac93d-3377-4768-8152-d988a090de2a" resname="C13·263 | Swiftfoot Boots | Card Text">
+    <source>Equipped creature has hexproof and haste.
+Equip {1}</source>
+    <target state="translated">Equipped creature has hexproof and haste.
+Equip {1}</target>
     <note from="developer" priority="1" category="card_text"></note>
 </trans-unit>
 <trans-unit id="75524259-3d38-4720-a94f-ad10948cc1bb" resname="C13·264 | Sword of the Paruns | Card Name">
@@ -3974,7 +3746,9 @@ When Plague Boiler has three or more plague counters on it, sacrifice it. If you
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="75524259-3d38-4720-a94f-ad10948cc1bb" resname="C13·264 | Sword of the Paruns | Card Text">
-    <source>As long as equipped creature is tapped, tapped creatures you control get +2/+0.\nAs long as equipped creature is untapped, untapped creatures you control get +0/+2.{3}: You may tap or untap equipped creature.\nEquip {3}</source>
+    <source>As long as equipped creature is tapped, tapped creatures you control get +2/+0.
+As long as equipped creature is untapped, untapped creatures you control get +0/+2.{3}: You may tap or untap equipped creature.
+Equip {3}</source>
     <target state="translated">As long as equipped creature is tapped, tapped creatures you control get +2/+0.
 As long as equipped creature is untapped, untapped creatures you control get +0/+2.{3}: You may tap or untap equipped creature.
 Equip {3}</target>
@@ -4091,7 +3865,8 @@ Equip {3}</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="0b32023d-454a-456c-92fa-ebd591d2b854" resname="C13·272 | Akoum Refuge | Card Text">
-    <source>Akoum Refuge enters the battlefield tapped.\nWhen Akoum Refuge enters the battlefield, you gain 1 life.{T}: Add {B} or {R} to your mana pool.</source>
+    <source>Akoum Refuge enters the battlefield tapped.
+When Akoum Refuge enters the battlefield, you gain 1 life.{T}: Add {B} or {R} to your mana pool.</source>
     <target state="translated">Akoum Refuge enters the battlefield tapped.
 When Akoum Refuge enters the battlefield, you gain 1 life.{T}: Add {B} or {R} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4117,7 +3892,8 @@ When Akoum Refuge enters the battlefield, you gain 1 life.{T}: Add {B} or {R} to
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="7f005c7d-d0c6-4ac7-824c-040916023b75" resname="C13·274 | Azorius Chancery | Card Text">
-    <source>Azorius Chancery enters the battlefield tapped.\nWhen Azorius Chancery enters the battlefield, return a land you control to its owner's hand.{T}: Add {W}{U} to your mana pool.</source>
+    <source>Azorius Chancery enters the battlefield tapped.
+When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.{T}: Add {W}{U} to your mana pool.</source>
     <target state="translated">Azorius Chancery enters the battlefield tapped.
 When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.{T}: Add {W}{U} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4158,7 +3934,8 @@ When Azorius Chancery enters the battlefield, return a land you control to its o
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="80f4218e-b32e-415e-a240-79a466e04983" resname="C13·277 | Barren Moor | Card Text">
-    <source>Barren Moor enters the battlefield tapped.{T}: Add {B} to your mana pool.\nCycling {B} ({B}, Discard this card: Draw a card.)</source>
+    <source>Barren Moor enters the battlefield tapped.{T}: Add {B} to your mana pool.
+Cycling {B} ({B}, Discard this card: Draw a card.)</source>
     <target state="translated">Barren Moor enters the battlefield tapped.{T}: Add {B} to your mana pool.
 Cycling {B} ({B}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4169,7 +3946,8 @@ Cycling {B} ({B}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="2ef9848c-fe7f-4434-8936-4074f67883af" resname="C13·278 | Bojuka Bog | Card Text">
-    <source>Bojuka Bog enters the battlefield tapped.\nWhen Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.{T}: Add {B} to your mana pool.</source>
+    <source>Bojuka Bog enters the battlefield tapped.
+When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.{T}: Add {B} to your mana pool.</source>
     <target state="translated">Bojuka Bog enters the battlefield tapped.
 When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.{T}: Add {B} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4180,7 +3958,8 @@ When Bojuka Bog enters the battlefield, exile all cards from target player's gra
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="c468dd1c-6f0a-4679-9d33-17e17db8841d" resname="C13·279 | Boros Garrison | Card Text">
-    <source>Boros Garrison enters the battlefield tapped.\nWhen Boros Garrison enters the battlefield, return a land you control to its owner's hand.{T}: Add {R}{W} to your mana pool.</source>
+    <source>Boros Garrison enters the battlefield tapped.
+When Boros Garrison enters the battlefield, return a land you control to its owner's hand.{T}: Add {R}{W} to your mana pool.</source>
     <target state="translated">Boros Garrison enters the battlefield tapped.
 When Boros Garrison enters the battlefield, return a land you control to its owner's hand.{T}: Add {R}{W} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4261,7 +4040,8 @@ When Boros Garrison enters the battlefield, return a land you control to its own
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="6b2cb78c-c0d6-45e3-a957-71d634fc34b2" resname="C13·285 | Drifting Meadow | Card Text">
-    <source>Drifting Meadow enters the battlefield tapped.{T}: Add {W} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)</source>
+    <source>Drifting Meadow enters the battlefield tapped.{T}: Add {W} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)</source>
     <target state="translated">Drifting Meadow enters the battlefield tapped.{T}: Add {W} to your mana pool.
 Cycling {2} ({2}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4312,7 +4092,8 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="5b1535fc-8ace-4b5a-b492-a0ee09c42a9a" resname="C13·289 | Forgotten Cave | Card Text">
-    <source>Forgotten Cave enters the battlefield tapped.{T}: Add {R} to your mana pool.\nCycling {R} ({R}, Discard this card: Draw a card.)</source>
+    <source>Forgotten Cave enters the battlefield tapped.{T}: Add {R} to your mana pool.
+Cycling {R} ({R}, Discard this card: Draw a card.)</source>
     <target state="translated">Forgotten Cave enters the battlefield tapped.{T}: Add {R} to your mana pool.
 Cycling {R} ({R}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4338,7 +4119,8 @@ Cycling {R} ({R}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="5cd0bb20-669a-47ad-9fd7-f44aa48c8ce2" resname="C13·291 | Golgari Rot Farm | Card Text">
-    <source>Golgari Rot Farm enters the battlefield tapped.\nWhen Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.{T}: Add {B}{G} to your mana pool.</source>
+    <source>Golgari Rot Farm enters the battlefield tapped.
+When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.{T}: Add {B}{G} to your mana pool.</source>
     <target state="translated">Golgari Rot Farm enters the battlefield tapped.
 When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.{T}: Add {B}{G} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4409,7 +4191,8 @@ When Golgari Rot Farm enters the battlefield, return a land you control to its o
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="d7cbaf09-7125-4549-b1af-9874f14c4b1c" resname="C13·296 | Izzet Boilerworks | Card Text">
-    <source>Izzet Boilerworks enters the battlefield tapped.\nWhen Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.{T}: Add {U}{R} to your mana pool.</source>
+    <source>Izzet Boilerworks enters the battlefield tapped.
+When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.{T}: Add {U}{R} to your mana pool.</source>
     <target state="translated">Izzet Boilerworks enters the battlefield tapped.
 When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.{T}: Add {U}{R} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4465,7 +4248,8 @@ When Izzet Boilerworks enters the battlefield, return a land you control to its 
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="d748fbf3-ece2-4f48-9a7e-701a327dd749" resname="C13·300 | Jwar Isle Refuge | Card Text">
-    <source>Jwar Isle Refuge enters the battlefield tapped.\nWhen Jwar Isle Refuge enters the battlefield, you gain 1 life.{T}: Add {U} or {B} to your mana pool.</source>
+    <source>Jwar Isle Refuge enters the battlefield tapped.
+When Jwar Isle Refuge enters the battlefield, you gain 1 life.{T}: Add {U} or {B} to your mana pool.</source>
     <target state="translated">Jwar Isle Refuge enters the battlefield tapped.
 When Jwar Isle Refuge enters the battlefield, you gain 1 life.{T}: Add {U} or {B} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4476,7 +4260,8 @@ When Jwar Isle Refuge enters the battlefield, you gain 1 life.{T}: Add {U} or {B
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="94d5eb61-4f38-42a0-92b2-1f25019bd436" resname="C13·301 | Kazandu Refuge | Card Text">
-    <source>Kazandu Refuge enters the battlefield tapped.\nWhen Kazandu Refuge enters the battlefield, you gain 1 life.{T}: Add {R} or {G} to your mana pool.</source>
+    <source>Kazandu Refuge enters the battlefield tapped.
+When Kazandu Refuge enters the battlefield, you gain 1 life.{T}: Add {R} or {G} to your mana pool.</source>
     <target state="translated">Kazandu Refuge enters the battlefield tapped.
 When Kazandu Refuge enters the battlefield, you gain 1 life.{T}: Add {R} or {G} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4487,7 +4272,8 @@ When Kazandu Refuge enters the battlefield, you gain 1 life.{T}: Add {R} or {G} 
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="55d17634-db36-47e3-855f-7c3a8419cce7" resname="C13·302 | Khalni Garden | Card Text">
-    <source>Khalni Garden enters the battlefield tapped.\nWhen Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.{T}: Add {G} to your mana pool.</source>
+    <source>Khalni Garden enters the battlefield tapped.
+When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.{T}: Add {G} to your mana pool.</source>
     <target state="translated">Khalni Garden enters the battlefield tapped.
 When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.{T}: Add {G} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4513,7 +4299,8 @@ When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token 
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="20311caa-0ab7-4273-98a6-5e7dd1b7ab38" resname="C13·304 | Llanowar Reborn | Card Text">
-    <source>Llanowar Reborn enters the battlefield tapped.{T}: Add {G} to your mana pool.\nGraft 1 (This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)</source>
+    <source>Llanowar Reborn enters the battlefield tapped.{T}: Add {G} to your mana pool.
+Graft 1 (This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)</source>
     <target state="translated">Llanowar Reborn enters the battlefield tapped.{T}: Add {G} to your mana pool.
 Graft 1 (This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4524,7 +4311,8 @@ Graft 1 (This land enters the battlefield with a +1/+1 counter on it. Whenever a
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="a54cf217-263f-4872-91b2-d5fb808f64b7" resname="C13·305 | Lonely Sandbar | Card Text">
-    <source>Lonely Sandbar enters the battlefield tapped.{T}: Add {U} to your mana pool.\nCycling {U} ({U}, Discard this card: Draw a card.)</source>
+    <source>Lonely Sandbar enters the battlefield tapped.{T}: Add {U} to your mana pool.
+Cycling {U} ({U}, Discard this card: Draw a card.)</source>
     <target state="translated">Lonely Sandbar enters the battlefield tapped.{T}: Add {U} to your mana pool.
 Cycling {U} ({U}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4570,7 +4358,8 @@ Cycling {U} ({U}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="2ea41704-04e2-4cba-95c6-7cf827ad45af" resname="C13·309 | New Benalia | Card Text">
-    <source>New Benalia enters the battlefield tapped.\nWhen New Benalia enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.){T}: Add {W} to your mana pool.</source>
+    <source>New Benalia enters the battlefield tapped.
+When New Benalia enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.){T}: Add {W} to your mana pool.</source>
     <target state="translated">New Benalia enters the battlefield tapped.
 When New Benalia enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.){T}: Add {W} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4591,7 +4380,8 @@ When New Benalia enters the battlefield, scry 1. (Look at the top card of your l
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="c42c3e02-9ef3-4a9d-905c-4385fea401ba" resname="C13·311 | Orzhov Basilica | Card Text">
-    <source>Orzhov Basilica enters the battlefield tapped.\nWhen Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.{T}: Add {W}{B} to your mana pool.</source>
+    <source>Orzhov Basilica enters the battlefield tapped.
+When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.{T}: Add {W}{B} to your mana pool.</source>
     <target state="translated">Orzhov Basilica enters the battlefield tapped.
 When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.{T}: Add {W}{B} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4617,7 +4407,8 @@ When Orzhov Basilica enters the battlefield, return a land you control to its ow
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="e8f41cb8-1d86-4fef-9689-030625674b9d" resname="C13·313 | Rakdos Carnarium | Card Text">
-    <source>Rakdos Carnarium enters the battlefield tapped.\nWhen Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.{T}: Add {B}{R} to your mana pool.</source>
+    <source>Rakdos Carnarium enters the battlefield tapped.
+When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.{T}: Add {B}{R} to your mana pool.</source>
     <target state="translated">Rakdos Carnarium enters the battlefield tapped.
 When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.{T}: Add {B}{R} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4643,7 +4434,8 @@ When Rakdos Carnarium enters the battlefield, return a land you control to its o
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="622087fc-4e34-43cd-a46f-fd2c339b3905" resname="C13·315 | Rupture Spire | Card Text">
-    <source>Rupture Spire enters the battlefield tapped.\nWhen Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.{T}: Add one mana of any color to your mana pool.</source>
+    <source>Rupture Spire enters the battlefield tapped.
+When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.{T}: Add one mana of any color to your mana pool.</source>
     <target state="translated">Rupture Spire enters the battlefield tapped.
 When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.{T}: Add one mana of any color to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4694,7 +4486,8 @@ When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.{T}: 
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="bd3dc829-f296-43dc-a34a-41511de89445" resname="C13·319 | Secluded Steppe | Card Text">
-    <source>Secluded Steppe enters the battlefield tapped.{T}: Add {W} to your mana pool.\nCycling {W} ({W}, Discard this card: Draw a card.)</source>
+    <source>Secluded Steppe enters the battlefield tapped.{T}: Add {W} to your mana pool.
+Cycling {W} ({W}, Discard this card: Draw a card.)</source>
     <target state="translated">Secluded Steppe enters the battlefield tapped.{T}: Add {W} to your mana pool.
 Cycling {W} ({W}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4705,7 +4498,8 @@ Cycling {W} ({W}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="65d1bf3c-f34a-4203-bae8-a17974f7800a" resname="C13·320 | Sejiri Refuge | Card Text">
-    <source>Sejiri Refuge enters the battlefield tapped.\nWhen Sejiri Refuge enters the battlefield, you gain 1 life.{T}: Add {W} or {U} to your mana pool.</source>
+    <source>Sejiri Refuge enters the battlefield tapped.
+When Sejiri Refuge enters the battlefield, you gain 1 life.{T}: Add {W} or {U} to your mana pool.</source>
     <target state="translated">Sejiri Refuge enters the battlefield tapped.
 When Sejiri Refuge enters the battlefield, you gain 1 life.{T}: Add {W} or {U} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4731,7 +4525,8 @@ When Sejiri Refuge enters the battlefield, you gain 1 life.{T}: Add {W} or {U} t
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="3e1f5d20-ae92-4a4b-a892-23f2cc2836a4" resname="C13·322 | Selesnya Sanctuary | Card Text">
-    <source>Selesnya Sanctuary enters the battlefield tapped.\nWhen Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.{T}: Add {G}{W} to your mana pool.</source>
+    <source>Selesnya Sanctuary enters the battlefield tapped.
+When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.{T}: Add {G}{W} to your mana pool.</source>
     <target state="translated">Selesnya Sanctuary enters the battlefield tapped.
 When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.{T}: Add {G}{W} to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4757,7 +4552,8 @@ When Selesnya Sanctuary enters the battlefield, return a land you control to its
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="9ae61670-9b39-4254-96c7-b2fb48d85a95" resname="C13·324 | Slippery Karst | Card Text">
-    <source>Slippery Karst enters the battlefield tapped.{T}: Add {G} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)</source>
+    <source>Slippery Karst enters the battlefield tapped.{T}: Add {G} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)</source>
     <target state="translated">Slippery Karst enters the battlefield tapped.{T}: Add {G} to your mana pool.
 Cycling {2} ({2}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4768,7 +4564,8 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="eec84c7c-a6a5-4924-9ed2-160cace667ab" resname="C13·325 | Smoldering Crater | Card Text">
-    <source>Smoldering Crater enters the battlefield tapped.{T}: Add {R} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)</source>
+    <source>Smoldering Crater enters the battlefield tapped.{T}: Add {R} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)</source>
     <target state="translated">Smoldering Crater enters the battlefield tapped.{T}: Add {R} to your mana pool.
 Cycling {2} ({2}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4814,7 +4611,8 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="7159ff50-904c-494e-a72b-6a8e36c51c59" resname="C13·329 | Tranquil Thicket | Card Text">
-    <source>Tranquil Thicket enters the battlefield tapped.{T}: Add {G} to your mana pool.\nCycling {G} ({G}, Discard this card: Draw a card.)</source>
+    <source>Tranquil Thicket enters the battlefield tapped.{T}: Add {G} to your mana pool.
+Cycling {G} ({G}, Discard this card: Draw a card.)</source>
     <target state="translated">Tranquil Thicket enters the battlefield tapped.{T}: Add {G} to your mana pool.
 Cycling {G} ({G}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_text"></note>
@@ -4825,7 +4623,8 @@ Cycling {G} ({G}, Discard this card: Draw a card.)</target>
     <note from="developer" priority="1" category="card_name"></note>
 </trans-unit>
 <trans-unit id="9f325665-43cd-4b6d-8878-e42a39178e3f" resname="C13·330 | Transguild Promenade | Card Text">
-    <source>Transguild Promenade enters the battlefield tapped.\nWhen Transguild Promenade enters the battlefield, sacrifice it unless you pay {1}.{T}: Add one mana of any color to your mana pool.</source>
+    <source>Transguild Promenade enters the battlefield tapped.
+When Transguild Promenade enters the battlefield, sacrifice it unless you pay {1}.{T}: Add one mana of any color to your mana pool.</source>
     <target state="translated">Transguild Promenade enters the battlefield tapped.
 When Transguild Promenade enters the battlefield, sacrifice it unless you pay {1}.{T}: Add one mana of any color to your mana pool.</target>
     <note from="developer" priority="1" category="card_text"></note>
