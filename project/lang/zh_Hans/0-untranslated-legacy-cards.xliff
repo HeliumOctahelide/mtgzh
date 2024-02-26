@@ -2,9 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1">
   <file>
     <body>
-      <trans-unit resname="LEA·6 | Blaze of Glory | Card Name">
+      <trans-unit resname="LEA·6 | Blaze of Glory | Card Name" xml:space="preserve" approved="no">
         <source>Blaze of Glory</source>
-        <target state="needs-adaptation">荣耀之火</target>
+        <target state="needs-translation">荣耀之光</target>
         <note from="developer" priority="1" category="card_name">此牌名非官方翻译，需要校对！</note>
       </trans-unit>
       <trans-unit resname="LEA·19 | Farmstead | Card Name">
@@ -13460,6 +13460,46 @@
       <trans-unit resname="LEA·113 | Lich | Card Text: Paragraph 2" xml:space="preserve">
         <source>You don't lose the game for having 0 or less life.</source>
         <target state="translated">你不因总生命为0或更少而输掉此盘对战。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·6 | Blaze of Glory | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Cast this spell only during combat before blockers are declared.</source>
+        <target state="translated">只能于战斗中宣告阻挡者前施放此咒语。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·19 | Farmstead | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Enchant land</source>
+        <target state="translated">结附于地</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·19 | Farmstead | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Enchanted land has "At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life."</source>
+        <target state="translated">所结附的地具有「在你的维持开始时，你可以支付{W}{W}。若你如此作，你获得2点生命。」</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·27 | Lance | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Enchanted creature has first strike.</source>
+        <target state="translated">所结附的生物具有先攻异能。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·47 | Ancestral Recall | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Target player draws three cards.</source>
+        <target state="translated">目标牌手抓三张牌。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·53 | Copy Artifact | Card Text: Paragraph 1" xml:space="preserve">
+        <source>You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it's an enchantment in addition to its other types.</source>
+        <target state="translated">你可以使复制神器当成战场上任意由你操控的神器的复制品来进入战场，但它额外具有结界此类别。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·27 | Lance | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Enchant creature</source>
+        <target state="translated">结附于生物</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·41 | Veteran Bodyguard | Card Text: Paragraph 1" xml:space="preserve">
+        <source>As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.</source>
+        <target state="translated">只要~未被横置，所有未受阻挡的生物对你造成的伤害都改为对~造成之。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
