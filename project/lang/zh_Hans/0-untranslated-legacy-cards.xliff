@@ -13564,7 +13564,7 @@
       </trans-unit>
       <trans-unit resname="LEA·145 | Earthbind | Card Text: Paragraph 2" xml:space="preserve" approved="no">
         <source>When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."</source>
-        <target state="translated">当地缚术进战场时，如果所结附的生物具有飞行异能，则地缚术对该生物造成2点伤害，且地缚术获得「所结附的生物失去飞行异能。」</target>
+        <target state="translated">当地缚术进战场时，若所结附的生物具有飞行异能，则地缚术对该生物造成2点伤害，且地缚术获得「所结附的生物失去飞行异能。」</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·103 | Demonic Hordes | Card Text: Paragraph 1" xml:space="preserve">
@@ -13607,9 +13607,9 @@
         <target state="translated">每位牌手将其手牌与坟墓场洗入其牌库，然后各抓七张牌。（然后将时间扭曲置入其拥有者的坟墓场。）</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
-      <trans-unit resname="LEA·87 | Vesuvan Doppelganger | Card Text: Paragraph 1" xml:space="preserve">
+      <trans-unit resname="LEA·87 | Vesuvan Doppelganger | Card Text: Paragraph 1" xml:space="preserve" approved="no">
         <source>You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it has "At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn't copy that creature's color and it has this ability."</source>
-        <target state="needs-translation">你可以使~当成战场上任一生物的复制品来进入战场，但它不复制该生物的颜色且具有「当你的维持开始时，你可以令这个生物成为目标生物的复制品，但它不复制该生物的颜色且它拥有此异能。」</target>
+        <target state="translated">你可以使~当成战场上任一生物的复制品来进入战场，但它不复制该生物的颜色且具有「当你的维持开始时，你可以令这个生物成为目标生物的复制品，但它不复制该生物的颜色且它拥有此异能。」</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·113 | Lich | Card Text: Paragraph 5" xml:space="preserve">
@@ -13700,6 +13700,26 @@
       <trans-unit resname="MIR·7 | Civic Guildmage | Card Text: Paragraph 1" xml:space="preserve">
         <source>{G}, {T}: Target creature gets +0/+1 until end of turn.</source>
         <target state="translated">{T}：目标生物得+1/+1直到回合结束。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·179 | Two-Headed Giant of Foriys | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Trample</source>
+        <target state="translated">践踏</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·171 | Rock Hydra | Card Text: Paragraph 4" xml:space="preserve">
+        <source>{R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep.</source>
+        <target state="translated">{R}{R}{R}：在~上放置一个+1/+1指示物。只能于你的维持中起动此异能。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·172 | Sedge Troll | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Sedge Troll gets +1/+1 as long as you control a Swamp.</source>
+        <target state="translated">只要你操控沼泽，~便得+1/+1。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·172 | Sedge Troll | Card Text: Paragraph 2" xml:space="preserve">
+        <source>{B}: Regenerate Sedge Troll.</source>
+        <target state="translated">{B}：重生~。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
