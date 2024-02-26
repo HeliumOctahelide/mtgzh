@@ -13562,9 +13562,9 @@
         <target state="translated">牺牲一个生物，以作为施放此咒语的额外费用。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
-      <trans-unit resname="LEA·145 | Earthbind | Card Text: Paragraph 2" xml:space="preserve">
+      <trans-unit resname="LEA·145 | Earthbind | Card Text: Paragraph 2" xml:space="preserve" approved="no">
         <source>When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."</source>
-        <target state="needs-translation">当地缚术进战场时，如果所结附的生物具有飞行异能，则地缚术对该生物造成2点伤害且地缚术获得「所结附的生物失去飞行异能。」</target>
+        <target state="translated">当地缚术进战场时，如果所结附的生物具有飞行异能，则地缚术对该生物造成2点伤害，且地缚术获得「所结附的生物失去飞行异能。」</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·103 | Demonic Hordes | Card Text: Paragraph 1" xml:space="preserve">
@@ -13619,7 +13619,7 @@
       </trans-unit>
       <trans-unit resname="LEA·113 | Lich | Card Text: Paragraph 4" xml:space="preserve">
         <source>Whenever you're dealt damage, sacrifice that many nontoken permanents. If you can't, you lose the game.</source>
-        <target state="translated">每当你受到伤害时，牺牲等量非衍生物的永久物。若你无法如此作，则你输掉这盘游戏。</target>
+        <target state="translated">每当你受到伤害时，牺牲等量非衍生物的永久物。若你无法如此作，你输掉这盘游戏。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·152 | Fork | Card Text: Paragraph 1" xml:space="preserve">
@@ -13671,6 +13671,31 @@
         <source>The Eleventh Hour</source>
         <target state="translated">危急时刻</target>
         <note from="developer" priority="1" category="card_name"/>
+      </trans-unit>
+      <trans-unit resname="LEA·147 | False Orders | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Remove target creature defending player controls from combat. Creatures it was blocking that had become blocked by only that creature this combat become unblocked. You may have it block an attacking creature of your choice.</source>
+        <target state="translated">将目标由防御牌手操控的生物移出战斗。在本次战斗中被它阻挡、且仅受该生物阻挡的生物成为未受阻挡状态。选择一个进行攻击的生物，你可以令它阻挡之。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·170 | Roc of Kher Ridges | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Flying</source>
+        <target state="translated">飞行</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·171 | Rock Hydra | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Rock Hydra enters the battlefield with X +1/+1 counters on it.</source>
+        <target state="translated">岩石多头龙进战场时上面有X个+1/+1指示物。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·171 | Rock Hydra | Card Text: Paragraph 2" xml:space="preserve">
+        <source>For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.</source>
+        <target state="translated">对岩石多头龙将要受到的每1点伤害而言，如果其上有+1/+1指示物，移去一个+1/+1指示物并防止该伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·171 | Rock Hydra | Card Text: Paragraph 3" xml:space="preserve">
+        <source>{R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.</source>
+        <target state="translated">{R}：防止本回合中岩石多头龙之后将要受到的1点伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
   </file>
