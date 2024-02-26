@@ -13459,7 +13459,7 @@
       </trans-unit>
       <trans-unit resname="LEA·113 | Lich | Card Text: Paragraph 2" xml:space="preserve">
         <source>You don't lose the game for having 0 or less life.</source>
-        <target state="translated">你不因总生命为0或更少而输掉此盘对战。</target>
+        <target state="translated">你不因总生命为0或更少而输掉这盘游戏。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·6 | Blaze of Glory | Card Text: Paragraph 1" xml:space="preserve">
@@ -13551,6 +13551,46 @@
         <source>The Tenth Doctor</source>
         <target state="translated">第十任博士</target>
         <note from="developer" priority="1" category="card_name"/>
+      </trans-unit>
+      <trans-unit resname="LEA·113 | Lich | Card Text: Paragraph 1" xml:space="preserve">
+        <source>As Lich enters the battlefield, you lose life equal to your life total.</source>
+        <target state="translated">于巫妖进战场时，你失去等同于你总生命的生命。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·124 | Sacrifice | Card Text: Paragraph 1" xml:space="preserve">
+        <source>As an additional cost to cast this spell, sacrifice a creature.</source>
+        <target state="translated">牺牲一个生物，以作为施放此咒语的额外费用。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·145 | Earthbind | Card Text: Paragraph 2" xml:space="preserve">
+        <source>When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."</source>
+        <target state="needs-translation">当地缚术进战场时，如果所结附的生物具有飞行异能，则地缚术对该生物造成2点伤害且地缚术获得「所结附的生物失去飞行异能。」</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·103 | Demonic Hordes | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{T}: Destroy target land.</source>
+        <target state="translated">{T}：消灭目标地。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·113 | Lich | Card Text: Paragraph 3" xml:space="preserve">
+        <source>If you would gain life, draw that many cards instead.</source>
+        <target state="translated">如果你将获得生命，则改为抓等量的牌。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·103 | Demonic Hordes | Card Text: Paragraph 2" xml:space="preserve">
+        <source>At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent's choice.</source>
+        <target state="translated">在你的维持开始时，除非你支付{B}{B}{B}，否则横置恶魔大军且牺牲一个由任一对手选择的地。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·124 | Sacrifice | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Add an amount of {B} equal to the sacrificed creature's mana value.</source>
+        <target state="needs-translation">加等同于所牺牲生物之法术力值的{B}。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·145 | Earthbind | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Enchant creature</source>
+        <target state="translated">结附于生物</target>
+        <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
   </file>
