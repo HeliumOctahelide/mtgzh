@@ -13597,6 +13597,16 @@
         <target state="translated">于本回合中，对任意一个目标而言，防止接下来将对其造成的X点伤害。本回合中，你可以任意次数地支付 {1}。你每如此做一次，便防止接下来将对该永久物或牌手造成的1点伤害。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
+      <trans-unit resname="LEA·83 | Time Walk | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Take an extra turn after this one.</source>
+        <target state="translated">于本回合后进行额外的一个回合。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·84 | Timetwister | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Each player shuffles their hand and graveyard into their library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)</source>
+        <target state="translated">每位牌手将其手牌与坟墓场洗入其牌库，然后各抓七张牌。（然后将时间扭曲置入其拥有者的坟墓场。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
     </body>
   </file>
 </xliff>
