@@ -14609,7 +14609,7 @@
       </trans-unit>
       <trans-unit resname="LEG·49 | Brine Hag | Card Text: Paragraph 1" xml:space="preserve">
         <source>When Brine Hag dies, change the base power and toughness of all creatures that dealt damage to it this turn to 0/2. (This effect lasts indefinitely.)</source>
-        <target state="translated">当~死去时，将所有本回合中曾对它造成过伤害的生物之基础力量和防御力更改为0/2。（此效应永远持续。）</target>
+        <target state="translated">当~死去时，将所有本回合中曾对它造成过伤害的生物之基础力量和防御力更改为0/2。（此效应不因回合结束而终止。）</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEG·50 | Devouring Deep | Card Text: Paragraph 1" xml:space="preserve">
@@ -14690,6 +14690,11 @@
       <trans-unit resname="LEG·83 | Venarian Gold | Card Text: Paragraph 2" xml:space="preserve">
         <source>When Venarian Gold enters the battlefield, tap enchanted creature and put X sleep counters on it.</source>
         <target state="translated">当~进战场时，横置所结附的生物且在其上放置X个安眠指示物。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·80 | Teleport | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Target creature can't be blocked this turn.</source>
+        <target state="translated">目标生物本回合不能被阻挡。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
