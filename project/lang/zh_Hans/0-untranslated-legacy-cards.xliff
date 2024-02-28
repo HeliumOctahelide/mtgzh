@@ -13624,7 +13624,7 @@
       </trans-unit>
       <trans-unit resname="LEA·152 | Fork | Card Text: Paragraph 1" xml:space="preserve">
         <source>Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.</source>
-        <target state="translated">复制目标瞬间或法术咒语，但该复制为红色。你可以为该复制选择新的目标。</target>
+        <target state="translated">复制目标瞬间或法术咒语，但该复制品为红色。你可以为该复制品选择新的目标。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·155 | Granite Gargoyle | Card Text: Paragraph 1" xml:space="preserve">
@@ -13709,7 +13709,7 @@
       </trans-unit>
       <trans-unit resname="LEA·171 | Rock Hydra | Card Text: Paragraph 4" xml:space="preserve">
         <source>{R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep.</source>
-        <target state="translated">{R}{R}{R}：在~上放置一个+1/+1指示物。只能于你的维持中起动此异能。</target>
+        <target state="translated">{R}{R}{R}：在~上放置一个+1/+1指示物。只能于你的维持中起动。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·172 | Sedge Troll | Card Text: Paragraph 1" xml:space="preserve">
@@ -13755,6 +13755,76 @@
       <trans-unit resname="LEA·136 | Word of Command | Card Text: Paragraph 1" xml:space="preserve">
         <source>Look at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands that player controls and only if mana they produce is spent to activate other mana abilities of lands the player controls and/or to play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving.</source>
         <target state="translated">检视目标对手的手牌并从中选择一张牌。直到控制箴言结算完成，你操控该牌手。该牌手若能使用这张牌，则必须使用。在如此作时，该牌手只能起动由其操控的地的法术力异能且其提供的法术力只能用于起动其他由其操控的地的法术力异能和／或使用那张牌。若所选择的牌作为咒语施放，直到该咒语结算完成，你操控该牌手。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·179 | Two-Headed Giant of Foriys | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Two-Headed Giant of Foriys can block an additional creature each combat.</source>
+        <target state="translated">~每次战斗可以额外多阻挡一个生物。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·187 | Camouflage | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Cast this spell only during your declare attackers step.</source>
+        <target state="translated">只能于你的宣告攻击者步骤中施放此咒语。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·192 | Fastbond | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.</source>
+        <target state="translated">每当你使用地时，若它不是你本回合中使用的第一个地，则~对你造成1点伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·204 | Kudzu | Card Text: Paragraph 2" xml:space="preserve">
+        <source>When enchanted land becomes tapped, destroy it. That land's controller may attach Kudzu to a land of their choice.</source>
+        <target state="translated">当所结附的地成为已横置时，消灭它。该地的操控者可以选择将~贴附于一个地上。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·232 | Black Lotus | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{T}, Sacrifice Black Lotus: Add three mana of any one color.</source>
+        <target state="translated">{T}，牺牲黑莲花：加三点任意颜色的单色法术力。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·240 | Cyclopean Tomb | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{2}, {T}: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate only during your upkeep.</source>
+        <target state="translated">{2}，{T}：在目标非沼泽地上放置一个泥沼指示物。只要该地上有泥沼指示物，它便是沼泽。只能于你的维持中起动。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·243 | Forcefield | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage.</source>
+        <target state="translated">{1}：由你选择未被阻挡的生物于本回合中下一次将要对你造成战斗伤害时，防止除其中1点以外的所有伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·244 | Gauntlet of Might | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Whenever a Mountain is tapped for mana, its controller adds an additional {R}.</source>
+        <target state="translated">每当一个山脉横置以产生法术力时，其操控者额外加一点{R}。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·258 | Living Wall | Card Text: Paragraph 2" xml:space="preserve">
+        <source>{1}: Regenerate Living Wall.</source>
+        <target state="translated">{1}：重生活体墙。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·212 | Natural Selection | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle.</source>
+        <target state="translated">检视目标牌手牌库顶的三张牌，然后将它们以任意顺序放回。你可以令该牌手洗牌。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·238 | Copper Tablet | Card Text: Paragraph 1" xml:space="preserve">
+        <source>At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.</source>
+        <target state="translated">在每位牌手的维持开始时，~对该牌手造成1点伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·240 | Cyclopean Tomb | Card Text: Paragraph 2" xml:space="preserve">
+        <source>When Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb.</source>
+        <target state="translated">当~从战场进入坟墓场时，在本盘游戏接下来的时段，你的每个维持开始时，从一个曾以~放置过泥沼指示物但未曾以~移去过泥沼指示物的地上移去所有泥沼指示物。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·244 | Gauntlet of Might | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Red creatures get +1/+1.</source>
+        <target state="translated">红色生物得+1/+1。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·274 | Time Vault | Card Text: Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Time Vault enters the battlefield tapped.</source>
+        <target state="final">~须横置进战场。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
