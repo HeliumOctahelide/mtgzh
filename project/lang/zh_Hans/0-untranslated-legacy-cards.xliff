@@ -14259,7 +14259,7 @@
       </trans-unit>
       <trans-unit resname="ATQ·15 | Artifact Possession | Card Text: Paragraph 2" xml:space="preserve">
         <source>Whenever enchanted artifact becomes tapped or a player activates an ability of enchanted artifact without {T} in its activation cost, Artifact Possession deals 2 damage to that artifact's controller.</source>
-        <target state="translated">每当所结附的神器成为已横置，或一位牌手起动所结附神器的起动费用不包含{T}之异能时，~对该神器的操控者造成2点伤害。</target>
+        <target state="translated">每当所结附的神器成为已横置、或牌手起动所结附的神器之起动费用中不含{T}的异能时，～对该神器的操控者造成2点伤害。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="ATQ·17 | Haunting Wind | Card Text: Paragraph 1" xml:space="preserve">
@@ -14409,7 +14409,7 @@
       </trans-unit>
       <trans-unit resname="ATQ·76 | Urza's Miter | Card Text: Paragraph 1" xml:space="preserve">
         <source>Whenever an artifact you control is put into a graveyard from the battlefield, if it wasn't sacrificed, you may pay {3}. If you do, draw a card.</source>
-        <target state="translated">每当由你操控的神器从战场进入坟墓场时，若它未曾被牺牲，则你可以支付{3}。若你如此作，则抓一张牌。</target>
+        <target state="translated">每当一个由你操控的神器从战场进入坟墓场时，若未牺牲此神器，你可以支付{3}。若你如此作，抓一张牌。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEG·22 | Infinite Authority | Card Text: Paragraph 2" xml:space="preserve">
@@ -14705,6 +14705,111 @@
       <trans-unit resname="LEG·83 | Venarian Gold | Card Text: Paragraph 4" xml:space="preserve">
         <source>At the beginning of the upkeep of enchanted creature's controller, remove a sleep counter from that creature.</source>
         <target state="translated">在所结附生物之操控者的每个维持开始时，从该生物上移去一个安眠指示物。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·84 | Wall of Vapor | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Prevent all damage that would be dealt to Wall of Vapor by creatures it's blocking.</source>
+        <target state="translated">防止~阻挡的生物将对其造成的所有伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·88 | All Hallow's Eve | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Exile All Hallow's Eve with two scream counters on it.</source>
+        <target state="translated">放逐~，且上面有两个厉吼指示物。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·88 | All Hallow's Eve | Card Text: Paragraph 2" xml:space="preserve">
+        <source>At the beginning of your upkeep, if All Hallow's Eve is exiled with a scream counter on it, remove a scream counter from it. If there are no more scream counters on it, put it into your graveyard and each player returns all creature cards from their graveyard to the battlefield.</source>
+        <target state="translated">在你的维持开始时，若~已放逐且其上有厉吼指示物，从其上移去一个厉吼指示物。如果~上没有厉吼指示物，将其置入你的坟墓场，然后每名牌手将所有生物牌从他的坟墓场移回战场。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·107 | Imprison | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Whenever a player activates an ability of enchanted creature with {T} in its activation cost that isn't a mana ability, you may pay {1}. If you do, counter that ability. If you don't, destroy Imprison.</source>
+        <target state="translated">每当牌手起动所结附的生物之起动费用中包含{T}的不属法术力异能的异能时，你可以支付{1}。若你如此作，则反击之。若你未如此作，则消灭～。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·107 | Imprison | Card Text: Paragraph 3" xml:space="preserve">
+        <source>Whenever enchanted creature attacks or blocks, you may pay {1}. If you do, tap the creature, remove it from combat, and creatures it was blocking that had become blocked by only that creature this combat become unblocked. If you don't, destroy Imprison.</source>
+        <target state="translated">每当所结附的生物攻击或阻挡时，你可以支付{1}。若你如此作，则横置此生物并将它移出战斗，它所阻挡的且本次战斗仅成为被它阻挡的生物成为未被阻挡。若你未如此作，则消灭～。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·108 | Infernal Medusa | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Whenever Infernal Medusa blocks a creature, destroy that creature at end of combat.</source>
+        <target state="translated">每当～阻挡一个生物时，在战斗结束时消灭该生物。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·108 | Infernal Medusa | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Whenever Infernal Medusa becomes blocked by a non-Wall creature, destroy that creature at end of combat.</source>
+        <target state="translated">每当～成为被非墙生物阻挡时，在战斗结束时消灭该生物。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·109 | Jovial Evil | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Jovial Evil deals X damage to target opponent, where X is twice the number of white creatures that player controls.</source>
+        <target state="translated">～对目标对手造成X点伤害，X为由该牌手操控的白色生物数量的两倍。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·110 | Lesser Werewolf | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{B}: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate only during the declare blockers step.</source>
+        <target state="translated">{B}：如果～的力量为1或更多，它得-1/-0直到回合结束，并在目标阻挡它或被它阻挡的生物上放置一个 -0/-1指示物。只能于宣告阻挡者步骤中起动。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·112 | Mold Demon | Card Text: Paragraph 1" xml:space="preserve">
+        <source>When Mold Demon enters the battlefield, sacrifice it unless you sacrifice two Swamps.</source>
+        <target state="translated">当～进战场时，除非你牺牲两个沼泽，否则牺牲之。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·113 | Nether Void | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Whenever a player casts a spell, counter it unless that player pays {3}.</source>
+        <target state="translated">每当牌手施放咒语时，除非该牌手支付{3}，否则反击之。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·115 | Quagmire | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Creatures with swampwalk can be blocked as though they didn't have swampwalk.</source>
+        <target state="translated">具有沼泽行者异能的生物能视同不具沼泽行者异能地进行攻击。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·116 | Shimian Night Stalker | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{B}, {T}: All damage that would be dealt to you this turn by target attacking creature is dealt to Shimian Night Stalker instead.</source>
+        <target state="translated">{B}，{T}：于本回合中，目标进行攻击的生物接下来将对你造成的所有伤害，改为对～造成之。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·119 | Takklemaggot | Card Text: Paragraph 3" xml:space="preserve">
+        <source>When enchanted creature dies, that creature's controller chooses a creature that Takklemaggot could enchant. If the player does, return Takklemaggot to the battlefield under your control attached to that creature. If they don't, return Takklemaggot to the battlefield under your control as a non-Aura enchantment. It loses "enchant creature" and gains "At the beginning of that player's upkeep, Takklemaggot deals 1 damage to that player."</source>
+        <target state="translated">当所结附的生物死去时，生物的操控者选择一个～可结附的生物。若该牌手如此作，将～在你的操控下移回战场并结附在该生物上。若该牌手未如此作，将～在你的操控下当成非灵气结界移回战场。它失去「结附于生物」并获得「在该牌手的维持开始时，～对该牌手造成1点伤害。」</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·122 | Touch of Darkness | Card Text: Paragraph 1" xml:space="preserve">
+        <source>One or more target creatures become black until end of turn.</source>
+        <target state="translated">一个或数个目标生物成为黑色直到回合结束。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·126 | Walking Dead | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{B}: Regenerate Walking Dead.</source>
+        <target state="translated">{B}：重生～。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·127 | Wall of Putrid Flesh | Card Text: Paragraph 3" xml:space="preserve">
+        <source>Prevent all damage that would be dealt to Wall of Putrid Flesh by enchanted creatures.</source>
+        <target state="translated">防止所有受有灵气的生物将对～造成的伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·128 | Wall of Shadows | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Prevent all damage that would be dealt to Wall of Shadows by creatures it's blocking.</source>
+        <target state="translated">防止～阻挡的生物将对它造成的所有伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·128 | Wall of Shadows | Card Text: Paragraph 3" xml:space="preserve">
+        <source>Wall of Shadows can't be the target of spells that can target only Walls or of abilities that can target only Walls.</source>
+        <target state="translated">～不能成为仅可指定墙作目标的咒语或异能的目标。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·129 | Wall of Tombstones | Card Text: Paragraph 2" xml:space="preserve">
+        <source>At the beginning of your upkeep, change Wall of Tombstones's base toughness to 1 plus the number of creature cards in your graveyard. (This effect lasts indefinitely.)</source>
+        <target state="translated">在你的维持开始时，将～的基础防御力更改为「你坟墓场中生物牌的数量+1。」（此效应不因回合结束而终止。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·130 | Active Volcano | Card Text: Paragraph 3" xml:space="preserve">
+        <source>• Return target Island to its owner's hand.</source>
+        <target state="translated">•将目标海岛移回其拥有者的手牌。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
