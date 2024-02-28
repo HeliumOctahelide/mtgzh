@@ -14357,6 +14357,31 @@
         <target state="translated">每当~阻挡时，掷一枚硬币。若你输掉此掷，则将~移出战斗且它本回合不能阻挡。在本次战斗中被它阻挡、且未受其它生物阻挡的生物成为未受阻挡状态。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
+      <trans-unit resname="ARN·60 | City in a Bottle | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Whenever one or more other nontoken permanents with a name originally printed in the Arabian Nights expansion are on the battlefield, their controllers sacrifice them.</source>
+        <target state="translated">每当具有最初印刷于阿拉伯之夜版本的名称的一个或数个其他非衍生的永久物在战场上时，其操控者牺牲它们。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="ARN·60 | City in a Bottle | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Players can't cast spells or play lands with a name originally printed in the Arabian Nights expansion.</source>
+        <target state="translated">牌手不能施放或使用具有最初印刷于阿拉伯之夜版本的名称的咒语或地。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="ARN·67 | Pyramids | Card Text: Paragraph 3" xml:space="preserve">
+        <source>• The next time target land would be destroyed this turn, remove all damage marked on it instead.</source>
+        <target state="translated">·目标地本回合下一次将被消灭时，改为移除其上标记的所有伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="ATQ·7 | Reverse Polarity | Card Text: Paragraph 1" xml:space="preserve">
+        <source>You gain X life, where X is twice the damage dealt to you so far this turn by artifacts.</source>
+        <target state="translated">你获得X点生命，X为本回合已由神器对你造成之伤害的两倍。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="ATQ·16 | Gate to Phyrexia | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Sacrifice a creature: Destroy target artifact. Activate only during your upkeep and only once each turn.</source>
+        <target state="translated">牺牲一个生物：消灭目标神器。只能于你的维持中起动，且每回合只能起动一次。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
     </body>
   </file>
 </xliff>
