@@ -13822,9 +13822,9 @@
         <target state="translated">红色生物得+1/+1。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
-      <trans-unit resname="LEA·274 | Time Vault | Card Text: Paragraph 1" xml:space="preserve" approved="yes">
+      <trans-unit resname="LEA·274 | Time Vault | Card Text: Paragraph 1" xml:space="preserve" approved="no">
         <source>Time Vault enters the battlefield tapped.</source>
-        <target state="final">~须横置进战场。</target>
+        <target state="translated">~须横置进战场。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·192 | Fastbond | Card Text: Paragraph 1" xml:space="preserve">
@@ -14000,6 +14000,66 @@
       <trans-unit resname="ARN·17 | Merchant Ship | Card Text: Paragraph 3" xml:space="preserve">
         <source>When you control no Islands, sacrifice Merchant Ship.</source>
         <target state="translated">当你未操控海岛时，牺牲~。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="ARN·33 | Stone-Throwing Devils | Card Text: Paragraph 1" xml:space="preserve">
+        <source>First strike</source>
+        <target state="translated">先攻</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·277 | Badlands | Card Text: Paragraph 1" xml:space="preserve">
+        <source>({T}: Add {B} or {R}.)</source>
+        <target state="translated">（{T}：加{B}或{R}。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·278 | Bayou | Card Text: Paragraph 1" xml:space="preserve">
+        <source>({T}: Add {B} or {G}.)</source>
+        <target state="translated">（{T}：加{B}或{G}。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·279 | Plateau | Card Text: Paragraph 1" xml:space="preserve">
+        <source>({T}: Add {R} or {W}.)</source>
+        <target state="translated">（{T}：加{R}或{W}。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·280 | Savannah | Card Text: Paragraph 1" xml:space="preserve">
+        <source>({T}: Add {G} or {W}.)</source>
+        <target state="translated">（{T}：加{G}或{W}。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·281 | Scrubland | Card Text: Paragraph 1" xml:space="preserve">
+        <source>({T}: Add {W} or {B}.)</source>
+        <target state="translated">（{T}：加{W}或{B}。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·282 | Taiga | Card Text: Paragraph 1" xml:space="preserve">
+        <source>({T}: Add {R} or {G}.)</source>
+        <target state="translated">（{T}：加{R}或{G}。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·284 | Tundra | Card Text: Paragraph 1" xml:space="preserve">
+        <source>({T}: Add {W} or {U}.)</source>
+        <target state="translated">（{T}：加{W}或{U}。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·285 | Underground Sea | Card Text: Paragraph 1" xml:space="preserve">
+        <source>({T}: Add {U} or {B}.)</source>
+        <target state="translated">（{T}：加{U}或{B}。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEB·287 | Volcanic Island | Card Text: Paragraph 1" xml:space="preserve">
+        <source>({T}: Add {U} or {R}.)</source>
+        <target state="translated">（{T}：加{U}或{R}。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="ARN·2 | Army of Allah | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Attacking creatures get +2/+0 until end of turn.</source>
+        <target state="translated">进行攻击的生物得+2/+0直到回合结束。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·283 | Tropical Island | Card Text: Paragraph 1" xml:space="preserve">
+        <source>({T}: Add {G} or {U}.)</source>
+        <target state="translated">（{T}：加{G}或{U}。）</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
