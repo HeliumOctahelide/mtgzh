@@ -13754,7 +13754,7 @@
       </trans-unit>
       <trans-unit resname="LEA·136 | Word of Command | Card Text: Paragraph 1" xml:space="preserve">
         <source>Look at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands that player controls and only if mana they produce is spent to activate other mana abilities of lands the player controls and/or to play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving.</source>
-        <target state="translated">检视目标对手的手牌并从中选择一张牌。直到控制箴言结算完成，你操控该牌手。该牌手若能使用这张牌，则必须使用。在如此作时，该牌手只能起动由其操控的地的法术力异能且其提供的法术力只能用于起动其他由其操控的地的法术力异能和／或使用那张牌。若所选择的牌作为咒语施放，直到该咒语结算完成，你操控该牌手。</target>
+        <target state="translated">检视目标对手的手牌并从中选择一张牌。直到~结算完成，你操控该牌手。该牌手若能使用这张牌，则必须使用。在如此作时，该牌手只能起动由其操控的地的法术力异能且其提供的法术力只能用于起动其他由其操控的地的法术力异能和／或使用那张牌。若所选择的牌作为咒语施放，直到该咒语结算完成，你操控该牌手。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·179 | Two-Headed Giant of Foriys | Card Text: Paragraph 2" xml:space="preserve">
@@ -13845,6 +13845,46 @@
       <trans-unit resname="LEA·249 | Illusionary Mask | Card Text: Paragraph 1" xml:space="preserve">
         <source>{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate only as a sorcery.</source>
         <target state="translated">{X}：你可以从手牌中选择一张生物牌，且部分或全部用于支付{X}的法术力可用以支付该牌的法术力费用。若你如此作，你可牌面朝下地施放该牌，将其当作2/2生物咒语且不需支付其法术力费用。如果该咒语于结算时所成之生物未翻回正面，且将分配或造成伤害、受到伤害、或成为已横置，则改为其翻回正面并分配或造成伤害、受到伤害、或成为已横置。只能于法术时机起动。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·201 | Ice Storm | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Destroy target land.</source>
+        <target state="translated">消灭目标地。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·204 | Kudzu | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Enchant land</source>
+        <target state="translated">结附于地</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·258 | Living Wall | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Defender (This creature can't attack.)</source>
+        <target state="translated">守军（此生物不能攻击。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·261 | Mox Emerald | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{T}: Add {G}.</source>
+        <target state="translated">{T}：加{G}。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·262 | Mox Jet | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{T}: Add {B}.</source>
+        <target state="translated">{T}：加{B}。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·263 | Mox Pearl | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{T}: Add {W}.</source>
+        <target state="translated">{T}：加{W}。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·264 | Mox Ruby | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{T}: Add {R}.</source>
+        <target state="translated">{T}：加{R}。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·265 | Mox Sapphire | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{T}: Add {U}.</source>
+        <target state="translated">{T}：加{U}。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
