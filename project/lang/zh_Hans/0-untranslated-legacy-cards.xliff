@@ -2,9 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1">
   <file>
     <body>
-      <trans-unit resname="LEA·6 | Blaze of Glory | Card Name" xml:space="preserve" approved="no">
+      <trans-unit resname="LEA·6 | Blaze of Glory | Card Name" xml:space="preserve" approved="yes">
         <source>Blaze of Glory</source>
-        <target state="translated">荣耀之光</target>
+        <target state="final">荣耀焰光</target>
         <note from="developer" priority="1" category="card_name">此牌名非官方翻译，需要校对！</note>
       </trans-unit>
       <trans-unit resname="LEA·19 | Farmstead | Card Name">
@@ -13594,7 +13594,7 @@
       </trans-unit>
       <trans-unit resname="LEA·21 | Guardian Angel | Card Text: Paragraph 1" xml:space="preserve">
         <source>Prevent the next X damage that would be dealt to any target this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that permanent or player this turn.</source>
-        <target state="translated">防止本回合中接下来将对目标造成的X点伤害。直到回合结束，你可以于你能够施放瞬间的时机下支付{1}。若你如此作，防止接下来将对该永久物或牌手造成的1点伤害。</target>
+        <target state="translated">防止本回合中接下来将对目标造成的X点伤害。直到回合结束，于你能够施放瞬间的时机下，你可以支付{1}。若你如此作，则防止接下来将对该永久物或牌手造成的1点伤害。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·83 | Time Walk | Card Text: Paragraph 1" xml:space="preserve">
@@ -13699,7 +13699,7 @@
       </trans-unit>
       <trans-unit resname="MIR·7 | Civic Guildmage | Card Text: Paragraph 1" xml:space="preserve">
         <source>{G}, {T}: Target creature gets +0/+1 until end of turn.</source>
-        <target state="new"></target>
+        <target state="new"/>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="LEA·179 | Two-Headed Giant of Foriys | Card Text: Paragraph 1" xml:space="preserve">
@@ -13724,7 +13724,7 @@
       </trans-unit>
       <trans-unit resname="MIR·3 | Auspicious Ancestor | Card Text: Paragraph 2">
         <source>Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.</source>
-        <target state="new"></target>
+        <target state="new"/>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
