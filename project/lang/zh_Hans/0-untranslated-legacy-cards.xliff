@@ -14812,6 +14812,31 @@
         <target state="translated">•将目标海岛移回其拥有者手上。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
+      <trans-unit resname="LEG·132 | Backdraft | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Choose a player who cast one or more sorcery spells this turn. Backdraft deals damage to that player equal to half the damage dealt by one of those sorcery spells this turn, rounded down.</source>
+        <target state="translated">选择一名本回合施放过一个或更多法术咒语的牌手。～对该牌手造成等同于这些法术咒语之一本回合造成伤害的一半，小数点后舍去。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·133 | Beasts of Bogardan | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Beasts of Bogardan gets +1/+1 as long as an opponent controls a nontoken white permanent.</source>
+        <target state="translated">只要任一对手操控非衍生的白色永久物，～便得+1/+1。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·134 | Blazing Effigy | Card Text: Paragraph 1" xml:space="preserve">
+        <source>When Blazing Effigy dies, it deals X damage to target creature, where X is 3 plus the amount of damage dealt to Blazing Effigy this turn by other sources named Blazing Effigy.</source>
+        <target state="translated">当～死去时，它对目标生物造成X点伤害，X为其他名称为～的来源本回合对～造成的伤害数量加3。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·136 | Caverns of Despair | Card Text: Paragraph 2" xml:space="preserve">
+        <source>No more than two creatures can block each combat.</source>
+        <target state="translated">每次战斗中，进行阻挡的生物不能多于两个。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·138 | Crevasse | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Creatures with mountainwalk can be blocked as though they didn't have mountainwalk.</source>
+        <target state="translated">具有山脉行者异能的生物能视同不具山脉行者异能地被阻挡。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
     </body>
   </file>
 </xliff>
