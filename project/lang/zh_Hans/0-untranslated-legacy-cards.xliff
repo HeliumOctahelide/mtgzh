@@ -14349,7 +14349,7 @@
       </trans-unit>
       <trans-unit resname="ATQ·67 | Tablet of Epityr | Card Text: Paragraph 1" xml:space="preserve">
         <source>Whenever an artifact you control is put into a graveyard from the battlefield, you may pay {1}. If you do, you gain 1 life.</source>
-        <target state="translated">每当由你操控的神器从战场进入坟墓场时，你可以支付{1}。若你如此作，则你获得1点生命。</target>
+        <target state="translated">每当一个由你操控的神器从战场进入坟墓场时，你可以支付{1}。若你如此作，则你获得1点生命。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="ARN·44 | Ydwen Efreet | Card Text: Paragraph 1" xml:space="preserve">
@@ -14380,6 +14380,21 @@
       <trans-unit resname="ATQ·16 | Gate to Phyrexia | Card Text: Paragraph 1" xml:space="preserve">
         <source>Sacrifice a creature: Destroy target artifact. Activate only during your upkeep and only once each turn.</source>
         <target state="translated">牺牲一个生物：消灭目标神器。只能于你的维持中起动，且每回合只能起动一次。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·13 | Equinox | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Enchant land</source>
+        <target state="translated">结附于地</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·21 | Indestructible Aura | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Prevent all damage that would be dealt to target creature this turn.</source>
+        <target state="translated">于本回合中，防止将对目标生物造成的所有伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·22 | Infinite Authority | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Enchant creature</source>
+        <target state="translated">结附于生物</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
