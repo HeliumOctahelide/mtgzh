@@ -14647,6 +14647,51 @@
         <target state="translated">~不能被红色生物阻挡。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
+      <trans-unit resname="LEG·73 | Reset | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Untap all lands you control.</source>
+        <target state="translated">重置所有由你操控的地。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·74 | Reverberation | Card Text: Paragraph 1" xml:space="preserve">
+        <source>All damage that would be dealt this turn by target sorcery spell is dealt to that spell's controller instead.</source>
+        <target state="translated">本回合中，目标法术将造成的所有伤害改为对该咒语的操控者造成。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·75 | Sea Kings' Blessing | Card Text: Paragraph 1" xml:space="preserve">
+        <source>One or more target creatures become blue until end of turn.</source>
+        <target state="translated">一个或数个目标生物成为蓝色直到回合结束。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·77 | Silhouette | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Choose target creature. If a spell or ability that targets that creature would cause a source to deal damage to that creature this turn, prevent that damage.</source>
+        <target state="translated">选择目标生物。本回合中，如果以该生物为目标的咒语或异能将使得某来源对该生物造成伤害，则防止该伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·78 | Spectral Cloak | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Enchanted creature has shroud as long as it's untapped. (It can't be the target of spells or abilities.)</source>
+        <target state="translated">只要所结附的生物未横置，它便具有帷幕异能。（此生物不能成为咒语或异能的目标。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·79 | Telekinesis | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Tap target creature. Prevent all combat damage that would be dealt by that creature this turn. It doesn't untap during its controller's next two untap steps.</source>
+        <target state="translated">横置目标生物。于本回合中，防止该生物将造成的所有战斗伤害。它于其操控者接下来的两个重置步骤中不能重置。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·80 | Teleport | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Cast this spell only during the declare attackers step.</source>
+        <target state="translated">只能于宣告攻击者步骤中施放此咒语。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·82 | Undertow | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Creatures with islandwalk can be blocked as though they didn't have islandwalk.</source>
+        <target state="translated">具有海岛行者异能的生物能视同不具海岛行者异能地被阻挡。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·83 | Venarian Gold | Card Text: Paragraph 2" xml:space="preserve">
+        <source>When Venarian Gold enters the battlefield, tap enchanted creature and put X sleep counters on it.</source>
+        <target state="translated">当~进战场时，横置所结附的生物且在其上放置X个安眠指示物。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
     </body>
   </file>
 </xliff>
