@@ -13827,6 +13827,26 @@
         <target state="final">~须横置进战场。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
+      <trans-unit resname="LEA·192 | Fastbond | Card Text: Paragraph 1" xml:space="preserve">
+        <source>You may play any number of lands on each of your turns.</source>
+        <target state="translated">你在自己的每个回合中可以使用任意数量的地。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·168 | Raging River | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Whenever one or more creatures you control attack, each defending player divides all creatures without flying they control into a "left" pile and a "right" pile. Then, for each attacking creature you control, choose "left" or "right." That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label.</source>
+        <target state="translated">每当一个或更多由你操控的生物攻击时，每名防御牌手各将他操控的所有不具飞行异能的生物分为「左」堆和「右」堆。然后，为每个由你操控的攻击生物各进行以下流程～选择「左」或「右」。该生物本次战斗只能被具有飞行异能的生物和在具有所选标识的堆中的生物阻挡。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·187 | Camouflage | Card Text: Paragraph 2" xml:space="preserve">
+        <source>This turn, instead of declaring blockers, each defending player chooses any number of creatures they control and divides them into a number of piles equal to the number of attacking creatures for whom that player is the defending player. Creatures those players control that can block additional creatures may likewise be put into additional piles. Assign each pile to a different one of those attacking creatures at random. Each creature in a pile that can block the creature that pile is assigned to does so. (Piles can be empty.)</source>
+        <target state="translated">于本回合中，宣告阻挡者改为每名防御牌手各选择任意数量由其操控的生物，将它们分为等同于对该防御牌手进行攻击的生物数量的堆。由该牌手操控的可以阻挡额外生物之生物可比照被分配到额外的堆中。为每个堆随机分配一个不同的进行攻击的生物。堆中的每个生物若能阻挡该堆所分配的生物，则必须如此作。（堆可以为空。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEA·249 | Illusionary Mask | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate only as a sorcery.</source>
+        <target state="translated">{X}：你可以从手牌中选择一张生物牌，且部分或全部用于支付{X}的法术力可用以支付该牌的法术力费用。若你如此作，你可牌面朝下地施放该牌，将其当作2/2生物咒语且不需支付其法术力费用。如果该咒语于结算时所成之生物未翻回正面，且将分配或造成伤害、受到伤害、或成为已横置，则改为其翻回正面并分配或造成伤害、受到伤害、或成为已横置。只能于法术时机起动。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
     </body>
   </file>
 </xliff>
