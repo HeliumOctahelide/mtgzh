@@ -14419,7 +14419,7 @@
       </trans-unit>
       <trans-unit resname="LEG·27 | Lifeblood | Card Text: Paragraph 1" xml:space="preserve">
         <source>Whenever a Mountain an opponent controls becomes tapped, you gain 1 life.</source>
-        <target state="translated">每当由对手操控的山脉成为已横置时，你获得1点生命。</target>
+        <target state="translated">每当一个由对手操控的山脉成为已横置时，你获得1点生命。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
       <trans-unit resname="ATQ·75 | Urza's Chalice | Card Text: Paragraph 1" xml:space="preserve">
@@ -14500,6 +14500,41 @@
       <trans-unit resname="LEG·19 | Heaven's Gate | Card Text: Paragraph 1" xml:space="preserve">
         <source>One or more target creatures become white until end of turn.</source>
         <target state="translated">一个或数个目标生物成为白色直到回合结束。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·69 | Puppet Master | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Enchant creature</source>
+        <target state="translated">结附于生物</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·39 | Thunder Spirit | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Flying, first strike</source>
+        <target state="translated">飞行，先攻</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·42 | Wall of Caltrops | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Defender (This creature can't attack.)</source>
+        <target state="translated">守军（此生物不能攻击。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·43 | Wall of Light | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Defender (This creature can't attack.)</source>
+        <target state="translated">守军（此生物不能攻击。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·43 | Wall of Light | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Protection from black</source>
+        <target state="translated">反黑保护</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·51 | Dream Coat | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Enchant creature</source>
+        <target state="translated">结附于生物</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·55 | Field of Dreams | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Players play with the top card of their libraries revealed.</source>
+        <target state="translated">牌手以展示牌库顶牌的方式进行游戏。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
     </body>
