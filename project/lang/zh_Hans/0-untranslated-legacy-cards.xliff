@@ -14537,6 +14537,116 @@
         <target state="translated">牌手以展示牌库顶牌的方式进行游戏。</target>
         <note from="developer" priority="1" category="card_text"/>
       </trans-unit>
+      <trans-unit resname="LEG·28 | Moat | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Creatures without flying can't attack.</source>
+        <target state="translated">不具飞行异能的生物不能攻击。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·30 | Petra Sphinx | Card Text: Paragraph 1" xml:space="preserve">
+        <source>{T}: Target player chooses a card name, then reveals the top card of their library. If that card has the chosen name, that player puts it into their hand. If it doesn't, the player puts it into their graveyard.</source>
+        <target state="translated">{T}：目标牌手选择一个牌名，然后展示其牌库顶牌。如果该牌具该名称，该牌手将它置于其手上。否则，该牌手将其置于坟墓场。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·32 | Rapid Fire | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Cast this spell only before blockers are declared.</source>
+        <target state="translated">此咒语只能于宣告阻挡者步骤前施放。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·57 | Flash Flood | Card Text: Paragraph 3" xml:space="preserve">
+        <source>• Return target Mountain to its owner's hand.</source>
+        <target state="translated">•将目标山脉移回其拥有者手上。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·60 | Glyph of Delusion | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Put X glyph counters on target creature that target Wall blocked this turn, where X is the power of that blocked creature. The creature gains "This creature doesn't untap during your untap step if it has a glyph counter on it" and "At the beginning of your upkeep, remove a glyph counter from this creature."</source>
+        <target state="translated">在目标生物上放置X个妄想指示物，且其须于本回合中被目标墙阻挡，X等同于该被阻挡者的力量。该生物获得「如果此生物上有妄想指示物，则其于你的重置步骤中不能重置」和「在你的维持开始时，从此生物上移去一个妄想指示物」。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·61 | In the Eye of Chaos | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Whenever a player casts an instant spell, counter it unless that player pays {X}, where X is its mana value.</source>
+        <target state="translated">每当任一牌手施放瞬间咒语时，除非该牌手支付{X}，否则反击之，X为该牌的法术力值。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·64 | Land Equilibrium | Card Text: Paragraph 1" xml:space="preserve">
+        <source>If an opponent who controls at least as many lands as you do would put a land onto the battlefield, that player instead puts that land onto the battlefield then sacrifices a land.</source>
+        <target state="translated">如果任一操控地数量至少与你一样多的对手将把一张地放进战场，则改为该牌手将该地放进战场，然后牺牲一个地。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·66 | Part Water | Card Text: Paragraph 1" xml:space="preserve">
+        <source>X target creatures gain islandwalk until end of turn. (They can't be blocked as long as defending player controls an Island.)</source>
+        <target state="translated">X个目标生物获得海岛行者异能直到回合结束。（只要防御牌手操控海岛，它们便不能被阻挡。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·68 | Psychic Purge | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Psychic Purge deals 1 damage to any target.</source>
+        <target state="translated">~对任意一个目标造成1点伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·68 | Psychic Purge | Card Text: Paragraph 2" xml:space="preserve">
+        <source>When a spell or ability an opponent controls causes you to discard Psychic Purge, that player loses 5 life.</source>
+        <target state="translated">当由对手操控的咒语或异能使得你弃掉~时，该牌手失去5点生命。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·69 | Puppet Master | Card Text: Paragraph 2" xml:space="preserve">
+        <source>When enchanted creature dies, return that card to its owner's hand. If that card is returned to its owner's hand this way, you may pay {U}{U}{U}. If you do, return Puppet Master to its owner's hand.</source>
+        <target state="translated">当所结附的生物死去时，将该牌移回其拥有者手上。如果该牌以此法被移回其拥有者手上，则你可以支付{U}{U}{U}。若你如此作，则将~移回其拥有者手上。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·34 | Righteous Avengers | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)</source>
+        <target state="translated">平原行者（只要防御牌手操控平原，此生物便不能被阻挡。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·38 | Spiritual Sanctuary | Card Text: Paragraph 1" xml:space="preserve">
+        <source>At the beginning of each player's upkeep, if that player controls a Plains, they gain 1 life.</source>
+        <target state="translated">在每个牌手的维持开始时，若该牌手操控平原，则其获得1点生命。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·44 | Acid Rain | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Destroy all Forests.</source>
+        <target state="translated">消灭所有树林。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·49 | Brine Hag | Card Text: Paragraph 1" xml:space="preserve">
+        <source>When Brine Hag dies, change the base power and toughness of all creatures that dealt damage to it this turn to 0/2. (This effect lasts indefinitely.)</source>
+        <target state="translated">当~死去时，将所有本回合中曾对它造成过伤害的生物之基础力量和防御力更改为0/2。（此效应永远持续。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·50 | Devouring Deep | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)</source>
+        <target state="translated">海岛行者（只要防御牌手操控海岛，此生物便不能被阻挡。）</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·32 | Rapid Fire | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Target creature gains first strike until end of turn. If it doesn't have rampage, that creature gains rampage 2 until end of turn. (Whenever the creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</source>
+        <target state="translated">目标生物获得先攻异能直到回合结束。如果它不具狂暴，则该生物获得狂暴2直到回合结束。(每当此生物被阻挡时，从第二个生物起，每个阻挡它得生物都使它得+2/+2直到回合结束。)</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·33 | Remove Enchantments | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Return to your hand all enchantments you both own and control, all Auras you own attached to permanents you control, and all Auras you own attached to attacking creatures your opponents control. Then destroy all other enchantments you control, all other Auras attached to permanents you control, and all other Auras attached to attacking creatures your opponents control.</source>
+        <target state="translated">将所有由你拥有且操控的结界、由你拥有且贴附于由你操控之永久物上的灵气、由你拥有且贴附于由对手操控且进行攻击之生物上的灵气移回你手上。然后消灭所有其他由你操控的结界、贴附于由你操控之永久物上的灵气、贴附于由对手操控且进行攻击之生物上的灵气。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·62 | Invoke Prejudice | Card Text: Paragraph 1" xml:space="preserve">
+        <source>Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless that player pays {X}, where X is its mana value.</source>
+        <target state="translated">每当任一对手施放与由你操控的生物不具共通颜色的生物咒语时，除非该牌手支付{X}，否则反击之，X为该牌的法术力值。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·51 | Dream Coat | Card Text: Paragraph 2" xml:space="preserve">
+        <source>{0}: Enchanted creature becomes the color or colors of your choice. Activate only once each turn.</source>
+        <target state="translated">{0}：所结附的生物成为由你选择的颜色或颜色组合。此异能每回合只能起动一次。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·52 | Elder Spawn | Card Text: Paragraph 1" xml:space="preserve">
+        <source>At the beginning of your upkeep, unless you sacrifice an Island, sacrifice Elder Spawn and it deals 6 damage to you.</source>
+        <target state="translated">在你的维持开始时，除非你牺牲一个海岛，否则牺牲~且它对你造成6点伤害。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
+      <trans-unit resname="LEG·52 | Elder Spawn | Card Text: Paragraph 2" xml:space="preserve">
+        <source>Elder Spawn can't be blocked by red creatures.</source>
+        <target state="translated">~不能被红色生物阻挡。</target>
+        <note from="developer" priority="1" category="card_text"/>
+      </trans-unit>
     </body>
   </file>
 </xliff>
