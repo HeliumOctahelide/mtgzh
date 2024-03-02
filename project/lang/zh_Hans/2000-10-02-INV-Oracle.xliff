@@ -20,11 +20,11 @@
       </trans-unit>
       <trans-unit id="39dce974-846f-4365-b0a5-851e38668e7d" resname="INV·3 | Ardent Soldier | Card Text | Paragraph 2">
         <source>Vigilance</source>
-        <target state="translated">热诚的士兵攻击时不须横置。</target>
+        <target state="translated">CARDNAME攻击时不须横置。</target>
       </trans-unit>
       <trans-unit id="39dce974-846f-4365-b0a5-851e38668e7d" resname="INV·3 | Ardent Soldier | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with a +1/+1 counter on it.</source>
-        <target state="translated">若你已支付其增幅费用，则热诚的士兵进场时上面有一个+1/+1指示物。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="90500e7a-f76d-453a-bda0-d56d3f7c7534" resname="INV·4 | Atalya, Samite Master | Card Name">
         <source>Atalya, Samite Master</source>
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="6b82d56e-80d7-4be9-ac22-de3257efc458" resname="INV·5 | Benalish Emissary | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it was kicked, destroy target land.</source>
-        <target state="translated">当宾纳里亚密使进场时，若你已支付其增幅费用，则消灭目标地。</target>
+        <target state="translated">当CARDNAME进场时，若你已支付其增幅费用，则消灭目标地。</target>
       </trans-unit>
       <trans-unit id="13c6e51d-54eb-4e5b-9ec9-54521b16b8d1" resname="INV·6 | Benalish Heralds | Card Name">
         <source>Benalish Heralds</source>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="3a38d40a-e745-4fee-b179-f8c27e9b2fbd" resname="INV·7 | Benalish Lancer | Card Text | Paragraph 2">
         <source>If CARDNAME was kicked, it enters the battlefield with two +1/+1 counters on it and with first strike.</source>
-        <target state="translated">若你已支付其增幅费用，则宾纳里亚枪骑兵进场时上面有两个+1/+1指示物，并具有先攻异能。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有两个+1/+1指示物，并具有先攻异能。</target>
       </trans-unit>
       <trans-unit id="e312653d-c3e1-4c79-90d2-0963419b618c" resname="INV·8 | Benalish Trapper | Card Name">
         <source>Benalish Trapper</source>
@@ -80,7 +80,7 @@
       </trans-unit>
       <trans-unit id="ec3e5741-88d7-4837-9b43-ba8304d9ee74" resname="INV·10 | Capashen Unicorn | Card Text | Paragraph 1">
         <source>{1}{W}, {T}, Sacrifice CARDNAME: Destroy target artifact or enchantment.</source>
-        <target state="translated">o1oW，ocT，牺牲卡帕轩独角兽：消灭目标神器或结界。</target>
+        <target state="translated">o1oW，ocT，牺牲CARDNAME：消灭目标神器或结界。</target>
       </trans-unit>
       <trans-unit id="c1718028-3009-4bdd-9f6f-59c17edd1344" resname="INV·11 | Crimson Acolyte | Card Name">
         <source>Crimson Acolyte</source>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="a4ab4640-1871-41dd-bd21-64741e21ba37" resname="INV·12 | Crusading Knight | Card Text | Paragraph 2">
         <source>CARDNAME gets +1/+1 for each Swamp your opponents control.</source>
-        <target state="translated">对手每操控一张沼泽，圣战骑士便得+1/+1。</target>
+        <target state="translated">对手每操控一张沼泽，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="81f967c9-b38d-489d-96cc-44a6b1804e10" resname="INV·13 | Death or Glory | Card Name">
         <source>Death or Glory</source>
@@ -155,7 +155,7 @@
       </trans-unit>
       <trans-unit id="f14f55e4-eded-4a86-87f4-b8fa6f30bc0f" resname="INV·17 | Glimmering Angel | Card Text | Paragraph 2">
         <source>{U}: CARDNAME gains shroud until end of turn. (It can't be the target of spells or abilities.)</source>
-        <target state="translated">oU：微光天使本回合不能成为咒语或异能的目标。</target>
+        <target state="translated">oU：CARDNAME本回合不能成为咒语或异能的目标。</target>
       </trans-unit>
       <trans-unit id="336474b4-2cf5-44c0-b72c-f75f1a7ed928" resname="INV·18 | Global Ruin | Card Name">
         <source>Global Ruin</source>
@@ -171,7 +171,7 @@
       </trans-unit>
       <trans-unit id="34c78dee-ab45-4638-b89a-10686145b19a" resname="INV·19 | Harsh Judgment | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于严厉的裁决进场时，选择一个颜色。</target>
+        <target state="translated">于CARDNAME进场时，选择一个颜色。</target>
       </trans-unit>
       <trans-unit id="34c78dee-ab45-4638-b89a-10686145b19a" resname="INV·19 | Harsh Judgment | Card Text | Paragraph 2">
         <source>If an instant or sorcery spell of the chosen color would deal damage to you, it deals that damage to its controller instead.</source>
@@ -215,7 +215,7 @@
       </trans-unit>
       <trans-unit id="d6f98c26-5b30-400c-8af1-8c6c43065f63" resname="INV·24 | Pledge of Loyalty | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature has protection from the colors of permanents you control. This effect doesn't remove CARDNAME.</source>
-        <target state="translated">受此结界的生物具有反色保护异能，反色保护的颜色为你所操控之永久物包含的全部颜色。此效应不会移除忠诚誓言。</target>
+        <target state="translated">受此结界的生物具有反色保护异能，反色保护的颜色为你所操控之永久物包含的全部颜色。此效应不会移除CARDNAME。</target>
       </trans-unit>
       <trans-unit id="449c4800-8718-4593-a61e-03ad7f348c6d" resname="INV·25 | Prison Barricade | Card Name">
         <source>Prison Barricade</source>
@@ -231,7 +231,7 @@
       </trans-unit>
       <trans-unit id="449c4800-8718-4593-a61e-03ad7f348c6d" resname="INV·25 | Prison Barricade | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with a +1/+1 counter on it and with &amp;quot;CARDNAME can attack as though it didn't have defender.&amp;quot;</source>
-        <target state="translated">若你已支付其增幅费用，则监狱路障进场时上面有一个+1/+1指示物，并可以如同不是墙一般地进行攻击。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有一个+1/+1指示物，并可以如同不是墙一般地进行攻击。</target>
       </trans-unit>
       <trans-unit id="ef5ef13e-1cf0-42a9-95d0-30ade254d6a8" resname="INV·26 | Protective Sphere | Card Name">
         <source>Protective Sphere</source>
@@ -255,7 +255,7 @@
       </trans-unit>
       <trans-unit id="752642d2-3dad-4f58-b154-beb5982141dc" resname="INV·28 | Rampant Elephant | Card Text | Paragraph 1">
         <source>{G}: Target creature blocks CARDNAME this turn if able.</source>
-        <target state="translated">oG：目标生物本回合若能阻挡猖獗狂象，则须阻挡之。</target>
+        <target state="translated">oG：目标生物本回合若能阻挡CARDNAME，则须阻挡之。</target>
       </trans-unit>
       <trans-unit id="819e2046-9b78-4fd0-92f8-798bfac51195" resname="INV·29 | Razorfoot Griffin | Card Name">
         <source>Razorfoot Griffin</source>
@@ -329,7 +329,7 @@
       </trans-unit>
       <trans-unit id="94bc55ed-b89b-4e22-b3f1-4ce0f8d180d7" resname="INV·34 | Rout | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)</source>
-        <target state="translated">如果你施放溃不成军时多支付{2}，则你可以将其视同具有闪现异能地来施放。</target>
+        <target state="translated">如果你施放CARDNAME时多支付{2}，则你可以将其视同具有闪现异能地来施放。</target>
         <note xmlns:from="developer">中文数据来自C21（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="94bc55ed-b89b-4e22-b3f1-4ce0f8d180d7" resname="INV·34 | Rout | Card Text | Paragraph 2">
@@ -347,7 +347,7 @@
       </trans-unit>
       <trans-unit id="a46c7718-1ecc-418c-b213-13be9de5cb7f" resname="INV·35 | Ruham Djinn | Card Text | Paragraph 2">
         <source>CARDNAME gets -2/-2 as long as white is the most common color among all permanents or is tied for most common.</source>
-        <target state="translated">只要白色是所有永久物中最普遍的颜色，或和其他颜色同为最普遍，鲁杏巨灵便得-2/-2。</target>
+        <target state="translated">只要白色是所有永久物中最普遍的颜色，或和其他颜色同为最普遍，CARDNAME便得-2/-2。</target>
       </trans-unit>
       <trans-unit id="b1de62ed-79e6-4daf-a2ab-dc0726e1f7df" resname="INV·36 | Samite Ministration | Card Name">
         <source>Samite Ministration</source>
@@ -425,7 +425,7 @@
       </trans-unit>
       <trans-unit id="57e45de5-0e8b-41d3-979b-ec5a29cac682" resname="INV·44 | Wayfaring Giant | Card Text | Paragraph 1">
         <source>Domain — CARDNAME gets +1/+1 for each basic land type among lands you control.</source>
-        <target state="translated">你所操控的地之中，每有一种基本地类别，行脚巨人便得+1/+1。</target>
+        <target state="translated">你所操控的地之中，每有一种基本地类别，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="d61748dd-4010-47da-8717-ca0147877057" resname="INV·45 | Winnow | Card Name">
         <source>Winnow</source>
@@ -461,7 +461,7 @@
       </trans-unit>
       <trans-unit id="1b39cd77-97aa-4099-8405-366f82079758" resname="INV·48 | Breaking Wave | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)</source>
-        <target state="translated">若你使用破浪而出时多支付o2，你便可以于你能够使用瞬间的时机下使用它。</target>
+        <target state="translated">若你使用CARDNAME时多支付o2，你便可以于你能够使用瞬间的时机下使用它。</target>
       </trans-unit>
       <trans-unit id="1b39cd77-97aa-4099-8405-366f82079758" resname="INV·48 | Breaking Wave | Card Text | Paragraph 2">
         <source>Simultaneously untap all tapped creatures and tap all untapped creatures.</source>
@@ -560,7 +560,7 @@
       </trans-unit>
       <trans-unit id="4c707c81-dbbd-43be-a79a-7bc92a584839" resname="INV·58 | Faerie Squadron | Card Text | Paragraph 2">
         <source>If CARDNAME was kicked, it enters the battlefield with two +1/+1 counters on it and with flying.</source>
-        <target state="translated">若你已支付其增幅费用，则仙灵中队进场时上面有两个+1/+1指示物，并具有飞行异能。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有两个+1/+1指示物，并具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="0d62cc17-8fa3-495c-a098-ffbbec89fa53" resname="INV·59 | Mana Maze | Card Name">
         <source>Mana Maze</source>
@@ -592,7 +592,7 @@
       </trans-unit>
       <trans-unit id="59f34850-fb6f-4ac5-8309-4d53d770e28c" resname="INV·61 | Metathran Aerostat | Card Text | Paragraph 2">
         <source>{X}{U}: You may put a creature card with mana value X from your hand onto the battlefield. If you do, return CARDNAME to its owner's hand.</source>
-        <target state="translated">oXoU：你可以将总法术力费用为X的生物牌从手上放置进场。若你如此做，将仿索蓝升浮艇移回其拥有者手上。</target>
+        <target state="translated">oXoU：你可以将总法术力费用为X的生物牌从手上放置进场。若你如此做，将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="4fa9048d-1599-44a5-b4b2-45382c5b238d" resname="INV·62 | Metathran Transport | Card Name">
         <source>Metathran Transport</source>
@@ -604,7 +604,7 @@
       </trans-unit>
       <trans-unit id="4fa9048d-1599-44a5-b4b2-45382c5b238d" resname="INV·62 | Metathran Transport | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked by blue creatures.</source>
-        <target state="translated">仿索蓝运输艇不能被蓝色生物阻挡。</target>
+        <target state="translated">CARDNAME不能被蓝色生物阻挡。</target>
       </trans-unit>
       <trans-unit id="4fa9048d-1599-44a5-b4b2-45382c5b238d" resname="INV·62 | Metathran Transport | Card Text | Paragraph 3">
         <source>{U}: Target creature becomes blue until end of turn.</source>
@@ -616,7 +616,7 @@
       </trans-unit>
       <trans-unit id="6676a0f7-8213-4547-b2ac-b904cd418073" resname="INV·63 | Metathran Zombie | Card Text | Paragraph 1">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">oB：重生仿索蓝灵俑。</target>
+        <target state="translated">oB：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="958262ec-8e52-40cf-a9fd-a60e42643e15" resname="INV·64 | Opt | Card Name">
         <source>Opt</source>
@@ -674,7 +674,7 @@
       </trans-unit>
       <trans-unit id="7e622ad2-473f-489e-b4cf-bbdcc44d0cde" resname="INV·69 | Rainbow Crow | Card Text | Paragraph 2">
         <source>{1}: CARDNAME becomes the color of your choice until end of turn.</source>
-        <target state="translated">o1：选择一个颜色，虹彩幻鸦成为该色直到回合结束。</target>
+        <target state="translated">o1：选择一个颜色，CARDNAME成为该色直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9a04e9be-48be-440e-9825-cfffd4c2b1a4" resname="INV·70 | Repulse | Card Name">
         <source>Repulse</source>
@@ -807,7 +807,7 @@
       </trans-unit>
       <trans-unit id="1cbc55e5-b84c-4449-a288-ec26cdd3997c" resname="INV·81 | Tolarian Emissary | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if it was kicked, destroy target enchantment.</source>
-        <target state="translated">当陶拉里亚密使进场时，若你已支付其增幅费用，则消灭目标结界。</target>
+        <target state="translated">当CARDNAME进场时，若你已支付其增幅费用，则消灭目标结界。</target>
       </trans-unit>
       <trans-unit id="aef97b38-f7a5-4db7-9550-24aa1a1ebbda" resname="INV·82 | Tower Drake | Card Name">
         <source>Tower Drake</source>
@@ -821,7 +821,7 @@
       </trans-unit>
       <trans-unit id="aef97b38-f7a5-4db7-9550-24aa1a1ebbda" resname="INV·82 | Tower Drake | Card Text | Paragraph 2">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">{W}：楼塔龙兽得+0/+1直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME得+0/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自RTR（2012-10-05）；</note>
       </trans-unit>
       <trans-unit id="977f0f82-0542-40c9-9a48-73077941dbd1" resname="INV·83 | Traveler's Cloak | Card Name">
@@ -836,12 +836,12 @@
       </trans-unit>
       <trans-unit id="977f0f82-0542-40c9-9a48-73077941dbd1" resname="INV·83 | Traveler's Cloak | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a land type.</source>
-        <target state="translated">于旅人斗篷进战场时，选择一种地类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种地类别。</target>
         <note xmlns:from="developer">中文数据来自CNS（2014-06-06）；</note>
       </trans-unit>
       <trans-unit id="977f0f82-0542-40c9-9a48-73077941dbd1" resname="INV·83 | Traveler's Cloak | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当旅人斗篷进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自CNS（2014-06-06）；</note>
       </trans-unit>
       <trans-unit id="977f0f82-0542-40c9-9a48-73077941dbd1" resname="INV·83 | Traveler's Cloak | Card Text | Paragraph 4">
@@ -863,7 +863,7 @@
       </trans-unit>
       <trans-unit id="c1c0effa-a4b8-4166-a66a-90cf01c6ea0d" resname="INV·85 | Vodalian Merchant | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card, then discard a card.</source>
-        <target state="translated">当伏特里亚商人进场时，抓一张牌，然后从你手上弃掉一张牌。</target>
+        <target state="translated">当CARDNAME进场时，抓一张牌，然后从你手上弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="92adcf6c-ab14-414c-a5cb-56feae048c84" resname="INV·86 | Vodalian Serpent | Card Name">
         <source>Vodalian Serpent</source>
@@ -875,11 +875,11 @@
       </trans-unit>
       <trans-unit id="92adcf6c-ab14-414c-a5cb-56feae048c84" resname="INV·86 | Vodalian Serpent | Card Text | Paragraph 2">
         <source>CARDNAME can't attack unless defending player controls an Island.</source>
-        <target state="translated">除非防御牌手操控海岛，否则伏特里亚巨蛇不能进行攻击。</target>
+        <target state="translated">除非防御牌手操控海岛，否则CARDNAME不能进行攻击。</target>
       </trans-unit>
       <trans-unit id="92adcf6c-ab14-414c-a5cb-56feae048c84" resname="INV·86 | Vodalian Serpent | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with four +1/+1 counters on it.</source>
-        <target state="translated">若你已支付其增幅费用，则伏特里亚巨蛇进场时上面有四个+1/+1指示物。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有四个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="7719d043-5827-4479-825b-23d9e979ead7" resname="INV·87 | Wash Out | Card Name">
         <source>Wash Out</source>
@@ -919,7 +919,7 @@
       </trans-unit>
       <trans-unit id="57a3c1d5-0ca8-443b-ae7a-66e0363e377b" resname="INV·90 | Zanam Djinn | Card Text | Paragraph 2">
         <source>CARDNAME gets -2/-2 as long as blue is the most common color among all permanents or is tied for most common.</source>
-        <target state="translated">只要蓝色是所有永久物中最普遍的颜色，或和其他颜色同为最普遍，匝南巨灵便得-2/-2。</target>
+        <target state="translated">只要蓝色是所有永久物中最普遍的颜色，或和其他颜色同为最普遍，CARDNAME便得-2/-2。</target>
       </trans-unit>
       <trans-unit id="e8afb9d0-affa-4599-bf29-729cfe64703b" resname="INV·91 | Addle | Card Name">
         <source>Addle</source>
@@ -939,7 +939,7 @@
       </trans-unit>
       <trans-unit id="539ac5e1-4bad-4f70-abac-e70c406bebec" resname="INV·92 | Agonizing Demise | Card Text | Paragraph 2">
         <source>Destroy target nonblack creature. It can't be regenerated. If this spell was kicked, CARDNAME deals damage equal to that creature's power to the creature's controller.</source>
-        <target state="translated">消灭目标非黑色的生物。它不能重生。若你已支付其增幅费用，则惨痛伤亡对该生物的操控者造成等同于该生物力量的伤害。</target>
+        <target state="translated">消灭目标非黑色的生物。它不能重生。若你已支付其增幅费用，则CARDNAME对该生物的操控者造成等同于该生物力量的伤害。</target>
       </trans-unit>
       <trans-unit id="6da0d4f3-9216-406c-8f3e-b9bb0a11dc75" resname="INV·93 | Andradite Leech | Card Name">
         <source>Andradite Leech</source>
@@ -951,7 +951,7 @@
       </trans-unit>
       <trans-unit id="6da0d4f3-9216-406c-8f3e-b9bb0a11dc75" resname="INV·93 | Andradite Leech | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">oB：黑榴石蛭得+1/+1直到回合结束。</target>
+        <target state="translated">oB：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4a3bf039-ecf6-477e-997c-e32c55323c01" resname="INV·94 | Annihilate | Card Name">
         <source>Annihilate</source>
@@ -1001,7 +1001,7 @@
       </trans-unit>
       <trans-unit id="522ddc6f-ec13-4a70-8f4c-b3c846b102fd" resname="INV·97 | Crypt Angel | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return target blue or red creature card from your graveyard to your hand.</source>
-        <target state="translated">当墓穴天使进场时，将目标在你坟墓场中的蓝色或红色生物牌移回你的手上。</target>
+        <target state="translated">当CARDNAME进场时，将目标在你坟墓场中的蓝色或红色生物牌移回你的手上。</target>
       </trans-unit>
       <trans-unit id="db7cba29-9472-4874-bd54-37edf70645b2" resname="INV·99 | Defiling Tears | Card Name">
         <source>Defiling Tears</source>
@@ -1033,7 +1033,7 @@
       </trans-unit>
       <trans-unit id="064f013f-e74f-419d-8d17-7748bd91885e" resname="INV·101 | Devouring Strossus | Card Text | Paragraph 3">
         <source>Sacrifice a creature: Regenerate CARDNAME.</source>
-        <target state="translated">牺牲一个生物：重生饕餮噬啜兽。</target>
+        <target state="translated">牺牲一个生物：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="05f63cd9-e82b-4cf8-b8ce-f0aa0157692b" resname="INV·102 | Do or Die | Card Name">
         <source>Do or Die</source>
@@ -1065,7 +1065,7 @@
       </trans-unit>
       <trans-unit id="39a4a026-f44e-40e1-9942-a3d8448aca70" resname="INV·104 | Duskwalker | Card Text | Paragraph 2">
         <source>If CARDNAME was kicked, it enters the battlefield with two +1/+1 counters on it and with fear. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">若你已支付其增幅费用，则薄暮行者进场时上面有两个+1/+1指示物，并具有「薄暮行者只能被神器生物和／或黑色生物阻挡」。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有两个+1/+1指示物，并具有「CARDNAME只能被神器生物和／或黑色生物阻挡」。</target>
       </trans-unit>
       <trans-unit id="8ee35d99-9a8a-421b-bf43-74446909d87d" resname="INV·105 | Exotic Curse | Card Name">
         <source>Exotic Curse</source>
@@ -1081,7 +1081,7 @@
       </trans-unit>
       <trans-unit id="155a2213-bf6e-4a54-924b-e450b7d06f26" resname="INV·106 | Firescreamer | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">oR：哮火蜥得+1/+0直到回合结束。</target>
+        <target state="translated">oR：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d67796c7-4d93-4c50-8839-bb69e075bc42" resname="INV·107 | Goham Djinn | Card Name">
         <source>Goham Djinn</source>
@@ -1089,11 +1089,11 @@
       </trans-unit>
       <trans-unit id="d67796c7-4d93-4c50-8839-bb69e075bc42" resname="INV·107 | Goham Djinn | Card Text | Paragraph 1">
         <source>{1}{B}: Regenerate CARDNAME.</source>
-        <target state="translated">o1oB：重生高罕巨灵。</target>
+        <target state="translated">o1oB：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="d67796c7-4d93-4c50-8839-bb69e075bc42" resname="INV·107 | Goham Djinn | Card Text | Paragraph 2">
         <source>CARDNAME gets -2/-2 as long as black is the most common color among all permanents or is tied for most common.</source>
-        <target state="translated">只要黑色是所有永久物中最普遍的颜色，或和其他颜色同为最普遍，高罕巨灵便得-2/-2。</target>
+        <target state="translated">只要黑色是所有永久物中最普遍的颜色，或和其他颜色同为最普遍，CARDNAME便得-2/-2。</target>
       </trans-unit>
       <trans-unit id="8328e131-b44d-4dd0-9ce4-454c6afe6fa6" resname="INV·108 | Hate Weaver | Card Name">
         <source>Hate Weaver</source>
@@ -1127,7 +1127,7 @@
       </trans-unit>
       <trans-unit id="cea2a7de-c67e-4541-be8c-e5ef7b64d94a" resname="INV·110 | Marauding Knight | Card Text | Paragraph 2">
         <source>CARDNAME gets +1/+1 for each Plains your opponents control.</source>
-        <target state="translated">对手每操控一张平原，掠劫骑士便得+1/+1。</target>
+        <target state="translated">对手每操控一张平原，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="4649d881-709f-4ed0-91de-744d232a82f5" resname="INV·111 | Mourning | Card Name">
         <source>Mourning</source>
@@ -1135,7 +1135,7 @@
       </trans-unit>
       <trans-unit id="4649d881-709f-4ed0-91de-744d232a82f5" resname="INV·111 | Mourning | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature gets -2/-0.\n{B}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">受此结界的生物得-2/-0。\noB：将哀恸欲绝移回其拥有者手上。</target>
+        <target state="translated">受此结界的生物得-2/-0。\noB：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="7498ca4c-614a-4776-8886-0a6ed58520f6" resname="INV·112 | Nightscape Apprentice | Card Name">
         <source>Nightscape Apprentice</source>
@@ -1159,7 +1159,7 @@
       </trans-unit>
       <trans-unit id="d86174b8-dd9e-4ece-bc23-4f9ac50bccd3" resname="INV·113 | Nightscape Master | Card Text | Paragraph 2">
         <source>{R}{R}, {T}: CARDNAME deals 2 damage to target creature.</source>
-        <target state="translated">oRoR，ocT：夜景院大师对目标生物造成2点伤害。</target>
+        <target state="translated">oRoR，ocT：CARDNAME对目标生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="da27c489-c541-4b0d-a844-71aa65e55ceb" resname="INV·114 | Phyrexian Battleflies | Card Name">
         <source>Phyrexian Battleflies</source>
@@ -1171,7 +1171,7 @@
       </trans-unit>
       <trans-unit id="da27c489-c541-4b0d-a844-71aa65e55ceb" resname="INV·114 | Phyrexian Battleflies | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+0 until end of turn. Activate no more than twice each turn.</source>
-        <target state="translated">oB：非瑞克西亚战蝇得+1/+0直到回合结束。此异能每回合最多只能使用两次。</target>
+        <target state="translated">oB：CARDNAME得+1/+0直到回合结束。此异能每回合最多只能使用两次。</target>
       </trans-unit>
       <trans-unit id="e66d87a5-7b67-4ec5-b5e2-518d67123118" resname="INV·115 | Phyrexian Delver | Card Name">
         <source>Phyrexian Delver</source>
@@ -1180,7 +1180,7 @@
       </trans-unit>
       <trans-unit id="e66d87a5-7b67-4ec5-b5e2-518d67123118" resname="INV·115 | Phyrexian Delver | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return target creature card from your graveyard to the battlefield. You lose life equal to that card's mana value.</source>
-        <target state="translated">当非瑞克西亚考掘怪进战场时，将目标生物牌从你的坟墓场移回战场。你失去等同于该牌法术力值的生命。</target>
+        <target state="translated">当CARDNAME进战场时，将目标生物牌从你的坟墓场移回战场。你失去等同于该牌法术力值的生命。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="224b8254-553d-4d88-8163-1f15e1244bd2" resname="INV·116 | Phyrexian Infiltrator | Card Name">
@@ -1189,7 +1189,7 @@
       </trans-unit>
       <trans-unit id="224b8254-553d-4d88-8163-1f15e1244bd2" resname="INV·116 | Phyrexian Infiltrator | Card Text | Paragraph 1">
         <source>{2}{U}{U}: Exchange control of CARDNAME and target creature. (This effect lasts indefinitely.)</source>
-        <target state="translated">o2oUoU：交换非瑞克西亚渗透者与目标生物的操控权。</target>
+        <target state="translated">o2oUoU：交换CARDNAME与目标生物的操控权。</target>
       </trans-unit>
       <trans-unit id="ccdd498b-1081-43fe-8193-518337a5a3ea" resname="INV·117 | Phyrexian Reaper | Card Name">
         <source>Phyrexian Reaper</source>
@@ -1197,7 +1197,7 @@
       </trans-unit>
       <trans-unit id="ccdd498b-1081-43fe-8193-518337a5a3ea" resname="INV·117 | Phyrexian Reaper | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked by a green creature, destroy that creature. It can't be regenerated.</source>
-        <target state="translated">每当非瑞克西亚开膛手被绿色生物阻挡时，消灭该生物。它不能重生。</target>
+        <target state="translated">每当CARDNAME被绿色生物阻挡时，消灭该生物。它不能重生。</target>
       </trans-unit>
       <trans-unit id="5fa8c604-343f-4c94-ac25-439ab1845c19" resname="INV·118 | Phyrexian Slayer | Card Name">
         <source>Phyrexian Slayer</source>
@@ -1209,7 +1209,7 @@
       </trans-unit>
       <trans-unit id="5fa8c604-343f-4c94-ac25-439ab1845c19" resname="INV·118 | Phyrexian Slayer | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes blocked by a white creature, destroy that creature. It can't be regenerated.</source>
-        <target state="translated">每当非瑞克西亚斩杀手被白色生物阻挡时，消灭该生物。它不能重生。</target>
+        <target state="translated">每当CARDNAME被白色生物阻挡时，消灭该生物。它不能重生。</target>
       </trans-unit>
       <trans-unit id="8845e6bd-40ee-45ca-a099-53f19ff20a8a" resname="INV·119 | Plague Spitter | Card Name">
         <source>Plague Spitter</source>
@@ -1218,12 +1218,12 @@
       </trans-unit>
       <trans-unit id="8845e6bd-40ee-45ca-a099-53f19ff20a8a" resname="INV·119 | Plague Spitter | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">在你的维持开始时，瘟疫喷兽对每个生物和每位牌手各造成1点伤害。</target>
+        <target state="translated">在你的维持开始时，CARDNAME对每个生物和每位牌手各造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="8845e6bd-40ee-45ca-a099-53f19ff20a8a" resname="INV·119 | Plague Spitter | Card Text | Paragraph 2">
         <source>When CARDNAME dies, it deals 1 damage to each creature and each player.</source>
-        <target state="translated">当瘟疫喷兽死去时，它对每个生物和每位牌手各造成1点伤害。</target>
+        <target state="translated">当CARDNAME死去时，它对每个生物和每位牌手各造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="771e695b-24e1-4c65-81e0-1624bda646e7" resname="INV·122 | Recover | Card Name">
@@ -1247,7 +1247,7 @@
       </trans-unit>
       <trans-unit id="4e8072a9-2699-4c6c-9556-67d91bd67a4b" resname="INV·123 | Scavenged Weaponry | Card Text | Paragraphs">
         <source>Enchant creature\nWhen CARDNAME enters the battlefield, draw a card.\nEnchanted creature gets +1/+1.</source>
-        <target state="translated">当拼装式武器进场时，抓一张牌。\n受此结界的生物得+1/+1。</target>
+        <target state="translated">当CARDNAME进场时，抓一张牌。\n受此结界的生物得+1/+1。</target>
       </trans-unit>
       <trans-unit id="ac86055d-ce08-4b05-a92c-45e007ca0ba4" resname="INV·125 | Spreading Plague | Card Name">
         <source>Spreading Plague</source>
@@ -1263,7 +1263,7 @@
       </trans-unit>
       <trans-unit id="2eec00a1-7e12-42d2-8f46-de8ab7323c2c" resname="INV·126 | Tainted Well | Card Text | Paragraphs">
         <source>Enchant land\nWhen CARDNAME enters the battlefield, draw a card.\nEnchanted land is a Swamp.</source>
-        <target state="translated">当腐井进场时，抓一张牌。\n受此结界的地成为沼泽。</target>
+        <target state="translated">当CARDNAME进场时，抓一张牌。\n受此结界的地成为沼泽。</target>
       </trans-unit>
       <trans-unit id="1b076f85-d1bf-491a-af9d-f35b8e1bd163" resname="INV·127 | Trench Wurm | Card Name">
         <source>Trench Wurm</source>
@@ -1295,7 +1295,7 @@
       </trans-unit>
       <trans-unit id="3c97c8a5-33b3-4f7f-a224-bb4df7b4bcc0" resname="INV·130 | Twilight's Call | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)</source>
-        <target state="translated">若你使用暮色呼声时多支付o2，你便可以于你能够使用瞬间的时机下使用它。</target>
+        <target state="translated">若你使用CARDNAME时多支付o2，你便可以于你能够使用瞬间的时机下使用它。</target>
       </trans-unit>
       <trans-unit id="3c97c8a5-33b3-4f7f-a224-bb4df7b4bcc0" resname="INV·130 | Twilight's Call | Card Text | Paragraph 2">
         <source>Each player returns all creature cards from their graveyard to the battlefield.</source>
@@ -1311,7 +1311,7 @@
       </trans-unit>
       <trans-unit id="e6912c71-1836-4e87-9a65-d577d903d03c" resname="INV·131 | Urborg Emissary | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it was kicked, return target permanent to its owner's hand.</source>
-        <target state="translated">当乌尔博格密使进场时，若你已支付其增幅费用，则将目标永久物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进场时，若你已支付其增幅费用，则将目标永久物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="397355b9-5b67-4973-972e-3505c500d116" resname="INV·132 | Urborg Phantom | Card Name">
         <source>Urborg Phantom</source>
@@ -1319,11 +1319,11 @@
       </trans-unit>
       <trans-unit id="397355b9-5b67-4973-972e-3505c500d116" resname="INV·132 | Urborg Phantom | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">乌尔博格魅影不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="397355b9-5b67-4973-972e-3505c500d116" resname="INV·132 | Urborg Phantom | Card Text | Paragraph 2">
         <source>{U}: Prevent all combat damage that would be dealt to and dealt by CARDNAME this turn.</source>
-        <target state="translated">oU：于本回合中，防止将对乌尔博格魅影造成的，及其将造成的所有战斗伤害。</target>
+        <target state="translated">oU：于本回合中，防止将对CARDNAME造成的，及其将造成的所有战斗伤害。</target>
       </trans-unit>
       <trans-unit id="eaedd5c8-03c6-4bbb-bf83-632551830bd4" resname="INV·133 | Urborg Shambler | Card Name">
         <source>Urborg Shambler</source>
@@ -1343,11 +1343,11 @@
       </trans-unit>
       <trans-unit id="6e522a62-fbca-4362-9006-d4356c525704" resname="INV·134 | Urborg Skeleton | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">oB：重生乌尔博格骷髅妖。</target>
+        <target state="translated">oB：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="6e522a62-fbca-4362-9006-d4356c525704" resname="INV·134 | Urborg Skeleton | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with a +1/+1 counter on it.</source>
-        <target state="translated">若你已支付其增幅费用，则乌尔博格骷髅妖进场时上面有一个+1/+1指示物。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="50f7ea7f-4f17-4f78-b68e-693e265ca829" resname="INV·135 | Yawgmoth's Agenda | Card Name">
         <source>Yawgmoth's Agenda</source>
@@ -1371,7 +1371,7 @@
       </trans-unit>
       <trans-unit id="c8ccb5d0-735b-443f-addd-8b70f5f2c60d" resname="INV·136 | Ancient Kavu | Card Text | Paragraph 1">
         <source>{2}: CARDNAME becomes colorless until end of turn.</source>
-        <target state="translated">o2：古代卡甫成为无色直到回合结束。</target>
+        <target state="translated">o2：CARDNAME成为无色直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b76b6660-d4b2-44de-a1a7-8d00811f90f6" resname="INV·137 | Bend or Break | Card Name">
         <source>Bend or Break</source>
@@ -1388,7 +1388,7 @@
       </trans-unit>
       <trans-unit id="480bb7e3-df03-454d-ada0-592ef8a4a6f0" resname="INV·138 | Breath of Darigaaz | Card Text | Paragraphs">
         <source>Kicker {2} (You may pay an additional {2} as you cast this spell.)\nCARDNAME deals 1 damage to each creature without flying and each player. If this spell was kicked, it deals 4 damage to each creature without flying and each player instead.</source>
-        <target state="translated">增幅{2}（你施放此咒语时可以额外支付{2}。）达里迦的炎息对每位牌手与每个不具飞行异能的生物各造成1点伤害。如果达里迦的炎息已增幅，则改为它对每位牌手与每个不具飞行异能的生物各造成4点伤害。</target>
+        <target state="translated">增幅{2}（你施放此咒语时可以额外支付{2}。）CARDNAME对每位牌手与每个不具飞行异能的生物各造成1点伤害。如果CARDNAME已增幅，则改为它对每位牌手与每个不具飞行异能的生物各造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="330028c4-8e91-4fe3-a87d-1660dfd2507e" resname="INV·139 | Callous Giant | Card Name">
@@ -1397,7 +1397,7 @@
       </trans-unit>
       <trans-unit id="330028c4-8e91-4fe3-a87d-1660dfd2507e" resname="INV·139 | Callous Giant | Card Text | Paragraph 1">
         <source>If a source would deal 3 or less damage to CARDNAME, prevent that damage.</source>
-        <target state="translated">若任一来源将对麻木巨人造成小于或等于3点的伤害，则防止该伤害。</target>
+        <target state="translated">若任一来源将对CARDNAME造成小于或等于3点的伤害，则防止该伤害。</target>
       </trans-unit>
       <trans-unit id="061df8e4-6947-4bbb-9fe7-52ca4fd95d65" resname="INV·140 | Chaotic Strike | Card Name">
         <source>Chaotic Strike</source>
@@ -1405,7 +1405,7 @@
       </trans-unit>
       <trans-unit id="061df8e4-6947-4bbb-9fe7-52ca4fd95d65" resname="INV·140 | Chaotic Strike | Card Text | Paragraph 1">
         <source>Cast this spell only during combat after blockers are declared.</source>
-        <target state="translated">只能于战斗中，宣告阻挡者之后使用趁乱打击。</target>
+        <target state="translated">只能于战斗中，宣告阻挡者之后使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="061df8e4-6947-4bbb-9fe7-52ca4fd95d65" resname="INV·140 | Chaotic Strike | Card Text | Paragraph 2">
         <source>Flip a coin. If you win the flip, target creature gets +1/+1 until end of turn.</source>
@@ -1421,7 +1421,7 @@
       </trans-unit>
       <trans-unit id="cc019633-788e-4095-9610-6c0a432f7656" resname="INV·141 | Collapsing Borders | Card Text | Paragraph 1">
         <source>Domain — At the beginning of each player's upkeep, that player gains 1 life for each basic land type among lands they control. Then CARDNAME deals 3 damage to that player.</source>
-        <target state="translated">在每位牌手的维持开始时，该牌手所操控的地之中，每有一种基本地类别，他便获得1点生命。然后崩坏边界对他造成3点伤害。</target>
+        <target state="translated">在每位牌手的维持开始时，该牌手所操控的地之中，每有一种基本地类别，他便获得1点生命。然后CARDNAME对他造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="ee05211e-cf08-4dea-9740-ed06f8682153" resname="INV·143 | Firebrand Ranger | Card Name">
         <source>Firebrand Ranger</source>
@@ -1437,11 +1437,11 @@
       </trans-unit>
       <trans-unit id="78827acd-a526-411b-bd22-ab9b538c75dd" resname="INV·144 | Ghitu Fire | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)</source>
-        <target state="translated">若你使用基图之火时多支付o2，你便可以于你能够使用瞬间的时机下使用它。</target>
+        <target state="translated">若你使用CARDNAME时多支付o2，你便可以于你能够使用瞬间的时机下使用它。</target>
       </trans-unit>
       <trans-unit id="78827acd-a526-411b-bd22-ab9b538c75dd" resname="INV·144 | Ghitu Fire | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage to any target.</source>
-        <target state="translated">基图之火对目标生物或牌手造成X点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="2a89a099-8805-4b26-babd-5d9f48ee406a" resname="INV·145 | Goblin Spy | Card Name">
         <source>Goblin Spy</source>
@@ -1461,7 +1461,7 @@
       </trans-unit>
       <trans-unit id="369ade1f-e909-47ae-bb01-19588269ad8f" resname="INV·146 | Halam Djinn | Card Text | Paragraph 2">
         <source>CARDNAME gets -2/-2 as long as red is the most common color among all permanents or is tied for most common.</source>
-        <target state="translated">只要红色是所有永久物中最普遍的颜色，或和其他颜色同为最普遍，赫岚巨灵便得-2/-2。</target>
+        <target state="translated">只要红色是所有永久物中最普遍的颜色，或和其他颜色同为最普遍，CARDNAME便得-2/-2。</target>
       </trans-unit>
       <trans-unit id="5464b80a-22fe-42c7-a839-31667712fb2d" resname="INV·147 | Hooded Kavu | Card Name">
         <source>Hooded Kavu</source>
@@ -1469,7 +1469,7 @@
       </trans-unit>
       <trans-unit id="5464b80a-22fe-42c7-a839-31667712fb2d" resname="INV·147 | Hooded Kavu | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">oB：顶盖卡甫本回合只能被神器生物和／或黑色生物阻挡。</target>
+        <target state="translated">oB：CARDNAME本回合只能被神器生物和／或黑色生物阻挡。</target>
       </trans-unit>
       <trans-unit id="a2832ad3-ce7f-44d2-beb2-c95d982905a6" resname="INV·148 | Kavu Aggressor | Card Name">
         <source>Kavu Aggressor</source>
@@ -1481,11 +1481,11 @@
       </trans-unit>
       <trans-unit id="a2832ad3-ce7f-44d2-beb2-c95d982905a6" resname="INV·148 | Kavu Aggressor | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">猛袭卡甫不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="a2832ad3-ce7f-44d2-beb2-c95d982905a6" resname="INV·148 | Kavu Aggressor | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with a +1/+1 counter on it.</source>
-        <target state="translated">若你已支付其增幅费用，则猛袭卡甫进场时上面有一个+1/+1指示物。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="ea63dfd5-d8d7-45b8-8219-1cc2b3de5666" resname="INV·149 | Kavu Monarch | Card Name">
         <source>Kavu Monarch</source>
@@ -1497,7 +1497,7 @@
       </trans-unit>
       <trans-unit id="ea63dfd5-d8d7-45b8-8219-1cc2b3de5666" resname="INV·149 | Kavu Monarch | Card Text | Paragraph 2">
         <source>Whenever another Kavu enters the battlefield, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当有另一个卡甫进场时，在卡甫君王上面放置一个+1/+1指示物。</target>
+        <target state="translated">每当有另一个卡甫进场时，在CARDNAME上面放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2bc1b462-4e3c-47cc-87c5-f6e29dd70c01" resname="INV·150 | Kavu Runner | Card Name">
         <source>Kavu Runner</source>
@@ -1505,7 +1505,7 @@
       </trans-unit>
       <trans-unit id="2bc1b462-4e3c-47cc-87c5-f6e29dd70c01" resname="INV·150 | Kavu Runner | Card Text | Paragraph 1">
         <source>CARDNAME has haste as long as no opponent controls a white or blue creature.</source>
-        <target state="translated">只要对手未操控白色或蓝色生物，急奔卡甫便具有敏捷异能。（你操控此生物的该回合中，它便可以攻击以及ocT）</target>
+        <target state="translated">只要对手未操控白色或蓝色生物，CARDNAME便具有敏捷异能。（你操控此生物的该回合中，它便可以攻击以及ocT）</target>
       </trans-unit>
       <trans-unit id="cbc2670d-a3f4-47c2-b424-01fd379ff186" resname="INV·151 | Kavu Scout | Card Name">
         <source>Kavu Scout</source>
@@ -1513,7 +1513,7 @@
       </trans-unit>
       <trans-unit id="cbc2670d-a3f4-47c2-b424-01fd379ff186" resname="INV·151 | Kavu Scout | Card Text | Paragraph 1">
         <source>Domain — CARDNAME gets +1/+0 for each basic land type among lands you control.</source>
-        <target state="translated">在你所操控的地之中，每有一种基本地类别，远侦卡甫便得+1/+0。</target>
+        <target state="translated">在你所操控的地之中，每有一种基本地类别，CARDNAME便得+1/+0。</target>
       </trans-unit>
       <trans-unit id="54d05157-d154-4203-bf3e-add110cb1cee" resname="INV·152 | Lightning Dart | Card Name">
         <source>Lightning Dart</source>
@@ -1521,7 +1521,7 @@
       </trans-unit>
       <trans-unit id="54d05157-d154-4203-bf3e-add110cb1cee" resname="INV·152 | Lightning Dart | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to target creature. If that creature is white or blue, CARDNAME deals 4 damage to it instead.</source>
-        <target state="translated">闪电镖对目标生物造成1点伤害。若该生物是白色或蓝色，则改为闪电镖对其造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成1点伤害。若该生物是白色或蓝色，则改为CARDNAME对其造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="fab5f738-04d0-44c9-88ec-28469b668040" resname="INV·153 | Loafing Giant | Card Name">
         <source>Loafing Giant</source>
@@ -1529,7 +1529,7 @@
       </trans-unit>
       <trans-unit id="fab5f738-04d0-44c9-88ec-28469b668040" resname="INV·153 | Loafing Giant | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks or blocks, mill a card. If a land card was milled this way, prevent all combat damage CARDNAME would deal this turn.</source>
-        <target state="translated">每当闲散巨人进行攻击或阻挡时，将你的牌库顶牌置入你的坟墓场。若该张牌是地牌，则于本回合中防止闲散巨人将造成的所有战斗伤害。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，将你的牌库顶牌置入你的坟墓场。若该张牌是地牌，则于本回合中防止CARDNAME将造成的所有战斗伤害。</target>
       </trans-unit>
       <trans-unit id="c516861c-68d9-4d02-a343-689dba0526c6" resname="INV·154 | Mages' Contest | Card Name">
         <source>Mages' Contest</source>
@@ -1546,7 +1546,7 @@
       </trans-unit>
       <trans-unit id="cdabde40-2143-4677-b7b4-ea8fbf9b1f25" resname="INV·156 | Obliterate | Card Text | Paragraph 1">
         <source>This spell can't be countered.</source>
-        <target state="translated">全数抹煞不能被反击。</target>
+        <target state="translated">CARDNAME不能被反击。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="cdabde40-2143-4677-b7b4-ea8fbf9b1f25" resname="INV·156 | Obliterate | Card Text | Paragraph 2">
@@ -1580,7 +1580,7 @@
       </trans-unit>
       <trans-unit id="7e6e2e49-7bde-43c1-8caf-43d237dfc052" resname="INV·158 | Pouncing Kavu | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with two +1/+1 counters on it and with haste.</source>
-        <target state="translated">若你已支付其增幅费用，则扑击卡甫进场时上面有两个+1/+1指示物，并具有敏捷异能。（你操控此生物的该回合中，它便可以攻击以及ocT）</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有两个+1/+1指示物，并具有敏捷异能。（你操控此生物的该回合中，它便可以攻击以及ocT）</target>
       </trans-unit>
       <trans-unit id="a654295d-b63c-4025-bf36-899023a8ba1d" resname="INV·159 | Rage Weaver | Card Name">
         <source>Rage Weaver</source>
@@ -1599,7 +1599,7 @@
       </trans-unit>
       <trans-unit id="61e1a445-129d-4bb9-a8b0-3f55e3e0bc58" resname="INV·160 | Rogue Kavu | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks alone, it gets +2/+0 until end of turn.</source>
-        <target state="translated">每当独行卡甫单独攻击时，它便得+2/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME单独攻击时，它便得+2/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="be621b12-4f4e-43a6-b65e-da4223e742b5" resname="INV·161 | Ruby Leech | Card Name">
@@ -1632,7 +1632,7 @@
       </trans-unit>
       <trans-unit id="067ff95e-c4dc-41bb-9677-67f51a09b05a" resname="INV·163 | Scarred Puma | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless a black or green creature also attacks.</source>
-        <target state="translated">除非另有黑色或绿色生物同时进行攻击，否则疤痕豹不能进行攻击。</target>
+        <target state="translated">除非另有黑色或绿色生物同时进行攻击，否则CARDNAME不能进行攻击。</target>
       </trans-unit>
       <trans-unit id="2a85437f-052e-494c-a9ee-265c4624a409" resname="INV·164 | Scorching Lava | Card Name">
         <source>Scorching Lava</source>
@@ -1644,7 +1644,7 @@
       </trans-unit>
       <trans-unit id="2a85437f-052e-494c-a9ee-265c4624a409" resname="INV·164 | Scorching Lava | Card Text | Paragraph 2">
         <source>CARDNAME deals 2 damage to any target. If this spell was kicked, that creature can't be regenerated this turn and if it would die this turn, exile it instead.</source>
-        <target state="translated">焦热熔岩对目标生物或牌手造成2点伤害。若你已支付其增幅费用，则该生物于本回合中不能重生，并且若它于本回合中将被置入坟墓场，则改为将其移出对战。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。若你已支付其增幅费用，则该生物于本回合中不能重生，并且若它于本回合中将被置入坟墓场，则改为将其移出对战。</target>
       </trans-unit>
       <trans-unit id="4f66ff2d-f2d2-4a6b-bf26-b510de60c0b6" resname="INV·165 | Searing Rays | Card Name">
         <source>Searing Rays</source>
@@ -1652,7 +1652,7 @@
       </trans-unit>
       <trans-unit id="4f66ff2d-f2d2-4a6b-bf26-b510de60c0b6" resname="INV·165 | Searing Rays | Card Text | Paragraph 1">
         <source>Choose a color. CARDNAME deals damage to each player equal to the number of creatures of that color that player controls.</source>
-        <target state="translated">选择一个颜色。炙热射线对每位牌手各造成等同于该牌手所操控该颜色之生物数量的伤害。</target>
+        <target state="translated">选择一个颜色。CARDNAME对每位牌手各造成等同于该牌手所操控该颜色之生物数量的伤害。</target>
       </trans-unit>
       <trans-unit id="945c596e-492e-4cf5-857c-4ddbbdd78485" resname="INV·166 | Shivan Emissary | Card Name">
         <source>Shivan Emissary</source>
@@ -1664,7 +1664,7 @@
       </trans-unit>
       <trans-unit id="945c596e-492e-4cf5-857c-4ddbbdd78485" resname="INV·166 | Shivan Emissary | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it was kicked, destroy target nonblack creature. It can't be regenerated.</source>
-        <target state="translated">当西瓦密使进场时，若你已支付其增幅费用，则消灭目标非黑色的生物。它不能重生。</target>
+        <target state="translated">当CARDNAME进场时，若你已支付其增幅费用，则消灭目标非黑色的生物。它不能重生。</target>
       </trans-unit>
       <trans-unit id="47dbd765-d7ea-4181-bd22-5c749ad081af" resname="INV·167 | Shivan Harvest | Card Name">
         <source>Shivan Harvest</source>
@@ -1680,7 +1680,7 @@
       </trans-unit>
       <trans-unit id="be806378-50a7-4416-9d99-1ea2c1f2b7cb" resname="INV·168 | Skittish Kavu | Card Text | Paragraph 1">
         <source>CARDNAME gets +1/+1 as long as no opponent controls a white or blue creature.</source>
-        <target state="translated">只要对手未操控白色或蓝色生物，惊慌卡甫便得+1/+1。</target>
+        <target state="translated">只要对手未操控白色或蓝色生物，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="dc7732bc-e168-44d9-923a-db7e985bd6db" resname="INV·169 | Skizzik | Card Name">
         <source>Skizzik</source>
@@ -1699,7 +1699,7 @@
       </trans-unit>
       <trans-unit id="dc7732bc-e168-44d9-923a-db7e985bd6db" resname="INV·169 | Skizzik | Card Text | Paragraph 3">
         <source>At the beginning of the end step, if CARDNAME wasn't kicked, sacrifice it.</source>
-        <target state="translated">在结束步骤开始时，若嘶气客未增幅，则将它牺牲。</target>
+        <target state="translated">在结束步骤开始时，若CARDNAME未增幅，则将它牺牲。</target>
         <note xmlns:from="developer">中文数据来自DOM（2018-04-27）；</note>
       </trans-unit>
       <trans-unit id="8e82044d-88cd-4ee4-8ec9-e71a0a85ed46" resname="INV·170 | Slimy Kavu | Card Name">
@@ -1757,7 +1757,7 @@
       </trans-unit>
       <trans-unit id="9b32531e-c759-4603-abd0-1724e8df70db" resname="INV·176 | Tribal Flames | Card Text | Paragraph 1">
         <source>Domain — CARDNAME deals X damage to any target, where X is the number of basic land types among lands you control.</source>
-        <target state="translated">领土～部族焰火对目标生物或牌手造成X点伤害，X为由你操控的地之中基本地类别的数量。</target>
+        <target state="translated">领土～CARDNAME对目标生物或牌手造成X点伤害，X为由你操控的地之中基本地类别的数量。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="91392e9f-f96a-4ac5-b1f1-c73540cf249e" resname="INV·177 | Turf Wound | Card Name">
@@ -1789,7 +1789,7 @@
       </trans-unit>
       <trans-unit id="61a25a35-3ae4-471e-adcd-d8baf2f77b68" resname="INV·178 | Urza's Rage | Card Text | Paragraph 3">
         <source>CARDNAME deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can't be prevented.</source>
-        <target state="translated">克撒之怒对任意一个目标造成3点伤害。如果此咒语已增幅，则改为它对该永久物或牌手造成10点伤害，且此伤害不能被防止。</target>
+        <target state="translated">CARDNAME对任意一个目标造成3点伤害。如果此咒语已增幅，则改为它对该永久物或牌手造成10点伤害，且此伤害不能被防止。</target>
         <note xmlns:from="developer">中文数据来自STA（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="4a94aeb4-349c-4394-848d-c1c9133856e2" resname="INV·179 | Viashino Grappler | Card Name">
@@ -1798,7 +1798,7 @@
       </trans-unit>
       <trans-unit id="4a94aeb4-349c-4394-848d-c1c9133856e2" resname="INV·179 | Viashino Grappler | Card Text | Paragraph 1">
         <source>{G}: CARDNAME gains trample until end of turn.</source>
-        <target state="translated">oG：凡尔西诺勾手获得践踏异能直到回合结束。</target>
+        <target state="translated">oG：CARDNAME获得践踏异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7502ce01-b762-40fe-a064-c7b20b08a722" resname="INV·180 | Zap | Card Name">
         <source>Zap</source>
@@ -1806,7 +1806,7 @@
       </trans-unit>
       <trans-unit id="7502ce01-b762-40fe-a064-c7b20b08a722" resname="INV·180 | Zap | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">快击对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="7502ce01-b762-40fe-a064-c7b20b08a722" resname="INV·180 | Zap | Card Text | Paragraph 2">
         <source>Draw a card.</source>
@@ -1845,11 +1845,11 @@
       </trans-unit>
       <trans-unit id="4b073e3f-6a6f-495a-ab16-39d906b660f1" resname="INV·183 | Blurred Mongoose | Card Text | Paragraph 1">
         <source>This spell can't be countered.</source>
-        <target state="translated">迅影猫鼬不能被反击。</target>
+        <target state="translated">CARDNAME不能被反击。</target>
       </trans-unit>
       <trans-unit id="4b073e3f-6a6f-495a-ab16-39d906b660f1" resname="INV·183 | Blurred Mongoose | Card Text | Paragraph 2">
         <source>Shroud (This creature can't be the target of spells or abilities.)</source>
-        <target state="translated">迅影猫鼬不能成为咒语或异能的目标。</target>
+        <target state="translated">CARDNAME不能成为咒语或异能的目标。</target>
       </trans-unit>
       <trans-unit id="2e19d68e-7554-4627-a316-beb1f75fa494" resname="INV·184 | Canopy Surge | Card Name">
         <source>Canopy Surge</source>
@@ -1861,7 +1861,7 @@
       </trans-unit>
       <trans-unit id="2e19d68e-7554-4627-a316-beb1f75fa494" resname="INV·184 | Canopy Surge | Card Text | Paragraph 2">
         <source>CARDNAME deals 1 damage to each creature with flying and each player. If this spell was kicked, it deals 4 damage to each creature with flying and each player instead.</source>
-        <target state="translated">林冠翻腾对每位牌手和每个具有飞行异能的生物各造成1点伤害。若你已支付其增幅费用，则改为林冠翻腾对每位牌手和每个具有飞行异能的生物各造成4点伤害。</target>
+        <target state="translated">CARDNAME对每位牌手和每个具有飞行异能的生物各造成1点伤害。若你已支付其增幅费用，则改为CARDNAME对每位牌手和每个具有飞行异能的生物各造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="6ab9a90c-5fd8-4f8c-b692-f98a2974810c" resname="INV·185 | Elfhame Sanctuary | Card Name">
         <source>Elfhame Sanctuary</source>
@@ -1907,11 +1907,11 @@
       </trans-unit>
       <trans-unit id="f726437b-a41a-4ee9-b0ee-e09327508615" resname="INV·191 | Kavu Chameleon | Card Text | Paragraph 1">
         <source>This spell can't be countered.</source>
-        <target state="translated">变色卡甫不能被反击。</target>
+        <target state="translated">CARDNAME不能被反击。</target>
       </trans-unit>
       <trans-unit id="f726437b-a41a-4ee9-b0ee-e09327508615" resname="INV·191 | Kavu Chameleon | Card Text | Paragraph 2">
         <source>{G}: CARDNAME becomes the color of your choice until end of turn.</source>
-        <target state="translated">oG：选择一个颜色，变色卡甫成为该色直到回合结束。</target>
+        <target state="translated">oG：选择一个颜色，CARDNAME成为该色直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2063f31e-d972-411e-a265-1d409153b49c" resname="INV·192 | Kavu Climber | Card Name">
         <source>Kavu Climber</source>
@@ -1920,7 +1920,7 @@
       </trans-unit>
       <trans-unit id="2063f31e-d972-411e-a265-1d409153b49c" resname="INV·192 | Kavu Climber | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当攀爬卡甫进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="f4581b53-23a0-4ca6-a77c-97d79e7a6570" resname="INV·193 | Kavu Lair | Card Name">
@@ -1941,7 +1941,7 @@
       </trans-unit>
       <trans-unit id="2c5fb86d-1d9a-4da2-bb5b-4266faa20197" resname="INV·194 | Kavu Titan | Card Text | Paragraph 2">
         <source>If CARDNAME was kicked, it enters the battlefield with three +1/+1 counters on it and with trample.</source>
-        <target state="translated">若你已支付其增幅费用，则雄伟卡甫进场时上面有三个+1/+1指示物，并具有践踏异能。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有三个+1/+1指示物，并具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="21d92191-a743-4916-bbe4-5e207e964d9b" resname="INV·195 | Llanowar Cavalry | Card Name">
         <source>Llanowar Cavalry</source>
@@ -1949,7 +1949,7 @@
       </trans-unit>
       <trans-unit id="21d92191-a743-4916-bbe4-5e207e964d9b" resname="INV·195 | Llanowar Cavalry | Card Text | Paragraph 1">
         <source>{W}: CARDNAME gains vigilance until end of turn.</source>
-        <target state="translated">oW：罗堰骑兵本回合攻击时不须横置。</target>
+        <target state="translated">oW：CARDNAME本回合攻击时不须横置。</target>
       </trans-unit>
       <trans-unit id="3e207863-de68-47e1-8c63-413b5fa48943" resname="INV·196 | Llanowar Elite | Card Name">
         <source>Llanowar Elite</source>
@@ -1965,7 +1965,7 @@
       </trans-unit>
       <trans-unit id="3e207863-de68-47e1-8c63-413b5fa48943" resname="INV·196 | Llanowar Elite | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with five +1/+1 counters on it.</source>
-        <target state="translated">若你已支付其增幅费用，则罗堰精兵进场时上面有五个+1/+1指示物。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有五个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="72e6ed79-bdfd-49f9-bfa4-be4196880487" resname="INV·197 | Llanowar Vanguard | Card Name">
         <source>Llanowar Vanguard</source>
@@ -1973,7 +1973,7 @@
       </trans-unit>
       <trans-unit id="72e6ed79-bdfd-49f9-bfa4-be4196880487" resname="INV·197 | Llanowar Vanguard | Card Text | Paragraph 1">
         <source>{T}: CARDNAME gets +0/+4 until end of turn.</source>
-        <target state="translated">ocT：罗堰先锋得+0/+4直到回合结束。</target>
+        <target state="translated">ocT：CARDNAME得+0/+4直到回合结束。</target>
       </trans-unit>
       <trans-unit id="032a4ec7-82ce-4ea0-b0dd-ebc40823a014" resname="INV·198 | Might Weaver | Card Name">
         <source>Might Weaver</source>
@@ -1997,7 +1997,7 @@
       </trans-unit>
       <trans-unit id="750d3475-ae72-42c1-ae4d-638f8e7c6d1a" resname="INV·199 | Molimo, Maro-Sorcerer | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of lands you control.</source>
-        <target state="translated">玛洛术士莫黎墨的力量和防御力各等同于由你操控的地数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控的地数量。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="3b69e57a-5b19-450c-9cf5-c189e8505781" resname="INV·200 | Nomadic Elf | Card Name">
@@ -2018,11 +2018,11 @@
       </trans-unit>
       <trans-unit id="23271658-19ae-420d-beeb-4bed4fdbb891" resname="INV·201 | Pincer Spider | Card Text | Paragraph 2">
         <source>Reach (This creature can block creatures with flying.)</source>
-        <target state="translated">钳脚蜘蛛可以视同具有飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。</target>
       </trans-unit>
       <trans-unit id="23271658-19ae-420d-beeb-4bed4fdbb891" resname="INV·201 | Pincer Spider | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with a +1/+1 counter on it.</source>
-        <target state="translated">若你已支付其增幅费用，则钳脚蜘蛛进场时上面有一个+1/+1指示物。</target>
+        <target state="translated">若你已支付其增幅费用，则CARDNAME进场时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="db09afe5-5f01-4f77-a239-12d7a6e59024" resname="INV·202 | Pulse of Llanowar | Card Name">
         <source>Pulse of Llanowar</source>
@@ -2038,7 +2038,7 @@
       </trans-unit>
       <trans-unit id="2fc639ea-a925-4f1e-879f-b8fcb12bf257" resname="INV·204 | Quirion Sentinel | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, add one mana of any color.</source>
-        <target state="translated">当奎利恩哨兵进场时，加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">当CARDNAME进场时，加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="c2b258c1-5fb4-4072-bb32-ad364df1874a" resname="INV·205 | Quirion Trailblazer | Card Name">
         <source>Quirion Trailblazer</source>
@@ -2046,7 +2046,7 @@
       </trans-unit>
       <trans-unit id="c2b258c1-5fb4-4072-bb32-ad364df1874a" resname="INV·205 | Quirion Trailblazer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">当奎利恩领路人进场时，你可以从你的牌库中搜寻一张基本地牌，并将其横置进场。若你如此做，将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻一张基本地牌，并将其横置进场。若你如此做，将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="11a013ff-7c99-445a-b9e0-0fc45036f068" resname="INV·206 | Restock | Card Name">
         <source>Restock</source>
@@ -2055,7 +2055,7 @@
       </trans-unit>
       <trans-unit id="11a013ff-7c99-445a-b9e0-0fc45036f068" resname="INV·206 | Restock | Card Text | Paragraph 1">
         <source>Return two target cards from your graveyard to your hand. Exile CARDNAME.</source>
-        <target state="translated">将两张目标牌从你的坟墓场移回你手上。放逐储备物资。</target>
+        <target state="translated">将两张目标牌从你的坟墓场移回你手上。放逐CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自M15（2014-07-18）；</note>
       </trans-unit>
       <trans-unit id="12c25a4c-d93a-402b-999f-0b9919123cc5" resname="INV·207 | Rooting Kavu | Card Name">
@@ -2064,7 +2064,7 @@
       </trans-unit>
       <trans-unit id="12c25a4c-d93a-402b-999f-0b9919123cc5" resname="INV·207 | Rooting Kavu | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may exile it. If you do, shuffle all creature cards from your graveyard into your library.</source>
-        <target state="translated">当掘根卡甫从场上置入坟墓场时，你可以将掘根卡甫移出对战。若你如此做，将所有在你坟墓场中的生物牌洗入你的牌库中。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，你可以将CARDNAME移出对战。若你如此做，将所有在你坟墓场中的生物牌洗入你的牌库中。</target>
       </trans-unit>
       <trans-unit id="8642e530-914c-4149-944a-c4966ee27299" resname="INV·208 | Saproling Infestation | Card Name">
         <source>Saproling Infestation</source>
@@ -2081,7 +2081,7 @@
       </trans-unit>
       <trans-unit id="2bb63748-5c84-43a0-8f17-a2a17f658337" resname="INV·209 | Saproling Symbiosis | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)</source>
-        <target state="translated">如果你施放腐生共栖时多支付{2}，则你可以将它视同具有闪现异能地来施放。</target>
+        <target state="translated">如果你施放CARDNAME时多支付{2}，则你可以将它视同具有闪现异能地来施放。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="2bb63748-5c84-43a0-8f17-a2a17f658337" resname="INV·209 | Saproling Symbiosis | Card Text | Paragraph 2">
@@ -2103,7 +2103,7 @@
       </trans-unit>
       <trans-unit id="699f1fe8-02c6-4d95-9231-3f8aefe603da" resname="INV·211 | Serpentine Kavu | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gains haste until end of turn.</source>
-        <target state="translated">oR：盘曲卡甫获得敏捷异能直到回合结束。（你操控此生物的该回合中，它便可以攻击以及ocT）</target>
+        <target state="translated">oR：CARDNAME获得敏捷异能直到回合结束。（你操控此生物的该回合中，它便可以攻击以及ocT）</target>
       </trans-unit>
       <trans-unit id="7aeab16f-e104-47e7-81c7-b6e0123120d7" resname="INV·212 | Sulam Djinn | Card Name">
         <source>Sulam Djinn</source>
@@ -2115,7 +2115,7 @@
       </trans-unit>
       <trans-unit id="7aeab16f-e104-47e7-81c7-b6e0123120d7" resname="INV·212 | Sulam Djinn | Card Text | Paragraph 2">
         <source>CARDNAME gets -2/-2 as long as green is the most common color among all permanents or is tied for most common.</source>
-        <target state="translated">只要绿色是所有永久物中最普遍的颜色，或和其他颜色同为最普遍，苏澜巨灵便得-2/-2。</target>
+        <target state="translated">只要绿色是所有永久物中最普遍的颜色，或和其他颜色同为最普遍，CARDNAME便得-2/-2。</target>
       </trans-unit>
       <trans-unit id="6b37e39c-8aa4-4938-a492-7dac5de98dfb" resname="INV·213 | Tangle | Card Name">
         <source>Tangle</source>
@@ -2139,7 +2139,7 @@
       </trans-unit>
       <trans-unit id="f80a56ed-3ebb-4e20-bf6a-e27127f762e8" resname="INV·214 | Thicket Elemental | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it was kicked, you may reveal cards from the top of your library until you reveal a creature card. If you do, put that card onto the battlefield and shuffle all other cards revealed this way into your library.</source>
-        <target state="translated">当灌木丛元素进场时，若你已支付其增幅费用，则你可以从你的牌库顶开始展示牌，直到展示出一张生物牌为止。若你如此做，将该牌放置进场，并将所有其他以此法展示的牌洗回你的牌库中。</target>
+        <target state="translated">当CARDNAME进场时，若你已支付其增幅费用，则你可以从你的牌库顶开始展示牌，直到展示出一张生物牌为止。若你如此做，将该牌放置进场，并将所有其他以此法展示的牌洗回你的牌库中。</target>
       </trans-unit>
       <trans-unit id="505da522-73a8-4232-ae1a-d3365f3e598f" resname="INV·215 | Thornscape Apprentice | Card Name">
         <source>Thornscape Apprentice</source>
@@ -2159,7 +2159,7 @@
       </trans-unit>
       <trans-unit id="7e8f164d-3782-4eaa-a4db-ab7082d45ee7" resname="INV·216 | Thornscape Master | Card Text | Paragraph 1">
         <source>{R}{R}, {T}: CARDNAME deals 2 damage to target creature.</source>
-        <target state="translated">oRoR，ocT：荆景院大师对目标生物造成2点伤害。</target>
+        <target state="translated">oRoR，ocT：CARDNAME对目标生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="7e8f164d-3782-4eaa-a4db-ab7082d45ee7" resname="INV·216 | Thornscape Master | Card Text | Paragraph 2">
         <source>{W}{W}, {T}: Target creature gains protection from the color of your choice until end of turn.</source>
@@ -2200,7 +2200,7 @@
       </trans-unit>
       <trans-unit id="72d5fab1-fa20-4006-b19d-179d36238c9b" resname="INV·220 | Verdeloth the Ancient | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if it was kicked, create X 1/1 green Saproling creature tokens.</source>
-        <target state="translated">当先人瓦德洛司进战场时，若它已增幅，则派出X个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，则派出X个1/1绿色腐生物衍生生物。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="55f3361b-e2e7-4297-85c2-94323f90cc90" resname="INV·221 | Verduran Emissary | Card Name">
@@ -2213,7 +2213,7 @@
       </trans-unit>
       <trans-unit id="55f3361b-e2e7-4297-85c2-94323f90cc90" resname="INV·221 | Verduran Emissary | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it was kicked, destroy target artifact. It can't be regenerated.</source>
-        <target state="translated">当纽杜云密使进场时，若你已支付其增幅费用，则消灭目标神器。它不能重生。</target>
+        <target state="translated">当CARDNAME进场时，若你已支付其增幅费用，则消灭目标神器。它不能重生。</target>
       </trans-unit>
       <trans-unit id="af6f57ad-d370-4c81-8da0-c15d87725ab1" resname="INV·222 | Vigorous Charge | Card Name">
         <source>Vigorous Charge</source>
@@ -2249,7 +2249,7 @@
       </trans-unit>
       <trans-unit id="10566804-fd15-4ef0-ad7d-cc979f4cc8c5" resname="INV·225 | Whip Silk | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature has reach. (It can block creatures with flying.)\n{G}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">受此结界的生物可以视同具有飞行异能地进行阻挡。\noG：将缠丝移回其拥有者手上。</target>
+        <target state="translated">受此结界的生物可以视同具有飞行异能地进行阻挡。\noG：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="5d6a0f3e-457f-41f5-be26-5fb249874f1a" resname="INV·226 | Absorb | Card Name">
         <source>Absorb</source>
@@ -2279,7 +2279,7 @@
       </trans-unit>
       <trans-unit id="5aaa3e4e-4e08-4df2-9e0c-66e15a10fec4" resname="INV·228 | Angelic Shield | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Return target creature to its owner's hand.</source>
-        <target state="translated">牺牲天使盾：将目标生物移回其拥有者手上。</target>
+        <target state="translated">牺牲CARDNAME：将目标生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="9d816f98-6cb6-432c-b0a4-a0eed21658ac" resname="INV·229 | Armadillo Cloak | Card Name">
         <source>Armadillo Cloak</source>
@@ -2311,7 +2311,7 @@
       </trans-unit>
       <trans-unit id="6de5e1bd-1d31-4f9f-b18d-d6f49bc7ef10" resname="INV·230 | Armored Guardian | Card Text | Paragraph 2">
         <source>{1}{U}{U}: CARDNAME gains shroud until end of turn. (It can't be the target of spells or abilities.)</source>
-        <target state="translated">o1oUoU：装甲守护者于本回合中不能成为咒语或异能的目标。</target>
+        <target state="translated">o1oUoU：CARDNAME于本回合中不能成为咒语或异能的目标。</target>
       </trans-unit>
       <trans-unit id="d5eef49c-a80f-4622-ba77-999f9151c841" resname="INV·231 | Artifact Mutation | Card Name">
         <source>Artifact Mutation</source>
@@ -2367,7 +2367,7 @@
       </trans-unit>
       <trans-unit id="3bd397be-0e61-4f41-b0cf-f0c9d2440da7" resname="INV·236 | Blazing Specter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, that player discards a card.</source>
-        <target state="translated">每当火光幽灵对任何牌手造成战斗伤害时，该牌手从手上弃掉一张牌。</target>
+        <target state="translated">每当CARDNAME对任何牌手造成战斗伤害时，该牌手从手上弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="d24d441c-f37f-44fe-8a93-f5c89df807e4" resname="INV·237 | Captain Sisay | Card Name">
         <source>Captain Sisay</source>
@@ -2383,7 +2383,7 @@
       </trans-unit>
       <trans-unit id="8dadcae0-f2b2-487c-bb93-0a2c073044c0" resname="INV·238 | Cauldron Dance | Card Text | Paragraph 1">
         <source>Cast this spell only during combat.</source>
-        <target state="translated">只能于战斗中使用鼎镬之舞。</target>
+        <target state="translated">只能于战斗中使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="8dadcae0-f2b2-487c-bb93-0a2c073044c0" resname="INV·238 | Cauldron Dance | Card Text | Paragraph 2">
         <source>Return target creature card from your graveyard to the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step.</source>
@@ -2399,11 +2399,11 @@
       </trans-unit>
       <trans-unit id="58956099-6b97-4c7b-ab23-9f9b4d50ef95" resname="INV·239 | Charging Troll | Card Text | Paragraph 1">
         <source>Vigilance</source>
-        <target state="translated">冲锋巨魔攻击时不须横置。</target>
+        <target state="translated">CARDNAME攻击时不须横置。</target>
       </trans-unit>
       <trans-unit id="58956099-6b97-4c7b-ab23-9f9b4d50ef95" resname="INV·239 | Charging Troll | Card Text | Paragraph 2">
         <source>{G}: Regenerate CARDNAME.</source>
-        <target state="translated">oG：重生冲锋巨魔。</target>
+        <target state="translated">oG：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b8dd933a-19ed-4d30-a94a-bfb2f66f8f13" resname="INV·240 | Cinder Shade | Card Name">
         <source>Cinder Shade</source>
@@ -2411,11 +2411,11 @@
       </trans-unit>
       <trans-unit id="b8dd933a-19ed-4d30-a94a-bfb2f66f8f13" resname="INV·240 | Cinder Shade | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">oB：烬火怪影得+1/+1直到回合结束。</target>
+        <target state="translated">oB：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b8dd933a-19ed-4d30-a94a-bfb2f66f8f13" resname="INV·240 | Cinder Shade | Card Text | Paragraph 2">
         <source>{R}, Sacrifice CARDNAME: It deals damage equal to its power to target creature.</source>
-        <target state="translated">oR，牺牲烬火怪影：烬火怪影对目标生物造成等同于其力量的伤害。</target>
+        <target state="translated">oR，牺牲CARDNAME：CARDNAME对目标生物造成等同于其力量的伤害。</target>
       </trans-unit>
       <trans-unit id="dd8ad3aa-3225-45ae-8343-5991f5b52269" resname="INV·241 | Coalition Victory | Card Name">
         <source>Coalition Victory</source>
@@ -2437,7 +2437,7 @@
       </trans-unit>
       <trans-unit id="e5f336d8-12a4-482d-8ffd-c205858c72ba" resname="INV·242 | Crosis, the Purger | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may pay {2}{B}. If you do, choose a color, then that player reveals their hand and discards all cards of that color.</source>
-        <target state="translated">每当肃荡龙王克罗希司对牌手造成战斗伤害时，你可以支付o2oB。若你如此作，选择一个颜色。该牌手展示他的手牌，并弃掉所有该色的牌。</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，你可以支付o2oB。若你如此作，选择一个颜色。该牌手展示他的手牌，并弃掉所有该色的牌。</target>
       </trans-unit>
       <trans-unit id="54dcf5e3-4303-41a3-b54c-24a9d462ce07" resname="INV·243 | Darigaaz, the Igniter | Card Name">
         <source>Darigaaz, the Igniter</source>
@@ -2449,7 +2449,7 @@
       </trans-unit>
       <trans-unit id="54dcf5e3-4303-41a3-b54c-24a9d462ce07" resname="INV·243 | Darigaaz, the Igniter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may pay {2}{R}. If you do, choose a color, then that player reveals their hand and Darigaaz deals damage to the player equal to the number of cards of that color revealed this way.</source>
-        <target state="translated">每当焚灭龙王达里迦对牌手造成战斗伤害时，你可以支付o2oR。若你如此作，选择一个颜色。该牌手展示他的手牌，并且焚灭龙王达里迦对他造成X点伤害，X为以此法展示之该色的牌之数量。+end</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，你可以支付o2oR。若你如此作，选择一个颜色。该牌手展示他的手牌，并且CARDNAME对他造成X点伤害，X为以此法展示之该色的牌之数量。+end</target>
       </trans-unit>
       <trans-unit id="cfcc3c72-fff5-454c-814c-eb952fd23ba9" resname="INV·244 | Dromar, the Banisher | Card Name">
         <source>Dromar, the Banisher</source>
@@ -2461,7 +2461,7 @@
       </trans-unit>
       <trans-unit id="cfcc3c72-fff5-454c-814c-eb952fd23ba9" resname="INV·244 | Dromar, the Banisher | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may pay {2}{U}. If you do, choose a color, then return all creatures of that color to their owners' hands.</source>
-        <target state="translated">每当逐天龙王德洛马对牌手造成战斗伤害时，你可以支付o2oU。若你如此作，选择一个颜色。将所有该色的生物移回其拥有者手上。</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，你可以支付o2oU。若你如此作，选择一个颜色。将所有该色的生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="52760183-bee0-4ce0-96c0-074b88f78980" resname="INV·245 | Dueling Grounds | Card Name">
         <source>Dueling Grounds</source>
@@ -2487,7 +2487,7 @@
       </trans-unit>
       <trans-unit id="967f1658-8777-46fc-a648-07fb19e46745" resname="INV·246 | Fires of Yavimaya | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Target creature gets +2/+2 until end of turn.</source>
-        <target state="translated">牺牲亚维马雅之火：目标生物得+2/+2直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME：目标生物得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自CNS（2014-06-06）；</note>
       </trans-unit>
       <trans-unit id="15875876-3341-40fb-866f-5587c3638538" resname="INV·247 | Frenzied Tilling | Card Name">
@@ -2534,7 +2534,7 @@
       </trans-unit>
       <trans-unit id="a28ad983-ce91-40b6-a1ce-fe36ec7fbce8" resname="INV·251 | Horned Cheetah | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage, you gain that much life.</source>
-        <target state="translated">每当角猎豹造成伤害时，你便获得与该伤害等量的生命。</target>
+        <target state="translated">每当CARDNAME造成伤害时，你便获得与该伤害等量的生命。</target>
       </trans-unit>
       <trans-unit id="8943304a-89c9-48b0-97b4-3e1aa690ca4d" resname="INV·252 | Hunting Kavu | Card Name">
         <source>Hunting Kavu</source>
@@ -2542,7 +2542,7 @@
       </trans-unit>
       <trans-unit id="8943304a-89c9-48b0-97b4-3e1aa690ca4d" resname="INV·252 | Hunting Kavu | Card Text | Paragraph 1">
         <source>{1}{R}{G}, {T}: Exile CARDNAME and target creature without flying that's attacking you.</source>
-        <target state="translated">o1oRoG，ocT：将行猎卡甫和目标不具飞行异能，且对你进行攻击的生物移出对战。</target>
+        <target state="translated">o1oRoG，ocT：将CARDNAME和目标不具飞行异能，且对你进行攻击的生物移出对战。</target>
       </trans-unit>
       <trans-unit id="3afd7e8e-4fcc-4003-9791-7baf10ef1880" resname="INV·253 | Kangee, Aerie Keeper | Card Name">
         <source>Kangee, Aerie Keeper</source>
@@ -2558,11 +2558,11 @@
       </trans-unit>
       <trans-unit id="3afd7e8e-4fcc-4003-9791-7baf10ef1880" resname="INV·253 | Kangee, Aerie Keeper | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if it was kicked, put X feather counters on it.</source>
-        <target state="translated">当天王坎鴶进场时，若你已支付其增幅费用，则在其上放置X个飞羽指示物。</target>
+        <target state="translated">当CARDNAME进场时，若你已支付其增幅费用，则在其上放置X个飞羽指示物。</target>
       </trans-unit>
       <trans-unit id="3afd7e8e-4fcc-4003-9791-7baf10ef1880" resname="INV·253 | Kangee, Aerie Keeper | Card Text | Paragraph 4">
         <source>Other Bird creatures get +1/+1 for each feather counter on CARDNAME.</source>
-        <target state="translated">天王坎鴶上面每有一个飞羽指示物，所有的鸟便得+1/+1。</target>
+        <target state="translated">CARDNAME上面每有一个飞羽指示物，所有的鸟便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="e6c75d89-e432-49aa-a407-555b223b7eff" resname="INV·254 | Llanowar Knight | Card Name">
         <source>Llanowar Knight</source>
@@ -2578,7 +2578,7 @@
       </trans-unit>
       <trans-unit id="36489b24-f8a8-46b6-b879-0a5ce400a6dc" resname="INV·256 | Meteor Storm | Card Text | Paragraph 1">
         <source>{2}{R}{G}, Discard two cards at random: CARDNAME deals 4 damage to any target.</source>
-        <target state="translated">o2oRoG，从你手上随机弃掉两张牌：陨石暴对目标生物或牌手造成4点伤害。</target>
+        <target state="translated">o2oRoG，从你手上随机弃掉两张牌：CARDNAME对目标生物或牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="3f327818-8222-4295-8cef-118757b34d17" resname="INV·257 | Noble Panther | Card Name">
         <source>Noble Panther</source>
@@ -2586,7 +2586,7 @@
       </trans-unit>
       <trans-unit id="3f327818-8222-4295-8cef-118757b34d17" resname="INV·257 | Noble Panther | Card Text | Paragraph 1">
         <source>{1}: CARDNAME gains first strike until end of turn.</source>
-        <target state="translated">o1：贵族豹获得先攻异能直到回合结束。</target>
+        <target state="translated">o1：CARDNAME获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="04d83a07-6054-45f1-bdf9-07f2006238d2" resname="INV·258 | Ordered Migration | Card Name">
         <source>Ordered Migration</source>
@@ -2602,7 +2602,7 @@
       </trans-unit>
       <trans-unit id="4183e73d-609a-4292-b173-e39eb51949f3" resname="INV·259 | Overabundance | Card Text | Paragraph 1">
         <source>Whenever a player taps a land for mana, that player adds one mana of any type that land produced, and CARDNAME deals 1 damage to the player.</source>
-        <target state="translated">每当牌手横置地以产生法术力时，加一点额外的同种类法术力到该牌手的法术力池中，且过度充裕对他造成1点伤害。</target>
+        <target state="translated">每当牌手横置地以产生法术力时，加一点额外的同种类法术力到该牌手的法术力池中，且CARDNAME对他造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="0d106d56-a688-49cc-8d5d-0279a5a7c0a7" resname="INV·260 | Plague Spores | Card Name">
         <source>Plague Spores</source>
@@ -2619,12 +2619,12 @@
       </trans-unit>
       <trans-unit id="6c030108-2995-4fb0-9b80-efdfdd0f11e0" resname="INV·261 | Pyre Zombie | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, if CARDNAME is in your graveyard, you may pay {1}{B}{B}. If you do, return CARDNAME to your hand.</source>
-        <target state="translated">在你的维持开始时，若葬火灵俑在你的坟墓场中，则你可以支付{1}{B}{B}。若你如此作，则将葬火灵俑移回你手上。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME在你的坟墓场中，则你可以支付{1}{B}{B}。若你如此作，则将CARDNAME移回你手上。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="6c030108-2995-4fb0-9b80-efdfdd0f11e0" resname="INV·261 | Pyre Zombie | Card Text | Paragraph 2">
         <source>{1}{R}{R}, Sacrifice CARDNAME: It deals 2 damage to any target.</source>
-        <target state="translated">{1}{R}{R}，牺牲葬火灵俑：它对任意一个目标造成2点伤害。</target>
+        <target state="translated">{1}{R}{R}，牺牲CARDNAME：它对任意一个目标造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="ff0f568e-4d3a-40a5-b72a-63040ec5402d" resname="INV·263 | Reckless Assault | Card Name">
@@ -2633,7 +2633,7 @@
       </trans-unit>
       <trans-unit id="ff0f568e-4d3a-40a5-b72a-63040ec5402d" resname="INV·263 | Reckless Assault | Card Text | Paragraph 1">
         <source>{1}, Pay 2 life: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">o1，支付2点生命：卤莽突袭对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">o1，支付2点生命：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="b6a77be3-e3b0-40f5-a470-414bac49da60" resname="INV·264 | Recoil | Card Name">
         <source>Recoil</source>
@@ -2665,7 +2665,7 @@
       </trans-unit>
       <trans-unit id="7e42ae1d-62b4-4b19-aafc-f12bdd6fb8cc" resname="INV·266 | Riptide Crab | Card Text | Paragraph 2">
         <source>When CARDNAME dies, draw a card.</source>
-        <target state="translated">当激流蟹死去时，抓一张牌。</target>
+        <target state="translated">当CARDNAME死去时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自BBD（2018-06-08）；</note>
       </trans-unit>
       <trans-unit id="c30be387-280d-49bd-a3d1-c1636ee931ce" resname="INV·267 | Rith, the Awakener | Card Name">
@@ -2680,7 +2680,7 @@
       </trans-unit>
       <trans-unit id="c30be387-280d-49bd-a3d1-c1636ee931ce" resname="INV·267 | Rith, the Awakener | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may pay {2}{G}. If you do, choose a color, then create a 1/1 green Saproling creature token for each permanent of that color.</source>
-        <target state="translated">每当醒眠龙王丽丝对任一牌手造成战斗伤害时，你可以支付{2}{G}。若你如此作，则选择一种颜色，然后每有一个该色的永久物，便派出一个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以支付{2}{G}。若你如此作，则选择一种颜色，然后每有一个该色的永久物，便派出一个1/1绿色腐生物衍生生物。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="8338c296-cf3f-41d7-b380-3fb4237cb41c" resname="INV·268 | Sabertooth Nishoba | Card Name">
@@ -2701,7 +2701,7 @@
       </trans-unit>
       <trans-unit id="07a262d7-6d0c-43d0-89b6-9f46a1a9eb69" resname="INV·269 | Samite Archer | Card Text | Paragraph 2">
         <source>{T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">ocT：撒姆尼箭手对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">ocT：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="0c94618a-808c-4b3c-8f34-45e64d0414d3" resname="INV·270 | Seer's Vision | Card Name">
         <source>Seer's Vision</source>
@@ -2713,7 +2713,7 @@
       </trans-unit>
       <trans-unit id="0c94618a-808c-4b3c-8f34-45e64d0414d3" resname="INV·270 | Seer's Vision | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Look at target player's hand and choose a card from it. That player discards that card. Activate only as a sorcery.</source>
-        <target state="translated">牺牲先知的预视：检视目标牌手的手牌，并从中选择一张。该牌手弃掉该牌。你只可以于你能使用法术的时机下使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：检视目标牌手的手牌，并从中选择一张。该牌手弃掉该牌。你只可以于你能使用法术的时机下使用此异能。</target>
       </trans-unit>
       <trans-unit id="f4c99269-f730-4d33-bbce-9e855e9ad0fc" resname="INV·271 | Shivan Zombie | Card Name">
         <source>Shivan Zombie</source>
@@ -2749,7 +2749,7 @@
       </trans-unit>
       <trans-unit id="fcdc55c0-c8ac-49d5-969b-9bf0ee8e696c" resname="INV·275 | Smoldering Tar | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: It deals 4 damage to target creature. Activate only as a sorcery.</source>
-        <target state="translated">牺牲闷烧焦油：闷烧焦油对目标生物造成4点伤害。你只可以于你能够使用法术的时机下使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：CARDNAME对目标生物造成4点伤害。你只可以于你能够使用法术的时机下使用此异能。</target>
       </trans-unit>
       <trans-unit id="692ad1eb-62a3-4560-bf8e-35f7db73c7a3" resname="INV·276 | Spinal Embrace | Card Name">
         <source>Spinal Embrace</source>
@@ -2790,7 +2790,7 @@
       </trans-unit>
       <trans-unit id="40b26aa3-8169-4978-9554-bd2fc8e18e3b" resname="INV·278 | Sterling Grove | Card Text | Paragraph 2">
         <source>{1}, Sacrifice CARDNAME: Search your library for an enchantment card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">{1}，牺牲银光树丛：从你的牌库中搜寻一张结界牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
+        <target state="translated">{1}，牺牲CARDNAME：从你的牌库中搜寻一张结界牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
       <trans-unit id="9ed5845c-ef6d-4a7b-b725-b09d3e9bbc17" resname="INV·279 | Teferi's Moat | Card Name">
@@ -2800,7 +2800,7 @@
       </trans-unit>
       <trans-unit id="9ed5845c-ef6d-4a7b-b725-b09d3e9bbc17" resname="INV·279 | Teferi's Moat | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于泰菲力的护城河进场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进场时，选择一种颜色。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="9ed5845c-ef6d-4a7b-b725-b09d3e9bbc17" resname="INV·279 | Teferi's Moat | Card Text | Paragraph 2">
@@ -2818,7 +2818,7 @@
       </trans-unit>
       <trans-unit id="4ee67039-6cee-4a2d-b973-570f5060f550" resname="INV·280 | Treva, the Renewer | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may pay {2}{W}. If you do, choose a color, then you gain 1 life for each permanent of that color.</source>
-        <target state="translated">每当回生龙王翠瓦对牌手造成战斗伤害时，你可以支付o2oW。若你如此作，选择一个颜色。每有一个该色的永久物，你便获得1点生命。</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，你可以支付o2oW。若你如此作，选择一个颜色。每有一个该色的永久物，你便获得1点生命。</target>
       </trans-unit>
       <trans-unit id="ccbe2539-7a7c-468b-a270-7ca1bdcccb1e" resname="INV·281 | Tsabo Tavoc | Card Name">
         <source>Tsabo Tavoc</source>
@@ -2852,7 +2852,7 @@
       </trans-unit>
       <trans-unit id="97d1327e-bf87-423f-8a04-8124e45b9ae0" resname="INV·283 | Urborg Drake | Card Text | Paragraph 2">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">乌尔博格龙兽每次战斗若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每次战斗若能攻击，则必须攻击。</target>
         <note xmlns:from="developer">中文数据来自BBD（2018-06-08）；</note>
       </trans-unit>
       <trans-unit id="31e9e629-7c25-4d45-aa35-9ba5f95b43cb" resname="INV·284 | Vicious Kavu | Card Name">
@@ -2861,7 +2861,7 @@
       </trans-unit>
       <trans-unit id="31e9e629-7c25-4d45-aa35-9ba5f95b43cb" resname="INV·284 | Vicious Kavu | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +2/+0 until end of turn.</source>
-        <target state="translated">每当暴烈卡甫进行攻击时，它得+2/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME进行攻击时，它得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7f7e5716-77f3-45d2-a40a-f5bf500f6ad7" resname="INV·285 | Vile Consumption | Card Name">
         <source>Vile Consumption</source>
@@ -2899,7 +2899,7 @@
       </trans-unit>
       <trans-unit id="9d8c5669-11a9-4d95-8431-7065037f1fb6" resname="INV·288 | Voracious Cobra | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a creature, destroy that creature.</source>
-        <target state="translated">每当暴食眼镜蛇对一个生物造成战斗伤害时，消灭该生物。</target>
+        <target state="translated">每当CARDNAME对一个生物造成战斗伤害时，消灭该生物。</target>
       </trans-unit>
       <trans-unit id="be0d2402-f1ef-4a71-ac01-c7099c4ce54c" resname="INV·289 | Wings of Hope | Card Name">
         <source>Wings of Hope</source>
@@ -2923,11 +2923,11 @@
       </trans-unit>
       <trans-unit id="1872f104-7cf1-41e3-b1b4-ca75c678e08b" resname="INV·291 | Yavimaya Kavu | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of red creatures on the battlefield.</source>
-        <target state="translated">亚维马雅卡甫的力量等同于场上红色生物的数量。</target>
+        <target state="translated">CARDNAME的力量等同于场上红色生物的数量。</target>
       </trans-unit>
       <trans-unit id="1872f104-7cf1-41e3-b1b4-ca75c678e08b" resname="INV·291 | Yavimaya Kavu | Card Text | Paragraph 2">
         <source>CARDNAME's toughness is equal to the number of green creatures on the battlefield.</source>
-        <target state="translated">亚维马雅卡甫的防御力等同于场上绿色生物的数量。</target>
+        <target state="translated">CARDNAME的防御力等同于场上绿色生物的数量。</target>
       </trans-unit>
       <trans-unit id="be8b338f-6f05-43c6-beeb-c5052cc0d6a9" resname="INV·292 | Stand | Card Name">
         <source>Stand</source>
@@ -2996,7 +2996,7 @@
       </trans-unit>
       <trans-unit id="0ec6a889-c941-4898-a2f6-4d3863faf535" resname="INV·295 | Assault | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">突袭对任意一个目标造成2点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="0ec6a889-c941-4898-a2f6-4d3863faf535" resname="INV·295 | Battery | Card Name">
@@ -3035,11 +3035,11 @@
       </trans-unit>
       <trans-unit id="1fb6d6a1-9d71-405b-9c93-1a7f06c67abd" resname="INV·297 | Alloy Golem | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于合金魔像进场时，选择一个颜色。</target>
+        <target state="translated">于CARDNAME进场时，选择一个颜色。</target>
       </trans-unit>
       <trans-unit id="1fb6d6a1-9d71-405b-9c93-1a7f06c67abd" resname="INV·297 | Alloy Golem | Card Text | Paragraph 2">
         <source>CARDNAME is the chosen color. (It's still an artifact.)</source>
-        <target state="translated">合金魔像为该种颜色。（它仍然是神器）</target>
+        <target state="translated">CARDNAME为该种颜色。（它仍然是神器）</target>
       </trans-unit>
       <trans-unit id="f9db32fa-64b2-4ef6-88f2-28e758d420bb" resname="INV·298 | Bloodstone Cameo | Card Name">
         <source>Bloodstone Cameo</source>
@@ -3056,7 +3056,7 @@
       </trans-unit>
       <trans-unit id="920cd17f-9274-443e-906f-c9904f0658d5" resname="INV·299 | Chromatic Sphere | Card Text | Paragraph 1">
         <source>{1}, {T}, Sacrifice CARDNAME: Add one mana of any color. Draw a card.</source>
-        <target state="translated">{1}，{T}，牺牲五彩球：加一点任意颜色的法术力到你的法术力池中。抓一张牌。</target>
+        <target state="translated">{1}，{T}，牺牲CARDNAME：加一点任意颜色的法术力到你的法术力池中。抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自MRD（2003-10-02）；</note>
       </trans-unit>
       <trans-unit id="45edc18c-2046-4d0e-92fe-a6cf4aaf1c6f" resname="INV·300 | Crosis's Attendant | Card Name">
@@ -3065,7 +3065,7 @@
       </trans-unit>
       <trans-unit id="45edc18c-2046-4d0e-92fe-a6cf4aaf1c6f" resname="INV·300 | Crosis's Attendant | Card Text | Paragraph 1">
         <source>{1}, Sacrifice CARDNAME: Add {U}{B}{R}.</source>
-        <target state="translated">o1，牺牲克罗希司的随从：加oUoBoR到你的法术力池中。</target>
+        <target state="translated">o1，牺牲CARDNAME：加oUoBoR到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="6f22b575-443a-4c06-8e75-d4140cbd3660" resname="INV·301 | Darigaaz's Attendant | Card Name">
         <source>Darigaaz's Attendant</source>
@@ -3073,7 +3073,7 @@
       </trans-unit>
       <trans-unit id="6f22b575-443a-4c06-8e75-d4140cbd3660" resname="INV·301 | Darigaaz's Attendant | Card Text | Paragraph 1">
         <source>{1}, Sacrifice CARDNAME: Add {B}{R}{G}.</source>
-        <target state="translated">o1，牺牲达里迦的随从：加oBoRoG到你的法术力池中。</target>
+        <target state="translated">o1，牺牲CARDNAME：加oBoRoG到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="4a3ce135-9c2f-45bd-b2db-c0e00c50c964" resname="INV·302 | Drake-Skull Cameo | Card Name">
         <source>Drake-Skull Cameo</source>
@@ -3089,7 +3089,7 @@
       </trans-unit>
       <trans-unit id="24936fa9-41a3-4da5-91cf-c28fa45f47c9" resname="INV·303 | Dromar's Attendant | Card Text | Paragraph 1">
         <source>{1}, Sacrifice CARDNAME: Add {W}{U}{B}.</source>
-        <target state="translated">o1，牺牲德洛马的随从：加oWoUoB到你的法术力池中。</target>
+        <target state="translated">o1，牺牲CARDNAME：加oWoUoB到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="3ab7cf53-f62d-47e1-af70-ab12be0d22e2" resname="INV·304 | Juntu Stakes | Card Name">
         <source>Juntu Stakes</source>
@@ -3153,7 +3153,7 @@
       </trans-unit>
       <trans-unit id="a26e8130-7fe9-4ef4-98af-928814f5b130" resname="INV·310 | Rith's Attendant | Card Text | Paragraph 1">
         <source>{1}, Sacrifice CARDNAME: Add {R}{G}{W}.</source>
-        <target state="translated">o1，牺牲丽丝的随从：加oRoGoW到你的法术力池中。</target>
+        <target state="translated">o1，牺牲CARDNAME：加oRoGoW到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="9efdbcad-e2e4-4f54-ade5-920b1853109e" resname="INV·311 | Seashell Cameo | Card Name">
         <source>Seashell Cameo</source>
@@ -3169,7 +3169,7 @@
       </trans-unit>
       <trans-unit id="d829d9de-83fa-4feb-8efc-0075315163c6" resname="INV·312 | Sparring Golem | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</source>
-        <target state="translated">每当战训魔像受到阻挡时，每有一个生物阻挡它，它便得+1/+1直到回合结束。</target>
+        <target state="translated">每当CARDNAME受到阻挡时，每有一个生物阻挡它，它便得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c1f38104-a699-4bb9-930a-699f7bbc338a" resname="INV·313 | Tek | Card Name">
         <source>Tek</source>
@@ -3177,7 +3177,7 @@
       </trans-unit>
       <trans-unit id="c1f38104-a699-4bb9-930a-699f7bbc338a" resname="INV·313 | Tek | Card Text | Paragraph 1">
         <source>CARDNAME gets +0/+2 as long as you control a Plains, has flying as long as you control an Island, gets +2/+0 as long as you control a Swamp, has first strike as long as you control a Mountain, and has trample as long as you control a Forest.</source>
-        <target state="translated">只要你操控平原，泰科便得+0/+2；只要你操控海岛，泰科便具有飞行异能；只要你操控沼泽，泰科便得+2/+0；只要你操控山脉，泰科便具有先攻异能；只要你操控树林，泰科便具有践踏异能。</target>
+        <target state="translated">只要你操控平原，CARDNAME便得+0/+2；只要你操控海岛，CARDNAME便具有飞行异能；只要你操控沼泽，CARDNAME便得+2/+0；只要你操控山脉，CARDNAME便具有先攻异能；只要你操控树林，CARDNAME便具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="25976da8-338d-4f46-b8ea-78a0aa3daa35" resname="INV·314 | Tigereye Cameo | Card Name">
         <source>Tigereye Cameo</source>
@@ -3193,7 +3193,7 @@
       </trans-unit>
       <trans-unit id="9857af81-fb95-4dc4-b048-9ce4e96d1eca" resname="INV·315 | Treva's Attendant | Card Text | Paragraph 1">
         <source>{1}, Sacrifice CARDNAME: Add {G}{W}{U}.</source>
-        <target state="translated">o1，牺牲翠瓦的随从：加oGoWoU到你的法术力池中。</target>
+        <target state="translated">o1，牺牲CARDNAME：加oGoWoU到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="42b1ca6c-6ca0-4b02-885a-58cee3fa2aa8" resname="INV·316 | Troll-Horn Cameo | Card Name">
         <source>Troll-Horn Cameo</source>
@@ -3209,7 +3209,7 @@
       </trans-unit>
       <trans-unit id="0dee69f8-cceb-41b9-a0ee-6b2ac9f4bad9" resname="INV·317 | Tsabo's Web | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当萨保的罗网进场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="0dee69f8-cceb-41b9-a0ee-6b2ac9f4bad9" resname="INV·317 | Tsabo's Web | Card Text | Paragraph 2">
         <source>Each land with an activated ability that isn't a mana ability doesn't untap during its controller's untap step.</source>
@@ -3229,7 +3229,7 @@
       </trans-unit>
       <trans-unit id="004eefa4-947b-45fc-b45c-5263bfd763bc" resname="INV·319 | Ancient Spring | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">古泉须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="004eefa4-947b-45fc-b45c-5263bfd763bc" resname="INV·319 | Ancient Spring | Card Text | Paragraph 2">
         <source>{T}: Add {U}.</source>
@@ -3237,7 +3237,7 @@
       </trans-unit>
       <trans-unit id="004eefa4-947b-45fc-b45c-5263bfd763bc" resname="INV·319 | Ancient Spring | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add {W}{B}.</source>
-        <target state="translated">ocT，牺牲古泉：加oWoB到你的法术力池中。</target>
+        <target state="translated">ocT，牺牲CARDNAME：加oWoB到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="35f55af0-5a46-4900-b3d0-ca796b710e07" resname="INV·320 | Archaeological Dig | Card Name">
         <source>Archaeological Dig</source>
@@ -3249,7 +3249,7 @@
       </trans-unit>
       <trans-unit id="35f55af0-5a46-4900-b3d0-ca796b710e07" resname="INV·320 | Archaeological Dig | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Add one mana of any color.</source>
-        <target state="translated">ocT，牺牲考古发掘场：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">ocT，牺牲CARDNAME：加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="d115dbff-e35b-495f-a1e3-19651895927e" resname="INV·321 | Coastal Tower | Card Name">
         <source>Coastal Tower</source>
@@ -3258,7 +3258,7 @@
       </trans-unit>
       <trans-unit id="d115dbff-e35b-495f-a1e3-19651895927e" resname="INV·321 | Coastal Tower | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">海岸楼塔须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="d115dbff-e35b-495f-a1e3-19651895927e" resname="INV·321 | Coastal Tower | Card Text | Paragraph 2">
@@ -3273,7 +3273,7 @@
       </trans-unit>
       <trans-unit id="65986555-a5d7-497e-876f-b8d967d6aa5b" resname="INV·322 | Elfhame Palace | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">地精乡宫殿须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="65986555-a5d7-497e-876f-b8d967d6aa5b" resname="INV·322 | Elfhame Palace | Card Text | Paragraph 2">
@@ -3287,7 +3287,7 @@
       </trans-unit>
       <trans-unit id="e744b593-13fe-4967-b492-ac02f5815e57" resname="INV·323 | Geothermal Crevice | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">地热裂缝须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="e744b593-13fe-4967-b492-ac02f5815e57" resname="INV·323 | Geothermal Crevice | Card Text | Paragraph 2">
         <source>{T}: Add {R}.</source>
@@ -3295,7 +3295,7 @@
       </trans-unit>
       <trans-unit id="e744b593-13fe-4967-b492-ac02f5815e57" resname="INV·323 | Geothermal Crevice | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add {B}{G}.</source>
-        <target state="translated">ocT，牺牲地热裂缝：加oBoG到你的法术力池中。</target>
+        <target state="translated">ocT，牺牲CARDNAME：加oBoG到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="977f1b44-166c-4faf-8a7b-d431707e90ce" resname="INV·324 | Irrigation Ditch | Card Name">
         <source>Irrigation Ditch</source>
@@ -3303,7 +3303,7 @@
       </trans-unit>
       <trans-unit id="977f1b44-166c-4faf-8a7b-d431707e90ce" resname="INV·324 | Irrigation Ditch | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">农渠须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="977f1b44-166c-4faf-8a7b-d431707e90ce" resname="INV·324 | Irrigation Ditch | Card Text | Paragraph 2">
         <source>{T}: Add {W}.</source>
@@ -3311,7 +3311,7 @@
       </trans-unit>
       <trans-unit id="977f1b44-166c-4faf-8a7b-d431707e90ce" resname="INV·324 | Irrigation Ditch | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add {G}{U}.</source>
-        <target state="translated">ocT，牺牲农渠：加oGoU到你的法术力池中。</target>
+        <target state="translated">ocT，牺牲CARDNAME：加oGoU到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="4f0cccf6-b79b-4fff-89aa-801341598532" resname="INV·325 | Keldon Necropolis | Card Name">
         <source>Keldon Necropolis</source>
@@ -3323,7 +3323,7 @@
       </trans-unit>
       <trans-unit id="4f0cccf6-b79b-4fff-89aa-801341598532" resname="INV·325 | Keldon Necropolis | Card Text | Paragraph 2">
         <source>{4}{R}, {T}, Sacrifice a creature: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">o4oR，ocT，牺牲一个生物：凯尔顿古陵寝对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">o4oR，ocT，牺牲一个生物：CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="ed64934b-0e64-4b2f-97aa-c3fb7e6ce0b0" resname="INV·326 | Salt Marsh | Card Name">
         <source>Salt Marsh</source>
@@ -3332,7 +3332,7 @@
       </trans-unit>
       <trans-unit id="ed64934b-0e64-4b2f-97aa-c3fb7e6ce0b0" resname="INV·326 | Salt Marsh | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">咸沼须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="ed64934b-0e64-4b2f-97aa-c3fb7e6ce0b0" resname="INV·326 | Salt Marsh | Card Text | Paragraph 2">
@@ -3347,7 +3347,7 @@
       </trans-unit>
       <trans-unit id="9841f7e8-162c-44a3-96f3-af944fce15d1" resname="INV·327 | Shivan Oasis | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">西瓦绿洲须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="9841f7e8-162c-44a3-96f3-af944fce15d1" resname="INV·327 | Shivan Oasis | Card Text | Paragraph 2">
@@ -3361,7 +3361,7 @@
       </trans-unit>
       <trans-unit id="22c66ed6-55fb-4c65-aac4-26d9cc3053b8" resname="INV·328 | Sulfur Vent | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">硫磺火道须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="22c66ed6-55fb-4c65-aac4-26d9cc3053b8" resname="INV·328 | Sulfur Vent | Card Text | Paragraph 2">
         <source>{T}: Add {B}.</source>
@@ -3369,7 +3369,7 @@
       </trans-unit>
       <trans-unit id="22c66ed6-55fb-4c65-aac4-26d9cc3053b8" resname="INV·328 | Sulfur Vent | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add {U}{R}.</source>
-        <target state="translated">ocT，牺牲硫磺火道：加oUoR到你的法术力池中。</target>
+        <target state="translated">ocT，牺牲CARDNAME：加oUoR到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="989b5901-aeb0-4a48-8c53-3b0ec0e0deba" resname="INV·329 | Tinder Farm | Card Name">
         <source>Tinder Farm</source>
@@ -3377,7 +3377,7 @@
       </trans-unit>
       <trans-unit id="989b5901-aeb0-4a48-8c53-3b0ec0e0deba" resname="INV·329 | Tinder Farm | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">火绒农场须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="989b5901-aeb0-4a48-8c53-3b0ec0e0deba" resname="INV·329 | Tinder Farm | Card Text | Paragraph 2">
         <source>{T}: Add {G}.</source>
@@ -3385,7 +3385,7 @@
       </trans-unit>
       <trans-unit id="989b5901-aeb0-4a48-8c53-3b0ec0e0deba" resname="INV·329 | Tinder Farm | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add {R}{W}.</source>
-        <target state="translated">ocT，牺牲火绒农场：加oRoW到你的法术力池中。</target>
+        <target state="translated">ocT，牺牲CARDNAME：加oRoW到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="c76f346c-ae34-4f5f-8e3b-6c77b0c4d530" resname="INV·330 | Urborg Volcano | Card Name">
         <source>Urborg Volcano</source>
@@ -3394,7 +3394,7 @@
       </trans-unit>
       <trans-unit id="c76f346c-ae34-4f5f-8e3b-6c77b0c4d530" resname="INV·330 | Urborg Volcano | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">乌尔博格火山须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="c76f346c-ae34-4f5f-8e3b-6c77b0c4d530" resname="INV·330 | Urborg Volcano | Card Text | Paragraph 2">
@@ -3414,7 +3414,7 @@
       </trans-unit>
       <trans-unit id="c9c77844-742c-48cf-9c1e-954ffe781e25" resname="PINV·262 | Raging Kavu | Card Text | Paragraph 2">
         <source>Haste</source>
-        <target state="translated">你可以于你能够使用瞬间的时机下，使用愤怒卡甫。</target>
+        <target state="translated">你可以于你能够使用瞬间的时机下，使用CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
     </body>

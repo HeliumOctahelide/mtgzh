@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="3853fde8-a7cf-402d-abe1-526d0f92dc32" resname="PUDS·6 | False Prophet | Card Text | Paragraph 1">
         <source>When CARDNAME dies, exile all creatures.</source>
-        <target state="translated">当虚假先知从场上置入任何坟墓场时，将所有生物移出游戏。</target>
+        <target state="translated">当CARDNAME从场上置入任何坟墓场时，将所有生物移出游戏。</target>
         <note xmlns:from="developer">中文数据来自UDS（1999-06-07）；</note>
       </trans-unit>
       <trans-unit id="4367bc78-0912-4abd-8edd-bc792558d01a" resname="UDS·1 | Academy Rector | Card Name">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="4367bc78-0912-4abd-8edd-bc792558d01a" resname="UDS·1 | Academy Rector | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle.</source>
-        <target state="translated">当学院教务长从场上置入任何坟墓场时，你可将学院教务长移出游戏。若你如此做，则从你的牌库中搜寻一张结界牌，并将其放置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME从场上置入任何坟墓场时，你可将CARDNAME移出游戏。若你如此做，则从你的牌库中搜寻一张结界牌，并将其放置进场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="151232e6-68cc-4cac-a532-9ade8e925961" resname="UDS·2 | Archery Training | Card Name">
         <source>Archery Training</source>
@@ -26,7 +26,7 @@
       </trans-unit>
       <trans-unit id="151232e6-68cc-4cac-a532-9ade8e925961" resname="UDS·2 | Archery Training | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of your upkeep, you may put an arrow counter on CARDNAME.\nEnchanted creature has &amp;quot;{T}: This creature deals X damage to target attacking or blocking creature, where X is the number of arrow counters on CARDNAME.&amp;quot;</source>
-        <target state="translated">在你的维持开始时，你可以在箭术训练上放置一个弓箭指示物。\n受此结界的生物获得「ocT：此生物对目标进行攻击或阻挡的生物造成X点伤害，X等同于此生物所受之箭术训练上弓箭指示物的数量。」</target>
+        <target state="translated">在你的维持开始时，你可以在CARDNAME上放置一个弓箭指示物。\n受此结界的生物获得「ocT：此生物对目标进行攻击或阻挡的生物造成X点伤害，X等同于此生物所受之CARDNAME上弓箭指示物的数量。」</target>
       </trans-unit>
       <trans-unit id="34d7f78e-d310-4305-942e-7839583bd893" resname="UDS·3 | Capashen Knight | Card Name">
         <source>Capashen Knight</source>
@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="34d7f78e-d310-4305-942e-7839583bd893" resname="UDS·3 | Capashen Knight | Card Text | Paragraphs">
         <source>First strike (This creature deals combat damage before creatures without first strike.)\n{1}{W}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">先攻（此生物会比不具先攻异能的生物提前造成战斗伤害。）{1}{W}：卡帕轩骑士得+1/+0直到回合结束。</target>
+        <target state="translated">先攻（此生物会比不具先攻异能的生物提前造成战斗伤害。）{1}{W}：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自M14（2013-07-19）；</note>
       </trans-unit>
       <trans-unit id="16665386-405e-48c9-8c69-c21b03931c2f" resname="UDS·4 | Capashen Standard | Card Name">
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="16665386-405e-48c9-8c69-c21b03931c2f" resname="UDS·4 | Capashen Standard | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature gets +1/+1.\n{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">受此结界的生物得+1/+1。\no2，牺牲卡帕轩徽章：抽一张牌</target>
+        <target state="translated">受此结界的生物得+1/+1。\no2，牺牲CARDNAME：抽一张牌</target>
       </trans-unit>
       <trans-unit id="0976a193-463a-4bcb-a951-ca73347a5572" resname="UDS·5 | Capashen Templar | Card Name">
         <source>Capashen Templar</source>
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit id="0976a193-463a-4bcb-a951-ca73347a5572" resname="UDS·5 | Capashen Templar | Card Text | Paragraph 1">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">oW：卡帕轩圣殿骑士得+0/+1直到回合结束。</target>
+        <target state="translated">oW：CARDNAME得+0/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a64d7a33-986d-45ad-8662-7bca80d3628d" resname="UDS·7 | Fend Off | Card Name">
         <source>Fend Off</source>
@@ -122,7 +122,7 @@
       </trans-unit>
       <trans-unit id="243e9386-2a7f-406a-9ed3-77d4bf1b50fd" resname="UDS·14 | Reliquary Monk | Card Text | Paragraph 1">
         <source>When CARDNAME dies, destroy target artifact or enchantment.</source>
-        <target state="translated">当圣物守护僧从场上置入任何坟墓场时，消灭目标神器或结界。</target>
+        <target state="translated">当CARDNAME从场上置入任何坟墓场时，消灭目标神器或结界。</target>
       </trans-unit>
       <trans-unit id="7fd2fe13-bbc0-42b7-bc42-3b51910ce118" resname="UDS·15 | Replenish | Card Name">
         <source>Replenish</source>
@@ -195,7 +195,7 @@
       </trans-unit>
       <trans-unit id="2bed19fa-e497-48de-8459-030e60fdc9a8" resname="UDS·21 | Tethered Griffin | Card Text | Paragraph 2">
         <source>When you control no enchantments, sacrifice CARDNAME.</source>
-        <target state="translated">当你未操控任何结界时，牺牲炼栓狮鹫。</target>
+        <target state="translated">当你未操控任何结界时，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="00d4d751-50df-4d8f-a6d9-4e76797c429a" resname="UDS·22 | Tormented Angel | Card Name">
         <source>Tormented Angel</source>
@@ -231,7 +231,7 @@
       </trans-unit>
       <trans-unit id="5f159193-fcf8-437c-b14a-06718a446a5c" resname="UDS·25 | Wall of Glare | Card Text | Paragraph 2">
         <source>CARDNAME can block any number of creatures.</source>
-        <target state="translated">明镜之墙在每次战斗中可阻挡任意数量的生物。</target>
+        <target state="translated">CARDNAME在每次战斗中可阻挡任意数量的生物。</target>
       </trans-unit>
       <trans-unit id="8ae591d2-b9d3-4bc5-bcec-5d3d79a13b41" resname="UDS·26 | Aura Thief | Card Name">
         <source>Aura Thief</source>
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="8ae591d2-b9d3-4bc5-bcec-5d3d79a13b41" resname="UDS·26 | Aura Thief | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you gain control of all enchantments. (You don't get to move Auras.)</source>
-        <target state="translated">当灵气窃影从场上置入任何坟墓场时，你获得所有结界的操控权。（你不可移动区域结界）</target>
+        <target state="translated">当CARDNAME从场上置入任何坟墓场时，你获得所有结界的操控权。（你不可移动区域结界）</target>
       </trans-unit>
       <trans-unit id="5949c5a7-9656-466a-add8-1800973fefee" resname="UDS·27 | Blizzard Elemental | Card Name">
         <source>Blizzard Elemental</source>
@@ -255,7 +255,7 @@
       </trans-unit>
       <trans-unit id="5949c5a7-9656-466a-add8-1800973fefee" resname="UDS·27 | Blizzard Elemental | Card Text | Paragraph 2">
         <source>{3}{U}: Untap CARDNAME.</source>
-        <target state="translated">o3oU：重置暴风雪元素。</target>
+        <target state="translated">o3oU：重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="2f6e5575-b004-417f-9366-6ba7840a79e7" resname="UDS·28 | Brine Seer | Card Name">
         <source>Brine Seer</source>
@@ -271,7 +271,7 @@
       </trans-unit>
       <trans-unit id="002cf7d8-3fc2-48eb-a727-a1ce5a049665" resname="UDS·29 | Bubbling Beebles | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked as long as defending player controls an enchantment.</source>
-        <target state="translated">若防御玩家操控任何结界，则泡泡哔宝精不可被阻挡。</target>
+        <target state="translated">若防御玩家操控任何结界，则CARDNAME不可被阻挡。</target>
       </trans-unit>
       <trans-unit id="bdf280f4-74a1-4e6f-aec6-1852f04204e4" resname="UDS·30 | Disappear | Card Name">
         <source>Disappear</source>
@@ -279,7 +279,7 @@
       </trans-unit>
       <trans-unit id="bdf280f4-74a1-4e6f-aec6-1852f04204e4" resname="UDS·30 | Disappear | Card Text | Paragraphs">
         <source>Enchant creature\n{U}: Return enchanted creature and CARDNAME to their owners' hands.</source>
-        <target state="translated">oU：将受此结界的生物与消声匿迹移回其拥有者手上。</target>
+        <target state="translated">oU：将受此结界的生物与CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="7f6d8ce9-f8c8-45ad-b74c-97fba0e2982e" resname="UDS·31 | Donate | Card Name">
         <source>Donate</source>
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="8cd46bfa-ca09-422f-9891-db9399fa2d3a" resname="UDS·33 | Fledgling Osprey | Card Text | Paragraph 1">
         <source>CARDNAME has flying as long as it's enchanted.</source>
-        <target state="translated">若初羽鹗受有任何结界，则它获得飞行异能。</target>
+        <target state="translated">若CARDNAME受有任何结界，则它获得飞行异能。</target>
       </trans-unit>
       <trans-unit id="7f98e703-a0d3-497f-840a-aa026b02d47f" resname="UDS·34 | Illuminated Wings | Card Name">
         <source>Illuminated Wings</source>
@@ -311,7 +311,7 @@
       </trans-unit>
       <trans-unit id="7f98e703-a0d3-497f-840a-aa026b02d47f" resname="UDS·34 | Illuminated Wings | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature has flying.\n{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">受此结界的生物获得飞行异能。\no2，牺牲亮光翼：抽一张牌。</target>
+        <target state="translated">受此结界的生物获得飞行异能。\no2，牺牲CARDNAME：抽一张牌。</target>
       </trans-unit>
       <trans-unit id="70cbc36d-3391-4086-9b81-fb1ef0b83046" resname="UDS·35 | Iridescent Drake | Card Name">
         <source>Iridescent Drake</source>
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="70cbc36d-3391-4086-9b81-fb1ef0b83046" resname="UDS·35 | Iridescent Drake | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put target Aura card from a graveyard onto the battlefield under your control attached to CARDNAME.</source>
-        <target state="translated">当虹光龙兽进场时，将任一坟墓场中的目标生物结界移到虹光龙兽之上。（你操控此结界。）</target>
+        <target state="translated">当CARDNAME进场时，将任一坟墓场中的目标生物结界移到CARDNAME之上。（你操控此结界。）</target>
       </trans-unit>
       <trans-unit id="442bc3ba-00b3-4616-a5b2-55524ff8a736" resname="UDS·36 | Kingfisher | Card Name">
         <source>Kingfisher</source>
@@ -335,7 +335,7 @@
       </trans-unit>
       <trans-unit id="442bc3ba-00b3-4616-a5b2-55524ff8a736" resname="UDS·36 | Kingfisher | Card Text | Paragraph 2">
         <source>When CARDNAME dies, draw a card.</source>
-        <target state="translated">当翡翠鸟从场上置入任何坟墓场时，抽一张牌。</target>
+        <target state="translated">当CARDNAME从场上置入任何坟墓场时，抽一张牌。</target>
       </trans-unit>
       <trans-unit id="5e9ffd83-b5c9-46b4-bc5a-172ca34ddc79" resname="UDS·37 | Mental Discipline | Card Name">
         <source>Mental Discipline</source>
@@ -351,7 +351,7 @@
       </trans-unit>
       <trans-unit id="aa941f17-1b81-4017-90ae-4466eba8da2f" resname="UDS·38 | Metathran Elite | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked as long as it's enchanted.</source>
-        <target state="translated">若仿索蓝精兵受有任何结界，则它不可被阻挡。</target>
+        <target state="translated">若CARDNAME受有任何结界，则它不可被阻挡。</target>
       </trans-unit>
       <trans-unit id="650d40d0-78ec-4b6e-8ea0-28d43ce175d5" resname="UDS·39 | Metathran Soldier | Card Name">
         <source>Metathran Soldier</source>
@@ -359,7 +359,7 @@
       </trans-unit>
       <trans-unit id="650d40d0-78ec-4b6e-8ea0-28d43ce175d5" resname="UDS·39 | Metathran Soldier | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">仿索蓝士兵不可被阻挡。</target>
+        <target state="translated">CARDNAME不可被阻挡。</target>
       </trans-unit>
       <trans-unit id="95be2701-af7c-483e-8165-e8bd4b2774ed" resname="UDS·40 | Opposition | Card Name">
         <source>Opposition</source>
@@ -377,7 +377,7 @@
       </trans-unit>
       <trans-unit id="6f7f9849-a4bd-4501-9473-79345c751701" resname="UDS·41 | Private Research | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of your upkeep, you may put a page counter on CARDNAME.\nWhen enchanted creature dies, draw a card for each page counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以在私人研究上放置一个书页指示物。\n当受此结界的生物被置入任何坟墓场时，抽等同于私人研究上书页指示物数量的牌。</target>
+        <target state="translated">在你的维持开始时，你可以在CARDNAME上放置一个书页指示物。\n当受此结界的生物被置入任何坟墓场时，抽等同于CARDNAME上书页指示物数量的牌。</target>
       </trans-unit>
       <trans-unit id="62019ac4-a5a1-4a8c-bfb4-96e818949bbe" resname="UDS·42 | Quash | Card Name">
         <source>Quash</source>
@@ -395,7 +395,7 @@
       </trans-unit>
       <trans-unit id="8ee6480c-7697-47e2-893b-ca88c0ab3376" resname="UDS·43 | Rayne, Academy Chancellor | Card Text | Paragraph 1">
         <source>Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card. You may draw an additional card if CARDNAME is enchanted.</source>
-        <target state="translated">每当你或你所操控的永久物，成为你的任一对手所操控之咒语或异能的目标时，你可抽一张牌；而若大学院长蕾安受有结界时，你可再多抽一张牌。</target>
+        <target state="translated">每当你或你所操控的永久物，成为你的任一对手所操控之咒语或异能的目标时，你可抽一张牌；而若CARDNAME受有结界时，你可再多抽一张牌。</target>
       </trans-unit>
       <trans-unit id="63fc979e-7758-4310-9259-659e9ced2c7f" resname="UDS·44 | Rescue | Card Name">
         <source>Rescue</source>
@@ -430,7 +430,7 @@
       </trans-unit>
       <trans-unit id="769e7f64-e32c-4242-aae9-45d50b89ff1f" resname="UDS·47 | Telepathic Spies | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, look at target opponent's hand.</source>
-        <target state="translated">当传心间谍进场时，检视目标对手的手牌。</target>
+        <target state="translated">当CARDNAME进场时，检视目标对手的手牌。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="07bb9695-a8b0-47b4-9a03-11d559412f33" resname="UDS·48 | Temporal Adept | Card Name">
@@ -455,7 +455,7 @@
       </trans-unit>
       <trans-unit id="2b6b23b9-4569-40ff-988f-ad1d5d3fe573" resname="UDS·49 | Thieving Magpie | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage to an opponent, draw a card.</source>
-        <target state="translated">每当窃鹊向任一对手造成伤害时，抓一张牌。</target>
+        <target state="translated">每当CARDNAME向任一对手造成伤害时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="613694aa-b169-400d-8063-2b83d8303611" resname="UDS·50 | Treachery | Card Name">
@@ -464,7 +464,7 @@
       </trans-unit>
       <trans-unit id="613694aa-b169-400d-8063-2b83d8303611" resname="UDS·50 | Treachery | Card Text | Paragraphs">
         <source>Enchant creature\nWhen CARDNAME enters the battlefield, untap up to five lands.\nYou control enchanted creature.</source>
-        <target state="translated">当背信忘义进场时，重置最多五张地。\n你操控受此结界的生物。</target>
+        <target state="translated">当CARDNAME进场时，重置最多五张地。\n你操控受此结界的生物。</target>
       </trans-unit>
       <trans-unit id="6d7cc1f6-9897-4de4-8e94-40cbe2d962a2" resname="UDS·51 | Apprentice Necromancer | Card Name">
         <source>Apprentice Necromancer</source>
@@ -472,7 +472,7 @@
       </trans-unit>
       <trans-unit id="6d7cc1f6-9897-4de4-8e94-40cbe2d962a2" resname="UDS·51 | Apprentice Necromancer | Card Text | Paragraph 1">
         <source>{B}, {T}, Sacrifice CARDNAME: Return target creature card from your graveyard to the battlefield. That creature gains haste. At the beginning of the next end step, sacrifice it.</source>
-        <target state="translated">oB，ocT，牺牲死灵术士学徒：将目标生物牌从你的坟墓场中移回场上。该生物获得敏捷异能。在回合结束时，牺牲该生物。#（你操控此生物的该回合中，它便可以攻击以及ocT）</target>
+        <target state="translated">oB，ocT，牺牲CARDNAME：将目标生物牌从你的坟墓场中移回场上。该生物获得敏捷异能。在回合结束时，牺牲该生物。#（你操控此生物的该回合中，它便可以攻击以及ocT）</target>
       </trans-unit>
       <trans-unit id="e3eb615b-249d-433f-a521-8310e8784b5d" resname="UDS·52 | Attrition | Card Name">
         <source>Attrition</source>
@@ -489,12 +489,12 @@
       </trans-unit>
       <trans-unit id="c7d4c858-5a11-485d-a514-12a6d80459f0" resname="UDS·53 | Body Snatcher | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile it unless you discard a creature card.</source>
-        <target state="translated">当窃体者进战场时，除非你弃一张生物牌，否则放逐之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你弃一张生物牌，否则放逐之。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="c7d4c858-5a11-485d-a514-12a6d80459f0" resname="UDS·53 | Body Snatcher | Card Text | Paragraph 2">
         <source>When CARDNAME dies, exile CARDNAME and return target creature card from your graveyard to the battlefield.</source>
-        <target state="translated">当窃体者死去时，将它放逐并将目标生物牌从你的坟墓场移回战场。</target>
+        <target state="translated">当CARDNAME死去时，将它放逐并将目标生物牌从你的坟墓场移回战场。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="6ca76614-78a1-4535-9162-70469d1e8a13" resname="UDS·54 | Bubbling Muck | Card Name">
@@ -519,7 +519,7 @@
       </trans-unit>
       <trans-unit id="1ec7c917-b254-4643-afc2-b6387f267469" resname="UDS·56 | Chime of Night | Card Text | Paragraphs">
         <source>Enchant creature\nWhen CARDNAME is put into a graveyard from the battlefield, destroy target nonblack creature.</source>
-        <target state="translated">当夜之鸣钟从场上置入任何坟墓场时，消灭目标非黑色生物。</target>
+        <target state="translated">当CARDNAME从场上置入任何坟墓场时，消灭目标非黑色生物。</target>
       </trans-unit>
       <trans-unit id="49125cfc-dbae-4543-9d2d-4cc78f45ce9a" resname="UDS·57 | Disease Carriers | Card Name">
         <source>Disease Carriers</source>
@@ -527,7 +527,7 @@
       </trans-unit>
       <trans-unit id="49125cfc-dbae-4543-9d2d-4cc78f45ce9a" resname="UDS·57 | Disease Carriers | Card Text | Paragraph 1">
         <source>When CARDNAME dies, target creature gets -2/-2 until end of turn.</source>
-        <target state="translated">当疾病带原体从场上置入任何坟墓场时，目标生物得-2/-2直到回合结束。</target>
+        <target state="translated">当CARDNAME从场上置入任何坟墓场时，目标生物得-2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2a25a472-495e-4062-b66f-c37f148b494f" resname="UDS·58 | Dying Wail | Card Name">
         <source>Dying Wail</source>
@@ -561,7 +561,7 @@
       </trans-unit>
       <trans-unit id="927eed13-510b-4b06-811d-91a6a069cb8c" resname="UDS·61 | Festering Wound | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of your upkeep, you may put an infection counter on CARDNAME.\nAt the beginning of the upkeep of enchanted creature's controller, CARDNAME deals X damage to that player, where X is the number of infection counters on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以在溃脓创伤上面放置一个感染指示物。\n在受此结界生物之控制者的维持开始时，溃脓创伤对该玩家造成X点伤害，X等同于溃脓创伤上面感染指示物的数量。</target>
+        <target state="translated">在你的维持开始时，你可以在CARDNAME上面放置一个感染指示物。\n在受此结界生物之控制者的维持开始时，CARDNAME对该玩家造成X点伤害，X等同于CARDNAME上面感染指示物的数量。</target>
       </trans-unit>
       <trans-unit id="97d082d8-f401-47ad-845c-77776ee647ba" resname="UDS·62 | Lurking Jackals | Card Name">
         <source>Lurking Jackals</source>
@@ -569,7 +569,7 @@
       </trans-unit>
       <trans-unit id="97d082d8-f401-47ad-845c-77776ee647ba" resname="UDS·62 | Lurking Jackals | Card Text | Paragraph 1">
         <source>When an opponent has 10 or less life, if CARDNAME is an enchantment, it becomes a 3/2 Jackal creature.</source>
-        <target state="translated">当你的任一对手之生命剩下10点或以下时，若此时伏击豺狼为一结界，则它成为3/2，并视为猎犬的生物。</target>
+        <target state="translated">当你的任一对手之生命剩下10点或以下时，若此时CARDNAME为一结界，则它成为3/2，并视为猎犬的生物。</target>
       </trans-unit>
       <trans-unit id="e2262467-1354-4aec-84a2-21916c44b9ef" resname="UDS·63 | Nightshade Seer | Card Name">
         <source>Nightshade Seer</source>
@@ -585,7 +585,7 @@
       </trans-unit>
       <trans-unit id="571058b0-7e10-4259-8db9-5c8b78c1e13d" resname="UDS·64 | Phyrexian Monitor | Card Text | Paragraph 1">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">oB：重生非瑞克西亚监察员。</target>
+        <target state="translated">oB：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="45a02d67-5931-49ae-a28e-57aa6f9c7f83" resname="UDS·65 | Phyrexian Negator | Card Name">
         <source>Phyrexian Negator</source>
@@ -597,7 +597,7 @@
       </trans-unit>
       <trans-unit id="45a02d67-5931-49ae-a28e-57aa6f9c7f83" resname="UDS·65 | Phyrexian Negator | Card Text | Paragraph 2">
         <source>Whenever CARDNAME is dealt damage, sacrifice that many permanents.</source>
-        <target state="translated">每当非瑞克西亚绝灭兽受到1点伤害时，你便牺牲一个永久物。</target>
+        <target state="translated">每当CARDNAME受到1点伤害时，你便牺牲一个永久物。</target>
       </trans-unit>
       <trans-unit id="6b9cebd8-aa3f-4e22-8d15-d4b7bad355e4" resname="UDS·66 | Plague Dogs | Card Name">
         <source>Plague Dogs</source>
@@ -605,11 +605,11 @@
       </trans-unit>
       <trans-unit id="6b9cebd8-aa3f-4e22-8d15-d4b7bad355e4" resname="UDS·66 | Plague Dogs | Card Text | Paragraph 1">
         <source>When CARDNAME dies, all creatures get -1/-1 until end of turn.</source>
-        <target state="translated">当疫病犬从场上置入任何坟墓场时，所有生物得-1/-1直到回合结束。</target>
+        <target state="translated">当CARDNAME从场上置入任何坟墓场时，所有生物得-1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6b9cebd8-aa3f-4e22-8d15-d4b7bad355e4" resname="UDS·66 | Plague Dogs | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">o2，牺牲疫病犬：抽一张牌。</target>
+        <target state="translated">o2，牺牲CARDNAME：抽一张牌。</target>
       </trans-unit>
       <trans-unit id="1678d911-1456-4631-a2f4-d7de4906644b" resname="UDS·67 | Rapid Decay | Card Name">
         <source>Rapid Decay</source>
@@ -637,7 +637,7 @@
       </trans-unit>
       <trans-unit id="80cd2771-9681-4b4a-8c2c-a2ffd7361c35" resname="UDS·70 | Skittering Horror | Card Text | Paragraph 1">
         <source>When you cast a creature spell, sacrifice CARDNAME.</source>
-        <target state="translated">当你使用任何生物咒语时，牺牲掠行惊惧兽。</target>
+        <target state="translated">当你使用任何生物咒语时，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="00522c4b-4e64-4403-96b1-df41afbe255f" resname="UDS·71 | Slinking Skirge | Card Name">
         <source>Slinking Skirge</source>
@@ -649,7 +649,7 @@
       </trans-unit>
       <trans-unit id="00522c4b-4e64-4403-96b1-df41afbe255f" resname="UDS·71 | Slinking Skirge | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">o2，牺牲鬼祟斯克魔：抽一张牌。</target>
+        <target state="translated">o2，牺牲CARDNAME：抽一张牌。</target>
       </trans-unit>
       <trans-unit id="9417a9db-5101-4fe1-84b7-283ca1fd42e5" resname="UDS·72 | Soul Feast | Card Name">
         <source>Soul Feast</source>
@@ -667,7 +667,7 @@
       </trans-unit>
       <trans-unit id="e47793a3-9a98-4733-8d6a-2fb1a67b15c9" resname="UDS·73 | Squirming Mass | Card Text | Paragraph 1">
         <source>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">蠕动团块只能被神器生物或黑色生物阻挡。</target>
+        <target state="translated">CARDNAME只能被神器生物或黑色生物阻挡。</target>
       </trans-unit>
       <trans-unit id="64e37889-7dc0-476b-8b99-8f06881d352c" resname="UDS·74 | Twisted Experiment | Card Name">
         <source>Twisted Experiment</source>
@@ -702,7 +702,7 @@
       </trans-unit>
       <trans-unit id="66a09917-50ce-4b51-a5cf-e28e88a45762" resname="UDS·76 | Aether Sting | Card Text | Paragraph 1">
         <source>Whenever an opponent casts a creature spell, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">每当任一对手使用生物咒语时，乙太刺触对该玩家造成1点伤害。</target>
+        <target state="translated">每当任一对手使用生物咒语时，CARDNAME对该玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="9320f3d8-0e51-43d0-aedb-bfed771101e9" resname="UDS·77 | Bloodshot Cyclops | Card Name">
         <source>Bloodshot Cyclops</source>
@@ -711,7 +711,7 @@
       </trans-unit>
       <trans-unit id="9320f3d8-0e51-43d0-aedb-bfed771101e9" resname="UDS·77 | Bloodshot Cyclops | Card Text | Paragraph 1">
         <source>{T}, Sacrifice a creature: CARDNAME deals damage equal to the sacrificed creature's power to any target.</source>
-        <target state="translated">{T}，牺牲一个生物：血丝独眼巨人对目标生物或牌手造成伤害，其数量等同于所牺牲生物的力量。</target>
+        <target state="translated">{T}，牺牲一个生物：CARDNAME对目标生物或牌手造成伤害，其数量等同于所牺牲生物的力量。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="d96e7522-e0bc-4e23-8e4b-40a0c28ea986" resname="UDS·78 | Cinder Seer | Card Name">
@@ -720,7 +720,7 @@
       </trans-unit>
       <trans-unit id="d96e7522-e0bc-4e23-8e4b-40a0c28ea986" resname="UDS·78 | Cinder Seer | Card Text | Paragraph 1">
         <source>{2}{R}, {T}: Reveal any number of red cards in your hand. CARDNAME deals X damage to any target, where X is the number of cards revealed this way.</source>
-        <target state="translated">o2oR，ocT：展示你手牌中任意数量的红色牌。煤渣预言师对目标生物或玩家造成X点伤害，X等同于你以此法所展示的牌数量。</target>
+        <target state="translated">o2oR，ocT：展示你手牌中任意数量的红色牌。CARDNAME对目标生物或玩家造成X点伤害，X等同于你以此法所展示的牌数量。</target>
       </trans-unit>
       <trans-unit id="1d68eb62-9f86-4c85-8696-46a248c744ff" resname="UDS·79 | Colos Yearling | Card Name">
         <source>Colos Yearling</source>
@@ -732,7 +732,7 @@
       </trans-unit>
       <trans-unit id="1d68eb62-9f86-4c85-8696-46a248c744ff" resname="UDS·79 | Colos Yearling | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">oR：幼寇骡得+1/+0直到回合结束</target>
+        <target state="translated">oR：CARDNAME得+1/+0直到回合结束</target>
       </trans-unit>
       <trans-unit id="c5f37e36-c004-4b89-a668-5cd984c59019" resname="UDS·80 | Covetous Dragon | Card Name">
         <source>Covetous Dragon</source>
@@ -744,7 +744,7 @@
       </trans-unit>
       <trans-unit id="c5f37e36-c004-4b89-a668-5cd984c59019" resname="UDS·80 | Covetous Dragon | Card Text | Paragraph 2">
         <source>When you control no artifacts, sacrifice CARDNAME.</source>
-        <target state="translated">当你未操控任何神器时，牺牲贪婪巨龙。</target>
+        <target state="translated">当你未操控任何神器时，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="a511f9df-b53b-4fea-87cd-9f18f6833f92" resname="UDS·81 | Flame Jet | Card Name">
         <source>Flame Jet</source>
@@ -756,7 +756,7 @@
       </trans-unit>
       <trans-unit id="a511f9df-b53b-4fea-87cd-9f18f6833f92" resname="UDS·81 | Flame Jet | Card Text | Paragraph 2">
         <source>Cycling {2} ({2}, Discard this card: Draw a card.)</source>
-        <target state="translated">喷焰对目标玩家造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标玩家造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="a3c7635d-98b2-4505-9153-d7e9e53ea16d" resname="UDS·82 | Goblin Berserker | Card Name">
         <source>Goblin Berserker</source>
@@ -772,7 +772,7 @@
       </trans-unit>
       <trans-unit id="ac067eb8-427f-4bfa-b392-0bb41ac8370e" resname="UDS·83 | Goblin Festival | Card Text | Paragraph 1">
         <source>{2}: CARDNAME deals 1 damage to any target. Flip a coin. If you lose the flip, choose one of your opponents. That player gains control of CARDNAME.</source>
-        <target state="translated">o2：鬼怪节庆对目标生物或玩家造成1点伤害。掷一次硬币。如果你输掉此掷，则选择一个对手。该玩家获得鬼怪节庆的操控权。</target>
+        <target state="translated">o2：CARDNAME对目标生物或玩家造成1点伤害。掷一次硬币。如果你输掉此掷，则选择一个对手。该玩家获得CARDNAME的操控权。</target>
       </trans-unit>
       <trans-unit id="7eab0544-9c0b-4365-86bb-bc0c3e9d87ce" resname="UDS·84 | Goblin Gardener | Card Name">
         <source>Goblin Gardener</source>
@@ -781,7 +781,7 @@
       </trans-unit>
       <trans-unit id="7eab0544-9c0b-4365-86bb-bc0c3e9d87ce" resname="UDS·84 | Goblin Gardener | Card Text | Paragraph 1">
         <source>When CARDNAME dies, destroy target land.</source>
-        <target state="translated">当精灵园丁从场上置入坟墓场时，消灭目标地。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，消灭目标地。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="6a85b2f9-c12c-46dd-ae04-470ebf5ec6d9" resname="UDS·85 | Goblin Marshal | Card Name">
@@ -794,7 +794,7 @@
       </trans-unit>
       <trans-unit id="6a85b2f9-c12c-46dd-ae04-470ebf5ec6d9" resname="UDS·85 | Goblin Marshal | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield or dies, create two 1/1 red Goblin creature tokens.</source>
-        <target state="translated">当鬼怪元帅进场或从场上置入任何坟墓场时，放置两个1/1，红色的鬼怪衍生物进场。</target>
+        <target state="translated">当CARDNAME进场或从场上置入任何坟墓场时，放置两个1/1，红色的鬼怪衍生物进场。</target>
       </trans-unit>
       <trans-unit id="124070d9-c362-4053-a405-9438b1cfac02" resname="UDS·86 | Goblin Masons | Card Name">
         <source>Goblin Masons</source>
@@ -802,7 +802,7 @@
       </trans-unit>
       <trans-unit id="124070d9-c362-4053-a405-9438b1cfac02" resname="UDS·86 | Goblin Masons | Card Text | Paragraph 1">
         <source>When CARDNAME dies, destroy target Wall.</source>
-        <target state="translated">当鬼怪泥水匠从场上置入任何坟墓场时，消灭目标墙。</target>
+        <target state="translated">当CARDNAME从场上置入任何坟墓场时，消灭目标墙。</target>
       </trans-unit>
       <trans-unit id="0676d39e-229f-480b-874e-ff0cb8e335d8" resname="UDS·87 | Hulking Ogre | Card Name">
         <source>Hulking Ogre</source>
@@ -810,7 +810,7 @@
       </trans-unit>
       <trans-unit id="0676d39e-229f-480b-874e-ff0cb8e335d8" resname="UDS·87 | Hulking Ogre | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">笨拙食人魔不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="d39c8166-9e63-4b02-af7b-4caf14ca73ac" resname="UDS·88 | Impatience | Card Name">
         <source>Impatience</source>
@@ -819,7 +819,7 @@
       </trans-unit>
       <trans-unit id="d39c8166-9e63-4b02-af7b-4caf14ca73ac" resname="UDS·88 | Impatience | Card Text | Paragraph 1">
         <source>At the beginning of each player's end step, if that player didn't cast a spell this turn, CARDNAME deals 2 damage to that player.</source>
-        <target state="translated">在每个牌手回合结束时，若该牌手在该回合未使用过咒语，则浮躁对该牌手造成2点伤害。</target>
+        <target state="translated">在每个牌手回合结束时，若该牌手在该回合未使用过咒语，则CARDNAME对该牌手造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="854f4775-29b1-4ed1-94d9-db5930a35157" resname="UDS·89 | Incendiary | Card Name">
@@ -828,7 +828,7 @@
       </trans-unit>
       <trans-unit id="854f4775-29b1-4ed1-94d9-db5930a35157" resname="UDS·89 | Incendiary | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of your upkeep, you may put a fuse counter on CARDNAME.\nWhen enchanted creature dies, CARDNAME deals X damage to any target, where X is the number of fuse counters on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以在纵火上面放置一个导线指示物。\n当受此结界之生物被置入任何坟墓场时，纵火对目标玩家造成X点伤害， X等同于纵火上面导线指示物的数量。</target>
+        <target state="translated">在你的维持开始时，你可以在CARDNAME上面放置一个导线指示物。\n当受此结界之生物被置入任何坟墓场时，CARDNAME对目标玩家造成X点伤害， X等同于CARDNAME上面导线指示物的数量。</target>
       </trans-unit>
       <trans-unit id="b1eee4d2-fe28-418e-a81f-73a66e831b05" resname="UDS·90 | Keldon Champion | Card Name">
         <source>Keldon Champion</source>
@@ -847,7 +847,7 @@
       </trans-unit>
       <trans-unit id="b1eee4d2-fe28-418e-a81f-73a66e831b05" resname="UDS·90 | Keldon Champion | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, it deals 3 damage to target player or planeswalker.</source>
-        <target state="translated">当凯尔顿斗士进战场时，它对目标牌手造成3点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它对目标牌手造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="f18cdf4d-42ce-4f2d-8b8f-8cf52a1b8db4" resname="UDS·91 | Keldon Vandals | Card Name">
@@ -860,7 +860,7 @@
       </trans-unit>
       <trans-unit id="f18cdf4d-42ce-4f2d-8b8f-8cf52a1b8db4" resname="UDS·91 | Keldon Vandals | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target artifact.</source>
-        <target state="translated">当凯尔顿暴民进场时，消灭目标神器。</target>
+        <target state="translated">当CARDNAME进场时，消灭目标神器。</target>
       </trans-unit>
       <trans-unit id="c0ddc0dc-8783-4659-bbbd-db6698843b47" resname="UDS·92 | Landslide | Card Name">
         <source>Landslide</source>
@@ -868,7 +868,7 @@
       </trans-unit>
       <trans-unit id="c0ddc0dc-8783-4659-bbbd-db6698843b47" resname="UDS·92 | Landslide | Card Text | Paragraph 1">
         <source>Sacrifice any number of Mountains. CARDNAME deals that much damage to target player or planeswalker.</source>
-        <target state="translated">牺牲任意数量的山脉。落磐对目标玩家造成等同此数量的伤害。</target>
+        <target state="translated">牺牲任意数量的山脉。CARDNAME对目标玩家造成等同此数量的伤害。</target>
       </trans-unit>
       <trans-unit id="5b21b2f4-a05d-477b-8a39-632f7ff7f5f5" resname="UDS·93 | Mark of Fury | Card Name">
         <source>Mark of Fury</source>
@@ -876,7 +876,7 @@
       </trans-unit>
       <trans-unit id="5b21b2f4-a05d-477b-8a39-632f7ff7f5f5" resname="UDS·93 | Mark of Fury | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature has haste.\nAt the beginning of the end step, return CARDNAME to its owner's hand.</source>
-        <target state="translated">受此结界的生物获得敏捷异能。#（你操控此生物的该回合中，它便可以攻击以及ocT）#\n在回合结束时，将狂怒的印记移回其拥有者手上。</target>
+        <target state="translated">受此结界的生物获得敏捷异能。#（你操控此生物的该回合中，它便可以攻击以及ocT）#\n在回合结束时，将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="8f335d43-cacb-40ad-93c1-9a861e9f66c7" resname="UDS·94 | Reckless Abandon | Card Name">
         <source>Reckless Abandon</source>
@@ -884,11 +884,11 @@
       </trans-unit>
       <trans-unit id="8f335d43-cacb-40ad-93c1-9a861e9f66c7" resname="UDS·94 | Reckless Abandon | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, sacrifice a creature.</source>
-        <target state="translated">牺牲一个生物，以作为悍然舍弃的额外费用。</target>
+        <target state="translated">牺牲一个生物，以作为CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="8f335d43-cacb-40ad-93c1-9a861e9f66c7" resname="UDS·94 | Reckless Abandon | Card Text | Paragraph 2">
         <source>CARDNAME deals 4 damage to any target.</source>
-        <target state="translated">悍然舍弃对目标生物或玩家造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或玩家造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="d0f3c78e-16c0-4fbc-8ef4-fbf610f9d464" resname="UDS·95 | Repercussion | Card Name">
         <source>Repercussion</source>
@@ -897,7 +897,7 @@
       </trans-unit>
       <trans-unit id="d0f3c78e-16c0-4fbc-8ef4-fbf610f9d464" resname="UDS·95 | Repercussion | Card Text | Paragraph 1">
         <source>Whenever a creature is dealt damage, CARDNAME deals that much damage to that creature's controller.</source>
-        <target state="translated">每当一个生物受到伤害时，后遗症对该生物的操控者造成等量的伤害。</target>
+        <target state="translated">每当一个生物受到伤害时，CARDNAME对该生物的操控者造成等量的伤害。</target>
         <note xmlns:from="developer">中文数据来自WOT（2023-09-08）；</note>
       </trans-unit>
       <trans-unit id="c030eca0-bc5f-403b-8600-1f295fc85fee" resname="UDS·96 | Scent of Cinder | Card Name">
@@ -906,7 +906,7 @@
       </trans-unit>
       <trans-unit id="c030eca0-bc5f-403b-8600-1f295fc85fee" resname="UDS·96 | Scent of Cinder | Card Text | Paragraph 1">
         <source>Reveal any number of red cards in your hand. CARDNAME deals X damage to any target, where X is the number of cards revealed this way.</source>
-        <target state="translated">展示你手牌中任意数量的红色牌。煤渣气息对目标生物或玩家造成X点伤害，X等同于你以此法所展示的牌数量。</target>
+        <target state="translated">展示你手牌中任意数量的红色牌。CARDNAME对目标生物或玩家造成X点伤害，X等同于你以此法所展示的牌数量。</target>
       </trans-unit>
       <trans-unit id="de2f7251-f71a-47d2-a779-c898d94e807c" resname="UDS·97 | Sowing Salt | Card Name">
         <source>Sowing Salt</source>
@@ -951,7 +951,7 @@
       </trans-unit>
       <trans-unit id="49651dd4-a489-42d3-b4eb-51f5353b334e" resname="UDS·101 | Ancient Silverback | Card Text | Paragraph 1">
         <source>{G}: Regenerate CARDNAME. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</source>
-        <target state="translated">{G}：重生老银背。（如果此生物下一次于本回合中将被消灭，则它不会被消灭，而是改为将它横置，移除受过的所有伤害，并将它移出战斗。）</target>
+        <target state="translated">{G}：重生CARDNAME。（如果此生物下一次于本回合中将被消灭，则它不会被消灭，而是改为将它横置，移除受过的所有伤害，并将它移出战斗。）</target>
         <note xmlns:from="developer">中文数据来自M15（2014-07-18）；</note>
       </trans-unit>
       <trans-unit id="2523c403-0025-48c7-8ff1-e66ca27ee585" resname="UDS·102 | Compost | Card Name">
@@ -970,7 +970,7 @@
       </trans-unit>
       <trans-unit id="d9a8a0e2-311a-4627-8a48-43df045c3112" resname="UDS·103 | Elvish Lookout | Card Text | Paragraph 1">
         <source>Shroud (This creature can't be the target of spells or abilities.)</source>
-        <target state="translated">妖精警戒员不能成为咒语或异能的目标。</target>
+        <target state="translated">CARDNAME不能成为咒语或异能的目标。</target>
       </trans-unit>
       <trans-unit id="55e76333-0959-4572-a1ca-d77f76da1279" resname="UDS·104 | Elvish Piper | Card Name">
         <source>Elvish Piper</source>
@@ -989,7 +989,7 @@
       </trans-unit>
       <trans-unit id="9ccba208-1e24-45bb-a556-a3eb936efb10" resname="UDS·105 | Emperor Crocodile | Card Text | Paragraph 1">
         <source>When you control no other creatures, sacrifice CARDNAME.</source>
-        <target state="translated">当你未操控其他生物时，牺牲帝王鳄鱼。</target>
+        <target state="translated">当你未操控其他生物时，牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="b6006c21-28b5-4550-8b4e-ac631f39cdf7" resname="UDS·106 | Gamekeeper | Card Name">
@@ -999,7 +999,7 @@
       </trans-unit>
       <trans-unit id="b6006c21-28b5-4550-8b4e-ac631f39cdf7" resname="UDS·106 | Gamekeeper | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.</source>
-        <target state="translated">当猎场看守人死去时，你可以将它放逐。若你如此作，则从你牌库顶开始展示牌，直到展示出一张生物牌为止。将该牌放进战场，并将所有以此法展示的其他牌置入你的坟墓场。</target>
+        <target state="translated">当CARDNAME死去时，你可以将它放逐。若你如此作，则从你牌库顶开始展示牌，直到展示出一张生物牌为止。将该牌放进战场，并将所有以此法展示的其他牌置入你的坟墓场。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="f83d8765-f654-4837-9b06-739610188415" resname="UDS·107 | Goliath Beetle | Card Name">
@@ -1020,7 +1020,7 @@
       </trans-unit>
       <trans-unit id="96e42dbe-3eeb-4367-bb6d-0f5c71f5da80" resname="UDS·108 | Heart Warden | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">o2，牺牲心林看守者：抽一张牌。</target>
+        <target state="translated">o2，牺牲CARDNAME：抽一张牌。</target>
       </trans-unit>
       <trans-unit id="926cefa1-3c5c-4bd6-859b-de620a3ee777" resname="UDS·109 | Hunting Moa | Card Name">
         <source>Hunting Moa</source>
@@ -1034,7 +1034,7 @@
       </trans-unit>
       <trans-unit id="926cefa1-3c5c-4bd6-859b-de620a3ee777" resname="UDS·109 | Hunting Moa | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield or dies, put a +1/+1 counter on target creature.</source>
-        <target state="translated">每当行猎恐鸟进场或是从场上置入坟墓场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME进场或是从场上置入坟墓场时，在目标生物上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="018ad11c-1351-4eff-94ac-3926037d7247" resname="UDS·110 | Ivy Seer | Card Name">
@@ -1059,11 +1059,11 @@
       </trans-unit>
       <trans-unit id="5cbd3c78-197a-40b9-94d1-bbb1ec1e64b1" resname="UDS·112 | Marker Beetles | Card Text | Paragraph 1">
         <source>When CARDNAME dies, target creature gets +1/+1 until end of turn.</source>
-        <target state="translated">当标记甲虫从场上置入任何坟墓场时，目标生物得+1/+1直到回合结束。</target>
+        <target state="translated">当CARDNAME从场上置入任何坟墓场时，目标生物得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5cbd3c78-197a-40b9-94d1-bbb1ec1e64b1" resname="UDS·112 | Marker Beetles | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">o2，牺牲标记甲虫：抽一张牌。</target>
+        <target state="translated">o2，牺牲CARDNAME：抽一张牌。</target>
       </trans-unit>
       <trans-unit id="10bd11a2-7cab-4d3f-b52b-f5bb66fbbec6" resname="UDS·113 | Momentum | Card Name">
         <source>Momentum</source>
@@ -1071,7 +1071,7 @@
       </trans-unit>
       <trans-unit id="10bd11a2-7cab-4d3f-b52b-f5bb66fbbec6" resname="UDS·113 | Momentum | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of your upkeep, you may put a growth counter on CARDNAME.\nEnchanted creature gets +1/+1 for each growth counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以在持续力上放置一个生长指示物。\n持续力上每有一个生长指示物，受此结界的生物便得+1/+1。</target>
+        <target state="translated">在你的维持开始时，你可以在CARDNAME上放置一个生长指示物。\nCARDNAME上每有一个生长指示物，受此结界的生物便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="58b4d5c8-23fc-4fb8-99d6-bb64e66cc4db" resname="UDS·114 | Multani's Decree | Card Name">
         <source>Multani's Decree</source>
@@ -1095,7 +1095,7 @@
       </trans-unit>
       <trans-unit id="3529f49b-7e5e-4fa8-a03d-a94877761525" resname="UDS·116 | Plated Spider | Card Text | Paragraph 1">
         <source>Reach (This creature can block creatures with flying.)</source>
-        <target state="translated">覆甲蜘蛛可以视同具有飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。</target>
       </trans-unit>
       <trans-unit id="a30735c4-7f12-4db9-972b-9b7568a8ada8" resname="UDS·117 | Plow Under | Card Name">
         <source>Plow Under</source>
@@ -1148,7 +1148,7 @@
       </trans-unit>
       <trans-unit id="85bfa6b9-c898-4bb6-a444-6cf336bfb260" resname="UDS·122 | Taunting Elf | Card Text | Paragraph 1">
         <source>All creatures able to block CARDNAME do so.</source>
-        <target state="translated">所有能够阻挡地精辱骂员的生物皆须阻挡之。</target>
+        <target state="translated">所有能够阻挡CARDNAME的生物皆须阻挡之。</target>
         <note xmlns:from="developer">中文数据来自ONS（2002-10-07）；</note>
       </trans-unit>
       <trans-unit id="971d4b0d-fe3e-46f5-86df-3fbac6b900b0" resname="UDS·123 | Thorn Elemental | Card Name">
@@ -1158,7 +1158,7 @@
       </trans-unit>
       <trans-unit id="971d4b0d-fe3e-46f5-86df-3fbac6b900b0" resname="UDS·123 | Thorn Elemental | Card Text | Paragraph 1">
         <source>You may have CARDNAME assign its combat damage as though it weren't blocked.</source>
-        <target state="translated">你可以让刺棘元素如同未受阻挡地分配战斗伤害。</target>
+        <target state="translated">你可以让CARDNAME如同未受阻挡地分配战斗伤害。</target>
         <note xmlns:from="developer">中文数据来自DOM（2018-04-27）；</note>
       </trans-unit>
       <trans-unit id="325d9372-01c9-4e99-a966-13c8f8566e2e" resname="UDS·124 | Yavimaya Elder | Card Name">
@@ -1168,12 +1168,12 @@
       </trans-unit>
       <trans-unit id="325d9372-01c9-4e99-a966-13c8f8566e2e" resname="UDS·124 | Yavimaya Elder | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.</source>
-        <target state="translated">当亚维马雅长者死去时，你可以从你的牌库中搜寻至多两张基本地牌，展示这些牌，将它们置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME死去时，你可以从你的牌库中搜寻至多两张基本地牌，展示这些牌，将它们置于你手上，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自MIC（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="325d9372-01c9-4e99-a966-13c8f8566e2e" resname="UDS·124 | Yavimaya Elder | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲亚维马雅长者：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自MIC（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="c9e3934e-6169-416e-92bb-359e41900c3b" resname="UDS·125 | Yavimaya Enchantress | Card Name">
@@ -1183,7 +1183,7 @@
       </trans-unit>
       <trans-unit id="c9e3934e-6169-416e-92bb-359e41900c3b" resname="UDS·125 | Yavimaya Enchantress | Card Text | Paragraph 1">
         <source>CARDNAME gets +1/+1 for each enchantment on the battlefield.</source>
-        <target state="translated">战场上每有一个结界，亚维马雅咒术师便得+1/+1。</target>
+        <target state="translated">战场上每有一个结界，CARDNAME便得+1/+1。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="c2e783b7-9bd1-4f82-bf20-5d201413f5e8" resname="UDS·126 | Braidwood Cup | Card Name">
@@ -1200,7 +1200,7 @@
       </trans-unit>
       <trans-unit id="16dc7634-8ef5-4a03-8276-7e1dae4244c2" resname="UDS·127 | Braidwood Sextant | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Search your library for a basic land card, reveal that card, put it into your hand, then shuffle.</source>
-        <target state="translated">o2，ocT，牺牲编枝六分仪：自你的牌库中搜寻一张基本地牌，将其展示后，放入你的手牌。然后将你的牌库洗牌。</target>
+        <target state="translated">o2，ocT，牺牲CARDNAME：自你的牌库中搜寻一张基本地牌，将其展示后，放入你的手牌。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="c5685cff-b607-4a81-aa47-6676ab1a5782" resname="UDS·128 | Brass Secretary | Card Name">
         <source>Brass Secretary</source>
@@ -1208,7 +1208,7 @@
       </trans-unit>
       <trans-unit id="c5685cff-b607-4a81-aa47-6676ab1a5782" resname="UDS·128 | Brass Secretary | Card Text | Paragraph 1">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">o2，牺牲黄铜书记：抽一张牌。</target>
+        <target state="translated">o2，牺牲CARDNAME：抽一张牌。</target>
       </trans-unit>
       <trans-unit id="a9cf74e4-31d2-4cd2-8f3a-b2141301f686" resname="UDS·129 | Caltrops | Card Name">
         <source>Caltrops</source>
@@ -1217,7 +1217,7 @@
       </trans-unit>
       <trans-unit id="a9cf74e4-31d2-4cd2-8f3a-b2141301f686" resname="UDS·129 | Caltrops | Card Text | Paragraph 1">
         <source>Whenever a creature attacks, CARDNAME deals 1 damage to it.</source>
-        <target state="translated">每当任何生物进行攻击时，铁蒺藜对它造成1点伤害。</target>
+        <target state="translated">每当任何生物进行攻击时，CARDNAME对它造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="2fc2f0d0-273d-428f-9a8a-c582f4d16394" resname="UDS·130 | Extruder | Card Name">
@@ -1242,7 +1242,7 @@
       </trans-unit>
       <trans-unit id="229ba320-69c9-4400-a0d7-f0f79e8d9856" resname="UDS·131 | Fodder Cannon | Card Text | Paragraph 1">
         <source>{4}, {T}, Sacrifice a creature: CARDNAME deals 4 damage to target creature.</source>
-        <target state="translated">{4}，{T}，牺牲一个生物：粮秣大炮对目标生物造成4点伤害。</target>
+        <target state="translated">{4}，{T}，牺牲一个生物：CARDNAME对目标生物造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="c4f5a9d8-80b9-4765-adb2-10d53baaacb0" resname="UDS·132 | Junk Diver | Card Name">
@@ -1257,7 +1257,7 @@
       </trans-unit>
       <trans-unit id="c4f5a9d8-80b9-4765-adb2-10d53baaacb0" resname="UDS·132 | Junk Diver | Card Text | Paragraph 2">
         <source>When CARDNAME dies, return another target artifact card from your graveyard to your hand.</source>
-        <target state="translated">当垃圾掠集兽死去时，将另一张目标神器牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME死去时，将另一张目标神器牌从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="97f7ebfb-f955-4849-a0f5-6806ff6ae891" resname="UDS·133 | Mantis Engine | Card Name">
@@ -1267,12 +1267,12 @@
       </trans-unit>
       <trans-unit id="97f7ebfb-f955-4849-a0f5-6806ff6ae891" resname="UDS·133 | Mantis Engine | Card Text | Paragraph 1">
         <source>{2}: CARDNAME gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)</source>
-        <target state="translated">{2}：螳螂引擎获得飞行异能直到回合结束。 （只有具飞行或延势异能的生物才能阻挡它。）</target>
+        <target state="translated">{2}：CARDNAME获得飞行异能直到回合结束。 （只有具飞行或延势异能的生物才能阻挡它。）</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="97f7ebfb-f955-4849-a0f5-6806ff6ae891" resname="UDS·133 | Mantis Engine | Card Text | Paragraph 2">
         <source>{2}: CARDNAME gains first strike until end of turn. (It deals combat damage before creatures without first strike.)</source>
-        <target state="translated">{2}：螳螂引擎获得先攻异能直到回合结束。 （此生物会比不具先攻异能的生物提前造成战斗伤害。）</target>
+        <target state="translated">{2}：CARDNAME获得先攻异能直到回合结束。 （此生物会比不具先攻异能的生物提前造成战斗伤害。）</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="908a2215-7231-43a4-8fec-5d1e4233c028" resname="UDS·134 | Masticore | Card Name">
@@ -1281,15 +1281,15 @@
       </trans-unit>
       <trans-unit id="908a2215-7231-43a4-8fec-5d1e4233c028" resname="UDS·134 | Masticore | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you discard a card.</source>
-        <target state="translated">在你的维持开始时，你可以从手牌中选择并弃掉一张牌。若你不如此做，则牺牲异狮。</target>
+        <target state="translated">在你的维持开始时，你可以从手牌中选择并弃掉一张牌。若你不如此做，则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="908a2215-7231-43a4-8fec-5d1e4233c028" resname="UDS·134 | Masticore | Card Text | Paragraph 2">
         <source>{2}: CARDNAME deals 1 damage to target creature.</source>
-        <target state="translated">o2：异狮对目标生物造成1点伤害。</target>
+        <target state="translated">o2：CARDNAME对目标生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="908a2215-7231-43a4-8fec-5d1e4233c028" resname="UDS·134 | Masticore | Card Text | Paragraph 3">
         <source>{2}: Regenerate CARDNAME.</source>
-        <target state="translated">o2：重生异狮。</target>
+        <target state="translated">o2：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="2050d414-71c7-4c42-a1ff-4c04068ba7f2" resname="UDS·135 | Metalworker | Card Name">
         <source>Metalworker</source>
@@ -1305,11 +1305,11 @@
       </trans-unit>
       <trans-unit id="4d9715c2-9036-4ae2-a5b4-1b190d50c963" resname="UDS·136 | Powder Keg | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, you may put a fuse counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以在炸药桶上放置一个导线指示物。</target>
+        <target state="translated">在你的维持开始时，你可以在CARDNAME上放置一个导线指示物。</target>
       </trans-unit>
       <trans-unit id="4d9715c2-9036-4ae2-a5b4-1b190d50c963" resname="UDS·136 | Powder Keg | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Destroy each artifact and creature with mana value equal to the number of fuse counters on CARDNAME.</source>
-        <target state="translated">ocT，牺牲炸药桶：消灭每个总魔法力费用等同于炸药桶上导线指示物数量的神器和生物。</target>
+        <target state="translated">ocT，牺牲CARDNAME：消灭每个总魔法力费用等同于CARDNAME上导线指示物数量的神器和生物。</target>
       </trans-unit>
       <trans-unit id="7286819f-6c57-4503-898c-528786ad86e9" resname="UDS·137 | Scrying Glass | Card Name">
         <source>Scrying Glass</source>
@@ -1326,7 +1326,7 @@
       </trans-unit>
       <trans-unit id="77378279-024c-4c36-b5bf-6294fe5c32f5" resname="UDS·138 | Storage Matrix | Card Text | Paragraph 1">
         <source>As long as CARDNAME is untapped, each player chooses artifact, creature, or land during their untap step. That player can untap only permanents of the chosen type this step.</source>
-        <target state="translated">只要储藏密室未横置，则每位牌手于其重置步骤中选择神器，生物或地。 该牌手于此步骤中只能重置所选择之类别的永久物。</target>
+        <target state="translated">只要CARDNAME未横置，则每位牌手于其重置步骤中选择神器，生物或地。 该牌手于此步骤中只能重置所选择之类别的永久物。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="3f0c9dee-fab5-4522-9821-343f84b0c8ab" resname="UDS·139 | Thran Dynamo | Card Name">
@@ -1345,7 +1345,7 @@
       </trans-unit>
       <trans-unit id="9cdc0d42-d96f-490f-87cb-3577dfdce807" resname="UDS·140 | Thran Foundry | Card Text | Paragraph 1">
         <source>{1}, {T}, Exile CARDNAME: Target player shuffles their graveyard into their library.</source>
-        <target state="translated">o1，ocT，将索蓝铸造厂移出游戏：目标玩家将其坟墓场洗入他的牌库中。</target>
+        <target state="translated">o1，ocT，将CARDNAME移出游戏：目标玩家将其坟墓场洗入他的牌库中。</target>
       </trans-unit>
       <trans-unit id="5778c52b-248b-4131-b5c0-12ea1986786e" resname="UDS·141 | Thran Golem | Card Name">
         <source>Thran Golem</source>
@@ -1354,7 +1354,7 @@
       </trans-unit>
       <trans-unit id="5778c52b-248b-4131-b5c0-12ea1986786e" resname="UDS·141 | Thran Golem | Card Text | Paragraph 1">
         <source>As long as CARDNAME is enchanted, it gets +2/+2 and has flying, first strike, and trample.</source>
-        <target state="translated">只要索蓝魔像受有灵气，它便得+2/+2且具有飞行、先攻与践踏异能。</target>
+        <target state="translated">只要CARDNAME受有灵气，它便得+2/+2且具有飞行、先攻与践踏异能。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="bdf96c2c-b3d6-4d84-9572-fb115a795bed" resname="UDS·142 | Urza's Incubator | Card Name">
@@ -1364,7 +1364,7 @@
       </trans-unit>
       <trans-unit id="bdf96c2c-b3d6-4d84-9572-fb115a795bed" resname="UDS·142 | Urza's Incubator | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于克撒的抚育设备进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="bdf96c2c-b3d6-4d84-9572-fb115a795bed" resname="UDS·142 | Urza's Incubator | Card Text | Paragraph 2">

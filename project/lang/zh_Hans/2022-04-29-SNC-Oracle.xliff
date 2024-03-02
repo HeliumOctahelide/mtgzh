@@ -132,7 +132,7 @@
       </trans-unit>
       <trans-unit id="219a1d6c-e886-4d5a-a501-d5149fcd1871" resname="NCC·11 | Aerial Extortionist | Card Text | Paragraph 2">
         <source>Whenever CARDNAME enters the battlefield or deals combat damage to a player, exile up to one target nonland permanent. For as long as that card remains exiled, its owner may cast it.</source>
-        <target state="translated">每当翔空勒赎手进战场或对任一牌手造成战斗伤害时，放逐至多一个目标非地永久物。于该牌持续放逐的时段内，其拥有者可以施放之。</target>
+        <target state="translated">每当CARDNAME进战场或对任一牌手造成战斗伤害时，放逐至多一个目标非地永久物。于该牌持续放逐的时段内，其拥有者可以施放之。</target>
       </trans-unit>
       <trans-unit id="219a1d6c-e886-4d5a-a501-d5149fcd1871" resname="NCC·11 | Aerial Extortionist | Card Text | Paragraph 3">
         <source>Whenever another player casts a spell from anywhere other than their hand, draw a card.</source>
@@ -156,15 +156,15 @@
       </trans-unit>
       <trans-unit id="147a0ccf-3408-48c7-b4a8-6d81aed39f18" resname="NCC·13 | Boss's Chauffeur | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a number of +1/+1 counters on it equal to one plus the number of other creatures you control.</source>
-        <target state="translated">首脑司机进战场时上面有数个+1/+1指示物，其数量等同于由你操控的其他生物数量加一。</target>
+        <target state="translated">CARDNAME进战场时上面有数个+1/+1指示物，其数量等同于由你操控的其他生物数量加一。</target>
       </trans-unit>
       <trans-unit id="147a0ccf-3408-48c7-b4a8-6d81aed39f18" resname="NCC·13 | Boss's Chauffeur | Card Text | Paragraph 2">
         <source>Alliance — Whenever another creature enters the battlefield under your control, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">联手～每当另一个生物在你的操控下进战场时，在首脑司机上放置一个+1/+1指示物。</target>
+        <target state="translated">联手～每当另一个生物在你的操控下进战场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="147a0ccf-3408-48c7-b4a8-6d81aed39f18" resname="NCC·13 | Boss's Chauffeur | Card Text | Paragraph 3">
         <source>When CARDNAME dies, create a 1/1 green and white Citizen creature token for each +1/+1 counter on it.</source>
-        <target state="translated">当首脑司机死去时，其上每有一个+1/+1指示物，便派出一个1/1，绿白双色的市民衍生生物。</target>
+        <target state="translated">当CARDNAME死去时，其上每有一个+1/+1指示物，便派出一个1/1，绿白双色的市民衍生生物。</target>
       </trans-unit>
       <trans-unit id="f0428cba-a895-4dbd-b495-8f358bb632cf" resname="NCC·14 | Contractual Safeguard | Card Name">
         <source>Contractual Safeguard</source>
@@ -232,7 +232,7 @@
       </trans-unit>
       <trans-unit id="a776f162-5ac4-444a-8254-ff6915932358" resname="NCC·20 | Skyboon Evangelist | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, support 6. (Put a +1/+1 counter on each of up to six other target creatures.)</source>
-        <target state="translated">当天恩传音师进战场时，支援6。（在至多六个其他目标生物上各放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，支援6。（在至多六个其他目标生物上各放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="a776f162-5ac4-444a-8254-ff6915932358" resname="NCC·20 | Skyboon Evangelist | Card Text | Paragraph 3">
         <source>Whenever a creature with a counter on it attacks one of your opponents, that creature gains flying until end of turn.</source>
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="7bb0e478-c359-4523-a1e1-ba711a8cb8e0" resname="NCC·22 | Aven Courier | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, choose a counter on a permanent you control. Put a counter of that kind on target permanent you control if it doesn't have a counter of that kind on it.</source>
-        <target state="translated">每当艾文讯使攻击时，选择一个由你操控之永久物上的指示物。如果目标由你操控的永久物上没有该种类的指示物，便在其上放置一个。</target>
+        <target state="translated">每当CARDNAME攻击时，选择一个由你操控之永久物上的指示物。如果目标由你操控的永久物上没有该种类的指示物，便在其上放置一个。</target>
       </trans-unit>
       <trans-unit id="a77d91f7-f7c9-47e4-b5c5-46c921335e42" resname="NCC·23 | Cephalid Facetaker | Card Name">
         <source>Cephalid Facetaker</source>
@@ -264,11 +264,11 @@
       </trans-unit>
       <trans-unit id="a77d91f7-f7c9-47e4-b5c5-46c921335e42" resname="NCC·23 | Cephalid Facetaker | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">夺面章人不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="a77d91f7-f7c9-47e4-b5c5-46c921335e42" resname="NCC·23 | Cephalid Facetaker | Card Text | Paragraph 2">
         <source>At the beginning of combat on your turn, you may have CARDNAME become a copy of another target creature until end of turn, except it's 1/4 and has &amp;quot;This creature can't be blocked.&amp;quot;</source>
-        <target state="translated">在你回合的战斗开始时，你可以使夺面章人成为另一个目标生物的复制品直到回合结束，但它是1/4，且具有「此生物不能被阻挡。」</target>
+        <target state="translated">在你回合的战斗开始时，你可以使CARDNAME成为另一个目标生物的复制品直到回合结束，但它是1/4，且具有「此生物不能被阻挡。」</target>
       </trans-unit>
       <trans-unit id="7cc7f675-3e56-4e5a-9618-9a9ba8e0310d" resname="NCC·24 | Change of Plans | Card Name">
         <source>Change of Plans</source>
@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit id="a319afae-019c-408d-a57b-b7bf0b1598bd" resname="NCC·29 | Shield Broker | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a shield counter on target noncommander creature you don't control. You gain control of that creature for as long as it has a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">当后盾扶济商进战场时，在目标不由你操控的非指挥官生物上放置一个后盾指示物。于该生物上有后盾指示物的时段内，你获得其操控权。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，在目标不由你操控的非指挥官生物上放置一个后盾指示物。于该生物上有后盾指示物的时段内，你获得其操控权。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="434a43a4-cd03-4ddf-8e36-edff02be33b2" resname="NCC·30 | Sinister Concierge | Card Name">
         <source>Sinister Concierge</source>
@@ -340,7 +340,7 @@
       </trans-unit>
       <trans-unit id="434a43a4-cd03-4ddf-8e36-edff02be33b2" resname="NCC·30 | Sinister Concierge | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may exile it and put three time counters on it. If you do, exile up to one target creature and put three time counters on it. Each card exiled this way that doesn't have suspend gains suspend. (For each card with suspend, its owner removes a time counter from it at the beginning of their upkeep. When the last is removed, they may cast it without paying its mana cost. Those creature spells have haste.)</source>
-        <target state="translated">当助恶门房死去时，你可以放逐它，并在其上放置三个计时指示物。若你如此作，则放逐至多一个目标生物，并在其上放置三个计时指示物。每张以此法放逐且不具延缓异能的牌各获得延缓。（每张具延缓异能的牌均需进行以下流程～在其拥有者的维持开始时，该牌手从其上移去一个计时指示物。当移去最后一个时，该牌手施放它，且不需支付其法术力费用。其中的生物咒语具有敏捷异能。）</target>
+        <target state="translated">当CARDNAME死去时，你可以放逐它，并在其上放置三个计时指示物。若你如此作，则放逐至多一个目标生物，并在其上放置三个计时指示物。每张以此法放逐且不具延缓异能的牌各获得延缓。（每张具延缓异能的牌均需进行以下流程～在其拥有者的维持开始时，该牌手从其上移去一个计时指示物。当移去最后一个时，该牌手施放它，且不需支付其法术力费用。其中的生物咒语具有敏捷异能。）</target>
       </trans-unit>
       <trans-unit id="7df5aaae-4fa6-4945-bdd4-577ff3235a7d" resname="NCC·31 | Skyway Robber | Card Name">
         <source>Skyway Robber</source>
@@ -356,7 +356,7 @@
       </trans-unit>
       <trans-unit id="7df5aaae-4fa6-4945-bdd4-577ff3235a7d" resname="NCC·31 | Skyway Robber | Card Text | Paragraph 3">
         <source>CARDNAME escapes with &amp;quot;Whenever CARDNAME deals combat damage to a player, you may cast an artifact, instant, or sorcery spell from among cards exiled with CARDNAME without paying its mana cost.&amp;quot;</source>
-        <target state="translated">空道劫匪逸脱时具有「每当空道劫匪对任一牌手造成战斗伤害时，你可以从以空道劫匪放逐的牌之中施放一个神器，瞬间或法术咒语，且不需支付其法术力费用。」</target>
+        <target state="translated">CARDNAME逸脱时具有「每当CARDNAME对任一牌手造成战斗伤害时，你可以从以CARDNAME放逐的牌之中施放一个神器，瞬间或法术咒语，且不需支付其法术力费用。」</target>
       </trans-unit>
       <trans-unit id="5fab4f0d-006d-4a94-80ba-924f19b42f63" resname="NCC·32 | Storm of Forms | Card Name">
         <source>Storm of Forms</source>
@@ -396,11 +396,11 @@
       </trans-unit>
       <trans-unit id="db794d5d-79e3-41a4-97ff-46442d87ca3b" resname="NCC·35 | Dogged Detective | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</source>
-        <target state="translated">当盯梢侦探进战场时，刺探2。（检视你牌库顶的两张牌，然后将其中任意数量的牌置入你的坟墓场，其余则以任意顺序置于你牌库顶。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探2。（检视你牌库顶的两张牌，然后将其中任意数量的牌置入你的坟墓场，其余则以任意顺序置于你牌库顶。）</target>
       </trans-unit>
       <trans-unit id="db794d5d-79e3-41a4-97ff-46442d87ca3b" resname="NCC·35 | Dogged Detective | Card Text | Paragraph 2">
         <source>Whenever an opponent draws their second card each turn, you may return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">每当任一对手抓每回合中他的第二张牌时，你可以将盯梢侦探从你的坟墓场移回你手上。</target>
+        <target state="translated">每当任一对手抓每回合中他的第二张牌时，你可以将CARDNAME从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="65864680-9520-4eb3-9774-fa478e54a290" resname="NCC·36 | Lethal Scheme | Card Name">
         <source>Lethal Scheme</source>
@@ -412,7 +412,7 @@
       </trans-unit>
       <trans-unit id="65864680-9520-4eb3-9774-fa478e54a290" resname="NCC·36 | Lethal Scheme | Card Text | Paragraph 2">
         <source>Destroy target creature or planeswalker. Each creature that convoked CARDNAME connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</source>
-        <target state="translated">消灭目标生物或鹏洛客。令每个召集夺命阴谋的生物筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在该生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">消灭目标生物或鹏洛客。令每个召集CARDNAME的生物筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在该生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="b4ed0e64-c7d8-49a2-9d00-21076484da0a" resname="NCC·37 | Make an Example | Card Name">
         <source>Make an Example</source>
@@ -432,7 +432,7 @@
       </trans-unit>
       <trans-unit id="671634e1-8b32-453e-82b7-21864f988866" resname="NCC·38 | Misfortune Teller | Card Text | Paragraph 2">
         <source>Whenever CARDNAME enters the battlefield or deals combat damage to a player, exile target card from a graveyard. If it was a creature card, create a 2/2 black Rogue creature token. If it was a land card, create a Treasure token. Otherwise, you gain 3 life.</source>
-        <target state="translated">每当厄运占师进战场或对任一牌手造成战斗伤害时，将目标牌从坟墓场放逐。若它是生物牌，则你派出一个2/2黑色浪客衍生生物。若它是地牌，则你派出一个珍宝衍生物。若以上皆非，则你获得3点生命。</target>
+        <target state="translated">每当CARDNAME进战场或对任一牌手造成战斗伤害时，将目标牌从坟墓场放逐。若它是生物牌，则你派出一个2/2黑色浪客衍生生物。若它是地牌，则你派出一个珍宝衍生物。若以上皆非，则你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="7723cf0b-de49-44f6-a52e-6e339a080457" resname="NCC·39 | Protection Racket | Card Name">
         <source>Protection Racket</source>
@@ -464,7 +464,7 @@
       </trans-unit>
       <trans-unit id="154dc126-67ca-4759-a424-37f0eb52e1fa" resname="NCC·41 | Wave of Rats | Card Text | Paragraph 2">
         <source>When CARDNAME dies, if it dealt combat damage to a player this turn, return it to the battlefield under its owner's control.</source>
-        <target state="translated">当老鼠波群死去时，若它本回合中对任一牌手造成过战斗伤害，则将它在其拥有者的操控下移回战场。</target>
+        <target state="translated">当CARDNAME死去时，若它本回合中对任一牌手造成过战斗伤害，则将它在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="154dc126-67ca-4759-a424-37f0eb52e1fa" resname="NCC·41 | Wave of Rats | Card Text | Paragraph 3">
         <source>Blitz {4}{B} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -552,11 +552,11 @@
       </trans-unit>
       <trans-unit id="30cfd6c9-9eed-493b-bd1d-113cb7935f61" resname="NCC·48 | Life of the Party | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, it gets +X/+0 until end of turn, where X is the number of creatures you control.</source>
-        <target state="translated">每当派对化身攻击时，它得+X/+0直到回合结束，X为由你操控的生物数量。</target>
+        <target state="translated">每当CARDNAME攻击时，它得+X/+0直到回合结束，X为由你操控的生物数量。</target>
       </trans-unit>
       <trans-unit id="30cfd6c9-9eed-493b-bd1d-113cb7935f61" resname="NCC·48 | Life of the Party | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if it's not a token, each opponent creates a token that's a copy of it. The tokens are goaded for the rest of the game. (They attack each combat if able and attack a player other than you if able.)</source>
-        <target state="translated">当派对化身进战场时，若它不是衍生物，则每位对手各派出一个为其复制品的衍生物。于本盘游戏接下来的时段，这些衍生物均已煽惑。（它们每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
+        <target state="translated">当CARDNAME进战场时，若它不是衍生物，则每位对手各派出一个为其复制品的衍生物。于本盘游戏接下来的时段，这些衍生物均已煽惑。（它们每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
       </trans-unit>
       <trans-unit id="768e84a3-41b9-4f54-ae29-e5c7ae109e9a" resname="NCC·49 | Mezzio Mugger | Card Name">
         <source>Mezzio Mugger</source>
@@ -564,7 +564,7 @@
       </trans-unit>
       <trans-unit id="768e84a3-41b9-4f54-ae29-e5c7ae109e9a" resname="NCC·49 | Mezzio Mugger | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, exile the top card of each player's library. You may play those cards this turn, and you may spend mana as though it were mana of any color to cast those spells.</source>
-        <target state="translated">每当梅齐奥袭劫客攻击时，放逐每位牌手的牌库顶牌。本回合中，你可以使用这些牌，且你可以将法术力视同任意颜色的法术力来支付施放这些咒语的费用。</target>
+        <target state="translated">每当CARDNAME攻击时，放逐每位牌手的牌库顶牌。本回合中，你可以使用这些牌，且你可以将法术力视同任意颜色的法术力来支付施放这些咒语的费用。</target>
       </trans-unit>
       <trans-unit id="768e84a3-41b9-4f54-ae29-e5c7ae109e9a" resname="NCC·49 | Mezzio Mugger | Card Text | Paragraph 2">
         <source>Blitz {2}{R} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -576,7 +576,7 @@
       </trans-unit>
       <trans-unit id="1c5241c1-ffe9-4490-b4df-7e91c372c27c" resname="NCC·50 | Rain of Riches | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two Treasure tokens.</source>
-        <target state="translated">当金如雨下进战场时，派出两个珍宝衍生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出两个珍宝衍生物。</target>
       </trans-unit>
       <trans-unit id="1c5241c1-ffe9-4490-b4df-7e91c372c27c" resname="NCC·50 | Rain of Riches | Card Text | Paragraph 2">
         <source>The first spell you cast each turn that mana from a Treasure was spent to cast has cascade. (When you cast the spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)</source>
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="2167439d-792d-471e-9137-ee46dbf7a82d" resname="NCC·51 | Rose Room Treasurer | Card Text | Paragraph 1">
         <source>Alliance — Whenever another creature enters the battlefield under your control, create a Treasure token if this is the first or second time this ability has resolved this turn. Otherwise, you may pay {X}. When you do, CARDNAME deals X damage to any target.</source>
-        <target state="translated">联手～每当另一个生物在你的操控下进战场时，如果这是此异能在本回合第一次或第二次的结算，则派出一个珍宝衍生物。若否，则你可以支付{X}。当你如此作时，蔷薇间司库对任意一个目标造成X点伤害。</target>
+        <target state="translated">联手～每当另一个生物在你的操控下进战场时，如果这是此异能在本回合第一次或第二次的结算，则派出一个珍宝衍生物。若否，则你可以支付{X}。当你如此作时，CARDNAME对任意一个目标造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="3b4df2f7-8d17-4484-85a3-b8f3e4dd0c7c" resname="NCC·52 | Seize the Spotlight | Card Name">
         <source>Seize the Spotlight</source>
@@ -604,7 +604,7 @@
       </trans-unit>
       <trans-unit id="248d71f9-89ef-492e-a854-a890f7d91ef8" resname="NCC·53 | Spellbinding Soprano | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, instant and sorcery spells you cast this turn cost {1} less to cast.</source>
-        <target state="translated">每当魔韵女高音攻击时，你本回合中施放的瞬间和法术咒语减少{1}来施放。</target>
+        <target state="translated">每当CARDNAME攻击时，你本回合中施放的瞬间和法术咒语减少{1}来施放。</target>
       </trans-unit>
       <trans-unit id="248d71f9-89ef-492e-a854-a890f7d91ef8" resname="NCC·53 | Spellbinding Soprano | Card Text | Paragraph 2">
         <source>Encore {3}{R} ({3}{R}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)</source>
@@ -616,7 +616,7 @@
       </trans-unit>
       <trans-unit id="5e7fecbd-66f6-44b7-8fe4-b9b5bfce3e2c" resname="NCC·54 | Turf War | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, for each player, put a contested counter on target land that player controls.</source>
-        <target state="translated">当地盘之争进战场时，为每位牌手各进行以下流程～在目标由其操控的地上放置一个争斗指示物。</target>
+        <target state="translated">当CARDNAME进战场时，为每位牌手各进行以下流程～在目标由其操控的地上放置一个争斗指示物。</target>
       </trans-unit>
       <trans-unit id="5e7fecbd-66f6-44b7-8fe4-b9b5bfce3e2c" resname="NCC·54 | Turf War | Card Text | Paragraph 2">
         <source>Whenever a creature deals combat damage to a player, if that player controls one or more lands with contested counters on them, that creature's controller gains control of one of those lands of their choice and untaps it.</source>
@@ -632,7 +632,7 @@
       </trans-unit>
       <trans-unit id="70aeb0a0-67dc-4cee-9b88-000e98b11d2c" resname="NCC·55 | Bribe Taker | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, for each kind of counter on permanents you control, you may put your choice of a +1/+1 counter or a counter of that kind on CARDNAME.</source>
-        <target state="translated">当受贿战士进战场时，为由你操控之永久物上的每种指示物各进行以下流程～你可以依你的选择在受贿战士上放置一个+1/+1指示物或一个同种类的指示物。</target>
+        <target state="translated">当CARDNAME进战场时，为由你操控之永久物上的每种指示物各进行以下流程～你可以依你的选择在CARDNAME上放置一个+1/+1指示物或一个同种类的指示物。</target>
       </trans-unit>
       <trans-unit id="f20015ad-8fda-498f-ac28-1ffb824ab480" resname="NCC·56 | Caldaia Guardian | Card Name">
         <source>Caldaia Guardian</source>
@@ -640,7 +640,7 @@
       </trans-unit>
       <trans-unit id="f20015ad-8fda-498f-ac28-1ffb824ab480" resname="NCC·56 | Caldaia Guardian | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another creature you control with mana value 4 or greater dies, create two 1/1 green and white Citizen creature tokens.</source>
-        <target state="translated">每当柯达亚守护者或另一个由你操控且法术力值等于或大于4的生物死去时，派出两个1/1，绿白双色的市民衍生生物。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控且法术力值等于或大于4的生物死去时，派出两个1/1，绿白双色的市民衍生生物。</target>
       </trans-unit>
       <trans-unit id="f20015ad-8fda-498f-ac28-1ffb824ab480" resname="NCC·56 | Caldaia Guardian | Card Text | Paragraph 2">
         <source>Blitz {2}{G} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -664,7 +664,7 @@
       </trans-unit>
       <trans-unit id="9b5617c2-6d23-4bfb-bc1f-c27f0cfdb022" resname="NCC·58 | Dodgy Jalopy | Card Text | Paragraph 2">
         <source>CARDNAME's power is equal to the highest mana value among creatures you control.</source>
-        <target state="translated">多奇破烂车的力量等同于由你操控之生物中的最大法术力值。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控之生物中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="9b5617c2-6d23-4bfb-bc1f-c27f0cfdb022" resname="NCC·58 | Dodgy Jalopy | Card Text | Paragraph 3">
         <source>Crew 3</source>
@@ -692,7 +692,7 @@
       </trans-unit>
       <trans-unit id="3688a806-9bff-4106-a14e-81d00bc6c87c" resname="NCC·60 | First Responder | Card Text | Paragraph 2">
         <source>At the beginning of your end step, you may return another creature you control to its owner's hand, then put a number of +1/+1 counters equal to that creature's power on CARDNAME.</source>
-        <target state="translated">在你的结束步骤开始时，你可以将另一个由你操控的生物移回其拥有者手上，然后在应急队员上放置若干+1/+1指示物，其数量等同于所移回生物的力量。</target>
+        <target state="translated">在你的结束步骤开始时，你可以将另一个由你操控的生物移回其拥有者手上，然后在CARDNAME上放置若干+1/+1指示物，其数量等同于所移回生物的力量。</target>
       </trans-unit>
       <trans-unit id="320e941a-5b5b-467c-af35-c1e6b43c9cc6" resname="NCC·61 | Killer Service | Card Name">
         <source>Killer Service</source>
@@ -700,7 +700,7 @@
       </trans-unit>
       <trans-unit id="320e941a-5b5b-467c-af35-c1e6b43c9cc6" resname="NCC·61 | Killer Service | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a number of Food tokens equal to the number of opponents you have. (They're artifacts with &amp;quot;{2}, {T}, Sacrifice this artifact: You gain 3 life.&amp;quot;)</source>
-        <target state="translated">当犀心款待进战场时，派出若干食品衍生物，其数量等同于你的对手数量。（食品衍生物是具有「{2}，{T}，牺牲此神器：你获得3点生命」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出若干食品衍生物，其数量等同于你的对手数量。（食品衍生物是具有「{2}，{T}，牺牲此神器：你获得3点生命」的神器。）</target>
       </trans-unit>
       <trans-unit id="320e941a-5b5b-467c-af35-c1e6b43c9cc6" resname="NCC·61 | Killer Service | Card Text | Paragraph 2">
         <source>At the beginning of your end step, you may pay {2} and sacrifice a token. If you do, create a 4/4 green Rhino Warrior creature token.</source>
@@ -716,7 +716,7 @@
       </trans-unit>
       <trans-unit id="51a4414b-3cab-463f-a2b5-e49104f251da" resname="NCC·62 | Next of Kin | Card Text | Paragraph 2">
         <source>When enchanted creature dies, you may put a creature card you own with lesser mana value from your hand or from the command zone onto the battlefield. If you do, return CARDNAME to the battlefield attached to that creature at the beginning of the next end step.</source>
-        <target state="translated">当所结附的生物死去时，你可以将一张由你拥有且法术力值小于前者的生物牌从你手上或统帅区放进战场。若你如此作，则在下一个结束步骤开始时，将近亲传承移回战场且贴附于该生物上。</target>
+        <target state="translated">当所结附的生物死去时，你可以将一张由你拥有且法术力值小于前者的生物牌从你手上或统帅区放进战场。若你如此作，则在下一个结束步骤开始时，将CARDNAME移回战场且贴附于该生物上。</target>
       </trans-unit>
       <trans-unit id="f2ecac25-c187-40c6-af50-e7ce0ff9e921" resname="NCC·63 | Park Heights Maverick | Card Name">
         <source>Park Heights Maverick</source>
@@ -728,11 +728,11 @@
       </trans-unit>
       <trans-unit id="f2ecac25-c187-40c6-af50-e7ce0ff9e921" resname="NCC·63 | Park Heights Maverick | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked by creatures with power 2 or less.</source>
-        <target state="translated">高地园独行侠不能被力量等于或小于2的生物阻挡。</target>
+        <target state="translated">CARDNAME不能被力量等于或小于2的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="f2ecac25-c187-40c6-af50-e7ce0ff9e921" resname="NCC·63 | Park Heights Maverick | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals combat damage to a player or dies, proliferate.</source>
-        <target state="translated">每当高地园独行侠对任一牌手造成战斗伤害或死去时，增殖。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害或死去时，增殖。</target>
       </trans-unit>
       <trans-unit id="404b786c-b64c-4935-b0d3-4dd7a2d14c37" resname="NCC·64 | Scepter of Celebration | Card Name">
         <source>Scepter of Celebration</source>
@@ -768,15 +768,15 @@
       </trans-unit>
       <trans-unit id="64cbb81d-3444-4491-963f-8ce9a9430788" resname="NCC·66 | Agent's Toolkit | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a +1/+1 counter, a flying counter, a deathtouch counter, and a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">密探工具箱进战场时上面有一个+1/+1指示物，一个飞行指示物，一个死触指示物和一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">CARDNAME进战场时上面有一个+1/+1指示物，一个飞行指示物，一个死触指示物和一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="64cbb81d-3444-4491-963f-8ce9a9430788" resname="NCC·66 | Agent's Toolkit | Card Text | Paragraph 2">
         <source>Whenever a creature enters the battlefield under your control, you may move a counter from CARDNAME onto that creature.</source>
-        <target state="translated">每当一个生物在你的操控下进战场时，你可以将密探工具箱上一个指示物移至该生物上。</target>
+        <target state="translated">每当一个生物在你的操控下进战场时，你可以将CARDNAME上一个指示物移至该生物上。</target>
       </trans-unit>
       <trans-unit id="64cbb81d-3444-4491-963f-8ce9a9430788" resname="NCC·66 | Agent's Toolkit | Card Text | Paragraph 3">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲密探工具箱：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="d96c33f5-f891-44bc-8ae1-11bc6f6544b6" resname="NCC·67 | Bess, Soul Nourisher | Card Name">
         <source>Bess, Soul Nourisher</source>
@@ -784,7 +784,7 @@
       </trans-unit>
       <trans-unit id="d96c33f5-f891-44bc-8ae1-11bc6f6544b6" resname="NCC·67 | Bess, Soul Nourisher | Card Text | Paragraph 1">
         <source>Whenever one or more other creatures with base power and toughness 1/1 enter the battlefield under your control, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个或数个其他基础力量与防御力为1/1的生物在你的操控下进战场时，在沁魂厨师蓓丝上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个或数个其他基础力量与防御力为1/1的生物在你的操控下进战场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="d96c33f5-f891-44bc-8ae1-11bc6f6544b6" resname="NCC·67 | Bess, Soul Nourisher | Card Text | Paragraph 2">
         <source>Whenever Bess attacks, each other creature you control with base power and toughness 1/1 gets +X/+X until end of turn, where X is the number of +1/+1 counters on Bess.</source>
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="ac40ca08-50e6-46e6-9d50-c4e84325620d" resname="NCC·71 | Denry Klin, Editor in Chief | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with your choice of a +1/+1, first strike, or vigilance counter on it.</source>
-        <target state="translated">报社主编丹瑞科林进战场时上面依你的选择有一个+1/+1指示物，先攻指示物或警戒指示物。</target>
+        <target state="translated">CARDNAME进战场时上面依你的选择有一个+1/+1指示物，先攻指示物或警戒指示物。</target>
       </trans-unit>
       <trans-unit id="ac40ca08-50e6-46e6-9d50-c4e84325620d" resname="NCC·71 | Denry Klin, Editor in Chief | Card Text | Paragraph 2">
         <source>Whenever a nontoken creature enters the battlefield under your control, if Denry has counters on it, put the same number of each kind of counter on that creature.</source>
@@ -864,7 +864,7 @@
       </trans-unit>
       <trans-unit id="f22f9db1-1cc6-4fad-8e5f-fdb1e6872402" resname="NCC·72 | Grime Gorger | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile up to one card of each card type from defending player's graveyard. Put a +1/+1 counter on CARDNAME for each card exiled this way.</source>
-        <target state="translated">每当污秽吞噬妖攻击时，从防御牌手坟墓场中将每种牌张类别的牌至多各放逐一张。每以此法放逐一张牌，便在污秽吞噬妖上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME攻击时，从防御牌手坟墓场中将每种牌张类别的牌至多各放逐一张。每以此法放逐一张牌，便在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="61c217d9-21d5-45ef-938a-138192a901f4" resname="NCC·73 | Jolene, the Plunder Queen | Card Name">
         <source>Jolene, the Plunder Queen</source>
@@ -952,7 +952,7 @@
       </trans-unit>
       <trans-unit id="a50267d1-f4b7-494f-b50b-cfb08b760b47" resname="NCC·78 | Prosperous Partnership | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two 1/1 green and white Citizen creature tokens.</source>
-        <target state="translated">当美满结对进战场时，派出两个1/1，绿白双色的市民衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出两个1/1，绿白双色的市民衍生生物。</target>
       </trans-unit>
       <trans-unit id="a50267d1-f4b7-494f-b50b-cfb08b760b47" resname="NCC·78 | Prosperous Partnership | Card Text | Paragraph 2">
         <source>Tap three untapped creatures you control: Create a Treasure token.</source>
@@ -972,7 +972,7 @@
       </trans-unit>
       <trans-unit id="eb15ba71-c3b3-4a9f-b000-bd788514211c" resname="NCC·79 | Riveteers Confluence | Card Text | Paragraph 3">
         <source>• CARDNAME deals 1 damage to each creature and planeswalker you don't control.</source>
-        <target state="translated">•勤工联交会对每个不由你操控的生物和鹏洛客各造成1点伤害。</target>
+        <target state="translated">•CARDNAME对每个不由你操控的生物和鹏洛客各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="eb15ba71-c3b3-4a9f-b000-bd788514211c" resname="NCC·79 | Riveteers Confluence | Card Text | Paragraph 4">
         <source>• You may put a land card from your hand or graveyard onto the battlefield tapped.</source>
@@ -992,7 +992,7 @@
       </trans-unit>
       <trans-unit id="492d484b-9af6-4055-9893-627b56c69544" resname="NCC·80 | Syrix, Carrier of the Flame | Card Text | Paragraph 3">
         <source>Whenever another Phoenix you control dies, you may cast CARDNAME from your graveyard.</source>
-        <target state="translated">每当另一个由你操控的凤凰死去时，你可以从你坟墓场中施放载火凤凰塞蕊兹。</target>
+        <target state="translated">每当另一个由你操控的凤凰死去时，你可以从你坟墓场中施放CARDNAME。</target>
       </trans-unit>
       <trans-unit id="187b6719-e5ed-4615-a00b-3313ceca055b" resname="NCC·81 | Currency Converter | Card Name">
         <source>Currency Converter</source>
@@ -1008,7 +1008,7 @@
       </trans-unit>
       <trans-unit id="187b6719-e5ed-4615-a00b-3313ceca055b" resname="NCC·81 | Currency Converter | Card Text | Paragraph 3">
         <source>{T}: Put a card exiled with CARDNAME into your graveyard. If it's a land card, create a Treasure token. If it's a nonland card, create a 2/2 black Rogue creature token.</source>
-        <target state="translated">{T}：将一张以货币兑换机放逐的牌置入你的坟墓场。如果它是地牌，则派出一个珍宝衍生物。如果它是非地牌，则派出一个2/2黑色浪客衍生生物。</target>
+        <target state="translated">{T}：将一张以CARDNAME放逐的牌置入你的坟墓场。如果它是地牌，则派出一个珍宝衍生物。如果它是非地牌，则派出一个2/2黑色浪客衍生生物。</target>
       </trans-unit>
       <trans-unit id="e6c8cc86-229b-45c3-bb68-f613636a55be" resname="NCC·82 | False Floor | Card Name">
         <source>False Floor</source>
@@ -1016,7 +1016,7 @@
       </trans-unit>
       <trans-unit id="e6c8cc86-229b-45c3-bb68-f613636a55be" resname="NCC·82 | False Floor | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">活动地板须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="e6c8cc86-229b-45c3-bb68-f613636a55be" resname="NCC·82 | False Floor | Card Text | Paragraph 2">
         <source>Creatures enter the battlefield tapped.</source>
@@ -1024,7 +1024,7 @@
       </trans-unit>
       <trans-unit id="e6c8cc86-229b-45c3-bb68-f613636a55be" resname="NCC·82 | False Floor | Card Text | Paragraph 3">
         <source>{2}, {T}, Exile CARDNAME: Exile all untapped creatures. Activate only as a sorcery.</source>
-        <target state="translated">{2}，{T}，放逐活动地板：放逐所有未横置的生物。只能于法术时机起动。</target>
+        <target state="translated">{2}，{T}，放逐CARDNAME：放逐所有未横置的生物。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="97aa0173-ed1e-4b5a-a7a1-7d93dca8e189" resname="NCC·83 | Gavel of the Righteous | Card Name">
         <source>Gavel of the Righteous</source>
@@ -1032,19 +1032,19 @@
       </trans-unit>
       <trans-unit id="97aa0173-ed1e-4b5a-a7a1-7d93dca8e189" resname="NCC·83 | Gavel of the Righteous | Card Text | Paragraph 1">
         <source>At the beginning of combat on your turn, put a charge counter on CARDNAME.</source>
-        <target state="translated">在你回合的战斗开始时，在正气法槌上放置一个充电指示物。</target>
+        <target state="translated">在你回合的战斗开始时，在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="97aa0173-ed1e-4b5a-a7a1-7d93dca8e189" resname="NCC·83 | Gavel of the Righteous | Card Text | Paragraph 2">
         <source>Equipped creature gets +1/+1 for each counter on CARDNAME.</source>
-        <target state="translated">正气法槌上每有一个指示物，佩带此武具的生物便得+1/+1。</target>
+        <target state="translated">CARDNAME上每有一个指示物，佩带此武具的生物便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="97aa0173-ed1e-4b5a-a7a1-7d93dca8e189" resname="NCC·83 | Gavel of the Righteous | Card Text | Paragraph 3">
         <source>As long as CARDNAME has four or more counters on it, equipped creature has double strike.</source>
-        <target state="translated">只要正气法槌上有四个或更多指示物，佩带此武具的生物便具有连击异能。</target>
+        <target state="translated">只要CARDNAME上有四个或更多指示物，佩带此武具的生物便具有连击异能。</target>
       </trans-unit>
       <trans-unit id="97aa0173-ed1e-4b5a-a7a1-7d93dca8e189" resname="NCC·83 | Gavel of the Righteous | Card Text | Paragraph 4">
         <source>Equip—Pay {3} or remove a counter from CARDNAME.</source>
-        <target state="translated">佩带～支付{3}或从正气法槌上移去一个指示物。</target>
+        <target state="translated">佩带～支付{3}或从CARDNAME上移去一个指示物。</target>
       </trans-unit>
       <trans-unit id="0c635ea1-6395-4b28-86e7-6e136c95ca8a" resname="NCC·84 | Smuggler's Buggy | Card Name">
         <source>Smuggler's Buggy</source>
@@ -1056,7 +1056,7 @@
       </trans-unit>
       <trans-unit id="0c635ea1-6395-4b28-86e7-6e136c95ca8a" resname="NCC·84 | Smuggler's Buggy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may cast the exiled card without paying its mana cost. If you do, return CARDNAME to its owner's hand.</source>
-        <target state="translated">每当走私客金龟车对任一牌手造成战斗伤害时，你可以施放所放逐的牌，且不需支付其法术力费用。若你如此作，则将走私客金龟车移回其拥有者手上。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以施放所放逐的牌，且不需支付其法术力费用。若你如此作，则将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="0c635ea1-6395-4b28-86e7-6e136c95ca8a" resname="NCC·84 | Smuggler's Buggy | Card Text | Paragraph 3">
         <source>Crew 2</source>
@@ -1072,11 +1072,11 @@
       </trans-unit>
       <trans-unit id="ead6a871-43e1-4ebb-a685-e6fdc39aa5cc" resname="NCC·85 | Weathered Sentinels | Card Text | Paragraph 2">
         <source>CARDNAME can attack players who attacked you during their last turn as though it didn't have defender.</source>
-        <target state="translated">褪色哨卫能视同不具守军异能地攻击于其上回合中攻击过你的牌手。</target>
+        <target state="translated">CARDNAME能视同不具守军异能地攻击于其上回合中攻击过你的牌手。</target>
       </trans-unit>
       <trans-unit id="ead6a871-43e1-4ebb-a685-e6fdc39aa5cc" resname="NCC·85 | Weathered Sentinels | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, it gets +3/+3 and gains indestructible until end of turn.</source>
-        <target state="translated">每当褪色哨卫攻击时，直到回合结束，它得+3/+3且获得不灭异能。</target>
+        <target state="translated">每当CARDNAME攻击时，直到回合结束，它得+3/+3且获得不灭异能。</target>
       </trans-unit>
       <trans-unit id="3b21be33-c0f0-4ba9-b283-e498a71323c1" resname="NCC·86 | Bennie Bracks, Zoologist | Card Name">
         <source>Bennie Bracks, Zoologist</source>
@@ -1104,7 +1104,7 @@
       </trans-unit>
       <trans-unit id="f511555a-09aa-41f8-b240-c21f911a57b4" resname="NCC·87 | Tenuous Truce | Card Text | Paragraph 3">
         <source>When you attack enchanted opponent or a planeswalker they control or when they attack you or a planeswalker you control, sacrifice CARDNAME.</source>
-        <target state="translated">当你攻击所结附的对手或任一由其操控的鹏洛客或当他攻击你或任一由你操控的鹏洛客时，牺牲薄冰休战。</target>
+        <target state="translated">当你攻击所结附的对手或任一由其操控的鹏洛客或当他攻击你或任一由你操控的鹏洛客时，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="dc7436c6-cd33-4324-bd1b-026a5d5c0007" resname="NCC·88 | Swindler's Scheme | Card Name">
         <source>Swindler's Scheme</source>
@@ -1132,7 +1132,7 @@
       </trans-unit>
       <trans-unit id="354790c1-ce19-4ed5-9cef-f2e2ee621578" resname="NCC·90 | Spiteful Repossession | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to each opponent who controls more lands than you equal to the difference. Then create a number of Treasure tokens equal to the damage dealt this way.</source>
-        <target state="translated">含怨收回向每位操控的地比你多之对手各造成伤害，其数量为「你与他之间地数量的差距」。然后你派出等同于以此法造成伤害之数量的珍宝衍生物。</target>
+        <target state="translated">CARDNAME向每位操控的地比你多之对手各造成伤害，其数量为「你与他之间地数量的差距」。然后你派出等同于以此法造成伤害之数量的珍宝衍生物。</target>
       </trans-unit>
       <trans-unit id="ade9e358-0379-4ad3-a580-4ed0fe770ed2" resname="NCC·91 | Boxing Ring | Card Name">
         <source>Boxing Ring</source>
@@ -1168,7 +1168,7 @@
       </trans-unit>
       <trans-unit id="3296b4ef-1c4a-4048-b7ce-44424fb3ff7d" resname="NCC·93 | Threefold Signal | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, scry 3.</source>
-        <target state="translated">当三路红绿灯进战场时，占卜3。</target>
+        <target state="translated">当CARDNAME进战场时，占卜3。</target>
       </trans-unit>
       <trans-unit id="3296b4ef-1c4a-4048-b7ce-44424fb3ff7d" resname="NCC·93 | Threefold Signal | Card Text | Paragraph 2">
         <source>Each spell you cast that's exactly three colors has replicate {3}. (When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies. A copy of a permanent spell becomes a token.)</source>
@@ -1192,7 +1192,7 @@
       </trans-unit>
       <trans-unit id="2a46af75-3880-4141-b26e-19834d67e7a8" resname="SNC·2 | Backup Agent | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on target creature.</source>
-        <target state="translated">当后援密探进战场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="bf5615a2-03a2-41f4-ab3b-de5e60d1504e" resname="SNC·3 | Ballroom Brawlers | Card Name">
         <source>Ballroom Brawlers</source>
@@ -1200,7 +1200,7 @@
       </trans-unit>
       <trans-unit id="bf5615a2-03a2-41f4-ab3b-de5e60d1504e" resname="SNC·3 | Ballroom Brawlers | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, CARDNAME and up to one other target creature you control both gain your choice of first strike or lifelink until end of turn.</source>
-        <target state="translated">每当舞厅喧哗人攻击时，舞厅喧哗人和至多另一个目标由你操控的生物均依你的选择获得先攻或系命异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，CARDNAME和至多另一个目标由你操控的生物均依你的选择获得先攻或系命异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2069310a-9fb6-41b7-bbd5-849e3df05632" resname="SNC·4 | Boon of Safety | Card Name">
         <source>Boon of Safety</source>
@@ -1220,7 +1220,7 @@
       </trans-unit>
       <trans-unit id="a7867f2d-e89d-429f-9ab8-5337b40b4d8d" resname="SNC·5 | Brokers Initiate | Card Text | Paragraph 1">
         <source>{4}{G/U}: CARDNAME has base power and toughness 5/5 until end of turn.</source>
-        <target state="translated">{4}{G/U}：扶济社新手的基础力量与防御力为5/5直到回合结束。</target>
+        <target state="translated">{4}{G/U}：CARDNAME的基础力量与防御力为5/5直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8c9ac05f-f47c-4569-a06e-793d28cbb936" resname="SNC·6 | Buy Your Silence | Card Name">
         <source>Buy Your Silence</source>
@@ -1241,7 +1241,7 @@
       </trans-unit>
       <trans-unit id="5afb5c5c-06e0-4b11-ad07-aef7be6e2cd4" resname="SNC·7 | Celebrity Fencer | Card Text | Paragraph 1">
         <source>Alliance — Whenever another creature enters the battlefield under your control, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">联手～每当另一个生物在你的操控下进战场时，在击剑名伶上放置一个+1/+1指示物。</target>
+        <target state="translated">联手～每当另一个生物在你的操控下进战场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="6d9428ae-9c59-4cac-a29b-039a34cfdb6d" resname="SNC·A-7 | A-Celebrity Fencer | Card Name">
         <source>A-Celebrity Fencer</source>
@@ -1254,11 +1254,11 @@
       </trans-unit>
       <trans-unit id="b68896f5-1e13-400a-a327-b6c6f00858b7" resname="SNC·8 | Citizen's Crowbar | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 green and white Citizen creature token, then attach CARDNAME to it.</source>
-        <target state="translated">当市民撬棒进战场时，派出一个1/1，绿白双色的市民衍生生物，然后将市民撬棒贴附于其上。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1，绿白双色的市民衍生生物，然后将CARDNAME贴附于其上。</target>
       </trans-unit>
       <trans-unit id="b68896f5-1e13-400a-a327-b6c6f00858b7" resname="SNC·8 | Citizen's Crowbar | Card Text | Paragraph 2">
         <source>Equipped creature gets +1/+1 and has &amp;quot;{W}, {T}, Sacrifice CARDNAME: Destroy target artifact or enchantment.&amp;quot;</source>
-        <target state="translated">佩带此武具的生物得+1/+1且具有「{W}，{T}，牺牲市民撬棒：消灭目标神器或结界。」</target>
+        <target state="translated">佩带此武具的生物得+1/+1且具有「{W}，{T}，牺牲CARDNAME：消灭目标神器或结界。」</target>
       </trans-unit>
       <trans-unit id="b68896f5-1e13-400a-a327-b6c6f00858b7" resname="SNC·8 | Citizen's Crowbar | Card Text | Paragraph 3">
         <source>Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</source>
@@ -1270,11 +1270,11 @@
       </trans-unit>
       <trans-unit id="d6ce9c33-4ab3-43c9-b6bc-ee2d40d8f9b6" resname="SNC·9 | Dapper Shieldmate | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">正装驭盾手进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">CARDNAME进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="d6ce9c33-4ab3-43c9-b6bc-ee2d40d8f9b6" resname="SNC·9 | Dapper Shieldmate | Card Text | Paragraph 2">
         <source>As long as it's your turn, CARDNAME gets +2/+0.</source>
-        <target state="translated">只要是在你的回合中，正装驭盾手便得+2/+0。</target>
+        <target state="translated">只要是在你的回合中，CARDNAME便得+2/+0。</target>
       </trans-unit>
       <trans-unit id="c53c1898-9107-4bf8-b249-d0502fb9596d" resname="SNC·10 | Depopulate | Card Name">
         <source>Depopulate</source>
@@ -1310,7 +1310,7 @@
       </trans-unit>
       <trans-unit id="b404d6c7-0b65-4c6a-b141-9dffbeb120db" resname="SNC·12 | Extraction Specialist | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return target creature card with mana value 2 or less from your graveyard to the battlefield. That creature can't attack or block for as long as you control CARDNAME.</source>
-        <target state="translated">当援救能手进战场时，将目标法术力值等于或小于2的生物牌从你的坟墓场移回战场。于你操控援救能手的时段内，该生物不能进行攻击或阻挡。</target>
+        <target state="translated">当CARDNAME进战场时，将目标法术力值等于或小于2的生物牌从你的坟墓场移回战场。于你操控CARDNAME的时段内，该生物不能进行攻击或阻挡。</target>
       </trans-unit>
       <trans-unit id="290347b9-d3cc-4882-8da6-9d8b8677f276" resname="SNC·13 | Gathering Throng | Card Name">
         <source>Gathering Throng</source>
@@ -1318,7 +1318,7 @@
       </trans-unit>
       <trans-unit id="290347b9-d3cc-4882-8da6-9d8b8677f276" resname="SNC·13 | Gathering Throng | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for any number of cards named CARDNAME, reveal them, put them into your hand, then shuffle.</source>
-        <target state="translated">当集群民众进战场时，你可以从你牌库中搜寻任意数量名称为集群民众的牌，展示这些牌，将它们置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻任意数量名称为CARDNAME的牌，展示这些牌，将它们置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="bae077bd-fc8d-44d7-8c75-8dc8699c168e" resname="SNC·14 | Giada, Font of Hope | Card Name">
         <source>Giada, Font of Hope</source>
@@ -1362,7 +1362,7 @@
       </trans-unit>
       <trans-unit id="53e74a99-11d9-40b8-b1d6-8f68a3f490fa" resname="SNC·16 | Hold for Ransom | Card Text | Paragraph 2">
         <source>Enchanted creature can't attack or block and has &amp;quot;{7}: CARDNAME's controller sacrifices it and draws a card. Activate only as a sorcery.&amp;quot;</source>
-        <target state="translated">所结附的生物不能进行攻击或阻挡，且具有「{7}：囚禁索赎的操控者将它牺牲并抓一张牌。只能于法术时机起动。」</target>
+        <target state="translated">所结附的生物不能进行攻击或阻挡，且具有「{7}：CARDNAME的操控者将它牺牲并抓一张牌。只能于法术时机起动。」</target>
       </trans-unit>
       <trans-unit id="52ba20d9-9423-4114-8734-1dac307483c8" resname="SNC·17 | Illuminator Virtuoso | Card Name">
         <source>Illuminator Virtuoso</source>
@@ -1374,7 +1374,7 @@
       </trans-unit>
       <trans-unit id="52ba20d9-9423-4114-8734-1dac307483c8" resname="SNC·17 | Illuminator Virtuoso | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes the target of a spell you control, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</source>
-        <target state="translated">每当耀刃名手成为由你操控之咒语的目标时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">每当CARDNAME成为由你操控之咒语的目标时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="35d9da1d-8678-4252-b0f8-9960795642f0" resname="SNC·18 | Inspiring Overseer | Card Name">
         <source>Inspiring Overseer</source>
@@ -1388,7 +1388,7 @@
       </trans-unit>
       <trans-unit id="35d9da1d-8678-4252-b0f8-9960795642f0" resname="SNC·18 | Inspiring Overseer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 1 life and draw a card.</source>
-        <target state="translated">当励志监管使进战场时，你获得1点生命且抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，你获得1点生命且抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="9b00bbec-61d0-464c-bf82-4ecf5ddb3451" resname="SNC·20 | Knockout Blow | Card Name">
@@ -1401,7 +1401,7 @@
       </trans-unit>
       <trans-unit id="9b00bbec-61d0-464c-bf82-4ecf5ddb3451" resname="SNC·20 | Knockout Blow | Card Text | Paragraph 2">
         <source>CARDNAME deals 4 damage to target attacking or blocking creature and you gain 2 life.</source>
-        <target state="translated">致昏重击对目标进行攻击或阻挡的生物造成4点伤害，且你获得2点生命。</target>
+        <target state="translated">CARDNAME对目标进行攻击或阻挡的生物造成4点伤害，且你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="63313cf3-963d-4bae-89bc-8a8ddf2a9294" resname="SNC·A-20 | A-Knockout Blow | Card Name">
         <source>A-Knockout Blow</source>
@@ -1415,7 +1415,7 @@
       </trans-unit>
       <trans-unit id="0cce08e8-340b-4a67-9884-4cbf01d63790" resname="SNC·21 | Mage's Attendant | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 blue Wizard creature token with &amp;quot;{1}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.&amp;quot;</source>
-        <target state="translated">当法师随员进战场时，派出一个1/1蓝色法术师衍生生物，且具有「{1}，牺牲此生物：除非目标非生物咒语的操控者支付{1}，否则反击之。」</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1蓝色法术师衍生生物，且具有「{1}，牺牲此生物：除非目标非生物咒语的操控者支付{1}，否则反击之。」</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="a58cb742-0ba7-4795-9772-25d4db0bc4ce" resname="SNC·22 | Mysterious Limousine | Card Name">
@@ -1424,7 +1424,7 @@
       </trans-unit>
       <trans-unit id="a58cb742-0ba7-4795-9772-25d4db0bc4ce" resname="SNC·22 | Mysterious Limousine | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, exile up to one other target creature until CARDNAME leaves the battlefield. If a creature is put into exile this way, return each other card exiled with CARDNAME to the battlefield under its owner's control.</source>
-        <target state="translated">每当神秘豪驾进战场或攻击时，放逐至多另一个目标生物，直到神秘豪驾离开战场为止。如果以此法将生物置入放逐区，则将其他以神秘豪驾放逐的牌分别在其操控者的操控下移回战场。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，放逐至多另一个目标生物，直到CARDNAME离开战场为止。如果以此法将生物置入放逐区，则将其他以CARDNAME放逐的牌分别在其操控者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="a58cb742-0ba7-4795-9772-25d4db0bc4ce" resname="SNC·22 | Mysterious Limousine | Card Text | Paragraph 2">
         <source>Crew 2</source>
@@ -1464,7 +1464,7 @@
       </trans-unit>
       <trans-unit id="f36e25fa-9ab4-4832-afb9-827c4b6ba732" resname="SNC·25 | Raffine's Guidance | Card Text | Paragraph 3">
         <source>You may cast CARDNAME from your graveyard by paying {2}{W} rather than paying its mana cost.</source>
-        <target state="translated">你可以从你的坟墓场中施放拉斐茵的指引，但须支付{2}{W}，而不支付其法术力费用。</target>
+        <target state="translated">你可以从你的坟墓场中施放CARDNAME，但须支付{2}{W}，而不支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="4e64ff87-2099-4360-94f6-164277b7b514" resname="SNC·26 | Raffine's Informant | Card Name">
         <source>Raffine's Informant</source>
@@ -1472,7 +1472,7 @@
       </trans-unit>
       <trans-unit id="4e64ff87-2099-4360-94f6-164277b7b514" resname="SNC·26 | Raffine's Informant | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</source>
-        <target state="translated">当拉斐茵的线人进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="a7b597b3-5792-49e4-9bcb-74012e4e9cb6" resname="SNC·27 | Refuse to Yield | Card Name">
         <source>Refuse to Yield</source>
@@ -1510,11 +1510,11 @@
       </trans-unit>
       <trans-unit id="4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d" resname="SNC·30 | Sanctuary Warden | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with two shield counters on it.</source>
-        <target state="translated">厅舍护卫进战场时上面有两个后盾指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有两个后盾指示物。</target>
       </trans-unit>
       <trans-unit id="4dfdab77-d7c3-4e6a-bb4b-55153bd2fd4d" resname="SNC·30 | Sanctuary Warden | Card Text | Paragraph 3">
         <source>Whenever CARDNAME enters the battlefield or attacks, you may remove a counter from a creature or planeswalker you control. If you do, draw a card and create a 1/1 green and white Citizen creature token.</source>
-        <target state="translated">每当厅舍护卫进战场或攻击时，你可以从由你操控的生物或鹏洛客上移去一个指示物。若你如此作，则抓一张牌并派出一个1/1，绿白双色的市民衍生生物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，你可以从由你操控的生物或鹏洛客上移去一个指示物。若你如此作，则抓一张牌并派出一个1/1，绿白双色的市民衍生生物。</target>
       </trans-unit>
       <trans-unit id="98e01fa9-9127-4250-94f1-39e71cc3c2bc" resname="SNC·31 | Sky Crier | Card Name">
         <source>Sky Crier</source>
@@ -1538,7 +1538,7 @@
       </trans-unit>
       <trans-unit id="e014d9d0-e6e1-4afb-b94f-b927a09b76c1" resname="SNC·32 | Speakeasy Server | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 1 life for each other creature you control.</source>
-        <target state="translated">当私酿酒保进战场时，你每操控一个其他生物，便获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你每操控一个其他生物，便获得1点生命。</target>
       </trans-unit>
       <trans-unit id="e77ea3bd-0d52-4d36-9d73-2b9d68c01e88" resname="SNC·A-32 | A-Speakeasy Server | Card Name">
         <source>A-Speakeasy Server</source>
@@ -1559,7 +1559,7 @@
       </trans-unit>
       <trans-unit id="8713498f-a467-4a11-9de2-53a1bbd0b18b" resname="SNC·33 | Swooping Protector | Card Text | Paragraph 3">
         <source>CARDNAME enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">俯冲卫士进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">CARDNAME进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="8d3a94c8-a7eb-4f05-8d48-d42e5129b09a" resname="SNC·35 | Backstreet Bruiser | Card Name">
         <source>Backstreet Bruiser</source>
@@ -1571,7 +1571,7 @@
       </trans-unit>
       <trans-unit id="8d3a94c8-a7eb-4f05-8d48-d42e5129b09a" resname="SNC·35 | Backstreet Bruiser | Card Text | Paragraph 2">
         <source>As long as there are two or more counters among creatures you control, CARDNAME can attack as though it didn't have defender.</source>
-        <target state="translated">只要由你操控的生物上总共有两个或更多指示物，后巷恶棍便能视同不具守军异能地进行攻击。</target>
+        <target state="translated">只要由你操控的生物上总共有两个或更多指示物，CARDNAME便能视同不具守军异能地进行攻击。</target>
       </trans-unit>
       <trans-unit id="9d4a54bd-5598-4313-b5e6-29fd38da016a" resname="SNC·36 | Brokers Veteran | Card Name">
         <source>Brokers Veteran</source>
@@ -1579,7 +1579,7 @@
       </trans-unit>
       <trans-unit id="9d4a54bd-5598-4313-b5e6-29fd38da016a" resname="SNC·36 | Brokers Veteran | Card Text | Paragraph 1">
         <source>When CARDNAME dies, put a shield counter on target creature you control. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">当扶济社老手死去时，在目标由你操控的生物上放置一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">当CARDNAME死去时，在目标由你操控的生物上放置一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="0f9edf04-681d-45f9-975f-704154040506" resname="SNC·37 | Case the Joint | Card Name">
         <source>Case the Joint</source>
@@ -1616,7 +1616,7 @@
       </trans-unit>
       <trans-unit id="d7e530ea-ba51-4f7a-bf56-b657a48e86ae" resname="SNC·40 | Echo Inspector | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</source>
-        <target state="translated">当回响巡检员进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="61d23407-9fe0-4cbf-b4b5-bc1e132c36e4" resname="SNC·41 | Errant, Street Artist | Card Name">
         <source>Errant, Street Artist</source>
@@ -1652,7 +1652,7 @@
       </trans-unit>
       <trans-unit id="9515329a-0738-4b23-a326-ff417f47da77" resname="SNC·43 | Expendable Lackey | Card Text | Paragraph 1">
         <source>{1}{U}, Exile CARDNAME from your graveyard: Create a 1/1 blue Fish creature token with &amp;quot;This creature can't be blocked.&amp;quot; Activate only as a sorcery.</source>
-        <target state="translated">{1}{U}，从你的坟墓场放逐炮灰跟班：派出一个1/1蓝色的鱼衍生生物，且具有「此生物不能被阻挡。」只能于法术时机起动。</target>
+        <target state="translated">{1}{U}，从你的坟墓场放逐CARDNAME：派出一个1/1蓝色的鱼衍生生物，且具有「此生物不能被阻挡。」只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="69af30b3-d4b0-453a-891f-4506e06b5e14" resname="SNC·45 | Hypnotic Grifter | Card Name">
         <source>Hypnotic Grifter</source>
@@ -1660,7 +1660,7 @@
       </trans-unit>
       <trans-unit id="69af30b3-d4b0-453a-891f-4506e06b5e14" resname="SNC·45 | Hypnotic Grifter | Card Text | Paragraph 1">
         <source>{3}: CARDNAME connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</source>
-        <target state="translated">{3}：令催眠骗徒筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">{3}：令CARDNAME筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d" resname="SNC·46 | Ledger Shredder | Card Name">
         <source>Ledger Shredder</source>
@@ -1672,7 +1672,7 @@
       </trans-unit>
       <trans-unit id="7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d" resname="SNC·46 | Ledger Shredder | Card Text | Paragraph 2">
         <source>Whenever a player casts their second spell each turn, CARDNAME connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</source>
-        <target state="translated">每当任一牌手施放每回合中他的第二个咒语时，令碎帐艾文筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">每当任一牌手施放每回合中他的第二个咒语时，令CARDNAME筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="4d7424b6-b56a-47b7-8204-294d3dca925f" resname="SNC·47 | A Little Chat | Card Name">
         <source>A Little Chat</source>
@@ -1720,7 +1720,7 @@
       </trans-unit>
       <trans-unit id="67774a11-158b-437c-ac16-2d42fbb5c223" resname="SNC·50 | Obscura Initiate | Card Text | Paragraph 2">
         <source>{1}{W/B}: CARDNAME gains lifelink until end of turn.</source>
-        <target state="translated">{1}{W/B}：秘闻帮新手获得系命异能直到回合结束。</target>
+        <target state="translated">{1}{W/B}：CARDNAME获得系命异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b9d349f3-5be2-4b1f-a4c3-ba94822cf0cf" resname="SNC·51 | An Offer You Can't Refuse | Card Name">
         <source>An Offer You Can't Refuse</source>
@@ -1756,7 +1756,7 @@
       </trans-unit>
       <trans-unit id="b1e04834-7335-4b25-bedf-b7739c5c3aad" resname="SNC·53 | Psionic Snoop | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</source>
-        <target state="translated">当灵能窥探客进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="91372333-e02e-46ed-af2f-ea8b32a3e0fa" resname="SNC·A-53 | A-Psionic Snoop | Card Name">
         <source>A-Psionic Snoop</source>
@@ -1769,7 +1769,7 @@
       </trans-unit>
       <trans-unit id="956b90ca-1012-4132-bf2f-bc3825ed16ac" resname="SNC·54 | Psychic Pickpocket | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it connives. When it connives this way, return up to one target nonland permanent to its owner's hand. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</source>
-        <target state="translated">当心灵扒手进战场时，令它筹谋。当它以此法筹谋时，将至多一个目标非地永久物移回其拥有者手上。（某生物筹谋的流程是抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在该生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，令它筹谋。当它以此法筹谋时，将至多一个目标非地永久物移回其拥有者手上。（某生物筹谋的流程是抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在该生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="0e69ba61-8c16-4112-9601-fac978b88667" resname="SNC·55 | Public Enemy | Card Name">
         <source>Public Enemy</source>
@@ -1802,7 +1802,7 @@
       </trans-unit>
       <trans-unit id="53cf9152-da16-4289-9a2d-331e7b9cb839" resname="SNC·56 | Reservoir Kraken | Card Text | Paragraph 2">
         <source>At the beginning of each combat, if CARDNAME is untapped, any opponent may tap an untapped creature they control. If they do, tap CARDNAME and create a 1/1 blue Fish creature token with &amp;quot;This creature can't be blocked.&amp;quot;</source>
-        <target state="translated">在每次战斗开始时，若水库巨海兽未横置，则任意对手可以横置一个由其操控且未横置的生物。若他如此作，则你横置水库巨海兽并派出一个1/1蓝色的鱼衍生生物，且具有「此生物不能被阻挡。」</target>
+        <target state="translated">在每次战斗开始时，若CARDNAME未横置，则任意对手可以横置一个由其操控且未横置的生物。若他如此作，则你横置CARDNAME并派出一个1/1蓝色的鱼衍生生物，且具有「此生物不能被阻挡。」</target>
       </trans-unit>
       <trans-unit id="d7a84781-b40c-41e0-a0b9-86e466c9b12d" resname="SNC·57 | Rooftop Nuisance | Card Name">
         <source>Rooftop Nuisance</source>
@@ -1850,7 +1850,7 @@
       </trans-unit>
       <trans-unit id="a06ac58b-6d72-4eb4-a1c9-61b5314c7769" resname="SNC·60 | Sewer Crocodile | Card Text | Paragraph 1">
         <source>{3}{U}: CARDNAME can't be blocked this turn. This ability costs {3} less to activate if there are five or more mana values among cards in your graveyard.</source>
-        <target state="translated">{3}{U}：下水道鳄鱼本回合不能被阻挡。如果你坟墓场中牌的法术力值有五种或更多，则此异能减少{3}来起动。</target>
+        <target state="translated">{3}{U}：CARDNAME本回合不能被阻挡。如果你坟墓场中牌的法术力值有五种或更多，则此异能减少{3}来起动。</target>
       </trans-unit>
       <trans-unit id="81c9b674-b13e-4ba0-8eef-067e62db1b8a" resname="SNC·A-60 | A-Sewer Crocodile | Card Name">
         <source>A-Sewer Crocodile</source>
@@ -1867,7 +1867,7 @@
       </trans-unit>
       <trans-unit id="3742a0fb-4b86-49d6-b6fb-bd6a42fa1bcb" resname="SNC·61 | Sleep with the Fishes | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, tap enchanted creature and you create a 1/1 blue Fish creature token with &amp;quot;This creature can't be blocked.&amp;quot;</source>
-        <target state="translated">当与鱼共眠进战场时，横置所结附的生物，且你派出一个1/1蓝色的鱼衍生生物，并具有「此生物不能被阻挡。」</target>
+        <target state="translated">当CARDNAME进战场时，横置所结附的生物，且你派出一个1/1蓝色的鱼衍生生物，并具有「此生物不能被阻挡。」</target>
       </trans-unit>
       <trans-unit id="3742a0fb-4b86-49d6-b6fb-bd6a42fa1bcb" resname="SNC·61 | Sleep with the Fishes | Card Text | Paragraph 3">
         <source>Enchanted creature doesn't untap during its controller's untap step.</source>
@@ -1887,7 +1887,7 @@
       </trans-unit>
       <trans-unit id="4ecec953-ab86-409b-b618-04bb07ff3eac" resname="SNC·63 | Undercover Operative | Card Text | Paragraph 1">
         <source>You may have CARDNAME enter the battlefield as a copy of any creature on the battlefield, except it enters with a shield counter on it if you control that creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">你可以使卧底特务当成战场上任一生物的复制品来进入战场，但如果你操控后者，则卧底特务进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">你可以使CARDNAME当成战场上任一生物的复制品来进入战场，但如果你操控后者，则CARDNAME进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="b9ec36ec-1a9c-41db-b304-c23286a4d182" resname="SNC·64 | Wingshield Agent | Card Name">
         <source>Wingshield Agent</source>
@@ -1895,11 +1895,11 @@
       </trans-unit>
       <trans-unit id="b9ec36ec-1a9c-41db-b304-c23286a4d182" resname="SNC·64 | Wingshield Agent | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">翼盾密探进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">CARDNAME进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="b9ec36ec-1a9c-41db-b304-c23286a4d182" resname="SNC·64 | Wingshield Agent | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, up to one other target creature gains flying until end of turn.</source>
-        <target state="translated">每当翼盾密探攻击时，至多另一个目标生物获得飞行异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，至多另一个目标生物获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="859ed6fc-1f9a-428d-82d8-8e4b5bae6d5a" resname="SNC·65 | Wiretapping | Card Name">
         <source>Wiretapping</source>
@@ -1947,11 +1947,11 @@
       </trans-unit>
       <trans-unit id="24d7d77a-35b6-451a-af44-ecaf38facccb" resname="SNC·68 | Body Launderer | Card Text | Paragraph 2">
         <source>Whenever another nontoken creature you control dies, CARDNAME connives.</source>
-        <target state="translated">每当另一个由你操控且非衍生物的生物死去时，令洁尸客筹谋。</target>
+        <target state="translated">每当另一个由你操控且非衍生物的生物死去时，令CARDNAME筹谋。</target>
       </trans-unit>
       <trans-unit id="24d7d77a-35b6-451a-af44-ecaf38facccb" resname="SNC·68 | Body Launderer | Card Text | Paragraph 3">
         <source>When CARDNAME dies, return another target non-Rogue creature card with equal or lesser power from your graveyard to the battlefield.</source>
-        <target state="translated">当洁尸客死去时，将另一张目标力量等于或小于它的非浪客生物牌从你的坟墓场移回战场。</target>
+        <target state="translated">当CARDNAME死去时，将另一张目标力量等于或小于它的非浪客生物牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="6c6e8d37-badd-4b9a-94e5-2d50ec78182c" resname="SNC·69 | Cemetery Tampering | Card Name">
         <source>Cemetery Tampering</source>
@@ -1971,7 +1971,7 @@
       </trans-unit>
       <trans-unit id="723d6f60-3e8a-4c58-8b3c-9ba59a01c867" resname="SNC·71 | Crooked Custodian | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">护管帮众须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="80e86078-1629-40dc-88a9-102c543255b8" resname="SNC·72 | Cut of the Profits | Card Name">
         <source>Cut of the Profits</source>
@@ -1991,7 +1991,7 @@
       </trans-unit>
       <trans-unit id="6b23b3e4-58cf-4b5d-bdcb-410a403b4987" resname="SNC·73 | Cutthroat Contender | Card Text | Paragraph 1">
         <source>Pay 1 life: CARDNAME gets +1/+0 until end of turn. Activate only once each turn.</source>
-        <target state="translated">支付1点生命：割喉竞技者得+1/+0直到回合结束。每回合只能起动一次。</target>
+        <target state="translated">支付1点生命：CARDNAME得+1/+0直到回合结束。每回合只能起动一次。</target>
       </trans-unit>
       <trans-unit id="3359f13d-9946-49fa-b621-28b1ea714e55" resname="SNC·74 | Deal Gone Bad | Card Name">
         <source>Deal Gone Bad</source>
@@ -2043,7 +2043,7 @@
       </trans-unit>
       <trans-unit id="b86825b2-5b03-4311-b7d9-f8131b17249d" resname="SNC·77 | Dusk Mangler | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, each opponent sacrifices a creature, discards a card, and loses 4 life.</source>
-        <target state="translated">当薄暮破坏妖进战场时，每位对手各牺牲一个生物、弃一张牌且失去4点生命。</target>
+        <target state="translated">当CARDNAME进战场时，每位对手各牺牲一个生物、弃一张牌且失去4点生命。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="2bdb9df1-4475-45e7-bc9c-40937c8c1722" resname="SNC·78 | Extract the Truth | Card Name">
@@ -2076,7 +2076,7 @@
       </trans-unit>
       <trans-unit id="4bfd6449-31a1-4572-8f9c-3f6f4670dc9d" resname="SNC·80 | Girder Goons | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a tapped 2/2 black Rogue creature token.</source>
-        <target state="translated">当扛梁蛮汉死去时，派出一个已横置的2/2黑色浪客衍生生物。</target>
+        <target state="translated">当CARDNAME死去时，派出一个已横置的2/2黑色浪客衍生生物。</target>
       </trans-unit>
       <trans-unit id="4bfd6449-31a1-4572-8f9c-3f6f4670dc9d" resname="SNC·80 | Girder Goons | Card Text | Paragraph 2">
         <source>Blitz {3}{B} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -2109,7 +2109,7 @@
       </trans-unit>
       <trans-unit id="6322e12d-b932-4ca1-a51d-e2a928140cc7" resname="SNC·82 | Grisly Sigil | Card Text | Paragraph 2">
         <source>Choose target creature or planeswalker. If it was dealt noncombat damage this turn, CARDNAME deals 3 damage to it and you gain 3 life. Otherwise, CARDNAME deals 1 damage to it and you gain 1 life.</source>
-        <target state="translated">选择目标生物或鹏洛客。如果它本回合中受过非战斗伤害，则恐怖印记对它造成3点伤害且你获得3点生命。若否，则恐怖印记对它造成1点伤害且你获得1点生命。</target>
+        <target state="translated">选择目标生物或鹏洛客。如果它本回合中受过非战斗伤害，则CARDNAME对它造成3点伤害且你获得3点生命。若否，则CARDNAME对它造成1点伤害且你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="1f7cced2-390b-499f-ace3-e52fd53d4712" resname="SNC·83 | Illicit Shipment | Card Name">
         <source>Illicit Shipment</source>
@@ -2154,7 +2154,7 @@
       </trans-unit>
       <trans-unit id="db94f2a9-53be-449e-8240-77f013cdd7e3" resname="SNC·86 | Maestros Initiate | Card Text | Paragraph 1">
         <source>{4}{U/R}, Exile CARDNAME from your graveyard: Draw two cards, then discard a card.</source>
-        <target state="translated">{4}{U/R}，从你的坟墓场放逐绝艺盟新手：抓两张牌，然后弃一张牌。</target>
+        <target state="translated">{4}{U/R}，从你的坟墓场放逐CARDNAME：抓两张牌，然后弃一张牌。</target>
       </trans-unit>
       <trans-unit id="02a4a5b3-0477-4709-8bce-3e01f54001b6" resname="SNC·87 | Midnight Assassin | Card Name">
         <source>Midnight Assassin</source>
@@ -2175,7 +2175,7 @@
       </trans-unit>
       <trans-unit id="59fd3f8a-a13b-4a0a-bb27-b9246949ea7b" resname="SNC·89 | Night Clubber | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, creatures your opponents control get -1/-1 until end of turn.</source>
-        <target state="translated">当暗夜使棍手进战场时，由对手操控的生物得-1/-1直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，由对手操控的生物得-1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="59fd3f8a-a13b-4a0a-bb27-b9246949ea7b" resname="SNC·89 | Night Clubber | Card Text | Paragraph 2">
         <source>Blitz {2}{B} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -2187,11 +2187,11 @@
       </trans-unit>
       <trans-unit id="4ba72399-c827-43f3-b072-08597dbafb2d" resname="SNC·90 | Raffine's Silencer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</source>
-        <target state="translated">当拉斐茵的销音客进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="4ba72399-c827-43f3-b072-08597dbafb2d" resname="SNC·90 | Raffine's Silencer | Card Text | Paragraph 2">
         <source>When CARDNAME dies, target creature an opponent controls gets -X/-X until end of turn, where X is CARDNAME's power.</source>
-        <target state="translated">当拉斐茵的销音客死去时，目标由对手操控的生物得-X/-X直到回合结束，X为拉斐茵的销音客的力量。</target>
+        <target state="translated">当CARDNAME死去时，目标由对手操控的生物得-X/-X直到回合结束，X为CARDNAME的力量。</target>
       </trans-unit>
       <trans-unit id="e3fbe7f0-8a91-4832-8953-54ab3669372c" resname="SNC·91 | Revel Ruiner | Card Name">
         <source>Revel Ruiner</source>
@@ -2203,7 +2203,7 @@
       </trans-unit>
       <trans-unit id="e3fbe7f0-8a91-4832-8953-54ab3669372c" resname="SNC·91 | Revel Ruiner | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</source>
-        <target state="translated">当盛宴搅局客进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="c1fe4c78-41da-4643-841f-07d54670f1be" resname="SNC·A-91 | A-Revel Ruiner | Card Name">
         <source>A-Revel Ruiner</source>
@@ -2252,7 +2252,7 @@
       </trans-unit>
       <trans-unit id="ce418184-a672-46bc-a17d-c559614defb5" resname="SNC·95 | Shakedown Heavy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, defending player may have you draw a card. If they do, untap CARDNAME and remove it from combat.</source>
-        <target state="translated">每当搜探壮汉攻击时，防御牌手可以令你抓一张牌。若他如此作，则重置搜探壮汉并将其移出战斗。</target>
+        <target state="translated">每当CARDNAME攻击时，防御牌手可以令你抓一张牌。若他如此作，则重置CARDNAME并将其移出战斗。</target>
       </trans-unit>
       <trans-unit id="9b6a6d00-3e00-4827-8420-13343ac3d0fd" resname="SNC·97 | Tenacious Underdog | Card Name">
         <source>Tenacious Underdog</source>
@@ -2264,7 +2264,7 @@
       </trans-unit>
       <trans-unit id="9b6a6d00-3e00-4827-8420-13343ac3d0fd" resname="SNC·97 | Tenacious Underdog | Card Text | Paragraph 2">
         <source>You may cast CARDNAME from your graveyard using its blitz ability.</source>
-        <target state="translated">你可以从你的坟墓场中利用顽强败犬的急袭异能来施放之。</target>
+        <target state="translated">你可以从你的坟墓场中利用CARDNAME的急袭异能来施放之。</target>
       </trans-unit>
       <trans-unit id="702315d7-dec9-49e8-a508-feacd47198dc" resname="SNC·98 | Vampire Scrivener | Card Name">
         <source>Vampire Scrivener</source>
@@ -2276,11 +2276,11 @@
       </trans-unit>
       <trans-unit id="702315d7-dec9-49e8-a508-feacd47198dc" resname="SNC·98 | Vampire Scrivener | Card Text | Paragraph 2">
         <source>Whenever you gain life during your turn, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你于你的回合中获得生命时，在吸血书记员上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你于你的回合中获得生命时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="702315d7-dec9-49e8-a508-feacd47198dc" resname="SNC·98 | Vampire Scrivener | Card Text | Paragraph 3">
         <source>Whenever you lose life during your turn, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你于你的回合中失去生命时，在吸血书记员上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你于你的回合中失去生命时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="7daf9711-4064-4f09-9371-aa1165d3d1db" resname="SNC·A-98 | A-Vampire Scrivener | Card Name">
         <source>A-Vampire Scrivener</source>
@@ -2313,7 +2313,7 @@
       </trans-unit>
       <trans-unit id="31f1b2bd-fe06-45ec-99dc-ff357a7a31d2" resname="SNC·101 | Arcane Bombardment | Card Text | Paragraph 1">
         <source>Whenever you cast your first instant or sorcery spell each turn, exile an instant or sorcery card at random from your graveyard. Then copy each card exiled with CARDNAME. You may cast any number of the copies without paying their mana costs.</source>
-        <target state="translated">每当你施放每回合中你的第一个瞬间或法术咒语时，随机从你的坟墓场放逐一张瞬间或法术牌。然后复制每张以秘法轰炸放逐的牌。你可以施放任意数量的复制品，且不需支付其法术力费用。</target>
+        <target state="translated">每当你施放每回合中你的第一个瞬间或法术咒语时，随机从你的坟墓场放逐一张瞬间或法术牌。然后复制每张以CARDNAME放逐的牌。你可以施放任意数量的复制品，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="39d1578f-e2cf-4b93-8204-ed5434feb183" resname="SNC·102 | Big Score | Card Name">
         <source>Big Score</source>
@@ -2336,7 +2336,7 @@
       </trans-unit>
       <trans-unit id="ead68c0a-eed1-4a9c-a790-56f8a79b444c" resname="SNC·103 | Call In a Professional | Card Text | Paragraph 1">
         <source>Players can't gain life this turn. Damage can't be prevented this turn. CARDNAME deals 3 damage to any target. (Shield counters don't prevent this damage as they're removed.)</source>
-        <target state="translated">本回合中，牌手不能获得生命。本回合中，伤害不能被防止。找来行家对任意一个目标造成3点伤害。（此时仍要移去后盾指示物，但如此也无法防止伤害。）</target>
+        <target state="translated">本回合中，牌手不能获得生命。本回合中，伤害不能被防止。CARDNAME对任意一个目标造成3点伤害。（此时仍要移去后盾指示物，但如此也无法防止伤害。）</target>
       </trans-unit>
       <trans-unit id="3d09dbcd-188b-4b52-943e-947cbf2c0002" resname="SNC·104 | Daring Escape | Card Name">
         <source>Daring Escape</source>
@@ -2356,7 +2356,7 @@
       </trans-unit>
       <trans-unit id="45d3fc69-6c5e-4ede-9f8d-c1cee096a78a" resname="SNC·105 | Devilish Valet | Card Text | Paragraph 2">
         <source>Alliance — Whenever another creature enters the battlefield under your control, double CARDNAME's power until end of turn.</source>
-        <target state="translated">联手～每当另一个生物在你的操控下进战场时，将魔鬼侍应的力量加倍直到回合结束。</target>
+        <target state="translated">联手～每当另一个生物在你的操控下进战场时，将CARDNAME的力量加倍直到回合结束。</target>
       </trans-unit>
       <trans-unit id="cbb4479f-3157-44b4-b18b-7553c7513118" resname="SNC·106 | Exhibition Magician | Card Name">
         <source>Exhibition Magician</source>
@@ -2364,7 +2364,7 @@
       </trans-unit>
       <trans-unit id="cbb4479f-3157-44b4-b18b-7553c7513118" resname="SNC·106 | Exhibition Magician | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one —</source>
-        <target state="translated">当登台魔术师进战场时，选择一项～</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～</target>
       </trans-unit>
       <trans-unit id="cbb4479f-3157-44b4-b18b-7553c7513118" resname="SNC·106 | Exhibition Magician | Card Text | Paragraph 2">
         <source>• Create a 1/1 green and white Citizen creature token.</source>
@@ -2385,11 +2385,11 @@
       </trans-unit>
       <trans-unit id="973685e8-3df1-436b-b5c2-01573a92b61e" resname="SNC·107 | Glittering Stockpile | Card Text | Paragraph 1">
         <source>{T}: Add {R}. Put a stash counter on CARDNAME.</source>
-        <target state="translated">{T}：加{R}。在金光宝堆上放置一个匿物指示物。</target>
+        <target state="translated">{T}：加{R}。在CARDNAME上放置一个匿物指示物。</target>
       </trans-unit>
       <trans-unit id="973685e8-3df1-436b-b5c2-01573a92b61e" resname="SNC·107 | Glittering Stockpile | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Add X mana of any one color, where X is the number of stash counters on CARDNAME.</source>
-        <target state="translated">{T}，牺牲金光宝堆：加X点任意颜色的单色法术力，X为金光宝堆上的匿物指示物数量。</target>
+        <target state="translated">{T}，牺牲CARDNAME：加X点任意颜色的单色法术力，X为CARDNAME上的匿物指示物数量。</target>
       </trans-unit>
       <trans-unit id="c059e4b4-1542-4b5c-810a-9f0abac5792b" resname="SNC·108 | Goldhound | Card Name">
         <source>Goldhound</source>
@@ -2408,7 +2408,7 @@
       </trans-unit>
       <trans-unit id="c059e4b4-1542-4b5c-810a-9f0abac5792b" resname="SNC·108 | Goldhound | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add one mana of any color.</source>
-        <target state="translated">{T}，牺牲金辉猎犬：加一点任意颜色的法术力。</target>
+        <target state="translated">{T}，牺牲CARDNAME：加一点任意颜色的法术力。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="19f190e9-52f3-4e34-8fb6-88174c189ee7" resname="SNC·109 | Hoard Hauler | Card Name">
@@ -2421,7 +2421,7 @@
       </trans-unit>
       <trans-unit id="19f190e9-52f3-4e34-8fb6-88174c189ee7" resname="SNC·109 | Hoard Hauler | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, create a Treasure token for each artifact they control.</source>
-        <target state="translated">每当藏品搬运车对任一牌手造成战斗伤害时，他每操控一个神器，你便派出一个珍宝衍生物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，他每操控一个神器，你便派出一个珍宝衍生物。</target>
       </trans-unit>
       <trans-unit id="19f190e9-52f3-4e34-8fb6-88174c189ee7" resname="SNC·109 | Hoard Hauler | Card Text | Paragraph 3">
         <source>Crew 3</source>
@@ -2474,7 +2474,7 @@
       </trans-unit>
       <trans-unit id="ee31d56a-9b7e-4de0-81cb-3b7c76b6fbd5" resname="SNC·113 | Light 'Em Up | Card Text | Paragraph 2">
         <source>CARDNAME deals 2 damage to target creature or planeswalker.</source>
-        <target state="translated">全烧光对目标生物或鹏洛客造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="50162cdd-ba30-48df-93ff-197c7f4a2913" resname="SNC·114 | Mayhem Patrol | Card Name">
         <source>Mayhem Patrol</source>
@@ -2486,7 +2486,7 @@
       </trans-unit>
       <trans-unit id="50162cdd-ba30-48df-93ff-197c7f4a2913" resname="SNC·114 | Mayhem Patrol | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, target creature gets +1/+0 until end of turn.</source>
-        <target state="translated">每当破坏巡卫攻击时，目标生物得+1/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，目标生物得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="50162cdd-ba30-48df-93ff-197c7f4a2913" resname="SNC·114 | Mayhem Patrol | Card Text | Paragraph 3">
         <source>Blitz {1}{R} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -2498,7 +2498,7 @@
       </trans-unit>
       <trans-unit id="741ed811-cbcd-4178-a874-dc79d2a5d6f1" resname="SNC·115 | Plasma Jockey | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, target creature an opponent controls can't block this turn.</source>
-        <target state="translated">每当电浆操纵手攻击时，目标由对手操控的生物本回合不能进行阻挡。</target>
+        <target state="translated">每当CARDNAME攻击时，目标由对手操控的生物本回合不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="741ed811-cbcd-4178-a874-dc79d2a5d6f1" resname="SNC·115 | Plasma Jockey | Card Text | Paragraph 2">
         <source>Blitz {2}{R} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -2530,7 +2530,7 @@
       </trans-unit>
       <trans-unit id="d98022d2-3b46-41f4-8f31-0a238d881ac6" resname="SNC·117 | Pugnacious Pugilist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, create a tapped and attacking 1/1 red Devil creature token with &amp;quot;When this creature dies, it deals 1 damage to any target.&amp;quot;</source>
-        <target state="translated">每当好斗拳师攻击时，派出一个1/1红色魔鬼衍生生物，其为已横置且正进行攻击，并具有「当此生物死去时，它对任意一个目标造成1点伤害。」</target>
+        <target state="translated">每当CARDNAME攻击时，派出一个1/1红色魔鬼衍生生物，其为已横置且正进行攻击，并具有「当此生物死去时，它对任意一个目标造成1点伤害。」</target>
       </trans-unit>
       <trans-unit id="d98022d2-3b46-41f4-8f31-0a238d881ac6" resname="SNC·117 | Pugnacious Pugilist | Card Text | Paragraph 2">
         <source>Blitz {3}{R} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -2543,7 +2543,7 @@
       </trans-unit>
       <trans-unit id="33c5fd3e-3799-4535-8c33-9c567f4f5709" resname="SNC·118 | Pyre-Sledge Arsonist | Card Text | Paragraph 1">
         <source>{1}, {T}: CARDNAME deals X damage to any target, where X is the number of permanents you've sacrificed this turn.</source>
-        <target state="translated">{1}，{T}：葬火锤纵燃师对任意一个目标造成X点伤害，X为你本回合中已牺牲的永久物数量。</target>
+        <target state="translated">{1}，{T}：CARDNAME对任意一个目标造成X点伤害，X为你本回合中已牺牲的永久物数量。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="6016155a-d694-45af-bd05-1b2d8046d993" resname="SNC·A-118 | A-Pyre-Sledge Arsonist | Card Name">
@@ -2561,7 +2561,7 @@
       </trans-unit>
       <trans-unit id="16998689-345d-41e3-a368-e97b696ed689" resname="SNC·119 | Ready to Rumble | Card Text | Paragraph 2">
         <source>• CARDNAME deals 5 damage to target creature or planeswalker.</source>
-        <target state="translated">•准备出击对目标生物或鹏洛客造成5点伤害。</target>
+        <target state="translated">•CARDNAME对目标生物或鹏洛客造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="16998689-345d-41e3-a368-e97b696ed689" resname="SNC·119 | Ready to Rumble | Card Text | Paragraph 3">
         <source>• Destroy target artifact.</source>
@@ -2578,7 +2578,7 @@
       </trans-unit>
       <trans-unit id="e2e65a50-d2bc-43a0-a9d4-0e846d170f78" resname="SNC·120 | Riveteers Initiate | Card Text | Paragraph 1">
         <source>{1}{B/G}: CARDNAME gains deathtouch until end of turn.</source>
-        <target state="translated">{1}{B/G}：勤工联新手获得死触异能直到回合结束。</target>
+        <target state="translated">{1}{B/G}：CARDNAME获得死触异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c62e39e3-f266-41ac-a0c3-3dce45e783f7" resname="SNC·A-120 | A-Riveteers Initiate | Card Name">
         <source>A-Riveteers Initiate</source>
@@ -2591,7 +2591,7 @@
       </trans-unit>
       <trans-unit id="8ab5152d-767a-47d5-acfc-f439810aaeea" resname="SNC·121 | Riveteers Requisitioner | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">当勤工联征用客死去时，派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">当CARDNAME死去时，派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="8ab5152d-767a-47d5-acfc-f439810aaeea" resname="SNC·121 | Riveteers Requisitioner | Card Text | Paragraph 2">
         <source>Blitz {2}{R} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -2644,7 +2644,7 @@
       </trans-unit>
       <trans-unit id="4b91d727-c0ee-4bf0-8c7d-8475ecb88083" resname="SNC·125 | Strangle | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature or planeswalker.</source>
-        <target state="translated">勒颈对目标生物或鹏洛客造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="cbdb50e3-fe15-4431-b9bd-c4de65820734" resname="SNC·126 | Structural Assault | Card Name">
         <source>Structural Assault</source>
@@ -2652,7 +2652,7 @@
       </trans-unit>
       <trans-unit id="cbdb50e3-fe15-4431-b9bd-c4de65820734" resname="SNC·126 | Structural Assault | Card Text | Paragraph 1">
         <source>Destroy all artifacts, then CARDNAME deals damage to each creature equal to the number of artifacts that were put into graveyards from the battlefield this turn.</source>
-        <target state="translated">消灭所有神器，然后摧朽突袭对每个生物各造成伤害，其数量等同于本回合中从战场进入坟墓场的神器数量。</target>
+        <target state="translated">消灭所有神器，然后CARDNAME对每个生物各造成伤害，其数量等同于本回合中从战场进入坟墓场的神器数量。</target>
       </trans-unit>
       <trans-unit id="d9fbd4a8-c44c-42fc-b946-bdc7e20e1668" resname="SNC·127 | Torch Breath | Card Name">
         <source>Torch Breath</source>
@@ -2668,7 +2668,7 @@
       </trans-unit>
       <trans-unit id="d9fbd4a8-c44c-42fc-b946-bdc7e20e1668" resname="SNC·127 | Torch Breath | Card Text | Paragraph 3">
         <source>CARDNAME deals X damage to target creature or planeswalker.</source>
-        <target state="translated">焰炬吐息对目标生物或鹏洛客造成X点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="ec6430c0-67c1-4793-b4be-8f47545c57d6" resname="SNC·128 | Unlucky Witness | Card Name">
         <source>Unlucky Witness</source>
@@ -2676,7 +2676,7 @@
       </trans-unit>
       <trans-unit id="ec6430c0-67c1-4793-b4be-8f47545c57d6" resname="SNC·128 | Unlucky Witness | Card Text | Paragraph 1">
         <source>When CARDNAME dies, exile the top two cards of your library. Until your next end step, you may play one of those cards.</source>
-        <target state="translated">当倒楣见证人死去时，放逐你牌库顶的两张牌。直到你的下一个结束步骤，你可以使用其中的一张。</target>
+        <target state="translated">当CARDNAME死去时，放逐你牌库顶的两张牌。直到你的下一个结束步骤，你可以使用其中的一张。</target>
       </trans-unit>
       <trans-unit id="d9a4ec18-1da4-43c6-a79a-03fbd4aef3db" resname="SNC·129 | Urabrask, Heretic Praetor | Card Name">
         <source>Urabrask, Heretic Praetor</source>
@@ -2712,7 +2712,7 @@
       </trans-unit>
       <trans-unit id="71d13f19-482b-4a2e-9692-b7d7caf2f9f5" resname="SNC·131 | Witty Roastmaster | Card Text | Paragraph 1">
         <source>Alliance — Whenever another creature enters the battlefield under your control, CARDNAME deals 1 damage to each opponent.</source>
-        <target state="translated">联手～每当另一个生物在你的操控下进战场时，诙谐损言师向每位对手各造成1点伤害。</target>
+        <target state="translated">联手～每当另一个生物在你的操控下进战场时，CARDNAME向每位对手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="92691507-b1ce-40d0-87e7-b79e81370511" resname="SNC·132 | Wrecking Crew | Card Name">
         <source>Wrecking Crew</source>
@@ -2728,7 +2728,7 @@
       </trans-unit>
       <trans-unit id="8bccccf9-3ee5-4485-ae01-4dcbad989d18" resname="SNC·133 | Attended Socialite | Card Text | Paragraph 1">
         <source>Alliance — Whenever another creature enters the battlefield under your control, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">联手～每当另一个生物在你的操控下进战场时，偕伴名流得+1/+1直到回合结束。</target>
+        <target state="translated">联手～每当另一个生物在你的操控下进战场时，CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="80b5b7e1-52c2-4453-b3c0-efe2cebad6ce" resname="SNC·134 | Bootleggers' Stash | Card Name">
         <source>Bootleggers' Stash</source>
@@ -2748,7 +2748,7 @@
       </trans-unit>
       <trans-unit id="54772e15-d99d-4eec-ba8d-b9202a7e318b" resname="SNC·135 | Bouncer's Beatdown | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage to target creature or planeswalker, where X is the greatest power among creatures you control. If that creature or planeswalker would die this turn, exile it instead.</source>
-        <target state="translated">保镖强击对目标生物或鹏洛客造成X点伤害，X为由你操控之生物中的最大力量。如果本回合中该生物或鹏洛客将死去，则改为将它放逐。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成X点伤害，X为由你操控之生物中的最大力量。如果本回合中该生物或鹏洛客将死去，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="6c691f62-009b-4178-8e8b-d6e88229a282" resname="SNC·137 | Cabaretti Initiate | Card Name">
         <source>Cabaretti Initiate</source>
@@ -2756,7 +2756,7 @@
       </trans-unit>
       <trans-unit id="6c691f62-009b-4178-8e8b-d6e88229a282" resname="SNC·137 | Cabaretti Initiate | Card Text | Paragraph 1">
         <source>{2}{R/W}: CARDNAME gains double strike until end of turn.</source>
-        <target state="translated">{2}{R/W}：乐舞会新手获得连击异能直到回合结束。</target>
+        <target state="translated">{2}{R/W}：CARDNAME获得连击异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="58b431d2-33c1-49d8-b45d-690c174bb456" resname="SNC·138 | Caldaia Strongarm | Card Name">
         <source>Caldaia Strongarm</source>
@@ -2764,7 +2764,7 @@
       </trans-unit>
       <trans-unit id="58b431d2-33c1-49d8-b45d-690c174bb456" resname="SNC·138 | Caldaia Strongarm | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put two +1/+1 counters on target creature.</source>
-        <target state="translated">当柯达亚强人进战场时，在目标生物上放置两个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在目标生物上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="58b431d2-33c1-49d8-b45d-690c174bb456" resname="SNC·138 | Caldaia Strongarm | Card Text | Paragraph 2">
         <source>Blitz {3}{G} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -2776,7 +2776,7 @@
       </trans-unit>
       <trans-unit id="b5530b04-f086-4d09-97e9-eda45f8b1f7b" resname="SNC·139 | Capenna Express | Card Text | Paragraph 1">
         <source>Sacrifice a Treasure: CARDNAME becomes an artifact creature until end of turn.</source>
-        <target state="translated">牺牲一个珍宝：卡佩纳特快成为神器生物直到回合结束。</target>
+        <target state="translated">牺牲一个珍宝：CARDNAME成为神器生物直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b5530b04-f086-4d09-97e9-eda45f8b1f7b" resname="SNC·139 | Capenna Express | Card Text | Paragraph 2">
         <source>Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</source>
@@ -2793,7 +2793,7 @@
       </trans-unit>
       <trans-unit id="f58d39d7-62bf-43c8-97b3-0f9069af0e29" resname="SNC·140 | Civic Gardener | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, untap target creature or land.</source>
-        <target state="translated">每当公地园丁攻击时，重置目标生物或地。</target>
+        <target state="translated">每当CARDNAME攻击时，重置目标生物或地。</target>
       </trans-unit>
       <trans-unit id="5354868b-c96b-4765-b0c8-8895093e4019" resname="SNC·141 | Cleanup Crew | Card Name">
         <source>Cleanup Crew</source>
@@ -2801,7 +2801,7 @@
       </trans-unit>
       <trans-unit id="5354868b-c96b-4765-b0c8-8895093e4019" resname="SNC·141 | Cleanup Crew | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one —</source>
-        <target state="translated">当清理工组进战场时，选择一项～</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～</target>
       </trans-unit>
       <trans-unit id="5354868b-c96b-4765-b0c8-8895093e4019" resname="SNC·141 | Cleanup Crew | Card Text | Paragraph 2">
         <source>• Destroy target artifact.</source>
@@ -2825,15 +2825,15 @@
       </trans-unit>
       <trans-unit id="2f375674-7ae2-4430-b1f3-c26fa5b201d1" resname="SNC·142 | Courier's Briefcase | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 green and white Citizen creature token.</source>
-        <target state="translated">当讯使提箱进战场时，派出一个1/1，绿白双色的市民衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1，绿白双色的市民衍生生物。</target>
       </trans-unit>
       <trans-unit id="2f375674-7ae2-4430-b1f3-c26fa5b201d1" resname="SNC·142 | Courier's Briefcase | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Add one mana of any color.</source>
-        <target state="translated">{T}，牺牲讯使提箱：加一点任意颜色的法术力。</target>
+        <target state="translated">{T}，牺牲CARDNAME：加一点任意颜色的法术力。</target>
       </trans-unit>
       <trans-unit id="2f375674-7ae2-4430-b1f3-c26fa5b201d1" resname="SNC·142 | Courier's Briefcase | Card Text | Paragraph 3">
         <source>{W}{U}{B}{R}{G}, {T}, Sacrifice CARDNAME: Draw three cards.</source>
-        <target state="translated">{W}{U}{B}{R}{G}，{T}，牺牲讯使提箱：抓三张牌。</target>
+        <target state="translated">{W}{U}{B}{R}{G}，{T}，牺牲CARDNAME：抓三张牌。</target>
       </trans-unit>
       <trans-unit id="e9d3500e-09ba-48b6-933f-25b4625b79aa" resname="SNC·143 | Elegant Entourage | Card Name">
         <source>Elegant Entourage</source>
@@ -2841,7 +2841,7 @@
       </trans-unit>
       <trans-unit id="e9d3500e-09ba-48b6-933f-25b4625b79aa" resname="SNC·143 | Elegant Entourage | Card Text | Paragraph 1">
         <source>Alliance — Whenever another creature enters the battlefield under your control, target creature other than CARDNAME gets +1/+1 and gains trample until end of turn.</source>
-        <target state="translated">联手～每当另一个生物在你的操控下进战场时，直到回合结束，目标优雅随从以外的生物得+1/+1且获得践踏异能。</target>
+        <target state="translated">联手～每当另一个生物在你的操控下进战场时，直到回合结束，目标CARDNAME以外的生物得+1/+1且获得践踏异能。</target>
       </trans-unit>
       <trans-unit id="01bc3b04-46b7-43df-9b29-1502b9f18bbf" resname="SNC·144 | Evolving Door | Card Name">
         <source>Evolving Door</source>
@@ -2877,7 +2877,7 @@
       </trans-unit>
       <trans-unit id="570f7c90-109b-4d6d-8205-d158753719e8" resname="SNC·147 | Freelance Muscle | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks or blocks, it gets +X/+X until end of turn, where X is the greatest power and/or toughness among other creatures you control.</source>
-        <target state="translated">每当包工打手进行攻击或阻挡时，它得+X/+X直到回合结束，X为由你操控之其他生物中的最大力量和／或防御力。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，它得+X/+X直到回合结束，X为由你操控之其他生物中的最大力量和／或防御力。</target>
       </trans-unit>
       <trans-unit id="3c1baaa2-bd0b-4627-b93a-0753e0acd0f2" resname="SNC·148 | Gala Greeters | Card Name">
         <source>Gala Greeters</source>
@@ -2889,7 +2889,7 @@
       </trans-unit>
       <trans-unit id="3c1baaa2-bd0b-4627-b93a-0753e0acd0f2" resname="SNC·148 | Gala Greeters | Card Text | Paragraph 2">
         <source>• Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">•在晚会招待上放置一个+1/+1指示物。</target>
+        <target state="translated">•在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="3c1baaa2-bd0b-4627-b93a-0753e0acd0f2" resname="SNC·148 | Gala Greeters | Card Text | Paragraph 3">
         <source>• Create a tapped Treasure token.</source>
@@ -2922,7 +2922,7 @@
       </trans-unit>
       <trans-unit id="2399c6d7-57f9-4100-ad64-3c8897a438f7" resname="SNC·150 | High-Rise Sawjack | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks a creature with flying, CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">每当高空链锯工阻挡一个具飞行异能的生物时，高空链锯工得+2/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME阻挡一个具飞行异能的生物时，CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="287079a9-d2ae-4ba8-b74b-6cd49c0f4109" resname="SNC·A-150 | A-High-Rise Sawjack | Card Name">
         <source>A-High-Rise Sawjack</source>
@@ -2939,7 +2939,7 @@
       </trans-unit>
       <trans-unit id="736e498e-1245-40c1-96a4-c9bcfd1cfe1f" resname="SNC·151 | Jewel Thief | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">当珠宝盗贼进战场时，派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="b3e0e818-db6a-453a-a1f0-a7fade6509d3" resname="SNC·152 | Luxurious Libation | Card Name">
         <source>Luxurious Libation</source>
@@ -2992,11 +2992,11 @@
       </trans-unit>
       <trans-unit id="c99f5b02-16b9-4672-b0ec-f77662e9de76" resname="SNC·155 | Rhox Pummeler | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">猛击罗克进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">CARDNAME进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="c99f5b02-16b9-4672-b0ec-f77662e9de76" resname="SNC·155 | Rhox Pummeler | Card Text | Paragraph 2">
         <source>CARDNAME has trample as long as it has a shield counter on it.</source>
-        <target state="translated">只要猛击罗克上有后盾指示物，它便具有践踏异能。</target>
+        <target state="translated">只要CARDNAME上有后盾指示物，它便具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="2d21701b-6a99-4e1c-82b2-0219f170b09f" resname="SNC·156 | Riveteers Decoy | Card Name">
         <source>Riveteers Decoy</source>
@@ -3004,7 +3004,7 @@
       </trans-unit>
       <trans-unit id="2d21701b-6a99-4e1c-82b2-0219f170b09f" resname="SNC·156 | Riveteers Decoy | Card Text | Paragraph 1">
         <source>CARDNAME must be blocked if able.</source>
-        <target state="translated">若能阻挡勤工联诱兵，则必须阻挡之。</target>
+        <target state="translated">若能阻挡CARDNAME，则必须阻挡之。</target>
       </trans-unit>
       <trans-unit id="2d21701b-6a99-4e1c-82b2-0219f170b09f" resname="SNC·156 | Riveteers Decoy | Card Text | Paragraph 2">
         <source>Blitz {3}{G} (If you cast this spell for its blitz cost, it gains haste and &amp;quot;When this creature dies, draw a card.&amp;quot; Sacrifice it at the beginning of the next end step.)</source>
@@ -3041,7 +3041,7 @@
       </trans-unit>
       <trans-unit id="5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f" resname="SNC·159 | Titan of Industry | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, choose two —</source>
-        <target state="translated">当工业泰坦进战场时，选择两项～</target>
+        <target state="translated">当CARDNAME进战场时，选择两项～</target>
       </trans-unit>
       <trans-unit id="5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f" resname="SNC·159 | Titan of Industry | Card Text | Paragraph 3">
         <source>• Destroy target artifact or enchantment.</source>
@@ -3069,11 +3069,11 @@
       </trans-unit>
       <trans-unit id="87bb2699-280f-4e1e-b3f8-73efe6088f31" resname="SNC·160 | Topiary Stomper | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">当绿雕跺地兽进战场时，从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="87bb2699-280f-4e1e-b3f8-73efe6088f31" resname="SNC·160 | Topiary Stomper | Card Text | Paragraph 3">
         <source>CARDNAME can't attack or block unless you control seven or more lands.</source>
-        <target state="translated">除非你操控七个或更多地，否则绿雕跺地兽不能进行攻击或阻挡。</target>
+        <target state="translated">除非你操控七个或更多地，否则CARDNAME不能进行攻击或阻挡。</target>
       </trans-unit>
       <trans-unit id="04897d8c-ee05-45eb-80f7-76487dbcc449" resname="SNC·161 | Venom Connoisseur | Card Name">
         <source>Venom Connoisseur</source>
@@ -3081,7 +3081,7 @@
       </trans-unit>
       <trans-unit id="04897d8c-ee05-45eb-80f7-76487dbcc449" resname="SNC·161 | Venom Connoisseur | Card Text | Paragraph 1">
         <source>Alliance — Whenever another creature enters the battlefield under your control, CARDNAME gains deathtouch until end of turn. If this is the second time this ability has resolved this turn, all creatures you control gain deathtouch until end of turn.</source>
-        <target state="translated">联手～每当另一个生物在你的操控下进战场时，毒液鉴赏家获得死触异能直到回合结束。如果这是此异能在本回合第二次的结算，则所有由你操控的生物获得死触异能直到回合结束。</target>
+        <target state="translated">联手～每当另一个生物在你的操控下进战场时，CARDNAME获得死触异能直到回合结束。如果这是此异能在本回合第二次的结算，则所有由你操控的生物获得死触异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5edfb119-abc9-4d4d-bc46-33cce1a0922d" resname="SNC·162 | Vivien on the Hunt | Card Name">
         <source>Vivien on the Hunt</source>
@@ -3105,11 +3105,11 @@
       </trans-unit>
       <trans-unit id="bfe4e0eb-23a5-46a5-b719-5a6f9a1fc4ce" resname="SNC·163 | Voice of the Vermin | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">兽性传声人进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">CARDNAME进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="bfe4e0eb-23a5-46a5-b719-5a6f9a1fc4ce" resname="SNC·163 | Voice of the Vermin | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, target creature you control has base power and toughness 4/4 until end of turn.</source>
-        <target state="translated">每当兽性传声人攻击时，目标由你操控的生物之基础力量与防御力为4/4直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，目标由你操控的生物之基础力量与防御力为4/4直到回合结束。</target>
       </trans-unit>
       <trans-unit id="bad9e58e-c9a3-4a0d-9a59-71c20a3275b6" resname="SNC·164 | Warm Welcome | Card Name">
         <source>Warm Welcome</source>
@@ -3134,11 +3134,11 @@
       </trans-unit>
       <trans-unit id="acef329c-61e6-41c1-8d89-ff2417949839" resname="SNC·166 | Aven Heartstabber | Card Text | Paragraph 2">
         <source>As long as there are five or more mana values among cards in your graveyard, CARDNAME gets +2/+2 and has deathtouch.</source>
-        <target state="translated">只要你坟墓场中牌的法术力值有五种或更多，刺心艾文便得+2/+2且具有死触异能。</target>
+        <target state="translated">只要你坟墓场中牌的法术力值有五种或更多，CARDNAME便得+2/+2且具有死触异能。</target>
       </trans-unit>
       <trans-unit id="acef329c-61e6-41c1-8d89-ff2417949839" resname="SNC·166 | Aven Heartstabber | Card Text | Paragraph 3">
         <source>When CARDNAME dies, mill two cards, then draw a card.</source>
-        <target state="translated">当刺心艾文死去时，磨两张牌，然后抓一张牌。</target>
+        <target state="translated">当CARDNAME死去时，磨两张牌，然后抓一张牌。</target>
       </trans-unit>
       <trans-unit id="28d92b13-8b23-4c78-b690-c5d9ca835809" resname="SNC·167 | Black Market Tycoon | Card Name">
         <source>Black Market Tycoon</source>
@@ -3146,7 +3146,7 @@
       </trans-unit>
       <trans-unit id="28d92b13-8b23-4c78-b690-c5d9ca835809" resname="SNC·167 | Black Market Tycoon | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, CARDNAME deals 2 damage to you for each Treasure you control.</source>
-        <target state="translated">在你的维持开始时，你每操控一个珍宝，黑市大亨便对你造成2点伤害。</target>
+        <target state="translated">在你的维持开始时，你每操控一个珍宝，CARDNAME便对你造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="28d92b13-8b23-4c78-b690-c5d9ca835809" resname="SNC·167 | Black Market Tycoon | Card Text | Paragraph 2">
         <source>{T}: Create a Treasure token.</source>
@@ -3158,11 +3158,11 @@
       </trans-unit>
       <trans-unit id="0fcb6d47-dccb-4b69-aed4-7a6215857606" resname="SNC·168 | Body Dropper | Card Text | Paragraph 1">
         <source>Whenever you sacrifice another creature, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你牺牲另一个生物时，在克敌老手上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你牺牲另一个生物时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="0fcb6d47-dccb-4b69-aed4-7a6215857606" resname="SNC·168 | Body Dropper | Card Text | Paragraph 2">
         <source>{B}{R}, Sacrifice another creature: CARDNAME gains menace until end of turn. (It can't be blocked except by two or more creatures.)</source>
-        <target state="translated">{B}{R}，牺牲另一个生物：克敌老手获得威慑异能直到回合结束。（它只能被两个或更多生物阻挡。）</target>
+        <target state="translated">{B}{R}，牺牲另一个生物：CARDNAME获得威慑异能直到回合结束。（它只能被两个或更多生物阻挡。）</target>
       </trans-unit>
       <trans-unit id="3ae69722-9cb9-4fb7-830f-a284d4a72027" resname="SNC·169 | Brazen Upstart | Card Name">
         <source>Brazen Upstart</source>
@@ -3174,7 +3174,7 @@
       </trans-unit>
       <trans-unit id="3ae69722-9cb9-4fb7-830f-a284d4a72027" resname="SNC·169 | Brazen Upstart | Card Text | Paragraph 2">
         <source>When CARDNAME dies, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">当厚颜高升者死去时，检视你牌库顶的五张牌。你可以展示其中的一张生物牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
+        <target state="translated">当CARDNAME死去时，检视你牌库顶的五张牌。你可以展示其中的一张生物牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="799de0f1-6bf2-4158-8a4f-bedc3d2f6578" resname="SNC·170 | Brokers Ascendancy | Card Name">
         <source>Brokers Ascendancy</source>
@@ -3222,7 +3222,7 @@
       </trans-unit>
       <trans-unit id="08f33c8a-8e93-4296-964b-da132a854b3b" resname="SNC·173 | Cabaretti Charm | Card Text | Paragraph 2">
         <source>• CARDNAME deals damage equal to the number of creatures you control to target creature or planeswalker.</source>
-        <target state="translated">•乐舞会护符对目标生物或鹏洛客造成伤害，其数量等同于由你操控的生物数量。</target>
+        <target state="translated">•CARDNAME对目标生物或鹏洛客造成伤害，其数量等同于由你操控的生物数量。</target>
       </trans-unit>
       <trans-unit id="08f33c8a-8e93-4296-964b-da132a854b3b" resname="SNC·173 | Cabaretti Charm | Card Text | Paragraph 3">
         <source>• Creatures you control get +1/+1 and gain trample until end of turn.</source>
@@ -3247,7 +3247,7 @@
       </trans-unit>
       <trans-unit id="25803f0b-4475-447e-abdf-dcd6a98dd654" resname="SNC·174 | Celestial Regulator | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, choose target creature you don't control and tap it. If you control a creature with a counter on it, the chosen creature doesn't untap during its controller's next untap step.</source>
-        <target state="translated">当天界制限使进战场时，选择目标不由你操控的生物并将它横置。如果你操控其上有指示物的生物，则所选生物于其操控者的下一个重置步骤不能重置。</target>
+        <target state="translated">当CARDNAME进战场时，选择目标不由你操控的生物并将它横置。如果你操控其上有指示物的生物，则所选生物于其操控者的下一个重置步骤不能重置。</target>
       </trans-unit>
       <trans-unit id="1ede1b10-56df-4e17-bf86-1082edff1b51" resname="SNC·A-174 | A-Celestial Regulator | Card Name">
         <source>A-Celestial Regulator</source>
@@ -3276,7 +3276,7 @@
       </trans-unit>
       <trans-unit id="1cf5da68-a79b-40a3-93bc-785fb2352b05" resname="SNC·176 | Civil Servant | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may tap another untapped Citizen you control. If you do, CARDNAME gets +1/+0 and gains lifelink until end of turn.</source>
-        <target state="translated">每当市民公仆攻击时，你可以横置另一个由你操控且未横置的市民。若你如此作，则直到回合结束，市民公仆得+1/+0且获得系命异能。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以横置另一个由你操控且未横置的市民。若你如此作，则直到回合结束，CARDNAME得+1/+0且获得系命异能。</target>
       </trans-unit>
       <trans-unit id="186e9707-b20e-4ea6-b353-9abd98174011" resname="SNC·A-176 | A-Civil Servant | Card Name">
         <source>A-Civil Servant</source>
@@ -3297,7 +3297,7 @@
       </trans-unit>
       <trans-unit id="221ac34a-94ed-4c49-afad-b19cac541731" resname="SNC·177 | Cormela, Glamour Thief | Card Text | Paragraph 3">
         <source>When CARDNAME dies, return up to one target instant or sorcery card from your graveyard to your hand.</source>
-        <target state="translated">当美魅盗贼科梅拉死去时，将至多一张目标瞬间或法术牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME死去时，将至多一张目标瞬间或法术牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="e0f254bb-ec77-4147-ab9c-559bc7fba8cd" resname="SNC·178 | Corpse Appraiser | Card Name">
         <source>Corpse Appraiser</source>
@@ -3305,7 +3305,7 @@
       </trans-unit>
       <trans-unit id="e0f254bb-ec77-4147-ab9c-559bc7fba8cd" resname="SNC·178 | Corpse Appraiser | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile up to one target creature card from a graveyard. If a card is put into exile this way, look at the top three cards of your library, then put one of those cards into your hand and the rest into your graveyard.</source>
-        <target state="translated">当鉴尸客进战场时，将至多一张目标生物牌从坟墓场放逐。若以此法将牌置入放逐区，则检视你牌库顶的三张牌，然后将其中一张置于你手上，其余则置入你的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，将至多一张目标生物牌从坟墓场放逐。若以此法将牌置入放逐区，则检视你牌库顶的三张牌，然后将其中一张置于你手上，其余则置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="c700eff3-138b-4d4c-ba36-58b98986168c" resname="SNC·179 | Corpse Explosion | Card Name">
         <source>Corpse Explosion</source>
@@ -3317,7 +3317,7 @@
       </trans-unit>
       <trans-unit id="c700eff3-138b-4d4c-ba36-58b98986168c" resname="SNC·179 | Corpse Explosion | Card Text | Paragraph 2">
         <source>CARDNAME deals damage equal to the exiled card's power to each creature and each planeswalker.</source>
-        <target state="translated">尸爆术对每个生物和每个鹏洛客各造成伤害，其数量等同于所放逐之牌的力量。</target>
+        <target state="translated">CARDNAME对每个生物和每个鹏洛客各造成伤害，其数量等同于所放逐之牌的力量。</target>
       </trans-unit>
       <trans-unit id="99806615-2f4a-4fe4-82f8-83445ae93a97" resname="SNC·180 | Crew Captain | Card Name">
         <source>Crew Captain</source>
@@ -3329,7 +3329,7 @@
       </trans-unit>
       <trans-unit id="99806615-2f4a-4fe4-82f8-83445ae93a97" resname="SNC·180 | Crew Captain | Card Text | Paragraph 2">
         <source>CARDNAME has indestructible as long as it entered the battlefield this turn.</source>
-        <target state="translated">只要工组队长是于本回合进战场，它便具有不灭异能。</target>
+        <target state="translated">只要CARDNAME是于本回合进战场，它便具有不灭异能。</target>
       </trans-unit>
       <trans-unit id="52aa9815-6b47-4c80-87c7-4277166ea0df" resname="SNC·181 | Darling of the Masses | Card Name">
         <source>Darling of the Masses</source>
@@ -3341,7 +3341,7 @@
       </trans-unit>
       <trans-unit id="52aa9815-6b47-4c80-87c7-4277166ea0df" resname="SNC·181 | Darling of the Masses | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, create a 1/1 green and white Citizen creature token.</source>
-        <target state="translated">每当万众宠儿攻击时，派出一个1/1，绿白双色的市民衍生生物。</target>
+        <target state="translated">每当CARDNAME攻击时，派出一个1/1，绿白双色的市民衍生生物。</target>
       </trans-unit>
       <trans-unit id="e23cdb0a-e114-47f8-aceb-c54c4683bbc5" resname="SNC·182 | Disciplined Duelist | Card Name">
         <source>Disciplined Duelist</source>
@@ -3353,7 +3353,7 @@
       </trans-unit>
       <trans-unit id="e23cdb0a-e114-47f8-aceb-c54c4683bbc5" resname="SNC·182 | Disciplined Duelist | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">守矩斗客进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">CARDNAME进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="13798c8c-1aa5-4f95-979b-b971e73d715f" resname="SNC·183 | Endless Detour | Card Name">
         <source>Endless Detour</source>
@@ -3373,7 +3373,7 @@
       </trans-unit>
       <trans-unit id="c0dad61f-36cd-46af-82b7-a02e04efd676" resname="SNC·184 | Evelyn, the Covetous | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another Vampire enters the battlefield under your control, exile the top card of each player's library with a collection counter on it.</source>
-        <target state="translated">每当贪婪的艾弗琳或另一个吸血鬼在你的操控下进战场时，放逐每位牌手的牌库顶牌，且其上有一个收藏指示物。</target>
+        <target state="translated">每当CARDNAME或另一个吸血鬼在你的操控下进战场时，放逐每位牌手的牌库顶牌，且其上有一个收藏指示物。</target>
       </trans-unit>
       <trans-unit id="c0dad61f-36cd-46af-82b7-a02e04efd676" resname="SNC·184 | Evelyn, the Covetous | Card Text | Paragraph 3">
         <source>Once each turn, you may play a card from exile with a collection counter on it if it was exiled by an ability you controlled, and you may spend mana as though it were mana of any color to cast it.</source>
@@ -3397,7 +3397,7 @@
       </trans-unit>
       <trans-unit id="ae25db8c-3d10-4196-b002-9d2aabd5f4de" resname="SNC·186 | Falco Spara, Pactweaver | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with a shield counter on it.</source>
-        <target state="translated">织契魔冯柯斯帕拉进战场时上面有一个后盾指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有一个后盾指示物。</target>
       </trans-unit>
       <trans-unit id="ae25db8c-3d10-4196-b002-9d2aabd5f4de" resname="SNC·186 | Falco Spara, Pactweaver | Card Text | Paragraph 3">
         <source>You may look at the top card of your library any time.</source>
@@ -3437,7 +3437,7 @@
       </trans-unit>
       <trans-unit id="5052247d-ef72-47f0-973d-2be98bf754c1" resname="SNC·189 | Forge Boss | Card Text | Paragraph 1">
         <source>Whenever you sacrifice one or more other creatures, CARDNAME deals 2 damage to each opponent. This ability triggers only once each turn.</source>
-        <target state="translated">每当你牺牲一个或数个其他生物时，熔炉主管向每位对手各造成2点伤害。此异能每回合只会触发一次。</target>
+        <target state="translated">每当你牺牲一个或数个其他生物时，CARDNAME向每位对手各造成2点伤害。此异能每回合只会触发一次。</target>
       </trans-unit>
       <trans-unit id="b9e6942a-f6fd-455f-be4a-0cdd16d67e13" resname="SNC·A-189 | A-Forge Boss | Card Name">
         <source>A-Forge Boss</source>
@@ -3450,11 +3450,11 @@
       </trans-unit>
       <trans-unit id="452abab0-cf23-4b9d-831a-7b9fa1fd582a" resname="SNC·190 | Glamorous Outlaw | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 2 damage to each opponent and you scry 2.</source>
-        <target state="translated">当迷人狂徒进战场时，它向每位对手各造成2点伤害且你占卜2。</target>
+        <target state="translated">当CARDNAME进战场时，它向每位对手各造成2点伤害且你占卜2。</target>
       </trans-unit>
       <trans-unit id="452abab0-cf23-4b9d-831a-7b9fa1fd582a" resname="SNC·190 | Glamorous Outlaw | Card Text | Paragraph 2">
         <source>{2}, Exile CARDNAME from your hand: Target land gains &amp;quot;{T}: Add {U}, {B}, or {R}&amp;quot; until CARDNAME is cast from exile. You may cast CARDNAME for as long as it remains exiled.</source>
-        <target state="translated">{2}，从你手上放逐迷人狂徒：直到从放逐区施放迷人狂徒为止，目标地获得「{T}：加{U}，{B}或{R}。」于迷人狂徒持续放逐的时段内，你可以施放它。</target>
+        <target state="translated">{2}，从你手上放逐CARDNAME：直到从放逐区施放CARDNAME为止，目标地获得「{T}：加{U}，{B}或{R}。」于CARDNAME持续放逐的时段内，你可以施放它。</target>
       </trans-unit>
       <trans-unit id="ab334c44-0cdb-4521-bb7d-162131155796" resname="SNC·A-190 | A-Glamorous Outlaw | Card Name">
         <source>A-Glamorous Outlaw</source>
@@ -3467,7 +3467,7 @@
       </trans-unit>
       <trans-unit id="bd7df727-50ea-4ea8-bdb9-d7ef16199d8a" resname="SNC·191 | Hostile Takeover | Card Text | Paragraph 1">
         <source>Up to one target creature has base power and toughness 1/1 until end of turn. Up to one other target creature has base power and toughness 4/4 until end of turn. Then CARDNAME deals 3 damage to each creature.</source>
-        <target state="translated">至多一个目标生物的基础力量与防御力为1/1直到回合结束。至多另一个目标生物的基础力量与防御力为4/4直到回合结束。然后敌意接管对所有生物各造成3点伤害。</target>
+        <target state="translated">至多一个目标生物的基础力量与防御力为1/1直到回合结束。至多另一个目标生物的基础力量与防御力为4/4直到回合结束。然后CARDNAME对所有生物各造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="77e2ed9e-ee1d-440a-94b4-d4b17d30b800" resname="SNC·192 | Incandescent Aria | Card Name">
         <source>Incandescent Aria</source>
@@ -3475,7 +3475,7 @@
       </trans-unit>
       <trans-unit id="77e2ed9e-ee1d-440a-94b4-d4b17d30b800" resname="SNC·192 | Incandescent Aria | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to each nontoken creature.</source>
-        <target state="translated">炽热咏叹调对每个非衍生物的生物各造成3点伤害。</target>
+        <target state="translated">CARDNAME对每个非衍生物的生物各造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="f9c69d75-651f-4b75-b65d-79999d2069f6" resname="SNC·193 | Jetmir, Nexus of Revels | Card Name">
         <source>Jetmir, Nexus of Revels</source>
@@ -3499,7 +3499,7 @@
       </trans-unit>
       <trans-unit id="3e5aa701-28e8-47fa-8c26-4da2f943f582" resname="SNC·194 | Jetmir's Fixer | Card Text | Paragraph 1">
         <source>{R}{G}: CARDNAME gets +1/+1 until end of turn. If mana from a Treasure was spent to activate this ability, put a +1/+1 counter on CARDNAME instead.</source>
-        <target state="translated">{R}{G}：杰米尔的息事人得+1/+1直到回合结束。如果起动此异能时支付过来自珍宝的法术力，则改为在杰米尔的息事人上放置一个+1/+1指示物。</target>
+        <target state="translated">{R}{G}：CARDNAME得+1/+1直到回合结束。如果起动此异能时支付过来自珍宝的法术力，则改为在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="c5f9326a-2a41-45b3-97c3-548f0bdc0882" resname="SNC·195 | Jinnie Fay, Jetmir's Second | Card Name">
         <source>Jinnie Fay, Jetmir's Second</source>
@@ -3515,7 +3515,7 @@
       </trans-unit>
       <trans-unit id="dd20f271-26c8-429f-a422-e7d95f3bda74" resname="SNC·196 | Lagrella, the Magpie | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile any number of other target creatures controlled by different players until Lagrella leaves the battlefield. When an exiled card enters the battlefield under your control this way, put two +1/+1 counters on it.</source>
-        <target state="translated">当鹊姐莱格丽进战场时，选择任意数量其他目标生物，且其操控者须各不相同。放逐这些生物，直到莱格丽离开战场为止。当一张已放逐的牌以此法在你的操控下进战场时，在其上放置两个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，选择任意数量其他目标生物，且其操控者须各不相同。放逐这些生物，直到莱格丽离开战场为止。当一张已放逐的牌以此法在你的操控下进战场时，在其上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="ee0a078d-045f-401b-a561-dcb1ad02bf62" resname="SNC·197 | Lord Xander, the Collector | Card Name">
         <source>Lord Xander, the Collector</source>
@@ -3523,7 +3523,7 @@
       </trans-unit>
       <trans-unit id="ee0a078d-045f-401b-a561-dcb1ad02bf62" resname="SNC·197 | Lord Xander, the Collector | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent discards half the cards in their hand, rounded down.</source>
-        <target state="translated">当收集魔尚夺尔勋爵进战场时，目标对手弃一半数量的手牌，小数点后舍去。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手弃一半数量的手牌，小数点后舍去。</target>
       </trans-unit>
       <trans-unit id="ee0a078d-045f-401b-a561-dcb1ad02bf62" resname="SNC·197 | Lord Xander, the Collector | Card Text | Paragraph 2">
         <source>Whenever Lord Xander attacks, defending player mills half their library, rounded down.</source>
@@ -3559,7 +3559,7 @@
       </trans-unit>
       <trans-unit id="3dcdedb6-3c24-4a29-b9b9-27cc47d8ee56" resname="SNC·199 | Maestros Charm | Card Text | Paragraph 4">
         <source>• CARDNAME deals 5 damage to target creature or planeswalker.</source>
-        <target state="translated">•绝艺盟护符对目标生物或鹏洛客造成5点伤害。</target>
+        <target state="translated">•CARDNAME对目标生物或鹏洛客造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="7206db10-e248-420d-bf92-4d57bc72da56" resname="SNC·200 | Maestros Diabolist | Card Name">
         <source>Maestros Diabolist</source>
@@ -3571,7 +3571,7 @@
       </trans-unit>
       <trans-unit id="7206db10-e248-420d-bf92-4d57bc72da56" resname="SNC·200 | Maestros Diabolist | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, if you don't control a Devil token, create a tapped and attacking 1/1 red Devil creature token with &amp;quot;When this creature dies, it deals 1 damage to any target.&amp;quot;</source>
-        <target state="translated">每当绝艺盟崇魔者攻击时，若你未操控魔鬼衍生生物，则派出一个1/1红色魔鬼衍生生物，其为已横置且正进行攻击，并具有「当此生物死去时，它对任意一个目标造成1点伤害。」</target>
+        <target state="translated">每当CARDNAME攻击时，若你未操控魔鬼衍生生物，则派出一个1/1红色魔鬼衍生生物，其为已横置且正进行攻击，并具有「当此生物死去时，它对任意一个目标造成1点伤害。」</target>
       </trans-unit>
       <trans-unit id="03757415-6b58-42d3-9452-a862e90647ee" resname="SNC·201 | Masked Bandits | Card Name">
         <source>Masked Bandits</source>
@@ -3587,7 +3587,7 @@
       </trans-unit>
       <trans-unit id="03757415-6b58-42d3-9452-a862e90647ee" resname="SNC·201 | Masked Bandits | Card Text | Paragraph 3">
         <source>{2}, Exile CARDNAME from your hand: Target land gains &amp;quot;{T}: Add {B}, {R}, or {G}&amp;quot; until CARDNAME is cast from exile. You may cast CARDNAME for as long as it remains exiled.</source>
-        <target state="translated">{2}，从你手上放逐蒙面盗匪：直到从放逐区施放蒙面盗匪为止，目标地获得「{T}：加{B}，{R}或{G}。」于蒙面盗匪持续放逐的时段内，你可以施放它。</target>
+        <target state="translated">{2}，从你手上放逐CARDNAME：直到从放逐区施放CARDNAME为止，目标地获得「{T}：加{B}，{R}或{G}。」于CARDNAME持续放逐的时段内，你可以施放它。</target>
       </trans-unit>
       <trans-unit id="0c2073bd-be49-4d3a-9aca-b8ea6b747503" resname="SNC·A-201 | A-Masked Bandits | Card Name">
         <source>A-Masked Bandits</source>
@@ -3642,7 +3642,7 @@
       </trans-unit>
       <trans-unit id="0150d4c7-2c90-4a71-b2d3-3d9a0079fea1" resname="SNC·205 | Nimble Larcenist | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target opponent reveals their hand. You choose an artifact, instant, or sorcery card from it and exile that card.</source>
-        <target state="translated">当巧手窃犯进战场时，目标对手展示其手牌。你选择其中一张神器，瞬间或法术牌，并放逐该牌。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手展示其手牌。你选择其中一张神器，瞬间或法术牌，并放逐该牌。</target>
       </trans-unit>
       <trans-unit id="80226520-6b0a-48ea-a868-a29eb3fbd403" resname="SNC·206 | Ob Nixilis, the Adversary | Card Name">
         <source>Ob Nixilis, the Adversary</source>
@@ -3670,11 +3670,11 @@
       </trans-unit>
       <trans-unit id="98a11e5e-d2a9-4490-90f3-a643fc7ed7c3" resname="SNC·207 | Obscura Ascendancy | Card Text | Paragraph 1">
         <source>Whenever you cast a spell, if its mana value is equal to 1 plus the number of soul counters on CARDNAME, put a soul counter on CARDNAME, then create a 2/2 white Spirit creature token with flying.</source>
-        <target state="translated">每当你施放咒语时，若其法术力值等同于秘闻帮霸权上的灵魂指示物数量加1，则在秘闻帮霸权上放置一个灵魂指示物，然后派出一个2/2白色，具飞行异能的精怪衍生生物。</target>
+        <target state="translated">每当你施放咒语时，若其法术力值等同于CARDNAME上的灵魂指示物数量加1，则在CARDNAME上放置一个灵魂指示物，然后派出一个2/2白色，具飞行异能的精怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="98a11e5e-d2a9-4490-90f3-a643fc7ed7c3" resname="SNC·207 | Obscura Ascendancy | Card Text | Paragraph 2">
         <source>As long as there are five or more soul counters on CARDNAME, Spirits you control get +3/+3.</source>
-        <target state="translated">只要秘闻帮霸权上有五个或更多灵魂指示物，由你操控的精怪便得+3/+3。</target>
+        <target state="translated">只要CARDNAME上有五个或更多灵魂指示物，由你操控的精怪便得+3/+3。</target>
       </trans-unit>
       <trans-unit id="9961562d-cad9-40e5-afae-3ebce77a2260" resname="SNC·208 | Obscura Charm | Card Name">
         <source>Obscura Charm</source>
@@ -3710,7 +3710,7 @@
       </trans-unit>
       <trans-unit id="08886346-2405-47ee-997f-c0fb7776c783" resname="SNC·209 | Obscura Interceptor | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, it connives. When it connives this way, return up to one target spell to its owner's hand. (To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</source>
-        <target state="translated">当秘闻帮拦截者进战场时，令它筹谋。当它以此法筹谋时，将至多一个目标咒语移回其拥有者手上。（某生物筹谋的流程是抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在该生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，令它筹谋。当它以此法筹谋时，将至多一个目标咒语移回其拥有者手上。（某生物筹谋的流程是抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在该生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="636058c3-bacc-4a66-8988-832ab0cc9be6" resname="SNC·210 | Ognis, the Dragon's Lash | Card Name">
         <source>Ognis, the Dragon's Lash</source>
@@ -3734,7 +3734,7 @@
       </trans-unit>
       <trans-unit id="bba250e8-1ceb-40f5-95f1-fb00a2a723eb" resname="SNC·211 | Park Heights Pegasus | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, draw a card if you had two or more creatures enter the battlefield under your control this turn.</source>
-        <target state="translated">每当高地园飞马对任一牌手造成战斗伤害时，如果本回合中有两个或更多生物在你的操控下进战场，则抓一张牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，如果本回合中有两个或更多生物在你的操控下进战场，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="7edb7a26-82be-4efd-9a5c-a3816e1ee2d6" resname="SNC·212 | Queza, Augur of Agonies | Card Name">
         <source>Queza, Augur of Agonies</source>
@@ -3767,11 +3767,11 @@
       </trans-unit>
       <trans-unit id="9c74197a-367c-40a4-9eb5-6943490bba09" resname="SNC·214 | Rakish Revelers | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 green and white Citizen creature token.</source>
-        <target state="translated">当放浪欢客进战场时，派出一个1/1，绿白双色的市民衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1，绿白双色的市民衍生生物。</target>
       </trans-unit>
       <trans-unit id="9c74197a-367c-40a4-9eb5-6943490bba09" resname="SNC·214 | Rakish Revelers | Card Text | Paragraph 2">
         <source>{2}, Exile CARDNAME from your hand: Target land gains &amp;quot;{T}: Add {R}, {G}, or {W}&amp;quot; until CARDNAME is cast from exile. You may cast CARDNAME for as long as it remains exiled.</source>
-        <target state="translated">{2}，从你手上放逐放浪欢客：直到从放逐区施放放浪欢客为止，目标地获得「{T}：加{R}，{G}或{W}。」于放浪欢客持续放逐的时段内，你可以施放它。</target>
+        <target state="translated">{2}，从你手上放逐CARDNAME：直到从放逐区施放CARDNAME为止，目标地获得「{T}：加{R}，{G}或{W}。」于CARDNAME持续放逐的时段内，你可以施放它。</target>
       </trans-unit>
       <trans-unit id="b799b01d-2e9b-4ef0-b518-bb3684cd524d" resname="SNC·A-214 | A-Rakish Revelers | Card Name">
         <source>A-Rakish Revelers</source>
@@ -3784,7 +3784,7 @@
       </trans-unit>
       <trans-unit id="67c6aef6-d846-4e02-a5f9-6eb0b2212208" resname="SNC·215 | Rigo, Streetwise Mentor | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</source>
-        <target state="translated">街头明师瑞格进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
+        <target state="translated">CARDNAME进战场时上面有一个后盾指示物。（如果它将受到伤害或将被消灭，则改为从其上移去一个后盾指示物。）</target>
       </trans-unit>
       <trans-unit id="67c6aef6-d846-4e02-a5f9-6eb0b2212208" resname="SNC·215 | Rigo, Streetwise Mentor | Card Text | Paragraph 2">
         <source>Whenever you attack a player or planeswalker with one or more creatures with power 1 or less, draw a card.</source>
@@ -3824,7 +3824,7 @@
       </trans-unit>
       <trans-unit id="b6cf8b35-2a81-40fd-b383-becb81bef806" resname="SNC·218 | Rocco, Cabaretti Caterer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, if you cast it, you may search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">当乐舞会主厨罗孔进战场时，若你施放之，则你可以从你牌库中搜寻一张法术力值等于或小于X的生物牌，将之放进战场，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，若你施放之，则你可以从你牌库中搜寻一张法术力值等于或小于X的生物牌，将之放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="af7ef030-7bae-4820-b51a-8fad57a8ff2f" resname="SNC·219 | Scheming Fence | Card Name">
         <source>Scheming Fence</source>
@@ -3832,7 +3832,7 @@
       </trans-unit>
       <trans-unit id="af7ef030-7bae-4820-b51a-8fad57a8ff2f" resname="SNC·219 | Scheming Fence | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may choose a nonland permanent.</source>
-        <target state="translated">于阴谋故买人进战场时，你可以选择一个非地永久物。</target>
+        <target state="translated">于CARDNAME进战场时，你可以选择一个非地永久物。</target>
       </trans-unit>
       <trans-unit id="af7ef030-7bae-4820-b51a-8fad57a8ff2f" resname="SNC·219 | Scheming Fence | Card Text | Paragraph 2">
         <source>Activated abilities of the chosen permanent can't be activated.</source>
@@ -3840,7 +3840,7 @@
       </trans-unit>
       <trans-unit id="af7ef030-7bae-4820-b51a-8fad57a8ff2f" resname="SNC·219 | Scheming Fence | Card Text | Paragraph 3">
         <source>CARDNAME has all activated abilities of the chosen permanent except for loyalty abilities. You may spend mana as though it were mana of any color to activate those abilities.</source>
-        <target state="translated">阴谋故买人具有所选永久物的所有起动式异能，但忠诚异能除外。你可以将法术力视同任意颜色的法术力来支付起动这些异能的费用。</target>
+        <target state="translated">CARDNAME具有所选永久物的所有起动式异能，但忠诚异能除外。你可以将法术力视同任意颜色的法术力来支付起动这些异能的费用。</target>
       </trans-unit>
       <trans-unit id="0050dd40-9a18-41e4-97e6-fce5bf220ccf" resname="SNC·220 | Security Rhox | Card Name">
         <source>Security Rhox</source>
@@ -3865,11 +3865,11 @@
       </trans-unit>
       <trans-unit id="cc75ba0d-230e-4ca4-bb40-bd05af2a4457" resname="SNC·221 | Shattered Seraph | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 3 life.</source>
-        <target state="translated">当碎翼炽天使进战场时，你获得3点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="cc75ba0d-230e-4ca4-bb40-bd05af2a4457" resname="SNC·221 | Shattered Seraph | Card Text | Paragraph 3">
         <source>{2}, Exile CARDNAME from your hand: Target land gains &amp;quot;{T}: Add {W}, {U}, or {B}&amp;quot; until CARDNAME is cast from exile. You may cast CARDNAME for as long as it remains exiled.</source>
-        <target state="translated">{2}，从你手上放逐碎翼炽天使：直到从放逐区施放碎翼炽天使为止，目标地获得「{T}：加{W}，{U}或{B}。」于碎翼炽天使持续放逐的时段内，你可以施放它。</target>
+        <target state="translated">{2}，从你手上放逐CARDNAME：直到从放逐区施放CARDNAME为止，目标地获得「{T}：加{W}，{U}或{B}。」于CARDNAME持续放逐的时段内，你可以施放它。</target>
       </trans-unit>
       <trans-unit id="574a8645-9f6e-4657-afac-5d8242e011cb" resname="SNC·A-221 | A-Shattered Seraph | Card Name">
         <source>A-Shattered Seraph</source>
@@ -3882,11 +3882,11 @@
       </trans-unit>
       <trans-unit id="bed1e957-3df1-4640-9980-783817826602" resname="SNC·222 | Snooping Newsie | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, mill two cards. (Put the top two cards of your library into your graveyard.)</source>
-        <target state="translated">当窥探报童进战场时，磨两张牌。（将你牌库顶的两张牌置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，磨两张牌。（将你牌库顶的两张牌置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="bed1e957-3df1-4640-9980-783817826602" resname="SNC·222 | Snooping Newsie | Card Text | Paragraph 2">
         <source>As long as there are five or more mana values among cards in your graveyard, CARDNAME gets +1/+1 and has lifelink.</source>
-        <target state="translated">只要你坟墓场中牌的法术力值有五种或更多，窥探报童便得+1/+1且具有系命异能。</target>
+        <target state="translated">只要你坟墓场中牌的法术力值有五种或更多，CARDNAME便得+1/+1且具有系命异能。</target>
       </trans-unit>
       <trans-unit id="35b13b82-0650-48f2-9e42-3610b43e2e10" resname="SNC·223 | Soul of Emancipation | Card Name">
         <source>Soul of Emancipation</source>
@@ -3894,7 +3894,7 @@
       </trans-unit>
       <trans-unit id="35b13b82-0650-48f2-9e42-3610b43e2e10" resname="SNC·223 | Soul of Emancipation | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, destroy up to three other target nonland permanents. For each of those permanents, its controller creates a 3/3 white Angel creature token with flying.</source>
-        <target state="translated">当解放之魂进战场时，消灭至多三个其他目标非地永久物。对每个这类永久物而言，其操控者派出一个3/3白色，具飞行异能的天使衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭至多三个其他目标非地永久物。对每个这类永久物而言，其操控者派出一个3/3白色，具飞行异能的天使衍生生物。</target>
       </trans-unit>
       <trans-unit id="29eb0e40-d184-423f-8484-ee288fda00cd" resname="SNC·224 | Spara's Adjudicators | Card Name">
         <source>Spara's Adjudicators</source>
@@ -3902,11 +3902,11 @@
       </trans-unit>
       <trans-unit id="29eb0e40-d184-423f-8484-ee288fda00cd" resname="SNC·224 | Spara's Adjudicators | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature an opponent controls can't attack or block until your next turn.</source>
-        <target state="translated">当斯帕拉的审裁员进战场时，直到你的下一个回合，目标由对手操控的生物不能进行攻击或阻挡。</target>
+        <target state="translated">当CARDNAME进战场时，直到你的下一个回合，目标由对手操控的生物不能进行攻击或阻挡。</target>
       </trans-unit>
       <trans-unit id="29eb0e40-d184-423f-8484-ee288fda00cd" resname="SNC·224 | Spara's Adjudicators | Card Text | Paragraph 2">
         <source>{2}, Exile CARDNAME from your hand: Target land gains &amp;quot;{T}: Add {G}, {W}, or {U}&amp;quot; until CARDNAME is cast from exile. You may cast CARDNAME for as long as it remains exiled.</source>
-        <target state="translated">{2}，从你手上放逐斯帕拉的审裁员：直到从放逐区施放斯帕拉的审裁员为止，目标地获得「{T}：加{G}，{W}或{U}。」于斯帕拉的审裁员持续放逐的时段内，你可以施放它。</target>
+        <target state="translated">{2}，从你手上放逐CARDNAME：直到从放逐区施放CARDNAME为止，目标地获得「{T}：加{G}，{W}或{U}。」于CARDNAME持续放逐的时段内，你可以施放它。</target>
       </trans-unit>
       <trans-unit id="f564085e-2abd-4ecc-9b7a-19a69ddabc84" resname="SNC·A-224 | A-Spara's Adjudicators | Card Name">
         <source>A-Spara's Adjudicators</source>
@@ -3919,7 +3919,7 @@
       </trans-unit>
       <trans-unit id="ecbe7459-8613-4ab8-84dc-deab19c08511" resname="SNC·225 | Stimulus Package | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two Treasure tokens. (They're artifacts with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">当激励措施进战场时，派出两个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出两个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="ecbe7459-8613-4ab8-84dc-deab19c08511" resname="SNC·225 | Stimulus Package | Card Text | Paragraph 2">
         <source>Sacrifice a Treasure: Create a 1/1 green and white Citizen creature token.</source>
@@ -3940,7 +3940,7 @@
       </trans-unit>
       <trans-unit id="bf86c5f2-0caf-48ca-b7ad-a1cdcd014539" resname="SNC·226 | Syndicate Infiltrator | Card Text | Paragraph 2">
         <source>As long as there are five or more mana values among cards in your graveyard, CARDNAME gets +2/+2.</source>
-        <target state="translated">只要你坟墓场中牌的法术力值有五种或更多，黑帮渗透者便得+2/+2。</target>
+        <target state="translated">只要你坟墓场中牌的法术力值有五种或更多，CARDNAME便得+2/+2。</target>
       </trans-unit>
       <trans-unit id="c0edc749-8603-4849-9426-6105dddd7566" resname="SNC·A-226 | A-Syndicate Infiltrator | Card Name">
         <source>A-Syndicate Infiltrator</source>
@@ -3961,7 +3961,7 @@
       </trans-unit>
       <trans-unit id="f01f12e0-f354-43aa-9e2d-b59a99571a5f" resname="SNC·228 | Toluz, Clever Conductor | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</source>
-        <target state="translated">当机敏行控涂璐丝进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，令它筹谋。（抓一张牌，然后弃一张牌。如果你弃的牌不是地，则在此生物上放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="f01f12e0-f354-43aa-9e2d-b59a99571a5f" resname="SNC·228 | Toluz, Clever Conductor | Card Text | Paragraph 2">
         <source>Whenever you discard one or more cards, exile them from your graveyard.</source>
@@ -3977,7 +3977,7 @@
       </trans-unit>
       <trans-unit id="1f892607-8672-4013-86e6-0779d0b726de" resname="SNC·229 | Unleash the Inferno | Card Text | Paragraph 1">
         <source>CARDNAME deals 7 damage to target creature or planeswalker. When it deals excess damage this way, destroy target artifact or enchantment an opponent controls with mana value less than or equal to that amount of excess damage.</source>
-        <target state="translated">释放狱火对目标生物或鹏洛客造成7点伤害。当它以此法造成过量伤害时，消灭目标由对手操控的神器或结界，且其法术力值须等于或小于该过量伤害数量。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成7点伤害。当它以此法造成过量伤害时，消灭目标由对手操控的神器或结界，且其法术力值须等于或小于该过量伤害数量。</target>
       </trans-unit>
       <trans-unit id="2daab74d-d66b-4164-aa19-24e8d5536f7d" resname="SNC·230 | Void Rend | Card Name">
         <source>Void Rend</source>
@@ -4001,7 +4001,7 @@
       </trans-unit>
       <trans-unit id="ba4fa4c8-f09f-4d97-a7d1-1b93caf7d4f9" resname="SNC·231 | Ziatora, the Incinerator | Card Text | Paragraph 2">
         <source>At the beginning of your end step, you may sacrifice another creature. When you do, CARDNAME deals damage equal to that creature's power to any target and you create three Treasure tokens.</source>
-        <target state="translated">在你的结束步骤开始时，你可以牺牲另一个生物。当你如此作时，焚炎魔齐朵拉对任意一个目标造成伤害，其数量等同于所牺牲生物的力量，且你派出三个珍宝衍生物。</target>
+        <target state="translated">在你的结束步骤开始时，你可以牺牲另一个生物。当你如此作时，CARDNAME对任意一个目标造成伤害，其数量等同于所牺牲生物的力量，且你派出三个珍宝衍生物。</target>
       </trans-unit>
       <trans-unit id="ba39154c-aace-4d55-a3ad-7c9eb717ed2b" resname="SNC·232 | Ziatora's Envoy | Card Name">
         <source>Ziatora's Envoy</source>
@@ -4013,7 +4013,7 @@
       </trans-unit>
       <trans-unit id="ba39154c-aace-4d55-a3ad-7c9eb717ed2b" resname="SNC·232 | Ziatora's Envoy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, look at the top card of your library. You may play a land from the top of your library or cast a spell with mana value less than or equal to the damage dealt from the top of your library without paying its mana cost. If you don't, put that card into your hand.</source>
-        <target state="translated">每当齐朵拉的使节对任一牌手造成战斗伤害时，检视你的牌库顶牌。你可以从你的牌库顶使用一张地牌，或从该处施放一个法术力值等于或小于所造成伤害之数量的咒语，且不需支付其法术力费用。若你皆未作，则将该牌置于你手上。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，检视你的牌库顶牌。你可以从你的牌库顶使用一张地牌，或从该处施放一个法术力值等于或小于所造成伤害之数量的咒语，且不需支付其法术力费用。若你皆未作，则将该牌置于你手上。</target>
       </trans-unit>
       <trans-unit id="ba39154c-aace-4d55-a3ad-7c9eb717ed2b" resname="SNC·232 | Ziatora's Envoy | Card Text | Paragraph 3">
         <source>Blitz {2}{B}{R}{G}</source>
@@ -4073,7 +4073,7 @@
       </trans-unit>
       <trans-unit id="85da50ba-2061-40f0-b3af-950b87f812cd" resname="SNC·236 | Chrome Cat | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, scry 1.</source>
-        <target state="translated">当铬亮猫进战场时，占卜1。</target>
+        <target state="translated">当CARDNAME进战场时，占卜1。</target>
       </trans-unit>
       <trans-unit id="8a6d2fa3-3f5a-4b6f-8b7e-6a8bf65c07ad" resname="SNC·237 | Getaway Car | Card Name">
         <source>Getaway Car</source>
@@ -4085,7 +4085,7 @@
       </trans-unit>
       <trans-unit id="8a6d2fa3-3f5a-4b6f-8b7e-6a8bf65c07ad" resname="SNC·237 | Getaway Car | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks or blocks, return up to one target creature that crewed it this turn to its owner's hand.</source>
-        <target state="translated">每当脱逃跑车攻击或阻挡时，将至多一个目标本回合中搭载它的生物移回其拥有者手上。</target>
+        <target state="translated">每当CARDNAME攻击或阻挡时，将至多一个目标本回合中搭载它的生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="8a6d2fa3-3f5a-4b6f-8b7e-6a8bf65c07ad" resname="SNC·237 | Getaway Car | Card Text | Paragraph 3">
         <source>Crew 1</source>
@@ -4097,7 +4097,7 @@
       </trans-unit>
       <trans-unit id="dca8554a-f74c-4d2d-95b6-ef6e74431d7c" resname="SNC·238 | Gilded Pinions | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">当金箔翅翼进战场时，派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="dca8554a-f74c-4d2d-95b6-ef6e74431d7c" resname="SNC·238 | Gilded Pinions | Card Text | Paragraph 2">
         <source>Equipped creature has flying.</source>
@@ -4113,7 +4113,7 @@
       </trans-unit>
       <trans-unit id="2eead159-b9a1-4c64-affe-c77b0a9e4775" resname="SNC·239 | Halo Scarab | Card Text | Paragraph 1">
         <source>{2}, Exile CARDNAME from your graveyard: Create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">{2}，从你的坟墓场放逐金圆圣甲虫：派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">{2}，从你的坟墓场放逐CARDNAME：派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="1833662b-ccf3-4c16-9767-666d6407aa65" resname="SNC·240 | Luxior, Giada's Gift | Card Name">
         <source>Luxior, Giada's Gift</source>
@@ -4141,11 +4141,11 @@
       </trans-unit>
       <trans-unit id="e1691374-e9f2-4a8b-abdb-0bb1dbc96715" resname="SNC·241 | Ominous Parcel | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">{2}，{T}，牺牲恶兆包裹：从你牌库中搜寻一张基本地牌，展示该牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：从你牌库中搜寻一张基本地牌，展示该牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="e1691374-e9f2-4a8b-abdb-0bb1dbc96715" resname="SNC·241 | Ominous Parcel | Card Text | Paragraph 2">
         <source>{5}, {T}, Sacrifice CARDNAME: It deals 4 damage to target creature.</source>
-        <target state="translated">{5}，{T}，牺牲恶兆包裹：它对目标生物造成4点伤害。</target>
+        <target state="translated">{5}，{T}，牺牲CARDNAME：它对目标生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="0dcc9bf5-0f22-4e41-b2ad-f4c9ce390826" resname="SNC·A-241 | A-Ominous Parcel | Card Name">
         <source>A-Ominous Parcel</source>
@@ -4162,7 +4162,7 @@
       </trans-unit>
       <trans-unit id="939450d7-1107-4645-ad23-68749b1ec4c2" resname="SNC·242 | Paragon of Modernity | Card Text | Paragraph 2">
         <source>{3}: CARDNAME gets +1/+1 until end of turn. If exactly three colors of mana were spent to activate this ability, put a +1/+1 counter on it instead.</source>
-        <target state="translated">{3}：近代典范得+1/+1直到回合结束。如果起动此异能时支付过正好三色的法术力，则改为在其上放置一个+1/+1指示物。</target>
+        <target state="translated">{3}：CARDNAME得+1/+1直到回合结束。如果起动此异能时支付过正好三色的法术力，则改为在其上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="5bc58708-3d62-4ab9-bf65-1cd707f2b753" resname="SNC·A-242 | A-Paragon of Modernity | Card Name">
         <source>A-Paragon of Modernity</source>
@@ -4179,7 +4179,7 @@
       </trans-unit>
       <trans-unit id="d64110f4-c4b6-4966-a23a-8da7d1983499" resname="SNC·243 | Quick-Draw Dagger | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, attach it to target creature you control. That creature gains first strike until end of turn.</source>
-        <target state="translated">当快手匕首进战场时，将它贴附在目标由你操控的生物上。该生物获得先攻异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，将它贴附在目标由你操控的生物上。该生物获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d64110f4-c4b6-4966-a23a-8da7d1983499" resname="SNC·243 | Quick-Draw Dagger | Card Text | Paragraph 3">
         <source>Equipped creature gets +1/+1.</source>
@@ -4195,7 +4195,7 @@
       </trans-unit>
       <trans-unit id="0edbece0-8444-4634-a47b-7c88d1b8325e" resname="SNC·244 | Scuttling Butler | Card Text | Paragraph 1">
         <source>At the beginning of combat on your turn, if you control two or more multicolored permanents, CARDNAME gains double strike until end of turn.</source>
-        <target state="translated">在你回合的战斗开始时，若你操控两个或更多的多色永久物，则疾步管家获得连击异能直到回合结束。</target>
+        <target state="translated">在你回合的战斗开始时，若你操控两个或更多的多色永久物，则CARDNAME获得连击异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="93ee60f7-31dd-4bc6-b71f-57a1a0d19d20" resname="SNC·246 | Unlicensed Hearse | Card Name">
         <source>Unlicensed Hearse</source>
@@ -4207,7 +4207,7 @@
       </trans-unit>
       <trans-unit id="93ee60f7-31dd-4bc6-b71f-57a1a0d19d20" resname="SNC·246 | Unlicensed Hearse | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of cards exiled with it.</source>
-        <target state="translated">无牌灵车的力量和防御力各等同于以它放逐之牌的数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于以它放逐之牌的数量。</target>
       </trans-unit>
       <trans-unit id="93ee60f7-31dd-4bc6-b71f-57a1a0d19d20" resname="SNC·246 | Unlicensed Hearse | Card Text | Paragraph 3">
         <source>Crew 2</source>
@@ -4219,7 +4219,7 @@
       </trans-unit>
       <trans-unit id="9f8a6f93-1fc8-4690-add4-538763277f8e" resname="SNC·247 | Botanical Plaza | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">植物广场须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="9f8a6f93-1fc8-4690-add4-538763277f8e" resname="SNC·247 | Botanical Plaza | Card Text | Paragraph 2">
         <source>{T}: Add {G} or {W}.</source>
@@ -4227,7 +4227,7 @@
       </trans-unit>
       <trans-unit id="9f8a6f93-1fc8-4690-add4-538763277f8e" resname="SNC·247 | Botanical Plaza | Card Text | Paragraph 3">
         <source>{2}{G}{W}, {T}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}{G}{W}，{T}，牺牲植物广场：抓一张牌。</target>
+        <target state="translated">{2}{G}{W}，{T}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="989b299b-daa9-4bda-94e2-9a2f0e8f2bce" resname="SNC·248 | Brokers Hideout | Card Name">
         <source>Brokers Hideout</source>
@@ -4235,7 +4235,7 @@
       </trans-unit>
       <trans-unit id="989b299b-daa9-4bda-94e2-9a2f0e8f2bce" resname="SNC·248 | Brokers Hideout | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it. When you do, search your library for a basic Forest, Plains, or Island card, put it onto the battlefield tapped, then shuffle and you gain 1 life.</source>
-        <target state="translated">当扶济社藏所进战场时，将它牺牲。当你如此作时，从你牌库中搜寻一张基本的树林，平原或海岛牌，将之横置放进战场，然后洗牌且你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，将它牺牲。当你如此作时，从你牌库中搜寻一张基本的树林，平原或海岛牌，将之横置放进战场，然后洗牌且你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="9dda1e1c-b330-42e0-8547-97e2afc7615f" resname="SNC·249 | Cabaretti Courtyard | Card Name">
         <source>Cabaretti Courtyard</source>
@@ -4243,7 +4243,7 @@
       </trans-unit>
       <trans-unit id="9dda1e1c-b330-42e0-8547-97e2afc7615f" resname="SNC·249 | Cabaretti Courtyard | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it. When you do, search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle and you gain 1 life.</source>
-        <target state="translated">当乐舞会庭院进战场时，将它牺牲。当你如此作时，从你牌库中搜寻一张基本的山脉，树林或平原牌，将之横置放进战场，然后洗牌且你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，将它牺牲。当你如此作时，从你牌库中搜寻一张基本的山脉，树林或平原牌，将之横置放进战场，然后洗牌且你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="26d40e03-6de4-4373-9fbf-04c1dd79e995" resname="SNC·250 | Jetmir's Garden | Card Name">
         <source>Jetmir's Garden</source>
@@ -4255,7 +4255,7 @@
       </trans-unit>
       <trans-unit id="26d40e03-6de4-4373-9fbf-04c1dd79e995" resname="SNC·250 | Jetmir's Garden | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">杰米尔的花园须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="26d40e03-6de4-4373-9fbf-04c1dd79e995" resname="SNC·250 | Jetmir's Garden | Card Text | Paragraph 3">
         <source>Cycling {3} ({3}, Discard this card: Draw a card.)</source>
@@ -4267,7 +4267,7 @@
       </trans-unit>
       <trans-unit id="51eb4a44-a5c8-49ed-b440-2462626bb638" resname="SNC·251 | Maestros Theater | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it. When you do, search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life.</source>
-        <target state="translated">当绝艺盟剧场进战场时，将它牺牲。当你如此作时，从你牌库中搜寻一张基本的海岛，沼泽或山脉牌，将之横置放进战场，然后洗牌且你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，将它牺牲。当你如此作时，从你牌库中搜寻一张基本的海岛，沼泽或山脉牌，将之横置放进战场，然后洗牌且你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="1016b884-9a4c-41de-bd65-14271f4f6f9a" resname="SNC·252 | Obscura Storefront | Card Name">
         <source>Obscura Storefront</source>
@@ -4275,7 +4275,7 @@
       </trans-unit>
       <trans-unit id="1016b884-9a4c-41de-bd65-14271f4f6f9a" resname="SNC·252 | Obscura Storefront | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it. When you do, search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle and you gain 1 life.</source>
-        <target state="translated">当秘闻帮店面进战场时，将它牺牲。当你如此作时，从你牌库中搜寻一张基本的平原，海岛或沼泽牌，将之横置放进战场，然后洗牌且你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，将它牺牲。当你如此作时，从你牌库中搜寻一张基本的平原，海岛或沼泽牌，将之横置放进战场，然后洗牌且你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="2a11bdb2-a269-4038-85f3-69fbd02982e9" resname="SNC·253 | Racers' Ring | Card Name">
         <source>Racers' Ring</source>
@@ -4283,7 +4283,7 @@
       </trans-unit>
       <trans-unit id="2a11bdb2-a269-4038-85f3-69fbd02982e9" resname="SNC·253 | Racers' Ring | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">竞速赛道须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="2a11bdb2-a269-4038-85f3-69fbd02982e9" resname="SNC·253 | Racers' Ring | Card Text | Paragraph 2">
         <source>{T}: Add {R} or {G}.</source>
@@ -4291,7 +4291,7 @@
       </trans-unit>
       <trans-unit id="2a11bdb2-a269-4038-85f3-69fbd02982e9" resname="SNC·253 | Racers' Ring | Card Text | Paragraph 3">
         <source>{2}{R}{G}, {T}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}{R}{G}，{T}，牺牲竞速赛道：抓一张牌。</target>
+        <target state="translated">{2}{R}{G}，{T}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="a2c56479-4bee-4edb-80d7-4af010b7c793" resname="SNC·254 | Raffine's Tower | Card Name">
         <source>Raffine's Tower</source>
@@ -4303,7 +4303,7 @@
       </trans-unit>
       <trans-unit id="a2c56479-4bee-4edb-80d7-4af010b7c793" resname="SNC·254 | Raffine's Tower | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">拉斐茵的高塔须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="a2c56479-4bee-4edb-80d7-4af010b7c793" resname="SNC·254 | Raffine's Tower | Card Text | Paragraph 3">
         <source>Cycling {3} ({3}, Discard this card: Draw a card.)</source>
@@ -4315,7 +4315,7 @@
       </trans-unit>
       <trans-unit id="1d161f81-c01a-4c91-b025-52dcb1881638" resname="SNC·255 | Riveteers Overlook | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it. When you do, search your library for a basic Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then shuffle and you gain 1 life.</source>
-        <target state="translated">当勤工联高台进战场时，将它牺牲。当你如此作时，从你牌库中搜寻一张基本的沼泽，山脉或树林牌，将之横置放进战场，然后洗牌且你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，将它牺牲。当你如此作时，从你牌库中搜寻一张基本的沼泽，山脉或树林牌，将之横置放进战场，然后洗牌且你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="e28c871f-a96a-4e7d-a159-2e93aeb276d4" resname="SNC·256 | Skybridge Towers | Card Name">
         <source>Skybridge Towers</source>
@@ -4323,7 +4323,7 @@
       </trans-unit>
       <trans-unit id="e28c871f-a96a-4e7d-a159-2e93aeb276d4" resname="SNC·256 | Skybridge Towers | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">空桥高塔须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="e28c871f-a96a-4e7d-a159-2e93aeb276d4" resname="SNC·256 | Skybridge Towers | Card Text | Paragraph 2">
         <source>{T}: Add {W} or {U}.</source>
@@ -4331,7 +4331,7 @@
       </trans-unit>
       <trans-unit id="e28c871f-a96a-4e7d-a159-2e93aeb276d4" resname="SNC·256 | Skybridge Towers | Card Text | Paragraph 3">
         <source>{2}{W}{U}, {T}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}{W}{U}，{T}，牺牲空桥高塔：抓一张牌。</target>
+        <target state="translated">{2}{W}{U}，{T}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="7363f1fb-9af3-4212-921f-d59533faf0e5" resname="SNC·257 | Spara's Headquarters | Card Name">
         <source>Spara's Headquarters</source>
@@ -4343,7 +4343,7 @@
       </trans-unit>
       <trans-unit id="7363f1fb-9af3-4212-921f-d59533faf0e5" resname="SNC·257 | Spara's Headquarters | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">斯帕拉的总部须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="7363f1fb-9af3-4212-921f-d59533faf0e5" resname="SNC·257 | Spara's Headquarters | Card Text | Paragraph 3">
         <source>Cycling {3} ({3}, Discard this card: Draw a card.)</source>
@@ -4355,7 +4355,7 @@
       </trans-unit>
       <trans-unit id="e0532304-da6d-45cd-b1e6-4779d3f3b2bc" resname="SNC·258 | Tramway Station | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">电车站台须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="e0532304-da6d-45cd-b1e6-4779d3f3b2bc" resname="SNC·258 | Tramway Station | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {R}.</source>
@@ -4363,7 +4363,7 @@
       </trans-unit>
       <trans-unit id="e0532304-da6d-45cd-b1e6-4779d3f3b2bc" resname="SNC·258 | Tramway Station | Card Text | Paragraph 3">
         <source>{2}{B}{R}, {T}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}{B}{R}，{T}，牺牲电车站台：抓一张牌。</target>
+        <target state="translated">{2}{B}{R}，{T}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="debf7aac-4d31-49b4-955b-79036258df69" resname="SNC·259 | Waterfront District | Card Name">
         <source>Waterfront District</source>
@@ -4371,7 +4371,7 @@
       </trans-unit>
       <trans-unit id="debf7aac-4d31-49b4-955b-79036258df69" resname="SNC·259 | Waterfront District | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">水滨城区须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="debf7aac-4d31-49b4-955b-79036258df69" resname="SNC·259 | Waterfront District | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {B}.</source>
@@ -4379,7 +4379,7 @@
       </trans-unit>
       <trans-unit id="debf7aac-4d31-49b4-955b-79036258df69" resname="SNC·259 | Waterfront District | Card Text | Paragraph 3">
         <source>{2}{U}{B}, {T}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}{U}{B}，{T}，牺牲水滨城区：抓一张牌。</target>
+        <target state="translated">{2}{U}{B}，{T}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="54f449ff-4025-465e-9ec5-a5cf42c4c9d3" resname="SNC·260 | Xander's Lounge | Card Name">
         <source>Xander's Lounge</source>
@@ -4391,7 +4391,7 @@
       </trans-unit>
       <trans-unit id="54f449ff-4025-465e-9ec5-a5cf42c4c9d3" resname="SNC·260 | Xander's Lounge | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">尚夺尔的酒廊须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="54f449ff-4025-465e-9ec5-a5cf42c4c9d3" resname="SNC·260 | Xander's Lounge | Card Text | Paragraph 3">
         <source>Cycling {3} ({3}, Discard this card: Draw a card.)</source>
@@ -4407,7 +4407,7 @@
       </trans-unit>
       <trans-unit id="75fdce80-e338-4a50-bdc6-786511feaeef" resname="SNC·261 | Ziatora's Proving Ground | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">齐朵拉的校场须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="75fdce80-e338-4a50-bdc6-786511feaeef" resname="SNC·261 | Ziatora's Proving Ground | Card Text | Paragraph 3">
         <source>Cycling {3} ({3}, Discard this card: Draw a card.)</source>

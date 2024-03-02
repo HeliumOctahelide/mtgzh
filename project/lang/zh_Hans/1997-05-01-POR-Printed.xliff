@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="1edc6ec1-3b34-45e0-8573-39eba1d10efa" resname="POR·1 | Alabaster Dragon | Card Text | Paragraph 2">
         <source>If CARDNAME is put into your discard pile from play, shuffle CARDNAME back into your deck.</source>
-        <target state="translated">若光洁圣龙从场上被置入弃牌堆中，则将光洁圣龙放入牌库中洗牌。</target>
+        <target state="translated">若CARDNAME从场上被置入弃牌堆中，则将CARDNAME放入牌库中洗牌。</target>
       </trans-unit>
       <trans-unit id="31dda640-2a00-437e-855f-173c487e7395" resname="POR·2 | Angelic Blessing | Card Name">
         <source>Angelic Blessing</source>
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="387b9236-1241-44b7-9436-1fbc9970b692" resname="POR·3 | Archangel | Card Text | Paragraph 2">
         <source>Attacking doesn't cause CARDNAME to tap.</source>
-        <target state="translated">大天使攻击时不须横置。</target>
+        <target state="translated">CARDNAME攻击时不须横置。</target>
       </trans-unit>
       <trans-unit id="543f8c6a-bcf1-4400-82e5-83d36cb60464" resname="POR·4 | Ardent Militia | Card Name">
         <source>Ardent Militia</source>
@@ -40,7 +40,7 @@
       </trans-unit>
       <trans-unit id="543f8c6a-bcf1-4400-82e5-83d36cb60464" resname="POR·4 | Ardent Militia | Card Text | Paragraph 1">
         <source>Attacking doesn't cause CARDNAME to tap.</source>
-        <target state="translated">热心的义勇军攻击时不须横置。</target>
+        <target state="translated">CARDNAME攻击时不须横置。</target>
       </trans-unit>
       <trans-unit id="2073ca8b-2bca-4539-94d7-989da157e4b8" resname="POR·5 | Armageddon | Card Name">
         <source>Armageddon</source>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="899ecc19-8106-4e5a-bb25-aaea9684ba0e" resname="POR·7 | Blessed Reversal | Card Text | Paragraph 1">
         <source>Play CARDNAME only after you're attacked, before you declare interceptors.</source>
-        <target state="translated">神圣的逆转只能在你被攻击后，但还未宣布拦截者之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣布拦截者之前使用。</target>
       </trans-unit>
       <trans-unit id="899ecc19-8106-4e5a-bb25-aaea9684ba0e" resname="POR·7 | Blessed Reversal | Card Text | Paragraph 2">
         <source>For each attacking creature, you gain 3 life.</source>
@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="29db1bbf-a6cf-460c-bec8-dbd682157af4" resname="POR·11 | Charging Paladin | Card Text | Paragraph 1">
         <source>If CARDNAME attacks, it gets +0/+3 until the end of the turn.</source>
-        <target state="translated">若冲锋神圣武士进行攻击，则它得到+0S/+3D直到回合结束。</target>
+        <target state="translated">若CARDNAME进行攻击，则它得到+0S/+3D直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9cc37fd2-5c34-4522-8113-e6dd2181550b" resname="POR·12 | Defiant Stand | Card Name">
         <source>Defiant Stand</source>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="9cc37fd2-5c34-4522-8113-e6dd2181550b" resname="POR·12 | Defiant Stand | Card Text | Paragraph 1">
         <source>Play CARDNAME only after you're attacked, before you declare interceptors.</source>
-        <target state="translated">抗命奋起只能在你被攻击后，但还未宣布拦截者之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣布拦截者之前使用。</target>
       </trans-unit>
       <trans-unit id="9cc37fd2-5c34-4522-8113-e6dd2181550b" resname="POR·12 | Defiant Stand | Card Text | Paragraph 2">
         <source>Any one creature gets +1/+3 until the end of the turn. If that creature is tapped, untap it.</source>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="03cd972d-1cc1-4fb1-9b4e-a88ea115cf7f" resname="POR·15 | Fleet-Footed Monk | Card Text | Paragraph 1">
         <source>CARDNAME can't be intercepted by any creature with offense 2 or greater.</source>
-        <target state="translated">飞毛腿修行者不能被任何攻击力等于或大于2的生物拦截。</target>
+        <target state="translated">CARDNAME不能被任何攻击力等于或大于2的生物拦截。</target>
       </trans-unit>
       <trans-unit id="458ddb33-66c4-4753-b1eb-8937ab812a81" resname="POR·16 | Foot Soldiers | Card Name">
         <source>Foot Soldiers</source>
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="3657001a-7f79-4d3f-9d35-462ecf684fa8" resname="POR·18 | Harsh Justice | Card Text | Paragraph 1">
         <source>Play CARDNAME only after you're attacked, before you declare interceptors.</source>
-        <target state="translated">严厉的正义只能在你被攻击后，但还未宣布拦截者之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣布拦截者之前使用。</target>
       </trans-unit>
       <trans-unit id="3657001a-7f79-4d3f-9d35-462ecf684fa8" resname="POR·18 | Harsh Justice | Card Text | Paragraph 2">
         <source>This turn, each attacking creature that damages you also deals equal damage to the attacking player.</source>
@@ -160,7 +160,7 @@
       </trans-unit>
       <trans-unit id="594de429-58ed-4a0c-9631-464cde7a48c3" resname="POR·19 | Keen-Eyed Archers | Card Text | Paragraph 1">
         <source>CARDNAME can intercept as though it had flying.</source>
-        <target state="translated">千里眼射手可以拦截具有飞行异能的生物。</target>
+        <target state="translated">CARDNAME可以拦截具有飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="9c31b4b4-18fc-4a6e-8d74-fd5340964320" resname="POR·20 | Knight Errant | Card Name">
         <source>Knight Errant</source>
@@ -192,7 +192,7 @@
       </trans-unit>
       <trans-unit id="57b19990-c4a2-433d-a9ce-005216e9e4ac" resname="POR·24 | Sacred Knight | Card Text | Paragraph 1">
         <source>CARDNAME can't be intercepted by black or red creatures.</source>
-        <target state="translated">圣洁骑士不能被黑色或红色的生物拦截。</target>
+        <target state="translated">CARDNAME不能被黑色或红色的生物拦截。</target>
       </trans-unit>
       <trans-unit id="484d1b31-5363-49ef-9b13-2005568636c1" resname="POR·25 | Sacred Nectar | Card Name">
         <source>Sacred Nectar</source>
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="17db0060-3667-4c8c-ae9b-d62dceac64e3" resname="POR·26 | Seasoned Marshal | Card Text | Paragraph 1">
         <source>If CARDNAME attacks, you may choose to tap any one creature. (Tapped creatures can't intercept.)</source>
-        <target state="translated">若经验老道的元帅进行攻击，则你可以选择任何一只生物并加以横置（被横置的生物不能进行拦截）。</target>
+        <target state="translated">若CARDNAME进行攻击，则你可以选择任何一只生物并加以横置（被横置的生物不能进行拦截）。</target>
       </trans-unit>
       <trans-unit id="0dbea02f-9124-4e1a-8693-d988a0a3adae" resname="POR·27 | Spiritual Guardian | Card Name">
         <source>Spiritual Guardian</source>
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="0dbea02f-9124-4e1a-8693-d988a0a3adae" resname="POR·27 | Spiritual Guardian | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, you gain 4 life.</source>
-        <target state="translated">当心灵守护者从你手上进场时，你获得4点生命。</target>
+        <target state="translated">当CARDNAME从你手上进场时，你获得4点生命。</target>
       </trans-unit>
       <trans-unit id="4f5b708b-368f-48d2-8eca-40f2ae6d5178" resname="POR·28 | Spotted Griffin | Card Name">
         <source>Spotted Griffin</source>
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="18fbfbc0-c55b-4e56-a3d2-5d09571c36c8" resname="POR·32 | Stern Marshal | Card Text | Paragraph 1">
         <source>On your turn, before you attack, you may tap CARDNAME to give any one creature +2/+2 until the end of the turn.</source>
-        <target state="translated">在你回合中，你宣布攻击之前，你可以横置苛刻的元帅，以给予任一只生物+2S/+2D直到回合结束。</target>
+        <target state="translated">在你回合中，你宣布攻击之前，你可以横置CARDNAME，以给予任一只生物+2S/+2D直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5f6ee294-7dbb-4872-81d1-c69c7337cf9f" resname="POR·33 | Temporary Truce | Card Name">
         <source>Temporary Truce</source>
@@ -282,7 +282,7 @@
       </trans-unit>
       <trans-unit id="72322032-c287-4a9e-9d61-a452f6c45bfb" resname="POR·35 | Venerable Monk | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, you gain 2 life.</source>
-        <target state="translated">当可敬的修行僧从你手上进场时，你获得2点生命。</target>
+        <target state="translated">当CARDNAME从你手上进场时，你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="c91c249b-157c-4f1d-8171-29d1e75b1c9f" resname="POR·36 | Vengeance | Card Name">
         <source>Vengeance</source>
@@ -302,7 +302,7 @@
       </trans-unit>
       <trans-unit id="3e8d55a3-0d7f-4fba-9879-9a8264110e78" resname="POR·37 | Wall of Swords | Card Text | Paragraph 2">
         <source>CARDNAME can't attack.</source>
-        <target state="translated">剑墙不能攻击。</target>
+        <target state="translated">CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="8668e4af-ae89-4fab-8015-8dc643c6cd36" resname="POR·38 | Warrior's Charge | Card Name">
         <source>Warrior's Charge</source>
@@ -342,7 +342,7 @@
       </trans-unit>
       <trans-unit id="3875e753-117a-40b6-9cd2-dd5dfd11a38d" resname="POR·41 | Balance of Power | Card Text | Paragraph 1">
         <source>If you have fewer cards in your hand than your opponent does, draw until you have the same number. (When you play CARDNAME, it doesn't count as in your hand.)</source>
-        <target state="translated">若你手上的牌比对手手上的牌还要少，则你抓牌直到两人手上的牌数量相等（当你使用均衡力时，它不算是在你的手上）。</target>
+        <target state="translated">若你手上的牌比对手手上的牌还要少，则你抓牌直到两人手上的牌数量相等（当你使用CARDNAME时，它不算是在你的手上）。</target>
       </trans-unit>
       <trans-unit id="49fb46c8-30ae-4457-a726-6fe1ddd183d5" resname="POR·42 | Baleful Stare | Card Name">
         <source>Baleful Stare</source>
@@ -358,7 +358,7 @@
       </trans-unit>
       <trans-unit id="b8d5eec0-0afe-4af9-ba1b-70282df8cd0a" resname="POR·43 | Capricious Sorcerer | Card Text | Paragraph 1">
         <source>On your turn, before you attack, you may tap CARDNAME to have it deal 1 damage to any one creature or player.</source>
-        <target state="translated">在你的回合中，你进行攻击以前，你可以横置善变的术士，使它对任何一个生物或是玩家造成1点伤害。</target>
+        <target state="translated">在你的回合中，你进行攻击以前，你可以横置CARDNAME，使它对任何一个生物或是玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="9746790c-a426-4135-8c9d-afb82a0c26b8" resname="POR·44 | Cloak of Feathers | Card Name">
         <source>Cloak of Feathers</source>
@@ -378,7 +378,7 @@
       </trans-unit>
       <trans-unit id="4bb7fb59-65c0-4af6-9d3a-79cd6602d004" resname="POR·45 | Cloud Dragon | Card Text | Paragraph 2">
         <source>CARDNAME can intercept only creatures with flying.</source>
-        <target state="translated">云龙只能拦截具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能拦截具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="9f7386c6-d17a-4c7d-884d-2471b87d8b8e" resname="POR·46 | Cloud Pirates | Card Name">
         <source>Cloud Pirates</source>
@@ -390,7 +390,7 @@
       </trans-unit>
       <trans-unit id="9f7386c6-d17a-4c7d-884d-2471b87d8b8e" resname="POR·46 | Cloud Pirates | Card Text | Paragraph 2">
         <source>CARDNAME can intercept only creatures with flying.</source>
-        <target state="translated">腾云的海盗只能拦截具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能拦截具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="cc7547aa-fcf7-4b6e-955d-cc5ebc40cd7d" resname="POR·47 | Cloud Spirit | Card Name">
         <source>Cloud Spirit</source>
@@ -402,7 +402,7 @@
       </trans-unit>
       <trans-unit id="cc7547aa-fcf7-4b6e-955d-cc5ebc40cd7d" resname="POR·47 | Cloud Spirit | Card Text | Paragraph 2">
         <source>CARDNAME can intercept only creatures with flying.</source>
-        <target state="translated">云精灵只能拦截具有飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能拦截具有飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="e61b97fc-fa42-40a6-918e-e06383bfcae3" resname="POR·48 | Command of Unsummoning | Card Name">
         <source>Command of Unsummoning</source>
@@ -410,7 +410,7 @@
       </trans-unit>
       <trans-unit id="e61b97fc-fa42-40a6-918e-e06383bfcae3" resname="POR·48 | Command of Unsummoning | Card Text | Paragraph 1">
         <source>Play CARDNAME only after you're attacked, before you declare interceptors.</source>
-        <target state="translated">归还令只能在你被攻击后，但还未宣告拦截之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣告拦截之前使用。</target>
       </trans-unit>
       <trans-unit id="e61b97fc-fa42-40a6-918e-e06383bfcae3" resname="POR·48 | Command of Unsummoning | Card Text | Paragraph 2">
         <source>Return any one or two attacking creatures to their owner's hand.</source>
@@ -434,7 +434,7 @@
       </trans-unit>
       <trans-unit id="f2d7f8d8-30fb-47c7-8927-646c41f0b9bc" resname="POR·51 | Deep-Sea Serpent | Card Text | Paragraph 1">
         <source>CARDNAME can attack only if the defending player has an island in play.</source>
-        <target state="translated">只有在防御的玩家有海岛在场时，深海巨蛇才能攻击。</target>
+        <target state="translated">只有在防御的玩家有海岛在场时，CARDNAME才能攻击。</target>
       </trans-unit>
       <trans-unit id="3a5e7b52-2663-4140-9758-f24b8b947876" resname="POR·52 | Djinn of the Lamp | Card Name">
         <source>Djinn of the Lamp</source>
@@ -486,7 +486,7 @@
       </trans-unit>
       <trans-unit id="be341805-b4de-456e-8b46-4ee5fdbca7e0" resname="POR·58 | Ingenious Thief | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play from your hand, look at your opponent's hand.</source>
-        <target state="translated">当妙手盗贼由你的手上进场时，检视对手手上的牌。</target>
+        <target state="translated">当CARDNAME由你的手上进场时，检视对手手上的牌。</target>
       </trans-unit>
       <trans-unit id="e835b618-83c1-46e2-b8bd-aec56f58ccfc" resname="POR·59 | Man-o'-War | Card Name">
         <source>Man-o'-War</source>
@@ -494,7 +494,7 @@
       </trans-unit>
       <trans-unit id="e835b618-83c1-46e2-b8bd-aec56f58ccfc" resname="POR·59 | Man-o'-War | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, return any one creature to its owner's hand. (If you're the only one with creatures, return one of them to your hand.)</source>
-        <target state="translated">当战舰水母由你的手上进场时，将任何一只生物移回到其拥有者手上。（若此时只有你有生物在场，则将这些生物的其中一只移回手上。）</target>
+        <target state="translated">当CARDNAME由你的手上进场时，将任何一只生物移回到其拥有者手上。（若此时只有你有生物在场，则将这些生物的其中一只移回手上。）</target>
       </trans-unit>
       <trans-unit id="126fec7a-4f36-49e5-a2d7-96deb7af856f" resname="POR·60 | Merfolk of the Pearl Trident | Card Name">
         <source>Merfolk of the Pearl Trident</source>
@@ -506,7 +506,7 @@
       </trans-unit>
       <trans-unit id="52d60f29-6da0-4ce6-9c92-96f313007271" resname="POR·61 | Mystic Denial | Card Text | Paragraph 1">
         <source>Play CARDNAME only in response to another player playing a summon creature or a sorcery. That card has no effect, and that player puts it into his or her discard pile.</source>
-        <target state="translated">你只能在其他的玩家使用召唤生物或是法术时，以反应它的方式使用神秘的否定。被反应的牌将不会产生任何效应，而直接被放进弃牌堆中。</target>
+        <target state="translated">你只能在其他的玩家使用召唤生物或是法术时，以反应它的方式使用CARDNAME。被反应的牌将不会产生任何效应，而直接被放进弃牌堆中。</target>
       </trans-unit>
       <trans-unit id="6be1956e-c43e-4a6c-950a-5be6e6ca013f" resname="POR·62 | Omen | Card Name">
         <source>Omen</source>
@@ -526,7 +526,7 @@
       </trans-unit>
       <trans-unit id="d9587bcb-0ece-4b36-85dc-76899e403b08" resname="POR·63 | Owl Familiar | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play from your hand, draw a card, then choose and discard a card from your hand.</source>
-        <target state="translated">当猫头鹰佣兽由你的手上进场时，抓一张牌；然后选择你手上的一张牌，将它弃掉。</target>
+        <target state="translated">当CARDNAME由你的手上进场时，抓一张牌；然后选择你手上的一张牌，将它弃掉。</target>
       </trans-unit>
       <trans-unit id="1edc3917-fded-4773-8f8d-62bd861c1131" resname="POR·64 | Personal Tutor | Card Name">
         <source>Personal Tutor</source>
@@ -542,7 +542,7 @@
       </trans-unit>
       <trans-unit id="6dbcb0df-d1cc-4718-ba1e-b590852cce20" resname="POR·65 | Phantom Warrior | Card Text | Paragraph 1">
         <source>CARDNAME can't be intercepted.</source>
-        <target state="translated">幽魅战士不能被拦截</target>
+        <target state="translated">CARDNAME不能被拦截</target>
       </trans-unit>
       <trans-unit id="7dd755a7-914a-4547-8d38-34d8cc3b9a7f" resname="POR·66s | Prosperity | Card Name">
         <source>Prosperity</source>
@@ -606,7 +606,7 @@
       </trans-unit>
       <trans-unit id="cb3b9682-7f3a-4857-9ecf-01f3530659fc" resname="POR·73 | Thing from the Deep | Card Text | Paragraph 1">
         <source>If CARDNAME attacks, destroy one of your islands or destroy CARDNAME.</source>
-        <target state="translated">若深海来的怪物攻击，则你消灭一张你的海岛，否则消灭深海来的怪物。</target>
+        <target state="translated">若CARDNAME攻击，则你消灭一张你的海岛，否则消灭CARDNAME。</target>
       </trans-unit>
       <trans-unit id="a027c31d-c662-4ce1-a0d1-a32e62f6a724" resname="POR·74 | Tidal Surge | Card Name">
         <source>Tidal Surge</source>
@@ -662,7 +662,7 @@
       </trans-unit>
       <trans-unit id="235f25bf-e079-4957-bbb1-0f90716275ad" resname="POR·80s | Assassin's Blade | Card Text | Paragraph 1">
         <source>Cast this spell only during the declare attackers step and only if you've been attacked this step.</source>
-        <target state="translated">刺客之刃只能在你被攻击后，但尚未宣告拦截者之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但尚未宣告拦截者之前使用。</target>
       </trans-unit>
       <trans-unit id="235f25bf-e079-4957-bbb1-0f90716275ad" resname="POR·80s | Assassin's Blade | Card Text | Paragraph 2">
         <source>Destroy target nonblack attacking creature.</source>
@@ -682,7 +682,7 @@
       </trans-unit>
       <trans-unit id="eb7bbb7a-b59a-4a01-b1cb-66eef881ffcd" resname="POR·82 | Bog Raiders | Card Text | Paragraph 1">
         <source>Swampwalk (If defending player has any swamps in play, CARDNAME can't be intercepted.)</source>
-        <target state="translated">沼泽行者（若防御玩家在场上拥有任何沼泽，则腐沼突击队不能被拦截）</target>
+        <target state="translated">沼泽行者（若防御玩家在场上拥有任何沼泽，则CARDNAME不能被拦截）</target>
       </trans-unit>
       <trans-unit id="4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4" resname="POR·83 | Bog Wraith | Card Name">
         <source>Bog Wraith</source>
@@ -690,7 +690,7 @@
       </trans-unit>
       <trans-unit id="4487d7d0-d5a5-4b0c-bf30-e0ec511e9aa4" resname="POR·83 | Bog Wraith | Card Text | Paragraph 1">
         <source>Swampwalk (If defending player has any swamps in play, CARDNAME can't be intercepted.)</source>
-        <target state="translated">沼泽行者（若防御玩家在场上拥有任何沼泽，则腐沼鬼魂不能被拦截）</target>
+        <target state="translated">沼泽行者（若防御玩家在场上拥有任何沼泽，则CARDNAME不能被拦截）</target>
       </trans-unit>
       <trans-unit id="1721ee11-c7ee-4878-b2ab-4f090e0c5def" resname="POR·84 | Charging Bandits | Card Name">
         <source>Charging Bandits</source>
@@ -698,7 +698,7 @@
       </trans-unit>
       <trans-unit id="1721ee11-c7ee-4878-b2ab-4f090e0c5def" resname="POR·84 | Charging Bandits | Card Text | Paragraph 1">
         <source>If CARDNAME attacks, it gets +2/+0 until the end of the turn.</source>
-        <target state="translated">若冲锋的土匪攻击，则它得到+2S/+0D直到回合结束。</target>
+        <target state="translated">若CARDNAME攻击，则它得到+2S/+0D直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d4cbae27-4a1a-4e16-8876-9a2925c45302" resname="POR·85 | Craven Knight | Card Name">
         <source>Craven Knight</source>
@@ -706,7 +706,7 @@
       </trans-unit>
       <trans-unit id="d4cbae27-4a1a-4e16-8876-9a2925c45302" resname="POR·85 | Craven Knight | Card Text | Paragraph 1">
         <source>CARDNAME can't intercept.</source>
-        <target state="translated">怯懦的骑士不能进行拦截。</target>
+        <target state="translated">CARDNAME不能进行拦截。</target>
       </trans-unit>
       <trans-unit id="96837a9e-dd68-4ce8-b760-0e1c22837164" resname="POR·86 | Cruel Bargain | Card Name">
         <source>Cruel Bargain</source>
@@ -742,7 +742,7 @@
       </trans-unit>
       <trans-unit id="eb25d674-11f3-42d2-ba2f-e9a5d55a7852" resname="POR·89 | Dread Reaper | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play from your hand, you lose 5 life. (The person who plays CARDNAME loses the life.)</source>
-        <target state="translated">当恐怖镰刀手由你的手上进场时，你失去5点生命（使用恐怖镰刀手的人失去生命）。</target>
+        <target state="translated">当CARDNAME由你的手上进场时，你失去5点生命（使用CARDNAME的人失去生命）。</target>
       </trans-unit>
       <trans-unit id="a142f369-8fdd-4dc8-b5d9-3493455cc588" resname="POR·90 | Dry Spell | Card Name">
         <source>Dry Spell</source>
@@ -750,7 +750,7 @@
       </trans-unit>
       <trans-unit id="a142f369-8fdd-4dc8-b5d9-3493455cc588" resname="POR·90 | Dry Spell | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature and player. (This includes your creatures and you.)</source>
-        <target state="translated">干涸术对每一个生物及玩家造成1点伤害（包括你和你的生物都会受伤）。</target>
+        <target state="translated">CARDNAME对每一个生物及玩家造成1点伤害（包括你和你的生物都会受伤）。</target>
       </trans-unit>
       <trans-unit id="4f10cf69-d3dc-43a4-9595-0f7d245c5efa" resname="POR·91 | Ebon Dragon | Card Name">
         <source>Ebon Dragon</source>
@@ -762,7 +762,7 @@
       </trans-unit>
       <trans-unit id="4f10cf69-d3dc-43a4-9595-0f7d245c5efa" resname="POR·91 | Ebon Dragon | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play from your hand, you may force your opponent to choose and discard a card from his or her hand.</source>
-        <target state="translated">当黑檀巨龙由你的手上进场时，你可以强迫你的对手在他自己的手上选一张牌，并将那张牌弃到他的弃牌堆。</target>
+        <target state="translated">当CARDNAME由你的手上进场时，你可以强迫你的对手在他自己的手上选一张牌，并将那张牌弃到他的弃牌堆。</target>
       </trans-unit>
       <trans-unit id="0d3d18b9-ad59-435b-934b-703e10287e32" resname="POR·92 | Endless Cockroaches | Card Name">
         <source>Endless Cockroaches</source>
@@ -770,7 +770,7 @@
       </trans-unit>
       <trans-unit id="0d3d18b9-ad59-435b-934b-703e10287e32" resname="POR·92 | Endless Cockroaches | Card Text | Paragraph 1">
         <source>If CARDNAME is put into your discard pile from play, return CARDNAME to your hand.</source>
-        <target state="translated">若数不清的蟑螂由场上被放置入你的弃牌堆，则将数不清的蟑螂移回你的手上。</target>
+        <target state="translated">若CARDNAME由场上被放置入你的弃牌堆，则将CARDNAME移回你的手上。</target>
       </trans-unit>
       <trans-unit id="c46f4c00-6bf8-440b-9761-b17a0e36c27e" resname="POR·93 | Feral Shadow | Card Name">
         <source>Feral Shadow</source>
@@ -786,7 +786,7 @@
       </trans-unit>
       <trans-unit id="ecdfcb03-2f77-4f54-af62-3012cd3efd4f" resname="POR·94 | Final Strike | Card Text | Paragraph 1">
         <source>Choose one of your creatures. CARDNAME deals to your opponent damage equal to that creature's offense. Then, put the creature in your discard pile.</source>
-        <target state="translated">选择一只你的生物。死前反扑对你的对手造成伤害；此伤害的点数与被选择生物的攻击力点数相等。然后，将这只生物放置入你的弃牌堆。</target>
+        <target state="translated">选择一只你的生物。CARDNAME对你的对手造成伤害；此伤害的点数与被选择生物的攻击力点数相等。然后，将这只生物放置入你的弃牌堆。</target>
       </trans-unit>
       <trans-unit id="b979d70e-d514-420f-886c-f60e2bb1861f" resname="POR·95 | Gravedigger | Card Name">
         <source>Gravedigger</source>
@@ -794,7 +794,7 @@
       </trans-unit>
       <trans-unit id="b979d70e-d514-420f-886c-f60e2bb1861f" resname="POR·95 | Gravedigger | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, you may choose to return a summon creature from your discard pile to your hand.</source>
-        <target state="translated">当掘墓怪由你的手上进场时，你可以在你的弃牌堆中选择一张召唤生物牌，并将它移回你的手上。</target>
+        <target state="translated">当CARDNAME由你的手上进场时，你可以在你的弃牌堆中选择一张召唤生物牌，并将它移回你的手上。</target>
       </trans-unit>
       <trans-unit id="27f136b8-52be-49b9-919b-2b9785254350" resname="POR·96 | Hand of Death | Card Name">
         <source>Hand of Death</source>
@@ -826,7 +826,7 @@
       </trans-unit>
       <trans-unit id="670a3149-54fb-4fd2-bc66-3ee9bcc3519d" resname="POR·98 | King's Assassin | Card Text | Paragraph 1">
         <source>On your turn, before you attack, you may tap CARDNAME to destroy any one tapped creature.</source>
-        <target state="translated">在你的回合中，你攻击以前，你可以横置御用刺客，以消灭任何一只已经被横置的生物。</target>
+        <target state="translated">在你的回合中，你攻击以前，你可以横置CARDNAME，以消灭任何一只已经被横置的生物。</target>
       </trans-unit>
       <trans-unit id="ec9f97a2-b04e-418b-89c7-1c019288f27a" resname="POR·99 | Mercenary Knight | Card Name">
         <source>Mercenary Knight</source>
@@ -834,7 +834,7 @@
       </trans-unit>
       <trans-unit id="ec9f97a2-b04e-418b-89c7-1c019288f27a" resname="POR·99 | Mercenary Knight | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, choose and discard a summon creature from your hand or destroy CARDNAME.</source>
-        <target state="translated">当佣兵骑士由你的手上进场时，你从你的手上选择一张召唤生物牌，并将它弃到弃牌堆；否则，消灭佣兵骑士。</target>
+        <target state="translated">当CARDNAME由你的手上进场时，你从你的手上选择一张召唤生物牌，并将它弃到弃牌堆；否则，消灭CARDNAME。</target>
       </trans-unit>
       <trans-unit id="d17e23a6-6313-416d-b826-5df5833371dc" resname="POR·100 | Mind Knives | Card Name">
         <source>Mind Knives</source>
@@ -870,7 +870,7 @@
       </trans-unit>
       <trans-unit id="b5ec75ba-bae2-4ccc-b18b-ad4639cfb548" resname="POR·104 | Noxious Toad | Card Text | Paragraph 1">
         <source>If CARDNAME is put into your discard pile from play, your opponent chooses and discards a card from his or her hand.</source>
-        <target state="translated">若腐臭蟾蜍由场上被放到你的弃牌堆，则你的对手由他自己的手上选择一张牌，并将这张牌弃到他的弃牌堆。</target>
+        <target state="translated">若CARDNAME由场上被放到你的弃牌堆，则你的对手由他自己的手上选择一张牌，并将这张牌弃到他的弃牌堆。</target>
       </trans-unit>
       <trans-unit id="82c552a1-6245-4caf-8249-765ce7ea80d2" resname="POR·105 | Python | Card Name">
         <source>Python</source>
@@ -898,7 +898,7 @@
       </trans-unit>
       <trans-unit id="1018f6ff-5eaa-4fe1-ba20-544df799f5b2" resname="POR·108 | Serpent Assassin | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, you may choose to destroy any one creature that isn't black.</source>
-        <target state="translated">当巨蛇刺客自你的手上进场时，你可以选择场上一只非黑色的生物，并将该生物消灭。</target>
+        <target state="translated">当CARDNAME自你的手上进场时，你可以选择场上一只非黑色的生物，并将该生物消灭。</target>
       </trans-unit>
       <trans-unit id="c364fd06-64c5-45f6-8ed5-64f44a1e8bda" resname="POR·109 | Serpent Warrior | Card Name">
         <source>Serpent Warrior</source>
@@ -906,7 +906,7 @@
       </trans-unit>
       <trans-unit id="c364fd06-64c5-45f6-8ed5-64f44a1e8bda" resname="POR·109 | Serpent Warrior | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, you lose 3 life. (The person who plays CARDNAME loses the life.)</source>
-        <target state="translated">当巨蛇战士由你的手上进场时，你失去3点生命（使用巨蛇战士的人失去生命）。</target>
+        <target state="translated">当CARDNAME由你的手上进场时，你失去3点生命（使用CARDNAME的人失去生命）。</target>
       </trans-unit>
       <trans-unit id="ebcbbd6f-2915-4b4c-85d3-1d9b55d36c11" resname="POR·110 | Skeletal Crocodile | Card Name">
         <source>Skeletal Crocodile</source>
@@ -922,7 +922,7 @@
       </trans-unit>
       <trans-unit id="990902d2-9594-4963-807c-48a90324d487" resname="POR·112 | Soul Shred | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any one creature that isn't black. You gain 3 life.</source>
-        <target state="translated">碎灵术对任何一个非黑色的生物造成3点伤害。你得到3点生命。</target>
+        <target state="translated">CARDNAME对任何一个非黑色的生物造成3点伤害。你得到3点生命。</target>
       </trans-unit>
       <trans-unit id="9c95c752-3add-4830-8159-036b8689f40a" resname="POR·113 | Undying Beast | Card Name">
         <source>Undying Beast</source>
@@ -930,7 +930,7 @@
       </trans-unit>
       <trans-unit id="9c95c752-3add-4830-8159-036b8689f40a" resname="POR·113 | Undying Beast | Card Text | Paragraph 1">
         <source>If CARDNAME is put into your discard pile from play, put CARDNAME on top of your deck.</source>
-        <target state="translated">若不死魔兽由场上被放置到你的弃牌堆，则将不死魔兽放置在你的牌库顶端。</target>
+        <target state="translated">若CARDNAME由场上被放置到你的弃牌堆，则将CARDNAME放置在你的牌库顶端。</target>
       </trans-unit>
       <trans-unit id="9dfc875c-e79e-435a-906f-fb7e88550f01" resname="POR·114s | Vampiric Feast | Card Name">
         <source>Vampiric Feast</source>
@@ -938,7 +938,7 @@
       </trans-unit>
       <trans-unit id="9dfc875c-e79e-435a-906f-fb7e88550f01" resname="POR·114s | Vampiric Feast | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to any target and you gain 4 life.</source>
-        <target state="translated">吸血鬼飨宴对任何一个生物或玩家造成4点伤害。你得到4点生命。</target>
+        <target state="translated">CARDNAME对任何一个生物或玩家造成4点伤害。你得到4点生命。</target>
       </trans-unit>
       <trans-unit id="231f7598-8c47-4828-8240-e2a545a7ac5b" resname="POR·115 | Vampiric Touch | Card Name">
         <source>Vampiric Touch</source>
@@ -946,7 +946,7 @@
       </trans-unit>
       <trans-unit id="231f7598-8c47-4828-8240-e2a545a7ac5b" resname="POR·115 | Vampiric Touch | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to your opponent. You gain 2 life.</source>
-        <target state="translated">吸血鬼之触对你的对手造成2点伤害。你获得2点生命。</target>
+        <target state="translated">CARDNAME对你的对手造成2点伤害。你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="7854928a-d467-4616-b96b-de7e5fe7303e" resname="POR·116 | Virtue's Ruin | Card Name">
         <source>Virtue's Ruin</source>
@@ -962,7 +962,7 @@
       </trans-unit>
       <trans-unit id="bdc849bf-9c29-41a7-8fc0-ad0137c5724e" resname="POR·117s | Wicked Pact | Card Text | Paragraph 1">
         <source>Destroy two target nonblack creatures. You lose 5 life.</source>
-        <target state="translated">消灭任何两只非黑色的生物。你失去5点生命（若场上没有两只生物可供选择，则你不能使用恶之协约）。</target>
+        <target state="translated">消灭任何两只非黑色的生物。你失去5点生命（若场上没有两只生物可供选择，则你不能使用CARDNAME）。</target>
       </trans-unit>
       <trans-unit id="0b0d8d48-539e-4eb4-9ac1-025722aae459" resname="POR·118s | Blaze | Card Name">
         <source>Blaze</source>
@@ -970,7 +970,7 @@
       </trans-unit>
       <trans-unit id="0b0d8d48-539e-4eb4-9ac1-025722aae459" resname="POR·118s | Blaze | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to any target.</source>
-        <target state="translated">焰球对任一个生物或玩家造成X点伤害。</target>
+        <target state="translated">CARDNAME对任一个生物或玩家造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="04095ad2-7308-4e26-b9ef-070a5755d066" resname="POR·118†s | Blaze | Card Name">
         <source>Blaze</source>
@@ -978,7 +978,7 @@
       </trans-unit>
       <trans-unit id="04095ad2-7308-4e26-b9ef-070a5755d066" resname="POR·118†s | Blaze | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to any target.</source>
-        <target state="translated">焰球对任一个生物或玩家造成X点伤害（例如，当你使用焰球时，若你横置一张山脉并加上四张其他地，则焰球造成4点伤害）。</target>
+        <target state="translated">CARDNAME对任一个生物或玩家造成X点伤害（例如，当你使用CARDNAME时，若你横置一张山脉并加上四张其他地，则CARDNAME造成4点伤害）。</target>
       </trans-unit>
       <trans-unit id="d1523c1b-2ba1-4581-8502-47544d450d8e" resname="POR·119 | Boiling Seas | Card Name">
         <source>Boiling Seas</source>
@@ -998,7 +998,7 @@
       </trans-unit>
       <trans-unit id="e2b8f443-dba5-45a5-bb2e-f57b4fdd1d01" resname="POR·120 | Burning Cloak | Card Text | Paragraph 2">
         <source>CARDNAME deals 2 damage to that creature.</source>
-        <target state="translated">燃烧之袍对该生物造成2点伤害。</target>
+        <target state="translated">CARDNAME对该生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="4a2e1c12-f848-43b4-9505-851c66a509f1" resname="POR·121 | Craven Giant | Card Name">
         <source>Craven Giant</source>
@@ -1006,7 +1006,7 @@
       </trans-unit>
       <trans-unit id="4a2e1c12-f848-43b4-9505-851c66a509f1" resname="POR·121 | Craven Giant | Card Text | Paragraph 1">
         <source>CARDNAME can't intercept.</source>
-        <target state="translated">懦弱巨人不能进行拦截</target>
+        <target state="translated">CARDNAME不能进行拦截</target>
       </trans-unit>
       <trans-unit id="24673b35-aed2-40c0-a4ae-93bc4d392562" resname="POR·122 | Desert Drake | Card Name">
         <source>Desert Drake</source>
@@ -1030,7 +1030,7 @@
       </trans-unit>
       <trans-unit id="272f65a3-3c0c-417d-b5b6-276a643d643e" resname="POR·124 | Earthquake | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each player and each creature without flying. (This includes you and your creatures without flying.)</source>
-        <target state="translated">地震对每一个玩家和每一只不会飞的生物，造成X点伤害（包括你自己，和你的不具飞行异能的生物）。</target>
+        <target state="translated">CARDNAME对每一个玩家和每一只不会飞的生物，造成X点伤害（包括你自己，和你的不具飞行异能的生物）。</target>
       </trans-unit>
       <trans-unit id="bf1f26d1-4381-470a-bfbf-ef226f980597" resname="POR·125 | Fire Dragon | Card Name">
         <source>Fire Dragon</source>
@@ -1042,7 +1042,7 @@
       </trans-unit>
       <trans-unit id="bf1f26d1-4381-470a-bfbf-ef226f980597" resname="POR·125 | Fire Dragon | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play from your hand, it deals to any one creature damage equal to the number of mountains you have in play.</source>
-        <target state="translated">当火龙从你手上进场时，它对任何一只生物造成伤害；此伤害点数等同于你在场上所拥有之山脉数量。</target>
+        <target state="translated">当CARDNAME从你手上进场时，它对任何一只生物造成伤害；此伤害点数等同于你在场上所拥有之山脉数量。</target>
       </trans-unit>
       <trans-unit id="ea7edaf3-7941-4085-bdbc-e5c9832b6444" resname="POR·126 | Fire Imp | Card Name">
         <source>Fire Imp</source>
@@ -1050,7 +1050,7 @@
       </trans-unit>
       <trans-unit id="ea7edaf3-7941-4085-bdbc-e5c9832b6444" resname="POR·126 | Fire Imp | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, it deals 2 damage to any one creature. (If you're the only player with creatures, CARDNAME deals 2 damage to one of your creatures.)</source>
-        <target state="translated">当火焰小恶魔从你的手上进场时，它对任何一只生物造成2点伤害（若场上只有你有生物，则火焰小恶魔对你的一只生物造成2点伤害）。</target>
+        <target state="translated">当CARDNAME从你的手上进场时，它对任何一只生物造成2点伤害（若场上只有你有生物，则CARDNAME对你的一只生物造成2点伤害）。</target>
       </trans-unit>
       <trans-unit id="d4c36e32-59e8-4e3d-903e-a264211f2a82" resname="POR·127 | Fire Snake | Card Name">
         <source>Fire Snake</source>
@@ -1058,7 +1058,7 @@
       </trans-unit>
       <trans-unit id="d4c36e32-59e8-4e3d-903e-a264211f2a82" resname="POR·127 | Fire Snake | Card Text | Paragraph 1">
         <source>If CARDNAME is put into your discard pile from play, destroy any one land.</source>
-        <target state="translated">如果火蛇由场上被放置入你的弃牌堆，则消灭任何一张地。</target>
+        <target state="translated">如果CARDNAME由场上被放置入你的弃牌堆，则消灭任何一张地。</target>
       </trans-unit>
       <trans-unit id="92334ebe-3d7a-46de-8b91-931e5d56a5a5" resname="POR·128 | Fire Tempest | Card Name">
         <source>Fire Tempest</source>
@@ -1066,7 +1066,7 @@
       </trans-unit>
       <trans-unit id="92334ebe-3d7a-46de-8b91-931e5d56a5a5" resname="POR·128 | Fire Tempest | Card Text | Paragraph 1">
         <source>CARDNAME deals 6 damage to each creature and player. (This includes your creatures and you. If all players drop to 0 life or less, the game is a draw.)</source>
-        <target state="translated">火炎暴风对每个生物和玩家造成6点伤害（包括你所有的生物和你自己。如果所有玩家生命都降至0或以下，则游戏平手）。</target>
+        <target state="translated">CARDNAME对每个生物和玩家造成6点伤害（包括你所有的生物和你自己。如果所有玩家生命都降至0或以下，则游戏平手）。</target>
       </trans-unit>
       <trans-unit id="a9e88867-6acb-43f8-806b-21480aaa1afc" resname="POR·129 | Flashfires | Card Name">
         <source>Flashfires</source>
@@ -1082,7 +1082,7 @@
       </trans-unit>
       <trans-unit id="85883197-fd55-4e82-862f-87be4f789493" resname="POR·130 | Forked Lightning | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage divided any way you choose among any one, two, or three creatures.</source>
-        <target state="translated">叉状闪电共造成4点伤害；你可任意将这4点伤害分配给一只、两只、或三只生物。</target>
+        <target state="translated">CARDNAME共造成4点伤害；你可任意将这4点伤害分配给一只、两只、或三只生物。</target>
       </trans-unit>
       <trans-unit id="2094f2f6-8b38-47d6-973d-271986b5d982" resname="POR·131 | Goblin Bully | Card Name">
         <source>Goblin Bully</source>
@@ -1102,7 +1102,7 @@
       </trans-unit>
       <trans-unit id="78ca7851-1267-4dcc-ab5d-0ab205624562" resname="POR·134s | Hulking Cyclops | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">懦弱独眼巨人不能进行拦截。</target>
+        <target state="translated">CARDNAME不能进行拦截。</target>
       </trans-unit>
       <trans-unit id="8e3eead8-7e07-4463-9e67-c396d2d7931e" resname="POR·135 | Hulking Goblin | Card Name">
         <source>Hulking Goblin</source>
@@ -1110,7 +1110,7 @@
       </trans-unit>
       <trans-unit id="8e3eead8-7e07-4463-9e67-c396d2d7931e" resname="POR·135 | Hulking Goblin | Card Text | Paragraph 1">
         <source>CARDNAME can't intercept.</source>
-        <target state="translated">笨拙鬼怪不能进行拦截。</target>
+        <target state="translated">CARDNAME不能进行拦截。</target>
       </trans-unit>
       <trans-unit id="86f2c423-1694-466e-9a7d-4ec99e53578d" resname="POR·136 | Last Chance | Card Name">
         <source>Last Chance</source>
@@ -1126,7 +1126,7 @@
       </trans-unit>
       <trans-unit id="f2bebbad-76aa-4388-891a-583e8af9509d" resname="POR·137 | Lava Axe | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to your opponent.</source>
-        <target state="translated">熔岩斧对你的对手造成5点伤害。</target>
+        <target state="translated">CARDNAME对你的对手造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="89e825e4-98be-49f0-bc5e-c8988118dcef" resname="POR·138 | Lava Flow | Card Name">
         <source>Lava Flow</source>
@@ -1150,7 +1150,7 @@
       </trans-unit>
       <trans-unit id="325100f1-d424-4db0-bfa9-24877156c0ba" resname="POR·141 | Mountain Goat | Card Text | Paragraph 1">
         <source>Mountainwalk (If defending player has any mountains in play, CARDNAME can't be intercepted.)</source>
-        <target state="translated">山脉行者（若防御玩家拥有任何山脉在场，则高山山羊不能被拦截）。</target>
+        <target state="translated">山脉行者（若防御玩家拥有任何山脉在场，则CARDNAME不能被拦截）。</target>
       </trans-unit>
       <trans-unit id="1daad744-e6b2-4bd8-83df-2e97e9e60d16" resname="POR·142 | Pillaging Horde | Card Name">
         <source>Pillaging Horde</source>
@@ -1158,7 +1158,7 @@
       </trans-unit>
       <trans-unit id="1daad744-e6b2-4bd8-83df-2e97e9e60d16" resname="POR·142 | Pillaging Horde | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, discard a card at random from your hand or destroy CARDNAME.</source>
-        <target state="translated">当掠夺蛮族从你手上进场时，你从你手中任意弃掉一张牌，否则消灭掠夺蛮族。</target>
+        <target state="translated">当CARDNAME从你手上进场时，你从你手中任意弃掉一张牌，否则消灭CARDNAME。</target>
       </trans-unit>
       <trans-unit id="de214247-e5e3-4d8f-935a-797218416be1" resname="POR·143 | Pyroclasm | Card Name">
         <source>Pyroclasm</source>
@@ -1166,7 +1166,7 @@
       </trans-unit>
       <trans-unit id="de214247-e5e3-4d8f-935a-797218416be1" resname="POR·143 | Pyroclasm | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each creature. (This includes your creatures.)</source>
-        <target state="translated">烈火断层对每只生物造成2点伤害（包括你的生物）。</target>
+        <target state="translated">CARDNAME对每只生物造成2点伤害（包括你的生物）。</target>
       </trans-unit>
       <trans-unit id="fd9d126a-9db9-4adc-9cf6-11408c63201d" resname="POR·144 | Raging Cougar | Card Name">
         <source>Raging Cougar</source>
@@ -1174,7 +1174,7 @@
       </trans-unit>
       <trans-unit id="fd9d126a-9db9-4adc-9cf6-11408c63201d" resname="POR·144 | Raging Cougar | Card Text | Paragraph 1">
         <source>CARDNAME is unaffected by summoning sickness.</source>
-        <target state="translated">愤怒美洲豹不受召唤时失调的影响。</target>
+        <target state="translated">CARDNAME不受召唤时失调的影响。</target>
       </trans-unit>
       <trans-unit id="fed57a17-7847-4e60-bc40-4452880f12a3" resname="POR·145 | Raging Goblin | Card Name">
         <source>Raging Goblin</source>
@@ -1182,7 +1182,7 @@
       </trans-unit>
       <trans-unit id="fed57a17-7847-4e60-bc40-4452880f12a3" resname="POR·145 | Raging Goblin | Card Text | Paragraph 1">
         <source>CARDNAME is unaffected by summoning sickness.</source>
-        <target state="translated">愤怒鬼怪不受召唤时失调影响。</target>
+        <target state="translated">CARDNAME不受召唤时失调影响。</target>
       </trans-unit>
       <trans-unit id="6c0fa444-5534-4476-8bfa-78b2364f2dd3" resname="POR·145† | Raging Goblin | Card Name">
         <source>Raging Goblin</source>
@@ -1190,7 +1190,7 @@
       </trans-unit>
       <trans-unit id="6c0fa444-5534-4476-8bfa-78b2364f2dd3" resname="POR·145† | Raging Goblin | Card Text | Paragraph 1">
         <source>CARDNAME is unaffected by summoning sickness. (It can attack the turn you play it, unless another card prevents this.)</source>
-        <target state="translated">愤怒鬼怪不受召唤时失调影响（在它由你手上进场的那一回合，他便能够攻击，除非其他的牌阻止）。</target>
+        <target state="translated">CARDNAME不受召唤时失调影响（在它由你手上进场的那一回合，他便能够攻击，除非其他的牌阻止）。</target>
       </trans-unit>
       <trans-unit id="2ea4be95-8147-431c-8bb8-8fe7e5a2ad53" resname="POR·146 | Raging Minotaur | Card Name">
         <source>Raging Minotaur</source>
@@ -1198,7 +1198,7 @@
       </trans-unit>
       <trans-unit id="2ea4be95-8147-431c-8bb8-8fe7e5a2ad53" resname="POR·146 | Raging Minotaur | Card Text | Paragraph 1">
         <source>CARDNAME is unaffected by summoning sickness.</source>
-        <target state="translated">愤怒牛头怪不受召唤时失调的影响。</target>
+        <target state="translated">CARDNAME不受召唤时失调的影响。</target>
       </trans-unit>
       <trans-unit id="661ffab2-9cf5-492d-874f-de73d7a13e2b" resname="POR·147 | Rain of Salt | Card Name">
         <source>Rain of Salt</source>
@@ -1214,7 +1214,7 @@
       </trans-unit>
       <trans-unit id="9e4817bd-68e8-4a85-983a-ee6dda2bbf33" resname="POR·148 | Scorching Spear | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to any one creature or player.</source>
-        <target state="translated">焦热之矛对任一个生物或玩家造成1点伤害。</target>
+        <target state="translated">CARDNAME对任一个生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="5fec371e-d4ba-439f-b1b8-2aac3f5b36bf" resname="POR·149 | Scorching Winds | Card Name">
         <source>Scorching Winds</source>
@@ -1222,11 +1222,11 @@
       </trans-unit>
       <trans-unit id="5fec371e-d4ba-439f-b1b8-2aac3f5b36bf" resname="POR·149 | Scorching Winds | Card Text | Paragraph 1">
         <source>Play CARDNAME only after you're attacked, before you declare interceptors.</source>
-        <target state="translated">炙风只能在你被攻击后，但还未宣告拦截者以前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣告拦截者以前使用。</target>
       </trans-unit>
       <trans-unit id="5fec371e-d4ba-439f-b1b8-2aac3f5b36bf" resname="POR·149 | Scorching Winds | Card Text | Paragraph 2">
         <source>CARDNAME deals 1 damage to each attacking creature.</source>
-        <target state="translated">炙风对每一只攻击生物造成1点伤害。</target>
+        <target state="translated">CARDNAME对每一只攻击生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="eb16998c-cfa4-49cc-8e37-2dfc33fa2f1e" resname="POR·150 | Spitting Earth | Card Name">
         <source>Spitting Earth</source>
@@ -1234,7 +1234,7 @@
       </trans-unit>
       <trans-unit id="eb16998c-cfa4-49cc-8e37-2dfc33fa2f1e" resname="POR·150 | Spitting Earth | Card Text | Paragraph 1">
         <source>CARDNAME deals to any one creature damage equal to the number of mountains you have in play. (This includes both tapped and untapped mountains.)</source>
-        <target state="translated">土石喷发对任何一只生物造成与你场上所拥有之山脉数目等数量的伤害（这包括已被横置和未横置的山脉）。</target>
+        <target state="translated">CARDNAME对任何一只生物造成与你场上所拥有之山脉数目等数量的伤害（这包括已被横置和未横置的山脉）。</target>
       </trans-unit>
       <trans-unit id="57f84a13-d7dc-491b-a77c-1b99b6797d7e" resname="POR·151 | Stone Rain | Card Name">
         <source>Stone Rain</source>
@@ -1250,11 +1250,11 @@
       </trans-unit>
       <trans-unit id="59a9f3f5-c80f-47a4-bf84-b7262437017f" resname="POR·152 | Thundermare | Card Text | Paragraph 1">
         <source>CARDNAME is unaffected by summoning sickness.</source>
-        <target state="translated">雷魇不受召唤时失调的影响。</target>
+        <target state="translated">CARDNAME不受召唤时失调的影响。</target>
       </trans-unit>
       <trans-unit id="59a9f3f5-c80f-47a4-bf84-b7262437017f" resname="POR·152 | Thundermare | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play from your hand, tap all other creatures. (This includes your creatures.)</source>
-        <target state="translated">当雷魇从你的手上进场时，横置所有其他生物（包括你的生物）。</target>
+        <target state="translated">当CARDNAME从你的手上进场时，横置所有其他生物（包括你的生物）。</target>
       </trans-unit>
       <trans-unit id="d99c5c70-7568-42d3-939c-b6ee1ed94b9f" resname="POR·153 | Volcanic Dragon | Card Name">
         <source>Volcanic Dragon</source>
@@ -1266,7 +1266,7 @@
       </trans-unit>
       <trans-unit id="d99c5c70-7568-42d3-939c-b6ee1ed94b9f" resname="POR·153 | Volcanic Dragon | Card Text | Paragraph 2">
         <source>CARDNAME is unaffected by summoning sickness.</source>
-        <target state="translated">火山龙不受召唤时失调的影响。</target>
+        <target state="translated">CARDNAME不受召唤时失调的影响。</target>
       </trans-unit>
       <trans-unit id="9563d7c1-4ed1-4919-b0b8-ea1ec9d4bbf6" resname="POR·154 | Volcanic Hammer | Card Name">
         <source>Volcanic Hammer</source>
@@ -1274,7 +1274,7 @@
       </trans-unit>
       <trans-unit id="9563d7c1-4ed1-4919-b0b8-ea1ec9d4bbf6" resname="POR·154 | Volcanic Hammer | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any one creature or player.</source>
-        <target state="translated">火山锤对任一个生物或玩家造成3点伤害。</target>
+        <target state="translated">CARDNAME对任一个生物或玩家造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="70c5ac71-bf45-4b99-8184-36ce88dd728a" resname="POR·155 | Wall of Granite | Card Name">
         <source>Wall of Granite</source>
@@ -1282,7 +1282,7 @@
       </trans-unit>
       <trans-unit id="70c5ac71-bf45-4b99-8184-36ce88dd728a" resname="POR·155 | Wall of Granite | Card Text | Paragraph 1">
         <source>CARDNAME can't attack.</source>
-        <target state="translated">花岗石墙不能攻击。</target>
+        <target state="translated">CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="735b8aec-62d4-46db-9a68-a6c69cb6fd98" resname="POR·156 | Winds of Change | Card Name">
         <source>Winds of Change</source>
@@ -1290,7 +1290,7 @@
       </trans-unit>
       <trans-unit id="735b8aec-62d4-46db-9a68-a6c69cb6fd98" resname="POR·156 | Winds of Change | Card Text | Paragraph 1">
         <source>Each player counts the cards in his or her hand, shuffles those cards into his or her deck, and then draws that many cards. (When you play CARDNAME, it doesn't count as a card in your hand.)</source>
-        <target state="translated">每个玩家计算自己手上牌的数量，然后将这些牌放进他的牌库中洗牌。此后，抓取等数量的牌（当你使用转变之风时，它不算是你手上的牌）。</target>
+        <target state="translated">每个玩家计算自己手上牌的数量，然后将这些牌放进他的牌库中洗牌。此后，抓取等数量的牌（当你使用CARDNAME时，它不算是你手上的牌）。</target>
       </trans-unit>
       <trans-unit id="8726242e-bfd8-4ed5-a016-ac0c82e4762b" resname="POR·157 | Alluring Scent | Card Name">
         <source>Alluring Scent</source>
@@ -1306,7 +1306,7 @@
       </trans-unit>
       <trans-unit id="0a2012ad-6425-4935-83af-fc7309ec2ece" resname="POR·158 | Anaconda | Card Text | Paragraph 1">
         <source>Swampwalk (If defending player has any swamps in play, CARDNAME can't be intercepted.)</source>
-        <target state="translated">沼泽行者（若防御玩家在场上拥有任何沼泽，则大水蛇不能被拦截）</target>
+        <target state="translated">沼泽行者（若防御玩家在场上拥有任何沼泽，则CARDNAME不能被拦截）</target>
       </trans-unit>
       <trans-unit id="6ffba7a5-8845-46f4-bb86-4722d6cbd4c1" resname="POR·158† | Anaconda | Card Name">
         <source>Anaconda</source>
@@ -1315,7 +1315,7 @@
       </trans-unit>
       <trans-unit id="6ffba7a5-8845-46f4-bb86-4722d6cbd4c1" resname="POR·158† | Anaconda | Card Text | Paragraph 1">
         <source>Swampwalk (If defending player has any swamps in play, CARDNAME can't be intercepted. Swamps are in play regardless of whether they're tapped or untapped.)</source>
-        <target state="translated">沼泽行者（若防御玩家在场上拥有任何沼泽，则大水蛇不能被拦截。无论树林是否为已横置的，此异能都会生效）</target>
+        <target state="translated">沼泽行者（若防御玩家在场上拥有任何沼泽，则CARDNAME不能被拦截。无论树林是否为已横置的，此异能都会生效）</target>
         <note xmlns:from="developer">“树林”应为“沼泽”。</note>
       </trans-unit>
       <trans-unit id="23bcf64a-ae3d-4abb-acc7-81bba237f37b" resname="POR·159 | Bee Sting | Card Name">
@@ -1324,7 +1324,7 @@
       </trans-unit>
       <trans-unit id="23bcf64a-ae3d-4abb-acc7-81bba237f37b" resname="POR·159 | Bee Sting | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any one creature or player.</source>
-        <target state="translated">蜂刺对任何一个生物或玩家造成2点伤害。</target>
+        <target state="translated">CARDNAME对任何一个生物或玩家造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="30dd236b-94fc-4c56-aeae-215c71a009ea" resname="POR·160 | Bull Hippo | Card Name">
         <source>Bull Hippo</source>
@@ -1332,7 +1332,7 @@
       </trans-unit>
       <trans-unit id="30dd236b-94fc-4c56-aeae-215c71a009ea" resname="POR·160 | Bull Hippo | Card Text | Paragraph 1">
         <source>Islandwalk (If defending player has any islands in play, CARDNAME can't be intercepted.)</source>
-        <target state="translated">海岛行者（若防御玩家在场上拥有任何海岛，则野蛮河马不能被拦截）</target>
+        <target state="translated">海岛行者（若防御玩家在场上拥有任何海岛，则CARDNAME不能被拦截）</target>
       </trans-unit>
       <trans-unit id="49e47248-051c-4ee6-aad2-352ebd1f38ca" resname="POR·161 | Charging Rhino | Card Name">
         <source>Charging Rhino</source>
@@ -1340,7 +1340,7 @@
       </trans-unit>
       <trans-unit id="49e47248-051c-4ee6-aad2-352ebd1f38ca" resname="POR·161 | Charging Rhino | Card Text | Paragraph 1">
         <source>CARDNAME can't be intercepted by more than one creature.</source>
-        <target state="translated">冲锋犀牛不能被一个以上的生物拦截。</target>
+        <target state="translated">CARDNAME不能被一个以上的生物拦截。</target>
       </trans-unit>
       <trans-unit id="4216c5aa-9df0-4e7c-b3e9-a3f712b17ce7" resname="POR·162 | Deep Wood | Card Name">
         <source>Deep Wood</source>
@@ -1348,7 +1348,7 @@
       </trans-unit>
       <trans-unit id="4216c5aa-9df0-4e7c-b3e9-a3f712b17ce7" resname="POR·162 | Deep Wood | Card Text | Paragraph 1">
         <source>Play CARDNAME only after you're attacked, before you declare interceptors.</source>
-        <target state="translated">密林深处只能在你被攻击后，但还未宣告拦截者以前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣告拦截者以前使用。</target>
       </trans-unit>
       <trans-unit id="4216c5aa-9df0-4e7c-b3e9-a3f712b17ce7" resname="POR·162 | Deep Wood | Card Text | Paragraph 2">
         <source>This turn, all damage dealt to you by attacking creatures is reduced to 0.</source>
@@ -1360,7 +1360,7 @@
       </trans-unit>
       <trans-unit id="7396c4e9-b0d8-4b8f-8c17-6f913a967b17" resname="POR·163 | Elite Cat Warrior | Card Text | Paragraph 1">
         <source>Forestwalk (If defending player has any forests in play, CARDNAME can't be intercepted.)</source>
-        <target state="translated">树林行者（若防御玩家在场上拥有任何树林，则精锐猫战士不能被拦截）</target>
+        <target state="translated">树林行者（若防御玩家在场上拥有任何树林，则CARDNAME不能被拦截）</target>
       </trans-unit>
       <trans-unit id="70a4d16b-5bfc-4e35-8a8e-16cf84f54586" resname="POR·163† | Elite Cat Warrior | Card Name">
         <source>Elite Cat Warrior</source>
@@ -1368,7 +1368,7 @@
       </trans-unit>
       <trans-unit id="70a4d16b-5bfc-4e35-8a8e-16cf84f54586" resname="POR·163† | Elite Cat Warrior | Card Text | Paragraph 1">
         <source>Forestwalk (If defending player has any forests in play, CARDNAME can't be intercepted. Forests are in play regardless of whether they're tapped or untapped.)</source>
-        <target state="translated">树林行者（若防御玩家在场上拥有任何树林，则精锐猫战士不能被拦截。无论树林是否为已横置的，此异能都会生效）</target>
+        <target state="translated">树林行者（若防御玩家在场上拥有任何树林，则CARDNAME不能被拦截。无论树林是否为已横置的，此异能都会生效）</target>
       </trans-unit>
       <trans-unit id="2c0b0afb-75c0-4613-be3b-f4b739fa7954" resname="POR·164s | Elven Cache | Card Name">
         <source>Elven Cache</source>
@@ -1396,7 +1396,7 @@
       </trans-unit>
       <trans-unit id="2995530c-16bd-4dcb-99c2-008bba00052c" resname="POR·167 | Giant Spider | Card Text | Paragraph 1">
         <source>CARDNAME can intercept as though it had flying.</source>
-        <target state="translated">巨型蜘蛛可以拦截具飞行异能的生物。</target>
+        <target state="translated">CARDNAME可以拦截具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="38f9c3f3-0d4d-4eec-bd14-9be3233178dc" resname="POR·168 | Gorilla Warrior | Card Name">
         <source>Gorilla Warrior</source>
@@ -1412,7 +1412,7 @@
       </trans-unit>
       <trans-unit id="7b97904e-80ba-4d65-808a-a528200430f8" resname="POR·170 | Hurricane | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each player and each creature with flying. (This includes you and your creatures with flying.)</source>
-        <target state="translated">飓风对所有具有飞行异能的生物造成X点伤害（包括你自己的飞行生物）。</target>
+        <target state="translated">CARDNAME对所有具有飞行异能的生物造成X点伤害（包括你自己的飞行生物）。</target>
       </trans-unit>
       <trans-unit id="613ceee3-92c7-46f1-8267-d6229ab15df5" resname="POR·171 | Jungle Lion | Card Name">
         <source>Jungle Lion</source>
@@ -1420,7 +1420,7 @@
       </trans-unit>
       <trans-unit id="613ceee3-92c7-46f1-8267-d6229ab15df5" resname="POR·171 | Jungle Lion | Card Text | Paragraph 1">
         <source>CARDNAME can't intercept.</source>
-        <target state="translated">丛林雄狮不能进行拦截。</target>
+        <target state="translated">CARDNAME不能进行拦截。</target>
       </trans-unit>
       <trans-unit id="9712ecaa-4059-44ba-98b7-07bfe7411b5b" resname="POR·172 | Mobilize | Card Name">
         <source>Mobilize</source>
@@ -1492,7 +1492,7 @@
       </trans-unit>
       <trans-unit id="29a44e44-94b1-4bd2-8e00-6bd2ec07ee4c" resname="POR·179 | Needle Storm | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to each creature with flying. (This includes your creatures with flying.)</source>
-        <target state="translated">针刺风暴对每一个具飞行异能的生物造成2点伤害（包括你自己的飞行生物）。</target>
+        <target state="translated">CARDNAME对每一个具飞行异能的生物造成2点伤害（包括你自己的飞行生物）。</target>
       </trans-unit>
       <trans-unit id="8be610ce-5b84-416e-b427-98887642ff01" resname="POR·180 | Panther Warriors | Card Name">
         <source>Panther Warriors</source>
@@ -1504,7 +1504,7 @@
       </trans-unit>
       <trans-unit id="892594db-1d66-4c45-bd54-608a9972ca77" resname="POR·181 | Plant Elemental | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, destroy one of your forests or destroy CARDNAME.</source>
-        <target state="translated">当植物元素从你的手上进场时，消灭你场上的一张树林，否则消灭植物元素。</target>
+        <target state="translated">当CARDNAME从你的手上进场时，消灭你场上的一张树林，否则消灭CARDNAME。</target>
       </trans-unit>
       <trans-unit id="1ce7fc51-0ed8-49d9-bdba-ba5a89e1e852" resname="POR·182 | Primeval Force | Card Name">
         <source>Primeval Force</source>
@@ -1512,7 +1512,7 @@
       </trans-unit>
       <trans-unit id="1ce7fc51-0ed8-49d9-bdba-ba5a89e1e852" resname="POR·182 | Primeval Force | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, destroy three of your forests or destroy CARDNAME.</source>
-        <target state="translated">当太古之力从你的手上进场时，消灭你在场上的三张树林，否则消灭太古之力。</target>
+        <target state="translated">当CARDNAME从你的手上进场时，消灭你在场上的三张树林，否则消灭CARDNAME。</target>
       </trans-unit>
       <trans-unit id="e9399667-ae2a-4b64-84dd-8f97f3e5fe79" resname="POR·183 | Redwood Treefolk | Card Name">
         <source>Redwood Treefolk</source>
@@ -1532,7 +1532,7 @@
       </trans-unit>
       <trans-unit id="cbc78337-2d1a-4a1d-8630-fcf7a7f6abce" resname="POR·186 | Stalking Tiger | Card Text | Paragraph 1">
         <source>CARDNAME can't be intercepted by more than one creature.</source>
-        <target state="translated">潜行之虎不能被一个以上的生物拦截。</target>
+        <target state="translated">CARDNAME不能被一个以上的生物拦截。</target>
       </trans-unit>
       <trans-unit id="5e86abcc-272e-4959-90ee-343b9f546ea7" resname="POR·187 | Summer Bloom | Card Name">
         <source>Summer Bloom</source>
@@ -1556,7 +1556,7 @@
       </trans-unit>
       <trans-unit id="8b0ba623-d17f-4f0e-b914-da139a3971df" resname="POR·189 | Thundering Wurm | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, discard a land from your hand or destroy CARDNAME.</source>
-        <target state="translated">当雷动亚龙从你的手上进场时，从你的手上弃掉一张地牌，否则消灭雷动亚龙。</target>
+        <target state="translated">当CARDNAME从你的手上进场时，从你的手上弃掉一张地牌，否则消灭CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f5e134b3-e8af-41e9-928d-c217ea7b2b13" resname="POR·190 | Treetop Defense | Card Name">
         <source>Treetop Defense</source>
@@ -1564,7 +1564,7 @@
       </trans-unit>
       <trans-unit id="f5e134b3-e8af-41e9-928d-c217ea7b2b13" resname="POR·190 | Treetop Defense | Card Text | Paragraph 1">
         <source>Play CARDNAME only after you're attacked, before you declare interceptors.</source>
-        <target state="translated">树顶防线只能在你被攻击后，但还未宣告拦截者之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣告拦截者之前使用。</target>
       </trans-unit>
       <trans-unit id="f5e134b3-e8af-41e9-928d-c217ea7b2b13" resname="POR·190 | Treetop Defense | Card Text | Paragraph 2">
         <source>This turn, all your creatures can intercept as though they had flying.</source>
@@ -1588,7 +1588,7 @@
       </trans-unit>
       <trans-unit id="1def835b-aabb-4a9d-8fb9-460452de0d79" resname="POR·193 | Willow Dryad | Card Text | Paragraph 1">
         <source>Forestwalk (If defending player has any forests in play, CARDNAME can't be intercepted.)</source>
-        <target state="translated">树林行者（若防御玩家在场上拥有任何树林，则柳树仙女不能被拦截）</target>
+        <target state="translated">树林行者（若防御玩家在场上拥有任何树林，则CARDNAME不能被拦截）</target>
       </trans-unit>
       <trans-unit id="b2215de4-da49-4270-aec7-5e16a938bae4" resname="POR·194 | Winter's Grasp | Card Name">
         <source>Winter's Grasp</source>
@@ -1604,7 +1604,7 @@
       </trans-unit>
       <trans-unit id="b7f1fb90-5c85-46a5-802d-248cc0250921" resname="POR·195 | Wood Elves | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play from your hand, search your deck for a forest and put that card into play. Shuffle your deck afterwards.</source>
-        <target state="translated">当林木妖精从你的手中进场时，在你的套牌中搜寻一张树林并将之放置进场。此后，将你的套牌洗牌。</target>
+        <target state="translated">当CARDNAME从你的手中进场时，在你的套牌中搜寻一张树林并将之放置进场。此后，将你的套牌洗牌。</target>
       </trans-unit>
       <trans-unit id="a02b90ae-6f52-412f-88fa-1a5585f486bd" resname="POR·196s | Plains | Card Name">
         <source>Plains</source>

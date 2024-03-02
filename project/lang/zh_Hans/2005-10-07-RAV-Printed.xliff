@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="942d6414-11e1-4822-9c5d-e4f96846a85f" resname="RAV·1 | Auratouched Mage | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, search your library for an Aura card that could enchant it. If CARDNAME is still in play, attach that Aura to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library.</source>
-        <target state="translated">当灵佑法师进场时，从你的牌库中搜寻一张可以结附它的灵气牌。 若灵佑法师仍在场上，则将该灵气结附于其上。 若否，则展示该灵气牌，并将它置入你手上。 然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，从你的牌库中搜寻一张可以结附它的灵气牌。 若CARDNAME仍在场上，则将该灵气结附于其上。 若否，则展示该灵气牌，并将它置入你手上。 然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="a7bd976e-56c7-482e-8d2f-073b0b589274" resname="RAV·2 | Bathe in Light | Card Name">
         <source>Bathe in Light</source>
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="c46b2f5c-3c7a-4421-9d6f-81197e93d8d0" resname="RAV·5 | Boros Fury-Shield | Card Text | Paragraph 1">
         <source>Prevent all combat damage that would be dealt by target attacking or blocking creature this turn. If {R} was spent to play CARDNAME, it deals damage to that creature's controller equal to the creature's power.</source>
-        <target state="translated">于本回合中，防止将由目标进行攻击或阻挡的生物造成之所有战斗伤害。 若你使用波洛斯怒火盾时支付了{R}，则此咒语对该生物的操控者造成若干伤害，其数量等同于该生物的力量。</target>
+        <target state="translated">于本回合中，防止将由目标进行攻击或阻挡的生物造成之所有战斗伤害。 若你使用CARDNAME时支付了{R}，则此咒语对该生物的操控者造成若干伤害，其数量等同于该生物的力量。</target>
       </trans-unit>
       <trans-unit id="0c33d3fe-cdd3-4829-8f10-6611f063983b" resname="RAV·6 | Caregiver | Card Name">
         <source>Caregiver</source>
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="83854443-736b-4650-8a7e-e123ee6e0b8b" resname="RAV·10 | Conclave Phalanx | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, you gain 1 life for each creature you control.</source>
-        <target state="translated">当盟会方阵兵团进场时，你每操控一个生物，便获得1点生命。</target>
+        <target state="translated">当CARDNAME进场时，你每操控一个生物，便获得1点生命。</target>
       </trans-unit>
       <trans-unit id="86235d9f-ba69-417d-9203-812ab428b374" resname="RAV·11 | Conclave's Blessing | Card Name">
         <source>Conclave's Blessing</source>
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="8aa5a010-6253-4dfb-952e-df05ff08eb9e" resname="RAV·14 | Divebomber Griffin | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: CARDNAME deals 3 damage to target attacking or blocking creature.</source>
-        <target state="translated">{T}，牺牲急降狮鹫：急降狮鹫对目标进行攻击或阻挡的生物造成3点伤害。</target>
+        <target state="translated">{T}，牺牲CARDNAME：CARDNAME对目标进行攻击或阻挡的生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="0106caf1-2201-4661-96a5-56af02963fa6" resname="RAV·15 | Dromad Purebred | Card Name">
         <source>Dromad Purebred</source>
@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="0106caf1-2201-4661-96a5-56af02963fa6" resname="RAV·15 | Dromad Purebred | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt damage, you gain 1 life.</source>
-        <target state="translated">每当纯种卓马受到伤害时，你获得1点生命。</target>
+        <target state="translated">每当CARDNAME受到伤害时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="5b8ffba3-44a9-41ce-a5a1-37413346db2f" resname="RAV·16 | Faith's Fetters | Card Name">
         <source>Faith's Fetters</source>
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="5b8ffba3-44a9-41ce-a5a1-37413346db2f" resname="RAV·16 | Faith's Fetters | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, you gain 4 life.</source>
-        <target state="translated">当信念拘锁进场时，你获得4点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得4点生命。</target>
       </trans-unit>
       <trans-unit id="5b8ffba3-44a9-41ce-a5a1-37413346db2f" resname="RAV·16 | Faith's Fetters | Card Text | Paragraph 3">
         <source>Enchanted permanent's activated abilities can't be played unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.</source>
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="06732c6f-c3b5-4c68-82a0-655cffff79db" resname="RAV·19 | Gate Hound | Card Text | Paragraph 1">
         <source>Creatures you control have vigilance as long as CARDNAME is enchanted.</source>
-        <target state="translated">只要守门犬上结附了结界，由你操控的生物便具有警戒异能。</target>
+        <target state="translated">只要CARDNAME上结附了结界，由你操控的生物便具有警戒异能。</target>
       </trans-unit>
       <trans-unit id="c5b10c5f-261f-4301-b675-d1f52b859360" resname="RAV·20 | Ghosts of the Innocent | Card Name">
         <source>Ghosts of the Innocent</source>
@@ -236,7 +236,7 @@
       </trans-unit>
       <trans-unit id="b84de052-65e5-4723-a746-5c554fa1612d" resname="RAV·22 | Hunted Lammasu | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, put a 4/4 black Horror creature token into play under target opponent's control.</source>
-        <target state="translated">当遭缉拉玛苏进场时，将一个4/4黑色的惊惧兽衍生物在目标对手的操控下放置进场。</target>
+        <target state="translated">当CARDNAME进场时，将一个4/4黑色的惊惧兽衍生物在目标对手的操控下放置进场。</target>
       </trans-unit>
       <trans-unit id="58466d46-7225-42ff-8471-6d489be32cf3" resname="RAV·23 | Leave No Trace | Card Name">
         <source>Leave No Trace</source>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit id="5e2fa710-4615-42de-8716-41b009b56d32" resname="RAV·29 | Screeching Griffin | Card Text | Paragraph 2">
         <source>{R}: Target creature can't block CARDNAME this turn.</source>
-        <target state="translated">{R}：目标生物本回合中不能阻挡尖鸣狮鹫。</target>
+        <target state="translated">{R}：目标生物本回合中不能阻挡CARDNAME。</target>
       </trans-unit>
       <trans-unit id="33af31cf-d730-4f54-a0be-3229cdccf60c" resname="RAV·30 | Seed Spark | Card Name">
         <source>Seed Spark</source>
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="33af31cf-d730-4f54-a0be-3229cdccf60c" resname="RAV·30 | Seed Spark | Card Text | Paragraph 1">
         <source>Destroy target artifact or enchantment. If {G} was spent to play CARDNAME, put two 1/1 green Saproling creature tokens into play.</source>
-        <target state="translated">消灭目标神器或结界。 若你使用播种灵光时支付了{G}，则将两个1/1绿色的腐生物衍生物放置进场。</target>
+        <target state="translated">消灭目标神器或结界。 若你使用CARDNAME时支付了{G}，则将两个1/1绿色的腐生物衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="0df7883b-f744-4410-a682-7391bd697afb" resname="RAV·31 | Suppression Field | Card Name">
         <source>Suppression Field</source>
@@ -332,11 +332,11 @@
       </trans-unit>
       <trans-unit id="bbc33bb6-d71c-45f9-9030-bdef3d40a08a" resname="RAV·33 | Twilight Drover | Card Text | Paragraph 1">
         <source>Whenever a creature token leaves play, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个衍生物离场时，在暮色牧灵上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个衍生物离场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="bbc33bb6-d71c-45f9-9030-bdef3d40a08a" resname="RAV·33 | Twilight Drover | Card Text | Paragraph 2">
         <source>{2}{W}, Remove a +1/+1 counter from CARDNAME: Put two 1/1 white Spirit creature tokens with flying into play.</source>
-        <target state="translated">{2}{W}，从暮色牧灵上移去一个+1/+1指示物：将两个1/1白色，具飞行异能的精怪衍生物放置进场。</target>
+        <target state="translated">{2}{W}，从CARDNAME上移去一个+1/+1指示物：将两个1/1白色，具飞行异能的精怪衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="151a455f-c364-4600-a5f8-98da86aabc48" resname="RAV·34 | Veteran Armorer | Card Name">
         <source>Veteran Armorer</source>
@@ -352,7 +352,7 @@
       </trans-unit>
       <trans-unit id="9bb6f929-5a19-421b-ae88-9bbb7e64756c" resname="RAV·35 | Votary of the Conclave | Card Text | Paragraph 1">
         <source>{2}{G}: Regenerate CARDNAME.</source>
-        <target state="translated">{2}{G}：重生盟会信奉者。</target>
+        <target state="translated">{2}{G}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="ef74fea5-2345-4ffd-8951-f420e17259e6" resname="RAV·36 | Wojek Apothecary | Card Name">
         <source>Wojek Apothecary</source>
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit id="452a23a0-62de-4561-b361-9c0de9151129" resname="RAV·38 | Belltower Sphinx | Card Text | Paragraph 2">
         <source>Whenever a source deals damage to CARDNAME, that source's controller puts that many cards from the top of his or her library into his or her graveyard.</source>
-        <target state="translated">每当任一来源对钟塔史芬斯造成伤害时，该来源的操控者将其牌库顶上等量的牌置入其坟墓场。</target>
+        <target state="translated">每当任一来源对CARDNAME造成伤害时，该来源的操控者将其牌库顶上等量的牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="dc95d4a6-ad4b-46c5-8a75-e70102363844" resname="RAV·39 | Cerulean Sphinx | Card Name">
         <source>Cerulean Sphinx</source>
@@ -392,7 +392,7 @@
       </trans-unit>
       <trans-unit id="dc95d4a6-ad4b-46c5-8a75-e70102363844" resname="RAV·39 | Cerulean Sphinx | Card Text | Paragraph 2">
         <source>{U}: CARDNAME's owner shuffles it into his or her library.</source>
-        <target state="translated">{U}：蔚蓝史芬斯的拥有者将它洗入其牌库。</target>
+        <target state="translated">{U}：CARDNAME的拥有者将它洗入其牌库。</target>
       </trans-unit>
       <trans-unit id="20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4" resname="RAV·40 | Compulsive Research | Card Name">
         <source>Compulsive Research</source>
@@ -416,7 +416,7 @@
       </trans-unit>
       <trans-unit id="ac22117d-bd58-439f-b199-da72bc7160b2" resname="RAV·42 | Copy Enchantment | Card Text | Paragraph 1">
         <source>As CARDNAME comes into play, you may choose an enchantment in play. If you do, CARDNAME comes into play as a copy of that enchantment.</source>
-        <target state="translated">于复制结界进场时，你可以选择场上的一个结界。 若你如此作，则复制结界进场时为该结界的复制。</target>
+        <target state="translated">于CARDNAME进场时，你可以选择场上的一个结界。 若你如此作，则CARDNAME进场时为该结界的复制。</target>
       </trans-unit>
       <trans-unit id="6e0db10d-fb6d-44df-9ff2-6f1e0e8f8209" resname="RAV·43 | Dizzy Spell | Card Name">
         <source>Dizzy Spell</source>
@@ -440,7 +440,7 @@
       </trans-unit>
       <trans-unit id="b4583623-e367-48cc-8e86-e6c5e35f1a9c" resname="RAV·44 | Drake Familiar | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, sacrifice it unless you return an enchantment in play to its owner's hand.</source>
-        <target state="translated">当贴身龙兽进场时，除非你将场上的一个结界移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进场时，除非你将场上的一个结界移回其拥有者手上，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="0de4fa3d-a144-4918-b032-7495ab2e1c8c" resname="RAV·45 | Dream Leash | Card Name">
         <source>Dream Leash</source>
@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="0de4fa3d-a144-4918-b032-7495ab2e1c8c" resname="RAV·45 | Dream Leash | Card Text | Paragraph 2">
         <source>You may play CARDNAME only on a tapped permanent.</source>
-        <target state="translated">你只可以将梦缚使用在已横置的永久物上。</target>
+        <target state="translated">你只可以将CARDNAME使用在已横置的永久物上。</target>
       </trans-unit>
       <trans-unit id="0de4fa3d-a144-4918-b032-7495ab2e1c8c" resname="RAV·45 | Dream Leash | Card Text | Paragraph 3">
         <source>You control enchanted permanent.</source>
@@ -492,7 +492,7 @@
       </trans-unit>
       <trans-unit id="49967eb9-5020-4f0a-8775-5114f6d96d75" resname="RAV·48 | Eye of the Storm | Card Text | Paragraph 1">
         <source>Whenever a player plays an instant or sorcery card, remove it from the game. Then that player copies each instant or sorcery card removed from the game with CARDNAME. For each copy, the player may play the copy without paying its mana cost.</source>
-        <target state="translated">每当任一牌手使用瞬间或法术咒语时，将它移出对战。 然后该牌手复制每张以暴风眼移出的瞬间或法术牌。 该牌手可以使用这些复制，并且不需支付其法术力费用。</target>
+        <target state="translated">每当任一牌手使用瞬间或法术咒语时，将它移出对战。 然后该牌手复制每张以CARDNAME移出的瞬间或法术牌。 该牌手可以使用这些复制，并且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="7c8ad201-ce70-45bf-9ac3-51f5ccfa8df9" resname="RAV·49 | Flight of Fancy | Card Name">
         <source>Flight of Fancy</source>
@@ -504,7 +504,7 @@
       </trans-unit>
       <trans-unit id="7c8ad201-ce70-45bf-9ac3-51f5ccfa8df9" resname="RAV·49 | Flight of Fancy | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, draw two cards.</source>
-        <target state="translated">当舞空奇想进场时，抓两张牌。</target>
+        <target state="translated">当CARDNAME进场时，抓两张牌。</target>
       </trans-unit>
       <trans-unit id="7c8ad201-ce70-45bf-9ac3-51f5ccfa8df9" resname="RAV·49 | Flight of Fancy | Card Text | Paragraph 3">
         <source>Enchanted creature has flying.</source>
@@ -548,11 +548,11 @@
       </trans-unit>
       <trans-unit id="96d81c13-93de-4cf6-bb15-d387ed259c50" resname="RAV·53 | Grozoth | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, you may search your library for any number of cards that have converted mana cost 9, reveal them, and put them into your hand. If you do, shuffle your library.</source>
-        <target state="translated">当勾杂兹进场时，你可以从你的牌库中搜寻任意数量的牌，且每张牌的总法术力费用须为9，展示这些牌，并将它们置入你手上。 若你如此作，则将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻任意数量的牌，且每张牌的总法术力费用须为9，展示这些牌，并将它们置入你手上。 若你如此作，则将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="96d81c13-93de-4cf6-bb15-d387ed259c50" resname="RAV·53 | Grozoth | Card Text | Paragraph 3">
         <source>{4}: CARDNAME loses defender until end of turn.</source>
-        <target state="translated">{4}：勾杂兹失去守军异能直到回合结束。</target>
+        <target state="translated">{4}：CARDNAME失去守军异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="96d81c13-93de-4cf6-bb15-d387ed259c50" resname="RAV·53 | Grozoth | Card Text | Paragraph 4">
         <source>Transmute {1}{U}{U}</source>
@@ -564,7 +564,7 @@
       </trans-unit>
       <trans-unit id="fafd3018-1cfe-4c41-a08c-5c2ba3528c7e" resname="RAV·54 | Halcyon Glaze | Card Text | Paragraph 1">
         <source>Whenever you play a creature spell, CARDNAME becomes a 4/4 Illusion creature with flying until end of turn. It's still an enchantment.</source>
-        <target state="translated">每当你使用生物咒语时，翠鸟彩釉成为4/4，具飞行异能的虚影生物直到回合结束。 它仍然是结界。</target>
+        <target state="translated">每当你使用生物咒语时，CARDNAME成为4/4，具飞行异能的虚影生物直到回合结束。 它仍然是结界。</target>
       </trans-unit>
       <trans-unit id="faec8ab3-80c6-4b8f-a60d-50cc683e66b4" resname="RAV·55 | Hunted Phantasm | Card Name">
         <source>Hunted Phantasm</source>
@@ -572,11 +572,11 @@
       </trans-unit>
       <trans-unit id="faec8ab3-80c6-4b8f-a60d-50cc683e66b4" resname="RAV·55 | Hunted Phantasm | Card Text | Paragraph 1">
         <source>CARDNAME is unblockable.</source>
-        <target state="translated">遭缉幻象不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="faec8ab3-80c6-4b8f-a60d-50cc683e66b4" resname="RAV·55 | Hunted Phantasm | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, put five 1/1 red Goblin creature tokens into play under target opponent's control.</source>
-        <target state="translated">当遭缉幻象进场时，将五个1/1红色的精灵衍生物在目标对手的操控下放置进场。</target>
+        <target state="translated">当CARDNAME进场时，将五个1/1红色的精灵衍生物在目标对手的操控下放置进场。</target>
       </trans-unit>
       <trans-unit id="bc462b75-8b08-47a3-be22-d7b5c062ec5b" resname="RAV·56 | Induce Paranoia | Card Name">
         <source>Induce Paranoia</source>
@@ -584,7 +584,7 @@
       </trans-unit>
       <trans-unit id="bc462b75-8b08-47a3-be22-d7b5c062ec5b" resname="RAV·56 | Induce Paranoia | Card Text | Paragraph 1">
         <source>Counter target spell. If {B} was spent to play CARDNAME, that spell's controller puts the top X cards of his or her library into his or her graveyard, where X is the spell's converted mana cost.</source>
-        <target state="translated">反击目标咒语。 若你使用引发妄想时支付了{B}，则该咒语的操控者将其牌库顶的X张牌置于其坟墓场，X为该咒语的总法术力费用。</target>
+        <target state="translated">反击目标咒语。 若你使用CARDNAME时支付了{B}，则该咒语的操控者将其牌库顶的X张牌置于其坟墓场，X为该咒语的总法术力费用。</target>
       </trans-unit>
       <trans-unit id="c7935b2b-aebe-44b3-b91b-52978bb4ded5" resname="RAV·57 | Lore Broker | Card Name">
         <source>Lore Broker</source>
@@ -672,7 +672,7 @@
       </trans-unit>
       <trans-unit id="ce1e4aa6-b06d-4b87-9912-a4c403e8d7c6" resname="RAV·65 | Spawnbroker | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, you may exchange control of target creature you control and target creature with power less than or equal to that creature's power an opponent controls.</source>
-        <target state="translated">当活物掮客进场时，你可以选择目标由你操控的生物，与目标由对手操控、且力量小于或等于前述生物的生物，并交换它们的操控权。</target>
+        <target state="translated">当CARDNAME进场时，你可以选择目标由你操控的生物，与目标由对手操控、且力量小于或等于前述生物的生物，并交换它们的操控权。</target>
       </trans-unit>
       <trans-unit id="e75611d2-6e87-4032-a71c-b46806798a29" resname="RAV·66 | Stasis Cell | Card Name">
         <source>Stasis Cell</source>
@@ -688,7 +688,7 @@
       </trans-unit>
       <trans-unit id="e75611d2-6e87-4032-a71c-b46806798a29" resname="RAV·66 | Stasis Cell | Card Text | Paragraph 3">
         <source>{3}{U}: Attach CARDNAME to target creature.</source>
-        <target state="translated">{3}{U}：将静态牢笼结附在目标生物上。</target>
+        <target state="translated">{3}{U}：将CARDNAME结附在目标生物上。</target>
       </trans-unit>
       <trans-unit id="aec114de-bee9-4a4a-826c-82a836b4bda1" resname="RAV·67 | Surveilling Sprite | Card Name">
         <source>Surveilling Sprite</source>
@@ -700,7 +700,7 @@
       </trans-unit>
       <trans-unit id="aec114de-bee9-4a4a-826c-82a836b4bda1" resname="RAV·67 | Surveilling Sprite | Card Text | Paragraph 2">
         <source>When CARDNAME is put into a graveyard from play, you may draw a card.</source>
-        <target state="translated">当监视仙灵从场上置入坟墓场时，你可以抓一张牌。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，你可以抓一张牌。</target>
       </trans-unit>
       <trans-unit id="7d28cbc8-4dbb-465b-813d-52b2b2f73b14" resname="RAV·68 | Tattered Drake | Card Name">
         <source>Tattered Drake</source>
@@ -712,7 +712,7 @@
       </trans-unit>
       <trans-unit id="7d28cbc8-4dbb-465b-813d-52b2b2f73b14" resname="RAV·68 | Tattered Drake | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{B}：重生败翼龙兽。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="563e6cf4-e86f-4538-85a1-3abbc83b303d" resname="RAV·69 | Telling Time | Card Name">
         <source>Telling Time</source>
@@ -740,7 +740,7 @@
       </trans-unit>
       <trans-unit id="67ffa68f-cc21-41c8-ad3d-d6b60a4ccd36" resname="RAV·71 | Tidewater Minion | Card Text | Paragraph 2">
         <source>{4}: CARDNAME loses defender until end of turn.</source>
-        <target state="translated">{4}：潮水仆役失去守军异能直到回合结束。</target>
+        <target state="translated">{4}：CARDNAME失去守军异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="67ffa68f-cc21-41c8-ad3d-d6b60a4ccd36" resname="RAV·71 | Tidewater Minion | Card Text | Paragraph 3">
         <source>{T}: Untap target permanent.</source>
@@ -760,7 +760,7 @@
       </trans-unit>
       <trans-unit id="0656f4eb-40c5-4a21-b994-4ab07bc63981" resname="RAV·73 | Vedalken Dismisser | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, put target creature on top of its owner's library.</source>
-        <target state="translated">当维多肯退散师进场时，将目标生物置于其拥有者的牌库顶。</target>
+        <target state="translated">当CARDNAME进场时，将目标生物置于其拥有者的牌库顶。</target>
       </trans-unit>
       <trans-unit id="faf5e4b8-3bb9-4a4c-b8fa-2cae5372ba24" resname="RAV·74 | Vedalken Entrancer | Card Name">
         <source>Vedalken Entrancer</source>
@@ -788,7 +788,7 @@
       </trans-unit>
       <trans-unit id="e6cbe78f-4325-416b-bf23-282efed5b407" resname="RAV·76 | Zephyr Spirit | Card Text | Paragraph 1">
         <source>When CARDNAME blocks, return it to its owner's hand.</source>
-        <target state="translated">当轻纱精怪进行阻挡时，将它移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进行阻挡时，将它移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="5f4e8084-4b9e-48e0-bf59-d45543e176f8" resname="RAV·77 | Blood Funnel | Card Name">
         <source>Blood Funnel</source>
@@ -820,7 +820,7 @@
       </trans-unit>
       <trans-unit id="0ff031f4-df27-40de-8615-f3ea225f9830" resname="RAV·79 | Carrion Howler | Card Text | Paragraph 1">
         <source>Pay 1 life: CARDNAME gets +2/-1 until end of turn.</source>
-        <target state="translated">支付1点生命：腐肉嚎狼得+2/-1直到回合结束。</target>
+        <target state="translated">支付1点生命：CARDNAME得+2/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2a939a4e-5a9e-454f-8716-cee7470f05e2" resname="RAV·80 | Clinging Darkness | Card Name">
         <source>Clinging Darkness</source>
@@ -864,7 +864,7 @@
       </trans-unit>
       <trans-unit id="9a021caf-d9e7-470b-85be-3af42a3adfd3" resname="RAV·83 | Dimir House Guard | Card Text | Paragraph 2">
         <source>Sacrifice a creature: Regenerate CARDNAME.</source>
-        <target state="translated">牺牲一个生物：重生底密尔会堂守卫。</target>
+        <target state="translated">牺牲一个生物：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="9a021caf-d9e7-470b-85be-3af42a3adfd3" resname="RAV·83 | Dimir House Guard | Card Text | Paragraph 3">
         <source>Transmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Play only as a sorcery.)</source>
@@ -904,7 +904,7 @@
       </trans-unit>
       <trans-unit id="87c39e21-3e2f-4cbf-9f99-69e977924a73" resname="RAV·87 | Golgari Thug | Card Text | Paragraph 1">
         <source>When CARDNAME is put into a graveyard from play, put target creature card in your graveyard on top of your library.</source>
-        <target state="translated">当葛加理流氓从场上进入坟墓场时，将目标生物牌从你的坟墓场置于你的牌库顶。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，将目标生物牌从你的坟墓场置于你的牌库顶。</target>
       </trans-unit>
       <trans-unit id="87c39e21-3e2f-4cbf-9f99-69e977924a73" resname="RAV·87 | Golgari Thug | Card Text | Paragraph 2">
         <source>Dredge 4 (If you would draw a card, instead you may put exactly four cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</source>
@@ -916,7 +916,7 @@
       </trans-unit>
       <trans-unit id="2ff5be07-166c-4b51-9ca5-655e21c32370" resname="RAV·88 | Helldozer | Card Text | Paragraph 1">
         <source>{B}{B}{B}, {T}: Destroy target land. If that land is nonbasic, untap CARDNAME.</source>
-        <target state="translated">{B}{B}{B}，{T}：消灭目标地。 若该地为非基本地，则重置地狱破土怪。</target>
+        <target state="translated">{B}{B}{B}，{T}：消灭目标地。 若该地为非基本地，则重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f6af730f-a86d-4b0f-a120-fb56f065351b" resname="RAV·89 | Hex | Card Name">
         <source>Hex</source>
@@ -936,7 +936,7 @@
       </trans-unit>
       <trans-unit id="0ca680e3-2d10-4a32-8b0c-8b0c6be96540" resname="RAV·90 | Hunted Horror | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, put two 3/3 green Centaur creature tokens with protection from black into play under target opponent's control.</source>
-        <target state="translated">当遭缉惊惧兽进场时，将两个3/3绿色，具反黑保护异能的半人马衍生物在目标对手的操控下放置进场。</target>
+        <target state="translated">当CARDNAME进场时，将两个3/3绿色，具反黑保护异能的半人马衍生物在目标对手的操控下放置进场。</target>
       </trans-unit>
       <trans-unit id="11858b4f-3a90-4990-9984-d888c000ec73" resname="RAV·91 | Infectious Host | Card Name">
         <source>Infectious Host</source>
@@ -944,7 +944,7 @@
       </trans-unit>
       <trans-unit id="11858b4f-3a90-4990-9984-d888c000ec73" resname="RAV·91 | Infectious Host | Card Text | Paragraph 1">
         <source>When CARDNAME is put into a graveyard from play, target player loses 2 life.</source>
-        <target state="translated">当传染原体从场上进入坟墓场时，目标牌手失去2点生命。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，目标牌手失去2点生命。</target>
       </trans-unit>
       <trans-unit id="0866b383-dced-459e-9510-38248a29dd14" resname="RAV·92 | Keening Banshee | Card Name">
         <source>Keening Banshee</source>
@@ -956,7 +956,7 @@
       </trans-unit>
       <trans-unit id="0866b383-dced-459e-9510-38248a29dd14" resname="RAV·92 | Keening Banshee | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, target creature gets -2/-2 until end of turn.</source>
-        <target state="translated">当哭号女妖进场时，目标生物得-2/-2直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，目标生物得-2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="34e035b3-bd83-43a4-8f31-d2393d29cd94" resname="RAV·93 | Last Gasp | Card Name">
         <source>Last Gasp</source>
@@ -972,7 +972,7 @@
       </trans-unit>
       <trans-unit id="51b6dc7d-fc8a-4842-bf30-3dc9fec708c4" resname="RAV·94 | Mausoleum Turnkey | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, return target creature card of an opponent's choice from your graveyard to your hand.</source>
-        <target state="translated">当陵墓看守进场时，将由对手选择的一张目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进场时，将由对手选择的一张目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="7957c37f-96da-4b7e-9581-afdf73a85edd" resname="RAV·95 | Moonlight Bargain | Card Name">
         <source>Moonlight Bargain</source>
@@ -988,7 +988,7 @@
       </trans-unit>
       <trans-unit id="94a8ae6e-51b1-4985-9d09-f9c3818df911" resname="RAV·96 | Mortipede | Card Text | Paragraph 1">
         <source>{2}{G}: All creatures able to block CARDNAME this turn do so.</source>
-        <target state="translated">{2}{G}：本回合中，所有能够阻挡杀生百足虫的生物皆须阻挡之。</target>
+        <target state="translated">{2}{G}：本回合中，所有能够阻挡CARDNAME的生物皆须阻挡之。</target>
       </trans-unit>
       <trans-unit id="0a46880c-a9f4-452d-8b91-51d8aa97cbd2" resname="RAV·97 | Necromantic Thirst | Card Name">
         <source>Necromantic Thirst</source>
@@ -1008,11 +1008,11 @@
       </trans-unit>
       <trans-unit id="372424cf-85b3-4a78-bcf2-0543b0b88c0b" resname="RAV·98 | Necroplasm | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在死灵原浆上放置一个+1/+1指示物。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="372424cf-85b3-4a78-bcf2-0543b0b88c0b" resname="RAV·98 | Necroplasm | Card Text | Paragraph 2">
         <source>At the end of your turn, destroy each creature with converted mana cost equal to the number of +1/+1 counters on CARDNAME.</source>
-        <target state="translated">在你的回合结束时，消灭所有总法术力费用等同于死灵原浆上+1/+1指示物数量的生物。</target>
+        <target state="translated">在你的回合结束时，消灭所有总法术力费用等同于CARDNAME上+1/+1指示物数量的生物。</target>
       </trans-unit>
       <trans-unit id="372424cf-85b3-4a78-bcf2-0543b0b88c0b" resname="RAV·98 | Necroplasm | Card Text | Paragraph 3">
         <source>Dredge 2</source>
@@ -1024,7 +1024,7 @@
       </trans-unit>
       <trans-unit id="b665e905-cb06-48b7-9f50-5916277e237d" resname="RAV·99 | Netherborn Phalanx | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, each opponent loses 1 life for each creature he or she controls.</source>
-        <target state="translated">当冥生方阵兵团进场时，每位对手失去若干生命，其数量等同于他所操控的生物数量。</target>
+        <target state="translated">当CARDNAME进场时，每位对手失去若干生命，其数量等同于他所操控的生物数量。</target>
       </trans-unit>
       <trans-unit id="b665e905-cb06-48b7-9f50-5916277e237d" resname="RAV·99 | Netherborn Phalanx | Card Text | Paragraph 2">
         <source>Transmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Play only as a sorcery.)</source>
@@ -1048,7 +1048,7 @@
       </trans-unit>
       <trans-unit id="c7a2e910-5a61-4ca0-8d69-0a6d4ea12ed7" resname="RAV·101 | Ribbons of Night | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target creature and you gain 4 life. If {U} was spent to play CARDNAME, draw a card.</source>
-        <target state="translated">恶夜缎带对目标生物或牌手造成4点伤害，且你获得4点生命。 若你使用恶夜缎带时支付了{U}，则抓一张牌。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成4点伤害，且你获得4点生命。 若你使用CARDNAME时支付了{U}，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="8f43fb78-497b-4a05-84cd-d2aca4b2db1b" resname="RAV·102 | Roofstalker Wight | Card Name">
         <source>Roofstalker Wight</source>
@@ -1056,7 +1056,7 @@
       </trans-unit>
       <trans-unit id="8f43fb78-497b-4a05-84cd-d2aca4b2db1b" resname="RAV·102 | Roofstalker Wight | Card Text | Paragraph 1">
         <source>{1}{U}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">{1}{U}：悬檐老妖获得飞行异能直到回合结束。</target>
+        <target state="translated">{1}{U}：CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="40283989-c2cc-4f17-a817-2c548d2ce71f" resname="RAV·103 | Sadistic Augermage | Card Name">
         <source>Sadistic Augermage</source>
@@ -1064,7 +1064,7 @@
       </trans-unit>
       <trans-unit id="40283989-c2cc-4f17-a817-2c548d2ce71f" resname="RAV·103 | Sadistic Augermage | Card Text | Paragraph 1">
         <source>When CARDNAME is put into a graveyard from play, each player puts a card from his or her hand on top of his or her library.</source>
-        <target state="translated">当凌虐钻法师从场上进入坟墓场时，每位牌手将自己的一张手牌置于其牌库顶。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，每位牌手将自己的一张手牌置于其牌库顶。</target>
       </trans-unit>
       <trans-unit id="b216ad4e-29b4-4e03-8c16-5796277bd05f" resname="RAV·104 | Sewerdreg | Card Name">
         <source>Sewerdreg</source>
@@ -1076,7 +1076,7 @@
       </trans-unit>
       <trans-unit id="b216ad4e-29b4-4e03-8c16-5796277bd05f" resname="RAV·104 | Sewerdreg | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Remove target card in a graveyard from the game.</source>
-        <target state="translated">牺牲暗渠攫妖：将目标牌从坟墓场移出对战。</target>
+        <target state="translated">牺牲CARDNAME：将目标牌从坟墓场移出对战。</target>
       </trans-unit>
       <trans-unit id="e38192e5-814f-4269-bae8-13867a73e7fa" resname="RAV·105 | Shred Memory | Card Name">
         <source>Shred Memory</source>
@@ -1096,7 +1096,7 @@
       </trans-unit>
       <trans-unit id="5c518792-a50f-40b1-b6fb-674432093b6a" resname="RAV·106 | Sins of the Past | Card Text | Paragraph 1">
         <source>Until end of turn, you may play target instant or sorcery card in your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, remove it from the game instead. Remove CARDNAME from the game.</source>
-        <target state="translated">直到回合结束，你可以使用在你坟墓场中的目标瞬间或法术牌，且不需支付其法术力费用。 若该牌于本回合中将被置入你的坟墓场，则改为将其移出对战。 将往昔罪行移出对战。</target>
+        <target state="translated">直到回合结束，你可以使用在你坟墓场中的目标瞬间或法术牌，且不需支付其法术力费用。 若该牌于本回合中将被置入你的坟墓场，则改为将其移出对战。 将CARDNAME移出对战。</target>
       </trans-unit>
       <trans-unit id="628903a0-6695-4643-80f3-9a6efc4d6a27" resname="RAV·107 | Stinkweed Imp | Card Name">
         <source>Stinkweed Imp</source>
@@ -1108,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="628903a0-6695-4643-80f3-9a6efc4d6a27" resname="RAV·107 | Stinkweed Imp | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a creature, destroy that creature.</source>
-        <target state="translated">每当臭草小恶魔对任一生物造成战斗伤害时，消灭该生物。</target>
+        <target state="translated">每当CARDNAME对任一生物造成战斗伤害时，消灭该生物。</target>
       </trans-unit>
       <trans-unit id="628903a0-6695-4643-80f3-9a6efc4d6a27" resname="RAV·107 | Stinkweed Imp | Card Text | Paragraph 3">
         <source>Dredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</source>
@@ -1124,7 +1124,7 @@
       </trans-unit>
       <trans-unit id="93ced365-f445-4a4a-b33f-986279404fde" resname="RAV·108 | Strands of Undeath | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, target player discards two cards.</source>
-        <target state="translated">当亡物束缕进场时，目标牌手弃两张牌。</target>
+        <target state="translated">当CARDNAME进场时，目标牌手弃两张牌。</target>
       </trans-unit>
       <trans-unit id="93ced365-f445-4a4a-b33f-986279404fde" resname="RAV·108 | Strands of Undeath | Card Text | Paragraph 3">
         <source>{B}: Regenerate enchanted creature.</source>
@@ -1148,7 +1148,7 @@
       </trans-unit>
       <trans-unit id="6609aa2e-6832-4c20-beda-e5f2506bf9b2" resname="RAV·110 | Undercity Shade | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：地底城阴魂得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8fe06560-bb3f-4f0b-ad3c-7257419eb8ef" resname="RAV·111 | Vigor Mortis | Card Name">
         <source>Vigor Mortis</source>
@@ -1156,7 +1156,7 @@
       </trans-unit>
       <trans-unit id="8fe06560-bb3f-4f0b-ad3c-7257419eb8ef" resname="RAV·111 | Vigor Mortis | Card Text | Paragraph 1">
         <source>Return target creature card from your graveyard to play. If {G} was spent to play CARDNAME, that creature comes into play with a +1/+1 counter on it.</source>
-        <target state="translated">将目标生物牌从你的坟墓场移回场上。 若你使用活死人时支付了{G}，则此生物进场时上面有一个+1/+1指示物。</target>
+        <target state="translated">将目标生物牌从你的坟墓场移回场上。 若你使用CARDNAME时支付了{G}，则此生物进场时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="23c5c72c-982c-4cfd-b576-089200b4cc04" resname="RAV·112 | Vindictive Mob | Card Name">
         <source>Vindictive Mob</source>
@@ -1164,11 +1164,11 @@
       </trans-unit>
       <trans-unit id="23c5c72c-982c-4cfd-b576-089200b4cc04" resname="RAV·112 | Vindictive Mob | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, sacrifice a creature.</source>
-        <target state="translated">当怀恨暴民进场时，牺牲一个生物。</target>
+        <target state="translated">当CARDNAME进场时，牺牲一个生物。</target>
       </trans-unit>
       <trans-unit id="23c5c72c-982c-4cfd-b576-089200b4cc04" resname="RAV·112 | Vindictive Mob | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked by Saprolings.</source>
-        <target state="translated">怀恨暴民不能被腐生物阻挡。</target>
+        <target state="translated">CARDNAME不能被腐生物阻挡。</target>
       </trans-unit>
       <trans-unit id="f0c758c9-3138-49b2-bebf-cdab5dc68a3d" resname="RAV·113 | Woebringer Demon | Card Name">
         <source>Woebringer Demon</source>
@@ -1180,7 +1180,7 @@
       </trans-unit>
       <trans-unit id="f0c758c9-3138-49b2-bebf-cdab5dc68a3d" resname="RAV·113 | Woebringer Demon | Card Text | Paragraph 2">
         <source>At the beginning of each player's upkeep, that player sacrifices a creature. If the player can't, sacrifice CARDNAME.</source>
-        <target state="translated">在每位牌手的维持开始时，该牌手牺牲一个生物。 若他无法如此作，则牺牲降祸恶魔。</target>
+        <target state="translated">在每位牌手的维持开始时，该牌手牺牲一个生物。 若他无法如此作，则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="152f4cfa-4f03-404d-a6f7-24c27505906f" resname="RAV·114 | Barbarian Riftcutter | Card Name">
         <source>Barbarian Riftcutter</source>
@@ -1188,7 +1188,7 @@
       </trans-unit>
       <trans-unit id="152f4cfa-4f03-404d-a6f7-24c27505906f" resname="RAV·114 | Barbarian Riftcutter | Card Text | Paragraph 1">
         <source>{R}, Sacrifice CARDNAME: Destroy target land.</source>
-        <target state="translated">{R}，牺牲裂岩野蛮人：消灭目标地。</target>
+        <target state="translated">{R}，牺牲CARDNAME：消灭目标地。</target>
       </trans-unit>
       <trans-unit id="00a28b9d-1bd2-4ca4-a1e1-4138891d6739" resname="RAV·115 | Blockbuster | Card Name">
         <source>Blockbuster</source>
@@ -1196,7 +1196,7 @@
       </trans-unit>
       <trans-unit id="00a28b9d-1bd2-4ca4-a1e1-4138891d6739" resname="RAV·115 | Blockbuster | Card Text | Paragraph 1">
         <source>{1}{R}, Sacrifice CARDNAME: CARDNAME deals 3 damage to each tapped creature and each player.</source>
-        <target state="translated">{1}{R}，牺牲巨型炸弹：巨型炸弹对每个已横置的生物和每位牌手造成3点伤害。</target>
+        <target state="translated">{1}{R}，牺牲CARDNAME：CARDNAME对每个已横置的生物和每位牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="dbef6f4a-f9a0-4a4c-b8a2-6c3a8fb7e14a" resname="RAV·116 | Breath of Fury | Card Name">
         <source>Breath of Fury</source>
@@ -1208,7 +1208,7 @@
       </trans-unit>
       <trans-unit id="dbef6f4a-f9a0-4a4c-b8a2-6c3a8fb7e14a" resname="RAV·116 | Breath of Fury | Card Text | Paragraph 2">
         <source>When enchanted creature deals combat damage to a player, sacrifice it and attach CARDNAME to a creature you control. If you do, untap all creatures you control and after this phase, there is an additional combat phase.</source>
-        <target state="translated">每当受此结界的生物对任一牌手造成战斗伤害时，牺牲该生物，并将怒火气息结附在由你操控的一个生物上。 若你如此作，则重置所有由你操控的生物，且在此阶段后，额外多出一个战斗阶段。</target>
+        <target state="translated">每当受此结界的生物对任一牌手造成战斗伤害时，牺牲该生物，并将CARDNAME结附在由你操控的一个生物上。 若你如此作，则重置所有由你操控的生物，且在此阶段后，额外多出一个战斗阶段。</target>
       </trans-unit>
       <trans-unit id="ff3a24af-e995-4d05-ac2c-e9676048675d" resname="RAV·117 | Char | Card Name">
         <source>Char</source>
@@ -1216,7 +1216,7 @@
       </trans-unit>
       <trans-unit id="ff3a24af-e995-4d05-ac2c-e9676048675d" resname="RAV·117 | Char | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target creature or player and 2 damage to you.</source>
-        <target state="translated">烤焦对目标生物或牌手造成4点伤害，且对你造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成4点伤害，且对你造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="63cbaab6-db0d-40bb-bdf4-aee6543d9f27" resname="RAV·118 | Cleansing Beam | Card Name">
         <source>Cleansing Beam</source>
@@ -1224,7 +1224,7 @@
       </trans-unit>
       <trans-unit id="63cbaab6-db0d-40bb-bdf4-aee6543d9f27" resname="RAV·118 | Cleansing Beam | Card Text | Paragraph 1">
         <source>Radiance CARDNAME deals 2 damage to target creature and each other creature that shares a color with it.</source>
-        <target state="translated">辉耀～净化光束对目标生物和每个与该生物有共通颜色的其它生物造成2点伤害。</target>
+        <target state="translated">辉耀～CARDNAME对目标生物和每个与该生物有共通颜色的其它生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="bc001cef-3afd-4128-989f-ac99dc76b243" resname="RAV·119 | Coalhauler Swine | Card Name">
         <source>Coalhauler Swine</source>
@@ -1232,7 +1232,7 @@
       </trans-unit>
       <trans-unit id="bc001cef-3afd-4128-989f-ac99dc76b243" resname="RAV·119 | Coalhauler Swine | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt damage, it deals that much damage to each player.</source>
-        <target state="translated">每当负煤猪受到伤害时，它对每位牌手造成等量的伤害。</target>
+        <target state="translated">每当CARDNAME受到伤害时，它对每位牌手造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="26316b00-22db-4546-8366-8a624f10c1ba" resname="RAV·120 | Dogpile | Card Name">
         <source>Dogpile</source>
@@ -1240,7 +1240,7 @@
       </trans-unit>
       <trans-unit id="26316b00-22db-4546-8366-8a624f10c1ba" resname="RAV·120 | Dogpile | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target creature or player equal to the number of attacking creatures you control.</source>
-        <target state="translated">围扑对目标生物或牌手造成伤害，其数量等同于由你操控且进行攻击的生物之数量。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成伤害，其数量等同于由你操控且进行攻击的生物之数量。</target>
       </trans-unit>
       <trans-unit id="a3c98460-e8b8-45d6-9bf0-7600b234964b" resname="RAV·121 | Excruciator | Card Name">
         <source>Excruciator</source>
@@ -1248,7 +1248,7 @@
       </trans-unit>
       <trans-unit id="a3c98460-e8b8-45d6-9bf0-7600b234964b" resname="RAV·121 | Excruciator | Card Text | Paragraph 1">
         <source>Damage that would be dealt by CARDNAME can't be prevented.</source>
-        <target state="translated">拷打者所造成的伤害不能被防止。</target>
+        <target state="translated">CARDNAME所造成的伤害不能被防止。</target>
       </trans-unit>
       <trans-unit id="aaa9a92c-9fde-4313-ac4c-9791604d7f4f" resname="RAV·122 | Fiery Conclusion | Card Name">
         <source>Fiery Conclusion</source>
@@ -1256,11 +1256,11 @@
       </trans-unit>
       <trans-unit id="aaa9a92c-9fde-4313-ac4c-9791604d7f4f" resname="RAV·122 | Fiery Conclusion | Card Text | Paragraph 1">
         <source>As an additional cost to play CARDNAME, sacrifice a creature.</source>
-        <target state="translated">牺牲一个生物，以作为使用暴烈终局的额外费用。</target>
+        <target state="translated">牺牲一个生物，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="aaa9a92c-9fde-4313-ac4c-9791604d7f4f" resname="RAV·122 | Fiery Conclusion | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage to target creature.</source>
-        <target state="translated">暴烈终局对目标生物造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="7fcad5f0-53c4-4b72-ac05-ef9ca5b55611" resname="RAV·123 | Flame Fusillade | Card Name">
         <source>Flame Fusillade</source>
@@ -1276,7 +1276,7 @@
       </trans-unit>
       <trans-unit id="52361237-a653-4470-9ed5-c531c040c686" resname="RAV·124 | Flash Conscription | Card Text | Paragraph 1">
         <source>Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. If {W} was spent to play CARDNAME, the creature gains &amp;quot;Whenever this creature deals combat damage, you gain that much life&amp;quot; until end of turn.</source>
-        <target state="translated">重置目标生物并获得其操控权直到回合结束。 该生物获得敏捷异能直到回合结束。 若你使用快速征召时支付了{W}，则该生物获得「每当此生物造成战斗伤害时，你获得等量的生命」直到回合结束。</target>
+        <target state="translated">重置目标生物并获得其操控权直到回合结束。 该生物获得敏捷异能直到回合结束。 若你使用CARDNAME时支付了{W}，则该生物获得「每当此生物造成战斗伤害时，你获得等量的生命」直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d307d8c7-b9b5-4f8f-933d-f1c64cbbf92f" resname="RAV·125 | Frenzied Goblin | Card Name">
         <source>Frenzied Goblin</source>
@@ -1284,7 +1284,7 @@
       </trans-unit>
       <trans-unit id="d307d8c7-b9b5-4f8f-933d-f1c64cbbf92f" resname="RAV·125 | Frenzied Goblin | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may pay {R}. If you do, target creature can't block this turn.</source>
-        <target state="translated">每当狂热精灵攻击时，你可以支付{R}。 若你如此作，则目标生物本回合不能进行阻挡。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付{R}。 若你如此作，则目标生物本回合不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="64d816df-51e5-46f8-ad9a-68f3f656dbcd" resname="RAV·126 | Galvanic Arc | Card Name">
         <source>Galvanic Arc</source>
@@ -1296,7 +1296,7 @@
       </trans-unit>
       <trans-unit id="64d816df-51e5-46f8-ad9a-68f3f656dbcd" resname="RAV·126 | Galvanic Arc | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, it deals 3 damage to target creature or player.</source>
-        <target state="translated">当电流弧光进场时，它对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">当CARDNAME进场时，它对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="64d816df-51e5-46f8-ad9a-68f3f656dbcd" resname="RAV·126 | Galvanic Arc | Card Text | Paragraph 3">
         <source>Enchanted creature has first strike.</source>
@@ -1312,11 +1312,11 @@
       </trans-unit>
       <trans-unit id="64d3b2d2-4ec2-495d-833d-7476cbfc80f6" resname="RAV·127 | Goblin Fire Fiend | Card Text | Paragraph 2">
         <source>Defending player blocks CARDNAME if able.</source>
-        <target state="translated">防御牌手若能阻挡纵火精灵，则必须阻挡之。</target>
+        <target state="translated">防御牌手若能阻挡CARDNAME，则必须阻挡之。</target>
       </trans-unit>
       <trans-unit id="64d3b2d2-4ec2-495d-833d-7476cbfc80f6" resname="RAV·127 | Goblin Fire Fiend | Card Text | Paragraph 3">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：纵火精灵得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6c3889c5-3321-486c-b03c-8607f2393a75" resname="RAV·128 | Goblin Spelunkers | Card Name">
         <source>Goblin Spelunkers</source>
@@ -1332,7 +1332,7 @@
       </trans-unit>
       <trans-unit id="eef8ad11-4ffa-4878-9354-737be6f9e90c" resname="RAV·129 | Greater Forgeling | Card Text | Paragraph 1">
         <source>{1}{R}: CARDNAME gets +3/-3 until end of turn.</source>
-        <target state="translated">{1}{R}：高等锻火妖得+3/-3直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+3/-3直到回合结束。</target>
       </trans-unit>
       <trans-unit id="446f946d-9715-466e-b322-905995d28107" resname="RAV·130 | Hammerfist Giant | Card Name">
         <source>Hammerfist Giant</source>
@@ -1340,7 +1340,7 @@
       </trans-unit>
       <trans-unit id="446f946d-9715-466e-b322-905995d28107" resname="RAV·130 | Hammerfist Giant | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 4 damage to each creature without flying and each player.</source>
-        <target state="translated">{T}：锤拳巨人对每个不具飞行异能的生物和每位牌手造成4点伤害。</target>
+        <target state="translated">{T}：CARDNAME对每个不具飞行异能的生物和每位牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="d2b9cc6e-47db-47d5-84c9-975e4b618261" resname="RAV·131 | Hunted Dragon | Card Name">
         <source>Hunted Dragon</source>
@@ -1352,7 +1352,7 @@
       </trans-unit>
       <trans-unit id="d2b9cc6e-47db-47d5-84c9-975e4b618261" resname="RAV·131 | Hunted Dragon | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, put three 2/2 white Knight creature tokens with first strike into play under target opponent's control.</source>
-        <target state="translated">当遭缉巨龙进场时，将三个2/2白色，具先攻异能的骑士衍生物在目标对手的操控下放置进场。</target>
+        <target state="translated">当CARDNAME进场时，将三个2/2白色，具先攻异能的骑士衍生物在目标对手的操控下放置进场。</target>
       </trans-unit>
       <trans-unit id="a31f5060-df9e-4665-bf60-a8e33da55c84" resname="RAV·132 | Incite Hysteria | Card Name">
         <source>Incite Hysteria</source>
@@ -1368,7 +1368,7 @@
       </trans-unit>
       <trans-unit id="af6e976c-3c0b-4ba5-b614-e1b576b57e86" resname="RAV·133 | Indentured Oaf | Card Text | Paragraph 1">
         <source>Prevent all damage that CARDNAME would deal to red creatures.</source>
-        <target state="translated">防止卖身蠢货将对红色生物造成的所有伤害。</target>
+        <target state="translated">防止CARDNAME将对红色生物造成的所有伤害。</target>
       </trans-unit>
       <trans-unit id="f6164762-c02d-4553-9064-2b99ff6352c9" resname="RAV·134 | Instill Furor | Card Name">
         <source>Instill Furor</source>
@@ -1396,7 +1396,7 @@
       </trans-unit>
       <trans-unit id="a9eb6c92-b385-4ef4-83ac-65a1a23e3d22" resname="RAV·136 | Molten Sentry | Card Text | Paragraph 1">
         <source>As CARDNAME comes into play, flip a coin. If the coin comes up heads, CARDNAME comes into play as a 5/2 creature with haste. If it comes up tails, CARDNAME comes into play as a 2/5 creature with defender.</source>
-        <target state="translated">于融铸哨兵进场时，掷一枚硬币。 若是正面，则融铸哨兵进场时为5/2，具敏捷异能的生物。 若是反面，则融铸哨兵进场时为2/5，具守军异能的生物。</target>
+        <target state="translated">于CARDNAME进场时，掷一枚硬币。 若是正面，则CARDNAME进场时为5/2，具敏捷异能的生物。 若是反面，则CARDNAME进场时为2/5，具守军异能的生物。</target>
       </trans-unit>
       <trans-unit id="aa726c0e-3a7e-4299-8842-4ce1f9f26567" resname="RAV·137 | Ordruun Commando | Card Name">
         <source>Ordruun Commando</source>
@@ -1404,7 +1404,7 @@
       </trans-unit>
       <trans-unit id="aa726c0e-3a7e-4299-8842-4ce1f9f26567" resname="RAV·137 | Ordruun Commando | Card Text | Paragraph 1">
         <source>{W}: Prevent the next 1 damage that would be dealt to CARDNAME this turn.</source>
-        <target state="translated">{W}：于本回合中，防止接下来将对欧度鲁突击兵造成的1点伤害。</target>
+        <target state="translated">{W}：于本回合中，防止接下来将对CARDNAME造成的1点伤害。</target>
       </trans-unit>
       <trans-unit id="2d5391a9-6c30-4f9b-b746-a4427a3e63fc" resname="RAV·138 | Rain of Embers | Card Name">
         <source>Rain of Embers</source>
@@ -1412,7 +1412,7 @@
       </trans-unit>
       <trans-unit id="2d5391a9-6c30-4f9b-b746-a4427a3e63fc" resname="RAV·138 | Rain of Embers | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">焰烬雨对每个生物和每位牌手造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个生物和每位牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="42794e10-ddcd-4d2d-ab0c-a6b99b6d4662" resname="RAV·139 | Reroute | Card Name">
         <source>Reroute</source>
@@ -1432,11 +1432,11 @@
       </trans-unit>
       <trans-unit id="b9ec817c-c414-4a56-b455-748c6e5cac0d" resname="RAV·140 | Sabertooth Alley Cat | Card Text | Paragraph 1">
         <source>CARDNAME attacks each turn if able.</source>
-        <target state="translated">剑齿流浪猫每回合若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每回合若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="b9ec817c-c414-4a56-b455-748c6e5cac0d" resname="RAV·140 | Sabertooth Alley Cat | Card Text | Paragraph 2">
         <source>{1}{R}: Creatures without defender can't block CARDNAME this turn.</source>
-        <target state="translated">{1}{R}：本回合中，不具守军异能的生物不能阻挡剑齿流浪猫。</target>
+        <target state="translated">{1}{R}：本回合中，不具守军异能的生物不能阻挡CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b9caddbe-1329-4ac2-9071-6fc5059d4dec" resname="RAV·141 | Seismic Spike | Card Name">
         <source>Seismic Spike</source>
@@ -1452,7 +1452,7 @@
       </trans-unit>
       <trans-unit id="db513835-af5a-4ff3-8cf8-31936732a4db" resname="RAV·142 | Sell-Sword Brute | Card Text | Paragraph 1">
         <source>When CARDNAME is put into a graveyard from play, it deals 2 damage to you.</source>
-        <target state="translated">当卖剑打手从场上进入坟墓场时，它对你造成2点伤害。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，它对你造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="692b1487-7752-4c40-ba91-09ef67016032" resname="RAV·143 | Smash | Card Name">
         <source>Smash</source>
@@ -1472,7 +1472,7 @@
       </trans-unit>
       <trans-unit id="6ca91f7f-4b17-469e-8650-4c18e1521ea9" resname="RAV·144 | Sparkmage Apprentice | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, it deals 1 damage to target creature or player.</source>
-        <target state="translated">当火花法师学徒进场时，它对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">当CARDNAME进场时，它对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="17a0edb0-697a-4e0b-872b-f3c15c19cbda" resname="RAV·145 | Stoneshaker Shaman | Card Name">
         <source>Stoneshaker Shaman</source>
@@ -1500,7 +1500,7 @@
       </trans-unit>
       <trans-unit id="7900ff91-0e47-4903-a680-9031f4a23cb4" resname="RAV·147 | Torpid Moloch | Card Text | Paragraph 2">
         <source>Sacrifice three lands: CARDNAME loses defender until end of turn.</source>
-        <target state="translated">牺牲三个地：蛰伏棘蜥失去守军异能直到回合结束。</target>
+        <target state="translated">牺牲三个地：CARDNAME失去守军异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2616dac9-bbcf-453a-9205-8e433a1c62aa" resname="RAV·148 | Viashino Fangtail | Card Name">
         <source>Viashino Fangtail</source>
@@ -1508,7 +1508,7 @@
       </trans-unit>
       <trans-unit id="2616dac9-bbcf-453a-9205-8e433a1c62aa" resname="RAV·148 | Viashino Fangtail | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">{T}：尖尾凡尔西诺对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="5fa18f23-c995-4fcc-8e95-bbf76426e703" resname="RAV·149 | Viashino Slasher | Card Name">
         <source>Viashino Slasher</source>
@@ -1516,7 +1516,7 @@
       </trans-unit>
       <trans-unit id="5fa18f23-c995-4fcc-8e95-bbf76426e703" resname="RAV·149 | Viashino Slasher | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gets +1/-1 until end of turn.</source>
-        <target state="translated">{R}：斩击凡尔西诺得+1/-1直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="fdbf743a-6e28-47c4-acfe-1c5d42f80eee" resname="RAV·150 | Warp World | Card Name">
         <source>Warp World</source>
@@ -1532,7 +1532,7 @@
       </trans-unit>
       <trans-unit id="259469b3-1212-4030-97ae-a84f132798d4" resname="RAV·151 | War-Torch Goblin | Card Text | Paragraph 1">
         <source>{R}, Sacrifice CARDNAME: CARDNAME deals 2 damage to target blocking creature.</source>
-        <target state="translated">{R}，牺牲火炬精灵：火炬精灵对目标进行阻挡的生物造成2点伤害。</target>
+        <target state="translated">{R}，牺牲CARDNAME：CARDNAME对目标进行阻挡的生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="e1614866-fb0b-47bd-ab26-5c20ff175d10" resname="RAV·152 | Wojek Embermage | Card Name">
         <source>Wojek Embermage</source>
@@ -1540,7 +1540,7 @@
       </trans-unit>
       <trans-unit id="e1614866-fb0b-47bd-ab26-5c20ff175d10" resname="RAV·152 | Wojek Embermage | Card Text | Paragraph 1">
         <source>Radiance {T}: CARDNAME deals 1 damage to target creature and each other creature that shares a color with it.</source>
-        <target state="translated">辉耀～{T}：沃耶克烬法师对目标生物和每个与该生物有共通颜色的其它生物造成1点伤害。</target>
+        <target state="translated">辉耀～{T}：CARDNAME对目标生物和每个与该生物有共通颜色的其它生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="90a4396a-0f22-482b-ad1d-4d9b68a1ed96" resname="RAV·153 | Birds of Paradise | Card Name">
         <source>Birds of Paradise</source>
@@ -1560,7 +1560,7 @@
       </trans-unit>
       <trans-unit id="470665e5-fa48-4772-ba71-5d4008d042f3" resname="RAV·154 | Bramble Elemental | Card Text | Paragraph 1">
         <source>Whenever an Aura becomes attached to CARDNAME, put two 1/1 green Saproling creature tokens into play.</source>
-        <target state="translated">每当任一灵气新结附在竹元素上时，将两个1/1绿色的腐生物衍生物放置进场。</target>
+        <target state="translated">每当任一灵气新结附在CARDNAME上时，将两个1/1绿色的腐生物衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="ba52a417-0950-4ddf-9bd5-3557f659fdf5" resname="RAV·155 | Carven Caryatid | Card Name">
         <source>Carven Caryatid</source>
@@ -1572,7 +1572,7 @@
       </trans-unit>
       <trans-unit id="ba52a417-0950-4ddf-9bd5-3557f659fdf5" resname="RAV·155 | Carven Caryatid | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, draw a card.</source>
-        <target state="translated">当女雕像柱进场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="e064174b-8f07-4fea-9eef-c3b5d0220b1a" resname="RAV·156 | Chord of Calling | Card Name">
         <source>Chord of Calling</source>
@@ -1592,7 +1592,7 @@
       </trans-unit>
       <trans-unit id="654eacc9-5f80-44ea-8d7b-71cd8227fa38" resname="RAV·157 | Civic Wayfinder | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.</source>
-        <target state="translated">当城市引路人进场时，你可以从你的牌库中搜寻一张基本地牌，展示该牌，并将它置入你手上。 若你如此作，则将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻一张基本地牌，展示该牌，并将它置入你手上。 若你如此作，则将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="c7e71299-98f6-494e-b187-8d22ce5f50af" resname="RAV·158 | Doubling Season | Card Name">
         <source>Doubling Season</source>
@@ -1620,7 +1620,7 @@
       </trans-unit>
       <trans-unit id="8cf707f2-1a62-458e-bcc8-8b1cd081f225" resname="RAV·160 | Dryad's Caress | Card Text | Paragraph 1">
         <source>You gain 1 life for each creature in play. If {W} was spent to play CARDNAME, untap all creatures you control.</source>
-        <target state="translated">每有一个生物在场，你便获得1点生命。 若你使用树灵抚慰时支付了{W}，则重置所有由你操控的生物。</target>
+        <target state="translated">每有一个生物在场，你便获得1点生命。 若你使用CARDNAME时支付了{W}，则重置所有由你操控的生物。</target>
       </trans-unit>
       <trans-unit id="7bea6dea-d767-4092-a285-305d9997357a" resname="RAV·161 | Elves of Deep Shadow | Card Name">
         <source>Elves of Deep Shadow</source>
@@ -1628,7 +1628,7 @@
       </trans-unit>
       <trans-unit id="7bea6dea-d767-4092-a285-305d9997357a" resname="RAV·161 | Elves of Deep Shadow | Card Text | Paragraph 1">
         <source>{T}: Add {B} to your mana pool. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{B}到你的法术力池中。 深黯地精对你造成1点伤害。</target>
+        <target state="translated">{T}：加{B}到你的法术力池中。 CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="e80b91e8-c498-4178-8310-3cd3b039a3dc" resname="RAV·162 | Elvish Skysweeper | Card Name">
         <source>Elvish Skysweeper</source>
@@ -1656,7 +1656,7 @@
       </trans-unit>
       <trans-unit id="7193c00f-0398-485c-974d-346ee59cd4c7" resname="RAV·164 | Fists of Ironwood | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, put two 1/1 green Saproling creature tokens into play.</source>
-        <target state="translated">当铁木拳进场时，将两个1/1绿色的腐生物衍生物放置进场。</target>
+        <target state="translated">当CARDNAME进场时，将两个1/1绿色的腐生物衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="7193c00f-0398-485c-974d-346ee59cd4c7" resname="RAV·164 | Fists of Ironwood | Card Text | Paragraph 3">
         <source>Enchanted creature has trample.</source>
@@ -1680,7 +1680,7 @@
       </trans-unit>
       <trans-unit id="690cfc79-da41-4ac0-b0cc-719aa650b207" resname="RAV·166 | Golgari Brownscale | Card Text | Paragraph 1">
         <source>When CARDNAME is put into your hand from your graveyard, you gain 2 life.</source>
-        <target state="translated">当葛加理棕鳞兽从你的坟墓场置入你手上时，你获得2点生命。</target>
+        <target state="translated">当CARDNAME从你的坟墓场置入你手上时，你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="690cfc79-da41-4ac0-b0cc-719aa650b207" resname="RAV·166 | Golgari Brownscale | Card Text | Paragraph 2">
         <source>Dredge 2 (If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</source>
@@ -1692,11 +1692,11 @@
       </trans-unit>
       <trans-unit id="f61b50e6-2166-435d-bf48-c4a0cff9999c" resname="RAV·167 | Golgari Grave-Troll | Card Text | Paragraph 1">
         <source>CARDNAME comes into play with a +1/+1 counter on it for each creature card in your graveyard.</source>
-        <target state="translated">葛加理墓地巨魔进场时上面有数个+1/+1指示物，其数量等同于你坟墓场中的生物牌数量。</target>
+        <target state="translated">CARDNAME进场时上面有数个+1/+1指示物，其数量等同于你坟墓场中的生物牌数量。</target>
       </trans-unit>
       <trans-unit id="f61b50e6-2166-435d-bf48-c4a0cff9999c" resname="RAV·167 | Golgari Grave-Troll | Card Text | Paragraph 2">
         <source>{1}, Remove a +1/+1 counter from CARDNAME: Regenerate CARDNAME.</source>
-        <target state="translated">{1}，从葛加理墓地巨魔上移去一个+1/+1指示物：重生葛加理墓地巨魔。</target>
+        <target state="translated">{1}，从CARDNAME上移去一个+1/+1指示物：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f61b50e6-2166-435d-bf48-c4a0cff9999c" resname="RAV·167 | Golgari Grave-Troll | Card Text | Paragraph 3">
         <source>Dredge 6</source>
@@ -1708,7 +1708,7 @@
       </trans-unit>
       <trans-unit id="cecc53b1-942e-4b44-bf93-dd2d8cc92d6d" resname="RAV·168 | Goliath Spider | Card Text | Paragraph 1">
         <source>CARDNAME can block as though it had flying.</source>
-        <target state="translated">巨硕蜘蛛能视同具有飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME能视同具有飞行异能地进行阻挡。</target>
       </trans-unit>
       <trans-unit id="e1f75b44-01a3-47f6-96c9-9ce327111e64" resname="RAV·169 | Greater Mossdog | Card Name">
         <source>Greater Mossdog</source>
@@ -1724,11 +1724,11 @@
       </trans-unit>
       <trans-unit id="fd9d891e-ae8c-485a-b999-d1e08fffd164" resname="RAV·170 | Hunted Troll | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, put four 1/1 blue Faerie creature tokens with flying into play under target opponent's control.</source>
-        <target state="translated">当遭缉巨魔进场时，将四个1/1蓝色，具飞行异能的仙灵衍生物在目标对手的操控下放置进场。</target>
+        <target state="translated">当CARDNAME进场时，将四个1/1蓝色，具飞行异能的仙灵衍生物在目标对手的操控下放置进场。</target>
       </trans-unit>
       <trans-unit id="fd9d891e-ae8c-485a-b999-d1e08fffd164" resname="RAV·170 | Hunted Troll | Card Text | Paragraph 2">
         <source>{G}: Regenerate CARDNAME.</source>
-        <target state="translated">{G}：重生遭缉巨魔。</target>
+        <target state="translated">{G}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="73597c90-a527-4338-9668-126c6cf15927" resname="RAV·171 | Ivy Dancer | Card Name">
         <source>Ivy Dancer</source>
@@ -1816,7 +1816,7 @@
       </trans-unit>
       <trans-unit id="e6c5546f-2429-4099-a9bd-eda3f52779b7" resname="RAV·179 | Rolling Spoil | Card Text | Paragraph 1">
         <source>Destroy target land. If {B} was spent to play CARDNAME, all creatures get -1/-1 until end of turn.</source>
-        <target state="translated">消灭目标地。 若你使用腐疫横流时支付了{B}，则所有生物得-1/-1直到回合结束。</target>
+        <target state="translated">消灭目标地。 若你使用CARDNAME时支付了{B}，则所有生物得-1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="e469162b-c8c9-4746-80f3-d2c2acd89e0f" resname="RAV·180 | Root-Kin Ally | Card Name">
         <source>Root-Kin Ally</source>
@@ -1828,7 +1828,7 @@
       </trans-unit>
       <trans-unit id="e469162b-c8c9-4746-80f3-d2c2acd89e0f" resname="RAV·180 | Root-Kin Ally | Card Text | Paragraph 2">
         <source>Tap two untapped creatures you control: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">横置两个由你操控且未横置的生物：木身盟友得+2/+2直到回合结束。</target>
+        <target state="translated">横置两个由你操控且未横置的生物：CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c4415070-4304-482b-b8e5-2bf689af0843" resname="RAV·181 | Scatter the Seeds | Card Name">
         <source>Scatter the Seeds</source>
@@ -1848,7 +1848,7 @@
       </trans-unit>
       <trans-unit id="feb05072-c619-4024-8ed8-440b01f73113" resname="RAV·182 | Scion of the Wild | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of creatures you control.</source>
-        <target state="translated">蛮荒后裔的力量及防御力各等同于由你操控的生物之数量。</target>
+        <target state="translated">CARDNAME的力量及防御力各等同于由你操控的生物之数量。</target>
       </trans-unit>
       <trans-unit id="ae199825-563e-4837-a6d2-7b009b93cd4d" resname="RAV·183 | Siege Wurm | Card Name">
         <source>Siege Wurm</source>
@@ -1868,7 +1868,7 @@
       </trans-unit>
       <trans-unit id="f4e1b9f9-e58c-4474-9a31-8e5d9f96492e" resname="RAV·184 | Stone-Seeder Hierophant | Card Text | Paragraph 1">
         <source>Whenever a land comes into play under your control, untap CARDNAME.</source>
-        <target state="translated">每当一个地在你的操控下进场时，重置绿岩法皇。</target>
+        <target state="translated">每当一个地在你的操控下进场时，重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f4e1b9f9-e58c-4474-9a31-8e5d9f96492e" resname="RAV·184 | Stone-Seeder Hierophant | Card Text | Paragraph 2">
         <source>{T}: Untap target land.</source>
@@ -1892,7 +1892,7 @@
       </trans-unit>
       <trans-unit id="318ce4ef-38bd-4360-895f-457587164197" resname="RAV·186 | Transluminant | Card Text | Paragraph 1">
         <source>{W}, Sacrifice CARDNAME: Put a 1/1 white Spirit creature token with flying into play at end of turn.</source>
-        <target state="translated">{W}，牺牲易明师：在回合结束时，将一个1/1，具飞行异能的白色精怪衍生物放置进场。</target>
+        <target state="translated">{W}，牺牲CARDNAME：在回合结束时，将一个1/1，具飞行异能的白色精怪衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="f18d1047-9010-437c-94ab-7a8ad3a0250f" resname="RAV·187 | Trophy Hunter | Card Name">
         <source>Trophy Hunter</source>
@@ -1900,11 +1900,11 @@
       </trans-unit>
       <trans-unit id="f18d1047-9010-437c-94ab-7a8ad3a0250f" resname="RAV·187 | Trophy Hunter | Card Text | Paragraph 1">
         <source>{1}{G}: CARDNAME deals 1 damage to target creature with flying.</source>
-        <target state="translated">{1}{G}：锦标猎手对目标具飞行异能的生物造成1点伤害。</target>
+        <target state="translated">{1}{G}：CARDNAME对目标具飞行异能的生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="f18d1047-9010-437c-94ab-7a8ad3a0250f" resname="RAV·187 | Trophy Hunter | Card Text | Paragraph 2">
         <source>Whenever a creature with flying dealt damage by CARDNAME this turn is put into a graveyard, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当任一具飞行异能的生物置入坟墓场时，若锦标猎手于本回合中曾对此生物造成伤害，则在锦标猎手上放置一个+1/+1指示物。</target>
+        <target state="translated">每当任一具飞行异能的生物置入坟墓场时，若CARDNAME于本回合中曾对此生物造成伤害，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="ba547810-c82a-498b-81eb-e81a8dcbbd42" resname="RAV·188 | Ursapine | Card Name">
         <source>Ursapine</source>
@@ -1920,7 +1920,7 @@
       </trans-unit>
       <trans-unit id="34955f52-521f-466c-9025-c117f6162e97" resname="RAV·189 | Vinelasher Kudzu | Card Text | Paragraph 1">
         <source>Whenever a land comes into play under your control, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个地在你的操控下进场时，在缠藤野葛上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个地在你的操控下进场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="c2521942-0ecd-45a9-bac6-04267a2c29ed" resname="RAV·190 | Agrus Kos, Wojek Veteran | Card Name">
         <source>Agrus Kos, Wojek Veteran</source>
@@ -1928,7 +1928,7 @@
       </trans-unit>
       <trans-unit id="c2521942-0ecd-45a9-bac6-04267a2c29ed" resname="RAV·190 | Agrus Kos, Wojek Veteran | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, attacking red creatures get +2/+0 and attacking white creatures get +0/+2 until end of turn.</source>
-        <target state="translated">每当沃耶克老将阿固寇斯攻击时，直到回合结束，进行攻击的红色生物得+2/+0，且进行攻击的白色生物得+0/+2。</target>
+        <target state="translated">每当CARDNAME攻击时，直到回合结束，进行攻击的红色生物得+2/+0，且进行攻击的白色生物得+0/+2。</target>
       </trans-unit>
       <trans-unit id="7002a87b-a55f-42ec-b247-119a3229129f" resname="RAV·191 | Autochthon Wurm | Card Name">
         <source>Autochthon Wurm</source>
@@ -1964,7 +1964,7 @@
       </trans-unit>
       <trans-unit id="9a3acf27-5d07-48e6-8e19-a2e6d4cd49d1" resname="RAV·194 | Brightflame | Card Text | Paragraph 1">
         <source>Radiance CARDNAME deals X damage to target creature and each other creature that shares a color with it. You gain life equal to the damage dealt this way.</source>
-        <target state="translated">辉耀～眩目烈焰对目标生物和每个与该生物有共通颜色的其它生物造成X点伤害。 你获得等同于以此法所造成的伤害之生命。</target>
+        <target state="translated">辉耀～CARDNAME对目标生物和每个与该生物有共通颜色的其它生物造成X点伤害。 你获得等同于以此法所造成的伤害之生命。</target>
       </trans-unit>
       <trans-unit id="d2792033-19e1-4629-8155-85c6c2d89106" resname="RAV·195 | Chorus of the Conclave | Card Name">
         <source>Chorus of the Conclave</source>
@@ -2036,7 +2036,7 @@
       </trans-unit>
       <trans-unit id="0f2b0b24-83bf-479b-baa4-3244a114852d" resname="RAV·201 | Dimir Cutpurse | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, that player discards a card and you draw a card.</source>
-        <target state="translated">每当底密尔扒手对牌手造成战斗伤害时，该牌手弃一张牌，并且你抓一张牌。</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，该牌手弃一张牌，并且你抓一张牌。</target>
       </trans-unit>
       <trans-unit id="a48be841-d35c-4d99-aebc-3684b36760ac" resname="RAV·202 | Dimir Doppelganger | Card Name">
         <source>Dimir Doppelganger</source>
@@ -2044,7 +2044,7 @@
       </trans-unit>
       <trans-unit id="a48be841-d35c-4d99-aebc-3684b36760ac" resname="RAV·202 | Dimir Doppelganger | Card Text | Paragraph 1">
         <source>{1}{U}{B}: Remove target creature card in a graveyard from the game. CARDNAME becomes a copy of that card and gains this ability.</source>
-        <target state="translated">{1}{U}{B}：将目标生物牌从任一坟墓场移出对战。 底密尔化妖成为该牌的复制，并获得此异能。</target>
+        <target state="translated">{1}{U}{B}：将目标生物牌从任一坟墓场移出对战。 CARDNAME成为该牌的复制，并获得此异能。</target>
       </trans-unit>
       <trans-unit id="3db9204c-dde8-4241-aac2-1f090566f604" resname="RAV·203 | Dimir Infiltrator | Card Name">
         <source>Dimir Infiltrator</source>
@@ -2052,7 +2052,7 @@
       </trans-unit>
       <trans-unit id="3db9204c-dde8-4241-aac2-1f090566f604" resname="RAV·203 | Dimir Infiltrator | Card Text | Paragraph 1">
         <source>CARDNAME is unblockable.</source>
-        <target state="translated">底密尔渗透者不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="3db9204c-dde8-4241-aac2-1f090566f604" resname="RAV·203 | Dimir Infiltrator | Card Text | Paragraph 2">
         <source>Transmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Play only as a sorcery.)</source>
@@ -2076,11 +2076,11 @@
       </trans-unit>
       <trans-unit id="493730ab-c30d-4830-a188-0462426fc5bf" resname="RAV·205 | Firemane Angel | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if CARDNAME is in your graveyard or in play, you may gain 1 life.</source>
-        <target state="translated">在你的维持开始时，若炎鬃天使在你的坟墓场或场上，则你可以获得1点生命。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME在你的坟墓场或场上，则你可以获得1点生命。</target>
       </trans-unit>
       <trans-unit id="493730ab-c30d-4830-a188-0462426fc5bf" resname="RAV·205 | Firemane Angel | Card Text | Paragraph 3">
         <source>{6}{R}{R}{W}{W}: Return CARDNAME from your graveyard to play. Play this ability only during your upkeep.</source>
-        <target state="translated">{6}{R}{R}{W}{W}：将炎鬃天使从你的坟墓场移回场上。 你只可以于你的维持中使用此异能。</target>
+        <target state="translated">{6}{R}{R}{W}{W}：将CARDNAME从你的坟墓场移回场上。 你只可以于你的维持中使用此异能。</target>
       </trans-unit>
       <trans-unit id="aec53f16-5bf7-4ef5-b83e-9e36463d1640" resname="RAV·206 | Flame-Kin Zealot | Card Name">
         <source>Flame-Kin Zealot</source>
@@ -2088,7 +2088,7 @@
       </trans-unit>
       <trans-unit id="aec53f16-5bf7-4ef5-b83e-9e36463d1640" resname="RAV·206 | Flame-Kin Zealot | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, creatures you control get +1/+1 and gain haste until end of turn.</source>
-        <target state="translated">当炎身狂信者进场时，由你操控的生物得+1/+1并获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，由你操控的生物得+1/+1并获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ed6166c1-3c2e-47af-873e-d3b39f42bd27" resname="RAV·207 | Glare of Subdual | Card Name">
         <source>Glare of Subdual</source>
@@ -2128,7 +2128,7 @@
       </trans-unit>
       <trans-unit id="23f7c7d0-a48b-4153-8386-a9ab71e01dbe" resname="RAV·211 | Grave-Shell Scarab | Card Text | Paragraph 1">
         <source>{1}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{1}，牺牲铭壳圣甲虫：抓一张牌。</target>
+        <target state="translated">{1}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="23f7c7d0-a48b-4153-8386-a9ab71e01dbe" resname="RAV·211 | Grave-Shell Scarab | Card Text | Paragraph 2">
         <source>Dredge 1 (If you would draw a card, instead you may put exactly one card from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</source>
@@ -2152,7 +2152,7 @@
       </trans-unit>
       <trans-unit id="1b2ecf55-c1cc-4b28-b7ce-e1b25305155e" resname="RAV·213 | Lightning Helix | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature or player and you gain 3 life.</source>
-        <target state="translated">闪电螺旋对目标生物或牌手造成3点伤害，且你获得3点生命。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害，且你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="a1d3ccca-8040-4a5f-9f2b-6fdb1a033234" resname="RAV·214 | Loxodon Hierarch | Card Name">
         <source>Loxodon Hierarch</source>
@@ -2160,11 +2160,11 @@
       </trans-unit>
       <trans-unit id="a1d3ccca-8040-4a5f-9f2b-6fdb1a033234" resname="RAV·214 | Loxodon Hierarch | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, you gain 4 life.</source>
-        <target state="translated">当象族大主教进场时，你获得4点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得4点生命。</target>
       </trans-unit>
       <trans-unit id="a1d3ccca-8040-4a5f-9f2b-6fdb1a033234" resname="RAV·214 | Loxodon Hierarch | Card Text | Paragraph 2">
         <source>{G}{W}, Sacrifice CARDNAME: Regenerate each creature you control.</source>
-        <target state="translated">{G}{W}，牺牲象族大主教：重生由你操控的所有生物。</target>
+        <target state="translated">{G}{W}，牺牲CARDNAME：重生由你操控的所有生物。</target>
       </trans-unit>
       <trans-unit id="7cd1ace7-d4fe-4f96-9434-7ab1442bf36f" resname="RAV·215 | Mindleech Mass | Card Name">
         <source>Mindleech Mass</source>
@@ -2176,7 +2176,7 @@
       </trans-unit>
       <trans-unit id="7cd1ace7-d4fe-4f96-9434-7ab1442bf36f" resname="RAV·215 | Mindleech Mass | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may look at that player's hand. If you do, you may play a nonland card in it without paying that card's mana cost.</source>
-        <target state="translated">每当夺念团块对牌手造成战斗伤害时，你可以检视该牌手的手牌。 若你如此作，则你可以使用其中一张非地的牌，且不须支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，你可以检视该牌手的手牌。 若你如此作，则你可以使用其中一张非地的牌，且不须支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="3de9ce70-67d1-4007-94ed-4545867e90c8" resname="RAV·216 | Moroii | Card Name">
         <source>Moroii</source>
@@ -2208,7 +2208,7 @@
       </trans-unit>
       <trans-unit id="86c336d2-cc14-4b74-a6f9-aab7a084d0de" resname="RAV·218 | Phytohydra | Card Text | Paragraph 1">
         <source>If damage would be dealt to CARDNAME, put that many +1/+1 counters on it instead.</source>
-        <target state="translated">若繁生多头龙将受到伤害，则改为在上面放置等量的+1/+1指示物。</target>
+        <target state="translated">若CARDNAME将受到伤害，则改为在上面放置等量的+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="3ca4f3b9-c952-4fd3-a586-3e063b62b23d" resname="RAV·219 | Pollenbright Wings | Card Name">
         <source>Pollenbright Wings</source>
@@ -2288,7 +2288,7 @@
       </trans-unit>
       <trans-unit id="33c1fbdd-884d-467a-956e-7c28881002ab" resname="RAV·226 | Searing Meditation | Card Text | Paragraph 1">
         <source>Whenever you gain life, you may pay {2}. If you do, CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">每当你获得生命时，你可以支付{2}。 若你如此作，则炙热冥思对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">每当你获得生命时，你可以支付{2}。 若你如此作，则CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="bfa1ac13-adbd-439a-90b2-9c506aec0836" resname="RAV·227 | Seeds of Strength | Card Name">
         <source>Seeds of Strength</source>
@@ -2320,11 +2320,11 @@
       </trans-unit>
       <trans-unit id="9a72e933-d977-4be9-985f-8b8cf1267f8c" resname="RAV·229 | Selesnya Sagittars | Card Text | Paragraph 1">
         <source>CARDNAME can block as though it had flying.</source>
-        <target state="translated">瑟雷尼亚射手能视同具有飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME能视同具有飞行异能地进行阻挡。</target>
       </trans-unit>
       <trans-unit id="9a72e933-d977-4be9-985f-8b8cf1267f8c" resname="RAV·229 | Selesnya Sagittars | Card Text | Paragraph 2">
         <source>CARDNAME can block an additional creature.</source>
-        <target state="translated">瑟雷尼亚射手可以额外多阻挡一个生物。</target>
+        <target state="translated">CARDNAME可以额外多阻挡一个生物。</target>
       </trans-unit>
       <trans-unit id="4c93baa2-a23e-4e18-b4cd-779c992d2042" resname="RAV·230 | Shambling Shell | Card Name">
         <source>Shambling Shell</source>
@@ -2332,7 +2332,7 @@
       </trans-unit>
       <trans-unit id="4c93baa2-a23e-4e18-b4cd-779c992d2042" resname="RAV·230 | Shambling Shell | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Put a +1/+1 counter on target creature.</source>
-        <target state="translated">牺牲跛行残躯：在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">牺牲CARDNAME：在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="4c93baa2-a23e-4e18-b4cd-779c992d2042" resname="RAV·230 | Shambling Shell | Card Text | Paragraph 2">
         <source>Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</source>
@@ -2344,15 +2344,15 @@
       </trans-unit>
       <trans-unit id="d214d25b-96c3-4479-88f0-3996805d6e6f" resname="RAV·231 | Sisters of Stone Death | Card Text | Paragraph 1">
         <source>{G}: Target creature blocks CARDNAME this turn if able.</source>
-        <target state="translated">{G}：目标生物本回合中若能阻挡石化眼姊妹，则必须阻挡之。</target>
+        <target state="translated">{G}：目标生物本回合中若能阻挡CARDNAME，则必须阻挡之。</target>
       </trans-unit>
       <trans-unit id="d214d25b-96c3-4479-88f0-3996805d6e6f" resname="RAV·231 | Sisters of Stone Death | Card Text | Paragraph 2">
         <source>{B}{G}: Remove from the game target creature blocking or blocked by CARDNAME.</source>
-        <target state="translated">{B}{G}：将目标阻挡石化眼姊妹，或被石化眼姊妹阻挡的生物移出对战。</target>
+        <target state="translated">{B}{G}：将目标阻挡CARDNAME，或被CARDNAME阻挡的生物移出对战。</target>
       </trans-unit>
       <trans-unit id="d214d25b-96c3-4479-88f0-3996805d6e6f" resname="RAV·231 | Sisters of Stone Death | Card Text | Paragraph 3">
         <source>{2}{B}: Put a creature card removed from the game with CARDNAME into play under your control.</source>
-        <target state="translated">{2}{B}：将以石化眼姊妹移出对战的一张生物牌放置进场，并由你操控。</target>
+        <target state="translated">{2}{B}：将以CARDNAME移出对战的一张生物牌放置进场，并由你操控。</target>
       </trans-unit>
       <trans-unit id="d697ef7f-0e51-4bf1-b0f5-742325706d2a" resname="RAV·232 | Skyknight Legionnaire | Card Name">
         <source>Skyknight Legionnaire</source>
@@ -2368,11 +2368,11 @@
       </trans-unit>
       <trans-unit id="c4d5a88e-fc8f-4dd6-a1db-8e44b74ee0a1" resname="RAV·233 | Sunhome Enforcer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage, you gain that much life.</source>
-        <target state="translated">每当阳园执法者造成战斗伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME造成战斗伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="c4d5a88e-fc8f-4dd6-a1db-8e44b74ee0a1" resname="RAV·233 | Sunhome Enforcer | Card Text | Paragraph 2">
         <source>{1}{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{1}{R}：阳园执法者得+1/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2882793e-5d7d-47f0-9308-652a5e036c2c" resname="RAV·234 | Szadek, Lord of Secrets | Card Name">
         <source>Szadek, Lord of Secrets</source>
@@ -2384,7 +2384,7 @@
       </trans-unit>
       <trans-unit id="2882793e-5d7d-47f0-9308-652a5e036c2c" resname="RAV·234 | Szadek, Lord of Secrets | Card Text | Paragraph 2">
         <source>If CARDNAME would deal combat damage to a player, instead put that many +1/+1 counters on Szadek and that player puts that many cards from the top of his or her library into his or her graveyard.</source>
-        <target state="translated">若诡秘王者札戴克将对牌手造成战斗伤害，则改为在札戴克上放置等量的+1/+1指示物，且该牌手将其牌库顶等量的牌置入其坟墓场。</target>
+        <target state="translated">若CARDNAME将对牌手造成战斗伤害，则改为在札戴克上放置等量的+1/+1指示物，且该牌手将其牌库顶等量的牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="7410c546-745c-469f-b3b8-eafb69391600" resname="RAV·235 | Thundersong Trumpeter | Card Name">
         <source>Thundersong Trumpeter</source>
@@ -2428,7 +2428,7 @@
       </trans-unit>
       <trans-unit id="7b0fb8e7-14aa-4f2d-aa05-c98b2c9c463c" resname="RAV·238 | Vulturous Zombie | Card Text | Paragraph 2">
         <source>Whenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一张牌从任何区域置入对手的坟墓场时，在兀鹰灵俑上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一张牌从任何区域置入对手的坟墓场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="95e5828a-3e54-4b9c-9e84-21880930f2d5" resname="RAV·239 | Watchwolf | Card Name">
         <source>Watchwolf</source>
@@ -2448,7 +2448,7 @@
       </trans-unit>
       <trans-unit id="be72ff91-f810-46c3-884f-6e65827824bc" resname="RAV·241 | Woodwraith Strangler | Card Text | Paragraph 1">
         <source>Remove a creature card in your graveyard from the game: Regenerate CARDNAME.</source>
-        <target state="translated">将一张生物牌从你的坟墓场移出对战：重生窒息树鬼。</target>
+        <target state="translated">将一张生物牌从你的坟墓场移出对战：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="072a1ff1-9c50-426a-a83c-817bde5beab7" resname="RAV·242 | Boros Guildmage | Card Name">
         <source>Boros Guildmage</source>
@@ -2488,7 +2488,7 @@
       </trans-unit>
       <trans-unit id="647d3e06-93e6-4948-a3ec-6a00bdfc0f99" resname="RAV·244 | Centaur Safeguard | Card Text | Paragraph 2">
         <source>When CARDNAME is put into a graveyard from play, you may gain 3 life.</source>
-        <target state="translated">当半人马守卫从场上进入坟墓场时，你可以获得3点生命。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，你可以获得3点生命。</target>
       </trans-unit>
       <trans-unit id="69b822aa-4144-400a-b993-f146cbeed54f" resname="RAV·245 | Dimir Guildmage | Card Name">
         <source>Dimir Guildmage</source>
@@ -2572,7 +2572,7 @@
       </trans-unit>
       <trans-unit id="9d111510-ca7f-4127-b540-48265aa36311" resname="RAV·250 | Master Warcraft | Card Text | Paragraph 2">
         <source>Play CARDNAME only before attackers are declared.</source>
-        <target state="translated">只能于宣告攻击者之前使用神妙兵法。</target>
+        <target state="translated">只能于宣告攻击者之前使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="9d111510-ca7f-4127-b540-48265aa36311" resname="RAV·250 | Master Warcraft | Card Text | Paragraph 3">
         <source>You choose which creatures attack this turn. You choose how each creature blocks this turn.</source>
@@ -2628,11 +2628,11 @@
       </trans-unit>
       <trans-unit id="b8fbdf87-2424-4fc2-904e-b1e5fef2a335" resname="RAV·254 | Bloodletter Quill | Card Text | Paragraph 1">
         <source>{2}, {T}, Put a blood counter on CARDNAME: Draw a card, then lose 1 life for each blood counter on CARDNAME.</source>
-        <target state="translated">{2}，{T}，在血文鹅毛笔上放置一个鲜血指示物：抓一张牌，然后血文鹅毛笔上每有一个鲜血指示物，你就失去1点生命。</target>
+        <target state="translated">{2}，{T}，在CARDNAME上放置一个鲜血指示物：抓一张牌，然后CARDNAME上每有一个鲜血指示物，你就失去1点生命。</target>
       </trans-unit>
       <trans-unit id="b8fbdf87-2424-4fc2-904e-b1e5fef2a335" resname="RAV·254 | Bloodletter Quill | Card Text | Paragraph 2">
         <source>{U}{B}: Remove a blood counter from CARDNAME.</source>
-        <target state="translated">{U}{B}：从血文鹅毛笔上移去一个鲜血指示物。</target>
+        <target state="translated">{U}{B}：从CARDNAME上移去一个鲜血指示物。</target>
       </trans-unit>
       <trans-unit id="1bae1f86-4639-4424-b47b-fdc826bf6e97" resname="RAV·255 | Boros Signet | Card Name">
         <source>Boros Signet</source>
@@ -2652,7 +2652,7 @@
       </trans-unit>
       <trans-unit id="5bf42acc-d2d3-4165-b257-6885df2d1ba4" resname="RAV·256 | Bottled Cloister | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, return all cards removed from the game with CARDNAME to your hand, then draw a card.</source>
-        <target state="translated">在你的维持开始时，将所有以瓶封隐居地移出对战的牌移回你手上，然后抓一张牌。</target>
+        <target state="translated">在你的维持开始时，将所有以CARDNAME移出对战的牌移回你手上，然后抓一张牌。</target>
       </trans-unit>
       <trans-unit id="47cbda17-d368-4dc3-b41c-95b146468b44" resname="RAV·257 | Cloudstone Curio | Card Name">
         <source>Cloudstone Curio</source>
@@ -2684,7 +2684,7 @@
       </trans-unit>
       <trans-unit id="22ba776a-c959-4d15-aa36-9fba1fcb512d" resname="RAV·259 | Cyclopean Snare | Card Text | Paragraph 1">
         <source>{3}, {T}: Tap target creature, then return CARDNAME to its owner's hand.</source>
-        <target state="translated">{3}，{T}：横置目标生物，然后将巨型绊索移回其拥有者手上。</target>
+        <target state="translated">{3}，{T}：横置目标生物，然后将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf" resname="RAV·260 | Dimir Signet | Card Name">
         <source>Dimir Signet</source>
@@ -2712,11 +2712,11 @@
       </trans-unit>
       <trans-unit id="7c411784-fe96-42c0-baaa-36616d2be0b3" resname="RAV·263 | Grifter's Blade | Card Text | Paragraph 1">
         <source>You may play CARDNAME any time you could play an instant.</source>
-        <target state="translated">你可以于你能够使用瞬间的时机下，使用骗徒短刀。</target>
+        <target state="translated">你可以于你能够使用瞬间的时机下，使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="7c411784-fe96-42c0-baaa-36616d2be0b3" resname="RAV·263 | Grifter's Blade | Card Text | Paragraph 2">
         <source>CARDNAME comes into play equipping a creature of your choice you control.</source>
-        <target state="translated">骗徒短刀进场时装备在由你选择、且由你操控的生物上。</target>
+        <target state="translated">CARDNAME进场时装备在由你选择、且由你操控的生物上。</target>
       </trans-unit>
       <trans-unit id="7c411784-fe96-42c0-baaa-36616d2be0b3" resname="RAV·263 | Grifter's Blade | Card Text | Paragraph 3">
         <source>Equipped creature gets +1/+1.</source>
@@ -2744,7 +2744,7 @@
       </trans-unit>
       <trans-unit id="132551d3-ef8e-4ed0-a363-53db4f0621f0" resname="RAV·265 | Leashling | Card Text | Paragraph 1">
         <source>Put a card in your hand on top of your library: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">将你的一张手牌置于你的牌库顶：将链带狗移回其拥有者手上。</target>
+        <target state="translated">将你的一张手牌置于你的牌库顶：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="1dc3aa88-2555-4862-a771-e9d5b9eab3ad" resname="RAV·266 | Nullstone Gargoyle | Card Name">
         <source>Nullstone Gargoyle</source>
@@ -2788,15 +2788,15 @@
       </trans-unit>
       <trans-unit id="889bab2c-d383-4a04-9f93-d507ba1973d9" resname="RAV·269 | Plague Boiler | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a plague counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在疫病闷锅上放置一个疫病指示物。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个疫病指示物。</target>
       </trans-unit>
       <trans-unit id="889bab2c-d383-4a04-9f93-d507ba1973d9" resname="RAV·269 | Plague Boiler | Card Text | Paragraph 2">
         <source>{1}{B}{G}: Put a plague counter on CARDNAME or remove a plague counter from it.</source>
-        <target state="translated">{1}{B}{G}：在疫病闷锅上放置一个疫病指示物，或从疫病闷锅上移去一个疫病指示物。</target>
+        <target state="translated">{1}{B}{G}：在CARDNAME上放置一个疫病指示物，或从CARDNAME上移去一个疫病指示物。</target>
       </trans-unit>
       <trans-unit id="889bab2c-d383-4a04-9f93-d507ba1973d9" resname="RAV·269 | Plague Boiler | Card Text | Paragraph 3">
         <source>When CARDNAME has three or more plague counters on it, sacrifice it. If you do, destroy all nonland permanents.</source>
-        <target state="translated">当疫病闷锅上有三个或更多疫病指示物时，将它牺牲。 若你如此作，则消灭所有非地的永久物。</target>
+        <target state="translated">当CARDNAME上有三个或更多疫病指示物时，将它牺牲。 若你如此作，则消灭所有非地的永久物。</target>
       </trans-unit>
       <trans-unit id="8296d86a-2c79-43c8-8a1c-1d4bb600bc6b" resname="RAV·270 | Selesnya Signet | Card Name">
         <source>Selesnya Signet</source>
@@ -2824,7 +2824,7 @@
       </trans-unit>
       <trans-unit id="c8d5e027-aa74-444b-a945-1bafa9bdec4c" resname="RAV·272 | Sunforger | Card Text | Paragraph 2">
         <source>{R}{W}, Unattach CARDNAME: Search your library for a red or white instant card with converted mana cost 4 or less and play that card without paying its mana cost. Then shuffle your library.</source>
-        <target state="translated">{R}{W}，将铸阳锤卸装：从你的牌库中搜寻一张红色或白色，且总法术力费用小于或等于4的瞬间牌，并使用该牌，且不需支付其法术力费用。然 然后将你的牌库洗牌。</target>
+        <target state="translated">{R}{W}，将CARDNAME卸装：从你的牌库中搜寻一张红色或白色，且总法术力费用小于或等于4的瞬间牌，并使用该牌，且不需支付其法术力费用。然 然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="c8d5e027-aa74-444b-a945-1bafa9bdec4c" resname="RAV·272 | Sunforger | Card Text | Paragraph 3">
         <source>Equip {3}</source>
@@ -2836,15 +2836,15 @@
       </trans-unit>
       <trans-unit id="05c4b07f-c6ed-4a92-aab3-54ee6adfb793" resname="RAV·273 | Terrarion | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">地力缸须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="05c4b07f-c6ed-4a92-aab3-54ee6adfb793" resname="RAV·273 | Terrarion | Card Text | Paragraph 2">
         <source>{2}, {T}, Sacrifice CARDNAME: Add two mana of any combination of colors to your mana pool.</source>
-        <target state="translated">{2}，{T}，牺牲地力缸：加两点法术力到你的法术力池中，其颜色组合由你选择。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：加两点法术力到你的法术力池中，其颜色组合由你选择。</target>
       </trans-unit>
       <trans-unit id="05c4b07f-c6ed-4a92-aab3-54ee6adfb793" resname="RAV·273 | Terrarion | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from play, draw a card.</source>
-        <target state="translated">当地力缸从场上置入坟墓场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="76554c65-edea-48b0-b3a5-483dfe80eaac" resname="RAV·274 | Voyager Staff | Card Name">
         <source>Voyager Staff</source>
@@ -2852,7 +2852,7 @@
       </trans-unit>
       <trans-unit id="76554c65-edea-48b0-b3a5-483dfe80eaac" resname="RAV·274 | Voyager Staff | Card Text | Paragraph 1">
         <source>{2}, Sacrifice CARDNAME: Remove target creature from the game. Return that creature to play under its owner's control at end of turn.</source>
-        <target state="translated">{2}，牺牲旅人杖：将目标生物移出对战。 在回合结束时，将该生物移回场上。</target>
+        <target state="translated">{2}，牺牲CARDNAME：将目标生物移出对战。 在回合结束时，将该生物移回场上。</target>
       </trans-unit>
       <trans-unit id="7dfe3f03-078f-44fb-89cd-efa3ebfaf637" resname="RAV·275 | Boros Garrison | Card Name">
         <source>Boros Garrison</source>
@@ -2860,11 +2860,11 @@
       </trans-unit>
       <trans-unit id="7dfe3f03-078f-44fb-89cd-efa3ebfaf637" resname="RAV·275 | Boros Garrison | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">波洛斯驻防地须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="7dfe3f03-078f-44fb-89cd-efa3ebfaf637" resname="RAV·275 | Boros Garrison | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, return a land you control to its owner's hand.</source>
-        <target state="translated">当波洛斯驻防地进场时，将由你操控的一个地移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进场时，将由你操控的一个地移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="7dfe3f03-078f-44fb-89cd-efa3ebfaf637" resname="RAV·275 | Boros Garrison | Card Text | Paragraph 3">
         <source>{T}: Add {R}{W} to your mana pool.</source>
@@ -2876,11 +2876,11 @@
       </trans-unit>
       <trans-unit id="df3c3d56-8291-407e-87a1-94b7d12811fd" resname="RAV·276 | Dimir Aqueduct | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">底密尔下水道须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="df3c3d56-8291-407e-87a1-94b7d12811fd" resname="RAV·276 | Dimir Aqueduct | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, return a land you control to its owner's hand.</source>
-        <target state="translated">当底密尔下水道进场时，将由你操控的一个地移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进场时，将由你操控的一个地移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="df3c3d56-8291-407e-87a1-94b7d12811fd" resname="RAV·276 | Dimir Aqueduct | Card Text | Paragraph 3">
         <source>{T}: Add {U}{B} to your mana pool.</source>
@@ -2904,11 +2904,11 @@
       </trans-unit>
       <trans-unit id="104364d5-ede8-4ac5-900f-19947f51bbc1" resname="RAV·278 | Golgari Rot Farm | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">葛加理腐尸农场须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="104364d5-ede8-4ac5-900f-19947f51bbc1" resname="RAV·278 | Golgari Rot Farm | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, return a land you control to its owner's hand.</source>
-        <target state="translated">当葛加理腐尸农场进场时，将由你操控的一个地移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进场时，将由你操控的一个地移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="104364d5-ede8-4ac5-900f-19947f51bbc1" resname="RAV·278 | Golgari Rot Farm | Card Text | Paragraph 3">
         <source>{T}: Add {B}{G} to your mana pool.</source>
@@ -2924,7 +2924,7 @@
       </trans-unit>
       <trans-unit id="fce07335-cc78-4683-b2f0-9c98a06ea1d8" resname="RAV·279 | Overgrown Tomb | Card Text | Paragraph 2">
         <source>As CARDNAME comes into play, you may pay 2 life. If you don't, CARDNAME comes into play tapped instead.</source>
-        <target state="translated">于蔓生墓园进场时，你可以支付2点生命。 若你未如此作，则蔓生墓园改为须横置进场。</target>
+        <target state="translated">于CARDNAME进场时，你可以支付2点生命。 若你未如此作，则CARDNAME改为须横置进场。</target>
       </trans-unit>
       <trans-unit id="168ef687-5797-4b45-b75b-393d8117cebd" resname="RAV·280 | Sacred Foundry | Card Name">
         <source>Sacred Foundry</source>
@@ -2936,7 +2936,7 @@
       </trans-unit>
       <trans-unit id="168ef687-5797-4b45-b75b-393d8117cebd" resname="RAV·280 | Sacred Foundry | Card Text | Paragraph 2">
         <source>As CARDNAME comes into play, you may pay 2 life. If you don't, CARDNAME comes into play tapped instead.</source>
-        <target state="translated">于圣洁锻炉进场时，你可以支付2点生命。 若你未如此作，则圣洁锻炉改为须横置进场。</target>
+        <target state="translated">于CARDNAME进场时，你可以支付2点生命。 若你未如此作，则CARDNAME改为须横置进场。</target>
       </trans-unit>
       <trans-unit id="c5e51787-f9c9-4926-9df1-a384a3092676" resname="RAV·281 | Selesnya Sanctuary | Card Name">
         <source>Selesnya Sanctuary</source>
@@ -2944,11 +2944,11 @@
       </trans-unit>
       <trans-unit id="c5e51787-f9c9-4926-9df1-a384a3092676" resname="RAV·281 | Selesnya Sanctuary | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">瑟雷尼亚圣殿须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="c5e51787-f9c9-4926-9df1-a384a3092676" resname="RAV·281 | Selesnya Sanctuary | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, return a land you control to its owner's hand.</source>
-        <target state="translated">当瑟雷尼亚圣殿进场时，将由你操控的一个地移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进场时，将由你操控的一个地移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="c5e51787-f9c9-4926-9df1-a384a3092676" resname="RAV·281 | Selesnya Sanctuary | Card Text | Paragraph 3">
         <source>{T}: Add {G}{W} to your mana pool.</source>
@@ -2976,7 +2976,7 @@
       </trans-unit>
       <trans-unit id="5cf3ba87-93a0-44db-83d9-92e23a677a62" resname="RAV·283 | Svogthos, the Restless Tomb | Card Text | Paragraph 2">
         <source>{3}{B}{G}: Until end of turn, CARDNAME becomes a black and green Plant Zombie creature with &amp;quot;This creature's power and toughness are each equal to the number of creature cards in your graveyard.&amp;quot; It's still a land.</source>
-        <target state="translated">{3}{B}{G}：直到回合结束，不息之墓苏沃索成为既是黑色也是绿色的植物／灵俑生物，并具有「此生物的力量与防御力各等同于你坟墓场中生物牌的数量。」它仍然是地。</target>
+        <target state="translated">{3}{B}{G}：直到回合结束，CARDNAME成为既是黑色也是绿色的植物／灵俑生物，并具有「此生物的力量与防御力各等同于你坟墓场中生物牌的数量。」它仍然是地。</target>
       </trans-unit>
       <trans-unit id="794a2b79-8c55-4423-8843-7e6e96f84071" resname="RAV·284 | Temple Garden | Card Name">
         <source>Temple Garden</source>
@@ -2988,7 +2988,7 @@
       </trans-unit>
       <trans-unit id="794a2b79-8c55-4423-8843-7e6e96f84071" resname="RAV·284 | Temple Garden | Card Text | Paragraph 2">
         <source>As CARDNAME comes into play, you may pay 2 life. If you don't, CARDNAME comes into play tapped instead.</source>
-        <target state="translated">于殿堂花园进场时，你可以支付2点生命。 若你未如此作，则殿堂花园改为须横置进场。</target>
+        <target state="translated">于CARDNAME进场时，你可以支付2点生命。 若你未如此作，则CARDNAME改为须横置进场。</target>
       </trans-unit>
       <trans-unit id="afc35026-a29e-4fb0-931f-5e90faf41802" resname="RAV·285 | Vitu-Ghazi, the City-Tree | Card Name">
         <source>Vitu-Ghazi, the City-Tree</source>
@@ -3012,7 +3012,7 @@
       </trans-unit>
       <trans-unit id="139b90cd-8272-457a-be32-1298145345be" resname="RAV·286 | Watery Grave | Card Text | Paragraph 2">
         <source>As CARDNAME comes into play, you may pay 2 life. If you don't, CARDNAME comes into play tapped instead.</source>
-        <target state="translated">于积水墓地进场时，你可以支付2点生命。 若你未如此作，则积水墓地改为须横置进场。</target>
+        <target state="translated">于CARDNAME进场时，你可以支付2点生命。 若你未如此作，则CARDNAME改为须横置进场。</target>
       </trans-unit>
       <trans-unit id="3d8d3cd4-0f5f-4424-82ee-d8ba81da47fd" resname="RAV·287 | Plains | Card Name">
         <source>Plains</source>

@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="bd3c34c9-2072-4ebb-93ef-34173015bfb8" resname="C13·4 | Angel of Finality | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile target player's graveyard.</source>
-        <target state="translated">当终绝天使进战场时，放逐目标牌手的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标牌手的坟墓场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="5f0ff150-e9cc-4e20-96e4-6d6bce8d83c3" resname="C13·8 | Curse of the Forsaken | Card Name">
@@ -109,12 +109,12 @@
       </trans-unit>
       <trans-unit id="e8c81cf6-e204-4fea-aaa1-4277366b31c7" resname="C13·63 | True-Name Nemesis | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a player.</source>
-        <target state="translated">于真名宿敌进战场时，选择一位牌手。</target>
+        <target state="translated">于CARDNAME进战场时，选择一位牌手。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="e8c81cf6-e204-4fea-aaa1-4277366b31c7" resname="C13·63 | True-Name Nemesis | Card Text | Paragraph 2">
         <source>CARDNAME has protection from the chosen player.</source>
-        <target state="translated">真名宿敌具有反该牌手保护异能。</target>
+        <target state="translated">CARDNAME具有反该牌手保护异能。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="3dff363d-7e9f-4764-a9ee-ec2f23239df6" resname="C13·70 | Baleful Force | Card Name">
@@ -219,7 +219,7 @@
       </trans-unit>
       <trans-unit id="cb9b492f-a404-400f-be70-8b4901d2d82b" resname="C13·137 | Bane of Progress | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, destroy all artifacts and enchantments. Put a +1/+1 counter on CARDNAME for each permanent destroyed this way.</source>
-        <target state="translated">当进展灾祸进战场时，消灭所有神器和结界。每以此法消灭一个永久物，便在进展灾祸上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭所有神器和结界。每以此法消灭一个永久物，便在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="d28f824e-8cd4-4915-a46f-6e3c646c6378" resname="C13·140 | Curse of Predation | Card Name">
@@ -289,7 +289,7 @@
       </trans-unit>
       <trans-unit id="3d61a4d4-f0d5-4bc4-8977-57bbb3d97776" resname="C13·186 | Derevi, Empyrial Tactician | Card Text | Paragraph 2">
         <source>Whenever CARDNAME enters the battlefield or a creature you control deals combat damage to a player, you may tap or untap target permanent.</source>
-        <target state="translated">每当穹光策士德蕾薇进战场或一个由你操控的生物对任一牌手造成战斗伤害时，你可以横置或重置目标永久物。</target>
+        <target state="translated">每当CARDNAME进战场或一个由你操控的生物对任一牌手造成战斗伤害时，你可以横置或重置目标永久物。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="3d61a4d4-f0d5-4bc4-8977-57bbb3d97776" resname="C13·186 | Derevi, Empyrial Tactician | Card Text | Paragraph 3">
@@ -319,7 +319,7 @@
       </trans-unit>
       <trans-unit id="57afa796-db46-45ff-91bd-f02922e5f33d" resname="C13·198 | Marath, Will of the Wild | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a number of +1/+1 counters on it equal to the amount of mana spent to cast it.</source>
-        <target state="translated">荒野意志玛拉司进战场时上面有数个+1/+1指示物，其数量等同于施放它时所支付的法术力数量。</target>
+        <target state="translated">CARDNAME进战场时上面有数个+1/+1指示物，其数量等同于施放它时所支付的法术力数量。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="57afa796-db46-45ff-91bd-f02922e5f33d" resname="C13·198 | Marath, Will of the Wild | Card Text | Paragraph 2">
@@ -354,7 +354,7 @@
       </trans-unit>
       <trans-unit id="3f7f2417-12de-4e57-9714-d878880a1208" resname="C13·201 | Nekusar, the Mindrazer | Card Text | Paragraph 2">
         <source>Whenever an opponent draws a card, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">每当任一对手抓一张牌时，毁灵师奈库萨对该牌手造成1点伤害。</target>
+        <target state="translated">每当任一对手抓一张牌时，CARDNAME对该牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="abf8df47-405c-42d8-be9e-0f0d0a49589b" resname="C13·203 | Oloro, Ageless Ascetic | Card Name">
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="fc411c52-3ee2-4fe4-983d-3fa43b516237" resname="C13·204 | Prossh, Skyraider of Kher | Card Text | Paragraph 3">
         <source>Sacrifice another creature: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">牺牲另一个生物：喀尔天君普罗许得+1/+0直到回合结束。</target>
+        <target state="translated">牺牲另一个生物：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="dfd7e77a-bfc0-4d8c-b6fd-a190d9ecf3cf" resname="C13·206 | Roon of the Hidden Realm | Card Name">

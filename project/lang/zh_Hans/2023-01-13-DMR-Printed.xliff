@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="ffe359e9-2ac8-48ae-9a43-e2f12fd4a785" resname="DMR·1 | Auramancer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may return target enchantment card from your graveyard to your hand.</source>
-        <target state="translated">当灵气法师进战场时，你可以将目标结界牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标结界牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="3a21cf44-4d8e-4b24-a1fe-4222c857f0ef" resname="DMR·2 | Battle Screech | Card Name">
         <source>Battle Screech</source>
@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="435b24ae-590f-4a79-8aeb-b006de6545ca" resname="DMR·3 | Cleric of the Forward Order | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 2 life for each creature you control named CARDNAME.</source>
-        <target state="translated">当前锋团僧侣进战场时，你每操控一个名称为前锋团僧侣的生物，便获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你每操控一个名称为CARDNAME的生物，便获得2点生命。</target>
       </trans-unit>
       <trans-unit id="89396f5e-5bc3-4c8a-976b-2cb2946eb35d" resname="DMR·4 | Congregate | Card Name">
         <source>Congregate</source>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="6b01ebcf-8451-486e-84f6-8e6e1bb9d6e3" resname="DMR·7 | Glory | Card Text | Paragraph 2">
         <source>{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate only if CARDNAME is in your graveyard.</source>
-        <target state="translated">{2}{W}：选择一种颜色。由你操控的生物获得反该色保护异能直到回合结束。只能于荣耀在你的坟墓场中时起动。</target>
+        <target state="translated">{2}{W}：选择一种颜色。由你操控的生物获得反该色保护异能直到回合结束。只能于CARDNAME在你的坟墓场中时起动。</target>
       </trans-unit>
       <trans-unit id="39b8cf5e-10f6-49aa-82eb-2f56cc29d393" resname="DMR·8 | Griffin Guide | Card Name">
         <source>Griffin Guide</source>
@@ -88,11 +88,11 @@
       </trans-unit>
       <trans-unit id="9ccce13a-77e6-4c74-9acc-d5e7c271872a" resname="DMR·9 | Icatian Javelineers | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a javelin counter on it.</source>
-        <target state="translated">艾凯逊掷枪手进战场时上面有一个标枪指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有一个标枪指示物。</target>
       </trans-unit>
       <trans-unit id="9ccce13a-77e6-4c74-9acc-d5e7c271872a" resname="DMR·9 | Icatian Javelineers | Card Text | Paragraph 2">
         <source>{T}, Remove a javelin counter from CARDNAME: It deals 1 damage to any target.</source>
-        <target state="translated">{T}，从艾凯逊掷枪手上移去一个标枪指示物：它对任意一个目标造成1点伤害。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个标枪指示物：它对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="d3c205ba-cafb-4afc-83fe-09fff38130d7" resname="DMR·10 | Improvised Armor | Card Name">
         <source>Improvised Armor</source>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="6c090af7-3f75-4c14-9ab5-1f409dfd6de1" resname="DMR·11 | Kjeldoran Gargoyle | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage, you gain that much life.</source>
-        <target state="translated">每当奇亚多石像鬼造成伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME造成伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="475ba0c3-237e-4349-85e9-c31b016f609b" resname="DMR·12 | Lieutenant Kirtar | Card Name">
         <source>Lieutenant Kirtar</source>
@@ -132,7 +132,7 @@
       </trans-unit>
       <trans-unit id="475ba0c3-237e-4349-85e9-c31b016f609b" resname="DMR·12 | Lieutenant Kirtar | Card Text | Paragraph 2">
         <source>{1}{W}, Sacrifice CARDNAME: Exile target attacking creature.</source>
-        <target state="translated">{1}{W}，牺牲柯塔中尉：放逐目标进行攻击的生物。</target>
+        <target state="translated">{1}{W}，牺牲CARDNAME：放逐目标进行攻击的生物。</target>
       </trans-unit>
       <trans-unit id="a2e0c8c5-ea0e-4347-b5cb-b7b1801a523b" resname="DMR·13 | Lyra Dawnbringer | Card Name">
         <source>Lyra Dawnbringer</source>
@@ -172,7 +172,7 @@
       </trans-unit>
       <trans-unit id="9bc955bd-b998-44b9-918f-84b96cf5e915" resname="DMR·16 | Mystic Zealot | Card Text | Paragraph 1">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1 and has flying.</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，秘教狂信者便得+1/+1且具有飞行异能。</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便得+1/+1且具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="da039589-f3ee-4aff-b8b0-e5fda13ebe97" resname="DMR·17 | Nomad Decoy | Card Name">
         <source>Nomad Decoy</source>
@@ -220,11 +220,11 @@
       </trans-unit>
       <trans-unit id="314602ae-fb42-4afe-9fab-fa6976db39ad" resname="DMR·20 | Phantom Flock | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with three +1/+1 counters on it.</source>
-        <target state="translated">幽魅战群进战场时上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="314602ae-fb42-4afe-9fab-fa6976db39ad" resname="DMR·20 | Phantom Flock | Card Text | Paragraph 3">
         <source>If damage would be dealt to CARDNAME, prevent that damage. Remove a +1/+1 counter from CARDNAME.</source>
-        <target state="translated">如果幽魅战群将受到伤害，则防止该伤害。从幽魅战群上移去一个+1/+1指示物。</target>
+        <target state="translated">如果CARDNAME将受到伤害，则防止该伤害。从CARDNAME上移去一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="5abbdd37-dc24-4bf7-808e-6354af7d7ec6" resname="DMR·21 | Radiant's Judgment | Card Name">
         <source>Radiant's Judgment</source>
@@ -260,7 +260,7 @@
       </trans-unit>
       <trans-unit id="a7d66dd3-330f-4b12-81f6-52d7a31013a9" resname="DMR·23 | Renewed Faith | Card Text | Paragraph 3">
         <source>When you cycle CARDNAME, you may gain 2 life.</source>
-        <target state="translated">当你循环重拾信念时，你可以获得2点生命。</target>
+        <target state="translated">当你循环CARDNAME时，你可以获得2点生命。</target>
       </trans-unit>
       <trans-unit id="e770d089-9957-412c-a51f-3f11b6b9692a" resname="DMR·24 | Savannah Lions | Card Name">
         <source>Savannah Lions</source>
@@ -280,11 +280,11 @@
       </trans-unit>
       <trans-unit id="5041dcfd-c1af-448c-91f7-75fd1d34e93e" resname="DMR·26 | Serra Avatar | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to your life total.</source>
-        <target state="translated">撒拉圣者的力量和防御力各等同于你的总生命。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你的总生命。</target>
       </trans-unit>
       <trans-unit id="5041dcfd-c1af-448c-91f7-75fd1d34e93e" resname="DMR·26 | Serra Avatar | Card Text | Paragraph 2">
         <source>When CARDNAME is put into a graveyard from anywhere, shuffle it into its owner's library.</source>
-        <target state="translated">当撒拉圣者从任何区域进入坟墓场时，将它洗入其拥有者的牌库。</target>
+        <target state="translated">当CARDNAME从任何区域进入坟墓场时，将它洗入其拥有者的牌库。</target>
       </trans-unit>
       <trans-unit id="3b272b9a-9348-4eaa-8978-2fe549182c84" resname="DMR·27 | Sevinne's Reclamation | Card Name">
         <source>Sevinne's Reclamation</source>
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="1fa545eb-aa45-4085-8472-676f5d5e1c48" resname="DMR·28 | Spectral Lynx | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)</source>
-        <target state="translated">{B}：重生魂魅山猫。（此生物下一次将被消灭时，改为将它横置、移出战斗，并治愈其上所有伤害。）</target>
+        <target state="translated">{B}：重生CARDNAME。（此生物下一次将被消灭时，改为将它横置、移出战斗，并治愈其上所有伤害。）</target>
       </trans-unit>
       <trans-unit id="fc046a97-4699-438d-8da4-022560a18564" resname="DMR·29 | Spirit Link | Card Name">
         <source>Spirit Link</source>
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="c75772e5-257e-4b08-90a4-492a43f229b3" resname="DMR·33 | Vigilant Sentry | Card Text | Paragraph 1">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1 and has &amp;quot;{T}: Target attacking or blocking creature gets +3/+3 until end of turn.&amp;quot;</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，警醒的哨兵便得+1/+1且具有「{T}：目标进行攻击或阻挡的生物得+3/+3直到回合结束。」</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便得+1/+1且具有「{T}：目标进行攻击或阻挡的生物得+3/+3直到回合结束。」</target>
       </trans-unit>
       <trans-unit id="d84b1c31-fb33-4f5c-b766-6ca8ad6e0976" resname="DMR·34 | Voice of All | Card Name">
         <source>Voice of All</source>
@@ -372,11 +372,11 @@
       </trans-unit>
       <trans-unit id="d84b1c31-fb33-4f5c-b766-6ca8ad6e0976" resname="DMR·34 | Voice of All | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于万物使者进战场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种颜色。</target>
       </trans-unit>
       <trans-unit id="d84b1c31-fb33-4f5c-b766-6ca8ad6e0976" resname="DMR·34 | Voice of All | Card Text | Paragraph 3">
         <source>CARDNAME has protection from the chosen color.</source>
-        <target state="translated">万物使者具有反该色保护异能。</target>
+        <target state="translated">CARDNAME具有反该色保护异能。</target>
       </trans-unit>
       <trans-unit id="a358def9-65a0-4741-896c-b2a8c8947768" resname="DMR·35 | Whitemane Lion | Card Name">
         <source>Whitemane Lion</source>
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="a358def9-65a0-4741-896c-b2a8c8947768" resname="DMR·35 | Whitemane Lion | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return a creature you control to its owner's hand.</source>
-        <target state="translated">当白鬃狮进战场时，将一个由你操控的生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将一个由你操控的生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="7b72ba3c-12f5-47d0-adaa-f470ad3a416c" resname="DMR·36 | Windborn Muse | Card Name">
         <source>Windborn Muse</source>
@@ -416,7 +416,7 @@
       </trans-unit>
       <trans-unit id="62721a55-37c6-4c05-aedf-0aa203045afa" resname="DMR·38 | Aquamoeba | Card Text | Paragraph 1">
         <source>Discard a card: Switch CARDNAME's power and toughness until end of turn.</source>
-        <target state="translated">弃一张牌：将水生阿米巴的力量与防御力互换直到回合结束。</target>
+        <target state="translated">弃一张牌：将CARDNAME的力量与防御力互换直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2074ed36-fbae-4886-b3ad-360fdfbb69cd" resname="DMR·39 | Arcanis the Omnipotent | Card Name">
         <source>Arcanis the Omnipotent</source>
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="2074ed36-fbae-4886-b3ad-360fdfbb69cd" resname="DMR·39 | Arcanis the Omnipotent | Card Text | Paragraph 2">
         <source>{2}{U}{U}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{2}{U}{U}：将全能的阿卡尼思移回其拥有者手上。</target>
+        <target state="translated">{2}{U}{U}：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="e2f9ed6d-2c26-4cb8-8ecf-8c02a534b9eb" resname="DMR·40 | Aven Fateshaper | Card Name">
         <source>Aven Fateshaper</source>
@@ -440,7 +440,7 @@
       </trans-unit>
       <trans-unit id="e2f9ed6d-2c26-4cb8-8ecf-8c02a534b9eb" resname="DMR·40 | Aven Fateshaper | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, look at the top four cards of your library, then put them back in any order.</source>
-        <target state="translated">当造命艾文进战场时，检视你牌库顶的四张牌，然后将它们以任意顺序放回。</target>
+        <target state="translated">当CARDNAME进战场时，检视你牌库顶的四张牌，然后将它们以任意顺序放回。</target>
       </trans-unit>
       <trans-unit id="e2f9ed6d-2c26-4cb8-8ecf-8c02a534b9eb" resname="DMR·40 | Aven Fateshaper | Card Text | Paragraph 3">
         <source>{4}{U}: Look at the top four cards of your library, then put them back in any order.</source>
@@ -456,7 +456,7 @@
       </trans-unit>
       <trans-unit id="92b8cd57-df68-4f6d-9612-21e66b9f0190" resname="DMR·41 | Aven Fisher | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you may draw a card.</source>
-        <target state="translated">当艾文渔人死去时，你可以抓一张牌。</target>
+        <target state="translated">当CARDNAME死去时，你可以抓一张牌。</target>
       </trans-unit>
       <trans-unit id="4b19fdac-da3e-4ebd-ae7b-6f31a97b2a0f" resname="DMR·42 | Circular Logic | Card Name">
         <source>Circular Logic</source>
@@ -480,7 +480,7 @@
       </trans-unit>
       <trans-unit id="ed95f539-1d8b-408b-9af2-8c6f93fb98c8" resname="DMR·43 | Cloud of Faeries | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, untap up to two lands.</source>
-        <target state="translated">当仙灵云群进战场时，重置至多两个地。</target>
+        <target state="translated">当CARDNAME进战场时，重置至多两个地。</target>
       </trans-unit>
       <trans-unit id="ed95f539-1d8b-408b-9af2-8c6f93fb98c8" resname="DMR·43 | Cloud of Faeries | Card Text | Paragraph 3">
         <source>Cycling {2} ({2}, Discard this card: Draw a card.)</source>
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="ca7959e9-8ae7-49f7-acf9-a0fc2afa219e" resname="DMR·47 | Denizen of the Deep | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return each other creature you control to its owner's hand.</source>
-        <target state="translated">当深海潜兽进战场时，将所有由你操控的其他生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将所有由你操控的其他生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="f758a8b6-f586-4d27-9379-8f7c4a78d90c" resname="DMR·48 | Fact or Fiction | Card Name">
         <source>Fact or Fiction</source>
@@ -544,11 +544,11 @@
       </trans-unit>
       <trans-unit id="600b315b-58f8-4b1b-b210-f09e3e5e3b27" resname="DMR·49 | Floodgate | Card Text | Paragraph 2">
         <source>When CARDNAME has flying, sacrifice it.</source>
-        <target state="translated">当水闸具有飞行异能时，将它牺牲。</target>
+        <target state="translated">当CARDNAME具有飞行异能时，将它牺牲。</target>
       </trans-unit>
       <trans-unit id="600b315b-58f8-4b1b-b210-f09e3e5e3b27" resname="DMR·49 | Floodgate | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, it deals damage to each nonblue creature without flying equal to half the number of Islands you control, rounded down.</source>
-        <target state="translated">当水闸离开战场时，它对每个不具飞行异能的非蓝色生物各造成伤害，其数量等同于由你操控之海岛数量的一半，小数点后舍去。</target>
+        <target state="translated">当CARDNAME离开战场时，它对每个不具飞行异能的非蓝色生物各造成伤害，其数量等同于由你操控之海岛数量的一半，小数点后舍去。</target>
       </trans-unit>
       <trans-unit id="89f612d6-7c59-4a7b-a87d-45f789e88ba5" resname="DMR·50 | Force of Will | Card Name">
         <source>Force of Will</source>
@@ -576,7 +576,7 @@
       </trans-unit>
       <trans-unit id="f1b26379-0007-450e-9b94-2932eef6ac2c" resname="DMR·52 | Glintwing Invoker | Card Text | Paragraph 1">
         <source>{7}{U}: CARDNAME gets +3/+3 and gains flying until end of turn.</source>
-        <target state="translated">{7}{U}：直到回合结束，烁翼召现师得+3/+3且获得飞行异能。</target>
+        <target state="translated">{7}{U}：直到回合结束，CARDNAME得+3/+3且获得飞行异能。</target>
       </trans-unit>
       <trans-unit id="b50762ad-494a-46fa-811f-4e472de8cebd" resname="DMR·53 | Hermetic Study | Card Name">
         <source>Hermetic Study</source>
@@ -604,7 +604,7 @@
       </trans-unit>
       <trans-unit id="7b8ba7cc-2586-497a-8b62-4342a3f19506" resname="DMR·55 | Horseshoe Crab | Card Text | Paragraph 1">
         <source>{U}: Untap CARDNAME.</source>
-        <target state="translated">{U}：重置马蹄蟹。</target>
+        <target state="translated">{U}：重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="3ec50625-5e14-4fd0-9a96-86f195342695" resname="DMR·56 | Impulse | Card Name">
         <source>Impulse</source>
@@ -636,7 +636,7 @@
       </trans-unit>
       <trans-unit id="a1ef40d5-c287-4229-8059-3505d9f251ca" resname="DMR·58 | Man-o'-War | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return target creature to its owner's hand.</source>
-        <target state="translated">当战舰水母进战场时，将目标生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="40140991-cffa-4b52-9a25-37e9a8aa9ddd" resname="DMR·59 | Mystic Remora | Card Name">
         <source>Mystic Remora</source>
@@ -692,11 +692,11 @@
       </trans-unit>
       <trans-unit id="20af3166-6338-4fac-bfa6-cea19daefc62" resname="DMR·64 | Ovinomancer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand.</source>
-        <target state="translated">当羊化术师进战场时，除非你将三个由你操控的基本地移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将三个由你操控的基本地移回其拥有者手上，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="20af3166-6338-4fac-bfa6-cea19daefc62" resname="DMR·64 | Ovinomancer | Card Text | Paragraph 2">
         <source>{T}, Return CARDNAME to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller creates a 0/1 green Sheep creature token.</source>
-        <target state="translated">{T}，将羊化术师移回其拥有者手上：消灭目标生物。它不能重生。该生物的操控者派出一个0/1绿色绵羊衍生生物。</target>
+        <target state="translated">{T}，将CARDNAME移回其拥有者手上：消灭目标生物。它不能重生。该生物的操控者派出一个0/1绿色绵羊衍生生物。</target>
       </trans-unit>
       <trans-unit id="611c8fa2-b53f-483b-9efa-759ac59dc30f" resname="DMR·65 | Peregrine Drake | Card Name">
         <source>Peregrine Drake</source>
@@ -708,7 +708,7 @@
       </trans-unit>
       <trans-unit id="611c8fa2-b53f-483b-9efa-759ac59dc30f" resname="DMR·65 | Peregrine Drake | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, untap up to five lands.</source>
-        <target state="translated">当隼龙兽进战场时，重置至多五个地。</target>
+        <target state="translated">当CARDNAME进战场时，重置至多五个地。</target>
       </trans-unit>
       <trans-unit id="f13406c6-f208-402a-94d3-a94a24f03563" resname="DMR·66 | Snap | Card Name">
         <source>Snap</source>
@@ -736,7 +736,7 @@
       </trans-unit>
       <trans-unit id="1f9a1760-d681-471d-b3a2-ca5051b8bed3" resname="DMR·68 | Thieving Magpie | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage to an opponent, draw a card.</source>
-        <target state="translated">每当窃鹊向任一对手造成伤害时，抓一张牌。</target>
+        <target state="translated">每当CARDNAME向任一对手造成伤害时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="9dc791fd-d49c-4c66-b8fb-6b54ce842e90" resname="DMR·69 | Time Stretch | Card Name">
         <source>Time Stretch</source>
@@ -760,7 +760,7 @@
       </trans-unit>
       <trans-unit id="18b26e53-1fc2-4d07-a56f-9000ed25580d" resname="DMR·71 | Urza, Lord High Artificer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 0/0 colorless Construct artifact creature token with &amp;quot;This creature gets +1/+1 for each artifact you control.&amp;quot;</source>
-        <target state="translated">当铸物勋爵克撒进战场时，派出一个0/0无色组构体衍生神器生物，且具有「你每操控一个神器，此生物便得+1/+1。」</target>
+        <target state="translated">当CARDNAME进战场时，派出一个0/0无色组构体衍生神器生物，且具有「你每操控一个神器，此生物便得+1/+1。」</target>
       </trans-unit>
       <trans-unit id="18b26e53-1fc2-4d07-a56f-9000ed25580d" resname="DMR·71 | Urza, Lord High Artificer | Card Text | Paragraph 2">
         <source>Tap an untapped artifact you control: Add {U}.</source>
@@ -776,7 +776,7 @@
       </trans-unit>
       <trans-unit id="d1964316-82c7-4ee1-a7cc-d969c6254ace" resname="DMR·72 | Veiled Serpent | Card Text | Paragraph 1">
         <source>When an opponent casts a spell, if CARDNAME is an enchantment, CARDNAME becomes a 4/4 Serpent creature with &amp;quot;This creature can't attack unless defending player controls an Island.&amp;quot; (It's no longer an enchantment.)</source>
-        <target state="translated">每当任一对手施放咒语时，若隐匿巨蛇是结界，则隐匿巨蛇成为4/4巨蛇生物，且具有「除非防御牌手操控海岛，否则此生物不能攻击。」（它不再是结界。）</target>
+        <target state="translated">每当任一对手施放咒语时，若CARDNAME是结界，则CARDNAME成为4/4巨蛇生物，且具有「除非防御牌手操控海岛，否则此生物不能攻击。」（它不再是结界。）</target>
       </trans-unit>
       <trans-unit id="d1964316-82c7-4ee1-a7cc-d969c6254ace" resname="DMR·72 | Veiled Serpent | Card Text | Paragraph 2">
         <source>Cycling {2} ({2}, Discard this card: Draw a card.)</source>
@@ -788,7 +788,7 @@
       </trans-unit>
       <trans-unit id="2c75f806-b900-403c-8de1-cc3173afc8f0" resname="DMR·73 | Vexing Sphinx | Card Text | Paragraphs">
         <source>Flying\nCumulative upkeep—\nDiscard a card. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen CARDNAME dies, draw a card for each age counter on it.</source>
-        <target state="translated">飞行\n累积维持～弃一张牌。（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上的每个岁月指示物各支付维持费用，否则牺牲之。）\n当乱心史芬斯死去时，其上每有一个岁月指示物，便抓一张牌。</target>
+        <target state="translated">飞行\n累积维持～弃一张牌。（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上的每个岁月指示物各支付维持费用，否则牺牲之。）\n当CARDNAME死去时，其上每有一个岁月指示物，便抓一张牌。</target>
       </trans-unit>
       <trans-unit id="501128c7-c541-4de8-a041-9367c032dbb3" resname="DMR·74 | Wormfang Drake | Card Name">
         <source>Wormfang Drake</source>
@@ -800,11 +800,11 @@
       </trans-unit>
       <trans-unit id="501128c7-c541-4de8-a041-9367c032dbb3" resname="DMR·74 | Wormfang Drake | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you exile a creature you control other than CARDNAME.</source>
-        <target state="translated">当奇肢龙兽进战场时，除非你放逐一个奇肢龙兽以外由你操控的生物，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你放逐一个CARDNAME以外由你操控的生物，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="501128c7-c541-4de8-a041-9367c032dbb3" resname="DMR·74 | Wormfang Drake | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, return the exiled card to the battlefield under its owner's control.</source>
-        <target state="translated">当奇肢龙兽离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="2d7d83a8-3bad-40cf-991c-fc7f8e399c42" resname="DMR·75 | Body Snatcher | Card Name">
         <source>Body Snatcher</source>
@@ -812,11 +812,11 @@
       </trans-unit>
       <trans-unit id="2d7d83a8-3bad-40cf-991c-fc7f8e399c42" resname="DMR·75 | Body Snatcher | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile it unless you discard a creature card.</source>
-        <target state="translated">当窃体者进战场时，除非你弃一张生物牌，否则放逐之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你弃一张生物牌，否则放逐之。</target>
       </trans-unit>
       <trans-unit id="2d7d83a8-3bad-40cf-991c-fc7f8e399c42" resname="DMR·75 | Body Snatcher | Card Text | Paragraph 2">
         <source>When CARDNAME dies, exile it and return target creature card from your graveyard to the battlefield.</source>
-        <target state="translated">当窃体者死去时，将它放逐并将目标生物牌从你的坟墓场移回战场。</target>
+        <target state="translated">当CARDNAME死去时，将它放逐并将目标生物牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="c7e4fa7f-a5d7-46cd-bc46-d3d231235460" resname="DMR·76 | Cackling Fiend | Card Name">
         <source>Cackling Fiend</source>
@@ -824,7 +824,7 @@
       </trans-unit>
       <trans-unit id="c7e4fa7f-a5d7-46cd-bc46-d3d231235460" resname="DMR·76 | Cackling Fiend | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each opponent discards a card.</source>
-        <target state="translated">当咳吼恶魔进战场时，每位对手各弃一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，每位对手各弃一张牌。</target>
       </trans-unit>
       <trans-unit id="c294695b-a096-441a-9034-91ca74763903" resname="DMR·77 | Chainer, Dementia Master | Card Name">
         <source>Chainer, Dementia Master</source>
@@ -840,7 +840,7 @@
       </trans-unit>
       <trans-unit id="c294695b-a096-441a-9034-91ca74763903" resname="DMR·77 | Chainer, Dementia Master | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, exile all Nightmares.</source>
-        <target state="translated">当惧像大师崔纳离开战场时，放逐所有梦魇。</target>
+        <target state="translated">当CARDNAME离开战场时，放逐所有梦魇。</target>
       </trans-unit>
       <trans-unit id="8c204471-d908-4a08-83e4-cf38999fa80f" resname="DMR·78 | Chainer's Edict | Card Name">
         <source>Chainer's Edict</source>
@@ -900,7 +900,7 @@
       </trans-unit>
       <trans-unit id="e3b3dbd4-7c3d-49df-98b0-068db5399083" resname="DMR·83 | Evil Eye of Orms-by-Gore | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked except by Walls.</source>
-        <target state="translated">欧拜高的邪眼只能被墙阻挡。</target>
+        <target state="translated">CARDNAME只能被墙阻挡。</target>
       </trans-unit>
       <trans-unit id="2e5511e2-a218-411e-aea3-96461e9c5fdd" resname="DMR·84 | Faceless Butcher | Card Name">
         <source>Faceless Butcher</source>
@@ -908,11 +908,11 @@
       </trans-unit>
       <trans-unit id="2e5511e2-a218-411e-aea3-96461e9c5fdd" resname="DMR·84 | Faceless Butcher | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile another target creature.</source>
-        <target state="translated">当无面屠夫进战场时，放逐另一个目标生物。</target>
+        <target state="translated">当CARDNAME进战场时，放逐另一个目标生物。</target>
       </trans-unit>
       <trans-unit id="2e5511e2-a218-411e-aea3-96461e9c5fdd" resname="DMR·84 | Faceless Butcher | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return the exiled card to the battlefield under its owner's control.</source>
-        <target state="translated">当无面屠夫离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="b039f65e-1287-4c6e-a1c2-773a008fc0a3" resname="DMR·85 | Festering Goblin | Card Name">
         <source>Festering Goblin</source>
@@ -920,7 +920,7 @@
       </trans-unit>
       <trans-unit id="b039f65e-1287-4c6e-a1c2-773a008fc0a3" resname="DMR·85 | Festering Goblin | Card Text | Paragraph 1">
         <source>When CARDNAME dies, target creature gets -1/-1 until end of turn.</source>
-        <target state="translated">当溃伤鬼怪死去时，目标生物得-1/-1直到回合结束。</target>
+        <target state="translated">当CARDNAME死去时，目标生物得-1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5d56f46a-7327-4d98-b194-272333c8171e" resname="DMR·86 | Flesh Reaver | Card Name">
         <source>Flesh Reaver</source>
@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="5d56f46a-7327-4d98-b194-272333c8171e" resname="DMR·86 | Flesh Reaver | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage to a creature or opponent, CARDNAME deals that much damage to you.</source>
-        <target state="translated">每当撕肉魔对任一生物或对手造成伤害时，撕肉魔对你造成等量的伤害。</target>
+        <target state="translated">每当CARDNAME对任一生物或对手造成伤害时，CARDNAME对你造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="5b9e49ee-9103-4340-bf92-f888c722af47" resname="DMR·87 | Goblin Turncoat | Card Name">
         <source>Goblin Turncoat</source>
@@ -936,7 +936,7 @@
       </trans-unit>
       <trans-unit id="5b9e49ee-9103-4340-bf92-f888c722af47" resname="DMR·87 | Goblin Turncoat | Card Text | Paragraph 1">
         <source>Sacrifice a Goblin: Regenerate CARDNAME. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)</source>
-        <target state="translated">牺牲一个鬼怪：重生变节鬼怪。（此生物下一次将被消灭时，改为将它横置、移出战斗，并治愈其上所有伤害。）</target>
+        <target state="translated">牺牲一个鬼怪：重生CARDNAME。（此生物下一次将被消灭时，改为将它横置、移出战斗，并治愈其上所有伤害。）</target>
       </trans-unit>
       <trans-unit id="90ef6b1c-2a86-415f-a5e3-c4b4f73a4de0" resname="DMR·88 | Howl from Beyond | Card Name">
         <source>Howl from Beyond</source>
@@ -952,7 +952,7 @@
       </trans-unit>
       <trans-unit id="875b7d0b-8354-41a0-9a53-8bc19ffdc016" resname="DMR·89 | Hyalopterous Lemure | Card Text | Paragraph 1">
         <source>{0}: CARDNAME gets -1/-0 and gains flying until end of turn.</source>
-        <target state="translated">{0}：直到回合结束，透翅游魂得-1/-0且获得飞行异能。</target>
+        <target state="translated">{0}：直到回合结束，CARDNAME得-1/-0且获得飞行异能。</target>
       </trans-unit>
       <trans-unit id="9db67828-5697-45fd-87db-ff27ef9cec5a" resname="DMR·90 | Ichor Slick | Card Name">
         <source>Ichor Slick</source>
@@ -976,7 +976,7 @@
       </trans-unit>
       <trans-unit id="afc86134-8af6-4355-b1ad-96917c99ff3c" resname="DMR·91 | Mindslicer | Card Text | Paragraph 1">
         <source>When CARDNAME dies, each player discards their hand.</source>
-        <target state="translated">当削心兽死去时，每位牌手各弃掉其手牌。</target>
+        <target state="translated">当CARDNAME死去时，每位牌手各弃掉其手牌。</target>
       </trans-unit>
       <trans-unit id="fb4c5dd4-79dc-4bd2-8c18-897924a4a959" resname="DMR·92 | Nantuko Shade | Card Name">
         <source>Nantuko Shade</source>
@@ -984,7 +984,7 @@
       </trans-unit>
       <trans-unit id="fb4c5dd4-79dc-4bd2-8c18-897924a4a959" resname="DMR·92 | Nantuko Shade | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：螳人阴魂得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="87ce2548-38d3-4763-960a-d5d802094a0c" resname="DMR·93 | Necrosavant | Card Name">
         <source>Necrosavant</source>
@@ -992,7 +992,7 @@
       </trans-unit>
       <trans-unit id="87ce2548-38d3-4763-960a-d5d802094a0c" resname="DMR·93 | Necrosavant | Card Text | Paragraph 1">
         <source>{3}{B}{B}, Sacrifice a creature: Return CARDNAME from your graveyard to the battlefield. Activate only during your upkeep.</source>
-        <target state="translated">{3}{B}{B}，牺牲一个生物：将死灵学者从你的坟墓场移回战场。只能于你的维持中起动。</target>
+        <target state="translated">{3}{B}{B}，牺牲一个生物：将CARDNAME从你的坟墓场移回战场。只能于你的维持中起动。</target>
       </trans-unit>
       <trans-unit id="4cf1918f-ad58-4f62-bd8c-649919de0e75" resname="DMR·94 | Nightscape Familiar | Card Name">
         <source>Nightscape Familiar</source>
@@ -1004,7 +1004,7 @@
       </trans-unit>
       <trans-unit id="4cf1918f-ad58-4f62-bd8c-649919de0e75" resname="DMR·94 | Nightscape Familiar | Card Text | Paragraph 2">
         <source>{1}{B}: Regenerate CARDNAME. (The next time this creature would be destroyed, instead tap it, remove it from combat, and heal all damage on it.)</source>
-        <target state="translated">{1}{B}：重生夜景院佣兽。（此生物下一次将被消灭时，改为将它横置、移出战斗，并治愈其上所有伤害。）</target>
+        <target state="translated">{1}{B}：重生CARDNAME。（此生物下一次将被消灭时，改为将它横置、移出战斗，并治愈其上所有伤害。）</target>
       </trans-unit>
       <trans-unit id="63c5e1dd-2fe6-4734-8406-7bcdf17aa60c" resname="DMR·95 | No Mercy | Card Name">
         <source>No Mercy</source>
@@ -1032,7 +1032,7 @@
       </trans-unit>
       <trans-unit id="f3e2c6ac-455e-4d99-983b-1b154fd8bb24" resname="DMR·97 | Phyrexian Debaser | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Target creature gets -2/-2 until end of turn.</source>
-        <target state="translated">{T}，牺牲非瑞克西亚贬者：目标生物得-2/-2直到回合结束。</target>
+        <target state="translated">{T}，牺牲CARDNAME：目标生物得-2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="08586285-9a42-48ef-9188-0dd5d7294ad2" resname="DMR·98 | Phyrexian Ghoul | Card Name">
         <source>Phyrexian Ghoul</source>
@@ -1040,7 +1040,7 @@
       </trans-unit>
       <trans-unit id="08586285-9a42-48ef-9188-0dd5d7294ad2" resname="DMR·98 | Phyrexian Ghoul | Card Text | Paragraph 1">
         <source>Sacrifice a creature: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">牺牲一个生物：非瑞克西亚食尸鬼得+2/+2直到回合结束。</target>
+        <target state="translated">牺牲一个生物：CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="1db97152-afd5-4190-8bf1-1276b0fcf005" resname="DMR·99 | Phyrexian Rager | Card Name">
         <source>Phyrexian Rager</source>
@@ -1048,7 +1048,7 @@
       </trans-unit>
       <trans-unit id="1db97152-afd5-4190-8bf1-1276b0fcf005" resname="DMR·99 | Phyrexian Rager | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you draw a card and you lose 1 life.</source>
-        <target state="translated">当非瑞克西亚狂怒兽进战场时，你抓一张牌且失去1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你抓一张牌且失去1点生命。</target>
       </trans-unit>
       <trans-unit id="5b5b3b5c-121a-406e-a31a-537991309399" resname="DMR·100 | Phyrexian Scuta | Card Name">
         <source>Phyrexian Scuta</source>
@@ -1056,7 +1056,7 @@
       </trans-unit>
       <trans-unit id="5b5b3b5c-121a-406e-a31a-537991309399" resname="DMR·100 | Phyrexian Scuta | Card Text | Paragraphs">
         <source>Kicker—\nPay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.)\nIf CARDNAME was kicked, it enters the battlefield with two +1/+1 counters on it.</source>
-        <target state="translated">增幅～支付3点生命。（你施放此咒语时可以额外支付3点生命。）\n如果非瑞克西亚盾甲队已增幅，则它进战场时上面有两个+1/+1指示物。</target>
+        <target state="translated">增幅～支付3点生命。（你施放此咒语时可以额外支付3点生命。）\n如果CARDNAME已增幅，则它进战场时上面有两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="67ef9842-7142-4c63-8aea-fa73f02722a5" resname="DMR·101 | Royal Assassin | Card Name">
         <source>Royal Assassin</source>
@@ -1100,7 +1100,7 @@
       </trans-unit>
       <trans-unit id="7f7a3d34-4e4e-4545-8e2e-6977eb754270" resname="DMR·105 | Undead Gladiator | Card Text | Paragraph 1">
         <source>{1}{B}, Discard a card: Return CARDNAME from your graveyard to your hand. Activate only during your upkeep.</source>
-        <target state="translated">{1}{B}，弃一张牌：将不死剑斗士从你的坟墓场移回你手上。只能于你的维持中起动。</target>
+        <target state="translated">{1}{B}，弃一张牌：将CARDNAME从你的坟墓场移回你手上。只能于你的维持中起动。</target>
       </trans-unit>
       <trans-unit id="7f7a3d34-4e4e-4545-8e2e-6977eb754270" resname="DMR·105 | Undead Gladiator | Card Text | Paragraph 2">
         <source>Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</source>
@@ -1176,11 +1176,11 @@
       </trans-unit>
       <trans-unit id="d895ddf9-7d94-411c-ad2e-90d47e51810d" resname="DMR·112 | Avarax | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may search your library for a card named CARDNAME, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">当阿帕垒兽进战场时，你可以从你牌库中搜寻一张名称为阿帕垒兽的牌，展示该牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张名称为CARDNAME的牌，展示该牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="d895ddf9-7d94-411c-ad2e-90d47e51810d" resname="DMR·112 | Avarax | Card Text | Paragraph 3">
         <source>{1}{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{1}{R}：阿帕垒兽得+1/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2105a0d9-ea2e-4ffc-be08-424b5617205d" resname="DMR·113 | Chain Lightning | Card Name">
         <source>Chain Lightning</source>
@@ -1188,7 +1188,7 @@
       </trans-unit>
       <trans-unit id="2105a0d9-ea2e-4ffc-be08-424b5617205d" resname="DMR·113 | Chain Lightning | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target. Then that player or that permanent's controller may pay {R}{R}. If the player does, they may copy this spell and may choose a new target for that copy.</source>
-        <target state="translated">连锁闪电对任意一个目标造成3点伤害。然后该牌手或该永久物的操控者可以支付{R}{R}。如果该牌手如此作，则其可以复制此咒语，且可以为该复制品选择新的目标。</target>
+        <target state="translated">CARDNAME对任意一个目标造成3点伤害。然后该牌手或该永久物的操控者可以支付{R}{R}。如果该牌手如此作，则其可以复制此咒语，且可以为该复制品选择新的目标。</target>
       </trans-unit>
       <trans-unit id="67c8578e-052f-4182-9bb1-fb35450d22c0" resname="DMR·114 | Coal Stoker | Card Name">
         <source>Coal Stoker</source>
@@ -1196,7 +1196,7 @@
       </trans-unit>
       <trans-unit id="67c8578e-052f-4182-9bb1-fb35450d22c0" resname="DMR·114 | Coal Stoker | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, if you cast it from your hand, add {R}{R}{R}.</source>
-        <target state="translated">当煤司炉进战场时，若你从你手上施放之，则加{R}{R}{R}。</target>
+        <target state="translated">当CARDNAME进战场时，若你从你手上施放之，则加{R}{R}{R}。</target>
       </trans-unit>
       <trans-unit id="b8f9cb4d-5ee2-4934-a0ca-43148491ae35" resname="DMR·115 | Deadapult | Card Name">
         <source>Deadapult</source>
@@ -1204,7 +1204,7 @@
       </trans-unit>
       <trans-unit id="b8f9cb4d-5ee2-4934-a0ca-43148491ae35" resname="DMR·115 | Deadapult | Card Text | Paragraph 1">
         <source>{R}, Sacrifice a Zombie: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{R}，牺牲一个灵俑：投尸器对任意一个目标造成2点伤害。</target>
+        <target state="translated">{R}，牺牲一个灵俑：CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="dd7520ad-3b13-41a6-82b2-fef562545f1c" resname="DMR·116 | Dragon Whelp | Card Name">
         <source>Dragon Whelp</source>
@@ -1216,7 +1216,7 @@
       </trans-unit>
       <trans-unit id="dd7520ad-3b13-41a6-82b2-fef562545f1c" resname="DMR·116 | Dragon Whelp | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice CARDNAME at the beginning of the next end step.</source>
-        <target state="translated">{R}：幼龙得+1/+0直到回合结束。如果此异能本回合中起动过四次或更多，则在下一个结束步骤开始时牺牲幼龙。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。如果此异能本回合中起动过四次或更多，则在下一个结束步骤开始时牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="a75faca7-cfcf-4c3b-a507-c89659cce93a" resname="DMR·117 | Ember Beast | Card Name">
         <source>Ember Beast</source>
@@ -1224,7 +1224,7 @@
       </trans-unit>
       <trans-unit id="a75faca7-cfcf-4c3b-a507-c89659cce93a" resname="DMR·117 | Ember Beast | Card Text | Paragraph 1">
         <source>CARDNAME can't attack or block alone.</source>
-        <target state="translated">灰烬兽不能单独进行攻击或阻挡。</target>
+        <target state="translated">CARDNAME不能单独进行攻击或阻挡。</target>
       </trans-unit>
       <trans-unit id="939d765a-aefb-4393-8808-98b1bbd7e803" resname="DMR·118 | Empty the Warrens | Card Name">
         <source>Empty the Warrens</source>
@@ -1248,7 +1248,7 @@
       </trans-unit>
       <trans-unit id="a0ab67cc-b553-4451-9cda-0e5fe3303940" resname="DMR·119 | Fireblast | Card Text | Paragraph 2">
         <source>CARDNAME deals 4 damage to any target.</source>
-        <target state="translated">火焰冲击波对任意一个目标造成4点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="1b3a5139-3341-409e-be33-184897c7398e" resname="DMR·120 | Flametongue Kavu | Card Name">
         <source>Flametongue Kavu</source>
@@ -1256,7 +1256,7 @@
       </trans-unit>
       <trans-unit id="1b3a5139-3341-409e-be33-184897c7398e" resname="DMR·120 | Flametongue Kavu | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 4 damage to target creature.</source>
-        <target state="translated">当焰舌卡甫进战场时，它对目标生物造成4点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它对目标生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="8e37fae5-ddd0-4e16-8581-71579f89d9c5" resname="DMR·121 | Gamble | Card Name">
         <source>Gamble</source>
@@ -1276,7 +1276,7 @@
       </trans-unit>
       <trans-unit id="17c231e3-10ec-458b-bba1-891812e000f6" resname="DMR·122 | Gempalm Incinerator | Card Text | Paragraph 2">
         <source>When you cycle CARDNAME, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.</source>
-        <target state="translated">当你循环晶掌放火鬼时，你可以使它对目标生物造成X点伤害，X为战场上的鬼怪数量。</target>
+        <target state="translated">当你循环CARDNAME时，你可以使它对目标生物造成X点伤害，X为战场上的鬼怪数量。</target>
       </trans-unit>
       <trans-unit id="a521a254-c484-4d59-bb7e-8745e96d4bbf" resname="DMR·123 | Goblin Matron | Card Name">
         <source>Goblin Matron</source>
@@ -1284,7 +1284,7 @@
       </trans-unit>
       <trans-unit id="a521a254-c484-4d59-bb7e-8745e96d4bbf" resname="DMR·123 | Goblin Matron | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.</source>
-        <target state="translated">当鬼怪女舍监进战场时，你可以从你牌库中搜寻一张鬼怪牌，展示该牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张鬼怪牌，展示该牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="980d45cb-e9e6-4f09-9275-c3f2c538b57c" resname="DMR·124 | Goblin Medics | Card Name">
         <source>Goblin Medics</source>
@@ -1292,7 +1292,7 @@
       </trans-unit>
       <trans-unit id="980d45cb-e9e6-4f09-9275-c3f2c538b57c" resname="DMR·124 | Goblin Medics | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes tapped, it deals 1 damage to any target.</source>
-        <target state="translated">每当鬼怪医疗员成为横置时，它对任意一个目标造成1点伤害。</target>
+        <target state="translated">每当CARDNAME成为横置时，它对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="923e1291-3999-4f81-ade4-073fb982143f" resname="DMR·125 | Grapeshot | Card Name">
         <source>Grapeshot</source>
@@ -1300,7 +1300,7 @@
       </trans-unit>
       <trans-unit id="923e1291-3999-4f81-ade4-073fb982143f" resname="DMR·125 | Grapeshot | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">霰散弹对任意一个目标造成1点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="923e1291-3999-4f81-ade4-073fb982143f" resname="DMR·125 | Grapeshot | Card Text | Paragraph 2">
         <source>Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</source>
@@ -1312,7 +1312,7 @@
       </trans-unit>
       <trans-unit id="1ab6ffe8-e1ad-4db9-98f7-d6038f271866" resname="DMR·126 | Grim Lavamancer | Card Text | Paragraph 1">
         <source>{R}, {T}, Exile two cards from your graveyard: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{R}，{T}，从你的坟墓场放逐两张牌：狰狞熔岩术士对任意一个目标造成2点伤害。</target>
+        <target state="translated">{R}，{T}，从你的坟墓场放逐两张牌：CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="c0efb595-d407-4389-a99d-d97c4d6bdcd0" resname="DMR·127 | Last Chance | Card Name">
         <source>Last Chance</source>
@@ -1328,7 +1328,7 @@
       </trans-unit>
       <trans-unit id="9653f159-3f56-4446-bb6d-b4b4ee0cd61d" resname="DMR·128 | Lightning Reflexes | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.</source>
-        <target state="translated">你可以将闪电反射视同具有闪现异能地来施放。如果你是于无法施放法术的时机下施放之，则在下一个清除步骤开始时，它所成之永久物的操控者将它牺牲。</target>
+        <target state="translated">你可以将CARDNAME视同具有闪现异能地来施放。如果你是于无法施放法术的时机下施放之，则在下一个清除步骤开始时，它所成之永久物的操控者将它牺牲。</target>
       </trans-unit>
       <trans-unit id="9653f159-3f56-4446-bb6d-b4b4ee0cd61d" resname="DMR·128 | Lightning Reflexes | Card Text | Paragraph 2">
         <source>Enchant creature</source>
@@ -1344,7 +1344,7 @@
       </trans-unit>
       <trans-unit id="d1b731b2-70cb-4e94-8c9a-d694f617a521" resname="DMR·129 | Lightning Rift | Card Text | Paragraph 1">
         <source>Whenever a player cycles a card, you may pay {1}. If you do, CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">每当任一牌手循环一张牌时，你可以支付{1}。若你如此作，则闪电迸裂对任意一个目标造成2点伤害。</target>
+        <target state="translated">每当任一牌手循环一张牌时，你可以支付{1}。若你如此作，则CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="c750f7d7-25b8-433f-b3a8-0d842b99276f" resname="DMR·130 | Macetail Hystrodon | Card Name">
         <source>Macetail Hystrodon</source>
@@ -1368,7 +1368,7 @@
       </trans-unit>
       <trans-unit id="a7f7f39c-94a0-4ccb-b658-23095ada4005" resname="DMR·131 | Mogg War Marshal | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield or dies, create a 1/1 red Goblin creature token.</source>
-        <target state="translated">当莫葛战场元帅进战场或死去时，派出一个1/1红色鬼怪衍生生物。</target>
+        <target state="translated">当CARDNAME进战场或死去时，派出一个1/1红色鬼怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="28e812a8-66cf-4005-a647-780d49aa74a4" resname="DMR·132 | Overmaster | Card Name">
         <source>Overmaster</source>
@@ -1388,7 +1388,7 @@
       </trans-unit>
       <trans-unit id="ca20a650-65b0-4714-b7ce-0481af3db377" resname="DMR·133 | Pashalik Mons | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Goblin you control dies, CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">每当帕沙力克将军芒氏或另一个由你操控的鬼怪死去时，帕沙力克将军芒氏对任意一个目标造成1点伤害。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的鬼怪死去时，CARDNAME对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="ca20a650-65b0-4714-b7ce-0481af3db377" resname="DMR·133 | Pashalik Mons | Card Text | Paragraph 2">
         <source>{3}{R}, Sacrifice a Goblin: Create two 1/1 red Goblin creature tokens.</source>
@@ -1412,7 +1412,7 @@
       </trans-unit>
       <trans-unit id="7b78eb49-bd68-47e6-90a3-83ec2eeb4312" resname="DMR·135 | Shivan Dragon | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：西瓦巨龙得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5dd6a913-88df-4fbc-964e-a8fec3ad989f" resname="DMR·136 | Siege-Gang Commander | Card Name">
         <source>Siege-Gang Commander</source>
@@ -1420,11 +1420,11 @@
       </trans-unit>
       <trans-unit id="5dd6a913-88df-4fbc-964e-a8fec3ad989f" resname="DMR·136 | Siege-Gang Commander | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create three 1/1 red Goblin creature tokens.</source>
-        <target state="translated">当攻城指挥官进战场时，派出三个1/1红色鬼怪衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出三个1/1红色鬼怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="5dd6a913-88df-4fbc-964e-a8fec3ad989f" resname="DMR·136 | Siege-Gang Commander | Card Text | Paragraph 2">
         <source>{1}{R}, Sacrifice a Goblin: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{1}{R}，牺牲一个鬼怪：攻城指挥官对任意一个目标造成2点伤害。</target>
+        <target state="translated">{1}{R}，牺牲一个鬼怪：CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="7bc508b3-8b38-4cf0-89a7-a2cb247ed083" resname="DMR·137 | Skirk Prospector | Card Name">
         <source>Skirk Prospector</source>
@@ -1440,7 +1440,7 @@
       </trans-unit>
       <trans-unit id="0521e68e-b3dd-4cb4-a7fb-0f74c40f917b" resname="DMR·138 | Slice and Dice | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to each creature.</source>
-        <target state="translated">剁成碎片对每个生物各造成4点伤害。</target>
+        <target state="translated">CARDNAME对每个生物各造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="0521e68e-b3dd-4cb4-a7fb-0f74c40f917b" resname="DMR·138 | Slice and Dice | Card Text | Paragraph 2">
         <source>Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)</source>
@@ -1448,7 +1448,7 @@
       </trans-unit>
       <trans-unit id="0521e68e-b3dd-4cb4-a7fb-0f74c40f917b" resname="DMR·138 | Slice and Dice | Card Text | Paragraph 3">
         <source>When you cycle CARDNAME, you may have it deal 1 damage to each creature.</source>
-        <target state="translated">当你循环剁成碎片时，你可以使它对每个生物各造成1点伤害。</target>
+        <target state="translated">当你循环CARDNAME时，你可以使它对每个生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="a45b4ca9-4355-4690-84c3-a7d44c367dbf" resname="DMR·139 | Sneak Attack | Card Name">
         <source>Sneak Attack</source>
@@ -1464,7 +1464,7 @@
       </trans-unit>
       <trans-unit id="87202a72-72aa-46d3-ba16-10a180276905" resname="DMR·140 | Solar Blast | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">炎阳冲击波对任意一个目标造成3点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="87202a72-72aa-46d3-ba16-10a180276905" resname="DMR·140 | Solar Blast | Card Text | Paragraph 2">
         <source>Cycling {1}{R}{R} ({1}{R}{R}, Discard this card: Draw a card.)</source>
@@ -1472,7 +1472,7 @@
       </trans-unit>
       <trans-unit id="87202a72-72aa-46d3-ba16-10a180276905" resname="DMR·140 | Solar Blast | Card Text | Paragraph 3">
         <source>When you cycle CARDNAME, you may have it deal 1 damage to any target.</source>
-        <target state="translated">当你循环炎阳冲击波时，你可以使它对任意一个目标造成1点伤害。</target>
+        <target state="translated">当你循环CARDNAME时，你可以使它对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="22844a75-7064-4108-921f-6a590aa2e71c" resname="DMR·141 | Spark Spray | Card Name">
         <source>Spark Spray</source>
@@ -1480,7 +1480,7 @@
       </trans-unit>
       <trans-unit id="22844a75-7064-4108-921f-6a590aa2e71c" resname="DMR·141 | Spark Spray | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">星火飞溅对任意一个目标造成1点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="22844a75-7064-4108-921f-6a590aa2e71c" resname="DMR·141 | Spark Spray | Card Text | Paragraph 2">
         <source>Cycling {R} ({R}, Discard this card: Draw a card.)</source>
@@ -1496,7 +1496,7 @@
       </trans-unit>
       <trans-unit id="701f0a77-28df-4f58-8577-1923bb9a2f58" resname="DMR·142 | Storm Entity | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with a +1/+1 counter on it for each other spell cast this turn.</source>
-        <target state="translated">风暴灵进战场时上面有数个+1/+1指示物，其数量为本回合中施放过的其他咒语数量。</target>
+        <target state="translated">CARDNAME进战场时上面有数个+1/+1指示物，其数量为本回合中施放过的其他咒语数量。</target>
       </trans-unit>
       <trans-unit id="b9e6c26c-84f8-46dd-bb32-b3fc57e172c0" resname="DMR·143 | Subterranean Scout | Card Name">
         <source>Subterranean Scout</source>
@@ -1504,7 +1504,7 @@
       </trans-unit>
       <trans-unit id="b9e6c26c-84f8-46dd-bb32-b3fc57e172c0" resname="DMR·143 | Subterranean Scout | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature with power 2 or less can't be blocked this turn.</source>
-        <target state="translated">当地底斥候进战场时，目标力量等于或小于2的生物本回合不能被阻挡。</target>
+        <target state="translated">当CARDNAME进战场时，目标力量等于或小于2的生物本回合不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="3253a624-50cc-4a8a-9b0c-9902aa53775f" resname="DMR·144 | Sulfuric Vortex | Card Name">
         <source>Sulfuric Vortex</source>
@@ -1512,7 +1512,7 @@
       </trans-unit>
       <trans-unit id="3253a624-50cc-4a8a-9b0c-9902aa53775f" resname="DMR·144 | Sulfuric Vortex | Card Text | Paragraph 1">
         <source>At the beginning of each player's upkeep, CARDNAME deals 2 damage to that player.</source>
-        <target state="translated">在每位牌手的维持开始时，硫磺旋风对该牌手造成2点伤害。</target>
+        <target state="translated">在每位牌手的维持开始时，CARDNAME对该牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="3253a624-50cc-4a8a-9b0c-9902aa53775f" resname="DMR·144 | Sulfuric Vortex | Card Text | Paragraph 2">
         <source>If a player would gain life, that player gains no life instead.</source>
@@ -1544,7 +1544,7 @@
       </trans-unit>
       <trans-unit id="2072badc-d4ec-469b-b3cd-6977cbe42fbd" resname="DMR·146 | Undying Rage | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from the battlefield, return CARDNAME to its owner's hand.</source>
-        <target state="translated">当不熄愤怒从战场进入坟墓场时，将不熄愤怒移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="eba207cd-b22e-4c82-b2b0-0ef57afa1117" resname="DMR·147 | Valduk, Keeper of the Flame | Card Name">
         <source>Valduk, Keeper of the Flame</source>
@@ -1552,7 +1552,7 @@
       </trans-unit>
       <trans-unit id="eba207cd-b22e-4c82-b2b0-0ef57afa1117" resname="DMR·147 | Valduk, Keeper of the Flame | Card Text | Paragraph 1">
         <source>At the beginning of combat on your turn, for each Aura and Equipment attached to CARDNAME, create a 3/1 red Elemental creature token with trample and haste. Exile those tokens at the beginning of the next end step.</source>
-        <target state="translated">在你回合的战斗开始时，源火守卫瓦杜克上每贴附一个灵气或武具，便派出一个3/1红色，具践踏与敏捷异能的元素衍生生物。在下一个结束步骤开始时放逐这些衍生物。</target>
+        <target state="translated">在你回合的战斗开始时，CARDNAME上每贴附一个灵气或武具，便派出一个3/1红色，具践踏与敏捷异能的元素衍生生物。在下一个结束步骤开始时放逐这些衍生物。</target>
       </trans-unit>
       <trans-unit id="33dde6e0-d0a7-4432-a3f4-b48234f4e055" resname="DMR·148 | Worldgorger Dragon | Card Name">
         <source>Worldgorger Dragon</source>
@@ -1564,11 +1564,11 @@
       </trans-unit>
       <trans-unit id="33dde6e0-d0a7-4432-a3f4-b48234f4e055" resname="DMR·148 | Worldgorger Dragon | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile all other permanents you control.</source>
-        <target state="translated">当吞世龙进战场时，放逐所有由你操控的其他永久物。</target>
+        <target state="translated">当CARDNAME进战场时，放逐所有由你操控的其他永久物。</target>
       </trans-unit>
       <trans-unit id="33dde6e0-d0a7-4432-a3f4-b48234f4e055" resname="DMR·148 | Worldgorger Dragon | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, return the exiled cards to the battlefield under their owners' control.</source>
-        <target state="translated">当吞世龙离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="b18f4de2-adfe-4784-bd57-9e2ad9088825" resname="DMR·149 | Arboria | Card Name">
         <source>Arboria</source>
@@ -1584,7 +1584,7 @@
       </trans-unit>
       <trans-unit id="f5a9f234-c1c1-4b4b-8385-6e0ced9977f1" resname="DMR·150 | Battlefield Scrounger | Card Text | Paragraph 1">
         <source>Threshold — Put three cards from your graveyard on the bottom of your library: CARDNAME gets +3/+3 until end of turn. Activate only once each turn and only if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～将三张牌从你坟墓场置于你的牌库底：战场搜括者得+3/+3直到回合结束。只能于你坟墓场中有七张或更多牌时起动，且每回合限一次。</target>
+        <target state="translated">门槛～将三张牌从你坟墓场置于你的牌库底：CARDNAME得+3/+3直到回合结束。只能于你坟墓场中有七张或更多牌时起动，且每回合限一次。</target>
       </trans-unit>
       <trans-unit id="496849a5-4b24-4eae-8bfb-d46f645d85ea" resname="DMR·151 | Birds of Paradise | Card Name">
         <source>Birds of Paradise</source>
@@ -1644,7 +1644,7 @@
       </trans-unit>
       <trans-unit id="ba393aa0-06d3-4811-85f5-a812c6ac5acf" resname="DMR·155 | Deadwood Treefolk | Card Text | Paragraph 2">
         <source>When CARDNAME enters or leaves the battlefield, return another target creature card from your graveyard to your hand.</source>
-        <target state="translated">当亡林树妖进入或离开战场时，将另一张目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进入或离开战场时，将另一张目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="cfd91d0d-bc6c-41a1-aecf-d31465717182" resname="DMR·156 | Elvish Aberration | Card Name">
         <source>Elvish Aberration</source>
@@ -1664,7 +1664,7 @@
       </trans-unit>
       <trans-unit id="50aded92-f934-441f-8e48-d68d471e70d8" resname="DMR·157 | Elvish Spirit Guide | Card Text | Paragraph 1">
         <source>Exile CARDNAME from your hand: Add {G}.</source>
-        <target state="translated">从你手上放逐妖精精怪向导：加{G}。</target>
+        <target state="translated">从你手上放逐CARDNAME：加{G}。</target>
       </trans-unit>
       <trans-unit id="b5862e38-b48b-45e1-b0f6-d1d0d1124e50" resname="DMR·158 | Emerald Charm | Card Name">
         <source>Emerald Charm</source>
@@ -1708,11 +1708,11 @@
       </trans-unit>
       <trans-unit id="6d79e492-993e-4305-bff2-b45f6b2536c8" resname="DMR·161 | Forgotten Ancient | Card Text | Paragraph 1">
         <source>Whenever a player casts a spell, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当任一牌手施放咒语时，你可以在遗世先人上放置一个+1/+1指示物。</target>
+        <target state="translated">每当任一牌手施放咒语时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="6d79e492-993e-4305-bff2-b45f6b2536c8" resname="DMR·161 | Forgotten Ancient | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, you may move any number of +1/+1 counters from CARDNAME onto other creatures.</source>
-        <target state="translated">在你的维持开始时，你可以将遗世先人上任意数量的+1/+1指示物移到其他生物上。</target>
+        <target state="translated">在你的维持开始时，你可以将CARDNAME上任意数量的+1/+1指示物移到其他生物上。</target>
       </trans-unit>
       <trans-unit id="1dba14c0-18c0-4ded-ae56-5a689106f1a1" resname="DMR·162 | Gamekeeper | Card Name">
         <source>Gamekeeper</source>
@@ -1720,7 +1720,7 @@
       </trans-unit>
       <trans-unit id="1dba14c0-18c0-4ded-ae56-5a689106f1a1" resname="DMR·162 | Gamekeeper | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.</source>
-        <target state="translated">当猎场看守人死去时，你可以将它放逐。若你如此作，则从你牌库顶开始展示牌，直到展示出一张生物牌为止。将该牌放进战场，并将所有以此法展示的其他牌置入你的坟墓场。</target>
+        <target state="translated">当CARDNAME死去时，你可以将它放逐。若你如此作，则从你牌库顶开始展示牌，直到展示出一张生物牌为止。将该牌放进战场，并将所有以此法展示的其他牌置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="213c9202-b6f4-43ab-b57f-b97a1da5e263" resname="DMR·163 | Giant Spider | Card Name">
         <source>Giant Spider</source>
@@ -1776,7 +1776,7 @@
       </trans-unit>
       <trans-unit id="f53cbda8-805f-42a4-aba4-9939b08e37ca" resname="DMR·167 | Kavu Primarch | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with four +1/+1 counters on it.</source>
-        <target state="translated">如果卡甫大君已增幅，则它进战场时上面有四个+1/+1指示物。</target>
+        <target state="translated">如果CARDNAME已增幅，则它进战场时上面有四个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="12508498-ecb7-4df9-b83f-87ef3bc2f4e2" resname="DMR·168 | Krosan Restorer | Card Name">
         <source>Krosan Restorer</source>
@@ -1828,7 +1828,7 @@
       </trans-unit>
       <trans-unit id="359fbd40-0f61-4ec7-872c-228a476c7ad5" resname="DMR·172 | Penumbra Bobcat | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a 2/1 black Cat creature token.</source>
-        <target state="translated">当罔两野猫死去时，派出一个2/1黑色的猫衍生生物。</target>
+        <target state="translated">当CARDNAME死去时，派出一个2/1黑色的猫衍生生物。</target>
       </trans-unit>
       <trans-unit id="59f93eb0-cb0c-4ee0-8006-3d3c7515d254" resname="DMR·173 | Primal Boost | Card Name">
         <source>Primal Boost</source>
@@ -1844,7 +1844,7 @@
       </trans-unit>
       <trans-unit id="59f93eb0-cb0c-4ee0-8006-3d3c7515d254" resname="DMR·173 | Primal Boost | Card Text | Paragraph 3">
         <source>When you cycle CARDNAME, you may have target creature get +1/+1 until end of turn.</source>
-        <target state="translated">当你循环原始增力时，你可以使目标生物得+1/+1直到回合结束。</target>
+        <target state="translated">当你循环CARDNAME时，你可以使目标生物得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="25fb3d07-a128-455a-a632-c1aba4a4ceb8" resname="DMR·174 | Sandstorm | Card Name">
         <source>Sandstorm</source>
@@ -1852,7 +1852,7 @@
       </trans-unit>
       <trans-unit id="25fb3d07-a128-455a-a632-c1aba4a4ceb8" resname="DMR·174 | Sandstorm | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each attacking creature.</source>
-        <target state="translated">沙暴对每个进行攻击的生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个进行攻击的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="64ae774a-c1de-4c9e-a2ec-86d71cb2d1db" resname="DMR·175 | Saproling Symbiosis | Card Name">
         <source>Saproling Symbiosis</source>
@@ -1860,7 +1860,7 @@
       </trans-unit>
       <trans-unit id="64ae774a-c1de-4c9e-a2ec-86d71cb2d1db" resname="DMR·175 | Saproling Symbiosis | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash if you pay {2} more to cast it.</source>
-        <target state="translated">如果你施放腐生共栖时多支付{2}，则你可以将它视同具有闪现异能地来施放。</target>
+        <target state="translated">如果你施放CARDNAME时多支付{2}，则你可以将它视同具有闪现异能地来施放。</target>
       </trans-unit>
       <trans-unit id="64ae774a-c1de-4c9e-a2ec-86d71cb2d1db" resname="DMR·175 | Saproling Symbiosis | Card Text | Paragraph 2">
         <source>Create a 1/1 green Saproling creature token for each creature you control.</source>
@@ -1900,7 +1900,7 @@
       </trans-unit>
       <trans-unit id="e4ea6aac-d42b-4522-b7a9-4c99ed9c14bd" resname="DMR·178 | Stonewood Invoker | Card Text | Paragraph 1">
         <source>{7}{G}: CARDNAME gets +5/+5 until end of turn.</source>
-        <target state="translated">{7}{G}：坚木召现师得+5/+5直到回合结束。</target>
+        <target state="translated">{7}{G}：CARDNAME得+5/+5直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6ada256f-2e55-4c1f-b4d3-d7b10b498956" resname="DMR·179 | Sylvan Library | Card Name">
         <source>Sylvan Library</source>
@@ -1916,7 +1916,7 @@
       </trans-unit>
       <trans-unit id="cf013aa4-76d6-4378-8916-d10f591f225a" resname="DMR·180 | Symbiotic Beast | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create four 1/1 green Insect creature tokens.</source>
-        <target state="translated">当共生野兽死去时，派出四个1/1绿色昆虫衍生生物。</target>
+        <target state="translated">当CARDNAME死去时，派出四个1/1绿色昆虫衍生生物。</target>
       </trans-unit>
       <trans-unit id="b70fbe1c-d3f4-4e28-a830-2072dee1b7b5" resname="DMR·181 | Terravore | Card Name">
         <source>Terravore</source>
@@ -1928,7 +1928,7 @@
       </trans-unit>
       <trans-unit id="b70fbe1c-d3f4-4e28-a830-2072dee1b7b5" resname="DMR·181 | Terravore | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of land cards in all graveyards.</source>
-        <target state="translated">噬地兽的力量和防御力各等同于所有坟墓场中的地牌数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于所有坟墓场中的地牌数量。</target>
       </trans-unit>
       <trans-unit id="973310bb-ab32-46dc-8f59-8a5d3e1c58cc" resname="DMR·182 | Werebear | Card Name">
         <source>Werebear</source>
@@ -1940,7 +1940,7 @@
       </trans-unit>
       <trans-unit id="973310bb-ab32-46dc-8f59-8a5d3e1c58cc" resname="DMR·182 | Werebear | Card Text | Paragraph 2">
         <source>Threshold — CARDNAME gets +3/+3 as long as seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，熊人便得+3/+3。</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便得+3/+3。</target>
       </trans-unit>
       <trans-unit id="faa526aa-f569-486a-8712-47c972481cd4" resname="DMR·183 | Wild Dogs | Card Name">
         <source>Wild Dogs</source>
@@ -1948,7 +1948,7 @@
       </trans-unit>
       <trans-unit id="faa526aa-f569-486a-8712-47c972481cd4" resname="DMR·183 | Wild Dogs | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of CARDNAME.</source>
-        <target state="translated">在你的维持开始时，若某牌手的总生命比每位其他牌手都多，则总生命最高的牌手获得疯狗的操控权。</target>
+        <target state="translated">在你的维持开始时，若某牌手的总生命比每位其他牌手都多，则总生命最高的牌手获得CARDNAME的操控权。</target>
       </trans-unit>
       <trans-unit id="faa526aa-f569-486a-8712-47c972481cd4" resname="DMR·183 | Wild Dogs | Card Text | Paragraph 2">
         <source>Cycling {2} ({2}, Discard this card: Draw a card.)</source>
@@ -1992,7 +1992,7 @@
       </trans-unit>
       <trans-unit id="175695bb-2630-4269-a407-9138c7008e81" resname="DMR·187 | Arcades Sabboth | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {G}{W}{U}.</source>
-        <target state="translated">在你的维持开始时，除非你支付{G}{W}{U}，否则牺牲阿卡迪萨巴斯。</target>
+        <target state="translated">在你的维持开始时，除非你支付{G}{W}{U}，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="175695bb-2630-4269-a407-9138c7008e81" resname="DMR·187 | Arcades Sabboth | Card Text | Paragraph 3">
         <source>Each untapped creature you control gets +0/+2 as long as it's not attacking.</source>
@@ -2000,7 +2000,7 @@
       </trans-unit>
       <trans-unit id="175695bb-2630-4269-a407-9138c7008e81" resname="DMR·187 | Arcades Sabboth | Card Text | Paragraph 4">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">{W}：阿卡迪萨巴斯得+0/+1直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME得+0/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8931725a-8034-4ecc-ac44-3f09ded677d7" resname="DMR·188 | Decimate | Card Name">
         <source>Decimate</source>
@@ -2036,7 +2036,7 @@
       </trans-unit>
       <trans-unit id="6e544772-5ab8-47dd-8a6e-686d385a6ee7" resname="DMR·191 | Hunting Grounds | Card Text | Paragraph 1">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME has &amp;quot;Whenever an opponent casts a spell, you may put a creature card from your hand onto the battlefield.&amp;quot;</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，猎场便具有「每当任一对手施放咒语时，你可以将一张生物牌从你手上放进战场。」</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便具有「每当任一对手施放咒语时，你可以将一张生物牌从你手上放进战场。」</target>
       </trans-unit>
       <trans-unit id="187ebb67-1bdd-4a9c-aeeb-554e7580ce24" resname="DMR·192 | Mystic Enforcer | Card Name">
         <source>Mystic Enforcer</source>
@@ -2048,7 +2048,7 @@
       </trans-unit>
       <trans-unit id="187ebb67-1bdd-4a9c-aeeb-554e7580ce24" resname="DMR·192 | Mystic Enforcer | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +3/+3 and has flying.</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，秘教执法者便得+3/+3且具有飞行异能。</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便得+3/+3且具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="2281a21b-fc68-46ad-b340-eb13ca0165ec" resname="DMR·193 | Phantom Nishoba | Card Name">
         <source>Phantom Nishoba</source>
@@ -2060,15 +2060,15 @@
       </trans-unit>
       <trans-unit id="2281a21b-fc68-46ad-b340-eb13ca0165ec" resname="DMR·193 | Phantom Nishoba | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with seven +1/+1 counters on it.</source>
-        <target state="translated">幽魅尼索巴进战场时上面有七个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有七个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2281a21b-fc68-46ad-b340-eb13ca0165ec" resname="DMR·193 | Phantom Nishoba | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals damage, you gain that much life.</source>
-        <target state="translated">每当幽魅尼索巴造成伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME造成伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="2281a21b-fc68-46ad-b340-eb13ca0165ec" resname="DMR·193 | Phantom Nishoba | Card Text | Paragraph 4">
         <source>If damage would be dealt to CARDNAME, prevent that damage. Remove a +1/+1 counter from CARDNAME.</source>
-        <target state="translated">如果幽魅尼索巴将受到伤害，则防止该伤害。从幽魅尼索巴上移去一个+1/+1指示物。</target>
+        <target state="translated">如果CARDNAME将受到伤害，则防止该伤害。从CARDNAME上移去一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="49c2db45-0ef7-45c8-ac65-eb785c173bd7" resname="DMR·194 | Pyre Zombie | Card Name">
         <source>Pyre Zombie</source>
@@ -2076,11 +2076,11 @@
       </trans-unit>
       <trans-unit id="49c2db45-0ef7-45c8-ac65-eb785c173bd7" resname="DMR·194 | Pyre Zombie | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, if CARDNAME is in your graveyard, you may pay {1}{B}{B}. If you do, return CARDNAME to your hand.</source>
-        <target state="translated">在你的维持开始时，若葬火灵俑在你的坟墓场中，则你可以支付{1}{B}{B}。若你如此作，则将葬火灵俑移回你手上。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME在你的坟墓场中，则你可以支付{1}{B}{B}。若你如此作，则将CARDNAME移回你手上。</target>
       </trans-unit>
       <trans-unit id="49c2db45-0ef7-45c8-ac65-eb785c173bd7" resname="DMR·194 | Pyre Zombie | Card Text | Paragraph 2">
         <source>{1}{R}{R}, Sacrifice CARDNAME: It deals 2 damage to any target.</source>
-        <target state="translated">{1}{R}{R}，牺牲葬火灵俑：它对任意一个目标造成2点伤害。</target>
+        <target state="translated">{1}{R}{R}，牺牲CARDNAME：它对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="138d2d9d-d5ab-400f-a714-cd38212a0dae" resname="DMR·195 | Quicksilver Dagger | Card Name">
         <source>Quicksilver Dagger</source>
@@ -2100,7 +2100,7 @@
       </trans-unit>
       <trans-unit id="ecb7c19a-b4af-405d-b016-a546ed12a99d" resname="DMR·196 | Radha, Heir to Keld | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may add {R}{R}.</source>
-        <target state="translated">每当凯尔顿传人拉妲攻击时，你可以加{R}{R}。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以加{R}{R}。</target>
       </trans-unit>
       <trans-unit id="ecb7c19a-b4af-405d-b016-a546ed12a99d" resname="DMR·196 | Radha, Heir to Keld | Card Text | Paragraph 2">
         <source>{T}: Add {G}.</source>
@@ -2124,7 +2124,7 @@
       </trans-unit>
       <trans-unit id="e1a75961-39a3-4221-9367-a763cf871d42" resname="DMR·198 | Rith, the Awakener | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may pay {2}{G}. If you do, choose a color, then create a 1/1 green Saproling creature token for each permanent of that color.</source>
-        <target state="translated">每当醒眠龙王丽丝对任一牌手造成战斗伤害时，你可以支付{2}{G}。若你如此作，则选择一种颜色，然后每有一个该色的永久物，便派出一个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以支付{2}{G}。若你如此作，则选择一种颜色，然后每有一个该色的永久物，便派出一个1/1绿色腐生物衍生生物。</target>
       </trans-unit>
       <trans-unit id="3f5882a5-ea4c-4b2b-bcf9-7d15087d8bd4" resname="DMR·199 | Sawtooth Loon | Card Name">
         <source>Sawtooth Loon</source>
@@ -2136,11 +2136,11 @@
       </trans-unit>
       <trans-unit id="3f5882a5-ea4c-4b2b-bcf9-7d15087d8bd4" resname="DMR·199 | Sawtooth Loon | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return a white or blue creature you control to its owner's hand.</source>
-        <target state="translated">当锯齿潜鸟进战场时，将一个由你操控的白色或蓝色生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将一个由你操控的白色或蓝色生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="3f5882a5-ea4c-4b2b-bcf9-7d15087d8bd4" resname="DMR·199 | Sawtooth Loon | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.</source>
-        <target state="translated">当锯齿潜鸟进战场时，抓两张牌，然后将两张牌从你手上置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，抓两张牌，然后将两张牌从你手上置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="88b4cb6a-ac4f-48ac-8c94-ba2b8e6b32a8" resname="DMR·200 | Sol'kanar the Swamp King | Card Name">
         <source>Sol'kanar the Swamp King</source>
@@ -2172,15 +2172,15 @@
       </trans-unit>
       <trans-unit id="5da7739e-8413-45b6-8539-fde2021b06a7" resname="DMR·202 | Spiritmonger | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage to a creature, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当心灵贩子对任一生物造成伤害时，在心灵贩子上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对任一生物造成伤害时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="5da7739e-8413-45b6-8539-fde2021b06a7" resname="DMR·202 | Spiritmonger | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{B}：重生心灵贩子。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="5da7739e-8413-45b6-8539-fde2021b06a7" resname="DMR·202 | Spiritmonger | Card Text | Paragraph 3">
         <source>{G}: CARDNAME becomes the color of your choice until end of turn.</source>
-        <target state="translated">{G}：选择一种颜色，心灵贩子成为该色直到回合结束。</target>
+        <target state="translated">{G}：选择一种颜色，CARDNAME成为该色直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a8953672-b1ae-4f0a-8107-e28322fc16b7" resname="DMR·203 | Tatyova, Benthic Druid | Card Name">
         <source>Tatyova, Benthic Druid</source>
@@ -2224,7 +2224,7 @@
       </trans-unit>
       <trans-unit id="561cfc04-65ea-49a4-8638-b4631a7cf828" resname="DMR·206 | Zur the Enchanter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may search your library for an enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">每当结界大师祖尔攻击时，你可以从你牌库中搜寻一张法术力值等于或小于3的结界牌，将之放进战场，然后洗牌。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以从你牌库中搜寻一张法术力值等于或小于3的结界牌，将之放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="6c9c00a1-8c24-4f35-aac9-00304687ee2b" resname="DMR·207 | Stand | Card Name">
         <source>Stand</source>
@@ -2280,7 +2280,7 @@
       </trans-unit>
       <trans-unit id="9b2ca0a2-0a18-4d9e-b953-52018af3c65b" resname="DMR·210 | Assault | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">突袭对任意一个目标造成2点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="9b2ca0a2-0a18-4d9e-b953-52018af3c65b" resname="DMR·210 | Battery | Card Name">
         <source>Battery</source>
@@ -2360,7 +2360,7 @@
       </trans-unit>
       <trans-unit id="18303862-4726-4136-814f-157aa7006579" resname="DMR·215 | Fire | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage divided as you choose among one or two targets.</source>
-        <target state="translated">热火对任意一个或两个目标造成共2点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对任意一个或两个目标造成共2点伤害，你可以任意分配。</target>
       </trans-unit>
       <trans-unit id="18303862-4726-4136-814f-157aa7006579" resname="DMR·215 | Ice | Card Name">
         <source>Ice</source>
@@ -2424,7 +2424,7 @@
       </trans-unit>
       <trans-unit id="156afb5a-df38-4555-b59b-f3fa64ce5bff" resname="DMR·220 | Dodecapod | Card Text | Paragraph 1">
         <source>If a spell or ability an opponent controls causes you to discard CARDNAME, put it onto the battlefield with two +1/+1 counters on it instead of putting it into your graveyard.</source>
-        <target state="translated">如果由对手操控的咒语或异能使得你弃掉打肢怪，则改为将它放进战场且上面有两个+1/+1指示物，而非置入你的坟墓场。</target>
+        <target state="translated">如果由对手操控的咒语或异能使得你弃掉CARDNAME，则改为将它放进战场且上面有两个+1/+1指示物，而非置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="4398ae9c-4177-4fee-95ba-e98b7f514f57" resname="DMR·221 | Dragon Blood | Card Name">
         <source>Dragon Blood</source>
@@ -2440,7 +2440,7 @@
       </trans-unit>
       <trans-unit id="045f373e-510f-4552-9859-884f6ce4cc59" resname="DMR·222 | Dragon Engine | Card Text | Paragraph 1">
         <source>{2}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{2}：龙形引擎得+1/+0直到回合结束。</target>
+        <target state="translated">{2}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d153663f-f08a-483e-92c9-82b5a9723807" resname="DMR·223 | Gauntlet of Power | Card Name">
         <source>Gauntlet of Power</source>
@@ -2448,7 +2448,7 @@
       </trans-unit>
       <trans-unit id="d153663f-f08a-483e-92c9-82b5a9723807" resname="DMR·223 | Gauntlet of Power | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于力量护手进战场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种颜色。</target>
       </trans-unit>
       <trans-unit id="d153663f-f08a-483e-92c9-82b5a9723807" resname="DMR·223 | Gauntlet of Power | Card Text | Paragraph 2">
         <source>Creatures of the chosen color get +1/+1.</source>
@@ -2488,7 +2488,7 @@
       </trans-unit>
       <trans-unit id="b364e7e7-83e5-474b-9768-8b70a77e5ffa" resname="DMR·227 | Jester's Cap | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Search target player's library for three cards and exile them. Then that player shuffles.</source>
-        <target state="translated">{2}，{T}，牺牲小丑帽：从目标牌手的牌库中搜寻三张牌，并将它们放逐。然后该牌手洗牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：从目标牌手的牌库中搜寻三张牌，并将它们放逐。然后该牌手洗牌。</target>
       </trans-unit>
       <trans-unit id="211ba3e4-8979-4dd1-b1a0-1d8a19969349" resname="DMR·228 | Juggernaut | Card Name">
         <source>Juggernaut</source>
@@ -2496,11 +2496,11 @@
       </trans-unit>
       <trans-unit id="211ba3e4-8979-4dd1-b1a0-1d8a19969349" resname="DMR·228 | Juggernaut | Card Text | Paragraph 1">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">攻城巨车每次战斗若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每次战斗若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="211ba3e4-8979-4dd1-b1a0-1d8a19969349" resname="DMR·228 | Juggernaut | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked by Walls.</source>
-        <target state="translated">攻城巨车不能被墙阻挡。</target>
+        <target state="translated">CARDNAME不能被墙阻挡。</target>
       </trans-unit>
       <trans-unit id="afd35d5c-7f28-4842-85e8-692d6c391c3a" resname="DMR·229 | Legacy Weapon | Card Name">
         <source>Legacy Weapon</source>
@@ -2512,7 +2512,7 @@
       </trans-unit>
       <trans-unit id="afd35d5c-7f28-4842-85e8-692d6c391c3a" resname="DMR·229 | Legacy Weapon | Card Text | Paragraph 2">
         <source>If CARDNAME would be put into a graveyard from anywhere, reveal CARDNAME and shuffle it into its owner's library instead.</source>
-        <target state="translated">如果远古神兵将从任何区域进入坟墓场，则改为展示远古神兵，并将它洗入其拥有者的牌库。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为展示CARDNAME，并将它洗入其拥有者的牌库。</target>
       </trans-unit>
       <trans-unit id="c5b92fd6-e3a7-4d50-b94f-1508a830b799" resname="DMR·230 | Lotus Blossom | Card Name">
         <source>Lotus Blossom</source>
@@ -2520,11 +2520,11 @@
       </trans-unit>
       <trans-unit id="c5b92fd6-e3a7-4d50-b94f-1508a830b799" resname="DMR·230 | Lotus Blossom | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, you may put a petal counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以在莲花丛上放置一个花瓣指示物。</target>
+        <target state="translated">在你的维持开始时，你可以在CARDNAME上放置一个花瓣指示物。</target>
       </trans-unit>
       <trans-unit id="c5b92fd6-e3a7-4d50-b94f-1508a830b799" resname="DMR·230 | Lotus Blossom | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Add X mana of any one color, where X is the number of petal counters on CARDNAME.</source>
-        <target state="translated">{T}，牺牲莲花丛：加X点任意颜色的单色法术力，X为莲花丛上的花瓣指示物数量。</target>
+        <target state="translated">{T}，牺牲CARDNAME：加X点任意颜色的单色法术力，X为CARDNAME上的花瓣指示物数量。</target>
       </trans-unit>
       <trans-unit id="9ad71523-a88a-4239-ba3d-3b79f526964e" resname="DMR·231 | Millikin | Card Name">
         <source>Millikin</source>
@@ -2544,7 +2544,7 @@
       </trans-unit>
       <trans-unit id="5cef8f31-a95e-49d0-ba75-7a639fcaa649" resname="DMR·232 | Mind Stone | Card Text | Paragraph 2">
         <source>{1}, {T}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{1}，{T}，牺牲心灵石：抓一张牌。</target>
+        <target state="translated">{1}，{T}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="305078a5-ac18-4721-bba2-3434eba5b1cf" resname="DMR·233 | Ornithopter | Card Name">
         <source>Ornithopter</source>
@@ -2560,7 +2560,7 @@
       </trans-unit>
       <trans-unit id="05ea19b9-d25e-4d46-a7ea-059a3a2fceb1" resname="DMR·234 | Thran Golem | Card Text | Paragraph 1">
         <source>As long as CARDNAME is enchanted, it gets +2/+2 and has flying, first strike, and trample.</source>
-        <target state="translated">只要索蓝魔像受有灵气，它便得+2/+2且具有飞行、先攻与践踏异能。</target>
+        <target state="translated">只要CARDNAME受有灵气，它便得+2/+2且具有飞行、先攻与践踏异能。</target>
       </trans-unit>
       <trans-unit id="752bf493-5839-47e8-95f2-6d8201907428" resname="DMR·235 | Tormod's Crypt | Card Name">
         <source>Tormod's Crypt</source>
@@ -2568,7 +2568,7 @@
       </trans-unit>
       <trans-unit id="752bf493-5839-47e8-95f2-6d8201907428" resname="DMR·235 | Tormod's Crypt | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Exile target player's graveyard.</source>
-        <target state="translated">{T}，牺牲托玛墓穴：放逐目标牌手的坟墓场。</target>
+        <target state="translated">{T}，牺牲CARDNAME：放逐目标牌手的坟墓场。</target>
       </trans-unit>
       <trans-unit id="3151a1d7-bf4a-4615-8bf1-37d1e406a708" resname="DMR·236 | Triskelion | Card Name">
         <source>Triskelion</source>
@@ -2576,11 +2576,11 @@
       </trans-unit>
       <trans-unit id="3151a1d7-bf4a-4615-8bf1-37d1e406a708" resname="DMR·236 | Triskelion | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three +1/+1 counters on it.</source>
-        <target state="translated">三臂铁人进战场时上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="3151a1d7-bf4a-4615-8bf1-37d1e406a708" resname="DMR·236 | Triskelion | Card Text | Paragraph 2">
         <source>Remove a +1/+1 counter from CARDNAME: It deals 1 damage to any target.</source>
-        <target state="translated">从三臂铁人上移去一个+1/+1指示物：它对任意一个目标造成1点伤害。</target>
+        <target state="translated">从CARDNAME上移去一个+1/+1指示物：它对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="6556ed8e-2ad9-4135-902a-24f8e327584b" resname="DMR·237 | Umbilicus | Card Name">
         <source>Umbilicus</source>
@@ -2608,7 +2608,7 @@
       </trans-unit>
       <trans-unit id="d8122161-1608-4af4-9aca-7f22c2f746aa" resname="DMR·239 | Urza's Incubator | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于克撒的抚育设备进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="d8122161-1608-4af4-9aca-7f22c2f746aa" resname="DMR·239 | Urza's Incubator | Card Text | Paragraph 2">
         <source>Creature spells of the chosen type cost {2} less to cast.</source>
@@ -2624,7 +2624,7 @@
       </trans-unit>
       <trans-unit id="17f19832-0c66-4f06-8110-ce4b2a3d8346" resname="DMR·240 | Wall of Junk | Card Text | Paragraph 2">
         <source>When CARDNAME blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)</source>
-        <target state="translated">当垃圾墙进行阻挡，在战斗结束时将它移回其拥有者的手上。（若它在战场上，才须将它移回。）</target>
+        <target state="translated">当CARDNAME进行阻挡，在战斗结束时将它移回其拥有者的手上。（若它在战场上，才须将它移回。）</target>
       </trans-unit>
       <trans-unit id="7c5f775a-2eb3-4151-b21d-9fe62ae17f54" resname="DMR·241 | Clifftop Retreat | Card Name">
         <source>Clifftop Retreat</source>
@@ -2632,7 +2632,7 @@
       </trans-unit>
       <trans-unit id="7c5f775a-2eb3-4151-b21d-9fe62ae17f54" resname="DMR·241 | Clifftop Retreat | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control a Mountain or a Plains.</source>
-        <target state="translated">除非你操控山脉或平原，否则崖顶修行所须横置进战场。</target>
+        <target state="translated">除非你操控山脉或平原，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="7c5f775a-2eb3-4151-b21d-9fe62ae17f54" resname="DMR·241 | Clifftop Retreat | Card Text | Paragraph 2">
         <source>{T}: Add {R} or {W}.</source>
@@ -2644,7 +2644,7 @@
       </trans-unit>
       <trans-unit id="52ce462b-e4de-4972-9e96-2e3d3a20d1fc" resname="DMR·242 | Crosis's Catacombs | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.</source>
-        <target state="translated">当克罗希司的墓穴进战场时，除非你将一个由你操控的非巢穴地移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将一个由你操控的非巢穴地移回其拥有者手上，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="52ce462b-e4de-4972-9e96-2e3d3a20d1fc" resname="DMR·242 | Crosis's Catacombs | Card Text | Paragraph 2">
         <source>{T}: Add {U}, {B}, or {R}.</source>
@@ -2656,7 +2656,7 @@
       </trans-unit>
       <trans-unit id="27b1ad2d-f02e-4e6b-a49a-f65d174bb0fc" resname="DMR·243 | Darigaaz's Caldera | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.</source>
-        <target state="translated">当达里迦的火山口进战场时，除非你将一个由你操控的非巢穴地移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将一个由你操控的非巢穴地移回其拥有者手上，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="27b1ad2d-f02e-4e6b-a49a-f65d174bb0fc" resname="DMR·243 | Darigaaz's Caldera | Card Text | Paragraph 2">
         <source>{T}: Add {B}, {R}, or {G}.</source>
@@ -2668,15 +2668,15 @@
       </trans-unit>
       <trans-unit id="3a8b11ad-d077-40b6-988c-0462e118fe3d" resname="DMR·244 | Dark Depths | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with ten ice counters on it.</source>
-        <target state="translated">黑暗深渊进战场时上面有十个寒冰指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有十个寒冰指示物。</target>
       </trans-unit>
       <trans-unit id="3a8b11ad-d077-40b6-988c-0462e118fe3d" resname="DMR·244 | Dark Depths | Card Text | Paragraph 2">
         <source>{3}: Remove an ice counter from CARDNAME.</source>
-        <target state="translated">{3}：从黑暗深渊上移去一个寒冰指示物。</target>
+        <target state="translated">{3}：从CARDNAME上移去一个寒冰指示物。</target>
       </trans-unit>
       <trans-unit id="3a8b11ad-d077-40b6-988c-0462e118fe3d" resname="DMR·244 | Dark Depths | Card Text | Paragraph 3">
         <source>When CARDNAME has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible.</source>
-        <target state="translated">当黑暗深渊上没有寒冰指示物时，将它牺牲。若你如此作，则派出传奇衍生生物玛莉雷基，其为20/20黑色，具飞行与不灭异能的圣者。</target>
+        <target state="translated">当CARDNAME上没有寒冰指示物时，将它牺牲。若你如此作，则派出传奇衍生生物玛莉雷基，其为20/20黑色，具飞行与不灭异能的圣者。</target>
       </trans-unit>
       <trans-unit id="8cb024fa-2df1-4414-b0d7-6f700d152c51" resname="DMR·245 | Drifting Meadow | Card Name">
         <source>Drifting Meadow</source>
@@ -2684,7 +2684,7 @@
       </trans-unit>
       <trans-unit id="8cb024fa-2df1-4414-b0d7-6f700d152c51" resname="DMR·245 | Drifting Meadow | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">飘移牧草地须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="8cb024fa-2df1-4414-b0d7-6f700d152c51" resname="DMR·245 | Drifting Meadow | Card Text | Paragraph 2">
         <source>{T}: Add {W}.</source>
@@ -2700,7 +2700,7 @@
       </trans-unit>
       <trans-unit id="10380662-88bd-4bc5-b8c3-14af425fc5a5" resname="DMR·246 | Dromar's Cavern | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.</source>
-        <target state="translated">当德洛马的地窟进战场时，除非你将一个由你操控的非巢穴地移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将一个由你操控的非巢穴地移回其拥有者手上，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="10380662-88bd-4bc5-b8c3-14af425fc5a5" resname="DMR·246 | Dromar's Cavern | Card Text | Paragraph 2">
         <source>{T}: Add {W}, {U}, or {B}.</source>
@@ -2712,11 +2712,11 @@
       </trans-unit>
       <trans-unit id="ee152618-761f-43b4-942a-f63b16c182cc" resname="DMR·247 | Gemstone Mine | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three mining counters on it.</source>
-        <target state="translated">宝石矿脉进战场时上面有三个采矿指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有三个采矿指示物。</target>
       </trans-unit>
       <trans-unit id="ee152618-761f-43b4-942a-f63b16c182cc" resname="DMR·247 | Gemstone Mine | Card Text | Paragraph 2">
         <source>{T}, Remove a mining counter from CARDNAME: Add one mana of any color. If there are no mining counters on CARDNAME, sacrifice it.</source>
-        <target state="translated">{T}，从宝石矿脉上移去一个采矿指示物：加一点任意颜色的法术力。如果宝石矿脉上没有采矿指示物，则将它牺牲。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个采矿指示物：加一点任意颜色的法术力。如果CARDNAME上没有采矿指示物，则将它牺牲。</target>
       </trans-unit>
       <trans-unit id="da629db7-c200-43ed-8de2-a5859b639a6d" resname="DMR·248 | Hinterland Harbor | Card Name">
         <source>Hinterland Harbor</source>
@@ -2724,7 +2724,7 @@
       </trans-unit>
       <trans-unit id="da629db7-c200-43ed-8de2-a5859b639a6d" resname="DMR·248 | Hinterland Harbor | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control a Forest or an Island.</source>
-        <target state="translated">除非你操控树林或海岛，否则内陆港湾须横置进战场。</target>
+        <target state="translated">除非你操控树林或海岛，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="da629db7-c200-43ed-8de2-a5859b639a6d" resname="DMR·248 | Hinterland Harbor | Card Text | Paragraph 2">
         <source>{T}: Add {G} or {U}.</source>
@@ -2736,7 +2736,7 @@
       </trans-unit>
       <trans-unit id="d359281b-b509-41be-a820-c7ac9f36f27f" resname="DMR·249 | Isolated Chapel | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control a Plains or a Swamp.</source>
-        <target state="translated">除非你操控平原或沼泽，否则孤立礼拜堂须横置进战场。</target>
+        <target state="translated">除非你操控平原或沼泽，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="d359281b-b509-41be-a820-c7ac9f36f27f" resname="DMR·249 | Isolated Chapel | Card Text | Paragraph 2">
         <source>{T}: Add {W} or {B}.</source>
@@ -2760,7 +2760,7 @@
       </trans-unit>
       <trans-unit id="6e9fec20-a52c-42c0-9928-c572d9e1b21f" resname="DMR·251 | Mishra's Factory | Card Text | Paragraph 2">
         <source>{1}: CARDNAME becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.</source>
-        <target state="translated">{1}：米斯拉的工厂成为2/2组装工人神器生物直到回合结束。它仍然是地。</target>
+        <target state="translated">{1}：CARDNAME成为2/2组装工人神器生物直到回合结束。它仍然是地。</target>
       </trans-unit>
       <trans-unit id="6e9fec20-a52c-42c0-9928-c572d9e1b21f" resname="DMR·251 | Mishra's Factory | Card Text | Paragraph 3">
         <source>{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</source>
@@ -2776,7 +2776,7 @@
       </trans-unit>
       <trans-unit id="4188a561-46e3-4ddd-8797-f33c37e9adb2" resname="DMR·252 | Nantuko Monastery | Card Text | Paragraph 2">
         <source>Threshold — {G}{W}: CARDNAME becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate only if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～{G}{W}：螳人僧院成为4/4，绿白双色，具先攻异能的昆虫／修行僧生物直到回合结束。它仍然是地。只能于你坟墓场中有七张或更多牌时起动。</target>
+        <target state="translated">门槛～{G}{W}：CARDNAME成为4/4，绿白双色，具先攻异能的昆虫／修行僧生物直到回合结束。它仍然是地。只能于你坟墓场中有七张或更多牌时起动。</target>
       </trans-unit>
       <trans-unit id="bb724bec-3509-4f5f-84c0-b1b54063d06f" resname="DMR·253 | Polluted Mire | Card Name">
         <source>Polluted Mire</source>
@@ -2784,7 +2784,7 @@
       </trans-unit>
       <trans-unit id="bb724bec-3509-4f5f-84c0-b1b54063d06f" resname="DMR·253 | Polluted Mire | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">污泥沼须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="bb724bec-3509-4f5f-84c0-b1b54063d06f" resname="DMR·253 | Polluted Mire | Card Text | Paragraph 2">
         <source>{T}: Add {B}.</source>
@@ -2800,7 +2800,7 @@
       </trans-unit>
       <trans-unit id="a340af37-c0a7-4f26-974b-95397b5c32f7" resname="DMR·254 | Remote Isle | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">离岛须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="a340af37-c0a7-4f26-974b-95397b5c32f7" resname="DMR·254 | Remote Isle | Card Text | Paragraph 2">
         <source>{T}: Add {U}.</source>
@@ -2816,7 +2816,7 @@
       </trans-unit>
       <trans-unit id="8a605ce4-ede6-44dd-a2ea-e953902be6bd" resname="DMR·255 | Rith's Grove | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.</source>
-        <target state="translated">当丽丝的丛林进战场时，除非你将一个由你操控的非巢穴地移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将一个由你操控的非巢穴地移回其拥有者手上，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="8a605ce4-ede6-44dd-a2ea-e953902be6bd" resname="DMR·255 | Rith's Grove | Card Text | Paragraph 2">
         <source>{T}: Add {R}, {G}, or {W}.</source>
@@ -2828,7 +2828,7 @@
       </trans-unit>
       <trans-unit id="c41073e8-01cc-4d19-acb5-caaf2861bc6a" resname="DMR·256 | Slippery Karst | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">湿滑灰岩地须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="c41073e8-01cc-4d19-acb5-caaf2861bc6a" resname="DMR·256 | Slippery Karst | Card Text | Paragraph 2">
         <source>{T}: Add {G}.</source>
@@ -2844,7 +2844,7 @@
       </trans-unit>
       <trans-unit id="ddcfaaed-c139-4787-946f-59800bde71e4" resname="DMR·257 | Smoldering Crater | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">闷燃火山口须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="ddcfaaed-c139-4787-946f-59800bde71e4" resname="DMR·257 | Smoldering Crater | Card Text | Paragraph 2">
         <source>{T}: Add {R}.</source>
@@ -2860,7 +2860,7 @@
       </trans-unit>
       <trans-unit id="6d3e12e4-6122-41d8-8ffb-a883d02d3278" resname="DMR·258 | Sulfur Falls | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control an Island or a Mountain.</source>
-        <target state="translated">除非你操控海岛或山脉，否则硫磺瀑布须横置进战场。</target>
+        <target state="translated">除非你操控海岛或山脉，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="6d3e12e4-6122-41d8-8ffb-a883d02d3278" resname="DMR·258 | Sulfur Falls | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {R}.</source>
@@ -2876,7 +2876,7 @@
       </trans-unit>
       <trans-unit id="9029f22b-f153-4f9a-a60f-ba2d0b6e0a1d" resname="DMR·259 | Terminal Moraine | Card Text | Paragraph 2">
         <source>{2}, {T}, Sacrifice CARDNAME: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">{2}，{T}，牺牲冰碛岩缘：从你牌库中搜寻一张基本地牌，将该牌横置放进战场，然后洗牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：从你牌库中搜寻一张基本地牌，将该牌横置放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="4f39366c-00df-4528-a324-6a89d0c53f0a" resname="DMR·260 | Treva's Ruins | Card Name">
         <source>Treva's Ruins</source>
@@ -2884,7 +2884,7 @@
       </trans-unit>
       <trans-unit id="4f39366c-00df-4528-a324-6a89d0c53f0a" resname="DMR·260 | Treva's Ruins | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.</source>
-        <target state="translated">当翠瓦的遗迹进战场时，除非你将一个由你操控的非巢穴地移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将一个由你操控的非巢穴地移回其拥有者手上，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="4f39366c-00df-4528-a324-6a89d0c53f0a" resname="DMR·260 | Treva's Ruins | Card Text | Paragraph 2">
         <source>{T}: Add {G}, {W}, or {U}.</source>
@@ -2896,7 +2896,7 @@
       </trans-unit>
       <trans-unit id="2100b00b-a7de-4e36-a83b-1ce1fa427cc2" resname="DMR·261 | Woodland Cemetery | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control a Swamp or a Forest.</source>
-        <target state="translated">除非你操控沼泽或树林，否则林地墓园须横置进战场。</target>
+        <target state="translated">除非你操控沼泽或树林，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="2100b00b-a7de-4e36-a83b-1ce1fa427cc2" resname="DMR·261 | Woodland Cemetery | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {G}.</source>
@@ -2932,7 +2932,7 @@
       </trans-unit>
       <trans-unit id="60ada52e-073c-4775-a190-310d51569682" resname="DMR·264 | Glory | Card Text | Paragraph 2">
         <source>{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate only if CARDNAME is in your graveyard.</source>
-        <target state="translated">{2}{W}：选择一种颜色。由你操控的生物获得反该色保护异能直到回合结束。只能于荣耀在你的坟墓场中时起动。</target>
+        <target state="translated">{2}{W}：选择一种颜色。由你操控的生物获得反该色保护异能直到回合结束。只能于CARDNAME在你的坟墓场中时起动。</target>
       </trans-unit>
       <trans-unit id="7f40d25a-6966-4a5c-83d8-01d37a8379c6" resname="DMR·265 | Lieutenant Kirtar | Card Name">
         <source>Lieutenant Kirtar</source>
@@ -2944,7 +2944,7 @@
       </trans-unit>
       <trans-unit id="7f40d25a-6966-4a5c-83d8-01d37a8379c6" resname="DMR·265 | Lieutenant Kirtar | Card Text | Paragraph 2">
         <source>{1}{W}, Sacrifice CARDNAME: Exile target attacking creature.</source>
-        <target state="translated">{1}{W}，牺牲柯塔中尉：放逐目标进行攻击的生物。</target>
+        <target state="translated">{1}{W}，牺牲CARDNAME：放逐目标进行攻击的生物。</target>
       </trans-unit>
       <trans-unit id="4da75521-e2f0-4064-8abe-0565353df7c5" resname="DMR·266 | Lyra Dawnbringer | Card Name">
         <source>Lyra Dawnbringer</source>
@@ -2992,7 +2992,7 @@
       </trans-unit>
       <trans-unit id="c1df3e4d-d8a5-417b-a765-351564f0c38f" resname="DMR·269 | Renewed Faith | Card Text | Paragraph 3">
         <source>When you cycle CARDNAME, you may gain 2 life.</source>
-        <target state="translated">当你循环重拾信念时，你可以获得2点生命。</target>
+        <target state="translated">当你循环CARDNAME时，你可以获得2点生命。</target>
       </trans-unit>
       <trans-unit id="e79d52e0-dfa6-4ac0-909e-81d1a16b84b4" resname="DMR·270 | Savannah Lions | Card Name">
         <source>Savannah Lions</source>
@@ -3012,11 +3012,11 @@
       </trans-unit>
       <trans-unit id="248f0108-e936-4286-95a9-f11b679ebaa0" resname="DMR·272 | Serra Avatar | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to your life total.</source>
-        <target state="translated">撒拉圣者的力量和防御力各等同于你的总生命。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你的总生命。</target>
       </trans-unit>
       <trans-unit id="248f0108-e936-4286-95a9-f11b679ebaa0" resname="DMR·272 | Serra Avatar | Card Text | Paragraph 2">
         <source>When CARDNAME is put into a graveyard from anywhere, shuffle it into its owner's library.</source>
-        <target state="translated">当撒拉圣者从任何区域进入坟墓场时，将它洗入其拥有者的牌库。</target>
+        <target state="translated">当CARDNAME从任何区域进入坟墓场时，将它洗入其拥有者的牌库。</target>
       </trans-unit>
       <trans-unit id="02ec5dc4-a40d-41d4-ba50-47c494632037" resname="DMR·273 | Sevinne's Reclamation | Card Name">
         <source>Sevinne's Reclamation</source>
@@ -3068,7 +3068,7 @@
       </trans-unit>
       <trans-unit id="0fbe919e-13c8-44de-a778-8e6ce0b16a58" resname="DMR·277 | Whitemane Lion | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return a creature you control to its owner's hand.</source>
-        <target state="translated">当白鬃狮进战场时，将一个由你操控的生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将一个由你操控的生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="44c1649d-85c9-4f69-8850-2e4df6f8fc9c" resname="DMR·278 | Windborn Muse | Card Name">
         <source>Windborn Muse</source>
@@ -3100,7 +3100,7 @@
       </trans-unit>
       <trans-unit id="6a2c1c92-3da1-4f7e-a02c-831311115a5d" resname="DMR·280 | Arcanis the Omnipotent | Card Text | Paragraph 2">
         <source>{2}{U}{U}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{2}{U}{U}：将全能的阿卡尼思移回其拥有者手上。</target>
+        <target state="translated">{2}{U}{U}：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="d14d5ff3-40c0-4f22-91ad-d6c8447cb9e0" resname="DMR·281 | Counterspell | Card Name">
         <source>Counterspell</source>
@@ -3116,7 +3116,7 @@
       </trans-unit>
       <trans-unit id="89882438-6357-4ef9-9a52-f1ff49952c10" resname="DMR·282 | Denizen of the Deep | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return each other creature you control to its owner's hand.</source>
-        <target state="translated">当深海潜兽进战场时，将所有由你操控的其他生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将所有由你操控的其他生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="45c3e09f-f9a1-4618-9ec6-ee91e1398522" resname="DMR·283 | Fact or Fiction | Card Name">
         <source>Fact or Fiction</source>
@@ -3208,7 +3208,7 @@
       </trans-unit>
       <trans-unit id="86eb4952-593b-4cdf-97b8-d3cdbe424ba6" resname="DMR·292 | Peregrine Drake | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, untap up to five lands.</source>
-        <target state="translated">当隼龙兽进战场时，重置至多五个地。</target>
+        <target state="translated">当CARDNAME进战场时，重置至多五个地。</target>
       </trans-unit>
       <trans-unit id="906569a3-1750-41af-8d83-a5354500c850" resname="DMR·293 | Stroke of Genius | Card Name">
         <source>Stroke of Genius</source>
@@ -3240,7 +3240,7 @@
       </trans-unit>
       <trans-unit id="81329329-0154-4f89-a476-a54112dfa0b7" resname="DMR·296 | Urza, Lord High Artificer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 0/0 colorless Construct artifact creature token with &amp;quot;This creature gets +1/+1 for each artifact you control.&amp;quot;</source>
-        <target state="translated">当铸物勋爵克撒进战场时，派出一个0/0无色组构体衍生神器生物，且具有「你每操控一个神器，此生物便得+1/+1。」</target>
+        <target state="translated">当CARDNAME进战场时，派出一个0/0无色组构体衍生神器生物，且具有「你每操控一个神器，此生物便得+1/+1。」</target>
       </trans-unit>
       <trans-unit id="81329329-0154-4f89-a476-a54112dfa0b7" resname="DMR·296 | Urza, Lord High Artificer | Card Text | Paragraph 2">
         <source>Tap an untapped artifact you control: Add {U}.</source>
@@ -3256,7 +3256,7 @@
       </trans-unit>
       <trans-unit id="67a53a7e-f54c-410c-8cd2-7d3e0347bc6b" resname="DMR·297 | Vexing Sphinx | Card Text | Paragraphs">
         <source>Flying\nCumulative upkeep—\nDiscard a card. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen CARDNAME dies, draw a card for each age counter on it.</source>
-        <target state="translated">飞行\n累积维持～弃一张牌。（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上的每个岁月指示物各支付维持费用，否则牺牲之。）\n当乱心史芬斯死去时，其上每有一个岁月指示物，便抓一张牌。</target>
+        <target state="translated">飞行\n累积维持～弃一张牌。（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上的每个岁月指示物各支付维持费用，否则牺牲之。）\n当CARDNAME死去时，其上每有一个岁月指示物，便抓一张牌。</target>
       </trans-unit>
       <trans-unit id="2bd51f0b-3c8a-4b2e-a0b6-7fa98c3ba678" resname="DMR·298 | Body Snatcher | Card Name">
         <source>Body Snatcher</source>
@@ -3264,11 +3264,11 @@
       </trans-unit>
       <trans-unit id="2bd51f0b-3c8a-4b2e-a0b6-7fa98c3ba678" resname="DMR·298 | Body Snatcher | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile it unless you discard a creature card.</source>
-        <target state="translated">当窃体者进战场时，除非你弃一张生物牌，否则放逐之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你弃一张生物牌，否则放逐之。</target>
       </trans-unit>
       <trans-unit id="2bd51f0b-3c8a-4b2e-a0b6-7fa98c3ba678" resname="DMR·298 | Body Snatcher | Card Text | Paragraph 2">
         <source>When CARDNAME dies, exile it and return target creature card from your graveyard to the battlefield.</source>
-        <target state="translated">当窃体者死去时，将它放逐并将目标生物牌从你的坟墓场移回战场。</target>
+        <target state="translated">当CARDNAME死去时，将它放逐并将目标生物牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="3f85a4be-fa18-47ce-b24d-8cac718227ef" resname="DMR·299 | Chainer, Dementia Master | Card Name">
         <source>Chainer, Dementia Master</source>
@@ -3284,7 +3284,7 @@
       </trans-unit>
       <trans-unit id="3f85a4be-fa18-47ce-b24d-8cac718227ef" resname="DMR·299 | Chainer, Dementia Master | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, exile all Nightmares.</source>
-        <target state="translated">当惧像大师崔纳离开战场时，放逐所有梦魇。</target>
+        <target state="translated">当CARDNAME离开战场时，放逐所有梦魇。</target>
       </trans-unit>
       <trans-unit id="63416b41-7791-48ff-bcdc-54101afbea31" resname="DMR·300 | Chainer's Edict | Card Name">
         <source>Chainer's Edict</source>
@@ -3340,7 +3340,7 @@
       </trans-unit>
       <trans-unit id="e93e4486-aaf3-4f56-ab34-1ff1aeebb021" resname="DMR·305 | Mindslicer | Card Text | Paragraph 1">
         <source>When CARDNAME dies, each player discards their hand.</source>
-        <target state="translated">当削心兽死去时，每位牌手各弃掉其手牌。</target>
+        <target state="translated">当CARDNAME死去时，每位牌手各弃掉其手牌。</target>
       </trans-unit>
       <trans-unit id="a48375e7-46b6-45a7-9d19-f7b7de85fe55" resname="DMR·306 | Nantuko Shade | Card Name">
         <source>Nantuko Shade</source>
@@ -3348,7 +3348,7 @@
       </trans-unit>
       <trans-unit id="a48375e7-46b6-45a7-9d19-f7b7de85fe55" resname="DMR·306 | Nantuko Shade | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：螳人阴魂得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="541f7677-5f35-4cb9-a938-dba13fb7863a" resname="DMR·307 | Necrosavant | Card Name">
         <source>Necrosavant</source>
@@ -3356,7 +3356,7 @@
       </trans-unit>
       <trans-unit id="541f7677-5f35-4cb9-a938-dba13fb7863a" resname="DMR·307 | Necrosavant | Card Text | Paragraph 1">
         <source>{3}{B}{B}, Sacrifice a creature: Return CARDNAME from your graveyard to the battlefield. Activate only during your upkeep.</source>
-        <target state="translated">{3}{B}{B}，牺牲一个生物：将死灵学者从你的坟墓场移回战场。只能于你的维持中起动。</target>
+        <target state="translated">{3}{B}{B}，牺牲一个生物：将CARDNAME从你的坟墓场移回战场。只能于你的维持中起动。</target>
       </trans-unit>
       <trans-unit id="c2598da4-0764-440a-9e9d-0161e68667fb" resname="DMR·308 | No Mercy | Card Name">
         <source>No Mercy</source>
@@ -3404,7 +3404,7 @@
       </trans-unit>
       <trans-unit id="530ca0c3-3308-4ebd-a0ce-f90eb605b0f5" resname="DMR·313 | Undead Gladiator | Card Text | Paragraph 1">
         <source>{1}{B}, Discard a card: Return CARDNAME from your graveyard to your hand. Activate only during your upkeep.</source>
-        <target state="translated">{1}{B}，弃一张牌：将不死剑斗士从你的坟墓场移回你手上。只能于你的维持中起动。</target>
+        <target state="translated">{1}{B}，弃一张牌：将CARDNAME从你的坟墓场移回你手上。只能于你的维持中起动。</target>
       </trans-unit>
       <trans-unit id="530ca0c3-3308-4ebd-a0ce-f90eb605b0f5" resname="DMR·313 | Undead Gladiator | Card Text | Paragraph 2">
         <source>Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</source>
@@ -3440,7 +3440,7 @@
       </trans-unit>
       <trans-unit id="e4dfc299-0cf5-40ab-9f50-11408ff82282" resname="DMR·316 | Chain Lightning | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target. Then that player or that permanent's controller may pay {R}{R}. If the player does, they may copy this spell and may choose a new target for that copy.</source>
-        <target state="translated">连锁闪电对任意一个目标造成3点伤害。然后该牌手或该永久物的操控者可以支付{R}{R}。如果该牌手如此作，则其可以复制此咒语，且可以为该复制品选择新的目标。</target>
+        <target state="translated">CARDNAME对任意一个目标造成3点伤害。然后该牌手或该永久物的操控者可以支付{R}{R}。如果该牌手如此作，则其可以复制此咒语，且可以为该复制品选择新的目标。</target>
       </trans-unit>
       <trans-unit id="4190f2d1-e7e5-4cf7-8227-c2690568d159" resname="DMR·317 | Dragon Whelp | Card Name">
         <source>Dragon Whelp</source>
@@ -3452,7 +3452,7 @@
       </trans-unit>
       <trans-unit id="4190f2d1-e7e5-4cf7-8227-c2690568d159" resname="DMR·317 | Dragon Whelp | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice CARDNAME at the beginning of the next end step.</source>
-        <target state="translated">{R}：幼龙得+1/+0直到回合结束。如果此异能本回合中起动过四次或更多，则在下一个结束步骤开始时牺牲幼龙。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。如果此异能本回合中起动过四次或更多，则在下一个结束步骤开始时牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="fbd81c2e-9c0d-47b2-ba02-6f1dca1d96dc" resname="DMR·318 | Empty the Warrens | Card Name">
         <source>Empty the Warrens</source>
@@ -3476,7 +3476,7 @@
       </trans-unit>
       <trans-unit id="7d80d765-70bf-4eb5-ae55-fe459e96caf8" resname="DMR·319 | Fireblast | Card Text | Paragraph 2">
         <source>CARDNAME deals 4 damage to any target.</source>
-        <target state="translated">火焰冲击波对任意一个目标造成4点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="5f601db5-e522-48d2-a0df-ff3192f8d38d" resname="DMR·320 | Flametongue Kavu | Card Name">
         <source>Flametongue Kavu</source>
@@ -3484,7 +3484,7 @@
       </trans-unit>
       <trans-unit id="5f601db5-e522-48d2-a0df-ff3192f8d38d" resname="DMR·320 | Flametongue Kavu | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 4 damage to target creature.</source>
-        <target state="translated">当焰舌卡甫进战场时，它对目标生物造成4点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它对目标生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="4fa5f934-5407-4844-9cd5-9ba5fa7c4748" resname="DMR·321 | Gamble | Card Name">
         <source>Gamble</source>
@@ -3504,7 +3504,7 @@
       </trans-unit>
       <trans-unit id="e1ce01c9-f6f3-49e3-ac2c-10613eba0ed6" resname="DMR·322 | Gempalm Incinerator | Card Text | Paragraph 2">
         <source>When you cycle CARDNAME, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.</source>
-        <target state="translated">当你循环晶掌放火鬼时，你可以使它对目标生物造成X点伤害，X为战场上的鬼怪数量。</target>
+        <target state="translated">当你循环CARDNAME时，你可以使它对目标生物造成X点伤害，X为战场上的鬼怪数量。</target>
       </trans-unit>
       <trans-unit id="60ec4b08-6df1-4e92-8b7c-1450a4d033bf" resname="DMR·323 | Goblin Matron | Card Name">
         <source>Goblin Matron</source>
@@ -3512,7 +3512,7 @@
       </trans-unit>
       <trans-unit id="60ec4b08-6df1-4e92-8b7c-1450a4d033bf" resname="DMR·323 | Goblin Matron | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.</source>
-        <target state="translated">当鬼怪女舍监进战场时，你可以从你牌库中搜寻一张鬼怪牌，展示该牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张鬼怪牌，展示该牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="59035b53-e374-49f6-8b02-8b54f6df45d2" resname="DMR·324 | Grim Lavamancer | Card Name">
         <source>Grim Lavamancer</source>
@@ -3520,7 +3520,7 @@
       </trans-unit>
       <trans-unit id="59035b53-e374-49f6-8b02-8b54f6df45d2" resname="DMR·324 | Grim Lavamancer | Card Text | Paragraph 1">
         <source>{R}, {T}, Exile two cards from your graveyard: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{R}，{T}，从你的坟墓场放逐两张牌：狰狞熔岩术士对任意一个目标造成2点伤害。</target>
+        <target state="translated">{R}，{T}，从你的坟墓场放逐两张牌：CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="585be7c2-b303-4612-bafa-ca7a555212aa" resname="DMR·325 | Last Chance | Card Name">
         <source>Last Chance</source>
@@ -3540,7 +3540,7 @@
       </trans-unit>
       <trans-unit id="fc027246-1dd3-4be0-bea6-3a7476a833ce" resname="DMR·326 | Mogg War Marshal | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield or dies, create a 1/1 red Goblin creature token.</source>
-        <target state="translated">当莫葛战场元帅进战场或死去时，派出一个1/1红色鬼怪衍生生物。</target>
+        <target state="translated">当CARDNAME进战场或死去时，派出一个1/1红色鬼怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="3725a437-d853-4231-b669-c97f6a6666e1" resname="DMR·327 | Overmaster | Card Name">
         <source>Overmaster</source>
@@ -3560,7 +3560,7 @@
       </trans-unit>
       <trans-unit id="a62b7671-efde-40b2-9cb1-76339d614d29" resname="DMR·328 | Pashalik Mons | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Goblin you control dies, CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">每当帕沙力克将军芒氏或另一个由你操控的鬼怪死去时，帕沙力克将军芒氏对任意一个目标造成1点伤害。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的鬼怪死去时，CARDNAME对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="a62b7671-efde-40b2-9cb1-76339d614d29" resname="DMR·328 | Pashalik Mons | Card Text | Paragraph 2">
         <source>{3}{R}, Sacrifice a Goblin: Create two 1/1 red Goblin creature tokens.</source>
@@ -3576,7 +3576,7 @@
       </trans-unit>
       <trans-unit id="8b5f8025-95ff-431a-a33c-4e2e7366633f" resname="DMR·329 | Shivan Dragon | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：西瓦巨龙得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="16bea810-1566-4132-bfb3-611f9b6b3333" resname="DMR·330 | Siege-Gang Commander | Card Name">
         <source>Siege-Gang Commander</source>
@@ -3584,11 +3584,11 @@
       </trans-unit>
       <trans-unit id="16bea810-1566-4132-bfb3-611f9b6b3333" resname="DMR·330 | Siege-Gang Commander | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create three 1/1 red Goblin creature tokens.</source>
-        <target state="translated">当攻城指挥官进战场时，派出三个1/1红色鬼怪衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出三个1/1红色鬼怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="16bea810-1566-4132-bfb3-611f9b6b3333" resname="DMR·330 | Siege-Gang Commander | Card Text | Paragraph 2">
         <source>{1}{R}, Sacrifice a Goblin: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{1}{R}，牺牲一个鬼怪：攻城指挥官对任意一个目标造成2点伤害。</target>
+        <target state="translated">{1}{R}，牺牲一个鬼怪：CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="b2418b3d-574a-40e7-9b6b-1bc4a8199105" resname="DMR·331 | Sneak Attack | Card Name">
         <source>Sneak Attack</source>
@@ -3604,7 +3604,7 @@
       </trans-unit>
       <trans-unit id="1d446b8b-1b09-4fef-8454-95ad272503c0" resname="DMR·332 | Sulfuric Vortex | Card Text | Paragraph 1">
         <source>At the beginning of each player's upkeep, CARDNAME deals 2 damage to that player.</source>
-        <target state="translated">在每位牌手的维持开始时，硫磺旋风对该牌手造成2点伤害。</target>
+        <target state="translated">在每位牌手的维持开始时，CARDNAME对该牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="1d446b8b-1b09-4fef-8454-95ad272503c0" resname="DMR·332 | Sulfuric Vortex | Card Text | Paragraph 2">
         <source>If a player would gain life, that player gains no life instead.</source>
@@ -3616,7 +3616,7 @@
       </trans-unit>
       <trans-unit id="e9abfd4d-8f7d-4739-8416-2c03bc1c7a04" resname="DMR·333 | Valduk, Keeper of the Flame | Card Text | Paragraph 1">
         <source>At the beginning of combat on your turn, for each Aura and Equipment attached to CARDNAME, create a 3/1 red Elemental creature token with trample and haste. Exile those tokens at the beginning of the next end step.</source>
-        <target state="translated">在你回合的战斗开始时，源火守卫瓦杜克上每贴附一个灵气或武具，便派出一个3/1红色，具践踏与敏捷异能的元素衍生生物。在下一个结束步骤开始时放逐这些衍生物。</target>
+        <target state="translated">在你回合的战斗开始时，CARDNAME上每贴附一个灵气或武具，便派出一个3/1红色，具践踏与敏捷异能的元素衍生生物。在下一个结束步骤开始时放逐这些衍生物。</target>
       </trans-unit>
       <trans-unit id="0ed63bcc-4cdd-4b4e-af7f-f5ff71a4ef14" resname="DMR·334 | Worldgorger Dragon | Card Name">
         <source>Worldgorger Dragon</source>
@@ -3628,11 +3628,11 @@
       </trans-unit>
       <trans-unit id="0ed63bcc-4cdd-4b4e-af7f-f5ff71a4ef14" resname="DMR·334 | Worldgorger Dragon | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile all other permanents you control.</source>
-        <target state="translated">当吞世龙进战场时，放逐所有由你操控的其他永久物。</target>
+        <target state="translated">当CARDNAME进战场时，放逐所有由你操控的其他永久物。</target>
       </trans-unit>
       <trans-unit id="0ed63bcc-4cdd-4b4e-af7f-f5ff71a4ef14" resname="DMR·334 | Worldgorger Dragon | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, return the exiled cards to the battlefield under their owners' control.</source>
-        <target state="translated">当吞世龙离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="b15b991e-b5c1-4d23-ba3a-4554c272a41f" resname="DMR·335 | Arboria | Card Name">
         <source>Arboria</source>
@@ -3664,7 +3664,7 @@
       </trans-unit>
       <trans-unit id="6a39ab84-1f0f-4b4f-a13d-301960bbc971" resname="DMR·337 | Deadwood Treefolk | Card Text | Paragraph 2">
         <source>When CARDNAME enters or leaves the battlefield, return another target creature card from your graveyard to your hand.</source>
-        <target state="translated">当亡林树妖进入或离开战场时，将另一张目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进入或离开战场时，将另一张目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="02805527-943c-4d88-9d80-50ed71a14af2" resname="DMR·338 | Elvish Spirit Guide | Card Name">
         <source>Elvish Spirit Guide</source>
@@ -3672,7 +3672,7 @@
       </trans-unit>
       <trans-unit id="02805527-943c-4d88-9d80-50ed71a14af2" resname="DMR·338 | Elvish Spirit Guide | Card Text | Paragraph 1">
         <source>Exile CARDNAME from your hand: Add {G}.</source>
-        <target state="translated">从你手上放逐妖精精怪向导：加{G}。</target>
+        <target state="translated">从你手上放逐CARDNAME：加{G}。</target>
       </trans-unit>
       <trans-unit id="d1cbcd04-aabf-420e-9bc8-4270f78e25d7" resname="DMR·339 | Exploration | Card Name">
         <source>Exploration</source>
@@ -3696,11 +3696,11 @@
       </trans-unit>
       <trans-unit id="8afea4ea-02f2-47ca-b690-864a5663eecc" resname="DMR·341 | Forgotten Ancient | Card Text | Paragraph 1">
         <source>Whenever a player casts a spell, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当任一牌手施放咒语时，你可以在遗世先人上放置一个+1/+1指示物。</target>
+        <target state="translated">每当任一牌手施放咒语时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="8afea4ea-02f2-47ca-b690-864a5663eecc" resname="DMR·341 | Forgotten Ancient | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, you may move any number of +1/+1 counters from CARDNAME onto other creatures.</source>
-        <target state="translated">在你的维持开始时，你可以将遗世先人上任意数量的+1/+1指示物移到其他生物上。</target>
+        <target state="translated">在你的维持开始时，你可以将CARDNAME上任意数量的+1/+1指示物移到其他生物上。</target>
       </trans-unit>
       <trans-unit id="13286ebf-e4dd-48be-82e7-9057755027ec" resname="DMR·342 | Invigorating Boon | Card Name">
         <source>Invigorating Boon</source>
@@ -3772,7 +3772,7 @@
       </trans-unit>
       <trans-unit id="8253dab6-d6a7-4a1c-b5f6-5a2ee051a128" resname="DMR·348 | Saproling Symbiosis | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash if you pay {2} more to cast it.</source>
-        <target state="translated">如果你施放腐生共栖时多支付{2}，则你可以将它视同具有闪现异能地来施放。</target>
+        <target state="translated">如果你施放CARDNAME时多支付{2}，则你可以将它视同具有闪现异能地来施放。</target>
       </trans-unit>
       <trans-unit id="8253dab6-d6a7-4a1c-b5f6-5a2ee051a128" resname="DMR·348 | Saproling Symbiosis | Card Text | Paragraph 2">
         <source>Create a 1/1 green Saproling creature token for each creature you control.</source>
@@ -3804,7 +3804,7 @@
       </trans-unit>
       <trans-unit id="33ea0b6a-c0f1-49f8-bbd1-fed61ef0c0f3" resname="DMR·351 | Wild Dogs | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of CARDNAME.</source>
-        <target state="translated">在你的维持开始时，若某牌手的总生命比每位其他牌手都多，则总生命最高的牌手获得疯狗的操控权。</target>
+        <target state="translated">在你的维持开始时，若某牌手的总生命比每位其他牌手都多，则总生命最高的牌手获得CARDNAME的操控权。</target>
       </trans-unit>
       <trans-unit id="33ea0b6a-c0f1-49f8-bbd1-fed61ef0c0f3" resname="DMR·351 | Wild Dogs | Card Text | Paragraph 2">
         <source>Cycling {2} ({2}, Discard this card: Draw a card.)</source>
@@ -3848,7 +3848,7 @@
       </trans-unit>
       <trans-unit id="2f75fe15-5499-4dfe-917d-adfeccd6838a" resname="DMR·355 | Arcades Sabboth | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {G}{W}{U}.</source>
-        <target state="translated">在你的维持开始时，除非你支付{G}{W}{U}，否则牺牲阿卡迪萨巴斯。</target>
+        <target state="translated">在你的维持开始时，除非你支付{G}{W}{U}，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="2f75fe15-5499-4dfe-917d-adfeccd6838a" resname="DMR·355 | Arcades Sabboth | Card Text | Paragraph 3">
         <source>Each untapped creature you control gets +0/+2 as long as it's not attacking.</source>
@@ -3856,7 +3856,7 @@
       </trans-unit>
       <trans-unit id="2f75fe15-5499-4dfe-917d-adfeccd6838a" resname="DMR·355 | Arcades Sabboth | Card Text | Paragraph 4">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">{W}：阿卡迪萨巴斯得+0/+1直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME得+0/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="18445778-6176-40f6-a396-05e85579e85e" resname="DMR·356 | Decimate | Card Name">
         <source>Decimate</source>
@@ -3892,7 +3892,7 @@
       </trans-unit>
       <trans-unit id="21c0d5a1-1a2e-449f-a9b5-14bf2061529c" resname="DMR·359 | Hunting Grounds | Card Text | Paragraph 1">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME has &amp;quot;Whenever an opponent casts a spell, you may put a creature card from your hand onto the battlefield.&amp;quot;</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，猎场便具有「每当任一对手施放咒语时，你可以将一张生物牌从你手上放进战场。」</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便具有「每当任一对手施放咒语时，你可以将一张生物牌从你手上放进战场。」</target>
       </trans-unit>
       <trans-unit id="31318a5f-6758-45a6-930f-ba6b1e812af1" resname="DMR·360 | Mystic Enforcer | Card Name">
         <source>Mystic Enforcer</source>
@@ -3904,7 +3904,7 @@
       </trans-unit>
       <trans-unit id="31318a5f-6758-45a6-930f-ba6b1e812af1" resname="DMR·360 | Mystic Enforcer | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +3/+3 and has flying.</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，秘教执法者便得+3/+3且具有飞行异能。</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便得+3/+3且具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="2000f904-be97-4ad6-825a-0b05c31c3362" resname="DMR·361 | Phantom Nishoba | Card Name">
         <source>Phantom Nishoba</source>
@@ -3916,15 +3916,15 @@
       </trans-unit>
       <trans-unit id="2000f904-be97-4ad6-825a-0b05c31c3362" resname="DMR·361 | Phantom Nishoba | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with seven +1/+1 counters on it.</source>
-        <target state="translated">幽魅尼索巴进战场时上面有七个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有七个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2000f904-be97-4ad6-825a-0b05c31c3362" resname="DMR·361 | Phantom Nishoba | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals damage, you gain that much life.</source>
-        <target state="translated">每当幽魅尼索巴造成伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME造成伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="2000f904-be97-4ad6-825a-0b05c31c3362" resname="DMR·361 | Phantom Nishoba | Card Text | Paragraph 4">
         <source>If damage would be dealt to CARDNAME, prevent that damage. Remove a +1/+1 counter from CARDNAME.</source>
-        <target state="translated">如果幽魅尼索巴将受到伤害，则防止该伤害。从幽魅尼索巴上移去一个+1/+1指示物。</target>
+        <target state="translated">如果CARDNAME将受到伤害，则防止该伤害。从CARDNAME上移去一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="8279d133-ae1a-4389-8c20-1d7ca2f121b1" resname="DMR·362 | Pyre Zombie | Card Name">
         <source>Pyre Zombie</source>
@@ -3932,11 +3932,11 @@
       </trans-unit>
       <trans-unit id="8279d133-ae1a-4389-8c20-1d7ca2f121b1" resname="DMR·362 | Pyre Zombie | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, if CARDNAME is in your graveyard, you may pay {1}{B}{B}. If you do, return CARDNAME to your hand.</source>
-        <target state="translated">在你的维持开始时，若葬火灵俑在你的坟墓场中，则你可以支付{1}{B}{B}。若你如此作，则将葬火灵俑移回你手上。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME在你的坟墓场中，则你可以支付{1}{B}{B}。若你如此作，则将CARDNAME移回你手上。</target>
       </trans-unit>
       <trans-unit id="8279d133-ae1a-4389-8c20-1d7ca2f121b1" resname="DMR·362 | Pyre Zombie | Card Text | Paragraph 2">
         <source>{1}{R}{R}, Sacrifice CARDNAME: It deals 2 damage to any target.</source>
-        <target state="translated">{1}{R}{R}，牺牲葬火灵俑：它对任意一个目标造成2点伤害。</target>
+        <target state="translated">{1}{R}{R}，牺牲CARDNAME：它对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="07be7455-7ead-4ba5-b694-e021b28687d9" resname="DMR·363 | Quicksilver Dagger | Card Name">
         <source>Quicksilver Dagger</source>
@@ -3956,7 +3956,7 @@
       </trans-unit>
       <trans-unit id="27600b4d-ade5-428a-8eb7-d7c387573a91" resname="DMR·364 | Radha, Heir to Keld | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may add {R}{R}.</source>
-        <target state="translated">每当凯尔顿传人拉妲攻击时，你可以加{R}{R}。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以加{R}{R}。</target>
       </trans-unit>
       <trans-unit id="27600b4d-ade5-428a-8eb7-d7c387573a91" resname="DMR·364 | Radha, Heir to Keld | Card Text | Paragraph 2">
         <source>{T}: Add {G}.</source>
@@ -3980,7 +3980,7 @@
       </trans-unit>
       <trans-unit id="1c0a3c92-826e-491a-8e80-7861e5b199c2" resname="DMR·366 | Rith, the Awakener | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may pay {2}{G}. If you do, choose a color, then create a 1/1 green Saproling creature token for each permanent of that color.</source>
-        <target state="translated">每当醒眠龙王丽丝对任一牌手造成战斗伤害时，你可以支付{2}{G}。若你如此作，则选择一种颜色，然后每有一个该色的永久物，便派出一个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以支付{2}{G}。若你如此作，则选择一种颜色，然后每有一个该色的永久物，便派出一个1/1绿色腐生物衍生生物。</target>
       </trans-unit>
       <trans-unit id="f856897c-fb63-4ba2-a1ce-9a8a0bf67072" resname="DMR·367 | Sawtooth Loon | Card Name">
         <source>Sawtooth Loon</source>
@@ -3992,11 +3992,11 @@
       </trans-unit>
       <trans-unit id="f856897c-fb63-4ba2-a1ce-9a8a0bf67072" resname="DMR·367 | Sawtooth Loon | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return a white or blue creature you control to its owner's hand.</source>
-        <target state="translated">当锯齿潜鸟进战场时，将一个由你操控的白色或蓝色生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将一个由你操控的白色或蓝色生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="f856897c-fb63-4ba2-a1ce-9a8a0bf67072" resname="DMR·367 | Sawtooth Loon | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.</source>
-        <target state="translated">当锯齿潜鸟进战场时，抓两张牌，然后将两张牌从你手上置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，抓两张牌，然后将两张牌从你手上置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="6b989b3f-2eec-4593-ac39-daa8e9ca0daa" resname="DMR·368 | Sol'kanar the Swamp King | Card Name">
         <source>Sol'kanar the Swamp King</source>
@@ -4028,15 +4028,15 @@
       </trans-unit>
       <trans-unit id="888e366f-6c64-423d-92fc-1a1e2806e4c3" resname="DMR·370 | Spiritmonger | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage to a creature, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当心灵贩子对任一生物造成伤害时，在心灵贩子上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对任一生物造成伤害时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="888e366f-6c64-423d-92fc-1a1e2806e4c3" resname="DMR·370 | Spiritmonger | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{B}：重生心灵贩子。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="888e366f-6c64-423d-92fc-1a1e2806e4c3" resname="DMR·370 | Spiritmonger | Card Text | Paragraph 3">
         <source>{G}: CARDNAME becomes the color of your choice until end of turn.</source>
-        <target state="translated">{G}：选择一种颜色，心灵贩子成为该色直到回合结束。</target>
+        <target state="translated">{G}：选择一种颜色，CARDNAME成为该色直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f32efed1-73ed-49bc-a1e1-53520ddd5d43" resname="DMR·371 | Tatyova, Benthic Druid | Card Name">
         <source>Tatyova, Benthic Druid</source>
@@ -4080,7 +4080,7 @@
       </trans-unit>
       <trans-unit id="17188ab9-0fd1-43af-be3b-6e37c55cda9c" resname="DMR·374 | Zur the Enchanter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may search your library for an enchantment card with mana value 3 or less, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">每当结界大师祖尔攻击时，你可以从你牌库中搜寻一张法术力值等于或小于3的结界牌，将之放进战场，然后洗牌。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以从你牌库中搜寻一张法术力值等于或小于3的结界牌，将之放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="202c628d-ae86-4a87-94bb-d06574cda9ce" resname="DMR·375 | Crawlspace | Card Name">
         <source>Crawlspace</source>
@@ -4116,7 +4116,7 @@
       </trans-unit>
       <trans-unit id="8b9649b3-0159-426c-838d-d649c6dbe147" resname="DMR·378 | Gauntlet of Power | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于力量护手进战场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种颜色。</target>
       </trans-unit>
       <trans-unit id="8b9649b3-0159-426c-838d-d649c6dbe147" resname="DMR·378 | Gauntlet of Power | Card Text | Paragraph 2">
         <source>Creatures of the chosen color get +1/+1.</source>
@@ -4148,7 +4148,7 @@
       </trans-unit>
       <trans-unit id="c6f036d2-81ce-490c-b8a0-ab5dc29148ec" resname="DMR·381 | Jester's Cap | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Search target player's library for three cards and exile them. Then that player shuffles.</source>
-        <target state="translated">{2}，{T}，牺牲小丑帽：从目标牌手的牌库中搜寻三张牌，并将它们放逐。然后该牌手洗牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：从目标牌手的牌库中搜寻三张牌，并将它们放逐。然后该牌手洗牌。</target>
       </trans-unit>
       <trans-unit id="3468f8d1-4373-4df4-9bbe-3c61a840b23b" resname="DMR·382 | Juggernaut | Card Name">
         <source>Juggernaut</source>
@@ -4156,11 +4156,11 @@
       </trans-unit>
       <trans-unit id="3468f8d1-4373-4df4-9bbe-3c61a840b23b" resname="DMR·382 | Juggernaut | Card Text | Paragraph 1">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">攻城巨车每次战斗若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每次战斗若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="3468f8d1-4373-4df4-9bbe-3c61a840b23b" resname="DMR·382 | Juggernaut | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked by Walls.</source>
-        <target state="translated">攻城巨车不能被墙阻挡。</target>
+        <target state="translated">CARDNAME不能被墙阻挡。</target>
       </trans-unit>
       <trans-unit id="5e17f9e1-341f-4649-9e8a-728ef67f875c" resname="DMR·383 | Legacy Weapon | Card Name">
         <source>Legacy Weapon</source>
@@ -4172,7 +4172,7 @@
       </trans-unit>
       <trans-unit id="5e17f9e1-341f-4649-9e8a-728ef67f875c" resname="DMR·383 | Legacy Weapon | Card Text | Paragraph 2">
         <source>If CARDNAME would be put into a graveyard from anywhere, reveal CARDNAME and shuffle it into its owner's library instead.</source>
-        <target state="translated">如果远古神兵将从任何区域进入坟墓场，则改为展示远古神兵，并将它洗入其拥有者的牌库。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为展示CARDNAME，并将它洗入其拥有者的牌库。</target>
       </trans-unit>
       <trans-unit id="67680b01-648a-4056-b117-3ba22ee00051" resname="DMR·384 | Lotus Blossom | Card Name">
         <source>Lotus Blossom</source>
@@ -4180,11 +4180,11 @@
       </trans-unit>
       <trans-unit id="67680b01-648a-4056-b117-3ba22ee00051" resname="DMR·384 | Lotus Blossom | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, you may put a petal counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以在莲花丛上放置一个花瓣指示物。</target>
+        <target state="translated">在你的维持开始时，你可以在CARDNAME上放置一个花瓣指示物。</target>
       </trans-unit>
       <trans-unit id="67680b01-648a-4056-b117-3ba22ee00051" resname="DMR·384 | Lotus Blossom | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Add X mana of any one color, where X is the number of petal counters on CARDNAME.</source>
-        <target state="translated">{T}，牺牲莲花丛：加X点任意颜色的单色法术力，X为莲花丛上的花瓣指示物数量。</target>
+        <target state="translated">{T}，牺牲CARDNAME：加X点任意颜色的单色法术力，X为CARDNAME上的花瓣指示物数量。</target>
       </trans-unit>
       <trans-unit id="cb3d470d-e0f0-44c2-97f7-f31c02cdfbd3" resname="DMR·385 | Mind Stone | Card Name">
         <source>Mind Stone</source>
@@ -4196,7 +4196,7 @@
       </trans-unit>
       <trans-unit id="cb3d470d-e0f0-44c2-97f7-f31c02cdfbd3" resname="DMR·385 | Mind Stone | Card Text | Paragraph 2">
         <source>{1}, {T}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{1}，{T}，牺牲心灵石：抓一张牌。</target>
+        <target state="translated">{1}，{T}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="051386e0-4c1c-48ed-8883-664c719cf0fe" resname="DMR·386 | Ornithopter | Card Name">
         <source>Ornithopter</source>
@@ -4212,7 +4212,7 @@
       </trans-unit>
       <trans-unit id="e3ee8a2a-7ee8-4017-97b6-799fdb3ce4f7" resname="DMR·387 | Thran Golem | Card Text | Paragraph 1">
         <source>As long as CARDNAME is enchanted, it gets +2/+2 and has flying, first strike, and trample.</source>
-        <target state="translated">只要索蓝魔像受有灵气，它便得+2/+2且具有飞行、先攻与践踏异能。</target>
+        <target state="translated">只要CARDNAME受有灵气，它便得+2/+2且具有飞行、先攻与践踏异能。</target>
       </trans-unit>
       <trans-unit id="a23814c0-f9da-49c4-bfff-69786a5d651b" resname="DMR·388 | Tormod's Crypt | Card Name">
         <source>Tormod's Crypt</source>
@@ -4220,7 +4220,7 @@
       </trans-unit>
       <trans-unit id="a23814c0-f9da-49c4-bfff-69786a5d651b" resname="DMR·388 | Tormod's Crypt | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Exile target player's graveyard.</source>
-        <target state="translated">{T}，牺牲托玛墓穴：放逐目标牌手的坟墓场。</target>
+        <target state="translated">{T}，牺牲CARDNAME：放逐目标牌手的坟墓场。</target>
       </trans-unit>
       <trans-unit id="c5adfe0f-496a-4d56-8c8b-6b58cc827339" resname="DMR·389 | Triskelion | Card Name">
         <source>Triskelion</source>
@@ -4228,11 +4228,11 @@
       </trans-unit>
       <trans-unit id="c5adfe0f-496a-4d56-8c8b-6b58cc827339" resname="DMR·389 | Triskelion | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three +1/+1 counters on it.</source>
-        <target state="translated">三臂铁人进战场时上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="c5adfe0f-496a-4d56-8c8b-6b58cc827339" resname="DMR·389 | Triskelion | Card Text | Paragraph 2">
         <source>Remove a +1/+1 counter from CARDNAME: It deals 1 damage to any target.</source>
-        <target state="translated">从三臂铁人上移去一个+1/+1指示物：它对任意一个目标造成1点伤害。</target>
+        <target state="translated">从CARDNAME上移去一个+1/+1指示物：它对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="a79c5666-5373-4c81-802a-782a150d70ad" resname="DMR·390 | Umbilicus | Card Name">
         <source>Umbilicus</source>
@@ -4260,7 +4260,7 @@
       </trans-unit>
       <trans-unit id="fd254044-2b66-4fd8-9f72-3c30226c2a9c" resname="DMR·392 | Urza's Incubator | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于克撒的抚育设备进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="fd254044-2b66-4fd8-9f72-3c30226c2a9c" resname="DMR·392 | Urza's Incubator | Card Text | Paragraph 2">
         <source>Creature spells of the chosen type cost {2} less to cast.</source>
@@ -4272,7 +4272,7 @@
       </trans-unit>
       <trans-unit id="5c177316-31b5-4b73-8cab-eef9d8cbb2d1" resname="DMR·393 | Clifftop Retreat | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control a Mountain or a Plains.</source>
-        <target state="translated">除非你操控山脉或平原，否则崖顶修行所须横置进战场。</target>
+        <target state="translated">除非你操控山脉或平原，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="5c177316-31b5-4b73-8cab-eef9d8cbb2d1" resname="DMR·393 | Clifftop Retreat | Card Text | Paragraph 2">
         <source>{T}: Add {R} or {W}.</source>
@@ -4284,15 +4284,15 @@
       </trans-unit>
       <trans-unit id="f78398af-06b7-41f8-8aaa-81800f490121" resname="DMR·394 | Dark Depths | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with ten ice counters on it.</source>
-        <target state="translated">黑暗深渊进战场时上面有十个寒冰指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有十个寒冰指示物。</target>
       </trans-unit>
       <trans-unit id="f78398af-06b7-41f8-8aaa-81800f490121" resname="DMR·394 | Dark Depths | Card Text | Paragraph 2">
         <source>{3}: Remove an ice counter from CARDNAME.</source>
-        <target state="translated">{3}：从黑暗深渊上移去一个寒冰指示物。</target>
+        <target state="translated">{3}：从CARDNAME上移去一个寒冰指示物。</target>
       </trans-unit>
       <trans-unit id="f78398af-06b7-41f8-8aaa-81800f490121" resname="DMR·394 | Dark Depths | Card Text | Paragraph 3">
         <source>When CARDNAME has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible.</source>
-        <target state="translated">当黑暗深渊上没有寒冰指示物时，将它牺牲。若你如此作，则派出传奇衍生生物玛莉雷基，其为20/20黑色，具飞行与不灭异能的圣者。</target>
+        <target state="translated">当CARDNAME上没有寒冰指示物时，将它牺牲。若你如此作，则派出传奇衍生生物玛莉雷基，其为20/20黑色，具飞行与不灭异能的圣者。</target>
       </trans-unit>
       <trans-unit id="0961cc70-6069-41b1-8fd4-befc4efa5143" resname="DMR·395 | Gemstone Mine | Card Name">
         <source>Gemstone Mine</source>
@@ -4300,11 +4300,11 @@
       </trans-unit>
       <trans-unit id="0961cc70-6069-41b1-8fd4-befc4efa5143" resname="DMR·395 | Gemstone Mine | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three mining counters on it.</source>
-        <target state="translated">宝石矿脉进战场时上面有三个采矿指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有三个采矿指示物。</target>
       </trans-unit>
       <trans-unit id="0961cc70-6069-41b1-8fd4-befc4efa5143" resname="DMR·395 | Gemstone Mine | Card Text | Paragraph 2">
         <source>{T}, Remove a mining counter from CARDNAME: Add one mana of any color. If there are no mining counters on CARDNAME, sacrifice it.</source>
-        <target state="translated">{T}，从宝石矿脉上移去一个采矿指示物：加一点任意颜色的法术力。如果宝石矿脉上没有采矿指示物，则将它牺牲。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个采矿指示物：加一点任意颜色的法术力。如果CARDNAME上没有采矿指示物，则将它牺牲。</target>
       </trans-unit>
       <trans-unit id="0678705f-708e-44ab-9e85-76df13bea694" resname="DMR·396 | Hinterland Harbor | Card Name">
         <source>Hinterland Harbor</source>
@@ -4312,7 +4312,7 @@
       </trans-unit>
       <trans-unit id="0678705f-708e-44ab-9e85-76df13bea694" resname="DMR·396 | Hinterland Harbor | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control a Forest or an Island.</source>
-        <target state="translated">除非你操控树林或海岛，否则内陆港湾须横置进战场。</target>
+        <target state="translated">除非你操控树林或海岛，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="0678705f-708e-44ab-9e85-76df13bea694" resname="DMR·396 | Hinterland Harbor | Card Text | Paragraph 2">
         <source>{T}: Add {G} or {U}.</source>
@@ -4324,7 +4324,7 @@
       </trans-unit>
       <trans-unit id="afc6c906-9013-4840-9cda-d85ad72c04b0" resname="DMR·397 | Isolated Chapel | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control a Plains or a Swamp.</source>
-        <target state="translated">除非你操控平原或沼泽，否则孤立礼拜堂须横置进战场。</target>
+        <target state="translated">除非你操控平原或沼泽，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="afc6c906-9013-4840-9cda-d85ad72c04b0" resname="DMR·397 | Isolated Chapel | Card Text | Paragraph 2">
         <source>{T}: Add {W} or {B}.</source>
@@ -4348,7 +4348,7 @@
       </trans-unit>
       <trans-unit id="e88a1690-111e-4e8f-a896-890e793e8a9f" resname="DMR·399 | Mishra's Factory | Card Text | Paragraph 2">
         <source>{1}: CARDNAME becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.</source>
-        <target state="translated">{1}：米斯拉的工厂成为2/2组装工人神器生物直到回合结束。它仍然是地。</target>
+        <target state="translated">{1}：CARDNAME成为2/2组装工人神器生物直到回合结束。它仍然是地。</target>
       </trans-unit>
       <trans-unit id="e88a1690-111e-4e8f-a896-890e793e8a9f" resname="DMR·399 | Mishra's Factory | Card Text | Paragraph 3">
         <source>{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</source>
@@ -4360,7 +4360,7 @@
       </trans-unit>
       <trans-unit id="8a4ee66c-1c3f-4ece-8c0a-4f0c259c5142" resname="DMR·400 | Sulfur Falls | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control an Island or a Mountain.</source>
-        <target state="translated">除非你操控海岛或山脉，否则硫磺瀑布须横置进战场。</target>
+        <target state="translated">除非你操控海岛或山脉，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="8a4ee66c-1c3f-4ece-8c0a-4f0c259c5142" resname="DMR·400 | Sulfur Falls | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {R}.</source>
@@ -4372,7 +4372,7 @@
       </trans-unit>
       <trans-unit id="16761d3b-3507-47ee-acff-54b426164d89" resname="DMR·401 | Woodland Cemetery | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control a Swamp or a Forest.</source>
-        <target state="translated">除非你操控沼泽或树林，否则林地墓园须横置进战场。</target>
+        <target state="translated">除非你操控沼泽或树林，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="16761d3b-3507-47ee-acff-54b426164d89" resname="DMR·401 | Woodland Cemetery | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {G}.</source>
@@ -4472,7 +4472,7 @@
       </trans-unit>
       <trans-unit id="ccd2427a-9b63-4345-af20-46e2f530bab0" resname="DMR·417 | Denizen of the Deep | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return each other creature you control to its owner's hand.</source>
-        <target state="translated">当深海潜兽进战场时，将所有由你操控的其他生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将所有由你操控的其他生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="6e7b0e29-09d9-4b3e-ab94-f1f4a61d9159" resname="DMR·418 | Force of Will | Card Name">
         <source>Force of Will</source>
@@ -4528,7 +4528,7 @@
       </trans-unit>
       <trans-unit id="f0e626cc-b01a-4e20-9414-8ba6347041f0" resname="DMR·423 | Urza, Lord High Artificer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 0/0 colorless Construct artifact creature token with &amp;quot;This creature gets +1/+1 for each artifact you control.&amp;quot;</source>
-        <target state="translated">当铸物勋爵克撒进战场时，派出一个0/0无色组构体衍生神器生物，且具有「你每操控一个神器，此生物便得+1/+1。」</target>
+        <target state="translated">当CARDNAME进战场时，派出一个0/0无色组构体衍生神器生物，且具有「你每操控一个神器，此生物便得+1/+1。」</target>
       </trans-unit>
       <trans-unit id="f0e626cc-b01a-4e20-9414-8ba6347041f0" resname="DMR·423 | Urza, Lord High Artificer | Card Text | Paragraph 2">
         <source>Tap an untapped artifact you control: Add {U}.</source>
@@ -4552,7 +4552,7 @@
       </trans-unit>
       <trans-unit id="46958867-db3b-416f-afc5-fbf241c29b7d" resname="DMR·424 | Chainer, Dementia Master | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, exile all Nightmares.</source>
-        <target state="translated">当惧像大师崔纳离开战场时，放逐所有梦魇。</target>
+        <target state="translated">当CARDNAME离开战场时，放逐所有梦魇。</target>
       </trans-unit>
       <trans-unit id="7ecc1962-f4ad-4d76-a00a-f363e102018e" resname="DMR·425 | Chainer's Edict | Card Name">
         <source>Chainer's Edict</source>
@@ -4628,7 +4628,7 @@
       </trans-unit>
       <trans-unit id="150047e1-32f8-4aff-b311-0f6d58ce36fe" resname="DMR·432 | Flametongue Kavu | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 4 damage to target creature.</source>
-        <target state="translated">当焰舌卡甫进战场时，它对目标生物造成4点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它对目标生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="f7bc7576-233f-4267-9943-d831a5b2c233" resname="DMR·433 | Gamble | Card Name">
         <source>Gamble</source>
@@ -4644,7 +4644,7 @@
       </trans-unit>
       <trans-unit id="e2ae5aec-1341-439b-aae7-83cb69e8c1d4" resname="DMR·434 | Grim Lavamancer | Card Text | Paragraph 1">
         <source>{R}, {T}, Exile two cards from your graveyard: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{R}，{T}，从你的坟墓场放逐两张牌：狰狞熔岩术士对任意一个目标造成2点伤害。</target>
+        <target state="translated">{R}，{T}，从你的坟墓场放逐两张牌：CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="7c76b986-30e5-440c-a30c-ef3d77cace1e" resname="DMR·435 | Last Chance | Card Name">
         <source>Last Chance</source>
@@ -4660,11 +4660,11 @@
       </trans-unit>
       <trans-unit id="edf33009-b795-4097-a77c-08be7dce90cc" resname="DMR·436 | Siege-Gang Commander | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create three 1/1 red Goblin creature tokens.</source>
-        <target state="translated">当攻城指挥官进战场时，派出三个1/1红色鬼怪衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出三个1/1红色鬼怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="edf33009-b795-4097-a77c-08be7dce90cc" resname="DMR·436 | Siege-Gang Commander | Card Text | Paragraph 2">
         <source>{1}{R}, Sacrifice a Goblin: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{1}{R}，牺牲一个鬼怪：攻城指挥官对任意一个目标造成2点伤害。</target>
+        <target state="translated">{1}{R}，牺牲一个鬼怪：CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="2f3b30d4-5f8b-40fe-b446-b929a1b1e368" resname="DMR·437 | Worldgorger Dragon | Card Name">
         <source>Worldgorger Dragon</source>
@@ -4676,11 +4676,11 @@
       </trans-unit>
       <trans-unit id="2f3b30d4-5f8b-40fe-b446-b929a1b1e368" resname="DMR·437 | Worldgorger Dragon | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile all other permanents you control.</source>
-        <target state="translated">当吞世龙进战场时，放逐所有由你操控的其他永久物。</target>
+        <target state="translated">当CARDNAME进战场时，放逐所有由你操控的其他永久物。</target>
       </trans-unit>
       <trans-unit id="2f3b30d4-5f8b-40fe-b446-b929a1b1e368" resname="DMR·437 | Worldgorger Dragon | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, return the exiled cards to the battlefield under their owners' control.</source>
-        <target state="translated">当吞世龙离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="a834bdb8-6c4f-4ca4-a097-27411d66e797" resname="DMR·438 | Arboria | Card Name">
         <source>Arboria</source>
@@ -4752,7 +4752,7 @@
       </trans-unit>
       <trans-unit id="aea268a6-cf0a-4912-b1eb-47a99ff8c10e" resname="DMR·445 | Hunting Grounds | Card Text | Paragraph 1">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME has &amp;quot;Whenever an opponent casts a spell, you may put a creature card from your hand onto the battlefield.&amp;quot;</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，猎场便具有「每当任一对手施放咒语时，你可以将一张生物牌从你手上放进战场。」</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便具有「每当任一对手施放咒语时，你可以将一张生物牌从你手上放进战场。」</target>
       </trans-unit>
       <trans-unit id="6accaee3-8941-4409-bc1e-46a5b653d411" resname="DMR·446 | Radha, Heir to Keld | Card Name">
         <source>Radha, Heir to Keld</source>
@@ -4760,7 +4760,7 @@
       </trans-unit>
       <trans-unit id="6accaee3-8941-4409-bc1e-46a5b653d411" resname="DMR·446 | Radha, Heir to Keld | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may add {R}{R}.</source>
-        <target state="translated">每当凯尔顿传人拉妲攻击时，你可以加{R}{R}。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以加{R}{R}。</target>
       </trans-unit>
       <trans-unit id="6accaee3-8941-4409-bc1e-46a5b653d411" resname="DMR·446 | Radha, Heir to Keld | Card Text | Paragraph 2">
         <source>{T}: Add {G}.</source>
@@ -4772,7 +4772,7 @@
       </trans-unit>
       <trans-unit id="1b98e9c2-8843-4b59-828c-af54e1628e98" resname="DMR·447 | Gauntlet of Power | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于力量护手进战场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种颜色。</target>
       </trans-unit>
       <trans-unit id="1b98e9c2-8843-4b59-828c-af54e1628e98" resname="DMR·447 | Gauntlet of Power | Card Text | Paragraph 2">
         <source>Creatures of the chosen color get +1/+1.</source>
@@ -4796,7 +4796,7 @@
       </trans-unit>
       <trans-unit id="2ffa2589-006a-4f60-a7e9-3a1e00d8fa91" resname="DMR·449 | Jester's Cap | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Search target player's library for three cards and exile them. Then that player shuffles.</source>
-        <target state="translated">{2}，{T}，牺牲小丑帽：从目标牌手的牌库中搜寻三张牌，并将它们放逐。然后该牌手洗牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：从目标牌手的牌库中搜寻三张牌，并将它们放逐。然后该牌手洗牌。</target>
       </trans-unit>
       <trans-unit id="fbecc305-a35a-47b2-a825-f48ce1171b79" resname="DMR·450 | Legacy Weapon | Card Name">
         <source>Legacy Weapon</source>
@@ -4808,7 +4808,7 @@
       </trans-unit>
       <trans-unit id="fbecc305-a35a-47b2-a825-f48ce1171b79" resname="DMR·450 | Legacy Weapon | Card Text | Paragraph 2">
         <source>If CARDNAME would be put into a graveyard from anywhere, reveal CARDNAME and shuffle it into its owner's library instead.</source>
-        <target state="translated">如果远古神兵将从任何区域进入坟墓场，则改为展示远古神兵，并将它洗入其拥有者的牌库。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为展示CARDNAME，并将它洗入其拥有者的牌库。</target>
       </trans-unit>
       <trans-unit id="f45d36d0-7706-4e36-a5ed-d32c22c67eae" resname="DMR·451 | Lotus Blossom | Card Name">
         <source>Lotus Blossom</source>
@@ -4816,11 +4816,11 @@
       </trans-unit>
       <trans-unit id="f45d36d0-7706-4e36-a5ed-d32c22c67eae" resname="DMR·451 | Lotus Blossom | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, you may put a petal counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以在莲花丛上放置一个花瓣指示物。</target>
+        <target state="translated">在你的维持开始时，你可以在CARDNAME上放置一个花瓣指示物。</target>
       </trans-unit>
       <trans-unit id="f45d36d0-7706-4e36-a5ed-d32c22c67eae" resname="DMR·451 | Lotus Blossom | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Add X mana of any one color, where X is the number of petal counters on CARDNAME.</source>
-        <target state="translated">{T}，牺牲莲花丛：加X点任意颜色的单色法术力，X为莲花丛上的花瓣指示物数量。</target>
+        <target state="translated">{T}，牺牲CARDNAME：加X点任意颜色的单色法术力，X为CARDNAME上的花瓣指示物数量。</target>
       </trans-unit>
       <trans-unit id="6c3e03a3-0082-4d4e-8891-8c8dcc8f1cbf" resname="DMR·452 | Triskelion | Card Name">
         <source>Triskelion</source>
@@ -4828,11 +4828,11 @@
       </trans-unit>
       <trans-unit id="6c3e03a3-0082-4d4e-8891-8c8dcc8f1cbf" resname="DMR·452 | Triskelion | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three +1/+1 counters on it.</source>
-        <target state="translated">三臂铁人进战场时上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="6c3e03a3-0082-4d4e-8891-8c8dcc8f1cbf" resname="DMR·452 | Triskelion | Card Text | Paragraph 2">
         <source>Remove a +1/+1 counter from CARDNAME: It deals 1 damage to any target.</source>
-        <target state="translated">从三臂铁人上移去一个+1/+1指示物：它对任意一个目标造成1点伤害。</target>
+        <target state="translated">从CARDNAME上移去一个+1/+1指示物：它对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="c87830ee-c6b9-4c68-bc04-74987b03858d" resname="DMR·453 | Urza's Incubator | Card Name">
         <source>Urza's Incubator</source>
@@ -4840,7 +4840,7 @@
       </trans-unit>
       <trans-unit id="c87830ee-c6b9-4c68-bc04-74987b03858d" resname="DMR·453 | Urza's Incubator | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于克撒的抚育设备进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="c87830ee-c6b9-4c68-bc04-74987b03858d" resname="DMR·453 | Urza's Incubator | Card Text | Paragraph 2">
         <source>Creature spells of the chosen type cost {2} less to cast.</source>
@@ -4852,15 +4852,15 @@
       </trans-unit>
       <trans-unit id="3e6ebe92-1ea2-4bfa-8464-851b808fef0b" resname="DMR·454 | Dark Depths | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with ten ice counters on it.</source>
-        <target state="translated">黑暗深渊进战场时上面有十个寒冰指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有十个寒冰指示物。</target>
       </trans-unit>
       <trans-unit id="3e6ebe92-1ea2-4bfa-8464-851b808fef0b" resname="DMR·454 | Dark Depths | Card Text | Paragraph 2">
         <source>{3}: Remove an ice counter from CARDNAME.</source>
-        <target state="translated">{3}：从黑暗深渊上移去一个寒冰指示物。</target>
+        <target state="translated">{3}：从CARDNAME上移去一个寒冰指示物。</target>
       </trans-unit>
       <trans-unit id="3e6ebe92-1ea2-4bfa-8464-851b808fef0b" resname="DMR·454 | Dark Depths | Card Text | Paragraph 3">
         <source>When CARDNAME has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible.</source>
-        <target state="translated">当黑暗深渊上没有寒冰指示物时，将它牺牲。若你如此作，则派出传奇衍生生物玛莉雷基，其为20/20黑色，具飞行与不灭异能的圣者。</target>
+        <target state="translated">当CARDNAME上没有寒冰指示物时，将它牺牲。若你如此作，则派出传奇衍生生物玛莉雷基，其为20/20黑色，具飞行与不灭异能的圣者。</target>
       </trans-unit>
       <trans-unit id="e65b459e-2756-4f66-b80d-4bdc1c1c9bae" resname="DMR·455 | Gemstone Mine | Card Name">
         <source>Gemstone Mine</source>
@@ -4868,11 +4868,11 @@
       </trans-unit>
       <trans-unit id="e65b459e-2756-4f66-b80d-4bdc1c1c9bae" resname="DMR·455 | Gemstone Mine | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three mining counters on it.</source>
-        <target state="translated">宝石矿脉进战场时上面有三个采矿指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有三个采矿指示物。</target>
       </trans-unit>
       <trans-unit id="e65b459e-2756-4f66-b80d-4bdc1c1c9bae" resname="DMR·455 | Gemstone Mine | Card Text | Paragraph 2">
         <source>{T}, Remove a mining counter from CARDNAME: Add one mana of any color. If there are no mining counters on CARDNAME, sacrifice it.</source>
-        <target state="translated">{T}，从宝石矿脉上移去一个采矿指示物：加一点任意颜色的法术力。如果宝石矿脉上没有采矿指示物，则将它牺牲。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个采矿指示物：加一点任意颜色的法术力。如果CARDNAME上没有采矿指示物，则将它牺牲。</target>
       </trans-unit>
       <trans-unit id="7286bd95-0d8e-4b1a-b319-052fe2ae1951" resname="DMR·456 | Maze of Ith | Card Name">
         <source>Maze of Ith</source>

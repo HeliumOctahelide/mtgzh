@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="9c977c67-b0c0-40b0-b129-28de094aaf40" resname="M21·4 | Anointed Chorister | Card Text | Paragraph 2">
         <source>{4}{W}: CARDNAME gets +3/+3 until end of turn.</source>
-        <target state="translated">{4}{W}：神圣唱诗人得+3/+3直到回合结束。</target>
+        <target state="translated">{4}{W}：CARDNAME得+3/+3直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c5b57247-81cc-44ec-b5a9-0702111a98a8" resname="M21·5 | Aven Gagglemaster | Card Name">
         <source>Aven Gagglemaster</source>
@@ -40,7 +40,7 @@
       </trans-unit>
       <trans-unit id="c5b57247-81cc-44ec-b5a9-0702111a98a8" resname="M21·5 | Aven Gagglemaster | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 2 life for each creature you control with flying.</source>
-        <target state="translated">当艾文头鹅进战场时，你每操控一个具飞行异能的生物，便获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你每操控一个具飞行异能的生物，便获得2点生命。</target>
       </trans-unit>
       <trans-unit id="98c85699-2daf-4e87-a3be-465d02bd64bb" resname="M21·7 | Basri Ket | Card Name">
         <source>Basri Ket</source>
@@ -70,7 +70,7 @@
       </trans-unit>
       <trans-unit id="08d1dd97-2675-4953-ab95-d47d23abfe05" resname="M21·8 | Basri's Acolyte | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on each of up to two other target creatures you control.</source>
-        <target state="translated">当巴席利的侍僧进战场时，在至多两个其他目标由你操控的生物上各放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在至多两个其他目标由你操控的生物上各放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="74b1eae0-1bf8-4922-a9e3-45c01ece9005" resname="M21·9 | Basri's Lieutenant | Card Name">
@@ -83,11 +83,11 @@
       </trans-unit>
       <trans-unit id="74b1eae0-1bf8-4922-a9e3-45c01ece9005" resname="M21·9 | Basri's Lieutenant | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on target creature you control.</source>
-        <target state="translated">当巴席利的副官进战场时，在目标由你操控的生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在目标由你操控的生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="74b1eae0-1bf8-4922-a9e3-45c01ece9005" resname="M21·9 | Basri's Lieutenant | Card Text | Paragraph 3">
         <source>Whenever CARDNAME or another creature you control dies, if it had a +1/+1 counter on it, create a 2/2 white Knight creature token with vigilance.</source>
-        <target state="translated">每当巴席利的副官或另一个由你操控的生物死去时，若其上有+1/+1指示物，则派出一个2/2白色，具警戒异能的骑士衍生生物。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的生物死去时，若其上有+1/+1指示物，则派出一个2/2白色，具警戒异能的骑士衍生生物。</target>
       </trans-unit>
       <trans-unit id="c2e6fdc0-bdd4-4bba-b8f1-bbc8dfad038e" resname="M21·10 | Basri's Solidarity | Card Name">
         <source>Basri's Solidarity</source>
@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="ff87a671-054f-4357-8a62-450d36559a1b" resname="M21·14 | Daybreak Charger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature gets +2/+0 until end of turn.</source>
-        <target state="translated">当破晓角驹进战场时，目标生物得+2/+0直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得+2/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="fb4733e6-6fe2-4460-ac9f-82feb583d790" resname="M21·18 | Falconer Adept | Card Name">
@@ -121,7 +121,7 @@
       </trans-unit>
       <trans-unit id="fb4733e6-6fe2-4460-ac9f-82feb583d790" resname="M21·18 | Falconer Adept | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, create a 1/1 white Bird creature token with flying that's tapped and attacking.</source>
-        <target state="translated">每当训隼专家攻击时，派出一个1/1白色，具飞行异能的鸟衍生生物，其为横置且正进行攻击。</target>
+        <target state="translated">每当CARDNAME攻击时，派出一个1/1白色，具飞行异能的鸟衍生生物，其为横置且正进行攻击。</target>
       </trans-unit>
       <trans-unit id="d2e3b99c-e48e-4f4d-ba7a-e9218137b432" resname="M21·20 | Gale Swooper | Card Name">
         <source>Gale Swooper</source>
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="d2e3b99c-e48e-4f4d-ba7a-e9218137b432" resname="M21·20 | Gale Swooper | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gains flying until end of turn.</source>
-        <target state="translated">当劲风扑鹫进战场时，目标生物获得飞行异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6ea1ee60-5644-4f78-913d-32c36065957f" resname="M21·22 | Griffin Aerie | Card Name">
         <source>Griffin Aerie</source>
@@ -151,11 +151,11 @@
       </trans-unit>
       <trans-unit id="4d60e84e-be05-49da-9720-4225abe9d003" resname="M21·23 | Idol of Endurance | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile all creature cards with mana value 3 or less from your graveyard until CARDNAME leaves the battlefield.</source>
-        <target state="translated">当坚白雕像进战场时，放逐你坟墓场中所有总法术力费用等于或小于3的生物牌，直到坚白雕像离开战场为止。</target>
+        <target state="translated">当CARDNAME进战场时，放逐你坟墓场中所有总法术力费用等于或小于3的生物牌，直到CARDNAME离开战场为止。</target>
       </trans-unit>
       <trans-unit id="4d60e84e-be05-49da-9720-4225abe9d003" resname="M21·23 | Idol of Endurance | Card Text | Paragraph 2">
         <source>{1}{W}, {T}: Until end of turn, you may cast a creature spell from among cards exiled with CARDNAME without paying its mana cost.</source>
-        <target state="translated">{1}{W}，{T}：直到回合结束，你可以从以坚白雕像放逐的牌中施放一个生物咒语，且不需支付其法术力费用。</target>
+        <target state="translated">{1}{W}，{T}：直到回合结束，你可以从以CARDNAME放逐的牌中施放一个生物咒语，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="d5f80411-0a95-4e0a-b7a8-af23ddf385cc" resname="M21·25 | Light of Promise | Card Name">
         <source>Light of Promise</source>
@@ -199,15 +199,15 @@
       </trans-unit>
       <trans-unit id="e70b7a73-484e-48f1-944c-3d38866cdc20" resname="M21·28 | Nine Lives | Card Text | Paragraph 2">
         <source>If a source would deal damage to you, prevent that damage and put an incarnation counter on CARDNAME.</source>
-        <target state="translated">如果某来源将对你造成伤害，则防止该伤害且在九命护身上放置一个转生指示物。</target>
+        <target state="translated">如果某来源将对你造成伤害，则防止该伤害且在CARDNAME上放置一个转生指示物。</target>
       </trans-unit>
       <trans-unit id="e70b7a73-484e-48f1-944c-3d38866cdc20" resname="M21·28 | Nine Lives | Card Text | Paragraph 3">
         <source>When there are nine or more incarnation counters on CARDNAME, exile it.</source>
-        <target state="translated">当九命护身上有九个或更多转生指示物时，将它放逐。</target>
+        <target state="translated">当CARDNAME上有九个或更多转生指示物时，将它放逐。</target>
       </trans-unit>
       <trans-unit id="e70b7a73-484e-48f1-944c-3d38866cdc20" resname="M21·28 | Nine Lives | Card Text | Paragraph 4">
         <source>When CARDNAME leaves the battlefield, you lose the game.</source>
-        <target state="translated">当九命护身离开战场时，你输掉这盘游戏。</target>
+        <target state="translated">当CARDNAME离开战场时，你输掉这盘游戏。</target>
       </trans-unit>
       <trans-unit id="a8b94bc1-68d1-41dc-914c-a33ecb9aeb49" resname="M21·29 | Pack Leader | Card Name">
         <source>Pack Leader</source>
@@ -219,7 +219,7 @@
       </trans-unit>
       <trans-unit id="a8b94bc1-68d1-41dc-914c-a33ecb9aeb49" resname="M21·29 | Pack Leader | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, prevent all combat damage that would be dealt this turn to Dogs you control.</source>
-        <target state="translated">每当犬群领袖攻击时，防止本回合中将对由你操控的狗造成之所有战斗伤害。</target>
+        <target state="translated">每当CARDNAME攻击时，防止本回合中将对由你操控的狗造成之所有战斗伤害。</target>
       </trans-unit>
       <trans-unit id="3f602ecc-c264-4f3e-adeb-d0186668653e" resname="M21·30 | Rambunctious Mutt | Card Name">
         <source>Rambunctious Mutt</source>
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="3f602ecc-c264-4f3e-adeb-d0186668653e" resname="M21·30 | Rambunctious Mutt | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, destroy target artifact or enchantment an opponent controls.</source>
-        <target state="translated">当难驯杂犬进战场时，消灭目标由对手操控的神器或结界。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标由对手操控的神器或结界。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="34a5478a-1a2c-4117-b543-da083ed2b562" resname="M21·33 | Sanctum of Tranquil Light | Card Name">
@@ -245,7 +245,7 @@
       </trans-unit>
       <trans-unit id="feb59931-8941-46fb-8e1c-f80ff3730dd9" resname="M21·34 | Seasoned Hallowblade | Card Text | Paragraph 1">
         <source>Discard a card: Tap CARDNAME. It gains indestructible until end of turn. (Damage and effects that say &amp;quot;destroy&amp;quot; don't destroy it.)</source>
-        <target state="translated">弃一张牌：横置干练圣剑兵。它获得不灭异能直到回合结束。（伤害与注明「消灭」的效应不会将它消灭。）</target>
+        <target state="translated">弃一张牌：横置CARDNAME。它获得不灭异能直到回合结束。（伤害与注明「消灭」的效应不会将它消灭。）</target>
       </trans-unit>
       <trans-unit id="d6467d96-e43a-4b1e-b6ce-578d991077b5" resname="M21·35 | Secure the Scene | Card Name">
         <source>Secure the Scene</source>
@@ -261,7 +261,7 @@
       </trans-unit>
       <trans-unit id="6911759c-7177-402c-a95a-f9f46efaf521" resname="M21·36 | Selfless Savior | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Another target creature you control gains indestructible until end of turn. (Damage and effects that say &amp;quot;destroy&amp;quot; don't destroy it.)</source>
-        <target state="translated">牺牲无私救助犬：另一个目标由你操控的生物获得不灭异能直到回合结束。（伤害与注明「消灭」的效应不会将它消灭。）</target>
+        <target state="translated">牺牲CARDNAME：另一个目标由你操控的生物获得不灭异能直到回合结束。（伤害与注明「消灭」的效应不会将它消灭。）</target>
       </trans-unit>
       <trans-unit id="7a0ffa89-e6ee-466c-8edc-dd24c8b52e80" resname="M21·37 | Siege Striker | Card Name">
         <source>Siege Striker</source>
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="7a0ffa89-e6ee-466c-8edc-dd24c8b52e80" resname="M21·37 | Siege Striker | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may tap any number of untapped creatures you control. CARDNAME gets +1/+1 until end of turn for each creature tapped this way.</source>
-        <target state="translated">每当攻城进击兵攻击时，你可以横置任意数量由你操控且未横置的生物。每以此法横置一个生物，攻城进击兵便得+1/+1直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以横置任意数量由你操控且未横置的生物。每以此法横置一个生物，CARDNAME便得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="1f44b96a-8498-414a-a4ac-54c80dfa9f23" resname="M21·38 | Speaker of the Heavens | Card Name">
         <source>Speaker of the Heavens</source>
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="aa01cb8c-f080-456b-a91a-f1d7943a70b2" resname="M21·42 | Valorous Steed | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create a 2/2 white Knight creature token with vigilance.</source>
-        <target state="translated">当英勇角驹进战场时，派出一个2/2白色，具警戒异能的骑士衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个2/2白色，具警戒异能的骑士衍生生物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="f234999b-54e9-40f5-a537-7d6ce169c710" resname="M21·44 | Warded Battlements | Card Name">
@@ -350,7 +350,7 @@
       </trans-unit>
       <trans-unit id="cb078fbb-beb9-4c0b-be93-ed1e73e6f8d8" resname="M21·45 | Barrin, Tolarian Archmage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return up to one other target creature or planeswalker to its owner's hand.</source>
-        <target state="translated">当陶拉里亚大法师巴林进战场时，将至多另一个目标生物或鹏洛客移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将至多另一个目标生物或鹏洛客移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="cb078fbb-beb9-4c0b-be93-ed1e73e6f8d8" resname="M21·45 | Barrin, Tolarian Archmage | Card Text | Paragraph 2">
@@ -392,7 +392,7 @@
       </trans-unit>
       <trans-unit id="8f14abb0-0e9f-448e-85d7-6cb71f756c56" resname="M21·50 | Frantic Inventory | Card Text | Paragraph 1">
         <source>Draw a card, then draw cards equal to the number of cards named CARDNAME in your graveyard.</source>
-        <target state="translated">抓一张牌，然后再抓若干牌，其数量等同于你坟墓场中名称为狂搜库存之牌的数量。</target>
+        <target state="translated">抓一张牌，然后再抓若干牌，其数量等同于你坟墓场中名称为CARDNAME之牌的数量。</target>
       </trans-unit>
       <trans-unit id="2810631f-c55c-4947-a26f-4d3ce76024b3" resname="M21·52 | Ghostly Pilferer | Card Name">
         <source>Ghostly Pilferer</source>
@@ -401,7 +401,7 @@
       </trans-unit>
       <trans-unit id="2810631f-c55c-4947-a26f-4d3ce76024b3" resname="M21·52 | Ghostly Pilferer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes untapped, you may pay {2}. If you do, draw a card.</source>
-        <target state="translated">每当魂魅小偷成为未横置时，你可以支付{2}。若你如此作，则抓一张牌。</target>
+        <target state="translated">每当CARDNAME成为未横置时，你可以支付{2}。若你如此作，则抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="2810631f-c55c-4947-a26f-4d3ce76024b3" resname="M21·52 | Ghostly Pilferer | Card Text | Paragraph 2">
@@ -411,7 +411,7 @@
       </trans-unit>
       <trans-unit id="2810631f-c55c-4947-a26f-4d3ce76024b3" resname="M21·52 | Ghostly Pilferer | Card Text | Paragraph 3">
         <source>Discard a card: CARDNAME can't be blocked this turn.</source>
-        <target state="translated">弃一张牌：魂魅小偷本回合不能被阻挡。</target>
+        <target state="translated">弃一张牌：CARDNAME本回合不能被阻挡。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="cce6289e-f665-4faa-8285-c843447f3e52" resname="M21·54 | Keen Glidemaster | Card Name">
@@ -429,7 +429,7 @@
       </trans-unit>
       <trans-unit id="cb33529b-80bd-4f52-94cc-d8371c53ad75" resname="M21·55 | Library Larcenist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, draw a card.</source>
-        <target state="translated">每当书库窃犯攻击时，抓一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="64832674-beb1-446e-b2f7-8a5e271139a5" resname="M21·56 | Lofty Denial | Card Name">
@@ -467,12 +467,12 @@
       </trans-unit>
       <trans-unit id="b1501118-5837-49b5-9446-0bc3032035ca" resname="M21·60 | Pursued Whale | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each opponent creates a 1/1 red Pirate creature token with &amp;quot;This creature can't block&amp;quot; and &amp;quot;Creatures you control attack each combat if able.&amp;quot;</source>
-        <target state="translated">当遭猎白鲸进战场时，每位对手各派出一个1/1红色海盗衍生生物，且具有「此生物不能进行阻挡」与「由你操控的生物每次战斗若能攻击，则必须攻击。」</target>
+        <target state="translated">当CARDNAME进战场时，每位对手各派出一个1/1红色海盗衍生生物，且具有「此生物不能进行阻挡」与「由你操控的生物每次战斗若能攻击，则必须攻击。」</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="b1501118-5837-49b5-9446-0bc3032035ca" resname="M21·60 | Pursued Whale | Card Text | Paragraph 2">
         <source>Spells your opponents cast that target CARDNAME cost {3} more to cast.</source>
-        <target state="translated">对手施放之以遭猎白鲸为目标的咒语增加{3}来施放。</target>
+        <target state="translated">对手施放之以CARDNAME为目标的咒语增加{3}来施放。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="5360fe8c-41b0-4409-b03e-072f129fb352" resname="M21·62 | Read the Tides | Card Name">
@@ -501,7 +501,7 @@
       </trans-unit>
       <trans-unit id="8cbac0e4-f79f-476d-b410-d19ab3696606" resname="M21·65 | Roaming Ghostlight | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return up to one target non-Spirit creature to its owner's hand.</source>
-        <target state="translated">当游荡光灵进战场时，将至多一个目标非精怪生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将至多一个目标非精怪生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="b19de7a5-c291-405b-a2e6-8d3ac56e6570" resname="M21·66 | Rookie Mistake | Card Name">
         <source>Rookie Mistake</source>
@@ -521,7 +521,7 @@
       </trans-unit>
       <trans-unit id="c82be2ca-8350-4cf5-83b6-e8b60a9e21c6" resname="M21·67 | Rousing Read | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw two cards, then discard a card.</source>
-        <target state="translated">当开卷有得进战场时，抓两张牌，然后弃一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓两张牌，然后弃一张牌。</target>
       </trans-unit>
       <trans-unit id="c82be2ca-8350-4cf5-83b6-e8b60a9e21c6" resname="M21·67 | Rousing Read | Card Text | Paragraph 3">
         <source>Enchanted creature gets +1/+1 and has flying.</source>
@@ -555,7 +555,7 @@
       </trans-unit>
       <trans-unit id="7a5a88e3-e73c-4b34-a645-06fe27e68cee" resname="M21·70 | Shacklegeist | Card Text | Paragraph 2">
         <source>CARDNAME can block only creatures with flying.</source>
-        <target state="translated">桎梏游魂只能阻挡具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能阻挡具飞行异能的生物。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="7a5a88e3-e73c-4b34-a645-06fe27e68cee" resname="M21·70 | Shacklegeist | Card Text | Paragraph 3">
@@ -575,7 +575,7 @@
       </trans-unit>
       <trans-unit id="59d38ef7-5017-4ea3-b97f-a8fe12d03e98" resname="M21·71 | Shipwreck Dowser | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</source>
-        <target state="translated">当船难探寻客进战场时，将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="6d42d3dd-29df-44a1-89b8-994761eda77d" resname="M21·72 | Spined Megalodon | Card Name">
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="6d42d3dd-29df-44a1-89b8-994761eda77d" resname="M21·72 | Spined Megalodon | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</source>
-        <target state="translated">每当硬背巨牙鲨攻击时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">每当CARDNAME攻击时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="0540ee72-6370-4f70-9526-6f441b3cac1e" resname="M21·73 | Stormwing Entity | Card Name">
         <source>Stormwing Entity</source>
@@ -608,7 +608,7 @@
       </trans-unit>
       <trans-unit id="0540ee72-6370-4f70-9526-6f441b3cac1e" resname="M21·73 | Stormwing Entity | Card Text | Paragraph 4">
         <source>When CARDNAME enters the battlefield, scry 2.</source>
-        <target state="translated">当暴风翼灵进战场时，占卜2。</target>
+        <target state="translated">当CARDNAME进战场时，占卜2。</target>
       </trans-unit>
       <trans-unit id="ad1bcb44-a562-4f66-b862-6d0ef3546ab4" resname="M21·74 | Sublime Epiphany | Card Name">
         <source>Sublime Epiphany</source>
@@ -644,7 +644,7 @@
       </trans-unit>
       <trans-unit id="9c0c61e3-9f3d-4e7f-9046-0ea336dd8a2d" resname="M21·75 | Teferi, Master of Time | Card Text | Paragraph 1">
         <source>You may activate loyalty abilities of CARDNAME on any player's turn any time you could cast an instant.</source>
-        <target state="translated">你可以在任意牌手的回合中，于你能够施放瞬间的时机下，起动弄时宗师泰菲力的忠诚异能。</target>
+        <target state="translated">你可以在任意牌手的回合中，于你能够施放瞬间的时机下，起动CARDNAME的忠诚异能。</target>
       </trans-unit>
       <trans-unit id="9c0c61e3-9f3d-4e7f-9046-0ea336dd8a2d" resname="M21·75 | Teferi, Master of Time | Card Text | Paragraph 2">
         <source>[+1]: Draw a card, then discard a card.</source>
@@ -682,7 +682,7 @@
       </trans-unit>
       <trans-unit id="c26450d4-125f-423d-b074-3c959460c242" resname="M21·78 | Teferi's Tutelage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card, then discard a card.</source>
-        <target state="translated">当泰菲力的指导进战场时，抓一张牌，然后弃一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌，然后弃一张牌。</target>
       </trans-unit>
       <trans-unit id="c26450d4-125f-423d-b074-3c959460c242" resname="M21·78 | Teferi's Tutelage | Card Text | Paragraph 2">
         <source>Whenever you draw a card, target opponent mills two cards. (They put the top two cards of their library into their graveyard.)</source>
@@ -717,7 +717,7 @@
       </trans-unit>
       <trans-unit id="0360d27b-37e1-4e00-9cfc-b574efc38ea0" resname="M21·81 | Tome Anima | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked as long as you've drawn two or more cards this turn.</source>
-        <target state="translated">只要你本回合中已抓两张或更多牌，魔典活灵便不能被阻挡。</target>
+        <target state="translated">只要你本回合中已抓两张或更多牌，CARDNAME便不能被阻挡。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="abb47990-a5a9-4a22-a8bb-d229b17132c6" resname="M21·84 | Waker of Waves | Card Name">
@@ -730,7 +730,7 @@
       </trans-unit>
       <trans-unit id="abb47990-a5a9-4a22-a8bb-d229b17132c6" resname="M21·84 | Waker of Waves | Card Text | Paragraph 2">
         <source>{1}{U}, Discard CARDNAME: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.</source>
-        <target state="translated">{1}{U}，弃掉弄涛巨鲸：检视你牌库顶的两张牌。将其中一张置于你手上，另一张则置入你的坟墓场。</target>
+        <target state="translated">{1}{U}，弃掉CARDNAME：检视你牌库顶的两张牌。将其中一张置于你手上，另一张则置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="6e4c9574-1ee3-461e-848f-8f02c6a8b7ee" resname="M21·87 | Alchemist's Gift | Card Name">
         <source>Alchemist's Gift</source>
@@ -750,7 +750,7 @@
       </trans-unit>
       <trans-unit id="83437022-ba00-4370-83c2-ce1260336fcc" resname="M21·88 | Archfiend's Vessel | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it entered from your graveyard or you cast it from your graveyard, exile it. If you do, create a 5/5 black Demon creature token with flying.</source>
-        <target state="translated">当天魔祟体僧进战场时，若它是从你的坟墓场进战场或你是从你的坟墓场中施放它，则将它放逐。若你如此作，则派出一个5/5黑色，具飞行异能的恶魔衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，若它是从你的坟墓场进战场或你是从你的坟墓场中施放它，则将它放逐。若你如此作，则派出一个5/5黑色，具飞行异能的恶魔衍生生物。</target>
       </trans-unit>
       <trans-unit id="7a3f8bc2-ef66-474f-92a3-9c4df1670cec" resname="M21·89 | Bad Deal | Card Name">
         <source>Bad Deal</source>
@@ -783,12 +783,12 @@
       </trans-unit>
       <trans-unit id="31df3d95-bbdb-449d-9601-4fa844c3c640" resname="M21·92 | Carrion Grub | Card Text | Paragraph 1">
         <source>CARDNAME gets +X/+0, where X is the greatest power among creature cards in your graveyard.</source>
-        <target state="translated">腐肉幼虫得+X/+0，X为你坟墓场内生物牌中的最大力量。</target>
+        <target state="translated">CARDNAME得+X/+0，X为你坟墓场内生物牌中的最大力量。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="31df3d95-bbdb-449d-9601-4fa844c3c640" resname="M21·92 | Carrion Grub | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, mill four cards. (Put the top four cards of your library into your graveyard.)</source>
-        <target state="translated">当腐肉幼虫进战场时，磨四张牌。（将你牌库顶的四张牌置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，磨四张牌。（将你牌库顶的四张牌置入你的坟墓场。）</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="c0bba170-5176-4fab-a10d-e23d70128875" resname="M21·93 | Crypt Lurker | Card Name">
@@ -797,7 +797,7 @@
       </trans-unit>
       <trans-unit id="c0bba170-5176-4fab-a10d-e23d70128875" resname="M21·93 | Crypt Lurker | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may sacrifice a creature or discard a creature card. If you do, draw a card.</source>
-        <target state="translated">当墓穴伏怪进战场时，你可以牺牲一个生物或弃一张生物牌。若你如此作，则抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以牺牲一个生物或弃一张生物牌。若你如此作，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="56149192-ddc1-45a4-b7aa-be311da5fe8e" resname="M21·95 | Demonic Embrace | Card Name">
         <source>Demonic Embrace</source>
@@ -813,7 +813,7 @@
       </trans-unit>
       <trans-unit id="56149192-ddc1-45a4-b7aa-be311da5fe8e" resname="M21·95 | Demonic Embrace | Card Text | Paragraph 3">
         <source>You may cast CARDNAME from your graveyard by paying 3 life and discarding a card in addition to paying its other costs.</source>
-        <target state="translated">你可以从你的坟墓场中施放恶魔之拥，但在其他费用以外，还须额外支付3点生命并弃一张牌。</target>
+        <target state="translated">你可以从你的坟墓场中施放CARDNAME，但在其他费用以外，还须额外支付3点生命并弃一张牌。</target>
       </trans-unit>
       <trans-unit id="f8eb4087-3a4c-4de8-8e29-f4cd71acb180" resname="M21·97 | Eliminate | Card Name">
         <source>Eliminate</source>
@@ -839,7 +839,7 @@
       </trans-unit>
       <trans-unit id="a1b4f7ec-ea2e-4d90-98cd-0c92bd9f64c1" resname="M21·100 | Gloom Sower | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked by a creature, that creature's controller loses 2 life and you gain 2 life.</source>
-        <target state="translated">每当散霾惧兽被一个生物阻挡时，该生物的操控者失去2点生命，且你获得2点生命。</target>
+        <target state="translated">每当CARDNAME被一个生物阻挡时，该生物的操控者失去2点生命，且你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="c9cd537c-e40e-438f-a751-e0ad8f6e6283" resname="M21·101 | Goremand | Card Name">
         <source>Goremand</source>
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="c9cd537c-e40e-438f-a751-e0ad8f6e6283" resname="M21·101 | Goremand | Card Text | Paragraphs">
         <source>As an additional cost to cast this spell, sacrifice a creature.\nFlying\nTrample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nWhen CARDNAME enters the battlefield, each opponent sacrifices a creature.</source>
-        <target state="translated">牺牲一个生物，以作为施放此咒语的额外费用。\n飞行，践踏\n当嗜血餮魔进战场时，每位对手各牺牲一个生物。</target>
+        <target state="translated">牺牲一个生物，以作为施放此咒语的额外费用。\n飞行，践踏\n当CARDNAME进战场时，每位对手各牺牲一个生物。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="ac38a51f-9a3b-451c-b72d-6d4e0b296fbd" resname="M21·104 | Hooded Blightfang | Card Name">
@@ -918,7 +918,7 @@
       </trans-unit>
       <trans-unit id="3dc48b87-62cb-48f6-8979-e6fb98717b52" resname="M21·110 | Liliana's Standard Bearer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw X cards, where X is the number of creatures that died under your control this turn.</source>
-        <target state="translated">当莉莲娜的旗手进战场时，抓X张牌，X为本回合中在你的操控下死去之生物数量。</target>
+        <target state="translated">当CARDNAME进战场时，抓X张牌，X为本回合中在你的操控下死去之生物数量。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="1945fc78-8aa4-46fb-9571-eaa1c4729e3d" resname="M21·111 | Liliana's Steward | Card Name">
@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="1945fc78-8aa4-46fb-9571-eaa1c4729e3d" resname="M21·111 | Liliana's Steward | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Target opponent discards a card. Activate only as a sorcery.</source>
-        <target state="translated">{T}，牺牲莉莲娜的管家：目标对手弃一张牌。只能于法术时机起动。</target>
+        <target state="translated">{T}，牺牲CARDNAME：目标对手弃一张牌。只能于法术时机起动。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="89e2bc57-8f18-4ba1-a11b-9d69d029f56a" resname="M21·112 | Malefic Scythe | Card Name">
@@ -937,15 +937,15 @@
       </trans-unit>
       <trans-unit id="89e2bc57-8f18-4ba1-a11b-9d69d029f56a" resname="M21·112 | Malefic Scythe | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a soul counter on it.</source>
-        <target state="translated">凶邪镰刀进战场时上面有一个灵魂指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有一个灵魂指示物。</target>
       </trans-unit>
       <trans-unit id="89e2bc57-8f18-4ba1-a11b-9d69d029f56a" resname="M21·112 | Malefic Scythe | Card Text | Paragraph 2">
         <source>Equipped creature gets +1/+1 for each soul counter on CARDNAME.</source>
-        <target state="translated">凶邪镰刀上每有一个灵魂指示物，佩带此武具的生物便得+1/+1。</target>
+        <target state="translated">CARDNAME上每有一个灵魂指示物，佩带此武具的生物便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="89e2bc57-8f18-4ba1-a11b-9d69d029f56a" resname="M21·112 | Malefic Scythe | Card Text | Paragraph 3">
         <source>Whenever equipped creature dies, put a soul counter on CARDNAME.</source>
-        <target state="translated">每当佩带此武具的生物死去时，在凶邪镰刀上放置一个灵魂指示物。</target>
+        <target state="translated">每当佩带此武具的生物死去时，在CARDNAME上放置一个灵魂指示物。</target>
       </trans-unit>
       <trans-unit id="89e2bc57-8f18-4ba1-a11b-9d69d029f56a" resname="M21·112 | Malefic Scythe | Card Text | Paragraph 4">
         <source>Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</source>
@@ -961,7 +961,7 @@
       </trans-unit>
       <trans-unit id="d61b4b71-3cbb-4422-8ce7-657ca3bb6a82" resname="M21·113 | Masked Blackguard | Card Text | Paragraph 2">
         <source>{2}{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{2}{B}：覆面凶徒得+1/+1直到回合结束。</target>
+        <target state="translated">{2}{B}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="32c5252e-ff15-4f86-ad63-d8286427e70f" resname="M21·116 | Necromentia | Card Name">
         <source>Necromentia</source>
@@ -1030,12 +1030,12 @@
       </trans-unit>
       <trans-unit id="ff5444cb-0ecd-4482-a8d8-09332f382dbd" resname="M21·122 | Silversmote Ghoul | Card Text | Paragraph 1">
         <source>At the beginning of your end step, if you gained 3 or more life this turn, return CARDNAME from your graveyard to the battlefield tapped.</source>
-        <target state="translated">在你的结束步骤开始时，若你本回合中获得了3点或更多生命，则将嵌银食尸鬼从你的坟墓场横置移回战场。</target>
+        <target state="translated">在你的结束步骤开始时，若你本回合中获得了3点或更多生命，则将CARDNAME从你的坟墓场横置移回战场。</target>
         <note xmlns:from="developer">中文数据来自C21（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="ff5444cb-0ecd-4482-a8d8-09332f382dbd" resname="M21·122 | Silversmote Ghoul | Card Text | Paragraph 2">
         <source>{1}{B}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{1}{B}，牺牲嵌银食尸鬼：抓一张牌。</target>
+        <target state="translated">{1}{B}，牺牲CARDNAME：抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自C21（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="df99f770-2c39-4025-a8a2-a5890f61eb53" resname="M21·125 | Thieves' Guild Enforcer | Card Name">
@@ -1048,11 +1048,11 @@
       </trans-unit>
       <trans-unit id="df99f770-2c39-4025-a8a2-a5890f61eb53" resname="M21·125 | Thieves' Guild Enforcer | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another Rogue enters the battlefield under your control, each opponent mills two cards.</source>
-        <target state="translated">每当盗贼公会执法者或另一个浪客在你的操控下进战场时，每位对手各磨两张牌。</target>
+        <target state="translated">每当CARDNAME或另一个浪客在你的操控下进战场时，每位对手各磨两张牌。</target>
       </trans-unit>
       <trans-unit id="df99f770-2c39-4025-a8a2-a5890f61eb53" resname="M21·125 | Thieves' Guild Enforcer | Card Text | Paragraph 3">
         <source>As long as an opponent has eight or more cards in their graveyard, CARDNAME gets +2/+1 and has deathtouch.</source>
-        <target state="translated">只要任一对手的坟墓场中有八张或更多牌，盗贼公会执法者便得+2/+1且具有死触异能。</target>
+        <target state="translated">只要任一对手的坟墓场中有八张或更多牌，CARDNAME便得+2/+1且具有死触异能。</target>
       </trans-unit>
       <trans-unit id="9c0f60a6-b5c8-4704-8b61-94e8fc463e5d" resname="M21·126 | Village Rites | Card Name">
         <source>Village Rites</source>
@@ -1106,7 +1106,7 @@
       </trans-unit>
       <trans-unit id="9f8cf3f9-4e3b-4af2-b5ef-a97eb1d2b674" resname="M21·131 | Bolt Hound | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, other creatures you control get +1/+0 until end of turn.</source>
-        <target state="translated">每当电闪猎犬攻击时，由你操控的其他生物得+1/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，由你操控的其他生物得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="6075e0a3-a0ab-4a11-8ad2-7dabb071d309" resname="M21·132 | Bone Pit Brute | Card Name">
@@ -1119,7 +1119,7 @@
       </trans-unit>
       <trans-unit id="6075e0a3-a0ab-4a11-8ad2-7dabb071d309" resname="M21·132 | Bone Pit Brute | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gets +4/+0 until end of turn.</source>
-        <target state="translated">当骨坑蛮汉进战场时，目标生物得+4/+0直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得+4/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ebb5e613-a803-42f3-840a-7089ac6b7e3d" resname="M21·133 | Brash Taunter | Card Name">
         <source>Brash Taunter</source>
@@ -1133,12 +1133,12 @@
       </trans-unit>
       <trans-unit id="ebb5e613-a803-42f3-840a-7089ac6b7e3d" resname="M21·133 | Brash Taunter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME is dealt damage, it deals that much damage to target opponent.</source>
-        <target state="translated">每当鲁莽挑发鬼受到伤害时，它向目标对手造成等量的伤害。</target>
+        <target state="translated">每当CARDNAME受到伤害时，它向目标对手造成等量的伤害。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="ebb5e613-a803-42f3-840a-7089ac6b7e3d" resname="M21·133 | Brash Taunter | Card Text | Paragraph 3">
         <source>{2}{R}, {T}: CARDNAME fights another target creature.</source>
-        <target state="translated">{2}{R}，{T}：鲁莽挑发鬼与另一个目标生物互斗。</target>
+        <target state="translated">{2}{R}，{T}：CARDNAME与另一个目标生物互斗。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="a4c3ca8c-c77c-43b8-84ad-796313ecc813" resname="M21·135 | Chandra, Heart of Fire | Card Name">
@@ -1151,7 +1151,7 @@
       </trans-unit>
       <trans-unit id="a4c3ca8c-c77c-43b8-84ad-796313ecc813" resname="M21·135 | Chandra, Heart of Fire | Card Text | Paragraph 2">
         <source>[+1]: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">+1：烈焰之心茜卓对任意一个目标造成2点伤害。</target>
+        <target state="translated">+1：CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="a4c3ca8c-c77c-43b8-84ad-796313ecc813" resname="M21·135 | Chandra, Heart of Fire | Card Text | Paragraph 3">
         <source>[−9]: Search your graveyard and library for any number of red instant and/or sorcery cards, exile them, then shuffle. You may cast them this turn. Add six {R}.</source>
@@ -1171,7 +1171,7 @@
       </trans-unit>
       <trans-unit id="ed875705-b7b6-4464-b16f-61629ffed04f" resname="M21·136 | Chandra's Incinerator | Card Text | Paragraph 3">
         <source>Whenever a source you control deals noncombat damage to an opponent, CARDNAME deals that much damage to target creature or planeswalker that player controls.</source>
-        <target state="translated">每当一个由你操控的来源向任一对手造成非战斗伤害时，茜卓的焚焰灵对目标由该牌手操控的生物或鹏洛客造成等量的伤害。</target>
+        <target state="translated">每当一个由你操控的来源向任一对手造成非战斗伤害时，CARDNAME对目标由该牌手操控的生物或鹏洛客造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="91d3e366-4da5-42c8-bbd5-a0c178c0da28" resname="M21·137 | Chandra's Magmutt | Card Name">
         <source>Chandra's Magmutt</source>
@@ -1180,7 +1180,7 @@
       </trans-unit>
       <trans-unit id="91d3e366-4da5-42c8-bbd5-a0c178c0da28" resname="M21·137 | Chandra's Magmutt | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 1 damage to target player or planeswalker.</source>
-        <target state="translated">{T}：茜卓的熔岩犬对目标牌手或鹏洛客造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标牌手或鹏洛客造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="e7744fcf-2336-489d-bc05-f3fce78713a9" resname="M21·138 | Chandra's Pyreling | Card Name">
@@ -1190,7 +1190,7 @@
       </trans-unit>
       <trans-unit id="e7744fcf-2336-489d-bc05-f3fce78713a9" resname="M21·138 | Chandra's Pyreling | Card Text | Paragraph 1">
         <source>Whenever a source you control deals noncombat damage to an opponent, CARDNAME gets +1/+0 and gains double strike until end of turn. (It deals both first-strike and regular combat damage.)</source>
-        <target state="translated">每当一个由你操控的来源向任一对手造成非战斗伤害时，直到回合结束，茜卓的幼火灵得+1/+0 且获得连击异能。</target>
+        <target state="translated">每当一个由你操控的来源向任一对手造成非战斗伤害时，直到回合结束，CARDNAME得+1/+0 且获得连击异能。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="5d878dab-5ed2-4ef3-b2c7-472290892854" resname="M21·139 | Conspicuous Snoop | Card Name">
@@ -1207,7 +1207,7 @@
       </trans-unit>
       <trans-unit id="5d878dab-5ed2-4ef3-b2c7-472290892854" resname="M21·139 | Conspicuous Snoop | Card Text | Paragraph 3">
         <source>As long as the top card of your library is a Goblin card, CARDNAME has all activated abilities of that card.</source>
-        <target state="translated">只要你的牌库顶牌是鬼怪牌，张扬嗅探客便具有该牌的所有起动式异能。</target>
+        <target state="translated">只要你的牌库顶牌是鬼怪牌，CARDNAME便具有该牌的所有起动式异能。</target>
       </trans-unit>
       <trans-unit id="754b77b4-4cc4-4e49-a7a4-667401e7e063" resname="M21·142 | Double Vision | Card Name">
         <source>Double Vision</source>
@@ -1241,7 +1241,7 @@
       </trans-unit>
       <trans-unit id="44b83bb7-00c8-4078-b27f-42a830a544b5" resname="M21·146 | Gadrak, the Crown-Scourge | Card Text | Paragraph 2">
         <source>CARDNAME can't attack unless you control four or more artifacts.</source>
-        <target state="translated">除非你操控四个或更多神器，否则戴冠祸害加札克不能攻击。</target>
+        <target state="translated">除非你操控四个或更多神器，否则CARDNAME不能攻击。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="44b83bb7-00c8-4078-b27f-42a830a544b5" resname="M21·146 | Gadrak, the Crown-Scourge | Card Text | Paragraph 3">
@@ -1264,7 +1264,7 @@
       </trans-unit>
       <trans-unit id="386e5cb2-39c8-453d-a642-c5d9f8495601" resname="M21·149 | Havoc Jester | Card Text | Paragraph 1">
         <source>Whenever you sacrifice a permanent, CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">每当你牺牲一个永久物时，浩劫小丑对任意一个目标造成1点伤害。</target>
+        <target state="translated">每当你牺牲一个永久物时，CARDNAME对任意一个目标造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="869fb9f1-0d59-4874-aa52-ac665c3cc0e8" resname="M21·150 | Heartfire Immolator | Card Name">
@@ -1277,7 +1277,7 @@
       </trans-unit>
       <trans-unit id="869fb9f1-0d59-4874-aa52-ac665c3cc0e8" resname="M21·150 | Heartfire Immolator | Card Text | Paragraph 2">
         <source>{R}, Sacrifice CARDNAME: It deals damage equal to its power to target creature or planeswalker.</source>
-        <target state="translated">{R}，牺牲心火煽焰师：它对目标生物或鹏洛客造成伤害，其数量等同于前者的力量。</target>
+        <target state="translated">{R}，牺牲CARDNAME：它对目标生物或鹏洛客造成伤害，其数量等同于前者的力量。</target>
       </trans-unit>
       <trans-unit id="7bf663d3-850b-4a24-8e4b-08311adf4ed0" resname="M21·151 | Hellkite Punisher | Card Name">
         <source>Hellkite Punisher</source>
@@ -1289,7 +1289,7 @@
       </trans-unit>
       <trans-unit id="7bf663d3-850b-4a24-8e4b-08311adf4ed0" resname="M21·151 | Hellkite Punisher | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：惩焰残虐者得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4bfffc18-b36a-4dd5-909e-60ea9f8eb60b" resname="M21·152 | Hobblefiend | Card Name">
         <source>Hobblefiend</source>
@@ -1301,7 +1301,7 @@
       </trans-unit>
       <trans-unit id="4bfffc18-b36a-4dd5-909e-60ea9f8eb60b" resname="M21·152 | Hobblefiend | Card Text | Paragraph 2">
         <source>{1}, Sacrifice another creature: Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{1}，牺牲另一个生物：在噬踵邪鬼上放置一个+1/+1指示物。</target>
+        <target state="translated">{1}，牺牲另一个生物：在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="d2bfec5d-3182-415a-afe8-0b5511cfd656" resname="M21·153 | Igneous Cur | Card Name">
         <source>Igneous Cur</source>
@@ -1309,7 +1309,7 @@
       </trans-unit>
       <trans-unit id="d2bfec5d-3182-415a-afe8-0b5511cfd656" resname="M21·153 | Igneous Cur | Card Text | Paragraph 1">
         <source>{1}{R}: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">{1}{R}：火热杂狗得+2/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="dc5e8221-fc2d-4d90-80f3-729606648c54" resname="M21·154 | Kinetic Augur | Card Name">
         <source>Kinetic Augur</source>
@@ -1321,11 +1321,11 @@
       </trans-unit>
       <trans-unit id="dc5e8221-fc2d-4d90-80f3-729606648c54" resname="M21·154 | Kinetic Augur | Card Text | Paragraph 2">
         <source>CARDNAME's power is equal to the number of instant and sorcery cards in your graveyard.</source>
-        <target state="translated">跃动卜算师的力量等同于你坟墓场中瞬间与法术牌的数量加总。</target>
+        <target state="translated">CARDNAME的力量等同于你坟墓场中瞬间与法术牌的数量加总。</target>
       </trans-unit>
       <trans-unit id="dc5e8221-fc2d-4d90-80f3-729606648c54" resname="M21·154 | Kinetic Augur | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, discard up to two cards, then draw that many cards.</source>
-        <target state="translated">当跃动卜算师进战场时，弃至多两张牌，然后抓等量的牌。</target>
+        <target state="translated">当CARDNAME进战场时，弃至多两张牌，然后抓等量的牌。</target>
       </trans-unit>
       <trans-unit id="482ae7f4-3950-4766-8392-eea753e29426" resname="M21·157 | Sanctum of Shattered Heights | Card Name">
         <source>Sanctum of Shattered Heights</source>
@@ -1333,7 +1333,7 @@
       </trans-unit>
       <trans-unit id="482ae7f4-3950-4766-8392-eea753e29426" resname="M21·157 | Sanctum of Shattered Heights | Card Text | Paragraph 1">
         <source>{1}, Discard a land card or Shrine card: CARDNAME deals X damage to target creature or planeswalker, where X is the number of Shrines you control.</source>
-        <target state="translated">{1}，弃一张地牌或祭祠牌：嶙峋圣殿对目标生物或鹏洛客造成X点伤害，X为由你操控的祭祠数量。</target>
+        <target state="translated">{1}，弃一张地牌或祭祠牌：CARDNAME对目标生物或鹏洛客造成X点伤害，X为由你操控的祭祠数量。</target>
       </trans-unit>
       <trans-unit id="62584e4f-dac1-4d99-ac0a-6a2451603889" resname="M21·160 | Soul Sear | Card Name">
         <source>Soul Sear</source>
@@ -1341,7 +1341,7 @@
       </trans-unit>
       <trans-unit id="62584e4f-dac1-4d99-ac0a-6a2451603889" resname="M21·160 | Soul Sear | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to target creature or planeswalker. That permanent loses indestructible until end of turn.</source>
-        <target state="translated">炙烤灵魂对目标生物或鹏洛客造成5点伤害。该永久物失去不灭异能直到回合结束。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成5点伤害。该永久物失去不灭异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="034b8d6d-95ea-434a-967a-e6675a7ce88a" resname="M21·162 | Subira, Tulzidi Caravanner | Card Name">
         <source>Subira, Tulzidi Caravanner</source>
@@ -1373,11 +1373,11 @@
       </trans-unit>
       <trans-unit id="432ecd5f-966f-4403-a973-51e175a524a0" resname="M21·164 | Terror of the Peaks | Card Text | Paragraph 2">
         <source>Spells your opponents cast that target CARDNAME cost an additional 3 life to cast.</source>
-        <target state="translated">对手施放之以峰顶惧龙为目标的咒语须额外支付3点生命来施放。</target>
+        <target state="translated">对手施放之以CARDNAME为目标的咒语须额外支付3点生命来施放。</target>
       </trans-unit>
       <trans-unit id="432ecd5f-966f-4403-a973-51e175a524a0" resname="M21·164 | Terror of the Peaks | Card Text | Paragraph 3">
         <source>Whenever another creature enters the battlefield under your control, CARDNAME deals damage equal to that creature's power to any target.</source>
-        <target state="translated">每当另一个生物在你的操控下进战场时，峰顶惧龙对任意一个目标造成伤害，其数量等同于进战场生物之力量。</target>
+        <target state="translated">每当另一个生物在你的操控下进战场时，CARDNAME对任意一个目标造成伤害，其数量等同于进战场生物之力量。</target>
       </trans-unit>
       <trans-unit id="ab7052f1-9736-47b6-9da3-8c5ca925ab54" resname="M21·166 | Traitorous Greed | Card Name">
         <source>Traitorous Greed</source>
@@ -1413,7 +1413,7 @@
       </trans-unit>
       <trans-unit id="a31b6817-9b63-4d6f-a945-459b44ad184c" resname="M21·172 | Volcanic Salvo | Card Text | Paragraph 2">
         <source>CARDNAME deals 6 damage to each of up to two target creatures and/or planeswalkers.</source>
-        <target state="translated">火山迸发对至多两个目标生物和／或鹏洛客各造成6点伤害。</target>
+        <target state="translated">CARDNAME对至多两个目标生物和／或鹏洛客各造成6点伤害。</target>
       </trans-unit>
       <trans-unit id="3d0ec3bd-d894-4861-abcb-7b2e4f4de05c" resname="M21·174 | Burlfist Oak | Card Name">
         <source>Burlfist Oak</source>
@@ -1421,7 +1421,7 @@
       </trans-unit>
       <trans-unit id="3d0ec3bd-d894-4861-abcb-7b2e4f4de05c" resname="M21·174 | Burlfist Oak | Card Text | Paragraph 1">
         <source>Whenever you draw a card, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">每当你抓一张牌时，瘤拳橡树得+2/+2直到回合结束。</target>
+        <target state="translated">每当你抓一张牌时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a3f6a13a-ab38-49d1-8712-f9c9135a23c8" resname="M21·175 | Canopy Stalker | Card Name">
         <source>Canopy Stalker</source>
@@ -1429,11 +1429,11 @@
       </trans-unit>
       <trans-unit id="a3f6a13a-ab38-49d1-8712-f9c9135a23c8" resname="M21·175 | Canopy Stalker | Card Text | Paragraph 1">
         <source>CARDNAME must be blocked if able.</source>
-        <target state="translated">若能阻挡树冠伏猫，则必须阻挡之。</target>
+        <target state="translated">若能阻挡CARDNAME，则必须阻挡之。</target>
       </trans-unit>
       <trans-unit id="a3f6a13a-ab38-49d1-8712-f9c9135a23c8" resname="M21·175 | Canopy Stalker | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you gain 1 life for each creature that died this turn.</source>
-        <target state="translated">当树冠伏猫死去时，本回合中每有一个生物死去，你便获得1点生命。</target>
+        <target state="translated">当CARDNAME死去时，本回合中每有一个生物死去，你便获得1点生命。</target>
       </trans-unit>
       <trans-unit id="288b056a-ea80-4fdc-990d-0ee1e9a7bf64" resname="M21·178 | Drowsing Tyrannodon | Card Name">
         <source>Drowsing Tyrannodon</source>
@@ -1447,7 +1447,7 @@
       </trans-unit>
       <trans-unit id="288b056a-ea80-4fdc-990d-0ee1e9a7bf64" resname="M21·178 | Drowsing Tyrannodon | Card Text | Paragraph 2">
         <source>As long as you control a creature with power 4 or greater, CARDNAME can attack as though it didn't have defender.</source>
-        <target state="translated">只要你操控力量等于或大于4的生物，昏睡暴伟龙便能视同不具守军异能地进行攻击。</target>
+        <target state="translated">只要你操控力量等于或大于4的生物，CARDNAME便能视同不具守军异能地进行攻击。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="d51269cf-a333-4a64-94cd-245798d840d2" resname="M21·179 | Elder Gargaroth | Card Name">
@@ -1460,7 +1460,7 @@
       </trans-unit>
       <trans-unit id="d51269cf-a333-4a64-94cd-245798d840d2" resname="M21·179 | Elder Gargaroth | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks or blocks, choose one —</source>
-        <target state="translated">每当年长庞巨兽攻击或阻挡时，选择一项～</target>
+        <target state="translated">每当CARDNAME攻击或阻挡时，选择一项～</target>
       </trans-unit>
       <trans-unit id="d51269cf-a333-4a64-94cd-245798d840d2" resname="M21·179 | Elder Gargaroth | Card Text | Paragraph 3">
         <source>• Create a 3/3 green Beast creature token.</source>
@@ -1506,7 +1506,7 @@
       </trans-unit>
       <trans-unit id="af2fdbec-bca2-4af5-9c2a-28b0b35b18a3" resname="M21·183 | Garruk, Unleashed | Card Text | Paragraph 2">
         <source>[−2]: Create a 3/3 green Beast creature token. Then if an opponent controls more creatures than you, put a loyalty counter on CARDNAME.</source>
-        <target state="translated">-2：派出一个3/3绿色野兽衍生生物。然后如果任一对手操控的生物比你多，则在无拘贾路上放置一个忠诚指示物。</target>
+        <target state="translated">-2：派出一个3/3绿色野兽衍生生物。然后如果任一对手操控的生物比你多，则在CARDNAME上放置一个忠诚指示物。</target>
       </trans-unit>
       <trans-unit id="af2fdbec-bca2-4af5-9c2a-28b0b35b18a3" resname="M21·183 | Garruk, Unleashed | Card Text | Paragraph 3">
         <source>[−7]: You get an emblem with &amp;quot;At the beginning of your end step, you may search your library for a creature card, put it onto the battlefield, then shuffle.&amp;quot;</source>
@@ -1526,7 +1526,7 @@
       </trans-unit>
       <trans-unit id="9e0fa0b6-5f3f-4669-84e8-2c38c9593d88" resname="M21·185 | Garruk's Harbinger | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player or planeswalker, look at that many cards from the top of your library. You may reveal a creature card or Garruk planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">每当贾路的开路兽对任一牌手或鹏洛客造成战斗伤害时，检视你牌库顶等量的牌。你可以展示其中的一张生物牌或贾路鹏洛客牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
+        <target state="translated">每当CARDNAME对任一牌手或鹏洛客造成战斗伤害时，检视你牌库顶等量的牌。你可以展示其中的一张生物牌或贾路鹏洛客牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="71a4860a-8bb6-45c0-b00a-b4a42da33ab9" resname="M21·186 | Garruk's Uprising | Card Name">
         <source>Garruk's Uprising</source>
@@ -1535,7 +1535,7 @@
       </trans-unit>
       <trans-unit id="71a4860a-8bb6-45c0-b00a-b4a42da33ab9" resname="M21·186 | Garruk's Uprising | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, if you control a creature with power 4 or greater, draw a card.</source>
-        <target state="translated">当贾路的反抗进战场时，若你操控力量等于或大于4的生物，则抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，若你操控力量等于或大于4的生物，则抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自WOT（2023-09-08）；</note>
       </trans-unit>
       <trans-unit id="71a4860a-8bb6-45c0-b00a-b4a42da33ab9" resname="M21·186 | Garruk's Uprising | Card Text | Paragraph 2">
@@ -1558,7 +1558,7 @@
       </trans-unit>
       <trans-unit id="5f22116a-8b6a-4bbe-999f-7329e1e2b2d9" resname="M21·187 | Gnarled Sage | Card Text | Paragraph 2">
         <source>As long as you've drawn two or more cards this turn, CARDNAME gets +0/+2 and has vigilance. (Attacking doesn't cause it to tap.)</source>
-        <target state="translated">只要你本回合中已抓两张或更多牌，糙节智者便得+0/+2且具有警戒异能。（它攻击时不需横置。）</target>
+        <target state="translated">只要你本回合中已抓两张或更多牌，CARDNAME便得+0/+2且具有警戒异能。（它攻击时不需横置。）</target>
       </trans-unit>
       <trans-unit id="7c08c80f-f27c-4e3a-b048-143aea740096" resname="M21·189 | Hunter's Edge | Card Name">
         <source>Hunter's Edge</source>
@@ -1599,7 +1599,7 @@
       </trans-unit>
       <trans-unit id="d6e23afa-7e08-4049-baf0-d4d0134ba2c8" resname="M21·193 | Llanowar Visionary | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当罗堰幻视师进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="d6e23afa-7e08-4049-baf0-d4d0134ba2c8" resname="M21·193 | Llanowar Visionary | Card Text | Paragraph 2">
         <source>{T}: Add {G}.</source>
@@ -1617,7 +1617,7 @@
       </trans-unit>
       <trans-unit id="c2c4a0e7-9ca4-4291-94de-165cc2ded822" resname="M21·194 | Ornery Dilophosaur | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, if you control a creature with power 4 or greater, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">每当暴躁双冠龙攻击时，若你操控力量等于或大于4的生物，则暴躁双冠龙得+2/+2直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，若你操控力量等于或大于4的生物，则CARDNAME得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="df520254-0c72-496b-9222-263ca9d3c5d5" resname="M21·196 | Pridemalkin | Card Name">
@@ -1627,7 +1627,7 @@
       </trans-unit>
       <trans-unit id="df520254-0c72-496b-9222-263ca9d3c5d5" resname="M21·196 | Pridemalkin | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on target creature you control.</source>
-        <target state="translated">当高傲斑猫进战场时，在目标由你操控的生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在目标由你操控的生物上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="df520254-0c72-496b-9222-263ca9d3c5d5" resname="M21·196 | Pridemalkin | Card Text | Paragraph 2">
@@ -1657,7 +1657,7 @@
       </trans-unit>
       <trans-unit id="fe39e38e-76e5-4883-b530-d3e30e88ccad" resname="M21·202 | Sabertooth Mauler | Card Text | Paragraph 1">
         <source>At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on CARDNAME and untap it.</source>
-        <target state="translated">在你的结束步骤开始时，若本回合中有生物死去，则在撕咬剑齿虎上放置一个+1/+1指示物并重置它。</target>
+        <target state="translated">在你的结束步骤开始时，若本回合中有生物死去，则在CARDNAME上放置一个+1/+1指示物并重置它。</target>
       </trans-unit>
       <trans-unit id="5ca28cfd-1a1b-4176-8b07-993d3d7b7ae4" resname="M21·203 | Sanctum of Fruitful Harvest | Card Name">
         <source>Sanctum of Fruitful Harvest</source>
@@ -1677,7 +1677,7 @@
       </trans-unit>
       <trans-unit id="1776f5b4-1292-460f-9719-e1b603cee46c" resname="M21·206 | Skyway Sniper | Card Text | Paragraph 2">
         <source>{2}{G}: CARDNAME deals 1 damage to target creature with flying.</source>
-        <target state="translated">{2}{G}：天路神射手对目标具飞行异能的生物造成1点伤害。</target>
+        <target state="translated">{2}{G}：CARDNAME对目标具飞行异能的生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="e6ab63c8-0adc-4d74-aee5-a58ce5c0dad8" resname="M21·208 | Sporeweb Weaver | Card Name">
         <source>Sporeweb Weaver</source>
@@ -1689,7 +1689,7 @@
       </trans-unit>
       <trans-unit id="e6ab63c8-0adc-4d74-aee5-a58ce5c0dad8" resname="M21·208 | Sporeweb Weaver | Card Text | Paragraph 2">
         <source>Whenever CARDNAME is dealt damage, you gain 1 life and create a 1/1 green Saproling creature token.</source>
-        <target state="translated">每当孢网编蛛受到伤害时，你获得1点生命并派出一个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">每当CARDNAME受到伤害时，你获得1点生命并派出一个1/1绿色腐生物衍生生物。</target>
       </trans-unit>
       <trans-unit id="b41b6c8a-bd76-4b69-ae72-4c8acac379b4" resname="M21·211 | Track Down | Card Name">
         <source>Track Down</source>
@@ -1705,11 +1705,11 @@
       </trans-unit>
       <trans-unit id="8bba47c1-a874-456e-bea3-e99e2d61cfba" resname="M21·212 | Trufflesnout | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one —</source>
-        <target state="translated">当掘菌野猪进战场时，选择一项～</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～</target>
       </trans-unit>
       <trans-unit id="8bba47c1-a874-456e-bea3-e99e2d61cfba" resname="M21·212 | Trufflesnout | Card Text | Paragraph 2">
         <source>• Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">•在掘菌野猪上放置一个+1/+1指示物。</target>
+        <target state="translated">•在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="8bba47c1-a874-456e-bea3-e99e2d61cfba" resname="M21·212 | Trufflesnout | Card Text | Paragraph 3">
         <source>• You gain 4 life.</source>
@@ -1725,7 +1725,7 @@
       </trans-unit>
       <trans-unit id="f1d81cfc-cff8-4478-92b6-efbfc5084165" resname="M21·213 | Warden of the Woods | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes the target of a spell or ability an opponent controls, you may draw two cards.</source>
-        <target state="translated">每当护林树妖成为由对手操控之咒语或异能的目标时，你可以抓两张牌。</target>
+        <target state="translated">每当CARDNAME成为由对手操控之咒语或异能的目标时，你可以抓两张牌。</target>
       </trans-unit>
       <trans-unit id="46ff0b33-d153-4b0e-ac48-7e5ed70dea09" resname="M21·214 | Wildwood Scourge | Card Name">
         <source>Wildwood Scourge</source>
@@ -1734,12 +1734,12 @@
       </trans-unit>
       <trans-unit id="46ff0b33-d153-4b0e-ac48-7e5ed70dea09" resname="M21·214 | Wildwood Scourge | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">野林祸害进战场时上面有X个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="46ff0b33-d153-4b0e-ac48-7e5ed70dea09" resname="M21·214 | Wildwood Scourge | Card Text | Paragraph 2">
         <source>Whenever one or more +1/+1 counters are put on another non-Hydra creature you control, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当在另一个由你操控的非多头龙生物上放置一个或数个+1/+1指示物时，在野林祸害上放置一个+1/+1指示物。</target>
+        <target state="translated">每当在另一个由你操控的非多头龙生物上放置一个或数个+1/+1指示物时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="43224e74-2c51-40bd-bc34-f66e990a3e33" resname="M21·215 | Alpine Houndmaster | Card Name">
@@ -1748,11 +1748,11 @@
       </trans-unit>
       <trans-unit id="43224e74-2c51-40bd-bc34-f66e990a3e33" resname="M21·215 | Alpine Houndmaster | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a card named Alpine Watchdog and/or a card named Igneous Cur, reveal them, put them into your hand, then shuffle.</source>
-        <target state="translated">当山地驯犬师进战场时，你可以从你的牌库中搜寻一张名称为山地看护犬的牌和／或一张名称为火热杂狗的牌，展示它们，将它们置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库中搜寻一张名称为山地看护犬的牌和／或一张名称为火热杂狗的牌，展示它们，将它们置于你手上，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="43224e74-2c51-40bd-bc34-f66e990a3e33" resname="M21·215 | Alpine Houndmaster | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, it gets +X/+0 until end of turn, where X is the number of other attacking creatures.</source>
-        <target state="translated">每当山地驯犬师攻击时，它得+X/+0直到回合结束，X为其他进行攻击的生物数量。</target>
+        <target state="translated">每当CARDNAME攻击时，它得+X/+0直到回合结束，X为其他进行攻击的生物数量。</target>
       </trans-unit>
       <trans-unit id="a328a93a-e720-46d5-a190-cc65d1c90cea" resname="M21·216 | Conclave Mentor | Card Name">
         <source>Conclave Mentor</source>
@@ -1766,7 +1766,7 @@
       </trans-unit>
       <trans-unit id="a328a93a-e720-46d5-a190-cc65d1c90cea" resname="M21·216 | Conclave Mentor | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you gain life equal to its power.</source>
-        <target state="translated">当盟会导师死去时，你获得等同于其力量的生命。</target>
+        <target state="translated">当CARDNAME死去时，你获得等同于其力量的生命。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="1fa781df-859f-4346-9424-b3713b17e1f6" resname="M21·217 | Dire Fleet Warmonger | Card Name">
@@ -1775,7 +1775,7 @@
       </trans-unit>
       <trans-unit id="1fa781df-859f-4346-9424-b3713b17e1f6" resname="M21·217 | Dire Fleet Warmonger | Card Text | Paragraph 1">
         <source>At the beginning of combat on your turn, you may sacrifice another creature. If you do, CARDNAME gets +2/+2 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)</source>
-        <target state="translated">在你回合的战斗开始时，你可以牺牲另一个生物。若你如此作，则直到回合结束，焦炬舰队好战者得+2/+2且获得践踏异能。（它造成之过量战斗伤害能对所攻击的牌手或鹏洛客造成之。）</target>
+        <target state="translated">在你回合的战斗开始时，你可以牺牲另一个生物。若你如此作，则直到回合结束，CARDNAME得+2/+2且获得践踏异能。（它造成之过量战斗伤害能对所攻击的牌手或鹏洛客造成之。）</target>
       </trans-unit>
       <trans-unit id="6f1bace4-a327-4eb6-a6ef-8394e76c06b7" resname="M21·218 | Experimental Overload | Card Name">
         <source>Experimental Overload</source>
@@ -1783,7 +1783,7 @@
       </trans-unit>
       <trans-unit id="6f1bace4-a327-4eb6-a6ef-8394e76c06b7" resname="M21·218 | Experimental Overload | Card Text | Paragraph 1">
         <source>Create an X/X blue and red Weird creature token, where X is the number of instant and sorcery cards in your graveyard. Then you may return an instant or sorcery card from your graveyard to your hand. Exile CARDNAME.</source>
-        <target state="translated">派出一个X/X，蓝红双色的怪奇衍生生物，X为你坟墓场中瞬间与法术牌的数量加总。然后你可以将一张瞬间或法术牌从你的坟墓场移回你手上。放逐实验性过载。</target>
+        <target state="translated">派出一个X/X，蓝红双色的怪奇衍生生物，X为你坟墓场中瞬间与法术牌的数量加总。然后你可以将一张瞬间或法术牌从你的坟墓场移回你手上。放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="642e0c48-1f77-41e0-abbe-f570b757cd66" resname="M21·219 | Indulging Patrician | Card Name">
         <source>Indulging Patrician</source>
@@ -1811,7 +1811,7 @@
       </trans-unit>
       <trans-unit id="7bd3a903-23e0-4b5a-9c7e-390d5ced8371" resname="M21·220 | Leafkin Avenger | Card Text | Paragraph 2">
         <source>{7}{R}: CARDNAME deals damage equal to its power to target player or planeswalker.</source>
-        <target state="translated">{7}{R}：复仇叶身对目标牌手或鹏洛客造成伤害，其数量等同于前者的力量。</target>
+        <target state="translated">{7}{R}：CARDNAME对目标牌手或鹏洛客造成伤害，其数量等同于前者的力量。</target>
       </trans-unit>
       <trans-unit id="e21827eb-fa49-4784-a86b-aef164a5018e" resname="M21·222 | Niambi, Esteemed Speaker | Card Name">
         <source>Niambi, Esteemed Speaker</source>
@@ -1823,7 +1823,7 @@
       </trans-unit>
       <trans-unit id="e21827eb-fa49-4784-a86b-aef164a5018e" resname="M21·222 | Niambi, Esteemed Speaker | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may return another target creature you control to its owner's hand. If you do, you gain life equal to that creature's mana value.</source>
-        <target state="translated">当尊贵议长妮安碧进战场时，你可以将另一个目标由你操控的生物移回其拥有者手上。若你如此作，则你获得等同于该生物总法术力费用的生命。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将另一个目标由你操控的生物移回其拥有者手上。若你如此作，则你获得等同于该生物总法术力费用的生命。</target>
       </trans-unit>
       <trans-unit id="e21827eb-fa49-4784-a86b-aef164a5018e" resname="M21·222 | Niambi, Esteemed Speaker | Card Text | Paragraph 3">
         <source>{1}{W}{U}, {T}, Discard a legendary card: Draw two cards.</source>
@@ -1841,7 +1841,7 @@
       </trans-unit>
       <trans-unit id="e449f985-d149-49eb-87d9-7a325215f82d" resname="M21·223 | Obsessive Stitcher | Card Text | Paragraph 2">
         <source>{2}{U}{B}, {T}, Sacrifice CARDNAME: Return target creature card from your graveyard to the battlefield.</source>
-        <target state="translated">{2}{U}{B}，{T}，牺牲偏执拼接师：将目标生物牌从你的坟墓场移回战场。</target>
+        <target state="translated">{2}{U}{B}，{T}，牺牲CARDNAME：将目标生物牌从你的坟墓场移回战场。</target>
         <note xmlns:from="developer">中文数据来自AFC（2021-07-23）；</note>
       </trans-unit>
       <trans-unit id="2bbd37b1-49cb-4295-9a1f-fb85368a8f12" resname="M21·224 | Radha, Heart of Keld | Card Name">
@@ -1850,7 +1850,7 @@
       </trans-unit>
       <trans-unit id="2bbd37b1-49cb-4295-9a1f-fb85368a8f12" resname="M21·224 | Radha, Heart of Keld | Card Text | Paragraph 1">
         <source>As long as it's your turn, CARDNAME has first strike.</source>
-        <target state="translated">只要是在你的回合中，凯尔顿之心拉妲便具有先攻异能。</target>
+        <target state="translated">只要是在你的回合中，CARDNAME便具有先攻异能。</target>
       </trans-unit>
       <trans-unit id="2bbd37b1-49cb-4295-9a1f-fb85368a8f12" resname="M21·224 | Radha, Heart of Keld | Card Text | Paragraph 2">
         <source>You may look at the top card of your library any time, and you may play lands from the top of your library.</source>
@@ -1896,7 +1896,7 @@
       </trans-unit>
       <trans-unit id="354b9ea4-3d55-48cc-b426-c46b1d1bb397" resname="M21·227 | Watcher of the Spheres | Card Text | Paragraph 3">
         <source>Whenever another creature with flying enters the battlefield under your control, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">每当另一个具飞行异能的生物在你的操控下进战场时，护球守卫得+1/+1直到回合结束。</target>
+        <target state="translated">每当另一个具飞行异能的生物在你的操控下进战场时，CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="3af78d76-ad5c-44ba-880d-b834bcde5398" resname="M21·228 | Chromatic Orrery | Card Name">
         <source>Chromatic Orrery</source>
@@ -1924,7 +1924,7 @@
       </trans-unit>
       <trans-unit id="1e01bcb4-e823-4da5-b433-e75be3356367" resname="M21·229 | Chrome Replicator | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, if you control two or more nonland, nontoken permanents with the same name as one another, create a 4/4 colorless Construct artifact creature token.</source>
-        <target state="translated">当铬亮摹形械进战场时，若在所有由你操控且既非地也非衍生物的永久物中，具相同名称者有两个或更多，则派出一个4/4无色组构体衍生神器生物。</target>
+        <target state="translated">当CARDNAME进战场时，若在所有由你操控且既非地也非衍生物的永久物中，具相同名称者有两个或更多，则派出一个4/4无色组构体衍生神器生物。</target>
       </trans-unit>
       <trans-unit id="3bd39a06-c53a-42c2-b2df-028358f03406" resname="M21·231 | Forgotten Sentinel | Card Name">
         <source>Forgotten Sentinel</source>
@@ -1932,7 +1932,7 @@
       </trans-unit>
       <trans-unit id="3bd39a06-c53a-42c2-b2df-028358f03406" resname="M21·231 | Forgotten Sentinel | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">遗世哨卫须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="9fd761f3-6b43-4150-8595-dc3abd85b06c" resname="M21·232 | Mazemind Tome | Card Name">
         <source>Mazemind Tome</source>
@@ -1941,17 +1941,17 @@
       </trans-unit>
       <trans-unit id="9fd761f3-6b43-4150-8595-dc3abd85b06c" resname="M21·232 | Mazemind Tome | Card Text | Paragraph 1">
         <source>{T}, Put a page counter on CARDNAME: Scry 1.</source>
-        <target state="translated">{T}，在晦涩巨著上放置一个书页指示物：占卜1。</target>
+        <target state="translated">{T}，在CARDNAME上放置一个书页指示物：占卜1。</target>
         <note xmlns:from="developer">中文数据来自BRR（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="9fd761f3-6b43-4150-8595-dc3abd85b06c" resname="M21·232 | Mazemind Tome | Card Text | Paragraph 2">
         <source>{2}, {T}, Put a page counter on CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，{T}，在晦涩巨著上放置一个书页指示物：抓一张牌。</target>
+        <target state="translated">{2}，{T}，在CARDNAME上放置一个书页指示物：抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自BRR（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="9fd761f3-6b43-4150-8595-dc3abd85b06c" resname="M21·232 | Mazemind Tome | Card Text | Paragraph 3">
         <source>When there are four or more page counters on CARDNAME, exile it. If you do, you gain 4 life.</source>
-        <target state="translated">当晦涩巨著上有四个或更多书页指示物时，将它放逐。若你如此作，则你获得4点生命。</target>
+        <target state="translated">当CARDNAME上有四个或更多书页指示物时，将它放逐。若你如此作，则你获得4点生命。</target>
         <note xmlns:from="developer">中文数据来自BRR（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="ad357ed4-b4f2-45b5-b7c4-3c6013a4ea3d" resname="M21·240 | Sparkhunter Masticore | Card Name">
@@ -1968,11 +1968,11 @@
       </trans-unit>
       <trans-unit id="ad357ed4-b4f2-45b5-b7c4-3c6013a4ea3d" resname="M21·240 | Sparkhunter Masticore | Card Text | Paragraph 3">
         <source>{1}: CARDNAME deals 1 damage to target planeswalker.</source>
-        <target state="translated">{1}：猎火花异狮对目标鹏洛客造成1点伤害。</target>
+        <target state="translated">{1}：CARDNAME对目标鹏洛客造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="ad357ed4-b4f2-45b5-b7c4-3c6013a4ea3d" resname="M21·240 | Sparkhunter Masticore | Card Text | Paragraph 4">
         <source>{3}: CARDNAME gains indestructible until end of turn.</source>
-        <target state="translated">{3}：猎火花异狮获得不灭异能直到回合结束。</target>
+        <target state="translated">{3}：CARDNAME获得不灭异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f8d7a2c7-666d-4fc6-bac8-ef8eb66e355d" resname="M21·242 | Animal Sanctuary | Card Name">
         <source>Animal Sanctuary</source>
@@ -2000,7 +2000,7 @@
       </trans-unit>
       <trans-unit id="d605c780-a42a-4816-8fb9-63e3114a8246" resname="M21·278 | Rin and Seri, Inseparable | Card Text | Paragraph 3">
         <source>{R}{G}{W}, {T}: CARDNAME deals damage to any target equal to the number of Dogs you control. You gain life equal to the number of Cats you control.</source>
-        <target state="translated">{R}{G}{W}，{T}：林恩与瑟黎永不离对任意一个目标造成等同于由你操控之狗数量的伤害。你获得等同于由你操控之猫数量的生命。</target>
+        <target state="translated">{R}{G}{W}，{T}：CARDNAME对任意一个目标造成等同于由你操控之狗数量的伤害。你获得等同于由你操控之猫数量的生命。</target>
       </trans-unit>
       <trans-unit id="2688b45d-9d74-4d9f-9a63-29c82b48d64f" resname="M21·320 | Basri, Devoted Paladin | Card Name">
         <source>Basri, Devoted Paladin</source>
@@ -2024,7 +2024,7 @@
       </trans-unit>
       <trans-unit id="ce2bc7ad-458d-445e-a0a9-7897b596fdd0" resname="M21·321 | Adherent of Hope | Card Text | Paragraph 1">
         <source>At the beginning of combat on your turn, if you control a Basri planeswalker, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">在你回合的战斗开始时，若你操控巴席利鹏洛客，则在希望吏士上放置一个+1/+1指示物。</target>
+        <target state="translated">在你回合的战斗开始时，若你操控巴席利鹏洛客，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="577657ed-162f-4104-b0af-ee9733e90f20" resname="M21·322 | Basri's Aegis | Card Name">
         <source>Basri's Aegis</source>
@@ -2040,7 +2040,7 @@
       </trans-unit>
       <trans-unit id="5ba81e67-8fa5-441c-bf14-2d75c168a617" resname="M21·323 | Sigiled Contender | Card Text | Paragraph 1">
         <source>CARDNAME has lifelink as long as it has a +1/+1 counter on it. (Damage dealt by this creature also causes you to gain that much life.)</source>
-        <target state="translated">只要受印竞争者上面有+1/+1指示物，它便具有系命异能。（此生物所造成的伤害会让你获得等量的生命。）</target>
+        <target state="translated">只要CARDNAME上面有+1/+1指示物，它便具有系命异能。（此生物所造成的伤害会让你获得等量的生命。）</target>
       </trans-unit>
       <trans-unit id="62d05287-ad7f-4de8-9f68-8f36c62fae72" resname="M21·324 | Teferi, Timeless Voyager | Card Name">
         <source>Teferi, Timeless Voyager</source>
@@ -2064,7 +2064,7 @@
       </trans-unit>
       <trans-unit id="ae981da0-f32c-49d5-bcb0-2b9255a4e1fe" resname="M21·325 | Historian of Zhalfir | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, if you control a Teferi planeswalker, draw a card.</source>
-        <target state="translated">每当赛费尔史家攻击时，若你操控泰菲力鹏洛客，则抓一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，若你操控泰菲力鹏洛客，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="0002ab72-834b-4c81-82b1-0d2760ea96b0" resname="M21·326 | Mystic Skyfish | Card Name">
         <source>Mystic Skyfish</source>
@@ -2073,7 +2073,7 @@
       </trans-unit>
       <trans-unit id="0002ab72-834b-4c81-82b1-0d2760ea96b0" resname="M21·326 | Mystic Skyfish | Card Text | Paragraph 1">
         <source>Whenever you draw your second card each turn, CARDNAME gains flying until end of turn.</source>
-        <target state="translated">每当你抓每回合中你的第二张牌时，神秘飞鱼获得飞行异能直到回合结束。</target>
+        <target state="translated">每当你抓每回合中你的第二张牌时，CARDNAME获得飞行异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="d67e4c42-a44f-456b-87e7-21ca56dc4630" resname="M21·327 | Teferi's Wavecaster | Card Name">
@@ -2086,7 +2086,7 @@
       </trans-unit>
       <trans-unit id="d67e4c42-a44f-456b-87e7-21ca56dc4630" resname="M21·327 | Teferi's Wavecaster | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timeless Voyager, reveal it, and put it into your hand. If you search your library this way, shuffle.</source>
-        <target state="translated">当泰菲力的唤浪师进战场时，你可以从你的牌库和／或坟墓场中搜寻一张名称为历时旅客泰菲力的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库和／或坟墓场中搜寻一张名称为历时旅客泰菲力的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。</target>
       </trans-unit>
       <trans-unit id="921e3dc3-f8eb-4498-a6a8-b424952230cd" resname="M21·328 | Liliana, Death Mage | Card Name">
         <source>Liliana, Death Mage</source>
@@ -2126,7 +2126,7 @@
       </trans-unit>
       <trans-unit id="cf3765b7-11e2-4837-b5e5-ca24adc0e33c" resname="M21·331 | Spirit of Malevolence | Card Text | Paragraph 1">
         <source>When CARDNAME dies, each opponent loses 1 life and you gain 1 life.</source>
-        <target state="translated">当恶灵死去时，每位对手各失去1点生命，且你获得1点生命。</target>
+        <target state="translated">当CARDNAME死去时，每位对手各失去1点生命，且你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="1e49ce44-5286-4310-88c2-f8a1402b113b" resname="M21·332 | Chandra, Flame's Catalyst | Card Name">
         <source>Chandra, Flame's Catalyst</source>
@@ -2134,7 +2134,7 @@
       </trans-unit>
       <trans-unit id="1e49ce44-5286-4310-88c2-f8a1402b113b" resname="M21·332 | Chandra, Flame's Catalyst | Card Text | Paragraph 1">
         <source>[+1]: CARDNAME deals 3 damage to each opponent.</source>
-        <target state="translated">+1：兴焰热火茜卓向每位对手各造成3点伤害。</target>
+        <target state="translated">+1：CARDNAME向每位对手各造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="1e49ce44-5286-4310-88c2-f8a1402b113b" resname="M21·332 | Chandra, Flame's Catalyst | Card Text | Paragraph 2">
         <source>[−2]: You may cast target red instant or sorcery card from your graveyard. If that spell would be put into your graveyard, exile it instead.</source>
@@ -2154,7 +2154,7 @@
       </trans-unit>
       <trans-unit id="76cf0b50-155f-4e65-9e48-88b378ad93a1" resname="M21·333 | Chandra's Firemaw | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may search your library and/or graveyard for a card named Chandra, Flame's Catalyst, reveal it, and put it into your hand. If you search your library this way, shuffle.</source>
-        <target state="translated">当茜卓的炎喉兽进战场时，你可以从你的牌库和／或坟墓场中搜寻一张名称为兴焰热火茜卓的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库和／或坟墓场中搜寻一张名称为兴焰热火茜卓的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。</target>
       </trans-unit>
       <trans-unit id="7b862e46-f5a2-4fce-98b5-2c5aa49ec648" resname="M21·334 | Keral Keep Disciples | Card Name">
         <source>Keral Keep Disciples</source>
@@ -2162,7 +2162,7 @@
       </trans-unit>
       <trans-unit id="7b862e46-f5a2-4fce-98b5-2c5aa49ec648" resname="M21·334 | Keral Keep Disciples | Card Text | Paragraph 1">
         <source>Whenever you activate a loyalty ability of a Chandra planeswalker, CARDNAME deals 1 damage to each opponent.</source>
-        <target state="translated">每当你起动茜卓鹏洛客的忠诚异能时，科瑞尔要塞学徒向每位对手各造成1点伤害。</target>
+        <target state="translated">每当你起动茜卓鹏洛客的忠诚异能时，CARDNAME向每位对手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="1b6d123c-c16d-43fa-b183-8a59c7e1a11e" resname="M21·335 | Storm Caller | Card Name">
         <source>Storm Caller</source>
@@ -2170,7 +2170,7 @@
       </trans-unit>
       <trans-unit id="1b6d123c-c16d-43fa-b183-8a59c7e1a11e" resname="M21·335 | Storm Caller | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 2 damage to each opponent.</source>
-        <target state="translated">当轰雷唤师进战场时，它向每位对手各造成2点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它向每位对手各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="48133629-4a5b-4c91-b496-2ee94f6cbc4c" resname="M21·336 | Garruk, Savage Herald | Card Name">
         <source>Garruk, Savage Herald</source>
@@ -2198,7 +2198,7 @@
       </trans-unit>
       <trans-unit id="d6099863-8d3d-44bf-8d3b-dc3602119617" resname="M21·337 | Garruk's Warsteed | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may search your library and/or graveyard for a card named Garruk, Savage Herald, reveal it, and put it into your hand. If you search your library this way, shuffle.</source>
-        <target state="translated">当贾路的战骑进战场时，你可以从你的牌库和／或坟墓场中搜寻一张名称为蛮力具现贾路的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库和／或坟墓场中搜寻一张名称为蛮力具现贾路的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。</target>
       </trans-unit>
       <trans-unit id="4073cbc6-11de-4d4a-bcd7-792f9b7c5219" resname="M21·338 | Predatory Wurm | Card Name">
         <source>Predatory Wurm</source>
@@ -2210,7 +2210,7 @@
       </trans-unit>
       <trans-unit id="4073cbc6-11de-4d4a-bcd7-792f9b7c5219" resname="M21·338 | Predatory Wurm | Card Text | Paragraph 2">
         <source>CARDNAME gets +2/+2 as long as you control a Garruk planeswalker.</source>
-        <target state="translated">只要你操控贾路鹏洛客，掠食亚龙便得+2/+2。</target>
+        <target state="translated">只要你操控贾路鹏洛客，CARDNAME便得+2/+2。</target>
       </trans-unit>
       <trans-unit id="cceaf927-261e-4d61-9fac-eb8abbe87593" resname="M21·339 | Wildwood Patrol | Card Name">
         <source>Wildwood Patrol</source>

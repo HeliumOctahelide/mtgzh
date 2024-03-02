@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit id="0fc18921-59f5-413f-a221-dc47d31b2ec8" resname="JMP·2 | Brightmare | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, tap up to one target creature. You gain life equal to that creature's power.</source>
-        <target state="translated">当明驹进战场时，横置至多一个目标生物。你获得等同于该生物力量的生命。</target>
+        <target state="translated">当CARDNAME进战场时，横置至多一个目标生物。你获得等同于该生物力量的生命。</target>
       </trans-unit>
       <trans-unit id="f74dfd07-d17c-4890-82c3-4b12a6029940" resname="JMP·3 | Emiel the Blessed | Card Name">
         <source>Emiel the Blessed</source>
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="5cd3287d-e4d8-4670-a2dd-b683055ae4b9" resname="JMP·6 | Stone Haven Pilgrim | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, if you control an artifact or enchantment, CARDNAME gets +1/+1 and gains lifelink until end of turn.</source>
-        <target state="translated">当石庇所朝圣客攻击时，若你操控神器或结界，则直到回合结束，石庇所朝圣客得+1/+1且获得系命异能。</target>
+        <target state="translated">当CARDNAME攻击时，若你操控神器或结界，则直到回合结束，CARDNAME得+1/+1且获得系命异能。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="5b43bdc7-e49e-4848-9101-6cad2ecab4dc" resname="JMP·10 | Bruvac the Grandiloquent | Card Name">
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="a9b016d4-ddf6-47d6-b934-a0b979b60680" resname="JMP·11 | Corsair Captain | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">当海盗船长进战场时，派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="a9b016d4-ddf6-47d6-b934-a0b979b60680" resname="JMP·11 | Corsair Captain | Card Text | Paragraph 2">
@@ -94,7 +94,7 @@
       </trans-unit>
       <trans-unit id="711412f1-9ab3-48b6-91a4-77232b416a32" resname="JMP·13 | Ormos, Archive Keeper | Card Text | Paragraph 2">
         <source>If you would draw a card while your library has no cards in it, instead put five +1/+1 counters on CARDNAME.</source>
-        <target state="translated">如果你将抓一张牌但牌库没有牌，则改为在档案守卫欧莫斯上放置五个+1/+1指示物。</target>
+        <target state="translated">如果你将抓一张牌但牌库没有牌，则改为在CARDNAME上放置五个+1/+1指示物。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="711412f1-9ab3-48b6-91a4-77232b416a32" resname="JMP·13 | Ormos, Archive Keeper | Card Text | Paragraph 3">
@@ -114,7 +114,7 @@
       </trans-unit>
       <trans-unit id="aa254a86-3c30-408d-9c14-befd472f9740" resname="JMP·14 | Scholar of the Lost Trove | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may cast target instant, sorcery, or artifact card from your graveyard without paying its mana cost. If an instant or sorcery spell cast this way would be put into your graveyard, exile it instead.</source>
-        <target state="translated">当遗珍学者进战场时，你可以从你的坟墓场中施放目标瞬间，法术或神器牌，且不需支付其法术力费用。如果以此法施放的瞬间或法术咒语本回合中将置入你的坟墓场，则改为将它放逐。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的坟墓场中施放目标瞬间，法术或神器牌，且不需支付其法术力费用。如果以此法施放的瞬间或法术咒语本回合中将置入你的坟墓场，则改为将它放逐。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="b70d445b-d3d6-4f7c-b9ea-bed6a26d4a2a" resname="JMP·15 | Kels, Fight Fixer | Card Name">
@@ -134,7 +134,7 @@
       </trans-unit>
       <trans-unit id="b70d445b-d3d6-4f7c-b9ea-bed6a26d4a2a" resname="JMP·15 | Kels, Fight Fixer | Card Text | Paragraph 3">
         <source>{1}, Sacrifice a creature: CARDNAME gains indestructible until end of turn.</source>
-        <target state="translated">{1}，牺牲一个生物：战斗操盘手凯尔斯获得不灭异能直到回合结束。</target>
+        <target state="translated">{1}，牺牲一个生物：CARDNAME获得不灭异能直到回合结束。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="487aced8-e018-4c93-8e13-bb68b43096a4" resname="JMP·16 | Nocturnal Feeder | Card Name">
@@ -149,7 +149,7 @@
       </trans-unit>
       <trans-unit id="487aced8-e018-4c93-8e13-bb68b43096a4" resname="JMP·16 | Nocturnal Feeder | Card Text | Paragraph 2">
         <source>When CARDNAME dies, each opponent loses 2 life and you gain 2 life.</source>
-        <target state="translated">当夜行噬血鬼死去时，每位对手各失去2点生命，且你获得2点生命。</target>
+        <target state="translated">当CARDNAME死去时，每位对手各失去2点生命，且你获得2点生命。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="4063be5b-bfd9-43c5-bc39-09a40bc793bf" resname="JMP·17 | Tinybones, Trinket Thief | Card Name">
@@ -189,12 +189,12 @@
       </trans-unit>
       <trans-unit id="1d4e5c23-3a7f-4a6b-99c4-6a1487a9b097" resname="JMP·19 | Chained Brute | Card Text | Paragraph 1">
         <source>CARDNAME doesn't untap during your untap step.</source>
-        <target state="translated">受链蛮魔于你的重置步骤中不能重置。</target>
+        <target state="translated">CARDNAME于你的重置步骤中不能重置。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="1d4e5c23-3a7f-4a6b-99c4-6a1487a9b097" resname="JMP·19 | Chained Brute | Card Text | Paragraph 2">
         <source>{1}, Sacrifice another creature: Untap CARDNAME. Activate only during your turn.</source>
-        <target state="translated">{1}，牺牲另一个生物：重置受链蛮魔。只能于你的回合中起动此异能。</target>
+        <target state="translated">{1}，牺牲另一个生物：重置CARDNAME。只能于你的回合中起动此异能。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="bd0b8aee-fbfb-470f-9ac2-64fce0b4b2fb" resname="JMP·20 | Immolating Gyre | Card Name">
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="bd0b8aee-fbfb-470f-9ac2-64fce0b4b2fb" resname="JMP·20 | Immolating Gyre | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature and planeswalker you don't control, where X is the number of instant and sorcery cards in your graveyard.</source>
-        <target state="translated">燃焰涡旋对每个不由你操控的生物和鹏洛客各造成X点伤害，X为你坟墓场中瞬间与法术牌的数量加总。</target>
+        <target state="translated">CARDNAME对每个不由你操控的生物和鹏洛客各造成X点伤害，X为你坟墓场中瞬间与法术牌的数量加总。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="b52a3f11-6d55-4492-9a2c-c128c09b3d77" resname="JMP·21 | Lightning Phoenix | Card Name">
@@ -219,12 +219,12 @@
       </trans-unit>
       <trans-unit id="b52a3f11-6d55-4492-9a2c-c128c09b3d77" resname="JMP·21 | Lightning Phoenix | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">闪电凤凰不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="b52a3f11-6d55-4492-9a2c-c128c09b3d77" resname="JMP·21 | Lightning Phoenix | Card Text | Paragraph 3">
         <source>At the beginning of your end step, if an opponent was dealt 3 or more damage this turn, you may pay {R}. If you do, return CARDNAME from your graveyard to the battlefield.</source>
-        <target state="translated">在你的结束步骤开始时，若本回合中有对手曾受到3点或更多伤害，则你可以支付{R}。若你如此作，则将闪电凤凰从你的坟墓场移回战场。</target>
+        <target state="translated">在你的结束步骤开始时，若本回合中有对手曾受到3点或更多伤害，则你可以支付{R}。若你如此作，则将CARDNAME从你的坟墓场移回战场。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="7e84379a-369e-4a9f-8c8b-bf47ab524c4e" resname="JMP·23 | Living Lightning | Card Name">
@@ -234,7 +234,7 @@
       </trans-unit>
       <trans-unit id="7e84379a-369e-4a9f-8c8b-bf47ab524c4e" resname="JMP·23 | Living Lightning | Card Text | Paragraph 1">
         <source>When CARDNAME dies, return target instant or sorcery card from your graveyard to your hand.</source>
-        <target state="translated">当生体闪电死去时，将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME死去时，将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="2c716d10-2130-43b7-a939-349d437e1091" resname="JMP·24 | Muxus, Goblin Grandee | Card Name">
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="2c716d10-2130-43b7-a939-349d437e1091" resname="JMP·24 | Muxus, Goblin Grandee | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, reveal the top six cards of your library. Put all Goblin creature cards with mana value 5 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.</source>
-        <target state="translated">当鬼怪要人穆克斯进战场时，展示你牌库顶的六张牌。将其中所有总法术力等于或小于5的鬼怪生物牌放进战场，其余则以随机顺序置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，展示你牌库顶的六张牌。将其中所有总法术力等于或小于5的鬼怪生物牌放进战场，其余则以随机顺序置于你的牌库底。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="2c716d10-2130-43b7-a939-349d437e1091" resname="JMP·24 | Muxus, Goblin Grandee | Card Text | Paragraph 2">
@@ -259,12 +259,12 @@
       </trans-unit>
       <trans-unit id="d59ee7a6-3dfa-44c7-8f00-0183137c4d31" resname="JMP·26 | Spiteful Prankster | Card Text | Paragraph 1">
         <source>As long as it's your turn, CARDNAME has first strike.</source>
-        <target state="translated">只要是在你的回合中，怨毒捣乱魔便具有先攻异能。</target>
+        <target state="translated">只要是在你的回合中，CARDNAME便具有先攻异能。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="d59ee7a6-3dfa-44c7-8f00-0183137c4d31" resname="JMP·26 | Spiteful Prankster | Card Text | Paragraph 2">
         <source>Whenever another creature dies, CARDNAME deals 1 damage to target player or planeswalker.</source>
-        <target state="translated">每当另一个生物死去时，怨毒捣乱魔对目标牌手或鹏洛客造成1点伤害。</target>
+        <target state="translated">每当另一个生物死去时，CARDNAME对目标牌手或鹏洛客造成1点伤害。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="3d94b4c3-7944-41b6-8c92-78fd6e50658d" resname="JMP·27 | Zurzoth, Chaos Rider | Card Name">
@@ -289,7 +289,7 @@
       </trans-unit>
       <trans-unit id="0ee4a931-5d61-49ba-affc-f022263938ca" resname="JMP·28 | Allosaurus Shepherd | Card Text | Paragraph 1">
         <source>This spell can't be countered.</source>
-        <target state="translated">异特龙牧者不能被反击。</target>
+        <target state="translated">CARDNAME不能被反击。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="0ee4a931-5d61-49ba-affc-f022263938ca" resname="JMP·28 | Allosaurus Shepherd | Card Text | Paragraph 2">
@@ -334,7 +334,7 @@
       </trans-unit>
       <trans-unit id="a2c3eac5-3354-44ce-97c2-bafce78433ca" resname="JMP·31 | Towering Titan | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it, where X is the total toughness of other creatures you control.</source>
-        <target state="translated">雄立泰坦进战场时上面有X个+1/+1指示物，X为由你操控之其他生物的防御力总和。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物，X为由你操控之其他生物的防御力总和。</target>
         <note xmlns:from="developer">速战系列无中文，但部分独有牌张的官方译名与规则文本附于核心系列2021的发布释疑中，在此给出。</note>
       </trans-unit>
       <trans-unit id="a2c3eac5-3354-44ce-97c2-bafce78433ca" resname="JMP·31 | Towering Titan | Card Text | Paragraph 2">

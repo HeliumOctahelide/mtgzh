@@ -45,7 +45,7 @@
       </trans-unit>
       <trans-unit id="84d602f4-5876-416a-95e5-821a285358bf" resname="ROE·5 | Hand of Emrakul | Card Text | Paragraph 1">
         <source>You may sacrifice four Eldrazi Spawn rather than pay this spell's mana cost.</source>
-        <target state="translated">你可以牺牲四个同时为奥札奇与后裔的永久物，而不支付伊莫库之手的法术力费用。</target>
+        <target state="translated">你可以牺牲四个同时为奥札奇与后裔的永久物，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="84d602f4-5876-416a-95e5-821a285358bf" resname="ROE·5 | Hand of Emrakul | Card Text | Paragraph 2">
         <source>Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)</source>
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="067fac91-2483-4678-b86a-2c54a3a480cf" resname="ROE·6 | Kozilek, Butcher of Truth | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.</source>
-        <target state="translated">当真理屠夫寇基雷从任何区域进入坟墓场时，其拥有者将其坟墓场洗入其牌库。</target>
+        <target state="translated">当CARDNAME从任何区域进入坟墓场时，其拥有者将其坟墓场洗入其牌库。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="34d790ad-3559-4c32-9057-e2e326740bdc" resname="ROE·7 | It That Betrays | Card Name">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="569e2c39-7a49-4a3b-afe5-1862a7da8026" resname="ROE·8 | Not of This World | Card Text | Paragraph 2">
         <source>This spell costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.</source>
-        <target state="translated">如果异界之物的目标是以由你操控、且力量为7或更大的生物为目标的咒语或异能，则它便减少{7}来施放。</target>
+        <target state="translated">如果CARDNAME的目标是以由你操控、且力量为7或更大的生物为目标的咒语或异能，则它便减少{7}来施放。</target>
       </trans-unit>
       <trans-unit id="3fdd84b5-fd93-483e-a131-028d04d9dea7" resname="ROE·9 | Pathrazer of Ulamog | Card Name">
         <source>Pathrazer of Ulamog</source>
@@ -107,7 +107,7 @@
       </trans-unit>
       <trans-unit id="3fdd84b5-fd93-483e-a131-028d04d9dea7" resname="ROE·9 | Pathrazer of Ulamog | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked except by three or more creatures.</source>
-        <target state="translated">钨拉莫夷径者只能被三个或更多生物阻挡。</target>
+        <target state="translated">CARDNAME只能被三个或更多生物阻挡。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="270f0e5b-2c46-4816-a195-cfce16570bde" resname="ROE·10 | Skittering Invasion | Card Name">
@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="225e3cc6-34d0-4f81-9f49-162d97e2ea59" resname="ROE·12 | Ulamog, the Infinite Gyre | Card Text | Paragraph 4">
         <source>When CARDNAME is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.</source>
-        <target state="translated">当无尽轮回钨拉莫从任何区域进入坟墓场时，其拥有者将其坟墓场洗入其牌库。</target>
+        <target state="translated">当CARDNAME从任何区域进入坟墓场时，其拥有者将其坟墓场洗入其牌库。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="76bacedb-9fa8-4a21-b0eb-e7ead64360b4" resname="ROE·13 | Ulamog's Crusher | Card Name">
@@ -171,7 +171,7 @@
       </trans-unit>
       <trans-unit id="76bacedb-9fa8-4a21-b0eb-e7ead64360b4" resname="ROE·13 | Ulamog's Crusher | Card Text | Paragraph 2">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">钨拉莫猛击手每次战斗若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每次战斗若能攻击，则必须攻击。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="85623f54-1c18-4b1e-a8da-df66de3832a6" resname="ROE·14 | Affa Guard Hound | Card Name">
@@ -186,7 +186,7 @@
       </trans-unit>
       <trans-unit id="85623f54-1c18-4b1e-a8da-df66de3832a6" resname="ROE·14 | Affa Guard Hound | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gets +0/+3 until end of turn.</source>
-        <target state="translated">当艾法守卫犬进战场时，目标生物得+0/+3直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得+0/+3直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="8452b0b7-8157-4a3f-8bef-a34e322b9463" resname="ROE·15 | Caravan Escort | Card Name">
@@ -277,7 +277,7 @@
       </trans-unit>
       <trans-unit id="e0440668-1b0e-437c-9e42-7166dd14dfe5" resname="ROE·21 | Gideon Jura | Card Text | Paragraph 1">
         <source>[+2]: During target opponent's next turn, creatures that player controls attack CARDNAME if able.</source>
-        <target state="translated">+2：于目标对手的下个回合中，由该牌手所操控的生物若能攻击基定尤拉，则必须攻击之。</target>
+        <target state="translated">+2：于目标对手的下个回合中，由该牌手所操控的生物若能攻击CARDNAME，则必须攻击之。</target>
         <note xmlns:from="developer">中文数据来自M12（2011-07-15）；</note>
       </trans-unit>
       <trans-unit id="e0440668-1b0e-437c-9e42-7166dd14dfe5" resname="ROE·21 | Gideon Jura | Card Text | Paragraph 2">
@@ -287,7 +287,7 @@
       </trans-unit>
       <trans-unit id="e0440668-1b0e-437c-9e42-7166dd14dfe5" resname="ROE·21 | Gideon Jura | Card Text | Paragraph 3">
         <source>[0]: Until end of turn, CARDNAME becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</source>
-        <target state="translated">0：直到回合结束，基定尤拉成为6/6的人类／士兵生物，且仍然是鹏洛客。 防止本回合中将对他造成的所有伤害。</target>
+        <target state="translated">0：直到回合结束，CARDNAME成为6/6的人类／士兵生物，且仍然是鹏洛客。 防止本回合中将对他造成的所有伤害。</target>
         <note xmlns:from="developer">中文数据来自M12（2011-07-15）；</note>
       </trans-unit>
       <trans-unit id="f77efd36-f9e7-4c34-a6ee-9e1c9b273fb7" resname="ROE·23 | Guard Duty | Card Name">
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit id="03066fa1-ea16-4a87-9218-120efa976909" resname="ROE·31 | Kor Spiritdancer | Card Text | Paragraph 1">
         <source>CARDNAME gets +2/+2 for each Aura attached to it.</source>
-        <target state="translated">寇族魂舞者上每结附一个灵气，便得+2/+2。</target>
+        <target state="translated">CARDNAME上每结附一个灵气，便得+2/+2。</target>
         <note xmlns:from="developer">中文数据来自BBD（2018-06-08）；</note>
       </trans-unit>
       <trans-unit id="03066fa1-ea16-4a87-9218-120efa976909" resname="ROE·31 | Kor Spiritdancer | Card Text | Paragraph 2">
@@ -490,7 +490,7 @@
       </trans-unit>
       <trans-unit id="5602b52a-5904-4780-9192-72990d07c975" resname="ROE·32 | Lightmine Field | Card Text | Paragraph 1">
         <source>Whenever one or more creatures attack, CARDNAME deals damage to each of those creatures equal to the number of attacking creatures.</source>
-        <target state="translated">每当一个或更多生物攻击时，光雷区对这些生物各造成伤害，其数量等同于进行攻击的生物数量。</target>
+        <target state="translated">每当一个或更多生物攻击时，CARDNAME对这些生物各造成伤害，其数量等同于进行攻击的生物数量。</target>
       </trans-unit>
       <trans-unit id="82b80a09-7e75-4091-a60e-04aff79339a3" resname="ROE·33 | Linvala, Keeper of Silence | Card Name">
         <source>Linvala, Keeper of Silence</source>
@@ -514,7 +514,7 @@
       </trans-unit>
       <trans-unit id="fdc00f4b-ca9a-468a-91e1-c81fe6585765" resname="ROE·34 | Lone Missionary | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 4 life.</source>
-        <target state="translated">当独行传教士进战场时，你获得4点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得4点生命。</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="4f8d5a36-cc29-47fc-bdf7-b753f3bc5197" resname="ROE·35 | Luminous Wake | Card Name">
@@ -696,7 +696,7 @@
       </trans-unit>
       <trans-unit id="1364a830-36b7-48b9-bf69-6fd35eed9399" resname="ROE·50 | Totem-Guide Hartebeest | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">当图腾导狷羚进战场时，你可以从你牌库中搜寻一张灵气牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张灵气牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="6b007f42-9ec2-466b-8d6b-1d55c516080b" resname="ROE·51 | Transcendent Master | Card Name">
@@ -705,7 +705,7 @@
       </trans-unit>
       <trans-unit id="6b007f42-9ec2-466b-8d6b-1d55c516080b" resname="ROE·51 | Transcendent Master | Card Text | Paragraphs">
         <source>Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 6-11\n6/6\nLifelink\nLEVEL 12+\n9/9\nLifelink, indestructible</source>
-        <target state="translated">升级{1} （{1}：在其上放置一个等级指示物。 升级的时机视同法术。）\n等级6-11\n6/6\n系命\n等级12+\n9/9\n系命\n超凡大师不会毁坏。</target>
+        <target state="translated">升级{1} （{1}：在其上放置一个等级指示物。 升级的时机视同法术。）\n等级6-11\n6/6\n系命\n等级12+\n9/9\n系命\nCARDNAME不会毁坏。</target>
       </trans-unit>
       <trans-unit id="a55705d3-8640-478e-ace4-f4f900d617c5" resname="ROE·52 | Umbra Mystic | Card Name">
         <source>Umbra Mystic</source>
@@ -727,7 +727,7 @@
       </trans-unit>
       <trans-unit id="6e3510f5-e450-400b-98ea-341dbf212054" resname="ROE·53 | Wall of Omens | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当预兆墙进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="0e398a02-1456-4fae-be75-4231c968bf47" resname="ROE·54 | Aura Finesse | Card Name">
@@ -760,7 +760,7 @@
       </trans-unit>
       <trans-unit id="7585316f-ba3d-4472-9a7e-7db6f6dd9d15" resname="ROE·56 | Champion's Drake | Card Text | Paragraph 2">
         <source>CARDNAME gets +3/+3 as long as you control a creature with three or more level counters on it.</source>
-        <target state="translated">只要你操控了其上有三个或更多等级指示物的生物，斗士龙兽便得+3/+3。</target>
+        <target state="translated">只要你操控了其上有三个或更多等级指示物的生物，CARDNAME便得+3/+3。</target>
       </trans-unit>
       <trans-unit id="4f8d1bea-58cd-4483-a70a-0330ad5ab4a1" resname="ROE·57 | Coralhelm Commander | Card Name">
         <source>Coralhelm Commander</source>
@@ -820,7 +820,7 @@
       </trans-unit>
       <trans-unit id="2efecdd9-bd3a-4b79-92da-6485589d5bde" resname="ROE·59 | Deprive | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, return a land you control to its owner's hand.</source>
-        <target state="translated">将由你操控的一个地移回其拥有者手上，以作为施放剥夺的额外费用。</target>
+        <target state="translated">将由你操控的一个地移回其拥有者手上，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="2efecdd9-bd3a-4b79-92da-6485589d5bde" resname="ROE·59 | Deprive | Card Text | Paragraph 2">
         <source>Counter target spell.</source>
@@ -858,7 +858,7 @@
       </trans-unit>
       <trans-unit id="e1f15831-8dfd-4232-875c-efa6744c9a12" resname="ROE·61 | Domestication | Card Text | Paragraph 3">
         <source>At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice CARDNAME.</source>
-        <target state="translated">在你的结束步骤开始时，若所结附生物的力量等于或大于4，则牺牲驯化。</target>
+        <target state="translated">在你的结束步骤开始时，若所结附生物的力量等于或大于4，则牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="131d2925-d87c-415f-aa84-97f14030624e" resname="ROE·62 | Dormant Gomazoa | Card Name">
@@ -871,15 +871,15 @@
       </trans-unit>
       <trans-unit id="131d2925-d87c-415f-aa84-97f14030624e" resname="ROE·62 | Dormant Gomazoa | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">休眠格玛佐雅须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="131d2925-d87c-415f-aa84-97f14030624e" resname="ROE·62 | Dormant Gomazoa | Card Text | Paragraph 3">
         <source>CARDNAME doesn't untap during your untap step.</source>
-        <target state="translated">休眠格玛佐雅于你的重置步骤中不能重置。</target>
+        <target state="translated">CARDNAME于你的重置步骤中不能重置。</target>
       </trans-unit>
       <trans-unit id="131d2925-d87c-415f-aa84-97f14030624e" resname="ROE·62 | Dormant Gomazoa | Card Text | Paragraph 4">
         <source>Whenever you become the target of a spell, you may untap CARDNAME.</source>
-        <target state="translated">每当你成为咒语的目标时，你可以重置休眠格玛佐雅。</target>
+        <target state="translated">每当你成为咒语的目标时，你可以重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="3e1f7334-658d-44da-a81c-26b258e44c26" resname="ROE·63 | Drake Umbra | Card Name">
         <source>Drake Umbra</source>
@@ -1035,7 +1035,7 @@
       </trans-unit>
       <trans-unit id="0523e59a-91f7-4893-a4fe-8814a745b422" resname="ROE·70 | Guard Gomazoa | Card Text | Paragraph 2">
         <source>Prevent all combat damage that would be dealt to CARDNAME.</source>
-        <target state="translated">防止将对卫士格玛佐雅造成之所有战斗伤害。</target>
+        <target state="translated">防止将对CARDNAME造成之所有战斗伤害。</target>
       </trans-unit>
       <trans-unit id="b3aeb6af-1727-4fa9-938f-13962efadd74" resname="ROE·71 | Hada Spy Patrol | Card Name">
         <source>Hada Spy Patrol</source>
@@ -1055,7 +1055,7 @@
       </trans-unit>
       <trans-unit id="b3aeb6af-1727-4fa9-938f-13962efadd74" resname="ROE·71 | Hada Spy Patrol | Card Text | Paragraph 4">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">哈达巡侦员不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="b3aeb6af-1727-4fa9-938f-13962efadd74" resname="ROE·71 | Hada Spy Patrol | Card Text | Paragraph 5">
         <source>LEVEL 3+</source>
@@ -1071,7 +1071,7 @@
       </trans-unit>
       <trans-unit id="b3aeb6af-1727-4fa9-938f-13962efadd74" resname="ROE·71 | Hada Spy Patrol | Card Text | Paragraph 8">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">哈达巡侦员不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="0ff68d2f-6758-45ee-8109-4e8909f49de8" resname="ROE·72 | Halimar Wavewatch | Card Name">
         <source>Halimar Wavewatch</source>
@@ -1147,7 +1147,7 @@
       </trans-unit>
       <trans-unit id="16fa8c72-320b-4a7e-9181-bad7ec0c865c" resname="ROE·76 | Merfolk Observer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, look at the top card of target player's library.</source>
-        <target state="translated">当情资人鱼进战场时，检视目标牌手的牌库顶牌。</target>
+        <target state="translated">当CARDNAME进战场时，检视目标牌手的牌库顶牌。</target>
       </trans-unit>
       <trans-unit id="1ce213c7-7835-4b81-a983-059dd97b0214" resname="ROE·77 | Merfolk Skyscout | Card Name">
         <source>Merfolk Skyscout</source>
@@ -1161,7 +1161,7 @@
       </trans-unit>
       <trans-unit id="1ce213c7-7835-4b81-a983-059dd97b0214" resname="ROE·77 | Merfolk Skyscout | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks or blocks, untap target permanent.</source>
-        <target state="translated">每当空侦人鱼进行攻击或阻挡时，重置目标永久物。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，重置目标永久物。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="ffaebb4a-cb9b-4ac8-b661-3e63d9d984f4" resname="ROE·78 | Mnemonic Wall | Card Name">
@@ -1176,7 +1176,7 @@
       </trans-unit>
       <trans-unit id="ffaebb4a-cb9b-4ac8-b661-3e63d9d984f4" resname="ROE·78 | Mnemonic Wall | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.</source>
-        <target state="translated">当记忆墙进战场时，你可以将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="a88e502e-2421-46fb-b880-a9000930e6d9" resname="ROE·79 | Narcolepsy | Card Name">
@@ -1204,7 +1204,7 @@
       </trans-unit>
       <trans-unit id="40d9c83f-ddd2-4929-887f-9df6155c4b82" resname="ROE·80 | Phantasmal Abomination | Card Text | Paragraph 2">
         <source>When CARDNAME becomes the target of a spell or ability, sacrifice it.</source>
-        <target state="translated">当幻象憎恨兽成为咒语或异能的目标时，将它牺牲。</target>
+        <target state="translated">当CARDNAME成为咒语或异能的目标时，将它牺牲。</target>
       </trans-unit>
       <trans-unit id="ec85a97d-4f02-4d0d-ab9a-e172e327da0e" resname="ROE·81 | Reality Spasm | Card Name">
         <source>Reality Spasm</source>
@@ -1232,7 +1232,7 @@
       </trans-unit>
       <trans-unit id="f6453040-38a3-4d3a-8e4b-51b72aa80186" resname="ROE·84 | Renegade Doppelganger | Card Text | Paragraph 1">
         <source>Whenever another creature enters the battlefield under your control, you may have CARDNAME become a copy of that creature until end of turn. (If it does, it loses this ability for the rest of the turn.)</source>
-        <target state="translated">每当另一个生物在你的操控下进战场时，你可以令反叛化妖成为该生物的复制品直到回合结束。 （如果它如此作，则它在本回合剩下的时段内会失去此异能。）</target>
+        <target state="translated">每当另一个生物在你的操控下进战场时，你可以令CARDNAME成为该生物的复制品直到回合结束。 （如果它如此作，则它在本回合剩下的时段内会失去此异能。）</target>
       </trans-unit>
       <trans-unit id="fd056c91-5026-41ea-bc9e-68078d78ca82" resname="ROE·85 | Sea Gate Oracle | Card Name">
         <source>Sea Gate Oracle</source>
@@ -1241,7 +1241,7 @@
       </trans-unit>
       <trans-unit id="fd056c91-5026-41ea-bc9e-68078d78ca82" resname="ROE·85 | Sea Gate Oracle | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.</source>
-        <target state="translated">当海户先知进战场时，检视你牌库顶的两张牌。将其中一张置于你手上，另一张则置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，检视你牌库顶的两张牌。将其中一张置于你手上，另一张则置于你的牌库底。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="a7242e6e-b2e6-42f5-b611-3e8e0dfc0b6b" resname="ROE·86 | See Beyond | Card Name">
@@ -1258,7 +1258,7 @@
       </trans-unit>
       <trans-unit id="ec0b99f1-d706-4332-a1c2-86d789919069" resname="ROE·87 | Shared Discovery | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, tap four untapped creatures you control.</source>
-        <target state="translated">横置四个由你操控且未横置的生物，以作为施放共享发现的额外费用。</target>
+        <target state="translated">横置四个由你操控且未横置的生物，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="ec0b99f1-d706-4332-a1c2-86d789919069" resname="ROE·87 | Shared Discovery | Card Text | Paragraph 2">
         <source>Draw three cards.</source>
@@ -1308,7 +1308,7 @@
       </trans-unit>
       <trans-unit id="eff88609-f55e-45c5-be10-087d88789a83" resname="ROE·89 | Sphinx of Magosi | Card Text | Paragraph 2">
         <source>{2}{U}: Draw a card, then put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{2}{U}：抓一张牌，然后在马格西史芬斯上放置一个+1/+1指示物。</target>
+        <target state="translated">{2}{U}：抓一张牌，然后在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自W17（2017-04-15）；</note>
       </trans-unit>
       <trans-unit id="9a4199be-e1ec-4f0e-a31f-29a7007128a5" resname="ROE·90 | Surrakar Spellblade | Card Name">
@@ -1318,12 +1318,12 @@
       </trans-unit>
       <trans-unit id="9a4199be-e1ec-4f0e-a31f-29a7007128a5" resname="ROE·90 | Surrakar Spellblade | Card Text | Paragraph 1">
         <source>Whenever you cast an instant or sorcery spell, you may put a charge counter on CARDNAME.</source>
-        <target state="translated">每当你施放瞬间或法术咒语时，你可以在咒刃苏拉卡上放置一个充电指示物。</target>
+        <target state="translated">每当你施放瞬间或法术咒语时，你可以在CARDNAME上放置一个充电指示物。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="9a4199be-e1ec-4f0e-a31f-29a7007128a5" resname="ROE·90 | Surrakar Spellblade | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.</source>
-        <target state="translated">每当咒刃苏拉卡对任一牌手造成战斗伤害时，你可以抓X张牌，X为其上充电指示物的数量。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以抓X张牌，X为其上充电指示物的数量。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="e2cf16f8-6e69-46b3-8453-1d1a2a5670e2" resname="ROE·91 | Training Grounds | Card Name">
@@ -1350,7 +1350,7 @@
       </trans-unit>
       <trans-unit id="9ec4d902-8841-4f37-9b07-9e8d0f671071" resname="ROE·93 | Venerated Teacher | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put two level counters on each creature you control with level up.</source>
-        <target state="translated">当景仰教师进战场时，在每个由你操控、且具升级异能的生物上放置两个等级指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在每个由你操控、且具升级异能的生物上放置两个等级指示物。</target>
       </trans-unit>
       <trans-unit id="5ed08a7f-6682-46a4-89df-b9b418df3f1a" resname="ROE·94 | Arrogant Bloodlord | Card Name">
         <source>Arrogant Bloodlord</source>
@@ -1358,7 +1358,7 @@
       </trans-unit>
       <trans-unit id="5ed08a7f-6682-46a4-89df-b9b418df3f1a" resname="ROE·94 | Arrogant Bloodlord | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked by a creature with power 1 or less, destroy CARDNAME at end of combat.</source>
-        <target state="translated">每当力量为1或更少的生物阻挡傲慢血领、或被傲慢血领所阻挡，则在战斗结束时消灭傲慢血领。</target>
+        <target state="translated">每当力量为1或更少的生物阻挡CARDNAME、或被CARDNAME所阻挡，则在战斗结束时消灭CARDNAME。</target>
       </trans-unit>
       <trans-unit id="4acb66bd-6abd-46dd-a272-09bea66e2917" resname="ROE·95 | Bala Ged Scorpion | Card Name">
         <source>Bala Ged Scorpion</source>
@@ -1367,7 +1367,7 @@
       </trans-unit>
       <trans-unit id="4acb66bd-6abd-46dd-a272-09bea66e2917" resname="ROE·95 | Bala Ged Scorpion | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may destroy target creature with power 1 or less.</source>
-        <target state="translated">当巴勒格蝎子进战场时，你可以消灭目标力量等于或小于1的生物。</target>
+        <target state="translated">当CARDNAME进战场时，你可以消灭目标力量等于或小于1的生物。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="2bff6e03-b6af-4f54-b365-9a6db2dbb595" resname="ROE·96 | Baneful Omen | Card Name">
@@ -1393,7 +1393,7 @@
       </trans-unit>
       <trans-unit id="48bf0233-1d2e-40cb-9a69-8eeeeb2959ca" resname="ROE·98 | Bloodthrone Vampire | Card Text | Paragraph 1">
         <source>Sacrifice a creature: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">牺牲一个生物：血座吸血鬼得+2/+2直到回合结束。</target>
+        <target state="translated">牺牲一个生物：CARDNAME得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="1b2f83d5-9269-4297-b507-558c2bdec32b" resname="ROE·99 | Cadaver Imp | Card Name">
@@ -1408,7 +1408,7 @@
       </trans-unit>
       <trans-unit id="1b2f83d5-9269-4297-b507-558c2bdec32b" resname="ROE·99 | Cadaver Imp | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may return target creature card from your graveyard to your hand.</source>
-        <target state="translated">当尸首小恶魔进战场时，你可以将目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标生物牌从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="921ebea0-48bf-4338-9e84-2cd06ffe6f4b" resname="ROE·100 | Consume the Meek | Card Name">
@@ -1468,7 +1468,7 @@
       </trans-unit>
       <trans-unit id="162535ea-87be-4ea7-a006-b63ae981f453" resname="ROE·104 | Curse of Wizardry | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于术法诅咒进战场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种颜色。</target>
       </trans-unit>
       <trans-unit id="162535ea-87be-4ea7-a006-b63ae981f453" resname="ROE·104 | Curse of Wizardry | Card Text | Paragraph 2">
         <source>Whenever a player casts a spell of the chosen color, that player loses 1 life.</source>
@@ -1480,7 +1480,7 @@
       </trans-unit>
       <trans-unit id="bd0a2fe3-45ab-4bac-aca7-a6418e28d0be" resname="ROE·105 | Death Cultist | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Target player loses 1 life and you gain 1 life.</source>
-        <target state="translated">{B}，牺牲死亡教众：目标牌手失去1点生命且你获得1点生命。</target>
+        <target state="translated">{B}，牺牲CARDNAME：目标牌手失去1点生命且你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="ca51786a-d58c-455f-910d-01efa5ef8470" resname="ROE·106 | Demonic Appetite | Card Name">
         <source>Demonic Appetite</source>
@@ -1510,7 +1510,7 @@
       </trans-unit>
       <trans-unit id="aca8d295-e8e9-4213-bc9b-f1acf57fb520" resname="ROE·107 | Drana, Kalastria Bloodchief | Card Text | Paragraph 2">
         <source>{X}{B}{B}: Target creature gets -0/-X until end of turn and CARDNAME gets +X/+0 until end of turn.</source>
-        <target state="translated">{X}{B}{B}：目标生物得-0/-X直到回合结束，且卡列奇血侯哲娜得+X/+0直到回合结束。</target>
+        <target state="translated">{X}{B}{B}：目标生物得-0/-X直到回合结束，且CARDNAME得+X/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="38d65339-e419-40b9-814a-374874f5585f" resname="ROE·108 | Dread Drone | Card Name">
@@ -1520,7 +1520,7 @@
       </trans-unit>
       <trans-unit id="38d65339-e419-40b9-814a-374874f5585f" resname="ROE·108 | Dread Drone | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two 0/1 colorless Eldrazi Spawn creature tokens. They have &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">当可怖奴兽进战场时，派出两个0/1无色奥札奇／后裔衍生生物。它们具有「牺牲此生物：加{C}。」</target>
+        <target state="translated">当CARDNAME进战场时，派出两个0/1无色奥札奇／后裔衍生生物。它们具有「牺牲此生物：加{C}。」</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="7364dbe9-ee9a-4dcc-b058-4e669c75f060" resname="ROE·109 | Escaped Null | Card Name">
@@ -1533,7 +1533,7 @@
       </trans-unit>
       <trans-unit id="7364dbe9-ee9a-4dcc-b058-4e669c75f060" resname="ROE·109 | Escaped Null | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks or becomes blocked, it gets +5/+0 until end of turn.</source>
-        <target state="translated">每当脱逃躯壳阻挡或被阻挡时，它得+5/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME阻挡或被阻挡时，它得+5/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b9cf2116-7ae5-4b6a-830a-919a55235690" resname="ROE·110 | Essence Feed | Card Name">
         <source>Essence Feed</source>
@@ -1593,7 +1593,7 @@
       </trans-unit>
       <trans-unit id="984a037b-63c0-497d-b3b1-15726ef11a60" resname="ROE·113 | Hellcarver Demon | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, sacrifice all other permanents you control and discard your hand. Exile the top six cards of your library. You may cast any number of spells from among cards exiled this way without paying their mana costs.</source>
-        <target state="translated">每当狱雕恶魔对牌手造成战斗伤害时，牺牲所有由你操控的其他永久物并弃掉你的手牌。 放逐你牌库顶的六张牌。 你可以施放任意数量以此法放逐的非地牌，且不需支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，牺牲所有由你操控的其他永久物并弃掉你的手牌。 放逐你牌库顶的六张牌。 你可以施放任意数量以此法放逐的非地牌，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="1b0c6980-a371-4cb5-b684-3ebddd4890f8" resname="ROE·114 | Induce Despair | Card Name">
         <source>Induce Despair</source>
@@ -1601,7 +1601,7 @@
       </trans-unit>
       <trans-unit id="1b0c6980-a371-4cb5-b684-3ebddd4890f8" resname="ROE·114 | Induce Despair | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, reveal a creature card from your hand.</source>
-        <target state="translated">从你手上展示一张生物牌，以作为施放引致绝望的额外费用。</target>
+        <target state="translated">从你手上展示一张生物牌，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="1b0c6980-a371-4cb5-b684-3ebddd4890f8" resname="ROE·114 | Induce Despair | Card Text | Paragraph 2">
         <source>Target creature gets -X/-X until end of turn, where X is the revealed card's mana value.</source>
@@ -1623,7 +1623,7 @@
       </trans-unit>
       <trans-unit id="348f480f-8f68-4060-b964-f67515930549" resname="ROE·116 | Last Kiss | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature and you gain 2 life.</source>
-        <target state="translated">最终一吻对目标生物造成2点伤害，且你获得2点生命。</target>
+        <target state="translated">CARDNAME对目标生物造成2点伤害，且你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="a19ee3e4-5f76-4c28-bee6-f1c063ec0cb3" resname="ROE·117 | Mortician Beetle | Card Name">
         <source>Mortician Beetle</source>
@@ -1632,7 +1632,7 @@
       </trans-unit>
       <trans-unit id="a19ee3e4-5f76-4c28-bee6-f1c063ec0cb3" resname="ROE·117 | Mortician Beetle | Card Text | Paragraph 1">
         <source>Whenever a player sacrifices a creature, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当任一牌手牺牲一个生物时，你可以在殡葬甲虫上放置一个+1/+1指示物。</target>
+        <target state="translated">每当任一牌手牺牲一个生物时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="290b215b-13cb-493a-83f9-f89edfa6b314" resname="ROE·118 | Nighthaze | Card Name">
@@ -1691,7 +1691,7 @@
       </trans-unit>
       <trans-unit id="aa7c53cf-d314-4f60-bb5b-cf5068ed9915" resname="ROE·120 | Nirkana Revenant | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：涅卡那复仇者得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="8bf39e84-a554-49e3-8f65-e304e1720818" resname="ROE·121 | Null Champion | Card Name">
@@ -1720,7 +1720,7 @@
       </trans-unit>
       <trans-unit id="8bf39e84-a554-49e3-8f65-e304e1720818" resname="ROE·121 | Null Champion | Card Text | Paragraph 6">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{B}：重生躯壳斗士。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="85f4d77d-e0de-48fe-899b-5718cee779e2" resname="ROE·122 | Pawn of Ulamog | Card Name">
         <source>Pawn of Ulamog</source>
@@ -1728,7 +1728,7 @@
       </trans-unit>
       <trans-unit id="85f4d77d-e0de-48fe-899b-5718cee779e2" resname="ROE·122 | Pawn of Ulamog | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another nontoken creature you control dies, you may create a 0/1 colorless Eldrazi Spawn creature token. It has &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">每当钨拉莫兵卒或另一个由你操控、且非衍生物的生物从战场进入坟墓场时，你可以将一个0/1无色奥札奇／后裔衍生物放进战场。 它具有「牺牲此生物：加{1}到你的法术力池中。」</target>
+        <target state="translated">每当CARDNAME或另一个由你操控、且非衍生物的生物从战场进入坟墓场时，你可以将一个0/1无色奥札奇／后裔衍生物放进战场。 它具有「牺牲此生物：加{1}到你的法术力池中。」</target>
       </trans-unit>
       <trans-unit id="4e1dd413-6e5a-4e36-b1b0-eca39e132e38" resname="ROE·123 | Perish the Thought | Card Name">
         <source>Perish the Thought</source>
@@ -1750,7 +1750,7 @@
       </trans-unit>
       <trans-unit id="a6931673-20e0-410e-bc2a-d14efa2b488a" resname="ROE·124 | Pestilence Demon | Card Text | Paragraph 2">
         <source>{B}: CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">{B}：瘟疫恶魔对每个生物和每位牌手各造成1点伤害。</target>
+        <target state="translated">{B}：CARDNAME对每个生物和每位牌手各造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="90d1db4c-1e79-410a-92ab-c9d58c5e58a6" resname="ROE·125 | Repay in Kind | Card Name">
@@ -1777,7 +1777,7 @@
       </trans-unit>
       <trans-unit id="2feedcf2-c443-4363-80cf-a90579a64342" resname="ROE·127 | Skeletal Wurm | Card Text | Paragraph 1">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{B}：重生骷髅亚龙。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b7e959ec-7ba2-429d-a5b9-b5e4d97dfd4e" resname="ROE·128 | Suffer the Past | Card Name">
         <source>Suffer the Past</source>
@@ -1799,11 +1799,11 @@
       </trans-unit>
       <trans-unit id="f9b6b512-6252-4899-bb9c-5c304f37d10a" resname="ROE·129 | Thought Gorger | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on it for each card in your hand. If you do, discard your hand.</source>
-        <target state="translated">当思想食客进战场时，你每有一张手牌，便在其上放置一个+1/+1指示物 若你如此作，则弃掉你的手牌。</target>
+        <target state="translated">当CARDNAME进战场时，你每有一张手牌，便在其上放置一个+1/+1指示物 若你如此作，则弃掉你的手牌。</target>
       </trans-unit>
       <trans-unit id="f9b6b512-6252-4899-bb9c-5c304f37d10a" resname="ROE·129 | Thought Gorger | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, draw a card for each +1/+1 counter on it.</source>
-        <target state="translated">当思想食客离开战场时，其上每有一个+1/+1指示物，便抓一张牌。</target>
+        <target state="translated">当CARDNAME离开战场时，其上每有一个+1/+1指示物，便抓一张牌。</target>
       </trans-unit>
       <trans-unit id="b61d7f4b-e3c3-49f1-a600-6e6ac71a5515" resname="ROE·131 | Virulent Swipe | Card Name">
         <source>Virulent Swipe</source>
@@ -1827,7 +1827,7 @@
       </trans-unit>
       <trans-unit id="b46976d4-7266-4359-bf7a-7e81983ae6e3" resname="ROE·132 | Zof Shade | Card Text | Paragraph 1">
         <source>{2}{B}: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">{2}{B}：座孚阴魂得+2/+2直到回合结束。</target>
+        <target state="translated">{2}{B}：CARDNAME得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自M15（2014-07-18）；</note>
       </trans-unit>
       <trans-unit id="1975d18a-df3f-4c1f-8fde-d11dabbc4adc" resname="ROE·133 | Zulaport Enforcer | Card Name">
@@ -1856,7 +1856,7 @@
       </trans-unit>
       <trans-unit id="1975d18a-df3f-4c1f-8fde-d11dabbc4adc" resname="ROE·133 | Zulaport Enforcer | Card Text | Paragraph 6">
         <source>CARDNAME can't be blocked except by black creatures.</source>
-        <target state="translated">筑拉波执法者只能被黑色生物阻挡。</target>
+        <target state="translated">CARDNAME只能被黑色生物阻挡。</target>
       </trans-unit>
       <trans-unit id="88e8f7b6-1214-447b-8665-ff3c85845564" resname="ROE·134 | Akoum Boulderfoot | Card Name">
         <source>Akoum Boulderfoot</source>
@@ -1864,7 +1864,7 @@
       </trans-unit>
       <trans-unit id="88e8f7b6-1214-447b-8665-ff3c85845564" resname="ROE·134 | Akoum Boulderfoot | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 1 damage to any target.</source>
-        <target state="translated">当阿库姆沉足巨人进战场时，它对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="aa1df08a-ccef-44cf-936a-838e238c27c1" resname="ROE·136 | Battle-Rattle Shaman | Card Name">
         <source>Battle-Rattle Shaman</source>
@@ -1894,7 +1894,7 @@
       </trans-unit>
       <trans-unit id="1f65ebef-e159-4698-8852-650b7b6a08d3" resname="ROE·137 | Brimstone Mage | Card Text | Paragraph 4">
         <source>{T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{T}：硫磺法师对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="1f65ebef-e159-4698-8852-650b7b6a08d3" resname="ROE·137 | Brimstone Mage | Card Text | Paragraph 5">
         <source>LEVEL 3+</source>
@@ -1906,7 +1906,7 @@
       </trans-unit>
       <trans-unit id="1f65ebef-e159-4698-8852-650b7b6a08d3" resname="ROE·137 | Brimstone Mage | Card Text | Paragraph 7">
         <source>{T}: CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">{T}：硫磺法师对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="0e44f7ff-1cfa-4bc4-a0f7-9d71ba48a97a" resname="ROE·138 | Brood Birthing | Card Name">
         <source>Brood Birthing</source>
@@ -1926,7 +1926,7 @@
       </trans-unit>
       <trans-unit id="bf1dc898-bf60-406f-922a-aa50cbffe5b0" resname="ROE·139 | Conquering Manticore | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.</source>
-        <target state="translated">当威服翼狮进战场时，获得目标由对手所操控的生物之操控权直到回合结束。 重置该生物。 它获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，获得目标由对手所操控的生物之操控权直到回合结束。 重置该生物。 它获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="15b09784-8e89-4013-975d-57e4d26cc926" resname="ROE·140 | Devastating Summons | Card Name">
         <source>Devastating Summons</source>
@@ -1934,7 +1934,7 @@
       </trans-unit>
       <trans-unit id="15b09784-8e89-4013-975d-57e4d26cc926" resname="ROE·140 | Devastating Summons | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, sacrifice X lands.</source>
-        <target state="translated">牺牲X个地，以作为施放毁灭性召唤的额外费用。</target>
+        <target state="translated">牺牲X个地，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="15b09784-8e89-4013-975d-57e4d26cc926" resname="ROE·140 | Devastating Summons | Card Text | Paragraph 2">
         <source>Create two X/X red Elemental creature tokens.</source>
@@ -1947,7 +1947,7 @@
       </trans-unit>
       <trans-unit id="9318ae4a-1084-49d9-b5de-dbe4d80836cb" resname="ROE·141 | Disaster Radius | Card Text | Paragraphs">
         <source>As an additional cost to cast this spell, reveal a creature card from your hand.\nCARDNAME deals X damage to each creature your opponents control, where X is the revealed card's mana value.</source>
-        <target state="translated">从你手上展示一张生物牌，以作为施放灾祸范围的额外费用。灾祸范围向每个由对手操控的生物各造成X点伤害，X为所展示之牌的总法术力费用。</target>
+        <target state="translated">从你手上展示一张生物牌，以作为施放CARDNAME的额外费用。CARDNAME向每个由对手操控的生物各造成X点伤害，X为所展示之牌的总法术力费用。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="1a901c3f-313d-495e-96a0-29f1a33b8225" resname="ROE·142 | Emrakul's Hatcher | Card Name">
@@ -1956,7 +1956,7 @@
       </trans-unit>
       <trans-unit id="1a901c3f-313d-495e-96a0-29f1a33b8225" resname="ROE·142 | Emrakul's Hatcher | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create three 0/1 colorless Eldrazi Spawn creature tokens. They have &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">当伊莫库育恶兽进战场时，将三个0/1无色奥札奇／后裔衍生物放进战场。 它们具有「牺牲此生物：加{1}到你的法术力池中。」</target>
+        <target state="translated">当CARDNAME进战场时，将三个0/1无色奥札奇／后裔衍生物放进战场。 它们具有「牺牲此生物：加{1}到你的法术力池中。」</target>
       </trans-unit>
       <trans-unit id="d7a38cd0-2cd3-436d-bb44-79778d5808ad" resname="ROE·143 | Explosive Revelation | Card Name">
         <source>Explosive Revelation</source>
@@ -1964,7 +1964,7 @@
       </trans-unit>
       <trans-unit id="d7a38cd0-2cd3-436d-bb44-79778d5808ad" resname="ROE·143 | Explosive Revelation | Card Text | Paragraph 1">
         <source>Choose any target. Reveal cards from the top of your library until you reveal a nonland card. CARDNAME deals damage equal to that card's mana value to that permanent or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">选择目标生物或牌手。 从你牌库顶开始展示牌，直到你展示出一张非地牌为止。爆烈启示对该生物或牌手造成伤害，其数量等同于所展示牌的总法术力费用。 将此张非地牌置于你手上，其余的牌则以任意顺序置于你的牌库底。</target>
+        <target state="translated">选择目标生物或牌手。 从你牌库顶开始展示牌，直到你展示出一张非地牌为止。CARDNAME对该生物或牌手造成伤害，其数量等同于所展示牌的总法术力费用。 将此张非地牌置于你手上，其余的牌则以任意顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="15f4f813-f04c-4309-a007-b0549c00d6ab" resname="ROE·144 | Fissure Vent | Card Name">
         <source>Fissure Vent</source>
@@ -1981,7 +1981,7 @@
       </trans-unit>
       <trans-unit id="006d2bf1-20f7-4b09-8d98-8233d91682bd" resname="ROE·145 | Flame Slash | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target creature.</source>
-        <target state="translated">火焰飞斩对目标生物造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="06127297-fdaa-45bf-a82e-4fc61315e0e2" resname="ROE·146 | Forked Bolt | Card Name">
@@ -1990,7 +1990,7 @@
       </trans-unit>
       <trans-unit id="06127297-fdaa-45bf-a82e-4fc61315e0e2" resname="ROE·146 | Forked Bolt | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage divided as you choose among one or two targets.</source>
-        <target state="translated">分叉雷击对一个或两个目标生物和／或牌手造成共2点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对一个或两个目标生物和／或牌手造成共2点伤害，你可以任意分配。</target>
       </trans-unit>
       <trans-unit id="707d396d-950b-4ab8-9db2-f40c8f7db062" resname="ROE·147 | Goblin Arsonist | Card Name">
         <source>Goblin Arsonist</source>
@@ -1999,7 +1999,7 @@
       </trans-unit>
       <trans-unit id="707d396d-950b-4ab8-9db2-f40c8f7db062" resname="ROE·147 | Goblin Arsonist | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may have it deal 1 damage to any target.</source>
-        <target state="translated">当纵火鬼怪死去时，你可以让它对任意一个目标造成1点伤害。</target>
+        <target state="translated">当CARDNAME死去时，你可以让它对任意一个目标造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自M21（2020-07-03）；</note>
       </trans-unit>
       <trans-unit id="0b2e4a34-6255-4f89-a62d-941996c573e1" resname="ROE·148 | Goblin Tunneler | Card Name">
@@ -2018,7 +2018,7 @@
       </trans-unit>
       <trans-unit id="01c1a241-38ad-453e-b6c2-a79006031e2d" resname="ROE·149 | Grotag Siege-Runner | Card Text | Paragraph 1">
         <source>{R}, Sacrifice CARDNAME: Destroy target creature with defender. CARDNAME deals 2 damage to that creature's controller.</source>
-        <target state="translated">{R}，牺牲葛塔攻城亡命徒：消灭目标具守军异能的生物。 葛塔攻城亡命徒对该生物的操控者造成2点伤害。</target>
+        <target state="translated">{R}，牺牲CARDNAME：消灭目标具守军异能的生物。 CARDNAME对该生物的操控者造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="6529c92e-c79b-4953-8bd0-50ceae2ce261" resname="ROE·151 | Hellion Eruption | Card Name">
         <source>Hellion Eruption</source>
@@ -2062,7 +2062,7 @@
       </trans-unit>
       <trans-unit id="b669d2d9-649b-4941-9a76-9833bdf77ca4" resname="ROE·152 | Kargan Dragonlord | Card Text | Paragraph 8">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：卡加龙领得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="0c584268-67c3-411b-a26c-aee3adf23872" resname="ROE·153 | Kiln Fiend | Card Name">
         <source>Kiln Fiend</source>
@@ -2071,7 +2071,7 @@
       </trans-unit>
       <trans-unit id="0c584268-67c3-411b-a26c-aee3adf23872" resname="ROE·153 | Kiln Fiend | Card Text | Paragraph 1">
         <source>Whenever you cast an instant or sorcery spell, CARDNAME gets +3/+0 until end of turn.</source>
-        <target state="translated">每当你施放瞬间或法术咒语时，火炉邪鬼得+3/+0直到回合结束。</target>
+        <target state="translated">每当你施放瞬间或法术咒语时，CARDNAME得+3/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="b47e9cfa-5547-4ef3-9e36-8d0f36dfa59a" resname="ROE·154 | Lagac Lizard | Card Name">
@@ -2112,7 +2112,7 @@
       </trans-unit>
       <trans-unit id="b2159a7d-e37a-4c43-a7b9-1e7179a7e43b" resname="ROE·156 | Lord of Shatterskull Pass | Card Text | Paragraph 6">
         <source>Whenever CARDNAME attacks, it deals 6 damage to each creature defending player controls.</source>
-        <target state="translated">每当碎颅隘口领主攻击时，它对由防御牌手所操控的每个生物各造成6点伤害。</target>
+        <target state="translated">每当CARDNAME攻击时，它对由防御牌手所操控的每个生物各造成6点伤害。</target>
       </trans-unit>
       <trans-unit id="9c8fa150-383d-448c-8e14-f24f65e13770" resname="ROE·157 | Lust for War | Card Name">
         <source>Lust for War</source>
@@ -2124,7 +2124,7 @@
       </trans-unit>
       <trans-unit id="9c8fa150-383d-448c-8e14-f24f65e13770" resname="ROE·157 | Lust for War | Card Text | Paragraph 2">
         <source>Whenever enchanted creature becomes tapped, CARDNAME deals 3 damage to that creature's controller.</source>
-        <target state="translated">每当所结附的生物成为横置时，战争欲求对该生物的操控者造成3点伤害。</target>
+        <target state="translated">每当所结附的生物成为横置时，CARDNAME对该生物的操控者造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="9c8fa150-383d-448c-8e14-f24f65e13770" resname="ROE·157 | Lust for War | Card Text | Paragraph 3">
         <source>Enchanted creature attacks each combat if able.</source>
@@ -2136,7 +2136,7 @@
       </trans-unit>
       <trans-unit id="015de202-e796-4194-a06b-d74230759f38" resname="ROE·158 | Magmaw | Card Text | Paragraph 1">
         <source>{1}, Sacrifice a nonland permanent: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{1}，牺牲一个非地永久物：岩浆喉对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{1}，牺牲一个非地永久物：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="d71db75c-c896-4887-ba18-92416fa6cbd5" resname="ROE·159 | Ogre Sentry | Card Name">
         <source>Ogre Sentry</source>
@@ -2167,7 +2167,7 @@
       </trans-unit>
       <trans-unit id="9c2d1a48-efde-4134-95f0-b23f6cf85259" resname="ROE·161 | Raid Bombardment | Card Text | Paragraph 1">
         <source>Whenever a creature you control with power 2 or less attacks, CARDNAME deals 1 damage to the player or planeswalker that creature is attacking.</source>
-        <target state="translated">每当一个由你操控且力量等于或小于2的生物攻击时，突击轰炸对该生物所攻击的牌手或鹏洛客造成1点伤害。</target>
+        <target state="translated">每当一个由你操控且力量等于或小于2的生物攻击时，CARDNAME对该生物所攻击的牌手或鹏洛客造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自WOT（2023-09-08）；</note>
       </trans-unit>
       <trans-unit id="e3befaa0-55a3-4e34-8051-1ab19eabd7d2" resname="ROE·162 | Rapacious One | Card Name">
@@ -2182,7 +2182,7 @@
       </trans-unit>
       <trans-unit id="e3befaa0-55a3-4e34-8051-1ab19eabd7d2" resname="ROE·162 | Rapacious One | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, create that many 0/1 colorless Eldrazi Spawn creature tokens. They have &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">每当捕食恶兽对任一牌手造成战斗伤害时，派出等量的0/1无色奥札奇／后裔衍生生物。它们具有「牺牲此生物：加{C}。」</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，派出等量的0/1无色奥札奇／后裔衍生生物。它们具有「牺牲此生物：加{C}。」</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="d0dcb81b-dcdb-44ca-9ef5-0b45d276c0dd" resname="ROE·163 | Soulsurge Elemental | Card Name">
@@ -2195,7 +2195,7 @@
       </trans-unit>
       <trans-unit id="d0dcb81b-dcdb-44ca-9ef5-0b45d276c0dd" resname="ROE·163 | Soulsurge Elemental | Card Text | Paragraph 2">
         <source>CARDNAME's power is equal to the number of creatures you control.</source>
-        <target state="translated">魂涛元素的力量等同于由你操控的生物数量。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控的生物数量。</target>
       </trans-unit>
       <trans-unit id="90ec1540-e8cb-4edc-a3b3-f71423cb46fc" resname="ROE·164 | Spawning Breath | Card Name">
         <source>Spawning Breath</source>
@@ -2203,7 +2203,7 @@
       </trans-unit>
       <trans-unit id="90ec1540-e8cb-4edc-a3b3-f71423cb46fc" resname="ROE·164 | Spawning Breath | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to any target. Create a 0/1 colorless Eldrazi Spawn creature token. It has &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">后裔喷息对目标生物或牌手造成1点伤害。 将一个0/1无色奥札奇／后裔衍生物放进战场。 它具有「牺牲此生物：加{1}到你的法术力池中。」</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成1点伤害。 将一个0/1无色奥札奇／后裔衍生物放进战场。 它具有「牺牲此生物：加{1}到你的法术力池中。」</target>
       </trans-unit>
       <trans-unit id="2f8f22fb-7291-4517-9b15-e98501f2856b" resname="ROE·165 | Splinter Twin | Card Name">
         <source>Splinter Twin</source>
@@ -2227,7 +2227,7 @@
       </trans-unit>
       <trans-unit id="75624ab3-ddbd-4fe8-8a07-7d1f78ec8a84" resname="ROE·166 | Staggershock | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">撼动击对任意一个目标造成2点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="75624ab3-ddbd-4fe8-8a07-7d1f78ec8a84" resname="ROE·166 | Staggershock | Card Text | Paragraph 2">
@@ -2272,7 +2272,7 @@
       </trans-unit>
       <trans-unit id="cd23ab54-1eec-4bb4-81ce-b5cbe83fa940" resname="ROE·169 | Tuktuk the Explorer | Card Text | Paragraph 2">
         <source>When CARDNAME dies, create Tuktuk the Returned, a legendary 5/5 colorless Goblin Golem artifact creature token.</source>
-        <target state="translated">当探险家图图死去时，派出传奇衍生神器生物归来的图图，其为5/5无色的鬼怪／魔像。</target>
+        <target state="translated">当CARDNAME死去时，派出传奇衍生神器生物归来的图图，其为5/5无色的鬼怪／魔像。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="5718b282-d3e9-4c68-8623-9ea8a3c937d0" resname="ROE·170 | Valakut Fireboar | Card Name">
@@ -2281,7 +2281,7 @@
       </trans-unit>
       <trans-unit id="5718b282-d3e9-4c68-8623-9ea8a3c937d0" resname="ROE·170 | Valakut Fireboar | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, switch its power and toughness until end of turn.</source>
-        <target state="translated">每当瓦拉库火猪攻击时，将其力量与防御力互换直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，将其力量与防御力互换直到回合结束。</target>
       </trans-unit>
       <trans-unit id="07989612-d3c4-44f7-b1ee-1ddf2d93a7da" resname="ROE·171 | Vent Sentinel | Card Name">
         <source>Vent Sentinel</source>
@@ -2295,7 +2295,7 @@
       </trans-unit>
       <trans-unit id="07989612-d3c4-44f7-b1ee-1ddf2d93a7da" resname="ROE·171 | Vent Sentinel | Card Text | Paragraph 2">
         <source>{1}{R}, {T}: CARDNAME deals damage to target player or planeswalker equal to the number of creatures you control with defender.</source>
-        <target state="translated">{1}{R}，{T}：孔穴哨兵对目标牌手造成伤害，其数量等同于由你操控且具守军异能的生物数量。</target>
+        <target state="translated">{1}{R}，{T}：CARDNAME对目标牌手造成伤害，其数量等同于由你操控且具守军异能的生物数量。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="a47a05ad-fe86-481e-b770-e1760be4f852" resname="ROE·172 | World at War | Card Name">
@@ -2317,7 +2317,7 @@
       </trans-unit>
       <trans-unit id="babdaf80-f9a3-42cb-9df6-10878301f335" resname="ROE·173 | Wrap in Flames | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.</source>
-        <target state="translated">火焰包覆对至多三个目标生物各造成1点伤害。这些生物本回合不能进行阻挡。</target>
+        <target state="translated">CARDNAME对至多三个目标生物各造成1点伤害。这些生物本回合不能进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自THB（2020-01-24）；</note>
       </trans-unit>
       <trans-unit id="97ac2766-a597-4949-882d-c5e61e6dd268" resname="ROE·174 | Ancient Stirrings | Card Name">
@@ -2336,11 +2336,11 @@
       </trans-unit>
       <trans-unit id="8f8dbb4f-4b01-4666-b62f-a2323dac7a19" resname="ROE·175 | Aura Gnarlid | Card Text | Paragraph 1">
         <source>Creatures with power less than CARDNAME's power can't block it.</source>
-        <target state="translated">力量小于灵气糙节兽的生物不能阻挡它。</target>
+        <target state="translated">力量小于CARDNAME的生物不能阻挡它。</target>
       </trans-unit>
       <trans-unit id="8f8dbb4f-4b01-4666-b62f-a2323dac7a19" resname="ROE·175 | Aura Gnarlid | Card Text | Paragraph 2">
         <source>CARDNAME gets +1/+1 for each Aura on the battlefield.</source>
-        <target state="translated">战场上每有一个灵气，灵气糙节兽便得+1/+1。</target>
+        <target state="translated">战场上每有一个灵气，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="080dbd69-95a8-4fed-bbaf-875a8a34a2c9" resname="ROE·176 | Awakening Zone | Card Name">
         <source>Awakening Zone</source>
@@ -2426,7 +2426,7 @@
       </trans-unit>
       <trans-unit id="dcddd71f-bb8d-4153-854f-af87189babe7" resname="ROE·180 | Bramblesnap | Card Text | Paragraph 2">
         <source>Tap an untapped creature you control: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">横置一个由你操控且未横置的生物：竹攫灵得+1/+1直到回合结束。</target>
+        <target state="translated">横置一个由你操控且未横置的生物：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d3a1ca42-0fb1-4962-8663-39fc07443aef" resname="ROE·181 | Broodwarden | Card Name">
         <source>Broodwarden</source>
@@ -2492,7 +2492,7 @@
       </trans-unit>
       <trans-unit id="72d8e000-5b4c-4340-ab85-7522107ab589" resname="ROE·187 | Haze Frog | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, prevent all combat damage that other creatures would deal this turn.</source>
-        <target state="translated">当迷雾蛙进战场时，防止其他生物本回合中将造成的所有战斗伤害。</target>
+        <target state="translated">当CARDNAME进战场时，防止其他生物本回合中将造成的所有战斗伤害。</target>
       </trans-unit>
       <trans-unit id="d1511d4d-3e70-4688-ab88-37e26cb1a46f" resname="ROE·188 | Irresistible Prey | Card Name">
         <source>Irresistible Prey</source>
@@ -2515,7 +2515,7 @@
       </trans-unit>
       <trans-unit id="22144b6f-e8a8-4fcb-ac2b-83693481ffba" resname="ROE·189 | Jaddi Lifestrider | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.</source>
-        <target state="translated">当贾笛跃命灵进战场时，你可以横置任意数量由你操控、且未横置的生物。 每以此法横置一个生物，你便获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你可以横置任意数量由你操控、且未横置的生物。 每以此法横置一个生物，你便获得2点生命。</target>
       </trans-unit>
       <trans-unit id="1132218d-56cd-441e-9006-df3c50344491" resname="ROE·190 | Joraga Treespeaker | Card Name">
         <source>Joraga Treespeaker</source>
@@ -2595,7 +2595,7 @@
       </trans-unit>
       <trans-unit id="7d27a00e-4402-4410-bab7-ccb34a0de72f" resname="ROE·192 | Khalni Hydra | Card Text | Paragraph 1">
         <source>This spell costs {G} less to cast for each green creature you control.</source>
-        <target state="translated">你每操控一个绿色生物，坎尼多头龙便减少{G}来施放。</target>
+        <target state="translated">你每操控一个绿色生物，CARDNAME便减少{G}来施放。</target>
       </trans-unit>
       <trans-unit id="7d27a00e-4402-4410-bab7-ccb34a0de72f" resname="ROE·192 | Khalni Hydra | Card Text | Paragraph 2">
         <source>Trample</source>
@@ -2608,7 +2608,7 @@
       </trans-unit>
       <trans-unit id="4ab37d0e-5542-4ae0-a48e-d0a4e6bf48e7" resname="ROE·193 | Kozilek's Predator | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two 0/1 colorless Eldrazi Spawn creature tokens. They have &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">当寇基雷猎者进战场时，派出两个0/1无色奥札奇／后裔衍生生物。它们具有「牺牲此生物：加{C}。」</target>
+        <target state="translated">当CARDNAME进战场时，派出两个0/1无色奥札奇／后裔衍生生物。它们具有「牺牲此生物：加{C}。」</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="2d531ba4-df99-41e4-9dd3-a27a420ad63c" resname="ROE·194 | Leaf Arrow | Card Name">
@@ -2617,7 +2617,7 @@
       </trans-unit>
       <trans-unit id="2d531ba4-df99-41e4-9dd3-a27a420ad63c" resname="ROE·194 | Leaf Arrow | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature with flying.</source>
-        <target state="translated">飞叶箭对目标具飞行异能的生物造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标具飞行异能的生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="361399a4-04f3-4eef-8090-2caec7d1bb66" resname="ROE·195 | Living Destiny | Card Name">
         <source>Living Destiny</source>
@@ -2625,7 +2625,7 @@
       </trans-unit>
       <trans-unit id="361399a4-04f3-4eef-8090-2caec7d1bb66" resname="ROE·195 | Living Destiny | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, reveal a creature card from your hand.</source>
-        <target state="translated">从你手上展示一张生物牌，以作为施放生存命运的额外费用。</target>
+        <target state="translated">从你手上展示一张生物牌，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="361399a4-04f3-4eef-8090-2caec7d1bb66" resname="ROE·195 | Living Destiny | Card Text | Paragraph 2">
         <source>You gain life equal to the revealed card's mana value.</source>
@@ -2647,7 +2647,7 @@
       </trans-unit>
       <trans-unit id="0271550a-0610-4e21-849a-f29547a77bdc" resname="ROE·197 | Momentous Fall | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, sacrifice a creature.</source>
-        <target state="translated">牺牲一个生物，以作为施放重大阵亡的额外费用。</target>
+        <target state="translated">牺牲一个生物，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="0271550a-0610-4e21-849a-f29547a77bdc" resname="ROE·197 | Momentous Fall | Card Text | Paragraph 2">
         <source>You draw cards equal to the sacrificed creature's power, then you gain life equal to its toughness.</source>
@@ -2663,11 +2663,11 @@
       </trans-unit>
       <trans-unit id="5d362c3b-f9e1-476b-b5fd-d1292bbc257c" resname="ROE·198 | Mul Daya Channelers | Card Text | Paragraph 2">
         <source>As long as the top card of your library is a creature card, CARDNAME gets +3/+3.</source>
-        <target state="translated">只要你的牌库顶牌是生物牌，慕达雅通念师便得+3/+3。</target>
+        <target state="translated">只要你的牌库顶牌是生物牌，CARDNAME便得+3/+3。</target>
       </trans-unit>
       <trans-unit id="5d362c3b-f9e1-476b-b5fd-d1292bbc257c" resname="ROE·198 | Mul Daya Channelers | Card Text | Paragraph 3">
         <source>As long as the top card of your library is a land card, CARDNAME has &amp;quot;{T}: Add two mana of any one color.&amp;quot;</source>
-        <target state="translated">只要你的牌库顶牌是地牌，慕达雅通念师便具有「{T}：加两点任意颜色的单色法术力到你的法术力池中。」</target>
+        <target state="translated">只要你的牌库顶牌是地牌，CARDNAME便具有「{T}：加两点任意颜色的单色法术力到你的法术力池中。」</target>
       </trans-unit>
       <trans-unit id="a477e081-949f-4cf0-b0d2-b9bdff6c760d" resname="ROE·200 | Nema Siltlurker | Card Name">
         <source>Nema Siltlurker</source>
@@ -2680,7 +2680,7 @@
       </trans-unit>
       <trans-unit id="24517d9c-6cde-41e8-9e82-ee73f069379a" resname="ROE·201 | Nest Invader | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 0/1 colorless Eldrazi Spawn creature token. It has &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">当袭巢恶兽进战场时，将一个0/1无色奥札奇／后裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」</target>
+        <target state="translated">当CARDNAME进战场时，将一个0/1无色奥札奇／后裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="daf8b1e5-418f-4e64-a2ac-0e03b387ed33" resname="ROE·202 | Ondu Giant | Card Name">
@@ -2690,7 +2690,7 @@
       </trans-unit>
       <trans-unit id="daf8b1e5-418f-4e64-a2ac-0e03b387ed33" resname="ROE·202 | Ondu Giant | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">当昂度巨人进战场时，你可以从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="f2e3d197-e978-4ec6-ab69-3c5fd8ac3fc1" resname="ROE·203 | Overgrown Battlement | Card Name">
@@ -2720,12 +2720,12 @@
       </trans-unit>
       <trans-unit id="8e732593-0bdc-4dd4-9b07-9aa1a780e6e8" resname="ROE·204 | Pelakka Wurm | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 7 life.</source>
-        <target state="translated">当皮拉卡亚龙进战场时，你获得7点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得7点生命。</target>
         <note xmlns:from="developer">中文数据来自M19（2018-07-13）；</note>
       </trans-unit>
       <trans-unit id="8e732593-0bdc-4dd4-9b07-9aa1a780e6e8" resname="ROE·204 | Pelakka Wurm | Card Text | Paragraph 3">
         <source>When CARDNAME dies, draw a card.</source>
-        <target state="translated">当皮拉卡亚龙死去时，抓一张牌。</target>
+        <target state="translated">当CARDNAME死去时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自M19（2018-07-13）；</note>
       </trans-unit>
       <trans-unit id="dfd0d15f-8200-46a4-a9e9-e7f0ee2aa0e4" resname="ROE·205 | Prey's Vengeance | Card Name">
@@ -2825,7 +2825,7 @@
       </trans-unit>
       <trans-unit id="51eb9f05-9d5a-4196-9329-626ce4793c42" resname="ROE·212 | Vengevine | Card Text | Paragraph 2">
         <source>Whenever you cast a spell, if it's the second creature spell you cast this turn, you may return CARDNAME from your graveyard to the battlefield.</source>
-        <target state="translated">每当你施放咒语时，若这是你本回合中施放的第二个生物咒语，则你可以将复仇藤蔓从你的坟墓场移回战场。</target>
+        <target state="translated">每当你施放咒语时，若这是你本回合中施放的第二个生物咒语，则你可以将CARDNAME从你的坟墓场移回战场。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="dc8315bf-03af-4f19-92c7-556e486cb099" resname="ROE·213 | Wildheart Invoker | Card Name">
@@ -2844,7 +2844,7 @@
       </trans-unit>
       <trans-unit id="26c1ba92-556e-4da9-8e3a-a4a82612cb29" resname="ROE·214 | Sarkhan the Mad | Card Text | Paragraph 1">
         <source>[0]: Reveal the top card of your library and put it into your hand. CARDNAME deals damage to himself equal to that card's mana value.</source>
-        <target state="translated">0：展示你的牌库顶牌，并将它放入你手上。 狂人萨坎对本身造成伤害，其数量等同于该牌的总法术力费用。</target>
+        <target state="translated">0：展示你的牌库顶牌，并将它放入你手上。 CARDNAME对本身造成伤害，其数量等同于该牌的总法术力费用。</target>
       </trans-unit>
       <trans-unit id="26c1ba92-556e-4da9-8e3a-a4a82612cb29" resname="ROE·214 | Sarkhan the Mad | Card Text | Paragraph 2">
         <source>[−2]: Target creature's controller sacrifices it, then that player creates a 5/5 red Dragon creature token with flying.</source>
@@ -2860,11 +2860,11 @@
       </trans-unit>
       <trans-unit id="4cf1fe7a-eb30-4252-bada-ce3f8096e091" resname="ROE·215 | Angelheart Vial | Card Text | Paragraph 1">
         <source>Whenever you're dealt damage, you may put that many charge counters on CARDNAME.</source>
-        <target state="translated">每当你受到伤害时，你可以在天使心瓶上放置等量的充电指示物。</target>
+        <target state="translated">每当你受到伤害时，你可以在CARDNAME上放置等量的充电指示物。</target>
       </trans-unit>
       <trans-unit id="4cf1fe7a-eb30-4252-bada-ce3f8096e091" resname="ROE·215 | Angelheart Vial | Card Text | Paragraph 2">
         <source>{2}, {T}, Remove four charge counters from CARDNAME: You gain 2 life and draw a card.</source>
-        <target state="translated">{2}，{T}，从天使心瓶上移去四个充电指示物：你获得2点生命并抓一张牌。</target>
+        <target state="translated">{2}，{T}，从CARDNAME上移去四个充电指示物：你获得2点生命并抓一张牌。</target>
       </trans-unit>
       <trans-unit id="79090d66-19ab-456e-96c0-023c84f4e521" resname="ROE·216 | Dreamstone Hedron | Card Name">
         <source>Dreamstone Hedron</source>
@@ -2878,7 +2878,7 @@
       </trans-unit>
       <trans-unit id="79090d66-19ab-456e-96c0-023c84f4e521" resname="ROE·216 | Dreamstone Hedron | Card Text | Paragraph 2">
         <source>{3}, {T}, Sacrifice CARDNAME: Draw three cards.</source>
-        <target state="translated">{3}，{T}，牺牲梦想晶石：抓三张牌。</target>
+        <target state="translated">{3}，{T}，牺牲CARDNAME：抓三张牌。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="74b2e63d-61c6-46e4-9a6f-56653c49b2ea" resname="ROE·217 | Enatu Golem | Card Name">
@@ -2887,7 +2887,7 @@
       </trans-unit>
       <trans-unit id="74b2e63d-61c6-46e4-9a6f-56653c49b2ea" resname="ROE·217 | Enatu Golem | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you gain 4 life.</source>
-        <target state="translated">当依拿图魔像从战场进入坟墓场时，你获得4点生命。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，你获得4点生命。</target>
       </trans-unit>
       <trans-unit id="8f26a7d8-3bc5-4666-a0dc-c5fbd68f9441" resname="ROE·218 | Hedron Matrix | Card Name">
         <source>Hedron Matrix</source>
@@ -2948,7 +2948,7 @@
       </trans-unit>
       <trans-unit id="cfb90d44-8cb1-4b83-b2f2-92c19d6304fb" resname="ROE·222 | Prophetic Prism | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当预视棱镜进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自WOE（2023-09-08）；</note>
       </trans-unit>
       <trans-unit id="cfb90d44-8cb1-4b83-b2f2-92c19d6304fb" resname="ROE·222 | Prophetic Prism | Card Text | Paragraph 2">
@@ -2975,7 +2975,7 @@
       </trans-unit>
       <trans-unit id="9dbbbbf6-e3ed-4a36-bedf-11c3514ff965" resname="ROE·224 | Runed Servitor | Card Text | Paragraph 1">
         <source>When CARDNAME dies, each player draws a card.</source>
-        <target state="translated">当符文随侍死去时，每位牌手各抓一张牌。</target>
+        <target state="translated">当CARDNAME死去时，每位牌手各抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="b7da189e-f692-4b91-a452-3c628c3c2b1c" resname="ROE·225 | Sphinx-Bone Wand | Card Name">
@@ -2984,7 +2984,7 @@
       </trans-unit>
       <trans-unit id="b7da189e-f692-4b91-a452-3c628c3c2b1c" resname="ROE·225 | Sphinx-Bone Wand | Card Text | Paragraph 1">
         <source>Whenever you cast an instant or sorcery spell, you may put a charge counter on CARDNAME. If you do, CARDNAME deals damage equal to the number of charge counters on it to any target.</source>
-        <target state="translated">每当你施放瞬间或法术咒语时，你可以在史芬斯骨杖上放置一个充电指示物。 若你如此作，则史芬斯骨杖对目标生物或牌手造成伤害，其数量等同于史芬斯骨杖上充电指示物的数量。</target>
+        <target state="translated">每当你施放瞬间或法术咒语时，你可以在CARDNAME上放置一个充电指示物。 若你如此作，则CARDNAME对目标生物或牌手造成伤害，其数量等同于CARDNAME上充电指示物的数量。</target>
       </trans-unit>
       <trans-unit id="44da7915-98bd-4f4e-9bcc-801eb10c8a18" resname="ROE·226 | Warmonger's Chariot | Card Name">
         <source>Warmonger's Chariot</source>
@@ -3028,7 +3028,7 @@
       </trans-unit>
       <trans-unit id="bc7e0407-fea1-43ef-8580-82271e440bb3" resname="ROE·228 | Evolving Wilds | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">{T}，牺牲成形野地：从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
+        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自WOE（2023-09-08）；</note>
       </trans-unit>
     </body>

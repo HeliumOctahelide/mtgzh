@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="975f7752-e981-4046-ae9b-90b20db6b23a" resname="ZEN·1 | Armament Master | Card Text | Paragraph 1">
         <source>Other Kor creatures you control get +2/+2 for each Equipment attached to CARDNAME.</source>
-        <target state="translated">每有一个武具装备在军备专家上，由你操控的其他寇族生物便得+2/+2。</target>
+        <target state="translated">每有一个武具装备在CARDNAME上，由你操控的其他寇族生物便得+2/+2。</target>
       </trans-unit>
       <trans-unit id="d94d5ae2-4d37-4c5f-b490-e578297d87c2" resname="ZEN·2 | Arrow Volley Trap | Card Name">
         <source>Arrow Volley Trap</source>
@@ -16,11 +16,11 @@
       </trans-unit>
       <trans-unit id="d94d5ae2-4d37-4c5f-b490-e578297d87c2" resname="ZEN·2 | Arrow Volley Trap | Card Text | Paragraph 1">
         <source>If four or more creatures are attacking, you may pay {1}{W} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果有四个或更多生物进行攻击，你可以支付{1}{W}，而不支付箭丛陷阱的法术力费用。</target>
+        <target state="translated">如果有四个或更多生物进行攻击，你可以支付{1}{W}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="d94d5ae2-4d37-4c5f-b490-e578297d87c2" resname="ZEN·2 | Arrow Volley Trap | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage divided as you choose among any number of target attacking creatures.</source>
-        <target state="translated">箭丛陷阱造成5点伤害，你可任意分配于任何数量之目标进行攻击的生物上。</target>
+        <target state="translated">CARDNAME造成5点伤害，你可任意分配于任何数量之目标进行攻击的生物上。</target>
       </trans-unit>
       <trans-unit id="5f657723-dd5d-4786-9d9b-ac7ed279615a" resname="ZEN·3 | Bold Defense | Card Name">
         <source>Bold Defense</source>
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="5f657723-dd5d-4786-9d9b-ac7ed279615a" resname="ZEN·3 | Bold Defense | Card Text | Paragraph 2">
         <source>Creatures you control get +1/+1 until end of turn. If CARDNAME was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.</source>
-        <target state="translated">由你操控的生物得+1/+1直到回合结束。 如果果敢防卫已增幅，则改为直到回合结束，由你操控的生物得+2/+2且获得先攻异能。</target>
+        <target state="translated">由你操控的生物得+1/+1直到回合结束。 如果CARDNAME已增幅，则改为直到回合结束，由你操控的生物得+2/+2且获得先攻异能。</target>
       </trans-unit>
       <trans-unit id="c14c492d-3fd7-4b2a-910e-bfcb33752eba" resname="ZEN·4 | Brave the Elements | Card Name">
         <source>Brave the Elements</source>
@@ -84,7 +84,7 @@
       </trans-unit>
       <trans-unit id="1af1844a-601a-48c1-bf96-921d2d2e2aa1" resname="ZEN·8 | Conqueror's Pledge | Card Text | Paragraph 2">
         <source>Put six 1/1 white Kor Soldier creature tokens onto the battlefield. If CARDNAME was kicked, put twelve of those tokens onto the battlefield instead.</source>
-        <target state="translated">将六个1/1白色寇族士兵衍生物放进战场。 如果征服誓言已增幅，则改为将十二个此类衍生物放进战场。</target>
+        <target state="translated">将六个1/1白色寇族士兵衍生物放进战场。 如果CARDNAME已增幅，则改为将十二个此类衍生物放进战场。</target>
       </trans-unit>
       <trans-unit id="2aa98fca-972b-46c2-bdec-6ace35c988d5" resname="ZEN·9 | Day of Judgment | Card Name">
         <source>Day of Judgment</source>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="16e31e43-84d3-429e-9e81-60b325989c93" resname="ZEN·10 | Devout Lightcaster | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile target black permanent.</source>
-        <target state="translated">当虔诚圣光僧进战场时，放逐目标黑色永久物。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标黑色永久物。</target>
       </trans-unit>
       <trans-unit id="8b386d39-ba41-42f8-ba05-f9ed602ee23f" resname="ZEN·11 | Emeria Angel | Card Name">
         <source>Emeria Angel</source>
@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit id="62458cfe-7231-4e09-b398-9c4d9330d08e" resname="ZEN·13 | Iona, Shield of Emeria | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于伊美黎之盾艾欧娜进战场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种颜色。</target>
       </trans-unit>
       <trans-unit id="62458cfe-7231-4e09-b398-9c4d9330d08e" resname="ZEN·13 | Iona, Shield of Emeria | Card Text | Paragraph 3">
         <source>Your opponents can't cast spells of the chosen color.</source>
@@ -152,11 +152,11 @@
       </trans-unit>
       <trans-unit id="09cfe585-8a55-4b27-89e0-dfb6946fe1f3" resname="ZEN·14 | Journey to Nowhere | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target creature.</source>
-        <target state="translated">当未知旅程进战场时，放逐目标生物。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标生物。</target>
       </trans-unit>
       <trans-unit id="09cfe585-8a55-4b27-89e0-dfb6946fe1f3" resname="ZEN·14 | Journey to Nowhere | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return the exiled card to the battlefield under its owner's control.</source>
-        <target state="translated">当未知旅程离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="57f05d96-42d5-4e1d-a9c6-229a3f42dda9" resname="ZEN·15 | Kabira Evangel | Card Name">
         <source>Kabira Evangel</source>
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit id="57f05d96-42d5-4e1d-a9c6-229a3f42dda9" resname="ZEN·15 | Kabira Evangel | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may choose a color. If you do, Allies you control gain protection from the chosen color until end of turn.</source>
-        <target state="translated">每当卡彼拉福音师或另一个伙伴在你的操控下进战场时，你可以选择一种颜色。 若你如此作，由你操控的伙伴获得反该色保护异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以选择一种颜色。 若你如此作，由你操控的伙伴获得反该色保护异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9642bdbf-c03f-4c48-a5c8-c9201a08b834" resname="ZEN·16 | Kazandu Blademaster | Card Name">
         <source>Kazandu Blademaster</source>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="9642bdbf-c03f-4c48-a5c8-c9201a08b834" resname="ZEN·16 | Kazandu Blademaster | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当卡赞度大剑师或另一个伙伴在你的操控下进战场时，你可以在卡赞度大剑师上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="87ae3eb8-b570-4129-9d4e-b7afa8fc4840" resname="ZEN·17 | Kor Aeronaut | Card Name">
         <source>Kor Aeronaut</source>
@@ -192,7 +192,7 @@
       </trans-unit>
       <trans-unit id="87ae3eb8-b570-4129-9d4e-b7afa8fc4840" resname="ZEN·17 | Kor Aeronaut | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if it was kicked, target creature gains flying until end of turn.</source>
-        <target state="translated">当空行寇族进战场时，若它已增幅，则目标生物获得飞行异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，则目标生物获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6063b7ee-94ae-4a5b-9902-6aa0335af593" resname="ZEN·18 | Kor Cartographer | Card Name">
         <source>Kor Cartographer</source>
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="6063b7ee-94ae-4a5b-9902-6aa0335af593" resname="ZEN·18 | Kor Cartographer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.</source>
-        <target state="translated">当寇族制图师进战场时，你可以从你的牌库中搜寻一张平原牌，将之横置进战场，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库中搜寻一张平原牌，将之横置进战场，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="4fd1af74-ba3b-4528-9490-99edd54e9fe1" resname="ZEN·19 | Kor Duelist | Card Name">
         <source>Kor Duelist</source>
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="4fd1af74-ba3b-4528-9490-99edd54e9fe1" resname="ZEN·19 | Kor Duelist | Card Text | Paragraph 1">
         <source>As long as CARDNAME is equipped, it has double strike. (It deals both first-strike and regular combat damage.)</source>
-        <target state="translated">只要寇族斗客佩带武具，它便具有连击异能。 （它能造成先攻与普通战斗伤害。）</target>
+        <target state="translated">只要CARDNAME佩带武具，它便具有连击异能。 （它能造成先攻与普通战斗伤害。）</target>
       </trans-unit>
       <trans-unit id="68ad3199-c202-4b71-8a36-53547e70c39b" resname="ZEN·20 | Kor Hookmaster | Card Name">
         <source>Kor Hookmaster</source>
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="68ad3199-c202-4b71-8a36-53547e70c39b" resname="ZEN·20 | Kor Hookmaster | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.</source>
-        <target state="translated">当寇族使钩大师进战场时，横置目标由对手操控的生物。 该生物于其操控者的下一个重置步骤中不能重置。</target>
+        <target state="translated">当CARDNAME进战场时，横置目标由对手操控的生物。 该生物于其操控者的下一个重置步骤中不能重置。</target>
       </trans-unit>
       <trans-unit id="00006596-1166-4a79-8443-ca9f82e6db4e" resname="ZEN·21 | Kor Outfitter | Card Name">
         <source>Kor Outfitter</source>
@@ -224,7 +224,7 @@
       </trans-unit>
       <trans-unit id="00006596-1166-4a79-8443-ca9f82e6db4e" resname="ZEN·21 | Kor Outfitter | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may attach target Equipment you control to target creature you control.</source>
-        <target state="translated">当寇族验装兵进战场时，你可以将目标由你操控的武具装备在目标由你操控的生物上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标由你操控的武具装备在目标由你操控的生物上。</target>
       </trans-unit>
       <trans-unit id="038b04fe-d77a-4192-a084-654ef39aa9ff" resname="ZEN·22 | Kor Sanctifiers | Card Name">
         <source>Kor Sanctifiers</source>
@@ -236,7 +236,7 @@
       </trans-unit>
       <trans-unit id="038b04fe-d77a-4192-a084-654ef39aa9ff" resname="ZEN·22 | Kor Sanctifiers | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it was kicked, destroy target artifact or enchantment.</source>
-        <target state="translated">当寇族净圣僧进战场时，若它已增幅，消灭目标神器或结界。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，消灭目标神器或结界。</target>
       </trans-unit>
       <trans-unit id="bb2e9465-f5ba-4c7b-9f03-d40dc8394acd" resname="ZEN·23 | Kor Skyfisher | Card Name">
         <source>Kor Skyfisher</source>
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="bb2e9465-f5ba-4c7b-9f03-d40dc8394acd" resname="ZEN·23 | Kor Skyfisher | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return a permanent you control to its owner's hand.</source>
-        <target state="translated">当寇族空渔人进战场时，将一个由你操控的永久物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将一个由你操控的永久物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="245357c6-b4cd-40f3-b7c2-413eee767239" resname="ZEN·24 | Landbind Ritual | Card Name">
         <source>Landbind Ritual</source>
@@ -264,11 +264,11 @@
       </trans-unit>
       <trans-unit id="e9f3a20f-a788-4d8b-946b-d9c1c983a85a" resname="ZEN·25 | Luminarch Ascension | Card Text | Paragraph 1">
         <source>At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on CARDNAME. (Damage causes loss of life.)</source>
-        <target state="translated">在每位对手的结束步骤开始时，若你本回合并未失去生命值，你可以在辉侯腾扬上放置一个探索指示物。 （伤害会导致失去生命。）</target>
+        <target state="translated">在每位对手的结束步骤开始时，若你本回合并未失去生命值，你可以在CARDNAME上放置一个探索指示物。 （伤害会导致失去生命。）</target>
       </trans-unit>
       <trans-unit id="e9f3a20f-a788-4d8b-946b-d9c1c983a85a" resname="ZEN·25 | Luminarch Ascension | Card Text | Paragraph 2">
         <source>{1}{W}: Put a 4/4 white Angel creature token with flying onto the battlefield. Activate this ability only if CARDNAME has four or more quest counters on it.</source>
-        <target state="translated">{1}{W}：将一个4/4白色，具飞行异能的天使衍生物放进战场。 只能于辉侯腾扬上有四个或更多探索指示物时起动此异能。</target>
+        <target state="translated">{1}{W}：将一个4/4白色，具飞行异能的天使衍生物放进战场。 只能于CARDNAME上有四个或更多探索指示物时起动此异能。</target>
       </trans-unit>
       <trans-unit id="e76e9555-966c-4fc3-9ef4-a0154ccb8329" resname="ZEN·26 | Makindi Shieldmate | Card Name">
         <source>Makindi Shieldmate</source>
@@ -280,7 +280,7 @@
       </trans-unit>
       <trans-unit id="e76e9555-966c-4fc3-9ef4-a0154ccb8329" resname="ZEN·26 | Makindi Shieldmate | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当马钦迪护盾手或另一个伙伴在你的操控下进战场时，你可以在马钦迪护盾手上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2c9942a2-11d2-403b-89c6-35c23ac9e9da" resname="ZEN·27 | Narrow Escape | Card Name">
         <source>Narrow Escape</source>
@@ -320,7 +320,7 @@
       </trans-unit>
       <trans-unit id="ced43447-fefc-482a-b8fa-33b9616aa532" resname="ZEN·30 | Ondu Cleric | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.</source>
-        <target state="translated">每当昂度僧侣或另一个伙伴在你的操控下进战场时，你可以获得若干生命，其数量等同于由你操控的伙伴数量。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以获得若干生命，其数量等同于由你操控的伙伴数量。</target>
       </trans-unit>
       <trans-unit id="d70a8ff1-f0cf-4aef-ad90-06902f98d434" resname="ZEN·31 | Pillarfield Ox | Card Name">
         <source>Pillarfield Ox</source>
@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit id="2823d9a5-dd2f-4e6a-8e3d-554c4204aa32" resname="ZEN·32 | Pitfall Trap | Card Text | Paragraph 1">
         <source>If exactly one creature is attacking, you may pay {W} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果只有一个生物进行攻击，你可以支付{W}，而不支付坠穴陷阱的法术力费用。</target>
+        <target state="translated">如果只有一个生物进行攻击，你可以支付{W}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="2823d9a5-dd2f-4e6a-8e3d-554c4204aa32" resname="ZEN·32 | Pitfall Trap | Card Text | Paragraph 2">
         <source>Destroy target attacking creature without flying.</source>
@@ -344,11 +344,11 @@
       </trans-unit>
       <trans-unit id="00d6b8bb-ec11-4ded-a7fc-fa4ea0bb96cc" resname="ZEN·33 | Quest for the Holy Relic | Card Text | Paragraph 1">
         <source>Whenever you cast a creature spell, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">每当你施放生物咒语时，你可以在探索神圣遗宝上放置一个探索指示物。</target>
+        <target state="translated">每当你施放生物咒语时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="00d6b8bb-ec11-4ded-a7fc-fa4ea0bb96cc" resname="ZEN·33 | Quest for the Holy Relic | Card Text | Paragraph 2">
         <source>Remove five quest counters from CARDNAME and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library.</source>
-        <target state="translated">从探索神圣遗宝上移去五个探索指示物并牺牲它：从你的牌库中搜寻一张武具牌，将它放进战场，并装备在由你操控的一个生物上。 然后将你的牌库洗牌。</target>
+        <target state="translated">从CARDNAME上移去五个探索指示物并牺牲它：从你的牌库中搜寻一张武具牌，将它放进战场，并装备在由你操控的一个生物上。 然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="ff23b1c2-7b99-4504-8944-ada264725524" resname="ZEN·34 | Shepherd of the Lost | Card Name">
         <source>Shepherd of the Lost</source>
@@ -372,7 +372,7 @@
       </trans-unit>
       <trans-unit id="b0aaec1c-8084-4468-82e7-2e4cc5ebe244" resname="ZEN·36 | Steppe Lynx | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，草原山猫得+2/+2直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b0811c4c-9e91-4785-b3d2-e4221c5d92d8" resname="ZEN·37 | Sunspring Expedition | Card Name">
         <source>Sunspring Expedition</source>
@@ -380,11 +380,11 @@
       </trans-unit>
       <trans-unit id="b0811c4c-9e91-4785-b3d2-e4221c5d92d8" resname="ZEN·37 | Sunspring Expedition | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以在日泉探险上放置一个探索指示物。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="b0811c4c-9e91-4785-b3d2-e4221c5d92d8" resname="ZEN·37 | Sunspring Expedition | Card Text | Paragraph 2">
         <source>Remove three quest counters from CARDNAME and sacrifice it: You gain 8 life.</source>
-        <target state="translated">从日泉探险上移去三个探索指示物并牺牲它：你获得8点生命。</target>
+        <target state="translated">从CARDNAME上移去三个探索指示物并牺牲它：你获得8点生命。</target>
       </trans-unit>
       <trans-unit id="9a8b0fd3-ae3e-41eb-b31b-d941b84b6c64" resname="ZEN·38 | Windborne Charge | Card Name">
         <source>Windborne Charge</source>
@@ -412,11 +412,11 @@
       </trans-unit>
       <trans-unit id="73a4657b-98de-4f4c-b921-46d15a8e6f5a" resname="ZEN·40 | Aether Figment | Card Text | Paragraph 2">
         <source>Æther Figment is unblockable.</source>
-        <target state="translated">乙太拟体不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="73a4657b-98de-4f4c-b921-46d15a8e6f5a" resname="ZEN·40 | Aether Figment | Card Text | Paragraph 3">
         <source>If Æther Figment was kicked, it enters the battlefield with two +1/+1 counters on it.</source>
-        <target state="translated">如果乙太拟体已增幅，它进战场时上面有两个+1/+1指示物。</target>
+        <target state="translated">如果CARDNAME已增幅，它进战场时上面有两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="67bb2ca9-32b8-442d-b6a0-d624a87f5af8" resname="ZEN·41 | Archive Trap | Card Name">
         <source>Archive Trap</source>
@@ -424,7 +424,7 @@
       </trans-unit>
       <trans-unit id="67bb2ca9-32b8-442d-b6a0-d624a87f5af8" resname="ZEN·41 | Archive Trap | Card Text | Paragraph 1">
         <source>If an opponent searched his or her library this turn, you may pay {0} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果本回合中某对手搜寻过其牌库，你可以支付{0}，而不支付档案陷阱的法术力费用。</target>
+        <target state="translated">如果本回合中某对手搜寻过其牌库，你可以支付{0}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="67bb2ca9-32b8-442d-b6a0-d624a87f5af8" resname="ZEN·41 | Archive Trap | Card Text | Paragraph 2">
         <source>Target opponent puts the top thirteen cards of his or her library into his or her graveyard.</source>
@@ -436,11 +436,11 @@
       </trans-unit>
       <trans-unit id="dbfe803d-88d7-4ad2-b3d8-c41c123d8bf3" resname="ZEN·42 | Archmage Ascension | Card Text | Paragraph 1">
         <source>At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">在每个结束步骤开始时，若本回合中你抓过两张或更多牌，你可以在法侯腾扬上放置一个探索指示物。</target>
+        <target state="translated">在每个结束步骤开始时，若本回合中你抓过两张或更多牌，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="dbfe803d-88d7-4ad2-b3d8-c41c123d8bf3" resname="ZEN·42 | Archmage Ascension | Card Text | Paragraph 2">
         <source>As long as CARDNAME has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle your library.</source>
-        <target state="translated">只要法侯腾扬上有六个或更多探索指示物，如果你将抓一张牌，你可以改为从你的牌库中搜寻一张牌，将该牌置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">只要CARDNAME上有六个或更多探索指示物，如果你将抓一张牌，你可以改为从你的牌库中搜寻一张牌，将该牌置于你手上，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="b5aabef2-982b-42c9-9804-08ce4d8910cd" resname="ZEN·43 | Caller of Gales | Card Name">
         <source>Caller of Gales</source>
@@ -464,7 +464,7 @@
       </trans-unit>
       <trans-unit id="e1eb7372-481a-44a6-937d-21430ee02ff9" resname="ZEN·45 | Cosi's Trickster | Card Text | Paragraph 1">
         <source>Whenever an opponent shuffles his or her library, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当任一对手将其牌库洗牌时，你可以在寇希诈术师上放置一个+1/+1指示物。</target>
+        <target state="translated">每当任一对手将其牌库洗牌时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="119d2661-ba22-4901-b89a-a0a8ec25d004" resname="ZEN·46 | Gomazoa | Card Name">
         <source>Gomazoa</source>
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit id="119d2661-ba22-4901-b89a-a0a8ec25d004" resname="ZEN·46 | Gomazoa | Card Text | Paragraph 2">
         <source>{T}: Put CARDNAME and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.</source>
-        <target state="translated">{T}：将格玛佐雅与它所阻挡的每个生物各置于其拥有者的牌库顶，然后这些牌手将其牌库洗牌。</target>
+        <target state="translated">{T}：将CARDNAME与它所阻挡的每个生物各置于其拥有者的牌库顶，然后这些牌手将其牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="f0fa1946-4f97-4c52-b5f2-b80571230616" resname="ZEN·47 | Hedron Crab | Card Name">
         <source>Hedron Crab</source>
@@ -496,7 +496,7 @@
       </trans-unit>
       <trans-unit id="5dba9972-dd8b-407b-9374-a8f0ed1a96db" resname="ZEN·48 | Into the Roil | Card Text | Paragraph 2">
         <source>Return target nonland permanent to its owner's hand. If CARDNAME was kicked, draw a card.</source>
-        <target state="translated">将目标非地永久物移回其拥有者手上。 如果没入狂搅已增幅，抓一张牌。</target>
+        <target state="translated">将目标非地永久物移回其拥有者手上。 如果CARDNAME已增幅，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="2acdba29-3a09-42d4-bce2-ce615c36bb3c" resname="ZEN·49 | Ior Ruin Expedition | Card Name">
         <source>Ior Ruin Expedition</source>
@@ -504,11 +504,11 @@
       </trans-unit>
       <trans-unit id="2acdba29-3a09-42d4-bce2-ce615c36bb3c" resname="ZEN·49 | Ior Ruin Expedition | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以在艾瓯遗迹探险上放置一个探索指示物。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="2acdba29-3a09-42d4-bce2-ce615c36bb3c" resname="ZEN·49 | Ior Ruin Expedition | Card Text | Paragraph 2">
         <source>Remove three quest counters from CARDNAME and sacrifice it: Draw two cards.</source>
-        <target state="translated">从艾瓯遗迹探险上移去三个探索指示物并牺牲它：抓两张牌。</target>
+        <target state="translated">从CARDNAME上移去三个探索指示物并牺牲它：抓两张牌。</target>
       </trans-unit>
       <trans-unit id="45d100a3-93f2-428c-8f54-8807e71f2638" resname="ZEN·50 | Kraken Hatchling | Card Name">
         <source>Kraken Hatchling</source>
@@ -520,7 +520,7 @@
       </trans-unit>
       <trans-unit id="351aa3f2-864a-4921-a01c-8712560087bb" resname="ZEN·51 | Lethargy Trap | Card Text | Paragraph 1">
         <source>If three or more creatures are attacking, you may pay {U} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果有三个或更多生物进行攻击，你可以支付{U}，而不支付昏睡陷阱的法术力费用。</target>
+        <target state="translated">如果有三个或更多生物进行攻击，你可以支付{U}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="351aa3f2-864a-4921-a01c-8712560087bb" resname="ZEN·51 | Lethargy Trap | Card Text | Paragraph 2">
         <source>Attacking creatures get -3/-0 until end of turn.</source>
@@ -536,7 +536,7 @@
       </trans-unit>
       <trans-unit id="107a4e2b-e463-46f3-a431-66ea954ef487" resname="ZEN·52 | Living Tsunami | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you return a land you control to its owner's hand.</source>
-        <target state="translated">在你的维持开始时，除非你将由你操控的一个地移回其拥有者手上，否则牺牲活体海啸。</target>
+        <target state="translated">在你的维持开始时，除非你将由你操控的一个地移回其拥有者手上，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="60ddf68e-e78e-4709-9c7a-c6e8cbb1f56f" resname="ZEN·53 | Lorthos, the Tidemaker | Card Name">
         <source>Lorthos, the Tidemaker</source>
@@ -544,7 +544,7 @@
       </trans-unit>
       <trans-unit id="60ddf68e-e78e-4709-9c7a-c6e8cbb1f56f" resname="ZEN·53 | Lorthos, the Tidemaker | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may pay {8}. If you do, tap up to eight target permanents. Those permanents don't untap during their controllers' next untap steps.</source>
-        <target state="translated">每当兴潮罗佐司攻击时，你可以支付{8}。 若你如此作，横置至多八个目标永久物。 这些永久物于其操控者的下一个重置步骤中不能重置。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付{8}。 若你如此作，横置至多八个目标永久物。 这些永久物于其操控者的下一个重置步骤中不能重置。</target>
       </trans-unit>
       <trans-unit id="e34de3df-3236-4281-a043-7583c76d89cc" resname="ZEN·54 | Lullmage Mentor | Card Name">
         <source>Lullmage Mentor</source>
@@ -580,7 +580,7 @@
       </trans-unit>
       <trans-unit id="71ab86f3-aa75-40ce-a71e-90d40dad4bdc" resname="ZEN·56 | Merfolk Wayfinder | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">当引路人鱼进战场时，展示你牌库顶的三张牌。 将所有以此法展示的海岛牌置于你手上，其余则以任意顺序置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，展示你牌库顶的三张牌。 将所有以此法展示的海岛牌置于你手上，其余则以任意顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="4f51140b-6254-431a-8810-94307bfdfbbe" resname="ZEN·57 | Mindbreak Trap | Card Name">
         <source>Mindbreak Trap</source>
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="4f51140b-6254-431a-8810-94307bfdfbbe" resname="ZEN·57 | Mindbreak Trap | Card Text | Paragraph 1">
         <source>If an opponent cast three or more spells this turn, you may pay {0} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果本回合中某对手施放了三个或更多咒语，你可以支付{0}，而不支付歼智陷阱的法术力费用。</target>
+        <target state="translated">如果本回合中某对手施放了三个或更多咒语，你可以支付{0}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="4f51140b-6254-431a-8810-94307bfdfbbe" resname="ZEN·57 | Mindbreak Trap | Card Text | Paragraph 2">
         <source>Exile any number of target spells.</source>
@@ -612,11 +612,11 @@
       </trans-unit>
       <trans-unit id="0de22b67-968e-49e1-ae96-6dd0ee75cd54" resname="ZEN·59 | Quest for Ancient Secrets | Card Text | Paragraph 1">
         <source>Whenever a card is put into your graveyard from anywhere, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">每当一张牌从任何地方置入你的坟墓场时，你可以在探索远古秘密上放置一个探索指示物。</target>
+        <target state="translated">每当一张牌从任何地方置入你的坟墓场时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="0de22b67-968e-49e1-ae96-6dd0ee75cd54" resname="ZEN·59 | Quest for Ancient Secrets | Card Text | Paragraph 2">
         <source>Remove five quest counters from CARDNAME and sacrifice it: Target player shuffles his or her graveyard into his or her library.</source>
-        <target state="translated">从探索远古秘密上移去五个探索指示物并牺牲它：目标牌手将其坟墓场洗回牌库。</target>
+        <target state="translated">从CARDNAME上移去五个探索指示物并牺牲它：目标牌手将其坟墓场洗回牌库。</target>
       </trans-unit>
       <trans-unit id="b9b059c5-6812-42eb-a010-87fb9e0bb2b9" resname="ZEN·60 | Reckless Scholar | Card Name">
         <source>Reckless Scholar</source>
@@ -636,7 +636,7 @@
       </trans-unit>
       <trans-unit id="4530fe45-8a3d-48e9-a7a5-abf8fb1485e3" resname="ZEN·61 | Rite of Replication | Card Text | Paragraph 2">
         <source>Put a token onto the battlefield that's a copy of target creature. If CARDNAME was kicked, put five of those tokens onto the battlefield instead.</source>
-        <target state="translated">将一个衍生物放进战场，此衍生物为目标生物之复制。 如果模造仪式已增幅，则改为将五个此类衍生物放进战场。</target>
+        <target state="translated">将一个衍生物放进战场，此衍生物为目标生物之复制。 如果CARDNAME已增幅，则改为将五个此类衍生物放进战场。</target>
       </trans-unit>
       <trans-unit id="66139c73-8e14-433d-bcb6-ae3e518bcdfb" resname="ZEN·62 | Roil Elemental | Card Name">
         <source>Roil Elemental</source>
@@ -648,7 +648,7 @@
       </trans-unit>
       <trans-unit id="66139c73-8e14-433d-bcb6-ae3e518bcdfb" resname="ZEN·62 | Roil Elemental | Card Text | Paragraph 2">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may gain control of target creature for as long as you control CARDNAME.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，只要你操控狂搅元素，你便可以获得目标生物的操控权。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，只要你操控CARDNAME，你便可以获得目标生物的操控权。</target>
       </trans-unit>
       <trans-unit id="5cd723c8-4b3d-4fbb-a825-79934279382d" resname="ZEN·63 | Sea Gate Loremaster | Card Name">
         <source>Sea Gate Loremaster</source>
@@ -664,7 +664,7 @@
       </trans-unit>
       <trans-unit id="3690efc8-de2b-4476-87da-d8ed9572dc84" resname="ZEN·64 | Seascape Aerialist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may have Ally creatures you control gain flying until end of turn.</source>
-        <target state="translated">每当海景舞空师或另一个伙伴在你的操控下进战场时，你可以让由你操控的伙伴生物获得飞行异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以让由你操控的伙伴生物获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a4a98047-8e6d-416c-b11d-cc4c2a56b624" resname="ZEN·65 | Shoal Serpent | Card Name">
         <source>Shoal Serpent</source>
@@ -676,7 +676,7 @@
       </trans-unit>
       <trans-unit id="a4a98047-8e6d-416c-b11d-cc4c2a56b624" resname="ZEN·65 | Shoal Serpent | Card Text | Paragraph 2">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME loses defender until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，暗礁巨蛇失去守军异能直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME失去守军异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2bdb5850-df1e-4d8a-af7a-15cab080fb8f" resname="ZEN·66 | Sky Ruin Drake | Card Name">
         <source>Sky Ruin Drake</source>
@@ -720,7 +720,7 @@
       </trans-unit>
       <trans-unit id="d97b61b6-bf80-4326-a646-a1985e0b50d7" resname="ZEN·69 | Sphinx of Lost Truths | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, draw three cards. Then if it wasn't kicked, discard three cards.</source>
-        <target state="translated">当秘闻史芬斯进战场时，抓三张牌。 然后如果它未增幅，则弃三张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓三张牌。 然后如果它未增幅，则弃三张牌。</target>
       </trans-unit>
       <trans-unit id="37454c1c-4098-4ac2-884e-3f65f1384bdb" resname="ZEN·70 | Spreading Seas | Card Name">
         <source>Spreading Seas</source>
@@ -732,7 +732,7 @@
       </trans-unit>
       <trans-unit id="37454c1c-4098-4ac2-884e-3f65f1384bdb" resname="ZEN·70 | Spreading Seas | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当海域蔓延进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="37454c1c-4098-4ac2-884e-3f65f1384bdb" resname="ZEN·70 | Spreading Seas | Card Text | Paragraph 3">
         <source>Enchanted land is an Island.</source>
@@ -760,7 +760,7 @@
       </trans-unit>
       <trans-unit id="d173dda8-de9f-4148-b5be-85d1a4c4faf6" resname="ZEN·72 | Tempest Owl | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if it was kicked, tap up to three target permanents.</source>
-        <target state="translated">当风暴猫头鹰进战场时，若它已增幅，则横置至多三个目标永久物。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，则横置至多三个目标永久物。</target>
       </trans-unit>
       <trans-unit id="0c9dfda7-c034-478e-a52a-e4a272c7d160" resname="ZEN·73 | Trapfinder's Trick | Card Name">
         <source>Trapfinder's Trick</source>
@@ -788,7 +788,7 @@
       </trans-unit>
       <trans-unit id="6049cc80-1faa-48bf-897e-fefe5a8e7ab2" resname="ZEN·75 | Umara Raptor | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当乌玛拉猎鸟或另一个伙伴在你的操控下进战场时，你可以在乌玛拉猎鸟上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="357931d0-8ba6-4857-9db9-7f42d81514a5" resname="ZEN·76 | Welkin Tern | Card Name">
         <source>Welkin Tern</source>
@@ -800,7 +800,7 @@
       </trans-unit>
       <trans-unit id="357931d0-8ba6-4857-9db9-7f42d81514a5" resname="ZEN·76 | Welkin Tern | Card Text | Paragraph 2">
         <source>CARDNAME can block only creatures with flying.</source>
-        <target state="translated">苍穹飞燕只能阻挡具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能阻挡具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="0a80e6ae-13e0-46f7-baef-5fa7dfcedcec" resname="ZEN·77 | Whiplash Trap | Card Name">
         <source>Whiplash Trap</source>
@@ -808,7 +808,7 @@
       </trans-unit>
       <trans-unit id="0a80e6ae-13e0-46f7-baef-5fa7dfcedcec" resname="ZEN·77 | Whiplash Trap | Card Text | Paragraph 1">
         <source>If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果本回合中某对手有两个或更多生物在其操控下进战场，你可以支付{U}，而不支付鞭击陷阱的法术力费用。</target>
+        <target state="translated">如果本回合中某对手有两个或更多生物在其操控下进战场，你可以支付{U}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="0a80e6ae-13e0-46f7-baef-5fa7dfcedcec" resname="ZEN·77 | Whiplash Trap | Card Text | Paragraph 2">
         <source>Return two target creatures to their owners' hands.</source>
@@ -824,7 +824,7 @@
       </trans-unit>
       <trans-unit id="c18b11f0-19cc-4169-84e0-fbb038a5c848" resname="ZEN·78 | Windrider Eel | Card Text | Paragraph 2">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，御风鳗得+2/+2直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="0b4598ec-cf36-4a51-9f67-b91c146c3c4f" resname="ZEN·79 | Bala Ged Thief | Card Name">
         <source>Bala Ged Thief</source>
@@ -832,7 +832,7 @@
       </trans-unit>
       <trans-unit id="0b4598ec-cf36-4a51-9f67-b91c146c3c4f" resname="ZEN·79 | Bala Ged Thief | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, target player reveals a number of cards from his or her hand equal to the number of Allies you control. You choose one of them. That player discards that card.</source>
-        <target state="translated">每当巴勒格窃贼或另一个伙伴在你的操控下进战场时，目标牌手从手上展示若干牌，其数量等同由你操控的伙伴数量。 你从中选择一张。 该牌手弃掉该牌。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，目标牌手从手上展示若干牌，其数量等同由你操控的伙伴数量。 你从中选择一张。 该牌手弃掉该牌。</target>
       </trans-unit>
       <trans-unit id="d1abc9e8-9ecf-4665-9ea5-ee18ab83c148" resname="ZEN·80 | Blood Seeker | Card Name">
         <source>Blood Seeker</source>
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="c76487d3-1d52-4c31-917e-eb929907218d" resname="ZEN·81 | Blood Tribute | Card Text | Paragraphs">
         <source>Kicker—\nTap an untapped Vampire you control. (You may tap a Vampire you control in addition to any other costs as you cast this spell.)\nTarget opponent loses half his or her life, rounded up. If CARDNAME was kicked, you gain life equal to the life lost this way.</source>
-        <target state="translated">增幅～横置一个由你操控且未横置的吸血鬼。 （你施放此咒语时可以额外横置一个由你操控的吸血鬼，并支付任何其他费用。）\n目标对手失去一半数量的生命，该数量小数点后进位。 如果鲜血献礼已增幅，则你获得若干生命，其数量等同于以此法失去的生命。</target>
+        <target state="translated">增幅～横置一个由你操控且未横置的吸血鬼。 （你施放此咒语时可以额外横置一个由你操控的吸血鬼，并支付任何其他费用。）\n目标对手失去一半数量的生命，该数量小数点后进位。 如果CARDNAME已增幅，则你获得若干生命，其数量等同于以此法失去的生命。</target>
       </trans-unit>
       <trans-unit id="aa213dbb-c52a-4084-92aa-d0b5d97a97d9" resname="ZEN·82 | Bloodchief Ascension | Card Name">
         <source>Bloodchief Ascension</source>
@@ -856,11 +856,11 @@
       </trans-unit>
       <trans-unit id="aa213dbb-c52a-4084-92aa-d0b5d97a97d9" resname="ZEN·82 | Bloodchief Ascension | Card Text | Paragraph 1">
         <source>At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on CARDNAME. (Damage causes loss of life.)</source>
-        <target state="translated">在每个结束步骤开始时，若本回合中某对手失去了2点或更多生命，你可以在血侯腾扬上放置一个探索指示物。 （伤害会导致失去生命。）</target>
+        <target state="translated">在每个结束步骤开始时，若本回合中某对手失去了2点或更多生命，你可以在CARDNAME上放置一个探索指示物。 （伤害会导致失去生命。）</target>
       </trans-unit>
       <trans-unit id="aa213dbb-c52a-4084-92aa-d0b5d97a97d9" resname="ZEN·82 | Bloodchief Ascension | Card Text | Paragraph 2">
         <source>Whenever a card is put into an opponent's graveyard from anywhere, if CARDNAME has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life.</source>
-        <target state="translated">每当一张牌从任何地方置入对手的坟墓场时，若血侯腾扬上有三个或更多探索指示物，则你可以令该牌手失去2点生命。 若你如此作，则你获得2点生命。</target>
+        <target state="translated">每当一张牌从任何地方置入对手的坟墓场时，若CARDNAME上有三个或更多探索指示物，则你可以令该牌手失去2点生命。 若你如此作，则你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="63870c81-63bf-4a9a-aeb5-74c6eaded9f1" resname="ZEN·83 | Bloodghast | Card Name">
         <source>Bloodghast</source>
@@ -868,15 +868,15 @@
       </trans-unit>
       <trans-unit id="63870c81-63bf-4a9a-aeb5-74c6eaded9f1" resname="ZEN·83 | Bloodghast | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">可怖血妖不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="63870c81-63bf-4a9a-aeb5-74c6eaded9f1" resname="ZEN·83 | Bloodghast | Card Text | Paragraph 2">
         <source>CARDNAME has haste as long as an opponent has 10 or less life.</source>
-        <target state="translated">只要任一对手的总生命为10或更少，可怖血妖便具有敏捷异能。</target>
+        <target state="translated">只要任一对手的总生命为10或更少，CARDNAME便具有敏捷异能。</target>
       </trans-unit>
       <trans-unit id="63870c81-63bf-4a9a-aeb5-74c6eaded9f1" resname="ZEN·83 | Bloodghast | Card Text | Paragraph 3">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may return CARDNAME from your graveyard to the battlefield.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以将可怖血妖从你的坟墓场移回战场。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以将CARDNAME从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="a0830c00-02fa-4fc8-907c-19d4b7f9cd6e" resname="ZEN·84 | Bog Tatters | Card Name">
         <source>Bog Tatters</source>
@@ -896,7 +896,7 @@
       </trans-unit>
       <trans-unit id="9920e91d-58c1-4c1a-a177-43423db96842" resname="ZEN·85 | Crypt Ripper | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：墓穴夺魂妖得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="3f05e478-8712-41de-94af-ecb90432e562" resname="ZEN·86 | Desecrated Earth | Card Name">
         <source>Desecrated Earth</source>
@@ -920,7 +920,7 @@
       </trans-unit>
       <trans-unit id="1a7dd5e2-b2a5-46ab-a67c-499451706505" resname="ZEN·88 | Feast of Blood | Card Text | Paragraph 1">
         <source>Cast CARDNAME only if you control two or more Vampires.</source>
-        <target state="translated">只能于你操控两个或更多吸血鬼时施放鲜血盛宴。</target>
+        <target state="translated">只能于你操控两个或更多吸血鬼时施放CARDNAME。</target>
       </trans-unit>
       <trans-unit id="1a7dd5e2-b2a5-46ab-a67c-499451706505" resname="ZEN·88 | Feast of Blood | Card Text | Paragraph 2">
         <source>Destroy target creature. You gain 4 life.</source>
@@ -936,7 +936,7 @@
       </trans-unit>
       <trans-unit id="71db3698-a45c-4eaf-87e6-30502c0c10f4" resname="ZEN·89 | Gatekeeper of Malakir | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it was kicked, target player sacrifices a creature.</source>
-        <target state="translated">当马拉奇门卫进战场时，若它已增幅，目标牌手牺牲一个生物。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，目标牌手牺牲一个生物。</target>
       </trans-unit>
       <trans-unit id="c27221df-ec7a-4c51-b3a8-34b65b236b49" resname="ZEN·90 | Giant Scorpion | Card Name">
         <source>Giant Scorpion</source>
@@ -964,11 +964,11 @@
       </trans-unit>
       <trans-unit id="6f6ee73e-fe6e-4698-b92e-606d5d10e5e0" resname="ZEN·92 | Guul Draz Specter | Card Text | Paragraph 2">
         <source>CARDNAME gets +3/+3 as long as an opponent has no cards in hand.</source>
-        <target state="translated">只要任一对手没有手牌，古坠兹幽灵便得+3/+3。</target>
+        <target state="translated">只要任一对手没有手牌，CARDNAME便得+3/+3。</target>
       </trans-unit>
       <trans-unit id="6f6ee73e-fe6e-4698-b92e-606d5d10e5e0" resname="ZEN·92 | Guul Draz Specter | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals combat damage to a player, that player discards a card.</source>
-        <target state="translated">每当古坠兹幽灵对牌手造成战斗伤害时，该牌手弃一张牌。</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，该牌手弃一张牌。</target>
       </trans-unit>
       <trans-unit id="f3c92575-1c97-48bf-801b-22f34040cf9a" resname="ZEN·93 | Guul Draz Vampire | Card Name">
         <source>Guul Draz Vampire</source>
@@ -976,7 +976,7 @@
       </trans-unit>
       <trans-unit id="f3c92575-1c97-48bf-801b-22f34040cf9a" resname="ZEN·93 | Guul Draz Vampire | Card Text | Paragraph 1">
         <source>As long as an opponent has 10 or less life, CARDNAME gets +2/+1 and has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)</source>
-        <target state="translated">只要任一对手的总生命为10或更少，古坠兹吸血鬼便得+2/+1且具有威吓异能。 （它只能被神器和／或与它有共通颜色的生物阻挡。）</target>
+        <target state="translated">只要任一对手的总生命为10或更少，CARDNAME便得+2/+1且具有威吓异能。 （它只能被神器和／或与它有共通颜色的生物阻挡。）</target>
       </trans-unit>
       <trans-unit id="3394a7a2-8f1a-4f07-843a-77db62de49bd" resname="ZEN·94 | Hagra Crocodile | Card Name">
         <source>Hagra Crocodile</source>
@@ -984,11 +984,11 @@
       </trans-unit>
       <trans-unit id="3394a7a2-8f1a-4f07-843a-77db62de49bd" resname="ZEN·94 | Hagra Crocodile | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">赫嘎鳄鱼不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="3394a7a2-8f1a-4f07-843a-77db62de49bd" resname="ZEN·94 | Hagra Crocodile | Card Text | Paragraph 2">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，赫嘎鳄鱼得+2/+2直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c303e7e2-cb22-4dea-889f-d03e2494ed0f" resname="ZEN·95 | Hagra Diabolist | Card Name">
         <source>Hagra Diabolist</source>
@@ -996,7 +996,7 @@
       </trans-unit>
       <trans-unit id="c303e7e2-cb22-4dea-889f-d03e2494ed0f" resname="ZEN·95 | Hagra Diabolist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may have target player lose life equal to the number of Allies you control.</source>
-        <target state="translated">每当赫嘎崇魔者或另一个伙伴在你的操控下进战场时，你可以令目标牌手失去若干生命，其数量等同于由你操控的伙伴数量。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以令目标牌手失去若干生命，其数量等同于由你操控的伙伴数量。</target>
       </trans-unit>
       <trans-unit id="5f96344c-4b1f-42a6-bbf2-dc5cf11cdb02" resname="ZEN·96 | Halo Hunter | Card Name">
         <source>Halo Hunter</source>
@@ -1008,7 +1008,7 @@
       </trans-unit>
       <trans-unit id="5f96344c-4b1f-42a6-bbf2-dc5cf11cdb02" resname="ZEN·96 | Halo Hunter | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target Angel.</source>
-        <target state="translated">当光晕狩魔进战场时，消灭目标天使。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标天使。</target>
       </trans-unit>
       <trans-unit id="1d20016d-2b5a-445e-a59b-5305e76f549c" resname="ZEN·97 | Heartstabber Mosquito | Card Name">
         <source>Heartstabber Mosquito</source>
@@ -1024,7 +1024,7 @@
       </trans-unit>
       <trans-unit id="1d20016d-2b5a-445e-a59b-5305e76f549c" resname="ZEN·97 | Heartstabber Mosquito | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if it was kicked, destroy target creature.</source>
-        <target state="translated">当刺心蚊进战场时，若它已增幅，消灭目标生物。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，消灭目标生物。</target>
       </trans-unit>
       <trans-unit id="30a09ee1-99d9-432f-a4e2-a1377edef9d2" resname="ZEN·98 | Hideous End | Card Name">
         <source>Hideous End</source>
@@ -1052,7 +1052,7 @@
       </trans-unit>
       <trans-unit id="865ac36f-4c61-468b-a2ed-ed2d1bbbf4e3" resname="ZEN·100 | Malakir Bloodwitch | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.</source>
-        <target state="translated">当马拉奇血祭师进战场时，你每操控一个吸血鬼，每位对手就各失去1点生命。 你获得若干生命，其数量等同于牌手以此法失去的生命总和。</target>
+        <target state="translated">当CARDNAME进战场时，你每操控一个吸血鬼，每位对手就各失去1点生命。 你获得若干生命，其数量等同于牌手以此法失去的生命总和。</target>
       </trans-unit>
       <trans-unit id="28476d0d-60ea-4d08-890c-0e6502ee3d2a" resname="ZEN·101 | Marsh Casualties | Card Name">
         <source>Marsh Casualties</source>
@@ -1064,7 +1064,7 @@
       </trans-unit>
       <trans-unit id="28476d0d-60ea-4d08-890c-0e6502ee3d2a" resname="ZEN·101 | Marsh Casualties | Card Text | Paragraph 2">
         <source>Creatures target player controls get -1/-1 until end of turn. If CARDNAME was kicked, those creatures get -2/-2 until end of turn instead.</source>
-        <target state="translated">由目标牌手操控的生物得-1/-1直到回合结束。 如果沼地事故已增幅，则这些生物改为得-2/-2直到回合结束。</target>
+        <target state="translated">由目标牌手操控的生物得-1/-1直到回合结束。 如果CARDNAME已增幅，则这些生物改为得-2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7aaedf6d-171b-4845-8815-debbe06b5b66" resname="ZEN·102 | Mind Sludge | Card Name">
         <source>Mind Sludge</source>
@@ -1080,7 +1080,7 @@
       </trans-unit>
       <trans-unit id="b5d43b60-5bbc-4f9d-a96b-8d886b0c6dbd" resname="ZEN·103 | Mindless Null | Card Text | Paragraph 1">
         <source>CARDNAME can't block unless you control a Vampire.</source>
-        <target state="translated">除非你操控吸血鬼，否则失智躯壳不能进行阻挡。</target>
+        <target state="translated">除非你操控吸血鬼，否则CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="1e63238d-a022-4ea1-a83d-0b2260d56a17" resname="ZEN·104 | Mire Blight | Card Name">
         <source>Mire Blight</source>
@@ -1100,7 +1100,7 @@
       </trans-unit>
       <trans-unit id="8dee4c4e-9505-43e5-88af-db5f9e56a749" resname="ZEN·105 | Needlebite Trap | Card Text | Paragraph 1">
         <source>If an opponent gained life this turn, you may pay {B} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果任一对手本回合获得过生命，你可以支付{B}，而不支付针刺陷阱的法术力费用。</target>
+        <target state="translated">如果任一对手本回合获得过生命，你可以支付{B}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="8dee4c4e-9505-43e5-88af-db5f9e56a749" resname="ZEN·105 | Needlebite Trap | Card Text | Paragraph 2">
         <source>Target player loses 5 life and you gain 5 life.</source>
@@ -1112,7 +1112,7 @@
       </trans-unit>
       <trans-unit id="8c504d12-a3ef-4588-a52d-734c20f6ac58" resname="ZEN·106 | Nimana Sell-Sword | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当尼麻纳贷剑客或另一个伙伴在你的操控下进战场时，你可以在尼麻纳贷剑客上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="7824a001-3f0e-4ac5-8406-e58f4288f2f2" resname="ZEN·107 | Ob Nixilis, the Fallen | Card Name">
         <source>Ob Nixilis, the Fallen</source>
@@ -1120,7 +1120,7 @@
       </trans-unit>
       <trans-unit id="7824a001-3f0e-4ac5-8406-e58f4288f2f2" resname="ZEN·107 | Ob Nixilis, the Fallen | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may have target player lose 3 life. If you do, put three +1/+1 counters on CARDNAME.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以令目标牌手失去3点生命。 若你如此作，在堕落者欧尼希兹上放置三个+1/+1指示物。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以令目标牌手失去3点生命。 若你如此作，在CARDNAME上放置三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="821b3d28-fe57-4d6a-a5d2-cc7cc44973d9" resname="ZEN·108 | Quest for the Gravelord | Card Name">
         <source>Quest for the Gravelord</source>
@@ -1128,11 +1128,11 @@
       </trans-unit>
       <trans-unit id="821b3d28-fe57-4d6a-a5d2-cc7cc44973d9" resname="ZEN·108 | Quest for the Gravelord | Card Text | Paragraph 1">
         <source>Whenever a creature is put into a graveyard from the battlefield, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">每当一个生物从战场进入坟墓场时，你可以在探索坟场王侯上放置一个探索指示物。</target>
+        <target state="translated">每当一个生物从战场进入坟墓场时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="821b3d28-fe57-4d6a-a5d2-cc7cc44973d9" resname="ZEN·108 | Quest for the Gravelord | Card Text | Paragraph 2">
         <source>Remove three quest counters from CARDNAME and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.</source>
-        <target state="translated">从探索坟场王侯上移去三个探索指示物并牺牲它：将一个5/5黑色灵俑／巨人衍生物放进战场。</target>
+        <target state="translated">从CARDNAME上移去三个探索指示物并牺牲它：将一个5/5黑色灵俑／巨人衍生物放进战场。</target>
       </trans-unit>
       <trans-unit id="f4540013-11f9-4a8b-ad54-61f467f04756" resname="ZEN·109 | Ravenous Trap | Card Name">
         <source>Ravenous Trap</source>
@@ -1140,7 +1140,7 @@
       </trans-unit>
       <trans-unit id="f4540013-11f9-4a8b-ad54-61f467f04756" resname="ZEN·109 | Ravenous Trap | Card Text | Paragraph 1">
         <source>If an opponent had three or more cards put into his or her graveyard from anywhere this turn, you may pay {0} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果本回合中某对手有三张或更多牌从任何地方置入其坟墓场，你可以支付{0}，而不支付贪婪陷阱的法术力费用。</target>
+        <target state="translated">如果本回合中某对手有三张或更多牌从任何地方置入其坟墓场，你可以支付{0}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="f4540013-11f9-4a8b-ad54-61f467f04756" resname="ZEN·109 | Ravenous Trap | Card Text | Paragraph 2">
         <source>Exile all cards from target player's graveyard.</source>
@@ -1156,7 +1156,7 @@
       </trans-unit>
       <trans-unit id="f3d82fd7-6af1-4a97-9d51-486a41224b35" resname="ZEN·110 | Sadistic Sacrament | Card Text | Paragraph 2">
         <source>Search target player's library for up to three cards, exile them, then that player shuffles his or her library. If CARDNAME was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles his or her library.</source>
-        <target state="translated">从目标牌手的牌库中搜寻至多三张牌，将它们放逐，然后该牌手将他的牌库洗牌。 如果凌虐圣礼已增幅，则改为从该牌手的牌库中搜寻至多十五张牌，将它们放逐，然后该牌手将他的牌库洗牌。</target>
+        <target state="translated">从目标牌手的牌库中搜寻至多三张牌，将它们放逐，然后该牌手将他的牌库洗牌。 如果CARDNAME已增幅，则改为从该牌手的牌库中搜寻至多十五张牌，将它们放逐，然后该牌手将他的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="29606aca-f23f-4dfe-b685-2065193109c8" resname="ZEN·111 | Sorin Markov | Card Name">
         <source>Sorin Markov</source>
@@ -1164,7 +1164,7 @@
       </trans-unit>
       <trans-unit id="29606aca-f23f-4dfe-b685-2065193109c8" resname="ZEN·111 | Sorin Markov | Card Text | Paragraph 1">
         <source>+2: CARDNAME deals 2 damage to target creature or player and you gain 2 life.</source>
-        <target state="translated">+2：索霖马可夫对目标生物或牌手造成2点伤害，且你获得2点生命。</target>
+        <target state="translated">+2：CARDNAME对目标生物或牌手造成2点伤害，且你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="29606aca-f23f-4dfe-b685-2065193109c8" resname="ZEN·111 | Sorin Markov | Card Text | Paragraph 2">
         <source>-3: Target opponent's life total becomes 10.</source>
@@ -1180,11 +1180,11 @@
       </trans-unit>
       <trans-unit id="902d03cd-2df7-4f87-ab99-fd52f0df6339" resname="ZEN·112 | Soul Stair Expedition | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以在灵玄梯探险上放置一个探索指示物。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="902d03cd-2df7-4f87-ab99-fd52f0df6339" resname="ZEN·112 | Soul Stair Expedition | Card Text | Paragraph 2">
         <source>Remove three quest counters from CARDNAME and sacrifice it: Return up to two target creature cards from your graveyard to your hand.</source>
-        <target state="translated">从灵玄梯探险上移去三个探索指示物并牺牲它：将至多两张目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">从CARDNAME上移去三个探索指示物并牺牲它：将至多两张目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="28a7a1af-14f2-4e22-bd27-9207e837d5fb" resname="ZEN·113 | Surrakar Marauder | Card Name">
         <source>Surrakar Marauder</source>
@@ -1192,7 +1192,7 @@
       </trans-unit>
       <trans-unit id="28a7a1af-14f2-4e22-bd27-9207e837d5fb" resname="ZEN·113 | Surrakar Marauder | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，苏拉卡劫掠者获得威吓异能直到回合结束。 （它只能被神器和／或与它有共通颜色的生物阻挡。）</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME获得威吓异能直到回合结束。 （它只能被神器和／或与它有共通颜色的生物阻挡。）</target>
       </trans-unit>
       <trans-unit id="93d2c4d1-6205-404a-b03d-995b90a3a33a" resname="ZEN·114 | Vampire Hexmage | Card Name">
         <source>Vampire Hexmage</source>
@@ -1204,7 +1204,7 @@
       </trans-unit>
       <trans-unit id="93d2c4d1-6205-404a-b03d-995b90a3a33a" resname="ZEN·114 | Vampire Hexmage | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Remove all counters from target permanent.</source>
-        <target state="translated">牺牲邪术吸血鬼：移去目标永久物上的所有指示物。</target>
+        <target state="translated">牺牲CARDNAME：移去目标永久物上的所有指示物。</target>
       </trans-unit>
       <trans-unit id="114eca6c-76de-4b87-8174-78e2d17ad0e3" resname="ZEN·115 | Vampire Lacerator | Card Name">
         <source>Vampire Lacerator</source>
@@ -1240,7 +1240,7 @@
       </trans-unit>
       <trans-unit id="6460a752-e5a7-4fd0-9ae5-e0773b86f19b" resname="ZEN·117 | Vampire's Bite | Card Text | Paragraph 2">
         <source>Target creature gets +3/+0 until end of turn. If CARDNAME was kicked, that creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)</source>
-        <target state="translated">目标生物得+3/+0直到回合结束。 如果吸血鬼啮咬已增幅，则该生物获得系命异能直到回合结束。 （此生物所造成的伤害会让其操控者获得等量的生命。）</target>
+        <target state="translated">目标生物得+3/+0直到回合结束。 如果CARDNAME已增幅，则该生物获得系命异能直到回合结束。 （此生物所造成的伤害会让其操控者获得等量的生命。）</target>
       </trans-unit>
       <trans-unit id="1558dfaf-15ed-4220-9051-bf0bf442b2e9" resname="ZEN·118 | Bladetusk Boar | Card Name">
         <source>Bladetusk Boar</source>
@@ -1260,7 +1260,7 @@
       </trans-unit>
       <trans-unit id="2dc16614-5cf8-444d-a5ae-cac25018af68" resname="ZEN·119 | Burst Lightning | Card Text | Paragraph 2">
         <source>CARDNAME deals 2 damage to target creature or player. If CARDNAME was kicked, it deals 4 damage to that creature or player instead.</source>
-        <target state="translated">闪电迸发对目标生物或牌手造成2点伤害。 如果闪电迸发已增幅，则改为它对该生物或牌手造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。 如果CARDNAME已增幅，则改为它对该生物或牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="43da8995-77da-4ec4-94a5-5e7932a3c969" resname="ZEN·120 | Chandra Ablaze | Card Name">
         <source>Chandra Ablaze</source>
@@ -1268,7 +1268,7 @@
       </trans-unit>
       <trans-unit id="43da8995-77da-4ec4-94a5-5e7932a3c969" resname="ZEN·120 | Chandra Ablaze | Card Text | Paragraph 1">
         <source>+1: Discard a card. If a red card is discarded this way, CARDNAME deals 4 damage to target creature or player.</source>
-        <target state="translated">+1：弃一张牌。如果以此法弃掉一张红色牌，则激昂茜卓对目标生物或牌手造成4点伤害。</target>
+        <target state="translated">+1：弃一张牌。如果以此法弃掉一张红色牌，则CARDNAME对目标生物或牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="43da8995-77da-4ec4-94a5-5e7932a3c969" resname="ZEN·120 | Chandra Ablaze | Card Text | Paragraph 2">
         <source>-2: Each player discards his or her hand, then draws three cards.</source>
@@ -1304,7 +1304,7 @@
       </trans-unit>
       <trans-unit id="3a583f30-a3e0-4c4f-81b3-01452edaf22c" resname="ZEN·123 | Elemental Appeal | Card Text | Paragraph 2">
         <source>Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step. If CARDNAME was kicked, that creature gets +7/+0 until end of turn.</source>
-        <target state="translated">将一个7/1红色，具践踏与敏捷异能的元素衍生物放进战场。 在下一个结束步骤开始时，将它放逐。 如果呼引元素已增幅，则该生物得+7/+0直到回合结束。</target>
+        <target state="translated">将一个7/1红色，具践踏与敏捷异能的元素衍生物放进战场。 在下一个结束步骤开始时，将它放逐。 如果CARDNAME已增幅，则该生物得+7/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b8aec169-4c62-4d53-a19c-68baa20c8e59" resname="ZEN·124 | Geyser Glider | Card Name">
         <source>Geyser Glider</source>
@@ -1312,7 +1312,7 @@
       </trans-unit>
       <trans-unit id="b8aec169-4c62-4d53-a19c-68baa20c8e59" resname="ZEN·124 | Geyser Glider | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gains flying until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，热泉滑翔兽获得飞行异能直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4085a5bf-a71b-4c73-9b39-0dcc328fe11b" resname="ZEN·125 | Goblin Bushwhacker | Card Name">
         <source>Goblin Bushwhacker</source>
@@ -1324,7 +1324,7 @@
       </trans-unit>
       <trans-unit id="4085a5bf-a71b-4c73-9b39-0dcc328fe11b" resname="ZEN·125 | Goblin Bushwhacker | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn.</source>
-        <target state="translated">当开路鬼怪进战场时，若它已增幅，由你操控的生物得+1/+0并获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，由你操控的生物得+1/+0并获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b2e2a777-0705-4a37-937d-c6e020ebc0f0" resname="ZEN·126 | Goblin Guide | Card Name">
         <source>Goblin Guide</source>
@@ -1336,7 +1336,7 @@
       </trans-unit>
       <trans-unit id="b2e2a777-0705-4a37-937d-c6e020ebc0f0" resname="ZEN·126 | Goblin Guide | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, defending player reveals the top card of his or her library. If it's a land card, that player puts it into his or her hand.</source>
-        <target state="translated">每当鬼怪向导攻击时，防御牌手展示其牌库顶牌。 若展示出地牌，则该牌手将该牌置于其手上。</target>
+        <target state="translated">每当CARDNAME攻击时，防御牌手展示其牌库顶牌。 若展示出地牌，则该牌手将该牌置于其手上。</target>
       </trans-unit>
       <trans-unit id="0d95d1f3-7ec1-4279-ade7-3f339f2f33da" resname="ZEN·127 | Goblin Ruinblaster | Card Name">
         <source>Goblin Ruinblaster</source>
@@ -1352,7 +1352,7 @@
       </trans-unit>
       <trans-unit id="0d95d1f3-7ec1-4279-ade7-3f339f2f33da" resname="ZEN·127 | Goblin Ruinblaster | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if it was kicked, destroy target nonbasic land.</source>
-        <target state="translated">当毁迹鬼怪进战场时，若它已增幅，消灭目标非基本地。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，消灭目标非基本地。</target>
       </trans-unit>
       <trans-unit id="5daeaa2e-68e5-4f49-9220-58c0c9b1a3d0" resname="ZEN·128 | Goblin Shortcutter | Card Name">
         <source>Goblin Shortcutter</source>
@@ -1360,7 +1360,7 @@
       </trans-unit>
       <trans-unit id="5daeaa2e-68e5-4f49-9220-58c0c9b1a3d0" resname="ZEN·128 | Goblin Shortcutter | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature can't block this turn.</source>
-        <target state="translated">当抄捷径鬼怪进战场时，目标生物本回合不能进行阻挡。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物本回合不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="4388e57e-0c87-4d66-a862-58261d76c5ac" resname="ZEN·129 | Goblin War Paint | Card Name">
         <source>Goblin War Paint</source>
@@ -1380,7 +1380,7 @@
       </trans-unit>
       <trans-unit id="8f975874-24a6-4a14-bc5c-898c3d8e90e5" resname="ZEN·130 | Hellfire Mongrel | Card Text | Paragraph 1">
         <source>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, CARDNAME deals 2 damage to him or her.</source>
-        <target state="translated">在每位对手的维持开始时，若该牌手的手牌为两张或更少，则狱火猎犬对他造成2点伤害。</target>
+        <target state="translated">在每位对手的维持开始时，若该牌手的手牌为两张或更少，则CARDNAME对他造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="e70c645d-d170-4a91-a6bb-0175ec900e93" resname="ZEN·131 | Hellkite Charger | Card Name">
         <source>Hellkite Charger</source>
@@ -1392,7 +1392,7 @@
       </trans-unit>
       <trans-unit id="e70c645d-d170-4a91-a6bb-0175ec900e93" resname="ZEN·131 | Hellkite Charger | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.</source>
-        <target state="translated">每当冲锋残虐者攻击时，你可以支付{5}{R}{R}。 若你如此作，则重置所有进行攻击的生物，且此阶段后额外多出一个战斗阶段。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付{5}{R}{R}。 若你如此作，则重置所有进行攻击的生物，且此阶段后额外多出一个战斗阶段。</target>
       </trans-unit>
       <trans-unit id="e3c22bf3-2ba6-4d8f-a2b8-a5d5e26f1316" resname="ZEN·132 | Highland Berserker | Card Name">
         <source>Highland Berserker</source>
@@ -1400,7 +1400,7 @@
       </trans-unit>
       <trans-unit id="e3c22bf3-2ba6-4d8f-a2b8-a5d5e26f1316" resname="ZEN·132 | Highland Berserker | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may have Ally creatures you control gain first strike until end of turn.</source>
-        <target state="translated">每当高地狂战士或另一个伙伴在你的操控下进战场时，你可以让由你操控的伙伴生物获得先攻异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以让由你操控的伙伴生物获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9a81ac38-c477-4797-ab91-cb7804cb727b" resname="ZEN·133 | Inferno Trap | Card Name">
         <source>Inferno Trap</source>
@@ -1408,11 +1408,11 @@
       </trans-unit>
       <trans-unit id="9a81ac38-c477-4797-ab91-cb7804cb727b" resname="ZEN·133 | Inferno Trap | Card Text | Paragraph 1">
         <source>If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果本回合中你被两个或更多生物造成伤害，你可以支付{R}，而不支付炼狱陷阱的法术力费用。</target>
+        <target state="translated">如果本回合中你被两个或更多生物造成伤害，你可以支付{R}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="9a81ac38-c477-4797-ab91-cb7804cb727b" resname="ZEN·133 | Inferno Trap | Card Text | Paragraph 2">
         <source>CARDNAME deals 4 damage to target creature.</source>
-        <target state="translated">炼狱陷阱对目标生物造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="da42df13-eded-48e2-ad1a-ff74d718ce3c" resname="ZEN·134 | Kazuul Warlord | Card Name">
         <source>Kazuul Warlord</source>
@@ -1420,7 +1420,7 @@
       </trans-unit>
       <trans-unit id="da42df13-eded-48e2-ad1a-ff74d718ce3c" resname="ZEN·134 | Kazuul Warlord | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may put a +1/+1 counter on each Ally creature you control.</source>
-        <target state="translated">每当克卒军头或另一个伙伴在你的操控下进战场时，你可以在由你操控的每个伙伴生物上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以在由你操控的每个伙伴生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="c0d411e1-5488-4818-95a4-9f637efb9be6" resname="ZEN·135 | Lavaball Trap | Card Name">
         <source>Lavaball Trap</source>
@@ -1428,11 +1428,11 @@
       </trans-unit>
       <trans-unit id="c0d411e1-5488-4818-95a4-9f637efb9be6" resname="ZEN·135 | Lavaball Trap | Card Text | Paragraph 1">
         <source>If an opponent had two or more lands enter the battlefield under his or her control this turn, you may pay {3}{R}{R} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果本回合中某对手有两个或更多地在其操控下进战场，你可以支付{3}{R}{R}，而不支付熔球陷阱的法术力费用。</target>
+        <target state="translated">如果本回合中某对手有两个或更多地在其操控下进战场，你可以支付{3}{R}{R}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="c0d411e1-5488-4818-95a4-9f637efb9be6" resname="ZEN·135 | Lavaball Trap | Card Text | Paragraph 2">
         <source>Destroy two target lands. CARDNAME deals 4 damage to each creature.</source>
-        <target state="translated">消灭两个目标地。 熔球陷阱对每个生物各造成4点伤害。</target>
+        <target state="translated">消灭两个目标地。 CARDNAME对每个生物各造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="ee526306-6959-421c-9969-3c19b666d6da" resname="ZEN·136 | Magma Rift | Card Name">
         <source>Magma Rift</source>
@@ -1440,11 +1440,11 @@
       </trans-unit>
       <trans-unit id="ee526306-6959-421c-9969-3c19b666d6da" resname="ZEN·136 | Magma Rift | Card Text | Paragraph 1">
         <source>As an additional cost to cast CARDNAME, sacrifice a land.</source>
-        <target state="translated">牺牲一个地，以作为施放岩浆裂口的额外费用。</target>
+        <target state="translated">牺牲一个地，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="ee526306-6959-421c-9969-3c19b666d6da" resname="ZEN·136 | Magma Rift | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage to target creature.</source>
-        <target state="translated">岩浆裂口对目标生物造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="58a0a019-239d-428e-85a2-e19cae8f4b58" resname="ZEN·137 | Mark of Mutiny | Card Name">
         <source>Mark of Mutiny</source>
@@ -1460,7 +1460,7 @@
       </trans-unit>
       <trans-unit id="9ebc7622-e7a7-419c-abb4-d9d339e6cdb0" resname="ZEN·138 | Molten Ravager | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：熔融噬怪得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="60daf59f-ffba-403b-8028-787ff33f2d6c" resname="ZEN·139 | Murasa Pyromancer | Card Name">
         <source>Murasa Pyromancer</source>
@@ -1468,7 +1468,7 @@
       </trans-unit>
       <trans-unit id="60daf59f-ffba-403b-8028-787ff33f2d6c" resname="ZEN·139 | Murasa Pyromancer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may have CARDNAME deal damage to target creature equal to the number of Allies you control.</source>
-        <target state="translated">每当姆拉撒烈焰术士或另一个伙伴在你的操控下进战场时，你可以令姆拉撒烈焰术士对目标生物造成伤害，其数量等同于由你操控的伙伴数量。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以令CARDNAME对目标生物造成伤害，其数量等同于由你操控的伙伴数量。</target>
       </trans-unit>
       <trans-unit id="1fbf7e23-5610-45d7-a273-923433d10934" resname="ZEN·140 | Obsidian Fireheart | Card Name">
         <source>Obsidian Fireheart</source>
@@ -1476,7 +1476,7 @@
       </trans-unit>
       <trans-unit id="1fbf7e23-5610-45d7-a273-923433d10934" resname="ZEN·140 | Obsidian Fireheart | Card Text | Paragraph 1">
         <source>{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. As long as that land has a blaze counter on it, it has &amp;quot;At the beginning of your upkeep, this land deals 1 damage to you.&amp;quot; (The land continues to burn after CARDNAME has left the battlefield.)</source>
-        <target state="translated">{1}{R}{R}：在目标不具火灾指示物的地上放置一个火灾指示物。 只要该地上有火灾指示物，它便具有「在你的维持开始时，此地对你造成1点伤害。」 （即使焰心黑曜妖已离开战场，此地依旧继续燃烧。）</target>
+        <target state="translated">{1}{R}{R}：在目标不具火灾指示物的地上放置一个火灾指示物。 只要该地上有火灾指示物，它便具有「在你的维持开始时，此地对你造成1点伤害。」 （即使CARDNAME已离开战场，此地依旧继续燃烧。）</target>
       </trans-unit>
       <trans-unit id="fd8b5c0c-acda-411e-9f17-6d9292628a56" resname="ZEN·141 | Plated Geopede | Card Name">
         <source>Plated Geopede</source>
@@ -1488,7 +1488,7 @@
       </trans-unit>
       <trans-unit id="fd8b5c0c-acda-411e-9f17-6d9292628a56" resname="ZEN·141 | Plated Geopede | Card Text | Paragraph 2">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，板甲地蜈蚣得+2/+2直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="56e76f1c-5a07-455a-a3df-4c45b5b25b82" resname="ZEN·142 | Punishing Fire | Card Name">
         <source>Punishing Fire</source>
@@ -1496,11 +1496,11 @@
       </trans-unit>
       <trans-unit id="56e76f1c-5a07-455a-a3df-4c45b5b25b82" resname="ZEN·142 | Punishing Fire | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">惩戒火焰对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="56e76f1c-5a07-455a-a3df-4c45b5b25b82" resname="ZEN·142 | Punishing Fire | Card Text | Paragraph 2">
         <source>Whenever an opponent gains life, you may pay {R}. If you do, return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">每当任一对手获得生命时，你可以支付{R}。 若你如此作，则将惩戒火焰从你的坟墓场移回你手上。</target>
+        <target state="translated">每当任一对手获得生命时，你可以支付{R}。 若你如此作，则将CARDNAME从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="288d624e-d72e-4a4b-bb74-5a8b0b2e3cb0" resname="ZEN·143 | Pyromancer Ascension | Card Name">
         <source>Pyromancer Ascension</source>
@@ -1508,7 +1508,7 @@
       </trans-unit>
       <trans-unit id="288d624e-d72e-4a4b-bb74-5a8b0b2e3cb0" resname="ZEN·143 | Pyromancer Ascension | Card Text | Paragraphs">
         <source>Whenever you cast an instant or sorcery spell that has the same name as a card in your graveyard, you may put a quest counter on CARDNAME.\nWhenever you cast an instant or sorcery spell while CARDNAME has two or more quest counters on it, you may copy that spell. You may choose new targets for the copy.</source>
-        <target state="translated">每当你施放与你坟墓场中任一张牌同名的瞬间或法术咒语时，你可以在焰侯腾扬上放置一个探索指示物。\n每当你施放瞬间或法术咒语、且焰侯腾扬上有两个或更多探索指示物时，你可以复制该咒语。\n你可以为该复制选择新的目标。</target>
+        <target state="translated">每当你施放与你坟墓场中任一张牌同名的瞬间或法术咒语时，你可以在CARDNAME上放置一个探索指示物。\n每当你施放瞬间或法术咒语、且CARDNAME上有两个或更多探索指示物时，你可以复制该咒语。\n你可以为该复制选择新的目标。</target>
       </trans-unit>
       <trans-unit id="7b43ac5a-21b9-4abe-b8be-86b9056ad70d" resname="ZEN·144 | Quest for Pure Flame | Card Name">
         <source>Quest for Pure Flame</source>
@@ -1516,11 +1516,11 @@
       </trans-unit>
       <trans-unit id="7b43ac5a-21b9-4abe-b8be-86b9056ad70d" resname="ZEN·144 | Quest for Pure Flame | Card Text | Paragraph 1">
         <source>Whenever a source you control deals damage to an opponent, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">每当由你操控的一个来源向任一对手造成伤害时，你可以在探索净火上放置一个探索指示物。</target>
+        <target state="translated">每当由你操控的一个来源向任一对手造成伤害时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="7b43ac5a-21b9-4abe-b8be-86b9056ad70d" resname="ZEN·144 | Quest for Pure Flame | Card Text | Paragraph 2">
         <source>Remove four quest counters from CARDNAME and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.</source>
-        <target state="translated">从探索净火上移去四个探索指示物并牺牲它：如果本回合中某来源将对任一生物或牌手造成伤害，则改为它对该生物或牌手造成两倍的伤害。</target>
+        <target state="translated">从CARDNAME上移去四个探索指示物并牺牲它：如果本回合中某来源将对任一生物或牌手造成伤害，则改为它对该生物或牌手造成两倍的伤害。</target>
       </trans-unit>
       <trans-unit id="e800a3fe-bb1a-45f1-8c81-5ec88ff8647b" resname="ZEN·145 | Ruinous Minotaur | Card Name">
         <source>Ruinous Minotaur</source>
@@ -1528,7 +1528,7 @@
       </trans-unit>
       <trans-unit id="e800a3fe-bb1a-45f1-8c81-5ec88ff8647b" resname="ZEN·145 | Ruinous Minotaur | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage to an opponent, sacrifice a land.</source>
-        <target state="translated">每当毁坏牛头怪向任一对手造成伤害时，牺牲一个地。</target>
+        <target state="translated">每当CARDNAME向任一对手造成伤害时，牺牲一个地。</target>
       </trans-unit>
       <trans-unit id="e2ceff22-0270-4c9d-9ae2-f40a7047335b" resname="ZEN·146 | Runeflare Trap | Card Name">
         <source>Runeflare Trap</source>
@@ -1536,11 +1536,11 @@
       </trans-unit>
       <trans-unit id="e2ceff22-0270-4c9d-9ae2-f40a7047335b" resname="ZEN·146 | Runeflare Trap | Card Text | Paragraph 1">
         <source>If an opponent drew three or more cards this turn, you may pay {R} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果本回合中某对手抓过三张或更多牌，你可以支付{R}，而不支付符焰陷阱的法术力费用。</target>
+        <target state="translated">如果本回合中某对手抓过三张或更多牌，你可以支付{R}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="e2ceff22-0270-4c9d-9ae2-f40a7047335b" resname="ZEN·146 | Runeflare Trap | Card Text | Paragraph 2">
         <source>CARDNAME deals damage to target player equal to the number of cards in that player's hand.</source>
-        <target state="translated">符焰陷阱对目标牌手造成等同于该牌手之手牌数量的伤害。</target>
+        <target state="translated">CARDNAME对目标牌手造成等同于该牌手之手牌数量的伤害。</target>
       </trans-unit>
       <trans-unit id="20365082-6102-4e3b-8791-c9b66846270d" resname="ZEN·147 | Seismic Shudder | Card Name">
         <source>Seismic Shudder</source>
@@ -1548,7 +1548,7 @@
       </trans-unit>
       <trans-unit id="20365082-6102-4e3b-8791-c9b66846270d" resname="ZEN·147 | Seismic Shudder | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature without flying.</source>
-        <target state="translated">大地颤动对每个不具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个不具飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="9cfbb4dd-56a2-4a94-9b15-b3ef8b2f1d0b" resname="ZEN·148 | Shatterskull Giant | Card Name">
         <source>Shatterskull Giant</source>
@@ -1568,7 +1568,7 @@
       </trans-unit>
       <trans-unit id="f8c8fe2a-3203-4545-bb25-b1f107b13cca" resname="ZEN·150 | Spire Barrage | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target creature or player equal to the number of Mountains you control.</source>
-        <target state="translated">尖岩齐击对目标生物或牌手造成伤害，其数量等同于由你操控的山脉数量。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成伤害，其数量等同于由你操控的山脉数量。</target>
       </trans-unit>
       <trans-unit id="f4648820-9e87-4c67-8d97-cd7603f2e484" resname="ZEN·151 | Torch Slinger | Card Name">
         <source>Torch Slinger</source>
@@ -1580,7 +1580,7 @@
       </trans-unit>
       <trans-unit id="f4648820-9e87-4c67-8d97-cd7603f2e484" resname="ZEN·151 | Torch Slinger | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it was kicked, it deals 2 damage to target creature.</source>
-        <target state="translated">当火把投掷手进战场时，若它已增幅，它对目标生物造成2点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，它对目标生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="e6f37982-d2ae-4ff1-b5da-3936733f8108" resname="ZEN·152 | Tuktuk Grunts | Card Name">
         <source>Tuktuk Grunts</source>
@@ -1592,7 +1592,7 @@
       </trans-unit>
       <trans-unit id="e6f37982-d2ae-4ff1-b5da-3936733f8108" resname="ZEN·152 | Tuktuk Grunts | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当图图大兵或另一个伙伴在你的操控下进战场时，你可以在图图大兵上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="d41c658e-68ec-4b55-bc5b-fd9fe8dbbdb3" resname="ZEN·153 | Unstable Footing | Card Name">
         <source>Unstable Footing</source>
@@ -1604,7 +1604,7 @@
       </trans-unit>
       <trans-unit id="d41c658e-68ec-4b55-bc5b-fd9fe8dbbdb3" resname="ZEN·153 | Unstable Footing | Card Text | Paragraph 2">
         <source>Damage can't be prevented this turn. If CARDNAME was kicked, it deals 5 damage to target player.</source>
-        <target state="translated">本回合中伤害不能被防止。 如果立足点不稳已增幅，它对目标牌手造成5点伤害。</target>
+        <target state="translated">本回合中伤害不能被防止。 如果CARDNAME已增幅，它对目标牌手造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="98637219-40d8-414c-939d-e2c90b909725" resname="ZEN·154 | Warren Instigator | Card Name">
         <source>Warren Instigator</source>
@@ -1616,7 +1616,7 @@
       </trans-unit>
       <trans-unit id="98637219-40d8-414c-939d-e2c90b909725" resname="ZEN·154 | Warren Instigator | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.</source>
-        <target state="translated">每当繁殖地煽动者向任一对手造成伤害时，你可以将一张鬼怪生物牌从你手上放进战场。</target>
+        <target state="translated">每当CARDNAME向任一对手造成伤害时，你可以将一张鬼怪生物牌从你手上放进战场。</target>
       </trans-unit>
       <trans-unit id="f12d2c01-0ef2-40e6-8c7d-8512e2c8c074" resname="ZEN·155 | Zektar Shrine Expedition | Card Name">
         <source>Zektar Shrine Expedition</source>
@@ -1624,11 +1624,11 @@
       </trans-unit>
       <trans-unit id="f12d2c01-0ef2-40e6-8c7d-8512e2c8c074" resname="ZEN·155 | Zektar Shrine Expedition | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以在切塔祭祠探险上放置一个探索指示物。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="f12d2c01-0ef2-40e6-8c7d-8512e2c8c074" resname="ZEN·155 | Zektar Shrine Expedition | Card Text | Paragraph 2">
         <source>Remove three quest counters from CARDNAME and sacrifice it: Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step.</source>
-        <target state="translated">从切塔祭祠探险上移去三个探索指示物并牺牲它：将一个7/1红色，具践踏与敏捷异能的元素衍生物放进战场。 在下一个结束步骤开始时，将它放逐。</target>
+        <target state="translated">从CARDNAME上移去三个探索指示物并牺牲它：将一个7/1红色，具践踏与敏捷异能的元素衍生物放进战场。 在下一个结束步骤开始时，将它放逐。</target>
       </trans-unit>
       <trans-unit id="c00ac173-ea82-4364-812c-13173a700dd0" resname="ZEN·156 | Baloth Cage Trap | Card Name">
         <source>Baloth Cage Trap</source>
@@ -1636,7 +1636,7 @@
       </trans-unit>
       <trans-unit id="c00ac173-ea82-4364-812c-13173a700dd0" resname="ZEN·156 | Baloth Cage Trap | Card Text | Paragraph 1">
         <source>If an opponent had an artifact enter the battlefield under his or her control this turn, you may pay {1}{G} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果本回合中某对手有神器在其操控下进战场，你可以支付{1}{G}，而不支付巴洛西囚笼陷阱的法术力费用。</target>
+        <target state="translated">如果本回合中某对手有神器在其操控下进战场，你可以支付{1}{G}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="c00ac173-ea82-4364-812c-13173a700dd0" resname="ZEN·156 | Baloth Cage Trap | Card Text | Paragraph 2">
         <source>Put a 4/4 green Beast creature token onto the battlefield.</source>
@@ -1648,7 +1648,7 @@
       </trans-unit>
       <trans-unit id="8223dc6a-2bee-4be9-86d5-f0a17a24c33e" resname="ZEN·157 | Baloth Woodcrasher | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gets +4/+4 and gains trample until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，闯林巴洛西得+4/+4并获得践踏异能直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME得+4/+4并获得践踏异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="46465b5f-26fa-4a07-9dc9-55486edee31a" resname="ZEN·158 | Beast Hunt | Card Name">
         <source>Beast Hunt</source>
@@ -1664,11 +1664,11 @@
       </trans-unit>
       <trans-unit id="02d7ea78-d539-4c34-8bb3-941353e3da46" resname="ZEN·159 | Beastmaster Ascension | Card Text | Paragraph 1">
         <source>Whenever a creature you control attacks, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">每当一个由你操控的生物攻击时，你可以在兽侯腾扬上放置一个探索指示物。</target>
+        <target state="translated">每当一个由你操控的生物攻击时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="02d7ea78-d539-4c34-8bb3-941353e3da46" resname="ZEN·159 | Beastmaster Ascension | Card Text | Paragraph 2">
         <source>As long as CARDNAME has seven or more quest counters on it, creatures you control get +5/+5.</source>
-        <target state="translated">只要兽侯腾扬上有七个或更多探索指示物，由你操控的生物便得+5/+5。</target>
+        <target state="translated">只要CARDNAME上有七个或更多探索指示物，由你操控的生物便得+5/+5。</target>
       </trans-unit>
       <trans-unit id="8a4e2966-c163-4e02-a315-4fe66e482884" resname="ZEN·160 | Cobra Trap | Card Name">
         <source>Cobra Trap</source>
@@ -1676,7 +1676,7 @@
       </trans-unit>
       <trans-unit id="8a4e2966-c163-4e02-a315-4fe66e482884" resname="ZEN·160 | Cobra Trap | Card Text | Paragraph 1">
         <source>If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果本回合中，由你操控的一个非生物永久物被由对手所操控的咒语或异能所消灭，你可以支付{G}，而不支付眼镜蛇陷阱的法术力费用。</target>
+        <target state="translated">如果本回合中，由你操控的一个非生物永久物被由对手所操控的咒语或异能所消灭，你可以支付{G}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="8a4e2966-c163-4e02-a315-4fe66e482884" resname="ZEN·160 | Cobra Trap | Card Text | Paragraph 2">
         <source>Put four 1/1 green Snake creature tokens onto the battlefield.</source>
@@ -1708,7 +1708,7 @@
       </trans-unit>
       <trans-unit id="aa476306-9d6b-45ed-9e6c-fd4aee6592e7" resname="ZEN·162 | Gigantiform | Card Text | Paragraph 4">
         <source>When CARDNAME enters the battlefield, if it was kicked, you may search your library for a card named CARDNAME, put it onto the battlefield, then shuffle your library.</source>
-        <target state="translated">当无匹型体进战场时，若它已增幅，则你可以从你的牌库中搜寻一张名称为无匹型体的牌，将之放进战场，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，则你可以从你的牌库中搜寻一张名称为CARDNAME的牌，将之放进战场，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="078b5290-a613-496f-bd23-8fd109549f31" resname="ZEN·163 | Grazing Gladehart | Card Name">
         <source>Grazing Gladehart</source>
@@ -1732,7 +1732,7 @@
       </trans-unit>
       <trans-unit id="e309c1fc-3a7c-4624-8b48-9b152c2590ae" resname="ZEN·165 | Harrow | Card Text | Paragraph 1">
         <source>As an additional cost to cast CARDNAME, sacrifice a land.</source>
-        <target state="translated">牺牲一个地，以作为施放整地的额外费用。</target>
+        <target state="translated">牺牲一个地，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="e309c1fc-3a7c-4624-8b48-9b152c2590ae" resname="ZEN·165 | Harrow | Card Text | Paragraph 2">
         <source>Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</source>
@@ -1744,7 +1744,7 @@
       </trans-unit>
       <trans-unit id="b53f5a5f-d851-4ceb-96e7-9ba216062072" resname="ZEN·166 | Joraga Bard | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.</source>
-        <target state="translated">每当玖瑞加吟游诗人或另一个伙伴在你的操控下进战场时，你可以让由你操控的伙伴生物获得警戒异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以让由你操控的伙伴生物获得警戒异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="797d8cd6-fc6b-4560-9c6f-1a867dfce85a" resname="ZEN·167 | Khalni Heart Expedition | Card Name">
         <source>Khalni Heart Expedition</source>
@@ -1752,11 +1752,11 @@
       </trans-unit>
       <trans-unit id="797d8cd6-fc6b-4560-9c6f-1a867dfce85a" resname="ZEN·167 | Khalni Heart Expedition | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以在坎尼之心探险上放置一个探索指示物。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="797d8cd6-fc6b-4560-9c6f-1a867dfce85a" resname="ZEN·167 | Khalni Heart Expedition | Card Text | Paragraph 2">
         <source>Remove three quest counters from CARDNAME and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.</source>
-        <target state="translated">从坎尼之心探险上移去三个探索指示物并牺牲它：从你的牌库中搜寻至多两张基本地牌，将它们横置进战场，然后将你的牌库洗牌。</target>
+        <target state="translated">从CARDNAME上移去三个探索指示物并牺牲它：从你的牌库中搜寻至多两张基本地牌，将它们横置进战场，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="19adde22-e5eb-4815-beb6-c520b3274cc9" resname="ZEN·168 | Lotus Cobra | Card Name">
         <source>Lotus Cobra</source>
@@ -1776,7 +1776,7 @@
       </trans-unit>
       <trans-unit id="903cb570-d769-4d7f-afbe-90ebad96657c" resname="ZEN·169 | Mold Shambler | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it was kicked, destroy target noncreature permanent.</source>
-        <target state="translated">当腐霉跛行兽进战场时，若它已增幅，消灭目标非生物的永久物。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，消灭目标非生物的永久物。</target>
       </trans-unit>
       <trans-unit id="1b4c26ab-0f7b-4163-b9e4-a415b91352a6" resname="ZEN·170 | Nissa Revane | Card Name">
         <source>Nissa Revane</source>
@@ -1800,7 +1800,7 @@
       </trans-unit>
       <trans-unit id="a740584f-2ec2-46a9-9344-eac220759e85" resname="ZEN·171 | Nissa's Chosen | Card Text | Paragraph 1">
         <source>If CARDNAME would be put into a graveyard from the battlefield, put it on the bottom of its owner's library instead.</source>
-        <target state="translated">如果妮莎精卫将从战场置入坟墓场，则改为将它置于其拥有者的牌库底。</target>
+        <target state="translated">如果CARDNAME将从战场置入坟墓场，则改为将它置于其拥有者的牌库底。</target>
       </trans-unit>
       <trans-unit id="7f89a173-0b2f-4a6a-b706-9aed8dbcabec" resname="ZEN·172 | Oracle of Mul Daya | Card Name">
         <source>Oracle of Mul Daya</source>
@@ -1832,7 +1832,7 @@
       </trans-unit>
       <trans-unit id="37a69043-23f5-478e-bf9b-f170e326c0e0" resname="ZEN·173 | Oran-Rief Recluse | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if it was kicked, destroy target creature with flying.</source>
-        <target state="translated">当欧兰黎隐士进战场时，若它已增幅，消灭目标具飞行异能的生物。</target>
+        <target state="translated">当CARDNAME进战场时，若它已增幅，消灭目标具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="0d598220-bddd-48a4-8c80-eb149c6292a3" resname="ZEN·174 | Oran-Rief Survivalist | Card Name">
         <source>Oran-Rief Survivalist</source>
@@ -1840,7 +1840,7 @@
       </trans-unit>
       <trans-unit id="0d598220-bddd-48a4-8c80-eb149c6292a3" resname="ZEN·174 | Oran-Rief Survivalist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当欧兰黎求生家或另一个伙伴在你的操控下进战场时，你可以在欧兰黎求生家上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="d7f8adaa-2852-4e9c-b91d-ce80a21859c9" resname="ZEN·175 | Predatory Urge | Card Name">
         <source>Predatory Urge</source>
@@ -1868,11 +1868,11 @@
       </trans-unit>
       <trans-unit id="ea12a160-9c05-4f66-bd80-035ea52f415b" resname="ZEN·177 | Quest for the Gemblades | Card Text | Paragraph 1">
         <source>Whenever a creature you control deals combat damage to a creature, you may put a quest counter on CARDNAME.</source>
-        <target state="translated">每当由你操控的一个生物对某生物造成战斗伤害时，你可以在探索宝石片上放置一个探索指示物。</target>
+        <target state="translated">每当由你操控的一个生物对某生物造成战斗伤害时，你可以在CARDNAME上放置一个探索指示物。</target>
       </trans-unit>
       <trans-unit id="ea12a160-9c05-4f66-bd80-035ea52f415b" resname="ZEN·177 | Quest for the Gemblades | Card Text | Paragraph 2">
         <source>Remove a quest counter from CARDNAME and sacrifice it: Put four +1/+1 counters on target creature.</source>
-        <target state="translated">从探索宝石片上移去一个探索指示物并牺牲它：在目标生物上放置四个+1/+1指示物。</target>
+        <target state="translated">从CARDNAME上移去一个探索指示物并牺牲它：在目标生物上放置四个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="66ae703d-b133-4749-9d38-216abe6c6647" resname="ZEN·178 | Rampaging Baloths | Card Name">
         <source>Rampaging Baloths</source>
@@ -1904,7 +1904,7 @@
       </trans-unit>
       <trans-unit id="4a81be06-b685-461b-80a8-2f23139106e7" resname="ZEN·180 | River Boa | Card Text | Paragraph 2">
         <source>{G}: Regenerate CARDNAME.</source>
-        <target state="translated">{G}：重生河流蟒蛇。</target>
+        <target state="translated">{G}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="8b8547e0-2928-4edc-a15a-a613cb4d1eac" resname="ZEN·181 | Savage Silhouette | Card Name">
         <source>Savage Silhouette</source>
@@ -1924,7 +1924,7 @@
       </trans-unit>
       <trans-unit id="43e2fcc6-96d3-45f5-b4dd-e049d9ec6cec" resname="ZEN·182 | Scute Mob | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，若你操控五个或更多地，在硬盔虫大群上放置四个+1/+1指示物。</target>
+        <target state="translated">在你的维持开始时，若你操控五个或更多地，在CARDNAME上放置四个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="9d289043-edb5-4a7e-801b-4881709edb32" resname="ZEN·183 | Scythe Tiger | Card Name">
         <source>Scythe Tiger</source>
@@ -1936,7 +1936,7 @@
       </trans-unit>
       <trans-unit id="9d289043-edb5-4a7e-801b-4881709edb32" resname="ZEN·183 | Scythe Tiger | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you sacrifice a land.</source>
-        <target state="translated">当镰刃虎进战场时，除非你牺牲一个地，否则将它牺牲。</target>
+        <target state="translated">当CARDNAME进战场时，除非你牺牲一个地，否则将它牺牲。</target>
       </trans-unit>
       <trans-unit id="72ce4a96-9cb2-4032-9291-7fa0849aeab9" resname="ZEN·184 | Summoning Trap | Card Name">
         <source>Summoning Trap</source>
@@ -1944,7 +1944,7 @@
       </trans-unit>
       <trans-unit id="72ce4a96-9cb2-4032-9291-7fa0849aeab9" resname="ZEN·184 | Summoning Trap | Card Text | Paragraph 1">
         <source>If a creature spell you cast this turn was countered by a spell or ability an opponent controlled, you may pay {0} rather than pay CARDNAME's mana cost.</source>
-        <target state="translated">如果本回合中，你施放的生物咒语被由对手操控的咒语或异能所反击，你可以支付{0}，而不支付召兽陷阱的法术力费用。</target>
+        <target state="translated">如果本回合中，你施放的生物咒语被由对手操控的咒语或异能所反击，你可以支付{0}，而不支付CARDNAME的法术力费用。</target>
       </trans-unit>
       <trans-unit id="72ce4a96-9cb2-4032-9291-7fa0849aeab9" resname="ZEN·184 | Summoning Trap | Card Text | Paragraph 2">
         <source>Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.</source>
@@ -1956,7 +1956,7 @@
       </trans-unit>
       <trans-unit id="ec46dbeb-f9b3-4e0f-a61f-52a91da6f087" resname="ZEN·185 | Tajuru Archer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may have CARDNAME deal damage to target creature with flying equal to the number of Allies you control.</source>
-        <target state="translated">每当特裘如弓箭手或另一个伙伴在你的操控下进战场时，你可以令特裘如弓箭手对目标具飞行异能的生物造成伤害，其数量等同于由你操控的伙伴数量。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以令CARDNAME对目标具飞行异能的生物造成伤害，其数量等同于由你操控的伙伴数量。</target>
       </trans-unit>
       <trans-unit id="a3c4e15b-7460-4d61-a209-6de27e4df6bb" resname="ZEN·186 | Tanglesap | Card Name">
         <source>Tanglesap</source>
@@ -1972,7 +1972,7 @@
       </trans-unit>
       <trans-unit id="4ab062f4-e4b1-4129-9027-d0ca1a723273" resname="ZEN·187 | Terra Stomper | Card Text | Paragraph 1">
         <source>CARDNAME can't be countered.</source>
-        <target state="translated">跺地猛兽不能被反击。</target>
+        <target state="translated">CARDNAME不能被反击。</target>
       </trans-unit>
       <trans-unit id="4ab062f4-e4b1-4129-9027-d0ca1a723273" resname="ZEN·187 | Terra Stomper | Card Text | Paragraph 2">
         <source>Trample</source>
@@ -1984,7 +1984,7 @@
       </trans-unit>
       <trans-unit id="45033b8a-f3a8-4a23-b6b0-e011e3e7a4c1" resname="ZEN·188 | Territorial Baloth | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，据地巴洛西得+2/+2直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d68fc3bc-eb3b-4504-93a3-8943d07b23f8" resname="ZEN·189 | Timbermaw Larva | Card Name">
         <source>Timbermaw Larva</source>
@@ -1992,7 +1992,7 @@
       </trans-unit>
       <trans-unit id="d68fc3bc-eb3b-4504-93a3-8943d07b23f8" resname="ZEN·189 | Timbermaw Larva | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +1/+1 until end of turn for each Forest you control.</source>
-        <target state="translated">每当木喉幼兽攻击时，你每操控一个树林，它便得+1/+1直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，你每操控一个树林，它便得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b774563a-d2d4-4bdf-ad82-dd9e1fa953ba" resname="ZEN·190 | Turntimber Basilisk | Card Name">
         <source>Turntimber Basilisk</source>
@@ -2004,7 +2004,7 @@
       </trans-unit>
       <trans-unit id="b774563a-d2d4-4bdf-ad82-dd9e1fa953ba" resname="ZEN·190 | Turntimber Basilisk | Card Text | Paragraph 2">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may have target creature block CARDNAME this turn if able.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以令目标生物本回合若能阻挡旋林蜥怪，则须阻挡之。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以令目标生物本回合若能阻挡CARDNAME，则须阻挡之。</target>
       </trans-unit>
       <trans-unit id="a24bba56-3256-489b-82a2-22748388e110" resname="ZEN·191 | Turntimber Ranger | Card Name">
         <source>Turntimber Ranger</source>
@@ -2012,7 +2012,7 @@
       </trans-unit>
       <trans-unit id="a24bba56-3256-489b-82a2-22748388e110" resname="ZEN·191 | Turntimber Ranger | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Ally enters the battlefield under your control, you may put a 2/2 green Wolf creature token onto the battlefield. If you do, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当旋林巡林者或另一个伙伴在你的操控下进战场时，你可以将一个2/2绿色狼衍生物放进战场。 若你如此作，则在旋林巡林者上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以将一个2/2绿色狼衍生物放进战场。 若你如此作，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="bc5daf96-ceae-4c9a-95cd-f6d706e9b1fa" resname="ZEN·192 | Vastwood Gorger | Card Name">
         <source>Vastwood Gorger</source>
@@ -2028,7 +2028,7 @@
       </trans-unit>
       <trans-unit id="e8bd8b10-de86-4bb6-b49f-6ccb5297c81c" resname="ZEN·193 | Vines of Vastwood | Card Text | Paragraph 2">
         <source>Target creature can't be the target of spells or abilities your opponents control this turn. If CARDNAME was kicked, that creature gets +4/+4 until end of turn.</source>
-        <target state="translated">目标生物本回合不能成为由任一对手所操控之咒语或异能的目标。 如果广林藤蔓已增幅，则该生物得+4/+4直到回合结束。</target>
+        <target state="translated">目标生物本回合不能成为由任一对手所操控之咒语或异能的目标。 如果CARDNAME已增幅，则该生物得+4/+4直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b3aeb7fb-8618-4595-84b4-20881b824b3e" resname="ZEN·194 | Zendikar Farguide | Card Name">
         <source>Zendikar Farguide</source>
@@ -2072,7 +2072,7 @@
       </trans-unit>
       <trans-unit id="1e9d1ff2-9ce3-4737-af1d-9fc82e4dffe6" resname="ZEN·197 | Blazing Torch | Card Text | Paragraph 2">
         <source>Equipped creature has &amp;quot;{T}, Sacrifice CARDNAME: CARDNAME deals 2 damage to target creature or player.&amp;quot;</source>
-        <target state="translated">佩带此武具的生物具有「{T}，牺牲明亮火把：明亮火把对目标生物或牌手造成2点伤害。」</target>
+        <target state="translated">佩带此武具的生物具有「{T}，牺牲CARDNAME：CARDNAME对目标生物或牌手造成2点伤害。」</target>
       </trans-unit>
       <trans-unit id="1e9d1ff2-9ce3-4737-af1d-9fc82e4dffe6" resname="ZEN·197 | Blazing Torch | Card Text | Paragraph 3">
         <source>Equip {1}</source>
@@ -2096,7 +2096,7 @@
       </trans-unit>
       <trans-unit id="aa9f4169-8c49-41f4-9e01-20de06ca4ad9" resname="ZEN·199 | Eldrazi Monument | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice CARDNAME.</source>
-        <target state="translated">在你的维持开始时，牺牲一个生物。 若你无法如此作，则牺牲奥札奇纪念碑。</target>
+        <target state="translated">在你的维持开始时，牺牲一个生物。 若你无法如此作，则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="a9222e18-41b3-423f-8715-305a0d8fd410" resname="ZEN·200 | Eternity Vessel | Card Name">
         <source>Eternity Vessel</source>
@@ -2104,11 +2104,11 @@
       </trans-unit>
       <trans-unit id="a9222e18-41b3-423f-8715-305a0d8fd410" resname="ZEN·200 | Eternity Vessel | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X charge counters on it, where X is your life total.</source>
-        <target state="translated">永生皿进战场时上面有X个充电指示物，X为你的总生命。</target>
+        <target state="translated">CARDNAME进战场时上面有X个充电指示物，X为你的总生命。</target>
       </trans-unit>
       <trans-unit id="a9222e18-41b3-423f-8715-305a0d8fd410" resname="ZEN·200 | Eternity Vessel | Card Text | Paragraph 2">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may have your life total become the number of charge counters on CARDNAME.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以令你的总生命成为永生皿上充电指示物之数量。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以令你的总生命成为CARDNAME上充电指示物之数量。</target>
       </trans-unit>
       <trans-unit id="c55bee97-593f-441f-b96c-a998d5212a55" resname="ZEN·201 | Expedition Map | Card Name">
         <source>Expedition Map</source>
@@ -2116,7 +2116,7 @@
       </trans-unit>
       <trans-unit id="c55bee97-593f-441f-b96c-a998d5212a55" resname="ZEN·201 | Expedition Map | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.</source>
-        <target state="translated">{2}，{T}，牺牲探险地图：从你的牌库中搜寻一张地牌，展示该牌，并将它置入你手上。 然后将你的牌库洗牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：从你的牌库中搜寻一张地牌，展示该牌，并将它置入你手上。 然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="ea3a9cdb-4842-44b3-8143-0fda31692600" resname="ZEN·202 | Explorer's Scope | Card Name">
         <source>Explorer's Scope</source>
@@ -2152,7 +2152,7 @@
       </trans-unit>
       <trans-unit id="6422e062-0ce1-4239-8c2d-06449627a55a" resname="ZEN·204 | Hedron Scrabbler | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，晶石翻拣怪得+1/+1直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8b5f6b2b-8d98-4609-b991-a69523b5a07d" resname="ZEN·205 | Khalni Gem | Card Name">
         <source>Khalni Gem</source>
@@ -2160,7 +2160,7 @@
       </trans-unit>
       <trans-unit id="8b5f6b2b-8d98-4609-b991-a69523b5a07d" resname="ZEN·205 | Khalni Gem | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return two lands you control to their owner's hand.</source>
-        <target state="translated">当坎尼宝石进战场时，将两个由你操控的地移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将两个由你操控的地移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="8b5f6b2b-8d98-4609-b991-a69523b5a07d" resname="ZEN·205 | Khalni Gem | Card Text | Paragraph 2">
         <source>{T}: Add two mana of any one color to your mana pool.</source>
@@ -2212,11 +2212,11 @@
       </trans-unit>
       <trans-unit id="2ed95b4a-1452-4337-a4b2-e67e624d33df" resname="ZEN·210 | Akoum Refuge | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">阿库姆避难所须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="2ed95b4a-1452-4337-a4b2-e67e624d33df" resname="ZEN·210 | Akoum Refuge | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 1 life.</source>
-        <target state="translated">当阿库姆避难所进战场时，你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="2ed95b4a-1452-4337-a4b2-e67e624d33df" resname="ZEN·210 | Akoum Refuge | Card Text | Paragraph 3">
         <source>{T}: Add {B} or {R} to your mana pool.</source>
@@ -2228,7 +2228,7 @@
       </trans-unit>
       <trans-unit id="16c8d2fa-54a7-46e8-980c-905258497c90" resname="ZEN·211 | Arid Mesa | Card Text | Paragraph 1">
         <source>{T}, Pay 1 life, Sacrifice CARDNAME: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.</source>
-        <target state="translated">{T}，支付1点生命，牺牲不毛高地：从你的牌库中搜寻一张山脉或平原牌，并将之放进战场。 然后将你的牌库洗牌。</target>
+        <target state="translated">{T}，支付1点生命，牺牲CARDNAME：从你的牌库中搜寻一张山脉或平原牌，并将之放进战场。 然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="672869d6-5314-422e-92f6-6a328fe0c6f6" resname="ZEN·212 | Crypt of Agadeem | Card Name">
         <source>Crypt of Agadeem</source>
@@ -2236,7 +2236,7 @@
       </trans-unit>
       <trans-unit id="672869d6-5314-422e-92f6-6a328fe0c6f6" resname="ZEN·212 | Crypt of Agadeem | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">艾格丁墓穴须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="672869d6-5314-422e-92f6-6a328fe0c6f6" resname="ZEN·212 | Crypt of Agadeem | Card Text | Paragraph 2">
         <source>{T}: Add {B} to your mana pool.</source>
@@ -2252,7 +2252,7 @@
       </trans-unit>
       <trans-unit id="fdf6016e-71e7-4339-80f9-78e9aa44c54b" resname="ZEN·213 | Emeria, the Sky Ruin | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">天空遗迹伊美黎须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="fdf6016e-71e7-4339-80f9-78e9aa44c54b" resname="ZEN·213 | Emeria, the Sky Ruin | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.</source>
@@ -2268,11 +2268,11 @@
       </trans-unit>
       <trans-unit id="c46324e3-52e7-4b21-a9a0-a3aae9f7dd5b" resname="ZEN·214 | Graypelt Refuge | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">灰皮避难所须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="c46324e3-52e7-4b21-a9a0-a3aae9f7dd5b" resname="ZEN·214 | Graypelt Refuge | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 1 life.</source>
-        <target state="translated">当灰皮避难所进战场时，你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="c46324e3-52e7-4b21-a9a0-a3aae9f7dd5b" resname="ZEN·214 | Graypelt Refuge | Card Text | Paragraph 3">
         <source>{T}: Add {G} or {W} to your mana pool.</source>
@@ -2284,11 +2284,11 @@
       </trans-unit>
       <trans-unit id="ddd9463f-d029-459d-a933-432b7bbd7a41" resname="ZEN·215 | Jwar Isle Refuge | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">爪尔岛避难所须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="ddd9463f-d029-459d-a933-432b7bbd7a41" resname="ZEN·215 | Jwar Isle Refuge | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 1 life.</source>
-        <target state="translated">当爪尔岛避难所进战场时，你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="ddd9463f-d029-459d-a933-432b7bbd7a41" resname="ZEN·215 | Jwar Isle Refuge | Card Text | Paragraph 3">
         <source>{T}: Add {U} or {B} to your mana pool.</source>
@@ -2300,11 +2300,11 @@
       </trans-unit>
       <trans-unit id="a776decb-cdb5-4f41-8a3a-c0cece18eb35" resname="ZEN·216 | Kabira Crossroads | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">卡彼拉会所须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="a776decb-cdb5-4f41-8a3a-c0cece18eb35" resname="ZEN·216 | Kabira Crossroads | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 2 life.</source>
-        <target state="translated">当卡彼拉会所进战场时，你获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="a776decb-cdb5-4f41-8a3a-c0cece18eb35" resname="ZEN·216 | Kabira Crossroads | Card Text | Paragraph 3">
         <source>{T}: Add {W} to your mana pool.</source>
@@ -2316,11 +2316,11 @@
       </trans-unit>
       <trans-unit id="8af66f9c-c90b-45e0-a54c-a76e7e1b9dff" resname="ZEN·217 | Kazandu Refuge | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">卡赞度避难所须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="8af66f9c-c90b-45e0-a54c-a76e7e1b9dff" resname="ZEN·217 | Kazandu Refuge | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 1 life.</source>
-        <target state="translated">当卡赞度避难所进战场时，你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="8af66f9c-c90b-45e0-a54c-a76e7e1b9dff" resname="ZEN·217 | Kazandu Refuge | Card Text | Paragraph 3">
         <source>{T}: Add {R} or {G} to your mana pool.</source>
@@ -2332,7 +2332,7 @@
       </trans-unit>
       <trans-unit id="3c84cf70-4164-47ea-8da1-c0ca1ac132e1" resname="ZEN·218 | Magosi, the Waterveil | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">水帘马格西须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="3c84cf70-4164-47ea-8da1-c0ca1ac132e1" resname="ZEN·218 | Magosi, the Waterveil | Card Text | Paragraph 2">
         <source>{T}: Add {U} to your mana pool.</source>
@@ -2340,11 +2340,11 @@
       </trans-unit>
       <trans-unit id="3c84cf70-4164-47ea-8da1-c0ca1ac132e1" resname="ZEN·218 | Magosi, the Waterveil | Card Text | Paragraph 3">
         <source>{U}, {T}: Put an eon counter on CARDNAME. Skip your next turn.</source>
-        <target state="translated">{U}，{T}：在水帘马格西上放置一个亘古指示物。 略过你的下个回合。</target>
+        <target state="translated">{U}，{T}：在CARDNAME上放置一个亘古指示物。 略过你的下个回合。</target>
       </trans-unit>
       <trans-unit id="3c84cf70-4164-47ea-8da1-c0ca1ac132e1" resname="ZEN·218 | Magosi, the Waterveil | Card Text | Paragraph 4">
         <source>{T}, Remove an eon counter from CARDNAME and return it to its owner's hand: Take an extra turn after this one.</source>
-        <target state="translated">{T}，从水帘马格西上移去一个亘古指示物并将它移回其拥有者手上：在本回合后进行额外的一个回合。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个亘古指示物并将它移回其拥有者手上：在本回合后进行额外的一个回合。</target>
       </trans-unit>
       <trans-unit id="45026d57-0324-4312-8b86-2e7d4f581ee9" resname="ZEN·219 | Marsh Flats | Card Name">
         <source>Marsh Flats</source>
@@ -2352,7 +2352,7 @@
       </trans-unit>
       <trans-unit id="45026d57-0324-4312-8b86-2e7d4f581ee9" resname="ZEN·219 | Marsh Flats | Card Text | Paragraph 1">
         <source>{T}, Pay 1 life, Sacrifice CARDNAME: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.</source>
-        <target state="translated">{T}，支付1点生命，牺牲沼地平野：从你的牌库中搜寻一张平原或沼泽牌，并将之放进战场。 然后将你的牌库洗牌。</target>
+        <target state="translated">{T}，支付1点生命，牺牲CARDNAME：从你的牌库中搜寻一张平原或沼泽牌，并将之放进战场。 然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787" resname="ZEN·220 | Misty Rainforest | Card Name">
         <source>Misty Rainforest</source>
@@ -2360,7 +2360,7 @@
       </trans-unit>
       <trans-unit id="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787" resname="ZEN·220 | Misty Rainforest | Card Text | Paragraph 1">
         <source>{T}, Pay 1 life, Sacrifice CARDNAME: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.</source>
-        <target state="translated">{T}，支付1点生命，牺牲雾漫雨林：从你的牌库中搜寻一张树林或海岛牌，并将之放进战场。 然后将你的牌库洗牌。</target>
+        <target state="translated">{T}，支付1点生命，牺牲CARDNAME：从你的牌库中搜寻一张树林或海岛牌，并将之放进战场。 然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="9bcc3bab-46f8-4ed2-abdb-7a117ad07d03" resname="ZEN·221 | Oran-Rief, the Vastwood | Card Name">
         <source>Oran-Rief, the Vastwood</source>
@@ -2368,7 +2368,7 @@
       </trans-unit>
       <trans-unit id="9bcc3bab-46f8-4ed2-abdb-7a117ad07d03" resname="ZEN·221 | Oran-Rief, the Vastwood | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">广林欧兰黎须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="9bcc3bab-46f8-4ed2-abdb-7a117ad07d03" resname="ZEN·221 | Oran-Rief, the Vastwood | Card Text | Paragraph 2">
         <source>{T}: Add {G} to your mana pool.</source>
@@ -2384,11 +2384,11 @@
       </trans-unit>
       <trans-unit id="ea077cff-b5c9-4a40-8e66-8810c37be5cb" resname="ZEN·222 | Piranha Marsh | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">水虎鱼沼地须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="ea077cff-b5c9-4a40-8e66-8810c37be5cb" resname="ZEN·222 | Piranha Marsh | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target player loses 1 life.</source>
-        <target state="translated">当水虎鱼沼地进战场时，目标牌手失去1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，目标牌手失去1点生命。</target>
       </trans-unit>
       <trans-unit id="ea077cff-b5c9-4a40-8e66-8810c37be5cb" resname="ZEN·222 | Piranha Marsh | Card Text | Paragraph 3">
         <source>{T}: Add {B} to your mana pool.</source>
@@ -2400,7 +2400,7 @@
       </trans-unit>
       <trans-unit id="327cf118-cc92-4073-85d0-94d2a0a6989a" resname="ZEN·223 | Scalding Tarn | Card Text | Paragraph 1">
         <source>{T}, Pay 1 life, Sacrifice CARDNAME: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.</source>
-        <target state="translated">{T}，支付1点生命，牺牲沸腾山湖：从你的牌库中搜寻一张海岛或山脉牌，并将之放进战场。 然后将你的牌库洗牌。</target>
+        <target state="translated">{T}，支付1点生命，牺牲CARDNAME：从你的牌库中搜寻一张海岛或山脉牌，并将之放进战场。 然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="1fd8cb0d-d651-44e7-ae14-4035b0f1aa77" resname="ZEN·224 | Sejiri Refuge | Card Name">
         <source>Sejiri Refuge</source>
@@ -2408,11 +2408,11 @@
       </trans-unit>
       <trans-unit id="1fd8cb0d-d651-44e7-ae14-4035b0f1aa77" resname="ZEN·224 | Sejiri Refuge | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">塞基黎避难所须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="1fd8cb0d-d651-44e7-ae14-4035b0f1aa77" resname="ZEN·224 | Sejiri Refuge | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 1 life.</source>
-        <target state="translated">当塞基黎避难所进战场时，你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="1fd8cb0d-d651-44e7-ae14-4035b0f1aa77" resname="ZEN·224 | Sejiri Refuge | Card Text | Paragraph 3">
         <source>{T}: Add {W} or {U} to your mana pool.</source>
@@ -2424,11 +2424,11 @@
       </trans-unit>
       <trans-unit id="6bf0de91-765a-49e3-bd8a-94f266b3bdd8" resname="ZEN·225 | Soaring Seacliff | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">翱翔海崖须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="6bf0de91-765a-49e3-bd8a-94f266b3bdd8" resname="ZEN·225 | Soaring Seacliff | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gains flying until end of turn.</source>
-        <target state="translated">当翱翔海崖进战场时，目标生物获得飞行异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6bf0de91-765a-49e3-bd8a-94f266b3bdd8" resname="ZEN·225 | Soaring Seacliff | Card Text | Paragraph 3">
         <source>{T}: Add {U} to your mana pool.</source>
@@ -2440,11 +2440,11 @@
       </trans-unit>
       <trans-unit id="e56aca36-bb51-45e3-9ef9-9f9f2aa1e088" resname="ZEN·226 | Teetering Peaks | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">晃摇山峰须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="e56aca36-bb51-45e3-9ef9-9f9f2aa1e088" resname="ZEN·226 | Teetering Peaks | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gets +2/+0 until end of turn.</source>
-        <target state="translated">当晃摇山峰进战场时，目标生物得+2/+0直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="e56aca36-bb51-45e3-9ef9-9f9f2aa1e088" resname="ZEN·226 | Teetering Peaks | Card Text | Paragraph 3">
         <source>{T}: Add {R} to your mana pool.</source>
@@ -2456,11 +2456,11 @@
       </trans-unit>
       <trans-unit id="fc92d6ef-a578-4320-b5c8-3da192eea1f3" resname="ZEN·227 | Turntimber Grove | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">旋林树丛须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="fc92d6ef-a578-4320-b5c8-3da192eea1f3" resname="ZEN·227 | Turntimber Grove | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gets +1/+1 until end of turn.</source>
-        <target state="translated">当旋林树丛进战场时，目标生物得+1/+1直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="fc92d6ef-a578-4320-b5c8-3da192eea1f3" resname="ZEN·227 | Turntimber Grove | Card Text | Paragraph 3">
         <source>{T}: Add {G} to your mana pool.</source>
@@ -2472,11 +2472,11 @@
       </trans-unit>
       <trans-unit id="37bce60d-2cb0-4772-9f5c-122a7ed426a0" resname="ZEN·228 | Valakut, the Molten Pinnacle | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">熔天顶瓦拉库须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="37bce60d-2cb0-4772-9f5c-122a7ed426a0" resname="ZEN·228 | Valakut, the Molten Pinnacle | Card Text | Paragraph 2">
         <source>Whenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have CARDNAME deal 3 damage to target creature or player.</source>
-        <target state="translated">每当一个山脉在你的操控下放进战场时，若你操控至少五个其他的山脉，你可以令熔天顶瓦拉库对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">每当一个山脉在你的操控下放进战场时，若你操控至少五个其他的山脉，你可以令CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="37bce60d-2cb0-4772-9f5c-122a7ed426a0" resname="ZEN·228 | Valakut, the Molten Pinnacle | Card Text | Paragraph 3">
         <source>{T}: Add {R} to your mana pool.</source>
@@ -2488,7 +2488,7 @@
       </trans-unit>
       <trans-unit id="7abd2723-2851-4f1a-b2d0-dfcb526472c3" resname="ZEN·229 | Verdant Catacombs | Card Text | Paragraph 1">
         <source>{T}, Pay 1 life, Sacrifice CARDNAME: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.</source>
-        <target state="translated">{T}，支付1点生命，牺牲新绿陵墓：从你的牌库中搜寻一张沼泽或树林牌，并将之放进战场。 然后将你的牌库洗牌。</target>
+        <target state="translated">{T}，支付1点生命，牺牲CARDNAME：从你的牌库中搜寻一张沼泽或树林牌，并将之放进战场。 然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="bc4f4b6d-ff35-4b1f-974b-f39569e6b3c7" resname="ZEN·230 | Plains | Card Name">
         <source>Plains</source>

@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="ac72f9e9-d006-40e7-b4a8-0de44976aa41" resname="PSAL·L1 | Jedit Ojanen of Efrava | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks or blocks, create a 2/2 green Cat Warrior creature token with forestwalk.</source>
-        <target state="translated">每当依法瓦的杰迪欧亚奈进行攻击或阻挡时，将一个2/2绿色，具树林行者异能的猫／战士衍生物放置进场。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，将一个2/2绿色，具树林行者异能的猫／战士衍生物放置进场。</target>
         <note xmlns:from="developer">中文数据来自PLC（2007-02-02）；</note>
       </trans-unit>
       <trans-unit id="3ac0447a-d873-4d87-b10b-1aab89d48929" resname="PSAL·B2 | Nullmage Shepherd | Card Name">
@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="fbf7c846-1c82-45cf-a17d-741fd58f8a5e" resname="PSAL·J3 | Sporesower Thallid | Card Text | Paragraph 2">
         <source>Remove three spore counters from CARDNAME: Create a 1/1 green Saproling creature token.</source>
-        <target state="translated">从孢舞散绿菌上移去三个芽孢指示物：派出一个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">从CARDNAME上移去三个芽孢指示物：派出一个1/1绿色腐生物衍生生物。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="4acc19a7-37e5-4002-805f-59c8607f7a7d" resname="PSAL·E4 | Dimir Infiltrator | Card Name">
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="4acc19a7-37e5-4002-805f-59c8607f7a7d" resname="PSAL·E4 | Dimir Infiltrator | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">底密尔渗透者不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="4acc19a7-37e5-4002-805f-59c8607f7a7d" resname="PSAL·E4 | Dimir Infiltrator | Card Text | Paragraph 2">
@@ -99,7 +99,7 @@
       </trans-unit>
       <trans-unit id="5da6d5a3-3e38-4772-af67-36183753e832" resname="PSAL·G4 | Freewind Equenaut | Card Text | Paragraph 2">
         <source>As long as CARDNAME is enchanted, it has &amp;quot;{T}: CARDNAME deals 2 damage to target attacking or blocking creature.&amp;quot;</source>
-        <target state="translated">只要滑翔飞马骑士上结附了结界，它便具有「{T}：滑翔飞马骑士对目标进行攻击或阻挡的生物造成2点伤害。」</target>
+        <target state="translated">只要CARDNAME上结附了结界，它便具有「{T}：CARDNAME对目标进行攻击或阻挡的生物造成2点伤害。」</target>
         <note xmlns:from="developer">中文数据来自DIS（2006-05-05）；</note>
       </trans-unit>
       <trans-unit id="99d48342-e321-4161-8e0c-8cb2d68bf599" resname="PSAL·H4 | Vacuumelt | Card Name">
@@ -124,12 +124,12 @@
       </trans-unit>
       <trans-unit id="ad59a9c5-6b96-4da1-886c-fb55dee74ed2" resname="PSAL·J4 | Savage Thallid | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a spore counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在凶蛮散绿菌上放置一个芽孢指示物。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个芽孢指示物。</target>
         <note xmlns:from="developer">中文数据来自TSP（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="ad59a9c5-6b96-4da1-886c-fb55dee74ed2" resname="PSAL·J4 | Savage Thallid | Card Text | Paragraph 2">
         <source>Remove three spore counters from CARDNAME: Create a 1/1 green Saproling creature token.</source>
-        <target state="translated">从凶蛮散绿菌上移去三个芽孢指示物：将一个1/1绿色腐生物衍生物放置进场。</target>
+        <target state="translated">从CARDNAME上移去三个芽孢指示物：将一个1/1绿色腐生物衍生物放置进场。</target>
         <note xmlns:from="developer">中文数据来自TSP（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="ad59a9c5-6b96-4da1-886c-fb55dee74ed2" resname="PSAL·J4 | Savage Thallid | Card Text | Paragraph 3">
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="02275dcd-6709-43af-9e99-9b160a9f7f61" resname="PSAL·G5 | Guardian's Magemark | Card Text | Paragraph 1">
         <source>Flash</source>
-        <target state="translated">你可以于你能够使用瞬间的时机下，使用守护者法印。</target>
+        <target state="translated">你可以于你能够使用瞬间的时机下，使用CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自GPT（2006-02-03）；</note>
       </trans-unit>
       <trans-unit id="02275dcd-6709-43af-9e99-9b160a9f7f61" resname="PSAL·G5 | Guardian's Magemark | Card Text | Paragraph 2">
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit id="3685ecb9-8899-4cb1-bce7-911152fe8920" resname="PSAL·H5 | Martyr of Frost | Card Text | Paragraph 1">
         <source>{2}, Reveal X blue cards from your hand, Sacrifice CARDNAME: Counter target spell unless its controller pays {X}.</source>
-        <target state="translated">{2}，从你手上展示X张蓝色牌，牺牲霜凝殉道者：除非目标咒语的操控者支付{X}，否则反击之。</target>
+        <target state="translated">{2}，从你手上展示X张蓝色牌，牺牲CARDNAME：除非目标咒语的操控者支付{X}，否则反击之。</target>
         <note xmlns:from="developer">中文数据来自CSP（2006-07-21）；</note>
       </trans-unit>
       <trans-unit id="67eea2b6-5cea-467f-8472-609a397d2ea2" resname="PSAL·I5 | Goblin Fire Fiend | Card Name">
@@ -179,12 +179,12 @@
       </trans-unit>
       <trans-unit id="67eea2b6-5cea-467f-8472-609a397d2ea2" resname="PSAL·I5 | Goblin Fire Fiend | Card Text | Paragraph 2">
         <source>CARDNAME must be blocked if able.</source>
-        <target state="translated">防御牌手若能阻挡纵火精灵，则必须阻挡之。</target>
+        <target state="translated">防御牌手若能阻挡CARDNAME，则必须阻挡之。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="67eea2b6-5cea-467f-8472-609a397d2ea2" resname="PSAL·I5 | Goblin Fire Fiend | Card Text | Paragraph 3">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：纵火精灵得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="9d90d6e5-3abb-429d-bd31-55930609d870" resname="PSAL·G6 | Skyrider Trainee | Card Name">
@@ -194,7 +194,7 @@
       </trans-unit>
       <trans-unit id="9d90d6e5-3abb-429d-bd31-55930609d870" resname="PSAL·G6 | Skyrider Trainee | Card Text | Paragraph 1">
         <source>CARDNAME has flying as long as it's enchanted.</source>
-        <target state="translated">只要空骑兵学员上结附了结界，它便具有飞行异能。</target>
+        <target state="translated">只要CARDNAME上结附了结界，它便具有飞行异能。</target>
         <note xmlns:from="developer">中文数据来自GPT（2006-02-03）；</note>
       </trans-unit>
       <trans-unit id="d0eee2d9-bb7e-40d8-b1bf-ca98c107c5d2" resname="PSAL·J6 | Thallid Shell-Dweller | Card Name">
@@ -209,12 +209,12 @@
       </trans-unit>
       <trans-unit id="d0eee2d9-bb7e-40d8-b1bf-ca98c107c5d2" resname="PSAL·J6 | Thallid Shell-Dweller | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, put a spore counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在蜗居散绿菌上放置一个芽孢指示物。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个芽孢指示物。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="d0eee2d9-bb7e-40d8-b1bf-ca98c107c5d2" resname="PSAL·J6 | Thallid Shell-Dweller | Card Text | Paragraph 3">
         <source>Remove three spore counters from CARDNAME: Create a 1/1 green Saproling creature token.</source>
-        <target state="translated">从蜗居散绿菌上移去三个芽孢指示物：派出一个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">从CARDNAME上移去三个芽孢指示物：派出一个1/1绿色腐生物衍生生物。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="e57fe3a3-fb59-416f-b0ea-e1c6e9ac6212" resname="PSAL·L6 | Jedit's Dragoons | Card Name">
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="e57fe3a3-fb59-416f-b0ea-e1c6e9ac6212" resname="PSAL·L6 | Jedit's Dragoons | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 4 life.</source>
-        <target state="translated">当杰迪的重装兵进场时，你获得4点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得4点生命。</target>
         <note xmlns:from="developer">中文数据来自TSP（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="fa6df780-106e-4320-a740-8d985f380ff2" resname="PSAL·G7 | Infiltrator's Magemark | Card Name">
@@ -264,7 +264,7 @@
       </trans-unit>
       <trans-unit id="1a48fa19-ad92-47eb-836b-c2b15afb4798" resname="PSAL·L8 | Terramorphic Expanse | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">{T}，牺牲地塑旷野：从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
+        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="e00bddd6-41da-4b5f-84da-43ebde4f3a2a" resname="PSAL·F13 | Helldozer | Card Name">
@@ -274,7 +274,7 @@
       </trans-unit>
       <trans-unit id="e00bddd6-41da-4b5f-84da-43ebde4f3a2a" resname="PSAL·F13 | Helldozer | Card Text | Paragraph 1">
         <source>{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap CARDNAME.</source>
-        <target state="translated">{B}{B}{B}，{T}：消灭目标地。 若该地为非基本地，则重置地狱破土怪。</target>
+        <target state="translated">{B}{B}{B}，{T}：消灭目标地。 若该地为非基本地，则重置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="ae61824f-8144-4dcc-8174-83c03a5c2fa3" resname="PSAL·I13 | Lovisa Coldeyes | Card Name">
@@ -294,7 +294,7 @@
       </trans-unit>
       <trans-unit id="9363801a-2757-45b2-a80e-c90c993891e2" resname="PSAL·J13 | Leyline of the Meek | Card Text | Paragraph 1">
         <source>If CARDNAME is in your opening hand, you may begin the game with it on the battlefield.</source>
-        <target state="translated">若你起手的手牌包含了驯良地脉，你可以让它在场来开始游戏。</target>
+        <target state="translated">若你起手的手牌包含了CARDNAME，你可以让它在场来开始游戏。</target>
         <note xmlns:from="developer">中文数据来自GPT（2006-02-03）；</note>
       </trans-unit>
       <trans-unit id="9363801a-2757-45b2-a80e-c90c993891e2" resname="PSAL·J13 | Leyline of the Meek | Card Text | Paragraph 2">
@@ -314,7 +314,7 @@
       </trans-unit>
       <trans-unit id="497f5776-c741-4351-9686-4696daad2288" resname="PSAL·L13 | Seht's Tiger | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain protection from the color of your choice until end of turn. (You can't be targeted, dealt damage, or enchanted by anything of the chosen color.)</source>
-        <target state="translated">当塞特之虎进场时，选择一种颜色，你获得反该色保护异能直到回合结束。 （你不能被该色的东西指定为目标，造成伤害，或是被结附）</target>
+        <target state="translated">当CARDNAME进场时，选择一种颜色，你获得反该色保护异能直到回合结束。 （你不能被该色的东西指定为目标，造成伤害，或是被结附）</target>
         <note xmlns:from="developer">中文数据来自FUT（2007-05-04）；</note>
       </trans-unit>
       <trans-unit id="02e8f673-e708-49a7-be29-788cb342dcf9" resname="PSAL·E14 | Clutch of the Undercity | Card Name">
@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="2377e97f-6c61-4f8b-9562-9d26bd40356d" resname="PSAL·H14 | Belltower Sphinx | Card Text | Paragraph 2">
         <source>Whenever a source deals damage to CARDNAME, that source's controller mills that many cards.</source>
-        <target state="translated">每当任一来源对钟塔史芬斯造成伤害时，该来源的操控者将其牌库顶上等量的牌置入其坟墓场。</target>
+        <target state="translated">每当任一来源对CARDNAME造成伤害时，该来源的操控者将其牌库顶上等量的牌置入其坟墓场。</target>
         <note xmlns:from="developer">中文数据来自M12（2011-07-15）；</note>
       </trans-unit>
       <trans-unit id="b8ebbdf0-12e6-455f-9db3-8b14bed41a32" resname="PSAL·I14 | Balduvian Rage | Card Name">
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="d07e0de9-87ea-47d5-8a2a-a70078d7bb3b" resname="PSAL·L14 | Arctic Nishoba | Card Text | Paragraph 3">
         <source>When CARDNAME dies, you gain 2 life for each age counter on it.</source>
-        <target state="translated">当极地尼索巴从场上置入坟墓场时，其上每有一个岁月指示物，你便获得2点生命。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，其上每有一个岁月指示物，你便获得2点生命。</target>
         <note xmlns:from="developer">中文数据来自CSP（2006-07-21）；</note>
       </trans-unit>
       <trans-unit id="1b471779-b00a-436f-b224-7984100ec1ad" resname="PSAL·E15 | Keening Banshee | Card Name">
@@ -394,7 +394,7 @@
       </trans-unit>
       <trans-unit id="1b471779-b00a-436f-b224-7984100ec1ad" resname="PSAL·E15 | Keening Banshee | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gets -2/-2 until end of turn.</source>
-        <target state="translated">当哭号女妖进场时，目标生物得-2/-2直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，目标生物得-2/-2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="86970c36-306f-48b9-b506-1178b05f5e48" resname="PSAL·H15 | Dimir Guildmage | Card Name">
@@ -414,7 +414,7 @@
       </trans-unit>
       <trans-unit id="2dfa7793-dffc-41ce-875f-085f12cb66b5" resname="PSAL·J15 | Juniper Order Ranger | Card Text | Paragraph 1">
         <source>Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当另一个生物在你的操控下进战场时，在该生物上放置一个+1/+1指示物，并在杜松教派护林人上放置一个+1/+1指示物。</target>
+        <target state="translated">每当另一个生物在你的操控下进战场时，在该生物上放置一个+1/+1指示物，并在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="6fad9820-e97f-4149-89a6-c7eb1c6b1615" resname="PSAL·G16 | Sinstriker's Will | Card Name">
@@ -439,7 +439,7 @@
       </trans-unit>
       <trans-unit id="f786de73-98ff-4426-abca-dc789f6848ce" resname="PSAL·I16 | Frenzied Goblin | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may pay {R}. If you do, target creature can't block this turn.</source>
-        <target state="translated">每当狂热鬼怪攻击时，你可以支付{R}。若你如此作，则目标生物本回合不能进行阻挡。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付{R}。若你如此作，则目标生物本回合不能进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="3a364bf7-cf88-4860-b914-52c28341722f" resname="PSAL·J16 | Supply | Card Name">
@@ -469,7 +469,7 @@
       </trans-unit>
       <trans-unit id="fdd98b8a-3a9e-4211-93af-24e35de6d1c3" resname="PSAL·J17 | Herd Gnarr | Card Text | Paragraph 1">
         <source>Whenever another creature enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">每当另一个生物在你的操控下进场时，结群嚎龙得+2/+2直到回合结束。</target>
+        <target state="translated">每当另一个生物在你的操控下进场时，CARDNAME得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自TSP（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="ff138110-e694-4c8e-a3ff-d9820f3bd8a0" resname="PSAL·G18 | Nightguard Patrol | Card Name">
@@ -504,7 +504,7 @@
       </trans-unit>
       <trans-unit id="8f99a807-f93f-403a-9426-b75c227b8c94" resname="PSAL·K18 | Karplusan Wolverine | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, you may have it deal 1 damage to any target.</source>
-        <target state="translated">每当卡普路桑狼獾被阻挡时，你可以让它对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">每当CARDNAME被阻挡时，你可以让它对目标生物或牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自CSP（2006-07-21）；</note>
       </trans-unit>
       <trans-unit id="8e1463d9-ef8d-4a27-81eb-b237a79bcb82" resname="PSAL·D19 | Terrarion | Card Name">
@@ -514,17 +514,17 @@
       </trans-unit>
       <trans-unit id="8e1463d9-ef8d-4a27-81eb-b237a79bcb82" resname="PSAL·D19 | Terrarion | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">地力缸须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自EMN（2016-07-22）；</note>
       </trans-unit>
       <trans-unit id="8e1463d9-ef8d-4a27-81eb-b237a79bcb82" resname="PSAL·D19 | Terrarion | Card Text | Paragraph 2">
         <source>{2}, {T}, Sacrifice CARDNAME: Add two mana in any combination of colors.</source>
-        <target state="translated">{2}，{T}，牺牲地力缸：加两点法术力到你的法术力池中，其颜色组合由你选择。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：加两点法术力到你的法术力池中，其颜色组合由你选择。</target>
         <note xmlns:from="developer">中文数据来自EMN（2016-07-22）；</note>
       </trans-unit>
       <trans-unit id="8e1463d9-ef8d-4a27-81eb-b237a79bcb82" resname="PSAL·D19 | Terrarion | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from the battlefield, draw a card.</source>
-        <target state="translated">当地力缸从战场进入坟墓场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自EMN（2016-07-22）；</note>
       </trans-unit>
       <trans-unit id="951473f8-6925-4fe4-8595-ad4886282330" resname="PSAL·J19 | Thallid Germinator | Card Name">
@@ -534,12 +534,12 @@
       </trans-unit>
       <trans-unit id="951473f8-6925-4fe4-8595-ad4886282330" resname="PSAL·J19 | Thallid Germinator | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a spore counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在萌生散绿菌上放置一个芽孢指示物。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个芽孢指示物。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="951473f8-6925-4fe4-8595-ad4886282330" resname="PSAL·J19 | Thallid Germinator | Card Text | Paragraph 2">
         <source>Remove three spore counters from CARDNAME: Create a 1/1 green Saproling creature token.</source>
-        <target state="translated">从萌生散绿菌上移去三个芽孢指示物：派出一个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">从CARDNAME上移去三个芽孢指示物：派出一个1/1绿色腐生物衍生生物。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="951473f8-6925-4fe4-8595-ad4886282330" resname="PSAL·J19 | Thallid Germinator | Card Text | Paragraph 3">
@@ -579,7 +579,7 @@
       </trans-unit>
       <trans-unit id="2f1998b8-cb51-4917-94af-9be12b47306d" resname="PSAL·G27 | Auratouched Mage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, search your library for an Aura card that could enchant it. If CARDNAME is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle.</source>
-        <target state="translated">当灵佑法师进场时，从你的牌库中搜寻一张可以结附它的灵气牌。 若灵佑法师仍在场上，则将该灵气结附于其上。 若否，则展示该灵气牌，并将它置入你手上。 然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，从你的牌库中搜寻一张可以结附它的灵气牌。 若CARDNAME仍在场上，则将该灵气结附于其上。 若否，则展示该灵气牌，并将它置入你手上。 然后将你的牌库洗牌。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="7de142b9-3f6a-4dc5-8164-b60c73fc576e" resname="PSAL·L27 | Grifter's Blade | Card Name">
@@ -589,12 +589,12 @@
       </trans-unit>
       <trans-unit id="7de142b9-3f6a-4dc5-8164-b60c73fc576e" resname="PSAL·L27 | Grifter's Blade | Card Text | Paragraph 1">
         <source>Flash</source>
-        <target state="translated">你可以于你能够使用瞬间的时机下，使用骗徒短刀。</target>
+        <target state="translated">你可以于你能够使用瞬间的时机下，使用CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="7de142b9-3f6a-4dc5-8164-b60c73fc576e" resname="PSAL·L27 | Grifter's Blade | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a creature you control it could be attached to. If you do, it enters the battlefield attached to that creature.</source>
-        <target state="translated">骗徒短刀进场时装备在由你选择、且由你操控的生物上。</target>
+        <target state="translated">CARDNAME进场时装备在由你选择、且由你操控的生物上。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="7de142b9-3f6a-4dc5-8164-b60c73fc576e" resname="PSAL·L27 | Grifter's Blade | Card Text | Paragraph 3">
@@ -659,7 +659,7 @@
       </trans-unit>
       <trans-unit id="bba48920-b202-4e62-b977-9cad11bb0392" resname="PSAL·J29 | Bramble Elemental | Card Text | Paragraph 1">
         <source>Whenever an Aura becomes attached to CARDNAME, create two 1/1 green Saproling creature tokens.</source>
-        <target state="translated">每当任一灵气新结附在竹元素上时，将两个1/1绿色的腐生物衍生物放置进场。</target>
+        <target state="translated">每当任一灵气新结附在CARDNAME上时，将两个1/1绿色的腐生物衍生物放置进场。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="ee5dbf7d-d129-4bed-8e8d-3dfc327fb857" resname="PSAL·G30 | Flight of Fancy | Card Name">
@@ -674,7 +674,7 @@
       </trans-unit>
       <trans-unit id="ee5dbf7d-d129-4bed-8e8d-3dfc327fb857" resname="PSAL·G30 | Flight of Fancy | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw two cards.</source>
-        <target state="translated">当舞空奇想进场时，抓两张牌。</target>
+        <target state="translated">当CARDNAME进场时，抓两张牌。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="ee5dbf7d-d129-4bed-8e8d-3dfc327fb857" resname="PSAL·G30 | Flight of Fancy | Card Text | Paragraph 3">
@@ -694,12 +694,12 @@
       </trans-unit>
       <trans-unit id="a9abed9a-cf7f-4aaf-9934-42710f349506" resname="PSAL·I30 | Burning-Tree Bloodscale | Card Text | Paragraph 2">
         <source>{2}{R}: Target creature can't block CARDNAME this turn.</source>
-        <target state="translated">{2}{R}：目标生物本回合中不能阻挡火树族血鳞兵。</target>
+        <target state="translated">{2}{R}：目标生物本回合中不能阻挡CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自GPT（2006-02-03）；</note>
       </trans-unit>
       <trans-unit id="a9abed9a-cf7f-4aaf-9934-42710f349506" resname="PSAL·I30 | Burning-Tree Bloodscale | Card Text | Paragraph 3">
         <source>{2}{G}: Target creature blocks CARDNAME this turn if able.</source>
-        <target state="translated">{2}{G}：目标生物本回合中若能阻挡火树族血鳞兵，则必须阻挡之。</target>
+        <target state="translated">{2}{G}：目标生物本回合中若能阻挡CARDNAME，则必须阻挡之。</target>
         <note xmlns:from="developer">中文数据来自GPT（2006-02-03）；</note>
       </trans-unit>
       <trans-unit id="ddc48187-511d-49ed-96be-3a059c6fdb43" resname="PSAL·J30 | Sprout | Card Name">
@@ -729,7 +729,7 @@
       </trans-unit>
       <trans-unit id="c3ca5b8b-8c3c-4d3a-aff9-9905346a4c42" resname="PSAL·G31 | Plumes of Peace | Card Text | Paragraph 3">
         <source>Forecast — {W}{U}, Reveal CARDNAME from your hand: Tap target creature. (Activate only during your upkeep and only once each turn.)</source>
-        <target state="translated">预报～{W}{U}，从你手上展示和平之羽：横置目标生物。 （你只可以于你的维持中使用此异能，且每回合只能使用一次。）</target>
+        <target state="translated">预报～{W}{U}，从你手上展示CARDNAME：横置目标生物。 （你只可以于你的维持中使用此异能，且每回合只能使用一次。）</target>
         <note xmlns:from="developer">中文数据来自DIS（2006-05-05）；</note>
       </trans-unit>
       <trans-unit id="cc01508e-49d6-4171-9ea3-d6a94b1923c7" resname="PSAL·I31 | Scab-Clan Mauler | Card Name">
@@ -764,7 +764,7 @@
       </trans-unit>
       <trans-unit id="5cbb4c72-3c98-455f-b281-843180625b70" resname="PSAL·J32 | Detainment Spell | Card Text | Paragraph 3">
         <source>{1}{W}: Attach CARDNAME to target creature.</source>
-        <target state="translated">{1}{W}：将拘留咒结附在目标生物上。</target>
+        <target state="translated">{1}{W}：将CARDNAME结附在目标生物上。</target>
         <note xmlns:from="developer">中文数据来自TSP（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="97c98609-b2e5-447f-9b9d-6833584d2998" resname="PSAL·L32 | Whitemane Lion | Card Name">
@@ -779,7 +779,7 @@
       </trans-unit>
       <trans-unit id="97c98609-b2e5-447f-9b9d-6833584d2998" resname="PSAL·L32 | Whitemane Lion | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return a creature you control to its owner's hand.</source>
-        <target state="translated">当白鬃狮进战场时，将一个由你操控的生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将一个由你操控的生物移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="c9a4dba3-a1ac-4367-803b-a1b1000c2fd5" resname="PSAL·L33 | Selesnya Sanctuary | Card Name">
@@ -789,12 +789,12 @@
       </trans-unit>
       <trans-unit id="c9a4dba3-a1ac-4367-803b-a1b1000c2fd5" resname="PSAL·L33 | Selesnya Sanctuary | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">瑟雷尼亚圣殿须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="c9a4dba3-a1ac-4367-803b-a1b1000c2fd5" resname="PSAL·L33 | Selesnya Sanctuary | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return a land you control to its owner's hand.</source>
-        <target state="translated">当瑟雷尼亚圣殿进战场时，将一个由你操控的地移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将一个由你操控的地移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="c9a4dba3-a1ac-4367-803b-a1b1000c2fd5" resname="PSAL·L33 | Selesnya Sanctuary | Card Text | Paragraph 3">
@@ -809,12 +809,12 @@
       </trans-unit>
       <trans-unit id="c386e0a9-3fca-4a81-9a9e-e5ff0062fa82" resname="PSAL·J37 | Twilight Drover | Card Text | Paragraph 1">
         <source>Whenever a creature token leaves the battlefield, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个衍生生物离开战场时，在暮色牧灵上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个衍生生物离开战场时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="c386e0a9-3fca-4a81-9a9e-e5ff0062fa82" resname="PSAL·J37 | Twilight Drover | Card Text | Paragraph 2">
         <source>{2}{W}, Remove a +1/+1 counter from CARDNAME: Create two 1/1 white Spirit creature tokens with flying.</source>
-        <target state="translated">{2}{W}，从暮色牧灵上移去一个+1/+1指示物：派出两个1/1白色，具飞行异能的精怪衍生生物。</target>
+        <target state="translated">{2}{W}，从CARDNAME上移去一个+1/+1指示物：派出两个1/1白色，具飞行异能的精怪衍生生物。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="cf946168-0d42-4c1d-be32-f38783361f8c" resname="PSAL·F38 | Carrion Howler | Card Name">
@@ -824,7 +824,7 @@
       </trans-unit>
       <trans-unit id="cf946168-0d42-4c1d-be32-f38783361f8c" resname="PSAL·F38 | Carrion Howler | Card Text | Paragraph 1">
         <source>Pay 1 life: CARDNAME gets +2/-1 until end of turn.</source>
-        <target state="translated">支付1点生命：腐肉嚎狼得+2/-1直到回合结束。</target>
+        <target state="translated">支付1点生命：CARDNAME得+2/-1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="47310d8e-92f7-4197-b527-cc4e18dd76a8" resname="PSAL·I38 | Indrik Stomphowler | Card Name">
@@ -834,7 +834,7 @@
       </trans-unit>
       <trans-unit id="47310d8e-92f7-4197-b527-cc4e18dd76a8" resname="PSAL·I38 | Indrik Stomphowler | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, destroy target artifact or enchantment.</source>
-        <target state="translated">当跺吼巨犀兽进战场时，消灭目标神器或结界。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标神器或结界。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="6baf21f8-75d2-4733-9d1f-4767b7f50d54" resname="PSAL·L38 | Nacatl War-Pride | Card Name">
@@ -844,12 +844,12 @@
       </trans-unit>
       <trans-unit id="6baf21f8-75d2-4733-9d1f-4767b7f50d54" resname="PSAL·L38 | Nacatl War-Pride | Card Text | Paragraph 1">
         <source>CARDNAME must be blocked by exactly one creature if able.</source>
-        <target state="translated">若能用正好一个生物来阻挡拿卡地战群，则必须如此阻挡之。</target>
+        <target state="translated">若能用正好一个生物来阻挡CARDNAME，则必须如此阻挡之。</target>
         <note xmlns:from="developer">中文数据来自FUT（2007-05-04）；</note>
       </trans-unit>
       <trans-unit id="6baf21f8-75d2-4733-9d1f-4767b7f50d54" resname="PSAL·L38 | Nacatl War-Pride | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, create X tokens that are copies of CARDNAME and that are tapped and attacking, where X is the number of creatures defending player controls. Exile the tokens at the beginning of the next end step.</source>
-        <target state="translated">每当拿卡地战群进行攻击时，将X个衍生物横置进场并正进行攻击，且均为拿卡地战群的复制，X为由防御牌手操控的生物之数量。 在回合结束时将这些衍生物移出对战。</target>
+        <target state="translated">每当CARDNAME进行攻击时，将X个衍生物横置进场并正进行攻击，且均为CARDNAME的复制，X为由防御牌手操控的生物之数量。 在回合结束时将这些衍生物移出对战。</target>
         <note xmlns:from="developer">中文数据来自FUT（2007-05-04）；</note>
       </trans-unit>
       <trans-unit id="bb60bf3f-d81f-46d7-b171-b8bba9969aa9" resname="PSAL·F39 | Golgari Guildmage | Card Name">
@@ -899,7 +899,7 @@
       </trans-unit>
       <trans-unit id="53dbebf0-1279-45b8-98c4-e717a3b94c63" resname="PSAL·J40 | Seed Spark | Card Text | Paragraph 1">
         <source>Destroy target artifact or enchantment. If {G} was spent to cast this spell, create two 1/1 green Saproling creature tokens.</source>
-        <target state="translated">消灭目标神器或结界。 若你使用播种灵光时支付了{G}，则将两个1/1绿色的腐生物衍生物放置进场。</target>
+        <target state="translated">消灭目标神器或结界。 若你使用CARDNAME时支付了{G}，则将两个1/1绿色的腐生物衍生物放置进场。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="57ab5d63-e372-48ee-b994-9b125bd143e1" resname="PSAL·L41 | Selesnya Signet | Card Name">
@@ -919,7 +919,7 @@
       </trans-unit>
       <trans-unit id="d9739e7c-ab57-4224-9523-e9e5388440d4" resname="PSAL·I42 | Gruul Scrapper | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, if {R} was spent to cast it, it gains haste until end of turn.</source>
-        <target state="translated">当古鲁拆解手进场时，若用过{R}来支付其费用，则它获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，若用过{R}来支付其费用，则它获得敏捷异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自GPT（2006-02-03）；</note>
       </trans-unit>
       <trans-unit id="a3808921-9dec-489d-ae77-b5aec6dac778" resname="PSAL·J42 | Strength in Numbers | Card Name">
@@ -944,7 +944,7 @@
       </trans-unit>
       <trans-unit id="62ec3ac8-b2df-4dd3-8fd1-0580dec98652" resname="PSAL·G43 | Soulsworn Jury | Card Text | Paragraph 2">
         <source>{1}{U}, Sacrifice CARDNAME: Counter target creature spell.</source>
-        <target state="translated">{1}{U}，牺牲誓魂陪审员：反击目标生物咒语。</target>
+        <target state="translated">{1}{U}，牺牲CARDNAME：反击目标生物咒语。</target>
         <note xmlns:from="developer">中文数据来自DIS（2006-05-05）；</note>
       </trans-unit>
       <trans-unit id="bf3d2745-d752-4091-801a-f87052bb92ad" resname="PSAL·E44 | Vesper Ghoul | Card Name">
@@ -1009,7 +1009,7 @@
       </trans-unit>
       <trans-unit id="4af2dbf0-5fb5-487b-a517-16a5dd98498a" resname="PSAL·J49 | Thelonite Hermit | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, create four 1/1 green Saproling creature tokens.</source>
-        <target state="translated">当瑟隆门隐者翻回正面时，派出四个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">当CARDNAME翻回正面时，派出四个1/1绿色腐生物衍生生物。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="2fd99428-c96e-4843-ad78-77cc746799a3" resname="PSAL·K49 | Ursapine | Card Name">
@@ -1064,7 +1064,7 @@
       </trans-unit>
       <trans-unit id="c3de981b-e274-4a78-816e-7c11341f6c00" resname="PSAL·I51 | Undying Rage | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from the battlefield, return CARDNAME to its owner's hand.</source>
-        <target state="translated">当不熄愤怒从战场进入坟墓场时，将不熄愤怒移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，将CARDNAME移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="5225169f-f45b-49f9-890b-b78cb629e0a7" resname="PSAL·H54 | Vedalken Dismisser | Card Name">
@@ -1074,7 +1074,7 @@
       </trans-unit>
       <trans-unit id="5225169f-f45b-49f9-890b-b78cb629e0a7" resname="PSAL·H54 | Vedalken Dismisser | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put target creature on top of its owner's library.</source>
-        <target state="translated">当维多肯退散师进场时，将目标生物置于其拥有者的牌库顶。</target>
+        <target state="translated">当CARDNAME进场时，将目标生物置于其拥有者的牌库顶。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="940180bb-8781-425f-9eeb-7eb0fad7a188" resname="PSAL·J54 | Selesnya Evangel | Card Name">
@@ -1094,7 +1094,7 @@
       </trans-unit>
       <trans-unit id="a57e9d57-c017-4126-b58d-22cb378521a2" resname="PSAL·K54 | Gruul Nodorog | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gains menace until end of turn. (It can't be blocked except by two or more creatures.)</source>
-        <target state="translated">{R}：古鲁诺多洛兽本回合只能被两个或更多的生物所阻挡。</target>
+        <target state="translated">{R}：CARDNAME本回合只能被两个或更多的生物所阻挡。</target>
         <note xmlns:from="developer">中文数据来自GPT（2006-02-03）；</note>
       </trans-unit>
     </body>

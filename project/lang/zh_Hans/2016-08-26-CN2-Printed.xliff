@@ -180,11 +180,11 @@
       </trans-unit>
       <trans-unit id="add304ab-7a45-40c4-96eb-e32a285c2a50" resname="CN2·14 | Custodi Peacekeeper | Card Text | Paragraph 1">
         <source>Reveal CARDNAME as you draft it and note how many cards you've drafted this draft round, including CARDNAME.</source>
-        <target state="translated">于你抽选平乱柩护时展示之，并记下本轮抽圈次中包括平乱柩护在内你已抽选的牌数。</target>
+        <target state="translated">于你抽选CARDNAME时展示之，并记下本轮抽圈次中包括CARDNAME在内你已抽选的牌数。</target>
       </trans-unit>
       <trans-unit id="add304ab-7a45-40c4-96eb-e32a285c2a50" resname="CN2·14 | Custodi Peacekeeper | Card Text | Paragraph 2">
         <source>{W}, {T}: Tap target creature with power less than or equal to the highest number you noted for cards named CARDNAME.</source>
-        <target state="translated">{W}，{T}：横置目标生物，且其力量须等于或小于你替名称为平乱柩护之牌记下的各数字间之最大值。</target>
+        <target state="translated">{W}，{T}：横置目标生物，且其力量须等于或小于你替名称为CARDNAME之牌记下的各数字间之最大值。</target>
       </trans-unit>
       <trans-unit id="e29212c9-04e3-4678-be73-f7405a85dadb" resname="CN2·15 | Custodi Soulcaller | Card Name">
         <source>Custodi Soulcaller</source>
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="e29212c9-04e3-4678-be73-f7405a85dadb" resname="CN2·15 | Custodi Soulcaller | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, return target creature card with converted mana cost X or less from your graveyard to the battlefield, where X is the number of players you attacked with a creature this combat.</source>
-        <target state="translated">每当唤魂柩护攻击时，将目标总法术力费用等于或小于X的生物牌从你的坟墓场移回战场，X为本次战斗中受你以生物攻击的牌手数量。</target>
+        <target state="translated">每当CARDNAME攻击时，将目标总法术力费用等于或小于X的生物牌从你的坟墓场移回战场，X为本次战斗中受你以生物攻击的牌手数量。</target>
       </trans-unit>
       <trans-unit id="71bf4f19-802d-466a-85f1-2062ae3656a1" resname="CN2·16 | Lieutenants of the Guard | Card Name">
         <source>Lieutenants of the Guard</source>
@@ -204,7 +204,7 @@
       </trans-unit>
       <trans-unit id="71bf4f19-802d-466a-85f1-2062ae3656a1" resname="CN2·16 | Lieutenants of the Guard | Card Text | Paragraph 1">
         <source>Council's dilemma — When CARDNAME enters the battlefield, starting with you, each player votes for strength or numbers. Put a +1/+1 counter on CARDNAME for each strength vote and put a 1/1 white Soldier creature token onto the battlefield for each numbers vote.</source>
-        <target state="translated">议争～当侍卫副官进战场时，由你开始，每位牌手各投票选择「力量」或「数量」。在侍卫副官上放置若干+1/+1指示物，其数量等同于投票选择「力量」的总票数；将若干1/1白色士兵衍生物放进战场，其数量等同于投票选择「数量」的总票数。</target>
+        <target state="translated">议争～当CARDNAME进战场时，由你开始，每位牌手各投票选择「力量」或「数量」。在CARDNAME上放置若干+1/+1指示物，其数量等同于投票选择「力量」的总票数；将若干1/1白色士兵衍生物放进战场，其数量等同于投票选择「数量」的总票数。</target>
       </trans-unit>
       <trans-unit id="0a7f0d35-b91e-461a-822c-7ae2798ca51a" resname="CN2·17 | Noble Banneret | Card Name">
         <source>Noble Banneret</source>
@@ -212,15 +212,15 @@
       </trans-unit>
       <trans-unit id="0a7f0d35-b91e-461a-822c-7ae2798ca51a" resname="CN2·17 | Noble Banneret | Card Text | Paragraph 1">
         <source>Draft CARDNAME face up.</source>
-        <target state="translated">贵族掌旗以牌面朝上的方式进行轮抽。</target>
+        <target state="translated">CARDNAME以牌面朝上的方式进行轮抽。</target>
       </trans-unit>
       <trans-unit id="0a7f0d35-b91e-461a-822c-7ae2798ca51a" resname="CN2·17 | Noble Banneret | Card Text | Paragraph 2">
         <source>As you draft a creature card, you may reveal it, note its name, then turn CARDNAME face down.</source>
-        <target state="translated">于你抽选生物牌时，你可以展示该牌，记下其名称，然后将贵族掌旗翻为牌面朝下。</target>
+        <target state="translated">于你抽选生物牌时，你可以展示该牌，记下其名称，然后将CARDNAME翻为牌面朝下。</target>
       </trans-unit>
       <trans-unit id="0a7f0d35-b91e-461a-822c-7ae2798ca51a" resname="CN2·17 | Noble Banneret | Card Text | Paragraph 3">
         <source>As long as you control one or more creatures with a name you noted for cards named CARDNAME, CARDNAME and those creatures get +1/+1 and have lifelink.</source>
-        <target state="translated">对你替名称为贵族掌旗之牌记下的各名称而言，只要你操控一个或多个与任一前述名称同名的生物，贵族掌旗及这些生物便得+1/+1且具有系命异能。</target>
+        <target state="translated">对你替名称为CARDNAME之牌记下的各名称而言，只要你操控一个或多个与任一前述名称同名的生物，CARDNAME及这些生物便得+1/+1且具有系命异能。</target>
       </trans-unit>
       <trans-unit id="78cef262-c753-4658-b3ec-fec8db47f944" resname="CN2·18 | Palace Jailer | Card Name">
         <source>Palace Jailer</source>
@@ -228,11 +228,11 @@
       </trans-unit>
       <trans-unit id="78cef262-c753-4658-b3ec-fec8db47f944" resname="CN2·18 | Palace Jailer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当宫殿狱卒进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="78cef262-c753-4658-b3ec-fec8db47f944" resname="CN2·18 | Palace Jailer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile target creature an opponent controls until an opponent becomes the monarch. (That creature returns under its owner's control.)</source>
-        <target state="translated">当宫殿狱卒进战场时，放逐目标由对手操控的生物，直到任一对手成为君主为止。（该生物会在其拥有者的操控下移回。）</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标由对手操控的生物，直到任一对手成为君主为止。（该生物会在其拥有者的操控下移回。）</target>
       </trans-unit>
       <trans-unit id="3e002a99-eb2b-4cc3-992e-f3ee42245dba" resname="CN2·19 | Palace Sentinels | Card Name">
         <source>Palace Sentinels</source>
@@ -240,7 +240,7 @@
       </trans-unit>
       <trans-unit id="3e002a99-eb2b-4cc3-992e-f3ee42245dba" resname="CN2·19 | Palace Sentinels | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当宫殿哨卫进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="2b120f2d-2585-4827-a8c5-d6ecdc8108e5" resname="CN2·20 | Paliano Vanguard | Card Name">
         <source>Paliano Vanguard</source>
@@ -248,15 +248,15 @@
       </trans-unit>
       <trans-unit id="2b120f2d-2585-4827-a8c5-d6ecdc8108e5" resname="CN2·20 | Paliano Vanguard | Card Text | Paragraph 1">
         <source>Draft CARDNAME face up.</source>
-        <target state="translated">帕兰诺城先锋以牌面朝上的方式进行轮抽。</target>
+        <target state="translated">CARDNAME以牌面朝上的方式进行轮抽。</target>
       </trans-unit>
       <trans-unit id="2b120f2d-2585-4827-a8c5-d6ecdc8108e5" resname="CN2·20 | Paliano Vanguard | Card Text | Paragraph 2">
         <source>As you draft a creature card, you may reveal it, note its creature types, then turn CARDNAME face down.</source>
-        <target state="translated">于你抽选生物牌时，你可以展示该牌，记下其生物类别，然后将帕兰诺城先锋翻为面朝下。</target>
+        <target state="translated">于你抽选生物牌时，你可以展示该牌，记下其生物类别，然后将CARDNAME翻为面朝下。</target>
       </trans-unit>
       <trans-unit id="2b120f2d-2585-4827-a8c5-d6ecdc8108e5" resname="CN2·20 | Paliano Vanguard | Card Text | Paragraph 3">
         <source>Other creatures you control of a type you noted for cards named CARDNAME get +1/+1.</source>
-        <target state="translated">对你替名称为帕兰诺城先锋之牌记下的各类别而言，其他由你操控且为任一前述类别的生物得+1/+1。</target>
+        <target state="translated">对你替名称为CARDNAME之牌记下的各类别而言，其他由你操控且为任一前述类别的生物得+1/+1。</target>
       </trans-unit>
       <trans-unit id="24447332-4bc5-420d-972c-6d472669cfa3" resname="CN2·21 | Protector of the Crown | Card Name">
         <source>Protector of the Crown</source>
@@ -264,11 +264,11 @@
       </trans-unit>
       <trans-unit id="24447332-4bc5-420d-972c-6d472669cfa3" resname="CN2·21 | Protector of the Crown | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当皇君守护者进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="24447332-4bc5-420d-972c-6d472669cfa3" resname="CN2·21 | Protector of the Crown | Card Text | Paragraph 2">
         <source>All damage that would be dealt to you is dealt to CARDNAME instead.</source>
-        <target state="translated">所有将对你造成的伤害改为对皇君守护者造成之。</target>
+        <target state="translated">所有将对你造成的伤害改为对CARDNAME造成之。</target>
       </trans-unit>
       <trans-unit id="bb9ad57f-cca2-4717-a951-cbe3c7782efe" resname="CN2·22 | Recruiter of the Guard | Card Name">
         <source>Recruiter of the Guard</source>
@@ -276,7 +276,7 @@
       </trans-unit>
       <trans-unit id="bb9ad57f-cca2-4717-a951-cbe3c7782efe" resname="CN2·22 | Recruiter of the Guard | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle your library.</source>
-        <target state="translated">当侍卫队征召员进战场时，你可以从你牌库中搜寻一张防御力等于或小于2的生物牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张防御力等于或小于2的生物牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="1d95a7dd-2803-4164-8979-d7e8e8085ca2" resname="CN2·23 | Sanctum Prelate | Card Name">
         <source>Sanctum Prelate</source>
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id="1d95a7dd-2803-4164-8979-d7e8e8085ca2" resname="CN2·23 | Sanctum Prelate | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a number.</source>
-        <target state="translated">于圣所教长进战场时，选择一个数字。</target>
+        <target state="translated">于CARDNAME进战场时，选择一个数字。</target>
       </trans-unit>
       <trans-unit id="1d95a7dd-2803-4164-8979-d7e8e8085ca2" resname="CN2·23 | Sanctum Prelate | Card Text | Paragraph 2">
         <source>Noncreature spells with converted mana cost equal to the chosen number can't be cast.</source>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="cd1408a3-ddba-4837-b930-9663c5c83007" resname="CN2·25 | Throne Warden | Card Text | Paragraph 1">
         <source>At the beginning of your end step, if you're the monarch, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">在你的结束步骤开始时，若你是君主，则在王座护卫上放置一个+1/+1指示物。</target>
+        <target state="translated">在你的结束步骤开始时，若你是君主，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="4084a009-f366-416b-b82d-a762189abf43" resname="CN2·26 | Wings of the Guard | Card Name">
         <source>Wings of the Guard</source>
@@ -336,7 +336,7 @@
       </trans-unit>
       <trans-unit id="0e7466e5-9443-4b38-a7e9-e0d615a35667" resname="CN2·27 | Arcane Savant | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, copy a card you exiled with cards named CARDNAME. You may cast the copy without paying its mana cost.</source>
-        <target state="translated">当玄秘学者进战场时，复制一张你以名称为玄秘学者之牌放逐的牌。你可以施放该复制品，且不需支付其法术力费用。</target>
+        <target state="translated">当CARDNAME进战场时，复制一张你以名称为CARDNAME之牌放逐的牌。你可以施放该复制品，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="a3af3351-9457-443c-b31f-a57a2fc9be46" resname="CN2·28 | Canal Courier | Card Name">
         <source>Canal Courier</source>
@@ -344,11 +344,11 @@
       </trans-unit>
       <trans-unit id="a3af3351-9457-443c-b31f-a57a2fc9be46" resname="CN2·28 | Canal Courier | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当运河讯使进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="a3af3351-9457-443c-b31f-a57a2fc9be46" resname="CN2·28 | Canal Courier | Card Text | Paragraph 2">
         <source>Whenever CARDNAME and another creature attack different players, CARDNAME can't be blocked this combat.</source>
-        <target state="translated">每当运河讯使与另一个生物攻击不同的牌手时，运河讯使本次战斗不能被阻挡。</target>
+        <target state="translated">每当CARDNAME与另一个生物攻击不同的牌手时，CARDNAME本次战斗不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="c9b27340-eb29-46d1-b7e9-03275df493c2" resname="CN2·29 | Coveted Peacock | Card Name">
         <source>Coveted Peacock</source>
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="c9b27340-eb29-46d1-b7e9-03275df493c2" resname="CN2·29 | Coveted Peacock | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may goad target creature defending player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</source>
-        <target state="translated">每当簇捧孔雀攻击时，你可以煽惑目标由防御牌手操控的生物。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
+        <target state="translated">每当CARDNAME攻击时，你可以煽惑目标由防御牌手操控的生物。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
       </trans-unit>
       <trans-unit id="9c8a2a5a-cb9b-4582-a453-085da78584f9" resname="CN2·30 | Expropriate | Card Name">
         <source>Expropriate</source>
@@ -368,7 +368,7 @@
       </trans-unit>
       <trans-unit id="9c8a2a5a-cb9b-4582-a453-085da78584f9" resname="CN2·30 | Expropriate | Card Text | Paragraph 1">
         <source>Council's dilemma — Starting with you, each player votes for time or money. For each time vote, take an extra turn after this one. For each money vote, choose a permanent owned by the voter and gain control of it. Exile CARDNAME.</source>
-        <target state="translated">议争～由你开始，每位牌手各投票选择「时间」或「金钱」。于本回合后进行额外的若干回合，其数量等同于投票选择「时间」的总票数。对投票选择「金钱」的各牌手而言，该牌手每如此投票一次，便选择一个由他拥有的永久物；你获得这些永久物的操控权。放逐征用。</target>
+        <target state="translated">议争～由你开始，每位牌手各投票选择「时间」或「金钱」。于本回合后进行额外的若干回合，其数量等同于投票选择「时间」的总票数。对投票选择「金钱」的各牌手而言，该牌手每如此投票一次，便选择一个由他拥有的永久物；你获得这些永久物的操控权。放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="ab54f283-92b6-4738-b2cd-fecb43750a4d" resname="CN2·31 | Illusion of Choice | Card Name">
         <source>Illusion of Choice</source>
@@ -388,11 +388,11 @@
       </trans-unit>
       <trans-unit id="766150d9-c795-4675-a849-a388e8ae148d" resname="CN2·32 | Illusionary Informant | Card Text | Paragraph 1">
         <source>Draft CARDNAME face up.</source>
-        <target state="translated">虚幻信使以牌面朝上的方式进行轮抽。</target>
+        <target state="translated">CARDNAME以牌面朝上的方式进行轮抽。</target>
       </trans-unit>
       <trans-unit id="766150d9-c795-4675-a849-a388e8ae148d" resname="CN2·32 | Illusionary Informant | Card Text | Paragraph 2">
         <source>During the draft, you may turn CARDNAME face down. If you do, look at the next card drafted by a player of your choice.</source>
-        <target state="translated">于轮抽中，你可以将虚幻信使翻为牌面朝下。如果你如此作，选择一位牌手，检视该牌手抽选的下一张牌。</target>
+        <target state="translated">于轮抽中，你可以将CARDNAME翻为牌面朝下。如果你如此作，选择一位牌手，检视该牌手抽选的下一张牌。</target>
       </trans-unit>
       <trans-unit id="766150d9-c795-4675-a849-a388e8ae148d" resname="CN2·32 | Illusionary Informant | Card Text | Paragraph 3">
         <source>Flying</source>
@@ -404,7 +404,7 @@
       </trans-unit>
       <trans-unit id="23eb23e1-388f-4338-a5ed-0646aa602ea6" resname="CN2·33 | Jeering Homunculus | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</source>
-        <target state="translated">当嘲讽造妖进战场时，你可以煽惑目标生物。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
+        <target state="translated">当CARDNAME进战场时，你可以煽惑目标生物。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
       </trans-unit>
       <trans-unit id="990b343b-70a6-46d0-abae-f5faae75816a" resname="CN2·34 | Keeper of Keys | Card Name">
         <source>Keeper of Keys</source>
@@ -412,7 +412,7 @@
       </trans-unit>
       <trans-unit id="990b343b-70a6-46d0-abae-f5faae75816a" resname="CN2·34 | Keeper of Keys | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当钥匙看守进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="990b343b-70a6-46d0-abae-f5faae75816a" resname="CN2·34 | Keeper of Keys | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if you're the monarch, creatures you control can't be blocked this turn.</source>
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="1fe7a4f0-d677-4ae2-883c-eb46d0999584" resname="CN2·35 | Messenger Jays | Card Text | Paragraph 2">
         <source>Council's dilemma — When CARDNAME enters the battlefield, starting with you, each player votes for feather or quill. Put a +1/+1 counter on CARDNAME for each feather vote and draw a card for each quill vote. For each card drawn this way, discard a card.</source>
-        <target state="translated">议争～当信鸦进战场时，由你开始，每位牌手各投票选择「赏羽」或「制笔」。在信鸦上放置若干+1/+1指示物，其数量等同于投票选择「赏羽」的总票数；抓若干牌，其数量等同于投票选择「制笔」的总票数。你每以此法抓一张牌，便弃一张牌。</target>
+        <target state="translated">议争～当CARDNAME进战场时，由你开始，每位牌手各投票选择「赏羽」或「制笔」。在CARDNAME上放置若干+1/+1指示物，其数量等同于投票选择「赏羽」的总票数；抓若干牌，其数量等同于投票选择「制笔」的总票数。你每以此法抓一张牌，便弃一张牌。</target>
       </trans-unit>
       <trans-unit id="7b7cf6ee-55a9-4ce0-8653-b2fd6f820753" resname="CN2·36 | Skittering Crustacean | Card Name">
         <source>Skittering Crustacean</source>
@@ -440,7 +440,7 @@
       </trans-unit>
       <trans-unit id="7b7cf6ee-55a9-4ce0-8653-b2fd6f820753" resname="CN2·36 | Skittering Crustacean | Card Text | Paragraph 2">
         <source>As long as CARDNAME is monstrous, it has hexproof. (It can't be the target of spells or abilities your opponents control.)</source>
-        <target state="translated">只要掠行甲壳蟹已蛮化，它便具有辟邪异能。（它不能成为由对手操控之咒语或异能的目标。）</target>
+        <target state="translated">只要CARDNAME已蛮化，它便具有辟邪异能。（它不能成为由对手操控之咒语或异能的目标。）</target>
       </trans-unit>
       <trans-unit id="2b6b39d3-b98f-4e52-bf67-a0782b175f55" resname="CN2·37 | Spire Phantasm | Card Name">
         <source>Spire Phantasm</source>
@@ -448,7 +448,7 @@
       </trans-unit>
       <trans-unit id="2b6b39d3-b98f-4e52-bf67-a0782b175f55" resname="CN2·37 | Spire Phantasm | Card Text | Paragraph 1">
         <source>Reveal CARDNAME as you draft it. The next time a player drafts a card from this booster pack, guess that card's name. Then that player reveals the drafted card.</source>
-        <target state="translated">于你抽选高塔幻象时展示之。下一次有牌手从此补充包中抽选牌时，你猜该牌的名称。然后该牌手展示所抽选的牌。</target>
+        <target state="translated">于你抽选CARDNAME时展示之。下一次有牌手从此补充包中抽选牌时，你猜该牌的名称。然后该牌手展示所抽选的牌。</target>
       </trans-unit>
       <trans-unit id="2b6b39d3-b98f-4e52-bf67-a0782b175f55" resname="CN2·37 | Spire Phantasm | Card Text | Paragraph 2">
         <source>Flying</source>
@@ -456,7 +456,7 @@
       </trans-unit>
       <trans-unit id="2b6b39d3-b98f-4e52-bf67-a0782b175f55" resname="CN2·37 | Spire Phantasm | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if you guessed correctly for a card named CARDNAME, draw a card.</source>
-        <target state="translated">当高塔幻象进战场时，若你此前曾猜对替名称为高塔幻象之牌所猜之任一名称，则抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，若你此前曾猜对替名称为CARDNAME之牌所猜之任一名称，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="3344c1ea-e8b2-481e-b9eb-604c87e34925" resname="CN2·38 | Stunt Double | Card Name">
         <source>Stunt Double</source>
@@ -468,7 +468,7 @@
       </trans-unit>
       <trans-unit id="3344c1ea-e8b2-481e-b9eb-604c87e34925" resname="CN2·38 | Stunt Double | Card Text | Paragraph 2">
         <source>You may have CARDNAME enter the battlefield as a copy of any creature on the battlefield.</source>
-        <target state="translated">你可以使特技替身当成战场上任一生物的复制品来进入战场。</target>
+        <target state="translated">你可以使CARDNAME当成战场上任一生物的复制品来进入战场。</target>
       </trans-unit>
       <trans-unit id="632122b0-6525-4b41-840f-4fd5bea2f0ea" resname="CN2·39 | Archdemon of Paliano | Card Name">
         <source>Archdemon of Paliano</source>
@@ -476,11 +476,11 @@
       </trans-unit>
       <trans-unit id="632122b0-6525-4b41-840f-4fd5bea2f0ea" resname="CN2·39 | Archdemon of Paliano | Card Text | Paragraph 1">
         <source>Draft CARDNAME face up.</source>
-        <target state="translated">帕兰诺大恶魔以牌面朝上的方式进行轮抽。</target>
+        <target state="translated">CARDNAME以牌面朝上的方式进行轮抽。</target>
       </trans-unit>
       <trans-unit id="632122b0-6525-4b41-840f-4fd5bea2f0ea" resname="CN2·39 | Archdemon of Paliano | Card Text | Paragraph 2">
         <source>As long as CARDNAME is face up during the draft, you can't look at booster packs and must draft cards at random. After you draft three cards this way, turn CARDNAME face down. (You may look at cards as you draft them.)</source>
-        <target state="translated">于轮抽过程中，只要帕兰诺大恶魔牌面朝上，你便不能检视补充包，且必须随机抽选牌张。于你以此法抽选三张牌后，将帕兰诺大恶魔翻为牌面朝下。（你抽选后就可以检视牌张。）</target>
+        <target state="translated">于轮抽过程中，只要CARDNAME牌面朝上，你便不能检视补充包，且必须随机抽选牌张。于你以此法抽选三张牌后，将CARDNAME翻为牌面朝下。（你抽选后就可以检视牌张。）</target>
       </trans-unit>
       <trans-unit id="632122b0-6525-4b41-840f-4fd5bea2f0ea" resname="CN2·39 | Archdemon of Paliano | Card Text | Paragraph 3">
         <source>Flying</source>
@@ -500,7 +500,7 @@
       </trans-unit>
       <trans-unit id="8c4306e0-afdb-4911-9dae-7ea7e6ad9a0a" resname="CN2·41 | Custodi Lich | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当柩护巫妖进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="8c4306e0-afdb-4911-9dae-7ea7e6ad9a0a" resname="CN2·41 | Custodi Lich | Card Text | Paragraph 2">
         <source>Whenever you become the monarch, target player sacrifices a creature.</source>
@@ -512,11 +512,11 @@
       </trans-unit>
       <trans-unit id="879ed5df-626f-48c7-ba77-7ebbc2ef4721" resname="CN2·42 | Deadly Designs | Card Text | Paragraph 1">
         <source>{2}: Put a plot counter on CARDNAME. Any player may activate this ability.</source>
-        <target state="translated">{2}：在夺命筹划上放置一个秘谋指示物。任何牌手均可以起动此异能。</target>
+        <target state="translated">{2}：在CARDNAME上放置一个秘谋指示物。任何牌手均可以起动此异能。</target>
       </trans-unit>
       <trans-unit id="879ed5df-626f-48c7-ba77-7ebbc2ef4721" resname="CN2·42 | Deadly Designs | Card Text | Paragraph 2">
         <source>When there are five or more plot counters on CARDNAME, sacrifice it. If you do, destroy up to two target creatures.</source>
-        <target state="translated">当夺命筹划上有五个或更多秘谋指示物时，将它牺牲。若你如此作，则消灭至多两个目标生物。</target>
+        <target state="translated">当CARDNAME上有五个或更多秘谋指示物时，将它牺牲。若你如此作，则消灭至多两个目标生物。</target>
       </trans-unit>
       <trans-unit id="7e38aafe-d89f-412d-b7b5-1060bff51c6e" resname="CN2·43 | Garrulous Sycophant | Card Name">
         <source>Garrulous Sycophant</source>
@@ -532,7 +532,7 @@
       </trans-unit>
       <trans-unit id="413bec4e-e2ce-46f1-b038-6e359cd78b53" resname="CN2·44 | Marchesa's Decree | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当玛切莎的裁决进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="413bec4e-e2ce-46f1-b038-6e359cd78b53" resname="CN2·44 | Marchesa's Decree | Card Text | Paragraph 2">
         <source>Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life.</source>
@@ -544,11 +544,11 @@
       </trans-unit>
       <trans-unit id="07f56287-91e0-418f-8b57-35c6c30cee33" resname="CN2·45 | Regicide | Card Text | Paragraph 1">
         <source>Reveal CARDNAME as you draft it. The player to your right chooses a color, you choose another color, then the player to your left chooses a third color.</source>
-        <target state="translated">于你抽选弑君时展示之。你右手边的牌手选择一种颜色，你选择另一种颜色，然后你左手边的牌手再选择另外一种颜色。</target>
+        <target state="translated">于你抽选CARDNAME时展示之。你右手边的牌手选择一种颜色，你选择另一种颜色，然后你左手边的牌手再选择另外一种颜色。</target>
       </trans-unit>
       <trans-unit id="07f56287-91e0-418f-8b57-35c6c30cee33" resname="CN2·45 | Regicide | Card Text | Paragraph 2">
         <source>Destroy target creature that's one or more of the colors chosen as you drafted cards named CARDNAME.</source>
-        <target state="translated">消灭目标生物，且其须与于你抽选名称为弑君之牌时被选中的各颜色之间有共通的颜色。</target>
+        <target state="translated">消灭目标生物，且其须与于你抽选名称为CARDNAME之牌时被选中的各颜色之间有共通的颜色。</target>
       </trans-unit>
       <trans-unit id="e50f5505-fcbb-4a84-bcf6-950362d83201" resname="CN2·46 | Sinuous Vermin | Card Name">
         <source>Sinuous Vermin</source>
@@ -560,7 +560,7 @@
       </trans-unit>
       <trans-unit id="e50f5505-fcbb-4a84-bcf6-950362d83201" resname="CN2·46 | Sinuous Vermin | Card Text | Paragraph 2">
         <source>As long as CARDNAME is monstrous, it has menace. (It can't be blocked except by two or more creatures.)</source>
-        <target state="translated">只要扭曲病媒已蛮化，它便具有威慑异能。（它只能被两个或更多生物阻挡。）</target>
+        <target state="translated">只要CARDNAME已蛮化，它便具有威慑异能。（它只能被两个或更多生物阻挡。）</target>
       </trans-unit>
       <trans-unit id="b10ce284-c994-429c-ad61-ffe1ca88d691" resname="CN2·47 | Smuggler Captain | Card Name">
         <source>Smuggler Captain</source>
@@ -568,15 +568,15 @@
       </trans-unit>
       <trans-unit id="b10ce284-c994-429c-ad61-ffe1ca88d691" resname="CN2·47 | Smuggler Captain | Card Text | Paragraph 1">
         <source>Draft CARDNAME face up.</source>
-        <target state="translated">走私船长以牌面朝上的方式进行轮抽。</target>
+        <target state="translated">CARDNAME以牌面朝上的方式进行轮抽。</target>
       </trans-unit>
       <trans-unit id="b10ce284-c994-429c-ad61-ffe1ca88d691" resname="CN2·47 | Smuggler Captain | Card Text | Paragraph 2">
         <source>As you draft a card, you may reveal it, note its name, then turn CARDNAME face down.</source>
-        <target state="translated">于你抽选牌时，你可以展示该牌，记下其名称，然后将走私船长翻为牌面朝下。</target>
+        <target state="translated">于你抽选牌时，你可以展示该牌，记下其名称，然后将CARDNAME翻为牌面朝下。</target>
       </trans-unit>
       <trans-unit id="b10ce284-c994-429c-ad61-ffe1ca88d691" resname="CN2·47 | Smuggler Captain | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, you may search your library for a card with a name you noted for cards named CARDNAME, reveal it, put it into your hand, then shuffle your library.</source>
-        <target state="translated">当走私船长进战场时，你可以从你的牌库中搜寻一张与你替名称为走私船长之牌记下的任一名称同名的牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库中搜寻一张与你替名称为CARDNAME之牌记下的任一名称同名的牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="2e4829c6-50d4-4602-af78-59249486a97c" resname="CN2·48 | Thorn of the Black Rose | Card Name">
         <source>Thorn of the Black Rose</source>
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="2e4829c6-50d4-4602-af78-59249486a97c" resname="CN2·48 | Thorn of the Black Rose | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当黑蔷薇之棘进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="534c652a-2345-48d5-bd78-33f91ed914b4" resname="CN2·49 | Besmirch | Card Name">
         <source>Besmirch</source>
@@ -604,11 +604,11 @@
       </trans-unit>
       <trans-unit id="0babeae3-79fe-4d04-b496-e3dc7fa2ad60" resname="CN2·50 | Crown-Hunter Hireling | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当猎王佣兵进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="0babeae3-79fe-4d04-b496-e3dc7fa2ad60" resname="CN2·50 | Crown-Hunter Hireling | Card Text | Paragraph 2">
         <source>CARDNAME can't attack unless defending player is the monarch.</source>
-        <target state="translated">除非防御牌手是君主，否则猎王佣兵不能攻击。</target>
+        <target state="translated">除非防御牌手是君主，否则CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="8afe85a2-1947-4dd5-98f8-d7ff8df088a1" resname="CN2·51 | Deputized Protester | Card Name">
         <source>Deputized Protester</source>
@@ -628,11 +628,11 @@
       </trans-unit>
       <trans-unit id="4d76b91e-e79c-4c7e-ae3c-2b27b7e871ef" resname="CN2·52 | Garbage Fire | Card Text | Paragraph 1">
         <source>Reveal CARDNAME as you draft it and note how many cards you've drafted this draft round, including CARDNAME.</source>
-        <target state="translated">于你抽选弃物烈焰时展示之，并记下本轮抽圈次中包括弃物烈焰在内你已抽选的牌数。</target>
+        <target state="translated">于你抽选CARDNAME时展示之，并记下本轮抽圈次中包括CARDNAME在内你已抽选的牌数。</target>
       </trans-unit>
       <trans-unit id="4d76b91e-e79c-4c7e-ae3c-2b27b7e871ef" resname="CN2·52 | Garbage Fire | Card Text | Paragraph 2">
         <source>CARDNAME deals damage to target creature equal to the highest number you noted for cards named CARDNAME.</source>
-        <target state="translated">弃物烈焰对目标生物造成伤害，其数量等同于你替名称为弃物烈焰之牌记下的各数字间之最大值。</target>
+        <target state="translated">CARDNAME对目标生物造成伤害，其数量等同于你替名称为CARDNAME之牌记下的各数字间之最大值。</target>
       </trans-unit>
       <trans-unit id="eac5c565-1553-4be1-a289-6189e07460a0" resname="CN2·53 | Goblin Racketeer | Card Name">
         <source>Goblin Racketeer</source>
@@ -640,7 +640,7 @@
       </trans-unit>
       <trans-unit id="eac5c565-1553-4be1-a289-6189e07460a0" resname="CN2·53 | Goblin Racketeer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may goad target creature defending player controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</source>
-        <target state="translated">每当诈骗鬼怪攻击时，你可以煽惑目标由防御牌手操控的生物。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
+        <target state="translated">每当CARDNAME攻击时，你可以煽惑目标由防御牌手操控的生物。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
       </trans-unit>
       <trans-unit id="075cd558-2557-409a-8244-2de65664be53" resname="CN2·54 | Grenzo, Havoc Raiser | Card Name">
         <source>Grenzo, Havoc Raiser</source>
@@ -668,7 +668,7 @@
       </trans-unit>
       <trans-unit id="8b29a4ae-0dcc-4cdd-a5f7-d0f6555c6052" resname="CN2·55 | Grenzo's Ruffians | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to an opponent, it deals that much damage to each other opponent.</source>
-        <target state="translated">每当格伦佐的恶徒向任一对手造成战斗伤害时，它向每位其他对手各造成等量的伤害。</target>
+        <target state="translated">每当CARDNAME向任一对手造成战斗伤害时，它向每位其他对手各造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="0f17be2c-f8c7-41b3-b8fa-30b9e4e826c9" resname="CN2·56 | Pyretic Hunter | Card Name">
         <source>Pyretic Hunter</source>
@@ -676,7 +676,7 @@
       </trans-unit>
       <trans-unit id="0f17be2c-f8c7-41b3-b8fa-30b9e4e826c9" resname="CN2·56 | Pyretic Hunter | Card Text | Paragraph 1">
         <source>Reveal CARDNAME as you draft it and note how many cards you've drafted this draft round, including CARDNAME.</source>
-        <target state="translated">于你抽选猎焰灵时展示之，并记下本轮抽圈次中包括猎焰灵在内你已抽选的牌数。</target>
+        <target state="translated">于你抽选CARDNAME时展示之，并记下本轮抽圈次中包括CARDNAME在内你已抽选的牌数。</target>
       </trans-unit>
       <trans-unit id="0f17be2c-f8c7-41b3-b8fa-30b9e4e826c9" resname="CN2·56 | Pyretic Hunter | Card Text | Paragraph 2">
         <source>Menace (This creature can't be blocked except by two or more creatures.)</source>
@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="0f17be2c-f8c7-41b3-b8fa-30b9e4e826c9" resname="CN2·56 | Pyretic Hunter | Card Text | Paragraph 3">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it, where X is the highest number you noted for cards named CARDNAME.</source>
-        <target state="translated">猎焰灵进战场时上面有X个+1/+1指示物，X为你替名称为猎焰灵之牌记下的各数字间之最大值。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物，X为你替名称为CARDNAME之牌记下的各数字间之最大值。</target>
       </trans-unit>
       <trans-unit id="86f74736-0557-4b73-a8ad-5abaa34ccd94" resname="CN2·57 | Skyline Despot | Card Name">
         <source>Skyline Despot</source>
@@ -696,7 +696,7 @@
       </trans-unit>
       <trans-unit id="86f74736-0557-4b73-a8ad-5abaa34ccd94" resname="CN2·57 | Skyline Despot | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当天际霸王进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="86f74736-0557-4b73-a8ad-5abaa34ccd94" resname="CN2·57 | Skyline Despot | Card Text | Paragraph 3">
         <source>At the beginning of your upkeep, if you're the monarch, put a 5/5 red Dragon creature token with flying onto the battlefield.</source>
@@ -708,7 +708,7 @@
       </trans-unit>
       <trans-unit id="1b9510b8-6601-4116-8713-ff7649c000eb" resname="CN2·58 | Subterranean Tremors | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature without flying. If X is 4 or more, destroy all artifacts. If X is 8 or more, put an 8/8 red Lizard creature token onto the battlefield.</source>
-        <target state="translated">地底震动对每个不具飞行异能的生物各造成X点伤害。如果X等于或大于4，则消灭所有神器。如果X等于或大于8，则将一个8/8红色蜥蜴衍生生物放进战场。</target>
+        <target state="translated">CARDNAME对每个不具飞行异能的生物各造成X点伤害。如果X等于或大于4，则消灭所有神器。如果X等于或大于8，则将一个8/8红色蜥蜴衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="f6d3334c-7cf6-4e50-bece-d1ce462cfce8" resname="CN2·59 | Volatile Chimera | Card Name">
         <source>Volatile Chimera</source>
@@ -720,7 +720,7 @@
       </trans-unit>
       <trans-unit id="f6d3334c-7cf6-4e50-bece-d1ce462cfce8" resname="CN2·59 | Volatile Chimera | Card Text | Paragraph 2">
         <source>{1}{R}: Choose a card at random you exiled with cards named CARDNAME. CARDNAME becomes a copy of that card and gains this ability.</source>
-        <target state="translated">{1}{R}：随机选择一张你以名称为无常盖美拉之牌放逐的牌。无常盖美拉成为该牌的复制品，并获得此异能。</target>
+        <target state="translated">{1}{R}：随机选择一张你以名称为CARDNAME之牌放逐的牌。CARDNAME成为该牌的复制品，并获得此异能。</target>
       </trans-unit>
       <trans-unit id="e5e8f955-4fa5-4d57-ac77-2a7be95ed4ad" resname="CN2·60 | Animus of Predation | Card Name">
         <source>Animus of Predation</source>
@@ -728,7 +728,7 @@
       </trans-unit>
       <trans-unit id="e5e8f955-4fa5-4d57-ac77-2a7be95ed4ad" resname="CN2·60 | Animus of Predation | Card Text | Paragraph 1">
         <source>Draft CARDNAME face up.</source>
-        <target state="translated">掠食原心以牌面朝上的方式进行轮抽。</target>
+        <target state="translated">CARDNAME以牌面朝上的方式进行轮抽。</target>
       </trans-unit>
       <trans-unit id="e5e8f955-4fa5-4d57-ac77-2a7be95ed4ad" resname="CN2·60 | Animus of Predation | Card Text | Paragraph 2">
         <source>As you draft a card, you may remove it from the draft face up. (It isn't in your card pool.)</source>
@@ -736,7 +736,7 @@
       </trans-unit>
       <trans-unit id="e5e8f955-4fa5-4d57-ac77-2a7be95ed4ad" resname="CN2·60 | Animus of Predation | Card Text | Paragraph 3">
         <source>If you removed a creature card with flying from the draft with cards named CARDNAME, CARDNAME has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, and vigilance.</source>
-        <target state="translated">如果你以名称为掠食原心之牌移出轮抽的某张生物牌具有飞行异能，则掠食原心具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势与警戒异能亦比照办理。</target>
+        <target state="translated">如果你以名称为CARDNAME之牌移出轮抽的某张生物牌具有飞行异能，则CARDNAME具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势与警戒异能亦比照办理。</target>
       </trans-unit>
       <trans-unit id="dec6181f-c8bc-4858-912a-181b423185cd" resname="CN2·61 | Borderland Explorer | Card Name">
         <source>Borderland Explorer</source>
@@ -744,7 +744,7 @@
       </trans-unit>
       <trans-unit id="dec6181f-c8bc-4858-912a-181b423185cd" resname="CN2·61 | Borderland Explorer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each player may discard a card. Each player who discarded a card this way may search his or her library for a basic land card, reveal it, put it into his or her hand, then shuffle his or her library.</source>
-        <target state="translated">当边境探险家进战场时，每位牌手各可以弃一张牌。每位以此法弃牌的牌手可以从其牌库中搜寻一张基本地牌，展示该牌，将它置于手上，然后将各自的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，每位牌手各可以弃一张牌。每位以此法弃牌的牌手可以从其牌库中搜寻一张基本地牌，展示该牌，将它置于手上，然后将各自的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="c62f25d9-7eb2-491e-ba7b-b71e49ee87b4" resname="CN2·62 | Caller of the Untamed | Card Name">
         <source>Caller of the Untamed</source>
@@ -756,7 +756,7 @@
       </trans-unit>
       <trans-unit id="c62f25d9-7eb2-491e-ba7b-b71e49ee87b4" resname="CN2·62 | Caller of the Untamed | Card Text | Paragraph 2">
         <source>{X}, {T}: Put a token onto the battlefield that's a copy of a card you exiled with cards named CARDNAME. X is the converted mana cost of that card.</source>
-        <target state="translated">{X}，{T}：将一个衍生物放进战场，此衍生物为任一你以名称为野兽唤师之牌放逐的牌之复制品。X为该牌的总法术力费用。</target>
+        <target state="translated">{X}，{T}：将一个衍生物放进战场，此衍生物为任一你以名称为CARDNAME之牌放逐的牌之复制品。X为该牌的总法术力费用。</target>
       </trans-unit>
       <trans-unit id="23be85ac-2d9c-4261-aa55-4421e4a35d8b" resname="CN2·63 | Domesticated Hydra | Card Name">
         <source>Domesticated Hydra</source>
@@ -768,7 +768,7 @@
       </trans-unit>
       <trans-unit id="23be85ac-2d9c-4261-aa55-4421e4a35d8b" resname="CN2·63 | Domesticated Hydra | Card Text | Paragraph 2">
         <source>As long as CARDNAME is monstrous, it has trample.</source>
-        <target state="translated">只要驯化多头龙已蛮化，它便具有践踏异能。</target>
+        <target state="translated">只要CARDNAME已蛮化，它便具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="3d7ee777-6113-43f8-883e-c7569eefb872" resname="CN2·64 | Entourage of Trest | Card Name">
         <source>Entourage of Trest</source>
@@ -776,11 +776,11 @@
       </trans-unit>
       <trans-unit id="3d7ee777-6113-43f8-883e-c7569eefb872" resname="CN2·64 | Entourage of Trest | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当崔斯特随从进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="3d7ee777-6113-43f8-883e-c7569eefb872" resname="CN2·64 | Entourage of Trest | Card Text | Paragraph 2">
         <source>CARDNAME can block an additional creature each combat as long as you're the monarch.</source>
-        <target state="translated">只要你是君主，崔斯特随从每次战斗便可以额外多阻挡一个生物。</target>
+        <target state="translated">只要你是君主，CARDNAME每次战斗便可以额外多阻挡一个生物。</target>
       </trans-unit>
       <trans-unit id="27bcf935-6e35-41bc-b1eb-6ec92b1647d5" resname="CN2·65 | Fang of the Pack | Card Name">
         <source>Fang of the Pack</source>
@@ -800,11 +800,11 @@
       </trans-unit>
       <trans-unit id="d41deffe-766f-4a46-8552-73483adc0cfb" resname="CN2·66 | Leovold's Operative | Card Text | Paragraph 1">
         <source>Draft CARDNAME face up.</source>
-        <target state="translated">列沃德的特务以牌面朝上的方式进行轮抽。</target>
+        <target state="translated">CARDNAME以牌面朝上的方式进行轮抽。</target>
       </trans-unit>
       <trans-unit id="d41deffe-766f-4a46-8552-73483adc0cfb" resname="CN2·66 | Leovold's Operative | Card Text | Paragraph 2">
         <source>As you draft a card, you may draft an additional card from that booster pack. If you do, turn CARDNAME face down, then pass the next booster pack without drafting a card from it. (You may look at that booster pack.)</source>
-        <target state="translated">于你抽选牌时，你可以从该补充包中额外抽选一张牌。如果你如此作，将列沃德的特务翻为牌面朝下，然后传出下一包补充包且不抽选其中的牌。（你可以检视该补充包。）</target>
+        <target state="translated">于你抽选牌时，你可以从该补充包中额外抽选一张牌。如果你如此作，将CARDNAME翻为牌面朝下，然后传出下一包补充包且不抽选其中的牌。（你可以检视该补充包。）</target>
       </trans-unit>
       <trans-unit id="e7b2b659-2689-4de0-aa07-2568b45f86a8" resname="CN2·67 | Menagerie Liberator | Card Name">
         <source>Menagerie Liberator</source>
@@ -824,7 +824,7 @@
       </trans-unit>
       <trans-unit id="a98ce3fa-d607-4975-89b5-6c7ed9bd1185" resname="CN2·68 | Orchard Elemental | Card Text | Paragraph 1">
         <source>Council's dilemma — When CARDNAME enters the battlefield, starting with you, each player votes for sprout or harvest. Put two +1/+1 counters on CARDNAME for each sprout vote. You gain 3 life for each harvest vote.</source>
-        <target state="translated">议争～当果园元素进战场时，由你开始，每位牌手各投票选择「萌芽」或「丰收」。在果园元素上放置若干+1/+1指示物，其数量等同于投票选择「萌芽」之总票数的两倍。你获得若干生命，其数量等同于投票选择「丰收」之总票数的三倍。</target>
+        <target state="translated">议争～当CARDNAME进战场时，由你开始，每位牌手各投票选择「萌芽」或「丰收」。在CARDNAME上放置若干+1/+1指示物，其数量等同于投票选择「萌芽」之总票数的两倍。你获得若干生命，其数量等同于投票选择「丰收」之总票数的三倍。</target>
       </trans-unit>
       <trans-unit id="644e5b24-394a-43f1-8384-186d6108f540" resname="CN2·69 | Regal Behemoth | Card Name">
         <source>Regal Behemoth</source>
@@ -836,7 +836,7 @@
       </trans-unit>
       <trans-unit id="644e5b24-394a-43f1-8384-186d6108f540" resname="CN2·69 | Regal Behemoth | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当威严贝西摩斯进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="644e5b24-394a-43f1-8384-186d6108f540" resname="CN2·69 | Regal Behemoth | Card Text | Paragraph 3">
         <source>Whenever you tap a land for mana while you're the monarch, add one mana of any color to your mana pool (in addition to the mana the land produces).</source>
@@ -872,7 +872,7 @@
       </trans-unit>
       <trans-unit id="c940f17e-7ddd-4a1a-8d6b-a012ced97cf9" resname="CN2·72 | Splitting Slime | Card Text | Paragraph 2">
         <source>When CARDNAME becomes monstrous, put a token onto the battlefield that's a copy of CARDNAME. (The token has no counters and isn't monstrous.)</source>
-        <target state="translated">当裂生黏菌蛮化时，将一个衍生物放进战场，此衍生物为裂生黏菌的复制品。（此衍生物没有指示物且未蛮化。）</target>
+        <target state="translated">当CARDNAME蛮化时，将一个衍生物放进战场，此衍生物为CARDNAME的复制品。（此衍生物没有指示物且未蛮化。）</target>
       </trans-unit>
       <trans-unit id="e7e1443c-2790-40a0-b5fc-c3b1b710f650" resname="CN2·73 | Adriana, Captain of the Guard | Card Name">
         <source>Adriana, Captain of the Guard</source>
@@ -908,7 +908,7 @@
       </trans-unit>
       <trans-unit id="e969921c-251a-4469-9578-e243d37dc9a7" resname="CN2·75 | Kaya, Ghost Assassin | Card Text | Paragraph 1">
         <source>0: Exile CARDNAME or up to one target creature. Return that card to the battlefield under its owner's control at the beginning of your next upkeep. You lose 2 life.</source>
-        <target state="translated">0：放逐驱鬼卡娅或至多一个目标生物。在你的下一个维持开始时，将该牌在其拥有者的操控下移回战场。你失去2点生命。</target>
+        <target state="translated">0：放逐CARDNAME或至多一个目标生物。在你的下一个维持开始时，将该牌在其拥有者的操控下移回战场。你失去2点生命。</target>
       </trans-unit>
       <trans-unit id="e969921c-251a-4469-9578-e243d37dc9a7" resname="CN2·75 | Kaya, Ghost Assassin | Card Text | Paragraph 2">
         <source>−1: Each opponent loses 2 life and you gain 2 life.</source>
@@ -924,7 +924,7 @@
       </trans-unit>
       <trans-unit id="bfb6ba17-6bc0-4626-a604-8b32618a54c5" resname="CN2·76 | Knights of the Black Rose | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当黑蔷薇骑士进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="bfb6ba17-6bc0-4626-a604-8b32618a54c5" resname="CN2·76 | Knights of the Black Rose | Card Text | Paragraph 2">
         <source>Whenever an opponent becomes the monarch, if you were the monarch as the turn began, that player loses 2 life and you gain 2 life.</source>
@@ -952,7 +952,7 @@
       </trans-unit>
       <trans-unit id="03f4341c-088b-4f35-b82b-3d98d8a93de4" resname="CN2·78 | Queen Marchesa | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you become the monarch.</source>
-        <target state="translated">当玛切莎女王进战场时，你成为君主。</target>
+        <target state="translated">当CARDNAME进战场时，你成为君主。</target>
       </trans-unit>
       <trans-unit id="03f4341c-088b-4f35-b82b-3d98d8a93de4" resname="CN2·78 | Queen Marchesa | Card Text | Paragraph 3">
         <source>At the beginning of your upkeep, if an opponent is the monarch, put a 1/1 black Assassin creature token with deathtouch and haste onto the battlefield.</source>
@@ -980,7 +980,7 @@
       </trans-unit>
       <trans-unit id="22766d81-21ca-429a-b2e2-fdb338a33aa4" resname="CN2·80 | Throne of the High City | Card Text | Paragraph 2">
         <source>{4}, {T}, Sacrifice CARDNAME: You become the monarch.</source>
-        <target state="translated">{4}，{T}，牺牲上城王座：你成为君主。</target>
+        <target state="translated">{4}，{T}，牺牲CARDNAME：你成为君主。</target>
       </trans-unit>
       <trans-unit id="8aa75e82-140a-4986-aac6-464c34eb2483" resname="CN2·81 | Affa Guard Hound | Card Name">
         <source>Affa Guard Hound</source>
@@ -992,7 +992,7 @@
       </trans-unit>
       <trans-unit id="8aa75e82-140a-4986-aac6-464c34eb2483" resname="CN2·81 | Affa Guard Hound | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gets +0/+3 until end of turn.</source>
-        <target state="translated">当艾法守卫犬进战场时，目标生物得+0/+3直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得+0/+3直到回合结束。</target>
       </trans-unit>
       <trans-unit id="91d10f3f-1d5b-49bf-8df0-22bb8ba2b279" resname="CN2·82 | Disenchant | Card Name">
         <source>Disenchant</source>
@@ -1008,7 +1008,7 @@
       </trans-unit>
       <trans-unit id="1fba63ba-4585-4c2b-9fef-9738852f4efb" resname="CN2·83 | Doomed Traveler | Card Text | Paragraph 1">
         <source>When CARDNAME dies, put a 1/1 white Spirit creature token with flying onto the battlefield.</source>
-        <target state="translated">当注亡旅人死去时，将一个1/1白色，具飞行异能的精怪衍生生物放进战场。</target>
+        <target state="translated">当CARDNAME死去时，将一个1/1白色，具飞行异能的精怪衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="fa19fe94-0302-4d08-9821-fa0db722048a" resname="CN2·84 | Faith's Reward | Card Name">
         <source>Faith's Reward</source>
@@ -1072,11 +1072,11 @@
       </trans-unit>
       <trans-unit id="df091618-cef7-469b-aff5-27cad917616f" resname="CN2·89 | Guardian of the Gateless | Card Text | Paragraph 2">
         <source>CARDNAME can block any number of creatures.</source>
-        <target state="translated">无属守护者可以阻挡任意数量的生物。</target>
+        <target state="translated">CARDNAME可以阻挡任意数量的生物。</target>
       </trans-unit>
       <trans-unit id="df091618-cef7-469b-aff5-27cad917616f" resname="CN2·89 | Guardian of the Gateless | Card Text | Paragraph 3">
         <source>Whenever CARDNAME blocks, it gets +1/+1 until end of turn for each creature it's blocking.</source>
-        <target state="translated">每当无属守护者进行阻挡时，每有一个受其阻挡的生物，它便得+1/+1直到回合结束。</target>
+        <target state="translated">每当CARDNAME进行阻挡时，每有一个受其阻挡的生物，它便得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="797b0779-8a2c-4f24-9447-f039ac9d6aa5" resname="CN2·90 | Hail of Arrows | Card Name">
         <source>Hail of Arrows</source>
@@ -1084,7 +1084,7 @@
       </trans-unit>
       <trans-unit id="797b0779-8a2c-4f24-9447-f039ac9d6aa5" resname="CN2·90 | Hail of Arrows | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage divided as you choose among any number of target attacking creatures.</source>
-        <target state="translated">箭如雨下对任意数量目标进行攻击的生物造成共X点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对任意数量目标进行攻击的生物造成共X点伤害，你可以任意分配。</target>
       </trans-unit>
       <trans-unit id="94389b94-1514-44d1-b19b-7be104db9bba" resname="CN2·91 | Hallowed Burial | Card Name">
         <source>Hallowed Burial</source>
@@ -1108,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="a870b8ee-8ca9-42d0-96bb-b297aa989d14" resname="CN2·92 | Hollowhenge Spirit | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, remove target attacking or blocking creature from combat.</source>
-        <target state="translated">当空圆地精怪进战场时，将目标进行攻击或阻挡的生物移出战斗。</target>
+        <target state="translated">当CARDNAME进战场时，将目标进行攻击或阻挡的生物移出战斗。</target>
       </trans-unit>
       <trans-unit id="489f192f-0d8a-468b-94f5-67a937e5028e" resname="CN2·93 | Hundred-Handed One | Card Name">
         <source>Hundred-Handed One</source>
@@ -1124,7 +1124,7 @@
       </trans-unit>
       <trans-unit id="489f192f-0d8a-468b-94f5-67a937e5028e" resname="CN2·93 | Hundred-Handed One | Card Text | Paragraph 3">
         <source>As long as CARDNAME is monstrous, it has reach and can block an additional ninety-nine creatures each combat.</source>
-        <target state="translated">只要百臂巨人已蛮化，它便具有延势异能，且每次战斗可以额外多阻挡九十九个生物。</target>
+        <target state="translated">只要CARDNAME已蛮化，它便具有延势异能，且每次战斗可以额外多阻挡九十九个生物。</target>
       </trans-unit>
       <trans-unit id="1977d0d0-a7cc-48b8-ab61-199de54fb591" resname="CN2·94 | Kill Shot | Card Name">
         <source>Kill Shot</source>
@@ -1256,7 +1256,7 @@
       </trans-unit>
       <trans-unit id="5160ab7d-16c7-4e8f-bbec-38424c4b5a89" resname="CN2·106 | Deceiver Exarch | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, choose one —</source>
-        <target state="translated">当欺瞒督教进战场时，选择一项～</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～</target>
       </trans-unit>
       <trans-unit id="5160ab7d-16c7-4e8f-bbec-38424c4b5a89" resname="CN2·106 | Deceiver Exarch | Card Text | Paragraph 3">
         <source>• Untap target permanent you control.</source>
@@ -1352,7 +1352,7 @@
       </trans-unit>
       <trans-unit id="92ad1471-96d2-4d61-9695-5f2daf122353" resname="CN2·115 | Merfolk Skyscout | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks or blocks, untap target permanent.</source>
-        <target state="translated">每当空侦人鱼进行攻击或阻挡时，重置目标永久物。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，重置目标永久物。</target>
       </trans-unit>
       <trans-unit id="25004cf2-f888-4714-8d26-6bd1b6fd3154" resname="CN2·116 | Mnemonic Wall | Card Name">
         <source>Mnemonic Wall</source>
@@ -1364,7 +1364,7 @@
       </trans-unit>
       <trans-unit id="25004cf2-f888-4714-8d26-6bd1b6fd3154" resname="CN2·116 | Mnemonic Wall | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.</source>
-        <target state="translated">当记忆墙进战场时，你可以将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="3d5e6fdf-022a-480d-96fc-bfadbf7ee5f6" resname="CN2·117 | Negate | Card Name">
         <source>Negate</source>
@@ -1380,7 +1380,7 @@
       </trans-unit>
       <trans-unit id="43ab3ff8-91b0-437c-9c4b-e9c103074da4" resname="CN2·118 | Omenspeaker | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</source>
-        <target state="translated">当示兆先知进战场时，占卜2。（检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
+        <target state="translated">当CARDNAME进战场时，占卜2。（检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
       </trans-unit>
       <trans-unit id="4dc7777b-6e9e-4889-91da-fb5283340fa1" resname="CN2·119 | Repulse | Card Name">
         <source>Repulse</source>
@@ -1420,7 +1420,7 @@
       </trans-unit>
       <trans-unit id="946afb3c-cc52-4603-b93b-a8f41a4b81cf" resname="CN2·122 | Sphinx of Magosi | Card Text | Paragraph 2">
         <source>{2}{U}: Draw a card, then put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{2}{U}：抓一张牌，然后在马格西史芬斯上放置一个+1/+1指示物。</target>
+        <target state="translated">{2}{U}：抓一张牌，然后在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="e10a2beb-81d5-49d5-b76c-23c843ae53de" resname="CN2·123 | Traumatic Visions | Card Name">
         <source>Traumatic Visions</source>
@@ -1444,7 +1444,7 @@
       </trans-unit>
       <trans-unit id="2c074399-36e9-41f7-918e-5fae267e9da2" resname="CN2·124 | Vaporkin | Card Text | Paragraph 2">
         <source>CARDNAME can block only creatures with flying.</source>
-        <target state="translated">氲氤灵只能阻挡具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能阻挡具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="7e50384b-7b06-4e59-8d70-c03a61ff64aa" resname="CN2·125 | Vertigo Spawn | Card Name">
         <source>Vertigo Spawn</source>
@@ -1456,7 +1456,7 @@
       </trans-unit>
       <trans-unit id="7e50384b-7b06-4e59-8d70-c03a61ff64aa" resname="CN2·125 | Vertigo Spawn | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks a creature, tap that creature. That creature doesn't untap during its controller's next untap step.</source>
-        <target state="translated">每当眩晕魔影阻挡一个生物时，横置该生物。该生物于其操控者的下一个重置步骤中不能重置。</target>
+        <target state="translated">每当CARDNAME阻挡一个生物时，横置该生物。该生物于其操控者的下一个重置步骤中不能重置。</target>
       </trans-unit>
       <trans-unit id="e319956e-982b-4bba-829a-67bf4ef79d74" resname="CN2·126 | Absorb Vis | Card Name">
         <source>Absorb Vis</source>
@@ -1476,7 +1476,7 @@
       </trans-unit>
       <trans-unit id="acffe5ea-2d74-4b77-ac2c-e2ac86719f2d" resname="CN2·127 | Altar's Reap | Card Text | Paragraph 1">
         <source>As an additional cost to cast CARDNAME, sacrifice a creature.</source>
-        <target state="translated">牺牲一个生物，以作为施放祭坛夺命的额外费用。</target>
+        <target state="translated">牺牲一个生物，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="acffe5ea-2d74-4b77-ac2c-e2ac86719f2d" resname="CN2·127 | Altar's Reap | Card Text | Paragraph 2">
         <source>Draw two cards.</source>
@@ -1488,7 +1488,7 @@
       </trans-unit>
       <trans-unit id="bb24d265-5757-4d77-b2c7-47460d24d5e0" resname="CN2·128 | Avatar of Woe | Card Text | Paragraph 1">
         <source>If there are ten or more creature cards total in all graveyards, CARDNAME costs {6} less to cast.</source>
-        <target state="translated">如果所有坟墓场中有十张或更多的生物牌，则灾祸化身减少{6}来施放。</target>
+        <target state="translated">如果所有坟墓场中有十张或更多的生物牌，则CARDNAME减少{6}来施放。</target>
       </trans-unit>
       <trans-unit id="bb24d265-5757-4d77-b2c7-47460d24d5e0" resname="CN2·128 | Avatar of Woe | Card Text | Paragraph 2">
         <source>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</source>
@@ -1508,7 +1508,7 @@
       </trans-unit>
       <trans-unit id="c081f3e2-e4e6-4ef5-9969-64aca9c11413" resname="CN2·129 | Blood-Toll Harpy | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, each player loses 1 life.</source>
-        <target state="translated">当索血哈痞进战场时，每位牌手各失去1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，每位牌手各失去1点生命。</target>
       </trans-unit>
       <trans-unit id="8cdf34d3-0969-4a08-93e7-eb4dcea63e29" resname="CN2·130 | Child of Night | Card Name">
         <source>Child of Night</source>
@@ -1540,7 +1540,7 @@
       </trans-unit>
       <trans-unit id="cc7b0442-d7d0-47db-bcfe-09637c3e7523" resname="CN2·133 | Driver of the Dead | Card Text | Paragraph 1">
         <source>When CARDNAME dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.</source>
-        <target state="translated">当亡者车夫死去时，将目标生物牌从你的坟墓场移回战场，且其总法术力费用须等于或小于2。</target>
+        <target state="translated">当CARDNAME死去时，将目标生物牌从你的坟墓场移回战场，且其总法术力费用须等于或小于2。</target>
       </trans-unit>
       <trans-unit id="3185eeac-39ae-4e6e-bfdd-4b8edd984af1" resname="CN2·134 | Farbog Boneflinger | Card Name">
         <source>Farbog Boneflinger</source>
@@ -1548,7 +1548,7 @@
       </trans-unit>
       <trans-unit id="3185eeac-39ae-4e6e-bfdd-4b8edd984af1" resname="CN2·134 | Farbog Boneflinger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature gets -2/-2 until end of turn.</source>
-        <target state="translated">当远沼掷骨尸进战场时，目标生物得-2/-2直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得-2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5da1371f-8888-4428-b3f4-d8f07e12f91b" resname="CN2·135 | Festergloom | Card Name">
         <source>Festergloom</source>
@@ -1564,7 +1564,7 @@
       </trans-unit>
       <trans-unit id="73b21f2e-d0f0-45fc-88aa-d501aa84431c" resname="CN2·136 | Fleshbag Marauder | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each player sacrifices a creature.</source>
-        <target state="translated">当肉囊劫掠者进战场时，每位牌手各牺牲一个生物。</target>
+        <target state="translated">当CARDNAME进战场时，每位牌手各牺牲一个生物。</target>
       </trans-unit>
       <trans-unit id="edb0546f-f893-460c-8af4-79b24c373ebe" resname="CN2·137 | Guul Draz Specter | Card Name">
         <source>Guul Draz Specter</source>
@@ -1576,11 +1576,11 @@
       </trans-unit>
       <trans-unit id="edb0546f-f893-460c-8af4-79b24c373ebe" resname="CN2·137 | Guul Draz Specter | Card Text | Paragraph 2">
         <source>CARDNAME gets +3/+3 as long as an opponent has no cards in hand.</source>
-        <target state="translated">只要某对手没有手牌，古坠兹幽灵便得+3/+3。</target>
+        <target state="translated">只要某对手没有手牌，CARDNAME便得+3/+3。</target>
       </trans-unit>
       <trans-unit id="edb0546f-f893-460c-8af4-79b24c373ebe" resname="CN2·137 | Guul Draz Specter | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals combat damage to a player, that player discards a card.</source>
-        <target state="translated">每当古坠兹幽灵对任一牌手造成战斗伤害时，该牌手弃一张牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，该牌手弃一张牌。</target>
       </trans-unit>
       <trans-unit id="7008d740-e22b-4462-868b-dc3b08d11ff4" resname="CN2·138 | Harvester of Souls | Card Name">
         <source>Harvester of Souls</source>
@@ -1624,7 +1624,7 @@
       </trans-unit>
       <trans-unit id="aa8d2ece-9639-4384-8284-27a1b0475228" resname="CN2·141 | Keepsake Gorgon | Card Text | Paragraph 3">
         <source>When CARDNAME becomes monstrous, destroy target non-Gorgon creature an opponent controls.</source>
-        <target state="translated">当念赠蛇发妖蛮化时，消灭目标由对手操控的非蛇发妖生物。</target>
+        <target state="translated">当CARDNAME蛮化时，消灭目标由对手操控的非蛇发妖生物。</target>
       </trans-unit>
       <trans-unit id="cfe2e536-cd2e-443a-95e5-357c9158a208" resname="CN2·142 | Mausoleum Turnkey | Card Name">
         <source>Mausoleum Turnkey</source>
@@ -1632,7 +1632,7 @@
       </trans-unit>
       <trans-unit id="cfe2e536-cd2e-443a-95e5-357c9158a208" resname="CN2·142 | Mausoleum Turnkey | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return target creature card of an opponent's choice from your graveyard to your hand.</source>
-        <target state="translated">当陵墓看守进战场时，任一对手选择目标在你坟墓场中的生物牌，将该牌移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，任一对手选择目标在你坟墓场中的生物牌，将该牌移回你手上。</target>
       </trans-unit>
       <trans-unit id="1cde89d1-b789-4bd6-8dcb-856b525f775f" resname="CN2·143 | Murder | Card Name">
         <source>Murder</source>
@@ -1688,7 +1688,7 @@
       </trans-unit>
       <trans-unit id="3c0d2e09-e369-4454-914f-ca23da3d0933" resname="CN2·148 | Shambling Goblin | Card Text | Paragraph 1">
         <source>When CARDNAME dies, target creature an opponent controls gets -1/-1 until end of turn.</source>
-        <target state="translated">当跛行鬼怪死去时，目标由对手操控的生物得-1/-1直到回合结束。</target>
+        <target state="translated">当CARDNAME死去时，目标由对手操控的生物得-1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c53a55ec-0ada-4fc1-9de4-d4daa1ae4546" resname="CN2·149 | Stromkirk Patrol | Card Name">
         <source>Stromkirk Patrol</source>
@@ -1696,7 +1696,7 @@
       </trans-unit>
       <trans-unit id="c53a55ec-0ada-4fc1-9de4-d4daa1ae4546" resname="CN2·149 | Stromkirk Patrol | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, put a +1/+1 counter on it.</source>
-        <target state="translated">每当溪堡巡卫对任一牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="4cba1443-52e7-429b-a208-29e19f55e340" resname="CN2·150 | Unnerve | Card Name">
         <source>Unnerve</source>
@@ -1712,7 +1712,7 @@
       </trans-unit>
       <trans-unit id="b09c774a-0ea0-4bb8-9195-ea2d83461e75" resname="CN2·151 | Burn Away | Card Text | Paragraph 1">
         <source>CARDNAME deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard.</source>
-        <target state="translated">焚烧殆尽对目标生物造成6点伤害。本回合中，当该生物死去时，放逐其操控者坟墓场中的所有牌。</target>
+        <target state="translated">CARDNAME对目标生物造成6点伤害。本回合中，当该生物死去时，放逐其操控者坟墓场中的所有牌。</target>
       </trans-unit>
       <trans-unit id="3abb0b65-b3de-4193-ae60-9b8ba55636b4" resname="CN2·152 | Burning Wish | Card Name">
         <source>Burning Wish</source>
@@ -1720,7 +1720,7 @@
       </trans-unit>
       <trans-unit id="3abb0b65-b3de-4193-ae60-9b8ba55636b4" resname="CN2·152 | Burning Wish | Card Text | Paragraph 1">
         <source>You may choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Exile CARDNAME.</source>
-        <target state="translated">你可以从游戏外选择一张由你拥有的法术牌，展示该牌，并将它置于你手上。放逐热切祈愿。</target>
+        <target state="translated">你可以从游戏外选择一张由你拥有的法术牌，展示该牌，并将它置于你手上。放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="99dffb1c-7f55-486c-b69b-c962ff4723a3" resname="CN2·153 | Charmbreaker Devils | Card Name">
         <source>Charmbreaker Devils</source>
@@ -1732,7 +1732,7 @@
       </trans-unit>
       <trans-unit id="99dffb1c-7f55-486c-b69b-c962ff4723a3" resname="CN2·153 | Charmbreaker Devils | Card Text | Paragraph 2">
         <source>Whenever you cast an instant or sorcery spell, CARDNAME gets +4/+0 until end of turn.</source>
-        <target state="translated">每当你施放瞬间或法术咒语时，断符魔鬼得+4/+0直到回合结束。</target>
+        <target state="translated">每当你施放瞬间或法术咒语时，CARDNAME得+4/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9de3eeae-22a5-4d9c-afd6-1cc441eb3a13" resname="CN2·154 | Coordinated Assault | Card Name">
         <source>Coordinated Assault</source>
@@ -1748,7 +1748,7 @@
       </trans-unit>
       <trans-unit id="2751c1f3-577e-4308-8311-d6990e956456" resname="CN2·155 | Ember Beast | Card Text | Paragraph 1">
         <source>CARDNAME can't attack or block alone.</source>
-        <target state="translated">灰烬兽不能单独进行攻击或阻挡。</target>
+        <target state="translated">CARDNAME不能单独进行攻击或阻挡。</target>
       </trans-unit>
       <trans-unit id="bc40854d-48a0-49b0-a0ea-c2b848ae4688" resname="CN2·156 | Fiery Fall | Card Name">
         <source>Fiery Fall</source>
@@ -1756,7 +1756,7 @@
       </trans-unit>
       <trans-unit id="bc40854d-48a0-49b0-a0ea-c2b848ae4688" resname="CN2·156 | Fiery Fall | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to target creature.</source>
-        <target state="translated">暴落对目标生物造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="bc40854d-48a0-49b0-a0ea-c2b848ae4688" resname="CN2·156 | Fiery Fall | Card Text | Paragraph 2">
         <source>Basic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)</source>
@@ -1768,7 +1768,7 @@
       </trans-unit>
       <trans-unit id="15affc1b-2ebb-4934-87a2-10e89eafe894" resname="CN2·157 | Flame Slash | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target creature.</source>
-        <target state="translated">火焰飞斩对目标生物造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="4478151a-5c4e-49dc-9405-2481395ed28f" resname="CN2·158 | Gang of Devils | Card Name">
         <source>Gang of Devils</source>
@@ -1776,7 +1776,7 @@
       </trans-unit>
       <trans-unit id="4478151a-5c4e-49dc-9405-2481395ed28f" resname="CN2·158 | Gang of Devils | Card Text | Paragraph 1">
         <source>When CARDNAME dies, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</source>
-        <target state="translated">当魔鬼群死去时，它对一个，两个，或三个目标生物和／或牌手造成共3点伤害，你可以任意分配。</target>
+        <target state="translated">当CARDNAME死去时，它对一个，两个，或三个目标生物和／或牌手造成共3点伤害，你可以任意分配。</target>
       </trans-unit>
       <trans-unit id="485e9d38-1536-4af6-9b58-00c08c07e222" resname="CN2·159 | Goblin Balloon Brigade | Card Name">
         <source>Goblin Balloon Brigade</source>
@@ -1784,7 +1784,7 @@
       </trans-unit>
       <trans-unit id="485e9d38-1536-4af6-9b58-00c08c07e222" resname="CN2·159 | Goblin Balloon Brigade | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">{R}：鬼怪热气球旅获得飞行异能直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="310b4068-6180-434d-8c29-cc5999e4ce45" resname="CN2·160 | Goblin Tunneler | Card Name">
         <source>Goblin Tunneler</source>
@@ -1808,7 +1808,7 @@
       </trans-unit>
       <trans-unit id="5454a9ba-c749-45f1-880a-cdb699f12bdf" resname="CN2·162 | Guttersnipe | Card Text | Paragraph 1">
         <source>Whenever you cast an instant or sorcery spell, CARDNAME deals 2 damage to each opponent.</source>
-        <target state="translated">每当你施放瞬间或法术咒语时，贫窟伏击客向每位对手各造成2点伤害。</target>
+        <target state="translated">每当你施放瞬间或法术咒语时，CARDNAME向每位对手各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="7ccb284f-682a-4092-8139-182acb865a32" resname="CN2·163 | Hamletback Goliath | Card Name">
         <source>Hamletback Goliath</source>
@@ -1816,7 +1816,7 @@
       </trans-unit>
       <trans-unit id="7ccb284f-682a-4092-8139-182acb865a32" resname="CN2·163 | Hamletback Goliath | Card Text | Paragraph 1">
         <source>Whenever another creature enters the battlefield, you may put X +1/+1 counters on CARDNAME, where X is that creature's power.</source>
-        <target state="translated">每当另一个生物进战场时，你可以在驮村巨人上放置X个+1/+1指示物，X为该生物的力量。</target>
+        <target state="translated">每当另一个生物进战场时，你可以在CARDNAME上放置X个+1/+1指示物，X为该生物的力量。</target>
       </trans-unit>
       <trans-unit id="89a4094d-fbcf-42e6-87ef-c722efc4d371" resname="CN2·164 | Havengul Vampire | Card Name">
         <source>Havengul Vampire</source>
@@ -1824,11 +1824,11 @@
       </trans-unit>
       <trans-unit id="89a4094d-fbcf-42e6-87ef-c722efc4d371" resname="CN2·164 | Havengul Vampire | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, put a +1/+1 counter on it.</source>
-        <target state="translated">每当海温古吸血鬼对任一牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="89a4094d-fbcf-42e6-87ef-c722efc4d371" resname="CN2·164 | Havengul Vampire | Card Text | Paragraph 2">
         <source>Whenever another creature dies, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当另一个生物死去时，在海温古吸血鬼上放置一个+1/+1指示物。</target>
+        <target state="translated">每当另一个生物死去时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="0236a0a6-c1ed-4355-82a0-a513cf925382" resname="CN2·165 | Hurly-Burly | Card Name">
         <source>Hurly-Burly</source>
@@ -1840,11 +1840,11 @@
       </trans-unit>
       <trans-unit id="0236a0a6-c1ed-4355-82a0-a513cf925382" resname="CN2·165 | Hurly-Burly | Card Text | Paragraph 2">
         <source>• CARDNAME deals 1 damage to each creature without flying.</source>
-        <target state="translated">•骚动不断对每个不具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">•CARDNAME对每个不具飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="0236a0a6-c1ed-4355-82a0-a513cf925382" resname="CN2·165 | Hurly-Burly | Card Text | Paragraph 3">
         <source>• CARDNAME deals 1 damage to each creature with flying.</source>
-        <target state="translated">•骚动不断对每个具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">•CARDNAME对每个具飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="7590def9-1b7d-4dae-845b-d544752360eb" resname="CN2·166 | Ill-Tempered Cyclops | Card Name">
         <source>Ill-Tempered Cyclops</source>
@@ -1864,7 +1864,7 @@
       </trans-unit>
       <trans-unit id="3a58631c-9b3c-4b7e-9c6d-610fb37c2a62" resname="CN2·167 | Kiln Fiend | Card Text | Paragraph 1">
         <source>Whenever you cast an instant or sorcery spell, CARDNAME gets +3/+0 until end of turn.</source>
-        <target state="translated">每当你施放瞬间或法术咒语时，火炉邪鬼得+3/+0直到回合结束。</target>
+        <target state="translated">每当你施放瞬间或法术咒语时，CARDNAME得+3/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="bb6e7b24-9430-4ac9-bd62-1770b8749090" resname="CN2·168 | Ogre Sentry | Card Name">
         <source>Ogre Sentry</source>
@@ -1884,7 +1884,7 @@
       </trans-unit>
       <trans-unit id="257322dc-44f5-4a08-9550-f71769d3c96c" resname="CN2·169 | Stoneshock Giant | Card Text | Paragraph 2">
         <source>When CARDNAME becomes monstrous, creatures without flying your opponents control can't block this turn.</source>
-        <target state="translated">当撼岩巨人蛮化时，由对手操控且不具飞行异能的生物本回合不能进行阻挡。</target>
+        <target state="translated">当CARDNAME蛮化时，由对手操控且不具飞行异能的生物本回合不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="afd3c818-636f-4a94-935b-104d13f7c1ff" resname="CN2·170 | Sulfurous Blast | Card Name">
         <source>Sulfurous Blast</source>
@@ -1892,7 +1892,7 @@
       </trans-unit>
       <trans-unit id="afd3c818-636f-4a94-935b-104d13f7c1ff" resname="CN2·170 | Sulfurous Blast | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each creature and each player. If you cast this spell during your main phase, CARDNAME deals 3 damage to each creature and each player instead.</source>
-        <target state="translated">硫磺冲击波对每个生物和每位牌手各造成2点伤害。如果你在你的行动阶段施放此咒语，则改为硫磺冲击波对每个生物和每位牌手各造成3点伤害。</target>
+        <target state="translated">CARDNAME对每个生物和每位牌手各造成2点伤害。如果你在你的行动阶段施放此咒语，则改为CARDNAME对每个生物和每位牌手各造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="8550cac1-c02a-42f1-acd6-beb29dc97be8" resname="CN2·171 | Tormenting Voice | Card Name">
         <source>Tormenting Voice</source>
@@ -1900,7 +1900,7 @@
       </trans-unit>
       <trans-unit id="8550cac1-c02a-42f1-acd6-beb29dc97be8" resname="CN2·171 | Tormenting Voice | Card Text | Paragraph 1">
         <source>As an additional cost to cast CARDNAME, discard a card.</source>
-        <target state="translated">弃一张牌，以作为施放折磨幽声的额外费用。</target>
+        <target state="translated">弃一张牌，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="8550cac1-c02a-42f1-acd6-beb29dc97be8" resname="CN2·171 | Tormenting Voice | Card Text | Paragraph 2">
         <source>Draw two cards.</source>
@@ -1920,7 +1920,7 @@
       </trans-unit>
       <trans-unit id="61048f40-0e8c-44af-81a5-a34b6f1adea2" resname="CN2·173 | Twin Bolt | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage divided as you choose among one or two target creatures and/or players.</source>
-        <target state="translated">双矢击对一个或两个目标生物和／或牌手造成共2点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对一个或两个目标生物和／或牌手造成共2点伤害，你可以任意分配。</target>
       </trans-unit>
       <trans-unit id="a172f74b-fcd5-456c-8a95-505dbd05e899" resname="CN2·174 | Beast Within | Card Name">
         <source>Beast Within</source>
@@ -1936,7 +1936,7 @@
       </trans-unit>
       <trans-unit id="62bc9bff-89bd-4454-a876-53822cf48546" resname="CN2·175 | Berserk | Card Text | Paragraph 1">
         <source>Cast CARDNAME only before the combat damage step.</source>
-        <target state="translated">只能于战斗伤害步骤之前施放狂暴术。</target>
+        <target state="translated">只能于战斗伤害步骤之前施放CARDNAME。</target>
       </trans-unit>
       <trans-unit id="62bc9bff-89bd-4454-a876-53822cf48546" resname="CN2·175 | Berserk | Card Text | Paragraph 2">
         <source>Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.</source>
@@ -1976,7 +1976,7 @@
       </trans-unit>
       <trans-unit id="fd900b70-0957-4d81-ae25-dfa9343bd174" resname="CN2·179 | Copperhorn Scout | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, untap each other creature you control.</source>
-        <target state="translated">每当铜号斥候攻击时，重置由你操控的其他生物。</target>
+        <target state="translated">每当CARDNAME攻击时，重置由你操控的其他生物。</target>
       </trans-unit>
       <trans-unit id="f574a03a-c561-4eed-a053-564fcd0e8f6d" resname="CN2·180 | Explosive Vegetation | Card Name">
         <source>Explosive Vegetation</source>
@@ -2000,11 +2000,11 @@
       </trans-unit>
       <trans-unit id="5ecdea8d-52b6-41e4-a259-e30e8d278a53" resname="CN2·182 | Forgotten Ancient | Card Text | Paragraph 1">
         <source>Whenever a player casts a spell, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当任一牌手施放咒语时，你可以在遗世先人上放置一个+1/+1指示物。</target>
+        <target state="translated">每当任一牌手施放咒语时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="5ecdea8d-52b6-41e4-a259-e30e8d278a53" resname="CN2·182 | Forgotten Ancient | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, you may move any number of +1/+1 counters from CARDNAME onto other creatures.</source>
-        <target state="translated">在你的维持开始时，你可以将遗世先人上任意数量的+1/+1指示物移到其他生物上。</target>
+        <target state="translated">在你的维持开始时，你可以将CARDNAME上任意数量的+1/+1指示物移到其他生物上。</target>
       </trans-unit>
       <trans-unit id="7ebc9056-42f8-4804-a474-9ecddd8740ad" resname="CN2·183 | Irresistible Prey | Card Name">
         <source>Irresistible Prey</source>
@@ -2044,7 +2044,7 @@
       </trans-unit>
       <trans-unit id="439d3e7e-7c4f-4e1e-a95d-7ef44972d515" resname="CN2·186 | Manaplasm | Card Text | Paragraph 1">
         <source>Whenever you cast a spell, CARDNAME gets +X/+X until end of turn, where X is that spell's converted mana cost.</source>
-        <target state="translated">每当你施放咒语时，魔力流浆得+X/+X直到回合结束，X为该咒语的总法术力费用。</target>
+        <target state="translated">每当你施放咒语时，CARDNAME得+X/+X直到回合结束，X为该咒语的总法术力费用。</target>
       </trans-unit>
       <trans-unit id="bf6eae62-5a42-42e9-ba65-84500cdff95a" resname="CN2·187 | Nessian Asp | Card Name">
         <source>Nessian Asp</source>
@@ -2068,7 +2068,7 @@
       </trans-unit>
       <trans-unit id="68aed422-7373-4305-88e5-025ad86c3513" resname="CN2·188 | Netcaster Spider | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks a creature with flying, CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">每当撒网蜘蛛阻挡一个具飞行异能的生物时，撒网蜘蛛得+2/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME阻挡一个具飞行异能的生物时，CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="52653dc7-2eed-40ea-93b7-524d47badeb8" resname="CN2·189 | Overrun | Card Name">
         <source>Overrun</source>
@@ -2148,7 +2148,7 @@
       </trans-unit>
       <trans-unit id="04aa9d4f-37cc-4fc8-877a-6190f96eb509" resname="CN2·197 | Akroan Hoplite | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.</source>
-        <target state="translated">每当阿喀洛斯重装步兵攻击时，它得+X/+0直到回合结束，X为由你操控且进行攻击的生物数量。</target>
+        <target state="translated">每当CARDNAME攻击时，它得+X/+0直到回合结束，X为由你操控且进行攻击的生物数量。</target>
       </trans-unit>
       <trans-unit id="e90d9cc4-9444-4610-ace5-c2981809b331" resname="CN2·198 | Ascended Lawmage | Card Name">
         <source>Ascended Lawmage</source>
@@ -2172,7 +2172,7 @@
       </trans-unit>
       <trans-unit id="c7cedc73-7341-484a-83ed-a4919763b680" resname="CN2·199 | Carnage Gladiator | Card Text | Paragraph 2">
         <source>{1}{B}{R}: Regenerate CARDNAME.</source>
-        <target state="translated">{1}{B}{R}：重生屠戮角斗士。</target>
+        <target state="translated">{1}{B}{R}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="487ec3a9-416f-4370-a8e2-996b982dfc96" resname="CN2·200 | Coiling Oracle | Card Name">
         <source>Coiling Oracle</source>
@@ -2180,7 +2180,7 @@
       </trans-unit>
       <trans-unit id="487ec3a9-416f-4370-a8e2-996b982dfc96" resname="CN2·200 | Coiling Oracle | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.</source>
-        <target state="translated">当盘卷先知进战场时，展示你的牌库顶牌。若该牌是地牌，则将之放进战场。若否，则将该牌置于你手上。</target>
+        <target state="translated">当CARDNAME进战场时，展示你的牌库顶牌。若该牌是地牌，则将之放进战场。若否，则将该牌置于你手上。</target>
       </trans-unit>
       <trans-unit id="c5979a04-aea7-4f44-b826-348b9c187918" resname="CN2·201 | Dragonlair Spider | Card Name">
         <source>Dragonlair Spider</source>
@@ -2220,7 +2220,7 @@
       </trans-unit>
       <trans-unit id="95fcb083-a7fc-46ce-bd21-9f984438cbea" resname="CN2·204 | Juniper Order Ranger | Card Text | Paragraph 1">
         <source>Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当另一个生物在你的操控下进战场时，在该生物上放置一个+1/+1指示物，并在杜松教派护林人上放置一个+1/+1指示物。</target>
+        <target state="translated">每当另一个生物在你的操控下进战场时，在该生物上放置一个+1/+1指示物，并在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="5deaa491-d95b-481f-aa47-8e7219174cc5" resname="CN2·205 | Pharika's Mender | Card Name">
         <source>Pharika's Mender</source>
@@ -2228,7 +2228,7 @@
       </trans-unit>
       <trans-unit id="5deaa491-d95b-481f-aa47-8e7219174cc5" resname="CN2·205 | Pharika's Mender | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand.</source>
-        <target state="translated">当芳瑞卡的照护师进战场时，你可以将目标生物或结界牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标生物或结界牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="6e38de33-b2f1-40f4-bf3c-2ebc738cf8ad" resname="CN2·206 | Shipwreck Singer | Card Name">
         <source>Shipwreck Singer</source>
@@ -2256,7 +2256,7 @@
       </trans-unit>
       <trans-unit id="994f8a79-1df9-42e0-a0b0-c9eea47771e9" resname="CN2·207 | Stormchaser Chimera | Card Text | Paragraph 2">
         <source>{2}{U}{R}: Scry 1, then reveal the top card of your library. CARDNAME gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)</source>
-        <target state="translated">{2}{U}{R}：占卜1，然后展示你的牌库顶牌。逐岚盖美拉得+X/+0直到回合结束，X为该牌的总法术力费用。（占卜1的流程是检视你牌库顶的牌，然后你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">{2}{U}{R}：占卜1，然后展示你的牌库顶牌。CARDNAME得+X/+0直到回合结束，X为该牌的总法术力费用。（占卜1的流程是检视你牌库顶的牌，然后你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="a95f8df0-3490-47ad-b452-76fe60179242" resname="CN2·208 | Bronze Sable | Card Name">
         <source>Bronze Sable</source>
@@ -2324,7 +2324,7 @@
       </trans-unit>
       <trans-unit id="26719c8b-2783-4f97-a961-725b52091bb7" resname="CN2·215 | Psychosis Crawler | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of cards in your hand.</source>
-        <target state="translated">变态爬虫的力量和防御力各等同于你的手牌数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你的手牌数量。</target>
       </trans-unit>
       <trans-unit id="26719c8b-2783-4f97-a961-725b52091bb7" resname="CN2·215 | Psychosis Crawler | Card Text | Paragraph 2">
         <source>Whenever you draw a card, each opponent loses 1 life.</source>
@@ -2336,7 +2336,7 @@
       </trans-unit>
       <trans-unit id="12877ec4-00b6-420e-9996-9bcf3532b8f9" resname="CN2·216 | Runed Servitor | Card Text | Paragraph 1">
         <source>When CARDNAME dies, each player draws a card.</source>
-        <target state="translated">当符文随侍死去时，每位牌手各抓一张牌。</target>
+        <target state="translated">当CARDNAME死去时，每位牌手各抓一张牌。</target>
       </trans-unit>
       <trans-unit id="6e54bace-7484-484e-987e-8d3a9a430ab9" resname="CN2·217 | Dread Statuary | Card Name">
         <source>Dread Statuary</source>
@@ -2348,7 +2348,7 @@
       </trans-unit>
       <trans-unit id="6e54bace-7484-484e-987e-8d3a9a430ab9" resname="CN2·217 | Dread Statuary | Card Text | Paragraph 2">
         <source>{4}: CARDNAME becomes a 4/2 Golem artifact creature until end of turn. It's still a land.</source>
-        <target state="translated">{4}：可怖雕像成为4/2魔像神器生物直到回合结束。它仍然是地。</target>
+        <target state="translated">{4}：CARDNAME成为4/2魔像神器生物直到回合结束。它仍然是地。</target>
       </trans-unit>
       <trans-unit id="9f57ce48-6a2a-4033-aac0-dc0043fbd648" resname="CN2·218 | Evolving Wilds | Card Name">
         <source>Evolving Wilds</source>
@@ -2356,7 +2356,7 @@
       </trans-unit>
       <trans-unit id="9f57ce48-6a2a-4033-aac0-dc0043fbd648" resname="CN2·218 | Evolving Wilds | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</source>
-        <target state="translated">{T}，牺牲成形野地：从你的牌库中搜寻一张基本地牌，并将之横置放进战场。然后将你的牌库洗牌。</target>
+        <target state="translated">{T}，牺牲CARDNAME：从你的牌库中搜寻一张基本地牌，并将之横置放进战场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="f9083583-6fa9-4b8a-86bb-59e51ad06b33" resname="CN2·219 | Exotic Orchard | Card Name">
         <source>Exotic Orchard</source>
@@ -2396,7 +2396,7 @@
       </trans-unit>
       <trans-unit id="be3007b3-0c5a-4cc3-992f-d2ae2fadfbc6" resname="CN2·222 | Kaya, Ghost Assassin | Card Text | Paragraph 1">
         <source>0: Exile CARDNAME or up to one target creature. Return that card to the battlefield under its owner's control at the beginning of your next upkeep. You lose 2 life.</source>
-        <target state="translated">0：放逐驱鬼卡娅或至多一个目标生物。在你的下一个维持开始时，将该牌在其拥有者的操控下移回战场。你失去2点生命。</target>
+        <target state="translated">0：放逐CARDNAME或至多一个目标生物。在你的下一个维持开始时，将该牌在其拥有者的操控下移回战场。你失去2点生命。</target>
       </trans-unit>
       <trans-unit id="be3007b3-0c5a-4cc3-992f-d2ae2fadfbc6" resname="CN2·222 | Kaya, Ghost Assassin | Card Text | Paragraph 2">
         <source>−1: Each opponent loses 2 life and you gain 2 life.</source>

@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="36c8c075-9597-412e-9fc4-9d73b4405d12" resname="THB·1 | Alseid of Life's Bounty | Card Text | Paragraph 2">
         <source>{1}, Sacrifice CARDNAME: Target creature or enchantment you control gains protection from the color of your choice until end of turn.</source>
-        <target state="translated">{1}，牺牲丰穰蔻灵：选择一种颜色。目标由你操控的生物或结界获得反该色保护异能直到回合结束。</target>
+        <target state="translated">{1}，牺牲CARDNAME：选择一种颜色。目标由你操控的生物或结界获得反该色保护异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="d0dd1e40-a514-42df-8cc1-364998c7700c" resname="THB·2 | Archon of Falling Stars | Card Name">
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="d0dd1e40-a514-42df-8cc1-364998c7700c" resname="THB·2 | Archon of Falling Stars | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you may return target enchantment card from your graveyard to the battlefield.</source>
-        <target state="translated">当星落统领死去时，你可以将目标结界牌从你的坟墓场移回战场。</target>
+        <target state="translated">当CARDNAME死去时，你可以将目标结界牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="235e5999-e8e5-4093-adff-9d47aec70d10" resname="THB·3 | Archon of Sun's Grace | Card Name">
         <source>Archon of Sun's Grace</source>
@@ -205,7 +205,7 @@
       </trans-unit>
       <trans-unit id="f09e7aff-d873-4420-b0d5-1c63d686dd73" resname="THB·15 | Favored of Iroas | Card Text | Paragraph 1">
         <source>Constellation — Whenever an enchantment enters the battlefield under your control, CARDNAME gains double strike until end of turn.</source>
-        <target state="translated">星彩～每当一个结界在你的操控下进战场时，伊洛安斯恩眷兵获得连击异能直到回合结束。</target>
+        <target state="translated">星彩～每当一个结界在你的操控下进战场时，CARDNAME获得连击异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="59e19bac-176c-4e37-bfc8-27c00de7c37f" resname="THB·16 | Flicker of Fate | Card Name">
@@ -279,11 +279,11 @@
       </trans-unit>
       <trans-unit id="3b8e6878-06aa-4505-b3a5-172083b7d258" resname="THB·21 | Heliod's Punishment | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with four task counters on it.</source>
-        <target state="translated">赫利欧德的惩罚进战场时上面有四个作业指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有四个作业指示物。</target>
       </trans-unit>
       <trans-unit id="3b8e6878-06aa-4505-b3a5-172083b7d258" resname="THB·21 | Heliod's Punishment | Card Text | Paragraph 3">
         <source>Enchanted creature can't attack or block. It loses all abilities and has &amp;quot;{T}: Remove a task counter from CARDNAME. Then if it has no task counters on it, destroy CARDNAME.&amp;quot;</source>
-        <target state="translated">所结附的生物不能进行攻击或阻挡。它失去所有异能且具有「{T}：从赫利欧德的惩罚上移去一个作业指示物。然后如果其上没有作业指示物，则消灭赫利欧德的惩罚。」</target>
+        <target state="translated">所结附的生物不能进行攻击或阻挡。它失去所有异能且具有「{T}：从CARDNAME上移去一个作业指示物。然后如果其上没有作业指示物，则消灭CARDNAME。」</target>
       </trans-unit>
       <trans-unit id="81b56863-a52a-4559-a662-f6d9145d5804" resname="THB·22 | Hero of the Pride | Card Name">
         <source>Hero of the Pride</source>
@@ -291,7 +291,7 @@
       </trans-unit>
       <trans-unit id="81b56863-a52a-4559-a662-f6d9145d5804" resname="THB·22 | Hero of the Pride | Card Text | Paragraph 1">
         <source>Whenever you cast a spell that targets CARDNAME, creatures you control get +1/+0 until end of turn.</source>
-        <target state="translated">每当你施放以狮族勇士为目标的咒语时，由你操控的生物得+1/+0直到回合结束。</target>
+        <target state="translated">每当你施放以CARDNAME为目标的咒语时，由你操控的生物得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7da95097-dbe7-416a-8571-6ab6d88a531a" resname="THB·23 | Hero of the Winds | Card Name">
         <source>Hero of the Winds</source>
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="7da95097-dbe7-416a-8571-6ab6d88a531a" resname="THB·23 | Hero of the Winds | Card Text | Paragraph 2">
         <source>Whenever you cast a spell that targets CARDNAME, creatures you control get +1/+0 until end of turn.</source>
-        <target state="translated">每当你施放以风袭勇士为目标的咒语时，由你操控的生物得+1/+0直到回合结束。</target>
+        <target state="translated">每当你施放以CARDNAME为目标的咒语时，由你操控的生物得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="88c8e4dc-5378-48d6-85b2-f5ea9ec7cf36" resname="THB·26 | Karametra's Blessing | Card Name">
         <source>Karametra's Blessing</source>
@@ -319,7 +319,7 @@
       </trans-unit>
       <trans-unit id="c3a87498-2c2c-411a-aa71-d594b2c6cb26" resname="THB·27 | Lagonna-Band Storyteller | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may put target enchantment card from your graveyard on top of your library. If you do, you gain life equal to its mana value.</source>
-        <target state="translated">当拉苟那族说书人进战场时，你可以将目标结界牌从你的坟墓场置于你的牌库顶。若你如此作，则你获得等同于其总法术力费用的生命。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标结界牌从你的坟墓场置于你的牌库顶。若你如此作，则你获得等同于其总法术力费用的生命。</target>
       </trans-unit>
       <trans-unit id="e1be3729-7970-45df-8c26-4fe09e56629d" resname="THB·28 | Leonin of the Lost Pride | Card Name">
         <source>Leonin of the Lost Pride</source>
@@ -327,7 +327,7 @@
       </trans-unit>
       <trans-unit id="e1be3729-7970-45df-8c26-4fe09e56629d" resname="THB·28 | Leonin of the Lost Pride | Card Text | Paragraph 1">
         <source>When CARDNAME dies, exile target card from an opponent's graveyard.</source>
-        <target state="translated">当逝群狮族死去时，将目标牌从对手的坟墓场放逐。</target>
+        <target state="translated">当CARDNAME死去时，将目标牌从对手的坟墓场放逐。</target>
       </trans-unit>
       <trans-unit id="0fd32240-c003-4e18-adf1-e2e992c702b1" resname="THB·29 | Nyxborn Courser | Card Name">
         <source>Nyxborn Courser</source>
@@ -343,11 +343,11 @@
       </trans-unit>
       <trans-unit id="86586fe3-1a6e-4648-b3ff-b0d9340e66ff" resname="THB·30 | Omen of the Sun | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create two 1/1 white Human Soldier creature tokens and you gain 2 life.</source>
-        <target state="translated">当太阳神的预兆进战场时，派出两个1/1白色人类／士兵衍生生物且你获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，派出两个1/1白色人类／士兵衍生生物且你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="86586fe3-1a6e-4648-b3ff-b0d9340e66ff" resname="THB·30 | Omen of the Sun | Card Text | Paragraph 3">
         <source>{2}{W}, Sacrifice CARDNAME: Scry 2.</source>
-        <target state="translated">{2}{W}，牺牲太阳神的预兆：占卜2。</target>
+        <target state="translated">{2}{W}，牺牲CARDNAME：占卜2。</target>
       </trans-unit>
       <trans-unit id="5f114a10-0b00-4f3a-bd73-d4c791fbf4d5" resname="THB·31 | Phalanx Tactics | Card Name">
         <source>Phalanx Tactics</source>
@@ -375,7 +375,7 @@
       </trans-unit>
       <trans-unit id="54153b9c-483e-4e5c-a1ab-b1c8a7a657d4" resname="THB·33 | Reverent Hoplite | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a number of 1/1 white Human Soldier creature tokens equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</source>
-        <target state="translated">当虔诚重装步兵进战场时，派出若干1/1白色人类／士兵衍生生物，其数量等同于你的白色献力。（由你操控之永久物的法术力费用当中每含有一个{W}，你的白色献力就加一。）</target>
+        <target state="translated">当CARDNAME进战场时，派出若干1/1白色人类／士兵衍生生物，其数量等同于你的白色献力。（由你操控之永久物的法术力费用当中每含有一个{W}，你的白色献力就加一。）</target>
       </trans-unit>
       <trans-unit id="4f93f3c9-b317-40c1-87f5-0038c09b646d" resname="THB·35 | Rumbling Sentry | Card Name">
         <source>Rumbling Sentry</source>
@@ -383,7 +383,7 @@
       </trans-unit>
       <trans-unit id="4f93f3c9-b317-40c1-87f5-0038c09b646d" resname="THB·35 | Rumbling Sentry | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, scry 1.</source>
-        <target state="translated">当隆响哨兵进战场时，占卜1。</target>
+        <target state="translated">当CARDNAME进战场时，占卜1。</target>
       </trans-unit>
       <trans-unit id="32adc118-b81e-48c2-b7ef-b62e8c3308d6" resname="THB·36 | Sentinel's Eyes | Card Name">
         <source>Sentinel's Eyes</source>
@@ -419,7 +419,7 @@
       </trans-unit>
       <trans-unit id="52e28f5a-55ee-4fcc-bc16-e59944592fcd" resname="THB·38 | Sunmane Pegasus | Card Text | Paragraph 2">
         <source>{1}{W}: CARDNAME gains vigilance and lifelink until end of turn.</source>
-        <target state="translated">{1}{W}：阳鬃飞马获得警戒与系命异能直到回合结束。</target>
+        <target state="translated">{1}{W}：CARDNAME获得警戒与系命异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a8edd707-5ba3-4978-9a0b-efd0cda367c1" resname="THB·39 | Taranika, Akroan Veteran | Card Name">
         <source>Taranika, Akroan Veteran</source>
@@ -433,7 +433,7 @@
       </trans-unit>
       <trans-unit id="a8edd707-5ba3-4978-9a0b-efd0cda367c1" resname="THB·39 | Taranika, Akroan Veteran | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, untap another target creature you control. Until end of turn, that creature has base power and toughness 4/4 and gains indestructible.</source>
-        <target state="translated">每当阿喀洛斯老兵塔若妮卡攻击时，重置另一个目标由你操控的生物。直到回合结束，该生物的基础力量与防御力为4/4且获得不灭异能。</target>
+        <target state="translated">每当CARDNAME攻击时，重置另一个目标由你操控的生物。直到回合结束，该生物的基础力量与防御力为4/4且获得不灭异能。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="a9241289-28d2-4827-970e-81bdecbb5c16" resname="THB·40 | Transcendent Envoy | Card Name">
@@ -465,7 +465,7 @@
       </trans-unit>
       <trans-unit id="26f9ebbe-3791-4d19-88d2-d5de95faff48" resname="THB·42 | Alirios, Enraptured | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">映影痴阿里流士须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="26f9ebbe-3791-4d19-88d2-d5de95faff48" resname="THB·42 | Alirios, Enraptured | Card Text | Paragraph 2">
         <source>Alirios doesn't untap during your untap step if you control a Reflection.</source>
@@ -485,7 +485,7 @@
       </trans-unit>
       <trans-unit id="d568c679-8421-4184-a73c-b18c4164fea5" resname="THB·43 | Ashiok's Erasure | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile target spell.</source>
-        <target state="translated">当安梭苛的抹消进战场时，放逐目标咒语。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标咒语。</target>
       </trans-unit>
       <trans-unit id="d568c679-8421-4184-a73c-b18c4164fea5" resname="THB·43 | Ashiok's Erasure | Card Text | Paragraph 3">
         <source>Your opponents can't cast spells with the same name as the exiled card.</source>
@@ -493,7 +493,7 @@
       </trans-unit>
       <trans-unit id="d568c679-8421-4184-a73c-b18c4164fea5" resname="THB·43 | Ashiok's Erasure | Card Text | Paragraph 4">
         <source>When CARDNAME leaves the battlefield, return the exiled card to its owner's hand.</source>
-        <target state="translated">当安梭苛的抹消离开战场时，将所放逐的牌移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="6811a9dc-e521-4c9e-accb-1efb8346c1db" resname="THB·44 | Brine Giant | Card Name">
         <source>Brine Giant</source>
@@ -537,7 +537,7 @@
       </trans-unit>
       <trans-unit id="d2897635-b387-485d-932f-5655244a381f" resname="THB·48 | Eidolon of Philosophy | Card Text | Paragraph 1">
         <source>{6}{U}, Sacrifice CARDNAME: Draw three cards.</source>
-        <target state="translated">{6}{U}，牺牲哲理幻灵：抓三张牌。</target>
+        <target state="translated">{6}{U}，牺牲CARDNAME：抓三张牌。</target>
       </trans-unit>
       <trans-unit id="821cd2dd-aa03-4c55-b9e4-98e0284889d3" resname="THB·49 | Elite Instructor | Card Name">
         <source>Elite Instructor</source>
@@ -546,7 +546,7 @@
       </trans-unit>
       <trans-unit id="821cd2dd-aa03-4c55-b9e4-98e0284889d3" resname="THB·49 | Elite Instructor | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card, then discard a card.</source>
-        <target state="translated">当精英讲师进战场时，抓一张牌，然后弃一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌，然后弃一张牌。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="c1e9c025-1cdb-4da8-8d28-14ad5efb512d" resname="THB·50 | Glimpse of Freedom | Card Name">
@@ -632,7 +632,7 @@
       </trans-unit>
       <trans-unit id="7817e039-e509-4b6f-b5a3-deb3769bbdc8" resname="THB·55 | Nadir Kraken | Card Text | Paragraph 1">
         <source>Whenever you draw a card, you may pay {1}. If you do, put a +1/+1 counter on CARDNAME and create a 1/1 blue Tentacle creature token.</source>
-        <target state="translated">每当你抓一张牌时，你可以支付{1}。若你如此作，则在天底巨海兽上放置一个+1/+1指示物并派出一个1/1蓝色触手衍生生物。</target>
+        <target state="translated">每当你抓一张牌时，你可以支付{1}。若你如此作，则在CARDNAME上放置一个+1/+1指示物并派出一个1/1蓝色触手衍生生物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="dc6ae489-658b-4c12-b204-f7b58ce84375" resname="THB·56 | Naiad of Hidden Coves | Card Name">
@@ -657,11 +657,11 @@
       </trans-unit>
       <trans-unit id="a5f30ecd-d009-4d44-aef4-c926ed55a521" resname="THB·58 | Omen of the Sea | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, scry 2, then draw a card.</source>
-        <target state="translated">当海神的预兆进战场时，占卜2，然后抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，占卜2，然后抓一张牌。</target>
       </trans-unit>
       <trans-unit id="a5f30ecd-d009-4d44-aef4-c926ed55a521" resname="THB·58 | Omen of the Sea | Card Text | Paragraph 3">
         <source>{2}{U}, Sacrifice CARDNAME: Scry 2.</source>
-        <target state="translated">{2}{U}，牺牲海神的预兆：占卜2。</target>
+        <target state="translated">{2}{U}，牺牲CARDNAME：占卜2。</target>
       </trans-unit>
       <trans-unit id="98b7070d-4b09-4390-aa21-1bc0aa2b629c" resname="THB·59 | One with the Stars | Card Name">
         <source>One with the Stars</source>
@@ -681,7 +681,7 @@
       </trans-unit>
       <trans-unit id="749bfd81-c61b-4901-8efb-72611fd08244" resname="THB·60 | Protean Thaumaturge | Card Text | Paragraph 1">
         <source>Constellation — Whenever an enchantment enters the battlefield under your control, you may have CARDNAME become a copy of another target creature, except it has this ability.</source>
-        <target state="translated">星彩～每当一个结界在你的操控下进战场时，你可以令变幻奇术师成为另一个目标生物的复制品，但它具有此异能。</target>
+        <target state="translated">星彩～每当一个结界在你的操控下进战场时，你可以令CARDNAME成为另一个目标生物的复制品，但它具有此异能。</target>
       </trans-unit>
       <trans-unit id="cc4ba296-950c-4e39-ab5e-06be07e4a190" resname="THB·61 | Riptide Turtle | Card Name">
         <source>Riptide Turtle</source>
@@ -757,7 +757,7 @@
       </trans-unit>
       <trans-unit id="68c53625-6928-494a-af87-7eee2f6643a5" resname="THB·67 | Starlit Mantle | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, enchanted creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)</source>
-        <target state="translated">当繁星斗篷进战场时，所结附的生物获得辟邪异能直到回合结束。（它不能成为由对手操控之咒语或异能的目标。）</target>
+        <target state="translated">当CARDNAME进战场时，所结附的生物获得辟邪异能直到回合结束。（它不能成为由对手操控之咒语或异能的目标。）</target>
       </trans-unit>
       <trans-unit id="68c53625-6928-494a-af87-7eee2f6643a5" resname="THB·67 | Starlit Mantle | Card Text | Paragraph 4">
         <source>Enchanted creature gets +1/+1.</source>
@@ -835,7 +835,7 @@
       </trans-unit>
       <trans-unit id="726e8b29-13e9-4138-b6a9-d2a0d8188d1c" resname="THB·73 | Thassa's Oracle | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)</source>
-        <target state="translated">当塔萨的先知进战场时，检视你牌库顶的X张牌，X为你的蓝色献力。将其中至多一张置于你的牌库顶，其余的牌则以随机顺序置于你的牌库底。若X等于或大于你牌库中牌的数量，则你赢得这盘游戏。（由你操控之永久物的法术力费用当中每含有一个{U}，你的蓝色献力就加一。）</target>
+        <target state="translated">当CARDNAME进战场时，检视你牌库顶的X张牌，X为你的蓝色献力。将其中至多一张置于你的牌库顶，其余的牌则以随机顺序置于你的牌库底。若X等于或大于你牌库中牌的数量，则你赢得这盘游戏。（由你操控之永久物的法术力费用当中每含有一个{U}，你的蓝色献力就加一。）</target>
       </trans-unit>
       <trans-unit id="2422973d-36ee-4b8c-9a47-fcd160aa9f63" resname="THB·74 | Thirst for Meaning | Card Name">
         <source>Thirst for Meaning</source>
@@ -859,7 +859,7 @@
       </trans-unit>
       <trans-unit id="242cdffb-5037-4d49-b194-4b60274a8758" resname="THB·75 | Threnody Singer | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, target creature an opponent controls gets -X/-0 until end of turn, where X is your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)</source>
-        <target state="translated">当悼挽塞连进战场时，目标由对手操控的生物得-X/-0直到回合结束，X为你的蓝色献力。（由你操控之永久物的法术力费用当中每含有一个{U}，你的蓝色献力就加一。）</target>
+        <target state="translated">当CARDNAME进战场时，目标由对手操控的生物得-X/-0直到回合结束，X为你的蓝色献力。（由你操控之永久物的法术力费用当中每含有一个{U}，你的蓝色献力就加一。）</target>
       </trans-unit>
       <trans-unit id="4238b089-c6d8-4e4b-b6a1-a0f89e3b4968" resname="THB·76 | Thryx, the Sudden Storm | Card Name">
         <source>Thryx, the Sudden Storm</source>
@@ -887,7 +887,7 @@
       </trans-unit>
       <trans-unit id="8c2b4ffc-b1e1-4b16-9a51-1a12f8256a27" resname="THB·77 | Towering-Wave Mystic | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage, target player mills that many cards.</source>
-        <target state="translated">每当扬啸秘教徒造成伤害时，目标牌手将其牌库顶等量的牌置入其坟墓场。</target>
+        <target state="translated">每当CARDNAME造成伤害时，目标牌手将其牌库顶等量的牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="b8cb11d7-feae-4511-9a03-bda23119b6a5" resname="THB·78 | Triton Waverider | Card Name">
         <source>Triton Waverider</source>
@@ -895,7 +895,7 @@
       </trans-unit>
       <trans-unit id="b8cb11d7-feae-4511-9a03-bda23119b6a5" resname="THB·78 | Triton Waverider | Card Text | Paragraph 1">
         <source>Constellation — Whenever an enchantment enters the battlefield under your control, CARDNAME gains flying until end of turn.</source>
-        <target state="translated">星彩～每当一个结界在你的操控下进战场时，驭浪屈东获得飞行异能直到回合结束。</target>
+        <target state="translated">星彩～每当一个结界在你的操控下进战场时，CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="869fee23-df75-448d-9fca-6ba6713d459f" resname="THB·79 | Vexing Gull | Card Name">
         <source>Vexing Gull</source>
@@ -973,7 +973,7 @@
       </trans-unit>
       <trans-unit id="27157f01-8aed-4485-9f0f-9e7486492e6e" resname="THB·85 | Aspect of Lamprey | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target opponent discards two cards.</source>
-        <target state="translated">当鳃鳗形体进战场时，目标对手弃两张牌。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手弃两张牌。</target>
       </trans-unit>
       <trans-unit id="27157f01-8aed-4485-9f0f-9e7486492e6e" resname="THB·85 | Aspect of Lamprey | Card Text | Paragraph 3">
         <source>Enchanted creature has lifelink.</source>
@@ -985,7 +985,7 @@
       </trans-unit>
       <trans-unit id="7865c079-1d91-48d4-852d-d104b6e0c157" resname="THB·86 | Blight-Breath Catoblepas | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)</source>
-        <target state="translated">当荒息牛身妖瞳进战场时，目标由对手操控的生物得-X/-X直到回合结束，X为你的黑色献力。（由你操控之永久物的法术力费用当中每含有一个{B}，你的黑色献力就加一。）</target>
+        <target state="translated">当CARDNAME进战场时，目标由对手操控的生物得-X/-X直到回合结束，X为你的黑色献力。（由你操控之永久物的法术力费用当中每含有一个{B}，你的黑色献力就加一。）</target>
       </trans-unit>
       <trans-unit id="52c2de5f-e486-4cfe-9fb6-be0078ce5f93" resname="THB·87 | Cling to Dust | Card Name">
         <source>Cling to Dust</source>
@@ -1005,7 +1005,7 @@
       </trans-unit>
       <trans-unit id="a8cce294-f6ee-4b18-8b65-7d01d0317b00" resname="THB·88 | Discordant Piper | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a 0/1 white Goat creature token.</source>
-        <target state="translated">当走调吹笛手死去时，派出一个0/1白色山羊衍生生物。</target>
+        <target state="translated">当CARDNAME死去时，派出一个0/1白色山羊衍生生物。</target>
       </trans-unit>
       <trans-unit id="91852444-9361-4588-a44f-fb90ba1b30e5" resname="THB·89 | Drag to the Underworld | Card Name">
         <source>Drag to the Underworld</source>
@@ -1057,7 +1057,7 @@
       </trans-unit>
       <trans-unit id="28bf15e0-f61b-43b9-9113-39bd341a0163" resname="THB·92 | Enemy of Enlightenment | Card Text | Paragraph 2">
         <source>CARDNAME gets -1/-1 for each card in your opponents' hands.</source>
-        <target state="translated">所有对手每有一张手牌，启蒙天敌便得-1/-1。</target>
+        <target state="translated">所有对手每有一张手牌，CARDNAME便得-1/-1。</target>
       </trans-unit>
       <trans-unit id="28bf15e0-f61b-43b9-9113-39bd341a0163" resname="THB·92 | Enemy of Enlightenment | Card Text | Paragraph 3">
         <source>At the beginning of your upkeep, each player discards a card.</source>
@@ -1137,7 +1137,7 @@
       </trans-unit>
       <trans-unit id="408a2073-d068-44bc-b596-5a3a3a446ee1" resname="THB·98 | Gravebreaker Lamia | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, search your library for a card, put it into your graveyard, then shuffle.</source>
-        <target state="translated">当破坟拉弥亚进战场时，从你的牌库中搜寻一张牌，将它置入你的坟墓场，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，从你的牌库中搜寻一张牌，将它置入你的坟墓场，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="408a2073-d068-44bc-b596-5a3a3a446ee1" resname="THB·98 | Gravebreaker Lamia | Card Text | Paragraph 3">
         <source>Spells you cast from your graveyard cost {1} less to cast.</source>
@@ -1149,7 +1149,7 @@
       </trans-unit>
       <trans-unit id="b7e92c82-840f-4c75-b617-7b58a07be5b4" resname="THB·100 | Grim Physician | Card Text | Paragraph 1">
         <source>When CARDNAME dies, target creature an opponent controls gets -1/-1 until end of turn.</source>
-        <target state="translated">当冷酷医师死去时，目标由对手操控的生物得-1/-1直到回合结束。</target>
+        <target state="translated">当CARDNAME死去时，目标由对手操控的生物得-1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="812d0f15-f738-4644-9d29-2589d7e66915" resname="THB·101 | Hateful Eidolon | Card Name">
         <source>Hateful Eidolon</source>
@@ -1211,7 +1211,7 @@
       </trans-unit>
       <trans-unit id="3f8427d3-4d9e-48c9-838b-239fd1357d95" resname="THB·105 | Mire Triton | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, mill two cards and you gain 2 life.</source>
-        <target state="translated">当泥沼屈东进战场时，磨两张牌且你获得2点生命。（磨一张牌的流程是将你牌库顶的牌置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，磨两张牌且你获得2点生命。（磨一张牌的流程是将你牌库顶的牌置入你的坟墓场。）</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="0ae0c536-612d-4916-a8da-5aaaf14218b1" resname="THB·106 | Mire's Grasp | Card Name">
@@ -1268,11 +1268,11 @@
       </trans-unit>
       <trans-unit id="8023fc44-fb8e-420d-a68c-b45912c4e5bd" resname="THB·110 | Omen of the Dead | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return target creature card from your graveyard to your hand.</source>
-        <target state="translated">当死神的预兆进战场时，将目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="8023fc44-fb8e-420d-a68c-b45912c4e5bd" resname="THB·110 | Omen of the Dead | Card Text | Paragraph 3">
         <source>{2}{B}, Sacrifice CARDNAME: Scry 2.</source>
-        <target state="translated">{2}{B}，牺牲死神的预兆：占卜2。</target>
+        <target state="translated">{2}{B}，牺牲CARDNAME：占卜2。</target>
       </trans-unit>
       <trans-unit id="0307bb5c-0a46-4f6b-b6d5-58cf31987bb5" resname="THB·111 | Pharika's Libation | Card Name">
         <source>Pharika's Libation</source>
@@ -1300,7 +1300,7 @@
       </trans-unit>
       <trans-unit id="a2c8244b-7d86-4dff-9419-3945beb2a7b7" resname="THB·112 | Pharika's Spawn | Card Text | Paragraph 2">
         <source>CARDNAME escapes with two +1/+1 counters on it. When it enters the battlefield this way, each opponent sacrifices a non-Gorgon creature.</source>
-        <target state="translated">芳瑞卡的后裔逸脱时上面有两个+1/+1指示物。当它以此法进战场时，每位对手各牺牲一个非蛇发妖的生物。</target>
+        <target state="translated">CARDNAME逸脱时上面有两个+1/+1指示物。当它以此法进战场时，每位对手各牺牲一个非蛇发妖的生物。</target>
       </trans-unit>
       <trans-unit id="1f76d7c4-a5d6-4144-b5f3-e43b96b695b7" resname="THB·113 | Rage-Scarred Berserker | Card Name">
         <source>Rage-Scarred Berserker</source>
@@ -1308,7 +1308,7 @@
       </trans-unit>
       <trans-unit id="1f76d7c4-a5d6-4144-b5f3-e43b96b695b7" resname="THB·113 | Rage-Scarred Berserker | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say &amp;quot;destroy&amp;quot; don't destroy it.)</source>
-        <target state="translated">当怒痕狂战士进战场时，直到回合结束，目标由你操控的生物得+1/+0且获得不灭异能。（伤害与注明「消灭」的效应不会将它消灭。）</target>
+        <target state="translated">当CARDNAME进战场时，直到回合结束，目标由你操控的生物得+1/+0且获得不灭异能。（伤害与注明「消灭」的效应不会将它消灭。）</target>
       </trans-unit>
       <trans-unit id="b0e237c5-45b4-49df-adb9-62b9f3b62986" resname="THB·114 | Scavenging Harpy | Card Name">
         <source>Scavenging Harpy</source>
@@ -1320,7 +1320,7 @@
       </trans-unit>
       <trans-unit id="b0e237c5-45b4-49df-adb9-62b9f3b62986" resname="THB·114 | Scavenging Harpy | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile target card from an opponent's graveyard.</source>
-        <target state="translated">当拾荒哈痞进战场时，将目标牌从对手的坟墓场放逐。</target>
+        <target state="translated">当CARDNAME进战场时，将目标牌从对手的坟墓场放逐。</target>
       </trans-unit>
       <trans-unit id="55e2f383-d2a0-4424-bf7a-79e82d6f691f" resname="THB·115 | Soulreaper of Mogis | Card Name">
         <source>Soulreaper of Mogis</source>
@@ -1336,7 +1336,7 @@
       </trans-unit>
       <trans-unit id="fc4a61aa-75d2-46bc-b13f-b863f5f49d32" resname="THB·116 | Temple Thief | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by enchanted creatures or enchantment creatures.</source>
-        <target state="translated">殿堂窃贼不能被结界生物或受有灵气的生物阻挡。</target>
+        <target state="translated">CARDNAME不能被结界生物或受有灵气的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="35b3ad6b-9966-489f-a4c9-2639a634fd62" resname="THB·117 | Treacherous Blessing | Card Name">
         <source>Treacherous Blessing</source>
@@ -1344,7 +1344,7 @@
       </trans-unit>
       <trans-unit id="35b3ad6b-9966-489f-a4c9-2639a634fd62" resname="THB·117 | Treacherous Blessing | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw three cards.</source>
-        <target state="translated">当变节祝福进战场时，抓三张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓三张牌。</target>
       </trans-unit>
       <trans-unit id="35b3ad6b-9966-489f-a4c9-2639a634fd62" resname="THB·117 | Treacherous Blessing | Card Text | Paragraph 2">
         <source>Whenever you cast a spell, you lose 1 life.</source>
@@ -1352,7 +1352,7 @@
       </trans-unit>
       <trans-unit id="35b3ad6b-9966-489f-a4c9-2639a634fd62" resname="THB·117 | Treacherous Blessing | Card Text | Paragraph 3">
         <source>When CARDNAME becomes the target of a spell or ability, sacrifice it.</source>
-        <target state="translated">当变节祝福成为咒语或异能的目标时，将它牺牲。</target>
+        <target state="translated">当CARDNAME成为咒语或异能的目标时，将它牺牲。</target>
       </trans-unit>
       <trans-unit id="68c0d087-540a-4249-9265-f13cc8e776ea" resname="THB·118 | Tymaret Calls the Dead | Card Name">
         <source>Tymaret Calls the Dead</source>
@@ -1391,7 +1391,7 @@
       </trans-unit>
       <trans-unit id="f2dd847f-0db2-4f6a-bdfb-5c88ce7802f9" resname="THB·120 | Underworld Charger | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">冥界战马不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="f2dd847f-0db2-4f6a-bdfb-5c88ce7802f9" resname="THB·120 | Underworld Charger | Card Text | Paragraph 2">
         <source>Escape—{4}{B}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</source>
@@ -1399,7 +1399,7 @@
       </trans-unit>
       <trans-unit id="f2dd847f-0db2-4f6a-bdfb-5c88ce7802f9" resname="THB·120 | Underworld Charger | Card Text | Paragraph 3">
         <source>CARDNAME escapes with two +1/+1 counters on it.</source>
-        <target state="translated">冥界战马逸脱时上面有两个+1/+1指示物。</target>
+        <target state="translated">CARDNAME逸脱时上面有两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="9dc2b661-2f42-419d-837f-bbf097c1153c" resname="THB·122 | Venomous Hierophant | Card Name">
         <source>Venomous Hierophant</source>
@@ -1411,7 +1411,7 @@
       </trans-unit>
       <trans-unit id="9dc2b661-2f42-419d-837f-bbf097c1153c" resname="THB·122 | Venomous Hierophant | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, mill three cards.</source>
-        <target state="translated">当剧毒法皇进战场时，将你牌库顶的三张牌置入你的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，将你牌库顶的三张牌置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="3457b558-b35b-49fd-b499-b1ec755f86ce" resname="THB·123 | Woe Strider | Card Name">
         <source>Woe Strider</source>
@@ -1420,7 +1420,7 @@
       </trans-unit>
       <trans-unit id="3457b558-b35b-49fd-b499-b1ec755f86ce" resname="THB·123 | Woe Strider | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 0/1 white Goat creature token.</source>
-        <target state="translated">当悲哀神行客进战场时，派出一个0/1白色山羊衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个0/1白色山羊衍生生物。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="3457b558-b35b-49fd-b499-b1ec755f86ce" resname="THB·123 | Woe Strider | Card Text | Paragraph 2">
@@ -1435,7 +1435,7 @@
       </trans-unit>
       <trans-unit id="3457b558-b35b-49fd-b499-b1ec755f86ce" resname="THB·123 | Woe Strider | Card Text | Paragraph 4">
         <source>CARDNAME escapes with two +1/+1 counters on it.</source>
-        <target state="translated">悲哀神行客逸脱时上面有两个+1/+1指示物。</target>
+        <target state="translated">CARDNAME逸脱时上面有两个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="28ea046b-1bbc-4430-a859-321602c9e928" resname="THB·124 | The Akroan War | Card Name">
@@ -1450,7 +1450,7 @@
       </trans-unit>
       <trans-unit id="28ea046b-1bbc-4430-a859-321602c9e928" resname="THB·124 | The Akroan War | Card Text | Paragraph 2">
         <source>I — Gain control of target creature for as long as CARDNAME remains on the battlefield.</source>
-        <target state="translated">I — 于阿喀洛斯战记仍在战场上时段内，获得目标生物的操控权。</target>
+        <target state="translated">I — 于CARDNAME仍在战场上时段内，获得目标生物的操控权。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="28ea046b-1bbc-4430-a859-321602c9e928" resname="THB·124 | The Akroan War | Card Text | Paragraph 3">
@@ -1484,7 +1484,7 @@
       </trans-unit>
       <trans-unit id="e096049d-9f02-4abb-bb5a-97b14fd17099" resname="THB·126 | Arena Trickster | Card Text | Paragraph 1">
         <source>Whenever you cast your first spell during each opponent's turn, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你施放每个对手回合中你的第一个咒语时，在斗技场诈术师上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你施放每个对手回合中你的第一个咒语时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="f67d0091-1925-44a5-89f3-21c2afd5665c" resname="THB·127 | Aspect of Manticore | Card Name">
         <source>Aspect of Manticore</source>
@@ -1500,7 +1500,7 @@
       </trans-unit>
       <trans-unit id="f67d0091-1925-44a5-89f3-21c2afd5665c" resname="THB·127 | Aspect of Manticore | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, enchanted creature gains first strike until end of turn.</source>
-        <target state="translated">当蝎狮外貌进战场时，所结附的生物获得先攻异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，所结附的生物获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f67d0091-1925-44a5-89f3-21c2afd5665c" resname="THB·127 | Aspect of Manticore | Card Text | Paragraph 4">
         <source>Enchanted creature gets +2/+0.</source>
@@ -1513,12 +1513,12 @@
       </trans-unit>
       <trans-unit id="8d4f3fa3-ba1f-48dc-a56b-738936f1bf86" resname="THB·128 | Blood Aspirant | Card Text | Paragraph 1">
         <source>Whenever you sacrifice a permanent, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你牺牲一个永久物时，在鲜血求索客上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你牺牲一个永久物时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="8d4f3fa3-ba1f-48dc-a56b-738936f1bf86" resname="THB·128 | Blood Aspirant | Card Text | Paragraph 2">
         <source>{1}{R}, {T}, Sacrifice a creature or enchantment: CARDNAME deals 1 damage to target creature. That creature can't block this turn.</source>
-        <target state="translated">{1}{R}，{T}，牺牲一个生物或结界：鲜血求索客对目标生物造成1点伤害。该生物本回合不能进行阻挡。</target>
+        <target state="translated">{1}{R}，{T}，牺牲一个生物或结界：CARDNAME对目标生物造成1点伤害。该生物本回合不能进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="bac6bdd4-b25b-41f6-835d-7d1570cdb951" resname="THB·129 | Careless Celebrant | Card Name">
@@ -1527,7 +1527,7 @@
       </trans-unit>
       <trans-unit id="bac6bdd4-b25b-41f6-835d-7d1570cdb951" resname="THB·129 | Careless Celebrant | Card Text | Paragraph 1">
         <source>When CARDNAME dies, it deals 2 damage to target creature or planeswalker an opponent controls.</source>
-        <target state="translated">当无忌主祭死去时，它向目标由对手操控的生物或鹏洛客造成2点伤害。</target>
+        <target state="translated">当CARDNAME死去时，它向目标由对手操控的生物或鹏洛客造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="f6b04ec8-68c9-468c-b137-707db994af68" resname="THB·130 | Dreamshaper Shaman | Card Name">
         <source>Dreamshaper Shaman</source>
@@ -1545,7 +1545,7 @@
       </trans-unit>
       <trans-unit id="ee10eaa0-dbe0-45ee-9a7d-395ec5d27e08" resname="THB·131 | Dreamstalker Manticore | Card Text | Paragraph 1">
         <source>Whenever you cast your first spell during each opponent's turn, CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">每当你施放每个对手回合中你的第一个咒语时，伏梦蝎狮对任意一个目标造成1点伤害。</target>
+        <target state="translated">每当你施放每个对手回合中你的第一个咒语时，CARDNAME对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="90c2a3da-2458-4921-8574-9eb9d5925ae8" resname="THB·132 | Escape Velocity | Card Name">
         <source>Escape Velocity</source>
@@ -1569,7 +1569,7 @@
       </trans-unit>
       <trans-unit id="56455067-92c0-45b5-ac2e-525c35b41215" resname="THB·133 | Fateful End | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target. Scry 1.</source>
-        <target state="translated">宿命终结对任意一个目标造成3点伤害。占卜1。</target>
+        <target state="translated">CARDNAME对任意一个目标造成3点伤害。占卜1。</target>
       </trans-unit>
       <trans-unit id="f0c95dee-a480-4878-a967-9e46be9ee372" resname="THB·134 | Final Flare | Card Name">
         <source>Final Flare</source>
@@ -1581,7 +1581,7 @@
       </trans-unit>
       <trans-unit id="f0c95dee-a480-4878-a967-9e46be9ee372" resname="THB·134 | Final Flare | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage to target creature.</source>
-        <target state="translated">终命火光对目标生物造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="1f70bcef-7ab6-4547-aca4-dd3ba68fd26b" resname="THB·135 | Flummoxed Cyclops | Card Name">
         <source>Flummoxed Cyclops</source>
@@ -1593,7 +1593,7 @@
       </trans-unit>
       <trans-unit id="1f70bcef-7ab6-4547-aca4-dd3ba68fd26b" resname="THB·135 | Flummoxed Cyclops | Card Text | Paragraph 2">
         <source>Whenever two or more creatures your opponents control attack, CARDNAME can't block this combat.</source>
-        <target state="translated">每当两个或更多由对手操控的生物攻击时，困惑的独眼巨人本次战斗中不能进行阻挡。</target>
+        <target state="translated">每当两个或更多由对手操控的生物攻击时，CARDNAME本次战斗中不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="2531fb76-038b-49ab-b4d6-31b291faa7ca" resname="THB·136 | Furious Rise | Card Name">
         <source>Furious Rise</source>
@@ -1602,7 +1602,7 @@
       </trans-unit>
       <trans-unit id="2531fb76-038b-49ab-b4d6-31b291faa7ca" resname="THB·136 | Furious Rise | Card Text | Paragraph 1">
         <source>At the beginning of your end step, if you control a creature with power 4 or greater, exile the top card of your library. You may play that card until you exile another card with CARDNAME.</source>
-        <target state="translated">在你的结束步骤开始时，若你操控力量等于或大于4的生物，则放逐你的牌库顶牌。你可以使用该牌，直到你以怒火昂扬放逐另一张牌为止。</target>
+        <target state="translated">在你的结束步骤开始时，若你操控力量等于或大于4的生物，则放逐你的牌库顶牌。你可以使用该牌，直到你以CARDNAME放逐另一张牌为止。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="cdb7c7a6-4e9b-4300-a776-b7e7916950c8" resname="THB·137 | Hero of the Games | Card Name">
@@ -1612,7 +1612,7 @@
       </trans-unit>
       <trans-unit id="cdb7c7a6-4e9b-4300-a776-b7e7916950c8" resname="THB·137 | Hero of the Games | Card Text | Paragraph 1">
         <source>Whenever you cast a spell that targets CARDNAME, creatures you control get +1/+0 until end of turn.</source>
-        <target state="translated">每当你施放以竞技会勇士为目标的咒语时，由你操控的生物得+1/+0直到回合结束。</target>
+        <target state="translated">每当你施放以CARDNAME为目标的咒语时，由你操控的生物得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="dfdfb481-3446-42f4-a1c3-a88b69f2189a" resname="THB·138 | Heroes of the Revel | Card Name">
@@ -1621,11 +1621,11 @@
       </trans-unit>
       <trans-unit id="dfdfb481-3446-42f4-a1c3-a88b69f2189a" resname="THB·138 | Heroes of the Revel | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 red Satyr creature token with &amp;quot;This creature can't block.&amp;quot;</source>
-        <target state="translated">当欢宴勇士进战场时，派出一个1/1红色羊蹄人衍生生物，且具有「此生物不能进行阻挡。」</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1红色羊蹄人衍生生物，且具有「此生物不能进行阻挡。」</target>
       </trans-unit>
       <trans-unit id="dfdfb481-3446-42f4-a1c3-a88b69f2189a" resname="THB·138 | Heroes of the Revel | Card Text | Paragraph 2">
         <source>Whenever you cast a spell that targets CARDNAME, creatures you control get +1/+0 until end of turn.</source>
-        <target state="translated">每当你施放以欢宴勇士为目标的咒语时。由你操控的生物得+1/+0直到回合结束。</target>
+        <target state="translated">每当你施放以CARDNAME为目标的咒语时。由你操控的生物得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5681db91-5dab-41e6-96f2-275ec9495e5b" resname="THB·139 | Impending Doom | Card Name">
         <source>Impending Doom</source>
@@ -1644,7 +1644,7 @@
       </trans-unit>
       <trans-unit id="5681db91-5dab-41e6-96f2-275ec9495e5b" resname="THB·139 | Impending Doom | Card Text | Paragraph 3">
         <source>When enchanted creature dies, CARDNAME deals 3 damage to that creature's controller.</source>
-        <target state="translated">当所结附的生物死去时，悲剧临头对该生物的操控者造成3点伤害。</target>
+        <target state="translated">当所结附的生物死去时，CARDNAME对该生物的操控者造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="eb6b9b5c-35ff-47ac-9b04-71257314b686" resname="THB·140 | Incendiary Oracle | Card Name">
@@ -1653,11 +1653,11 @@
       </trans-unit>
       <trans-unit id="eb6b9b5c-35ff-47ac-9b04-71257314b686" resname="THB·140 | Incendiary Oracle | Card Text | Paragraph 1">
         <source>{1}{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{1}{R}：焰相先知得+1/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="eb6b9b5c-35ff-47ac-9b04-71257314b686" resname="THB·140 | Incendiary Oracle | Card Text | Paragraph 2">
         <source>If a creature dealt damage by CARDNAME this turn would die, exile it instead.</source>
-        <target state="translated">如果本回合中曾受到焰相先知伤害的生物将死去，则改为将它放逐。</target>
+        <target state="translated">如果本回合中曾受到CARDNAME伤害的生物将死去，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="ab6e99a5-b105-489e-aff6-7d2ca50d8ba9" resname="THB·142 | Iroas's Blessing | Card Name">
         <source>Iroas's Blessing</source>
@@ -1669,7 +1669,7 @@
       </trans-unit>
       <trans-unit id="ab6e99a5-b105-489e-aff6-7d2ca50d8ba9" resname="THB·142 | Iroas's Blessing | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, it deals 4 damage to target creature or planeswalker an opponent controls.</source>
-        <target state="translated">当伊洛安斯的祝福进战场时，它向目标由对手操控的生物或鹏洛客造成4点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它向目标由对手操控的生物或鹏洛客造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="ab6e99a5-b105-489e-aff6-7d2ca50d8ba9" resname="THB·142 | Iroas's Blessing | Card Text | Paragraph 3">
         <source>Enchanted creature gets +1/+1.</source>
@@ -1682,7 +1682,7 @@
       </trans-unit>
       <trans-unit id="55405dca-3555-45ff-be1c-e276fe1a0c2e" resname="THB·143 | Irreverent Revelers | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one —</source>
-        <target state="translated">当无拘狂欢人进战场时，选择一项～</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="55405dca-3555-45ff-be1c-e276fe1a0c2e" resname="THB·143 | Irreverent Revelers | Card Text | Paragraph 2">
@@ -1692,7 +1692,7 @@
       </trans-unit>
       <trans-unit id="55405dca-3555-45ff-be1c-e276fe1a0c2e" resname="THB·143 | Irreverent Revelers | Card Text | Paragraph 3">
         <source>• CARDNAME gains haste until end of turn.</source>
-        <target state="translated">•无拘狂欢人获得敏捷异能直到回合结束。</target>
+        <target state="translated">•CARDNAME获得敏捷异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="05bc4236-566f-401b-b9d7-f58126fa228b" resname="THB·144 | Nyxborn Brute | Card Name">
@@ -1709,11 +1709,11 @@
       </trans-unit>
       <trans-unit id="70388773-709b-4cd8-a8b7-56093fd77a1d" resname="THB·145 | Omen of the Forge | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, it deals 2 damage to any target.</source>
-        <target state="translated">当熔锻神的预兆进战场时，它对任意一个目标造成2点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="70388773-709b-4cd8-a8b7-56093fd77a1d" resname="THB·145 | Omen of the Forge | Card Text | Paragraph 3">
         <source>{2}{R}, Sacrifice CARDNAME: Scry 2.</source>
-        <target state="translated">{2}{R}，牺牲熔锻神的预兆：占卜2。</target>
+        <target state="translated">{2}{R}，牺牲CARDNAME：占卜2。</target>
       </trans-unit>
       <trans-unit id="0f9bb73a-5b4e-4c9b-b0a6-8e531dc27394" resname="THB·146 | Oread of Mountain's Blaze | Card Name">
         <source>Oread of Mountain's Blaze</source>
@@ -1730,7 +1730,7 @@
       </trans-unit>
       <trans-unit id="75caefa7-94d5-472e-a540-daad3ee69899" resname="THB·147 | Ox of Agonas | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, discard your hand, then draw three cards.</source>
-        <target state="translated">当阿戈纳司境蛮牛进战场时，弃掉你的手牌，然后抓三张牌。</target>
+        <target state="translated">当CARDNAME进战场时，弃掉你的手牌，然后抓三张牌。</target>
         <note xmlns:from="developer">中文数据来自NEC（2022-02-18）；</note>
       </trans-unit>
       <trans-unit id="75caefa7-94d5-472e-a540-daad3ee69899" resname="THB·147 | Ox of Agonas | Card Text | Paragraph 2">
@@ -1740,7 +1740,7 @@
       </trans-unit>
       <trans-unit id="75caefa7-94d5-472e-a540-daad3ee69899" resname="THB·147 | Ox of Agonas | Card Text | Paragraph 3">
         <source>CARDNAME escapes with a +1/+1 counter on it.</source>
-        <target state="translated">阿戈纳司境蛮牛逸脱时上面有一个+1/+1指示物。</target>
+        <target state="translated">CARDNAME逸脱时上面有一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自NEC（2022-02-18）；</note>
       </trans-unit>
       <trans-unit id="7010ce26-16de-44cb-ba7e-3d904175b429" resname="THB·148 | Phoenix of Ash | Card Name">
@@ -1753,7 +1753,7 @@
       </trans-unit>
       <trans-unit id="7010ce26-16de-44cb-ba7e-3d904175b429" resname="THB·148 | Phoenix of Ash | Card Text | Paragraph 2">
         <source>{2}{R}: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">{2}{R}：灰烬凤凰得+2/+0直到回合结束。</target>
+        <target state="translated">{2}{R}：CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7010ce26-16de-44cb-ba7e-3d904175b429" resname="THB·148 | Phoenix of Ash | Card Text | Paragraph 3">
         <source>Escape—{2}{R}{R}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</source>
@@ -1761,7 +1761,7 @@
       </trans-unit>
       <trans-unit id="7010ce26-16de-44cb-ba7e-3d904175b429" resname="THB·148 | Phoenix of Ash | Card Text | Paragraph 4">
         <source>CARDNAME escapes with a +1/+1 counter on it.</source>
-        <target state="translated">灰烬凤凰逸脱时上面有一个+1/+1指示物。</target>
+        <target state="translated">CARDNAME逸脱时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="af3af5c4-0960-44a2-976e-abdf7803c436" resname="THB·150 | Purphoros, Bronze-Blooded | Card Name">
         <source>Purphoros, Bronze-Blooded</source>
@@ -1797,7 +1797,7 @@
       </trans-unit>
       <trans-unit id="ecc911ee-0e12-4b10-add7-9a9d63c29443" resname="THB·151 | Purphoros's Intervention | Card Text | Paragraph 3">
         <source>• CARDNAME deals twice X damage to target creature or planeswalker.</source>
-        <target state="translated">•普罗烽斯的干预对目标生物或鹏洛客造成两倍于X数量的伤害。</target>
+        <target state="translated">•CARDNAME对目标生物或鹏洛客造成两倍于X数量的伤害。</target>
       </trans-unit>
       <trans-unit id="646d8201-be68-42fa-bcfd-42d81a2ad195" resname="THB·152 | Satyr's Cunning | Card Name">
         <source>Satyr's Cunning</source>
@@ -1817,11 +1817,11 @@
       </trans-unit>
       <trans-unit id="0f470a7b-63ef-4efa-855e-f8a3ce1ab534" resname="THB·153 | Skophos Maze-Warden | Card Text | Paragraph 1">
         <source>{1}: CARDNAME gets +1/-1 until end of turn.</source>
-        <target state="translated">{1}：斯科福司迷宫护卫得+1/-1直到回合结束。</target>
+        <target state="translated">{1}：CARDNAME得+1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="0f470a7b-63ef-4efa-855e-f8a3ce1ab534" resname="THB·153 | Skophos Maze-Warden | Card Text | Paragraph 2">
         <source>Whenever another creature becomes the target of an ability of a land you control named Labyrinth of Skophos, you may have CARDNAME fight that creature. (Each deals damage equal to its power to the other.)</source>
-        <target state="translated">每当另一个生物成为由你操控、且名称为斯科福司迷宫的地之异能目标时，你可以令斯科福司迷宫护卫与该生物互斗。（它们各向对方造成等同于本身力量的伤害。）</target>
+        <target state="translated">每当另一个生物成为由你操控、且名称为斯科福司迷宫的地之异能目标时，你可以令CARDNAME与该生物互斗。（它们各向对方造成等同于本身力量的伤害。）</target>
       </trans-unit>
       <trans-unit id="59c39c70-8360-4c7c-b5fa-61c42828609a" resname="THB·154 | Skophos Warleader | Card Name">
         <source>Skophos Warleader</source>
@@ -1829,7 +1829,7 @@
       </trans-unit>
       <trans-unit id="59c39c70-8360-4c7c-b5fa-61c42828609a" resname="THB·154 | Skophos Warleader | Card Text | Paragraph 1">
         <source>{R}, Sacrifice another creature or an enchantment: CARDNAME gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)</source>
-        <target state="translated">{R}，牺牲另一个生物或一个结界：直到回合结束，斯科福司战领得+1/+0且获得威慑异能。（它只能被两个或更多生物阻挡。）</target>
+        <target state="translated">{R}，牺牲另一个生物或一个结界：直到回合结束，CARDNAME得+1/+0且获得威慑异能。（它只能被两个或更多生物阻挡。）</target>
       </trans-unit>
       <trans-unit id="c32c6192-2f8d-4656-af8b-c488e27a75e1" resname="THB·155 | Stampede Rider | Card Name">
         <source>Stampede Rider</source>
@@ -1841,7 +1841,7 @@
       </trans-unit>
       <trans-unit id="c32c6192-2f8d-4656-af8b-c488e27a75e1" resname="THB·155 | Stampede Rider | Card Text | Paragraph 2">
         <source>At the beginning of each combat, if you control a creature with power 4 or greater, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">在每次战斗开始时，若你操控力量等于或大于4的生物，则狂奔骑行客得+1/+1直到回合结束。</target>
+        <target state="translated">在每次战斗开始时，若你操控力量等于或大于4的生物，则CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="e0594aa2-1c53-4271-a0d0-9002c07f3697" resname="THB·156 | Storm Herald | Card Name">
         <source>Storm Herald</source>
@@ -1853,7 +1853,7 @@
       </trans-unit>
       <trans-unit id="e0594aa2-1c53-4271-a0d0-9002c07f3697" resname="THB·156 | Storm Herald | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return any number of Aura cards from your graveyard to the battlefield attached to creatures you control. Exile those Auras at the beginning of your next end step. If those Auras would leave the battlefield, exile them instead of putting them anywhere else.</source>
-        <target state="translated">当风暴传令使进战场时，将任意数量的灵气牌从你的坟墓场移回战场并结附在由你操控的一个或数个生物上。在你的下一个结束步骤开始时，放逐这些灵气。若这些灵气将离开战场，则改为将它们放逐，而非置入其他区域。</target>
+        <target state="translated">当CARDNAME进战场时，将任意数量的灵气牌从你的坟墓场移回战场并结附在由你操控的一个或数个生物上。在你的下一个结束步骤开始时，放逐这些灵气。若这些灵气将离开战场，则改为将它们放逐，而非置入其他区域。</target>
       </trans-unit>
       <trans-unit id="4bc9ecd2-7664-471b-90f2-2d0dd1acec80" resname="THB·157 | Storm's Wrath | Card Name">
         <source>Storm's Wrath</source>
@@ -1861,7 +1861,7 @@
       </trans-unit>
       <trans-unit id="4bc9ecd2-7664-471b-90f2-2d0dd1acec80" resname="THB·157 | Storm's Wrath | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to each creature and each planeswalker.</source>
-        <target state="translated">风暴之怒对每个生物和每个鹏洛客各造成4点伤害。</target>
+        <target state="translated">CARDNAME对每个生物和每个鹏洛客各造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="6f226550-fc9f-4964-ac62-74f84d0ac3f3" resname="THB·158 | Tectonic Giant | Card Name">
         <source>Tectonic Giant</source>
@@ -1870,12 +1870,12 @@
       </trans-unit>
       <trans-unit id="6f226550-fc9f-4964-ac62-74f84d0ac3f3" resname="THB·158 | Tectonic Giant | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks or becomes the target of a spell an opponent controls, choose one —</source>
-        <target state="translated">每当地壳巨人攻击或成为由对手操控之咒语的目标时，选择一项～</target>
+        <target state="translated">每当CARDNAME攻击或成为由对手操控之咒语的目标时，选择一项～</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="6f226550-fc9f-4964-ac62-74f84d0ac3f3" resname="THB·158 | Tectonic Giant | Card Text | Paragraph 2">
         <source>• CARDNAME deals 3 damage to each opponent.</source>
-        <target state="translated">•地壳巨人向每位对手各造成3点伤害。</target>
+        <target state="translated">•CARDNAME向每位对手各造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="6f226550-fc9f-4964-ac62-74f84d0ac3f3" resname="THB·158 | Tectonic Giant | Card Text | Paragraph 3">
@@ -1893,7 +1893,7 @@
       </trans-unit>
       <trans-unit id="49b5b348-1415-4062-a2a7-017694424c05" resname="THB·160 | The Triumph of Anax | Card Text | Paragraph 2">
         <source>I, II, III — Until end of turn, target creature gains trample and gets +X/+0, where X is the number of lore counters on CARDNAME.</source>
-        <target state="translated">I, II, III — 直到回合结束，目标生物获得践踏异能且得+X/+0，X为阿纳克斯凯旋志上的学问指示物数量。</target>
+        <target state="translated">I, II, III — 直到回合结束，目标生物获得践踏异能且得+X/+0，X为CARDNAME上的学问指示物数量。</target>
       </trans-unit>
       <trans-unit id="49b5b348-1415-4062-a2a7-017694424c05" resname="THB·160 | The Triumph of Anax | Card Text | Paragraph 3">
         <source>IV — Target creature you control fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)</source>
@@ -1911,7 +1911,7 @@
       </trans-unit>
       <trans-unit id="0e51d796-7279-4c06-87f0-37adbdaa41df" resname="THB·161 | Underworld Breach | Card Text | Paragraph 2">
         <source>At the beginning of the end step, sacrifice CARDNAME.</source>
-        <target state="translated">在结束步骤开始时，牺牲冥界裂隙。</target>
+        <target state="translated">在结束步骤开始时，牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自SPG（2023-11-17）；</note>
       </trans-unit>
       <trans-unit id="0fe616c4-dcb0-4284-ba10-6fbf7cecd217" resname="THB·162 | Underworld Fires | Card Name">
@@ -1920,7 +1920,7 @@
       </trans-unit>
       <trans-unit id="0fe616c4-dcb0-4284-ba10-6fbf7cecd217" resname="THB·162 | Underworld Fires | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature and each planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.</source>
-        <target state="translated">冥界业火对每个生物和每个鹏洛客各造成1点伤害。如果本回合中曾以此法受到伤害的永久物将死去，则改为将它放逐。</target>
+        <target state="translated">CARDNAME对每个生物和每个鹏洛客各造成1点伤害。如果本回合中曾以此法受到伤害的永久物将死去，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="a04eef82-fd53-41f4-9c7e-28b9ac039032" resname="THB·163 | Underworld Rage-Hound | Card Name">
         <source>Underworld Rage-Hound</source>
@@ -1928,7 +1928,7 @@
       </trans-unit>
       <trans-unit id="a04eef82-fd53-41f4-9c7e-28b9ac039032" resname="THB·163 | Underworld Rage-Hound | Card Text | Paragraph 1">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">冥界怒犬每次战斗若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每次战斗若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="a04eef82-fd53-41f4-9c7e-28b9ac039032" resname="THB·163 | Underworld Rage-Hound | Card Text | Paragraph 2">
         <source>Escape—{3}{R}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</source>
@@ -1936,7 +1936,7 @@
       </trans-unit>
       <trans-unit id="a04eef82-fd53-41f4-9c7e-28b9ac039032" resname="THB·163 | Underworld Rage-Hound | Card Text | Paragraph 3">
         <source>CARDNAME escapes with a +1/+1 counter on it.</source>
-        <target state="translated">冥界怒犬逸脱时上面有一个+1/+1指示物。</target>
+        <target state="translated">CARDNAME逸脱时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="7c38833a-96c5-48b5-8dd8-23f10e798537" resname="THB·165 | Arasta of the Endless Web | Card Name">
         <source>Arasta of the Endless Web</source>
@@ -1983,7 +1983,7 @@
       </trans-unit>
       <trans-unit id="874afaad-546a-4cb2-ad01-2b4a4862b219" resname="THB·167 | Chainweb Aracnir | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, it deals damage equal to its power to target creature with flying an opponent controls.</source>
-        <target state="translated">当链网冥蛛进战场时，它向目标由对手操控且具飞行异能的生物造成伤害，其数量等同于前者的力量。</target>
+        <target state="translated">当CARDNAME进战场时，它向目标由对手操控且具飞行异能的生物造成伤害，其数量等同于前者的力量。</target>
       </trans-unit>
       <trans-unit id="874afaad-546a-4cb2-ad01-2b4a4862b219" resname="THB·167 | Chainweb Aracnir | Card Text | Paragraph 3">
         <source>Escape—{3}{G}{G}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</source>
@@ -1991,7 +1991,7 @@
       </trans-unit>
       <trans-unit id="874afaad-546a-4cb2-ad01-2b4a4862b219" resname="THB·167 | Chainweb Aracnir | Card Text | Paragraph 4">
         <source>CARDNAME escapes with three +1/+1 counters on it.</source>
-        <target state="translated">链网冥蛛逸脱时上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME逸脱时上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="ba264166-948b-47d4-b302-64476acc1a55" resname="THB·168 | Destiny Spinner | Card Name">
         <source>Destiny Spinner</source>
@@ -2053,7 +2053,7 @@
       </trans-unit>
       <trans-unit id="5112ee2a-a6f3-4280-a915-000a97a9cdef" resname="THB·172 | Hydra's Growth | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on enchanted creature.</source>
-        <target state="translated">当多头龙式生长进战场时，在所结附的生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在所结附的生物上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="5112ee2a-a6f3-4280-a915-000a97a9cdef" resname="THB·172 | Hydra's Growth | Card Text | Paragraph 3">
@@ -2067,7 +2067,7 @@
       </trans-unit>
       <trans-unit id="bb7f2638-d757-4df6-90b0-b616534dd3a0" resname="THB·173 | Hyrax Tower Scout | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, untap target creature.</source>
-        <target state="translated">当许拉兹塔斥候进战场时，重置目标生物。</target>
+        <target state="translated">当CARDNAME进战场时，重置目标生物。</target>
       </trans-unit>
       <trans-unit id="7cdf8ab8-f221-4f7b-9af9-3849cad1f596" resname="THB·174 | Ilysian Caryatid | Card Name">
         <source>Ilysian Caryatid</source>
@@ -2105,7 +2105,7 @@
       </trans-unit>
       <trans-unit id="3afe6283-3642-4883-ac6e-83ae3280af9c" resname="THB·177 | Loathsome Chimera | Card Text | Paragraph 2">
         <source>CARDNAME escapes with a +1/+1 counter on it.</source>
-        <target state="translated">恶憎盖美拉逸脱时上面有一个+1/+1指示物。</target>
+        <target state="translated">CARDNAME逸脱时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="83a786fa-4b86-40f7-ac58-1a05fb38fcdb" resname="THB·178 | Mantle of the Wolf | Card Name">
         <source>Mantle of the Wolf</source>
@@ -2121,7 +2121,7 @@
       </trans-unit>
       <trans-unit id="83a786fa-4b86-40f7-ac58-1a05fb38fcdb" resname="THB·178 | Mantle of the Wolf | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from the battlefield, create two 2/2 green Wolf creature tokens.</source>
-        <target state="translated">当狼身斗篷从战场进入坟墓场时，派出两个2/2绿色的狼衍生生物。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，派出两个2/2绿色的狼衍生生物。</target>
       </trans-unit>
       <trans-unit id="a4d35ec4-0e0d-4611-8ad9-39d2c8a2ad6e" resname="THB·179 | Moss Viper | Card Name">
         <source>Moss Viper</source>
@@ -2145,11 +2145,11 @@
       </trans-unit>
       <trans-unit id="aaf91fc2-7317-47e4-9e6c-d7d74cdf0153" resname="THB·181 | Nessian Boar | Card Text | Paragraph 1">
         <source>All creatures able to block CARDNAME do so.</source>
-        <target state="translated">所有能够阻挡奈西安野猪的生物皆须阻挡之。</target>
+        <target state="translated">所有能够阻挡CARDNAME的生物皆须阻挡之。</target>
       </trans-unit>
       <trans-unit id="aaf91fc2-7317-47e4-9e6c-d7d74cdf0153" resname="THB·181 | Nessian Boar | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes blocked by a creature, that creature's controller draws a card.</source>
-        <target state="translated">每当奈西安野猪被一个生物阻挡时，该生物的操控者抓一张牌。</target>
+        <target state="translated">每当CARDNAME被一个生物阻挡时，该生物的操控者抓一张牌。</target>
       </trans-unit>
       <trans-unit id="8200fcda-e30c-460f-9964-47e657b7c758" resname="THB·182 | Nessian Hornbeetle | Card Name">
         <source>Nessian Hornbeetle</source>
@@ -2158,7 +2158,7 @@
       </trans-unit>
       <trans-unit id="8200fcda-e30c-460f-9964-47e657b7c758" resname="THB·182 | Nessian Hornbeetle | Card Text | Paragraph 1">
         <source>At the beginning of combat on your turn, if you control another creature with power 4 or greater, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">在你回合的战斗开始时，若你操控另一个力量等于或大于4的生物，则在奈西安角虫上放置一个+1/+1指示物。</target>
+        <target state="translated">在你回合的战斗开始时，若你操控另一个力量等于或大于4的生物，则在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="50d50576-c3ee-479a-8533-6c147f5cb1c4" resname="THB·183 | Nessian Wanderer | Card Name">
@@ -2219,7 +2219,7 @@
       </trans-unit>
       <trans-unit id="2a4fe89a-0d2b-493f-883e-a1e0b0918340" resname="THB·187 | Nylea's Huntmaster | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature you control gets +X/+0 until end of turn, where X is your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)</source>
-        <target state="translated">当倪勒娅的猎师进战场时，目标由你操控的生物得+X/+0直到回合结束，X为你的绿色献力。（由你操控之永久物的法术力费用当中每含有一个{G}，你的绿色献力就加一。）</target>
+        <target state="translated">当CARDNAME进战场时，目标由你操控的生物得+X/+0直到回合结束，X为你的绿色献力。（由你操控之永久物的法术力费用当中每含有一个{G}，你的绿色献力就加一。）</target>
       </trans-unit>
       <trans-unit id="daa2f963-9d16-4224-b24e-b6a79f2b9d75" resname="THB·188 | Nylea's Intervention | Card Name">
         <source>Nylea's Intervention</source>
@@ -2235,7 +2235,7 @@
       </trans-unit>
       <trans-unit id="daa2f963-9d16-4224-b24e-b6a79f2b9d75" resname="THB·188 | Nylea's Intervention | Card Text | Paragraph 3">
         <source>• CARDNAME deals twice X damage to each creature with flying.</source>
-        <target state="translated">•倪勒娅的干预对每个具有飞行异能的生物各造成两倍于X数量的伤害。</target>
+        <target state="translated">•CARDNAME对每个具有飞行异能的生物各造成两倍于X数量的伤害。</target>
       </trans-unit>
       <trans-unit id="866dcef0-8d3e-4126-963a-05598d8a9e79" resname="THB·189 | Nyx Herald | Card Name">
         <source>Nyx Herald</source>
@@ -2271,11 +2271,11 @@
       </trans-unit>
       <trans-unit id="7d4ebdea-78d4-4034-921b-735bdb11a716" resname="THB·192 | Omen of the Hunt | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">当猎神的预兆进战场时，你可以从你的牌库中搜寻一张基本地牌，将之横置放进战场，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库中搜寻一张基本地牌，将之横置放进战场，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="7d4ebdea-78d4-4034-921b-735bdb11a716" resname="THB·192 | Omen of the Hunt | Card Text | Paragraph 3">
         <source>{2}{G}, Sacrifice CARDNAME: Scry 2.</source>
-        <target state="translated">{2}{G}，牺牲猎神的预兆：占卜2。</target>
+        <target state="translated">{2}{G}，牺牲CARDNAME：占卜2。</target>
       </trans-unit>
       <trans-unit id="10ac20a9-6b10-4165-ad81-a47587b64d1e" resname="THB·193 | Pheres-Band Brawler | Card Name">
         <source>Pheres-Band Brawler</source>
@@ -2283,7 +2283,7 @@
       </trans-unit>
       <trans-unit id="10ac20a9-6b10-4165-ad81-a47587b64d1e" resname="THB·193 | Pheres-Band Brawler | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)</source>
-        <target state="translated">当斐力兹族好斗者进战场时，它与至多一个目标不由你操控的生物互斗。（它们各向对方造成等同于本身力量的伤害。）</target>
+        <target state="translated">当CARDNAME进战场时，它与至多一个目标不由你操控的生物互斗。（它们各向对方造成等同于本身力量的伤害。）</target>
       </trans-unit>
       <trans-unit id="752b9560-b1d6-441c-8bc8-bf6988112d25" resname="THB·195 | Relentless Pursuit | Card Name">
         <source>Relentless Pursuit</source>
@@ -2316,7 +2316,7 @@
       </trans-unit>
       <trans-unit id="f8ce9858-747e-441c-95a8-6af44aa2098d" resname="THB·198 | Setessan Champion | Card Text | Paragraph 1">
         <source>Constellation — Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on CARDNAME and draw a card.</source>
-        <target state="translated">星彩～每当一个结界在你的操控下进战场时，在瑟特萨斗士上放置一个+1/+1指示物且抓一张牌。</target>
+        <target state="translated">星彩～每当一个结界在你的操控下进战场时，在CARDNAME上放置一个+1/+1指示物且抓一张牌。</target>
       </trans-unit>
       <trans-unit id="384495c2-238b-4f8d-89c2-e05b64f9dde0" resname="THB·199 | Setessan Petitioner | Card Name">
         <source>Setessan Petitioner</source>
@@ -2324,7 +2324,7 @@
       </trans-unit>
       <trans-unit id="384495c2-238b-4f8d-89c2-e05b64f9dde0" resname="THB·199 | Setessan Petitioner | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain life equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)</source>
-        <target state="translated">当瑟特萨祈愿人进战场时，你获得若干生命，其数量等同于你的绿色献力。（由你操控之永久物的法术力费用当中每含有一个{G}，你的绿色献力就加一。）</target>
+        <target state="translated">当CARDNAME进战场时，你获得若干生命，其数量等同于你的绿色献力。（由你操控之永久物的法术力费用当中每含有一个{G}，你的绿色献力就加一。）</target>
       </trans-unit>
       <trans-unit id="46739993-6afe-428d-bf63-b57649e38a65" resname="THB·200 | Setessan Skirmisher | Card Name">
         <source>Setessan Skirmisher</source>
@@ -2332,7 +2332,7 @@
       </trans-unit>
       <trans-unit id="46739993-6afe-428d-bf63-b57649e38a65" resname="THB·200 | Setessan Skirmisher | Card Text | Paragraph 1">
         <source>Constellation — Whenever an enchantment enters the battlefield under your control, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">星彩～每当一个结界在你的操控下进战场时，瑟特萨侦卫得+1/+1直到回合结束。</target>
+        <target state="translated">星彩～每当一个结界在你的操控下进战场时，CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b8322d31-6194-4fda-99a3-b6426c57488a" resname="THB·201 | Setessan Training | Card Name">
         <source>Setessan Training</source>
@@ -2346,7 +2346,7 @@
       </trans-unit>
       <trans-unit id="b8322d31-6194-4fda-99a3-b6426c57488a" resname="THB·201 | Setessan Training | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当瑟特萨式训练进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自M21（2020-07-03）；</note>
       </trans-unit>
       <trans-unit id="b8322d31-6194-4fda-99a3-b6426c57488a" resname="THB·201 | Setessan Training | Card Text | Paragraph 3">
@@ -2376,7 +2376,7 @@
       </trans-unit>
       <trans-unit id="efa2bccb-0e01-4629-b9a8-5c0ea26239b3" resname="THB·203 | Voracious Typhon | Card Text | Paragraph 2">
         <source>CARDNAME escapes with three +1/+1 counters on it.</source>
-        <target state="translated">贪魇堤丰逸脱时上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME逸脱时上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="11d64cab-2ed1-46d9-8034-0c2ba3f2e1ed" resname="THB·204 | Warbriar Blessing | Card Name">
         <source>Warbriar Blessing</source>
@@ -2388,7 +2388,7 @@
       </trans-unit>
       <trans-unit id="11d64cab-2ed1-46d9-8034-0c2ba3f2e1ed" resname="THB·204 | Warbriar Blessing | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, enchanted creature fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)</source>
-        <target state="translated">当战茨祝福进战场时，所结附的生物与至多一个目标不由你操控的生物互斗。（它们各向对方造成等同于本身力量的伤害。）</target>
+        <target state="translated">当CARDNAME进战场时，所结附的生物与至多一个目标不由你操控的生物互斗。（它们各向对方造成等同于本身力量的伤害。）</target>
       </trans-unit>
       <trans-unit id="11d64cab-2ed1-46d9-8034-0c2ba3f2e1ed" resname="THB·204 | Warbriar Blessing | Card Text | Paragraph 3">
         <source>Enchanted creature gets +0/+2.</source>
@@ -2411,7 +2411,7 @@
       </trans-unit>
       <trans-unit id="72b886c3-234c-49ce-9a11-456c1e8f092f" resname="THB·205 | Wolfwillow Haven | Card Text | Paragraph 3">
         <source>{4}{G}, Sacrifice CARDNAME: Create a 2/2 green Wolf creature token. Activate only during your turn.</source>
-        <target state="translated">{4}{G}，牺牲狼林庇护地：派出一个2/2绿色的狼衍生生物。只能于你的回合中起动。</target>
+        <target state="translated">{4}{G}，牺牲CARDNAME：派出一个2/2绿色的狼衍生生物。只能于你的回合中起动。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="a14afed6-ca42-442d-ba86-621179e6957c" resname="THB·206 | Acolyte of Affliction | Card Name">
@@ -2420,7 +2420,7 @@
       </trans-unit>
       <trans-unit id="a14afed6-ca42-442d-ba86-621179e6957c" resname="THB·206 | Acolyte of Affliction | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, mill two cards, then you may return a permanent card from your graveyard to your hand.</source>
-        <target state="translated">当折磨侍僧进战场时，将你牌库顶的两张牌置入你的坟墓场，然后你可以将一张永久物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，将你牌库顶的两张牌置入你的坟墓场，然后你可以将一张永久物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="f77e09c3-917c-4bbb-bb94-60f4e9417832" resname="THB·207 | Allure of the Unknown | Card Name">
         <source>Allure of the Unknown</source>
@@ -2458,7 +2458,7 @@
       </trans-unit>
       <trans-unit id="db6c91ec-df14-460f-967c-f182562fe7d8" resname="THB·209 | Atris, Oracle of Half-Truths | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target opponent looks at the top three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.</source>
-        <target state="translated">当虚实先知阿提理斯进战场时，目标对手检视你牌库顶的三张牌，并分成牌面朝下与牌面朝上各一堆。将其中一堆置于你手上，另一堆则置入你的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手检视你牌库顶的三张牌，并分成牌面朝下与牌面朝上各一堆。将其中一堆置于你手上，另一堆则置入你的坟墓场。</target>
         <note xmlns:from="developer">中文数据来自MUL（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="8fdafadb-fa04-4282-b576-b85e79c242c9" resname="THB·210 | Bronzehide Lion | Card Name">
@@ -2467,11 +2467,11 @@
       </trans-unit>
       <trans-unit id="8fdafadb-fa04-4282-b576-b85e79c242c9" resname="THB·210 | Bronzehide Lion | Card Text | Paragraph 1">
         <source>{G}{W}: CARDNAME gains indestructible until end of turn.</source>
-        <target state="translated">{G}{W}：铜皮狮获得不灭异能直到回合结束。</target>
+        <target state="translated">{G}{W}：CARDNAME获得不灭异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8fdafadb-fa04-4282-b576-b85e79c242c9" resname="THB·210 | Bronzehide Lion | Card Text | Paragraph 2">
         <source>When CARDNAME dies, return it to the battlefield. It's an Aura enchantment with enchant creature you control and &amp;quot;{G}{W}: Enchanted creature gains indestructible until end of turn,&amp;quot; and it loses all other abilities.</source>
-        <target state="translated">当铜皮狮死去时，将它移回战场。它是灵气结界，且具有「结附于由你操控的生物」与「{G}{W}：所结附的生物获得不灭异能直到回合结束」，并失去所有其他异能。</target>
+        <target state="translated">当CARDNAME死去时，将它移回战场。它是灵气结界，且具有「结附于由你操控的生物」与「{G}{W}：所结附的生物获得不灭异能直到回合结束」，并失去所有其他异能。</target>
       </trans-unit>
       <trans-unit id="86458929-ea21-4de8-84d8-a07398ed3bc0" resname="THB·211 | Calix, Destiny's Hand | Card Name">
         <source>Calix, Destiny's Hand</source>
@@ -2507,7 +2507,7 @@
       </trans-unit>
       <trans-unit id="514a6206-c2e5-4a0f-8a20-7efd6628dd0a" resname="THB·213 | Devourer of Memory | Card Text | Paragraph 1">
         <source>Whenever one or more cards are put into your graveyard from your library, CARDNAME gets +1/+1 until end of turn and can't be blocked this turn.</source>
-        <target state="translated">每当一张或数张牌从你的牌库置入你的坟墓场时，吞忆魔得+1/+1直到回合结束，且本回合不能被阻挡。</target>
+        <target state="translated">每当一张或数张牌从你的牌库置入你的坟墓场时，CARDNAME得+1/+1直到回合结束，且本回合不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="514a6206-c2e5-4a0f-8a20-7efd6628dd0a" resname="THB·213 | Devourer of Memory | Card Text | Paragraph 2">
         <source>{1}{U}{B}: Mill a card.</source>
@@ -2523,15 +2523,15 @@
       </trans-unit>
       <trans-unit id="7d3e97d8-92c7-43c4-bdaf-7b0a6ce7cb5f" resname="THB·214 | Dream Trawler | Card Text | Paragraph 2">
         <source>Whenever you draw a card, CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">每当你抓一张牌时，曳梦史芬斯得+1/+0直到回合结束。</target>
+        <target state="translated">每当你抓一张牌时，CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7d3e97d8-92c7-43c4-bdaf-7b0a6ce7cb5f" resname="THB·214 | Dream Trawler | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, draw a card.</source>
-        <target state="translated">每当曳梦史芬斯攻击时，抓一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="7d3e97d8-92c7-43c4-bdaf-7b0a6ce7cb5f" resname="THB·214 | Dream Trawler | Card Text | Paragraph 4">
         <source>Discard a card: CARDNAME gains hexproof until end of turn. Tap it.</source>
-        <target state="translated">弃一张牌：曳梦史芬斯获得辟邪异能直到回合结束。将之横置。</target>
+        <target state="translated">弃一张牌：CARDNAME获得辟邪异能直到回合结束。将之横置。</target>
       </trans-unit>
       <trans-unit id="dd116c0b-0404-42ba-978f-7044b1a03d90" resname="THB·215 | Enigmatic Incarnation | Card Name">
         <source>Enigmatic Incarnation</source>
@@ -2571,7 +2571,7 @@
       </trans-unit>
       <trans-unit id="6fe5cbef-0f4e-4d05-9a94-4739e09d7a9c" resname="THB·218 | Haktos the Unscarred | Card Text | Paragraph 1">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">历战无伤哈克托斯每次战斗若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每次战斗若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="6fe5cbef-0f4e-4d05-9a94-4739e09d7a9c" resname="THB·218 | Haktos the Unscarred | Card Text | Paragraph 2">
         <source>As Haktos enters the battlefield, choose 2, 3, or 4 at random.</source>
@@ -2587,11 +2587,11 @@
       </trans-unit>
       <trans-unit id="9854e673-1816-4a76-b9db-bb399ac7489f" resname="THB·219 | Hero of the Nyxborn | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 white Human Soldier creature token.</source>
-        <target state="translated">当天裔勇士进战场时，派出一个1/1白色人类／士兵衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1白色人类／士兵衍生生物。</target>
       </trans-unit>
       <trans-unit id="9854e673-1816-4a76-b9db-bb399ac7489f" resname="THB·219 | Hero of the Nyxborn | Card Text | Paragraph 2">
         <source>Whenever you cast a spell that targets CARDNAME, creatures you control get +1/+0 until end of turn.</source>
-        <target state="translated">每当你施放以天裔勇士为目标的咒语时，由你操控的生物得+1/+0直到回合结束。</target>
+        <target state="translated">每当你施放以CARDNAME为目标的咒语时，由你操控的生物得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5b3c393c-3596-4bd9-a553-e0b03c2eb950" resname="THB·220 | Klothys, God of Destiny | Card Name">
         <source>Klothys, God of Destiny</source>
@@ -2655,7 +2655,7 @@
       </trans-unit>
       <trans-unit id="f8a3df0e-4ee8-458b-adf5-56aca20493e9" resname="THB·223 | Mischievous Chimera | Card Text | Paragraph 2">
         <source>Whenever you cast your first spell during each opponent's turn, CARDNAME deals 1 damage to each opponent. Scry 1.</source>
-        <target state="translated">每当你施放每个对手回合中你的第一个咒语时，恼人盖美拉向每位对手各造成1点伤害。占卜1。</target>
+        <target state="translated">每当你施放每个对手回合中你的第一个咒语时，CARDNAME向每位对手各造成1点伤害。占卜1。</target>
       </trans-unit>
       <trans-unit id="87858278-632c-4d82-b3a3-adfc6f2f4fc6" resname="THB·224 | Polukranos, Unchained | Card Name">
         <source>Polukranos, Unchained</source>
@@ -2699,7 +2699,7 @@
       </trans-unit>
       <trans-unit id="2b1d890f-7ef8-47b9-9ec8-f3884a1d09db" resname="THB·226 | Siona, Captain of the Pyleas | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, look at the top seven cards of your library. You may reveal an Aura card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">当皮勒阿斯号船长西俄娜进战场时，检视你牌库顶的七张牌。你可以展示其中的一张灵气牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，检视你牌库顶的七张牌。你可以展示其中的一张灵气牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="2b1d890f-7ef8-47b9-9ec8-f3884a1d09db" resname="THB·226 | Siona, Captain of the Pyleas | Card Text | Paragraph 2">
         <source>Whenever an Aura you control becomes attached to a creature you control, create a 1/1 white Human Soldier creature token.</source>
@@ -2711,11 +2711,11 @@
       </trans-unit>
       <trans-unit id="a2b441c0-261e-4094-b694-5e11ea3c14ab" resname="THB·227 | Slaughter-Priest of Mogis | Card Text | Paragraph 1">
         <source>Whenever you sacrifice a permanent, CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">每当你牺牲一个永久物时，墨癸斯的屠戮僧得+2/+0直到回合结束。</target>
+        <target state="translated">每当你牺牲一个永久物时，CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a2b441c0-261e-4094-b694-5e11ea3c14ab" resname="THB·227 | Slaughter-Priest of Mogis | Card Text | Paragraph 2">
         <source>{2}, Sacrifice another creature or an enchantment: CARDNAME gains first strike until end of turn.</source>
-        <target state="translated">{2}，牺牲另一个生物或一个结界：墨癸斯的屠戮僧获得先攻异能直到回合结束。</target>
+        <target state="translated">{2}，牺牲另一个生物或一个结界：CARDNAME获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="125b8be1-76b9-434e-a505-5099d950767c" resname="THB·228 | Staggering Insight | Card Name">
         <source>Staggering Insight</source>
@@ -2755,7 +2755,7 @@
       </trans-unit>
       <trans-unit id="ff48d55e-aa8b-4061-9c77-fd7e696fd7ba" resname="THB·230 | Warden of the Chained | Card Text | Paragraph 2">
         <source>CARDNAME can't attack unless you control another creature with power 4 or greater.</source>
-        <target state="translated">除非你操控另一个力量等于或大于4的生物，否则受链者守卫不能进行攻击。</target>
+        <target state="translated">除非你操控另一个力量等于或大于4的生物，否则CARDNAME不能进行攻击。</target>
       </trans-unit>
       <trans-unit id="e1f2a587-443d-4626-a6f6-9a26838a42b1" resname="THB·231 | Altar of the Pantheon | Card Name">
         <source>Altar of the Pantheon</source>
@@ -2787,11 +2787,11 @@
       </trans-unit>
       <trans-unit id="064abee6-7394-4b75-946f-4ad9840034ac" resname="THB·233 | Entrancing Lyre | Card Text | Paragraph 1">
         <source>You may choose not to untap CARDNAME during your untap step.</source>
-        <target state="translated">你可以选择于你的重置步骤中不重置摄魂竖琴。</target>
+        <target state="translated">你可以选择于你的重置步骤中不重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="064abee6-7394-4b75-946f-4ad9840034ac" resname="THB·233 | Entrancing Lyre | Card Text | Paragraph 2">
         <source>{X}, {T}: Tap target creature with power X or less. It doesn't untap during its controller's untap step for as long as CARDNAME remains tapped.</source>
-        <target state="translated">{X}，{T}：横置目标力量等于或小于X的生物。于摄魂竖琴持续横置的时段内，该生物于其操控者的重置步骤中不能重置。</target>
+        <target state="translated">{X}，{T}：横置目标力量等于或小于X的生物。于CARDNAME持续横置的时段内，该生物于其操控者的重置步骤中不能重置。</target>
       </trans-unit>
       <trans-unit id="e7624e84-93ce-4983-8624-ebc934cab67f" resname="THB·234 | Mirror Shield | Card Name">
         <source>Mirror Shield</source>
@@ -2811,7 +2811,7 @@
       </trans-unit>
       <trans-unit id="5bd6353f-d119-40e6-895c-030a11a7a2fe" resname="THB·235 | Nyx Lotus | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">尼兹莲花须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="5bd6353f-d119-40e6-895c-030a11a7a2fe" resname="THB·235 | Nyx Lotus | Card Text | Paragraph 2">
         <source>{T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)</source>
@@ -2844,17 +2844,17 @@
       </trans-unit>
       <trans-unit id="7c850b94-75c9-4457-8b5e-1193352d6fcb" resname="THB·237 | Soul-Guide Lantern | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target card from a graveyard.</source>
-        <target state="translated">当导灵明灯进战场时，将目标牌从坟墓场放逐。</target>
+        <target state="translated">当CARDNAME进战场时，将目标牌从坟墓场放逐。</target>
         <note xmlns:from="developer">中文数据来自WOE（2023-09-08）；</note>
       </trans-unit>
       <trans-unit id="7c850b94-75c9-4457-8b5e-1193352d6fcb" resname="THB·237 | Soul-Guide Lantern | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Exile each opponent's graveyard.</source>
-        <target state="translated">{T}，牺牲导灵明灯：放逐每位对手的坟墓场。</target>
+        <target state="translated">{T}，牺牲CARDNAME：放逐每位对手的坟墓场。</target>
         <note xmlns:from="developer">中文数据来自WOE（2023-09-08）；</note>
       </trans-unit>
       <trans-unit id="7c850b94-75c9-4457-8b5e-1193352d6fcb" resname="THB·237 | Soul-Guide Lantern | Card Text | Paragraph 3">
         <source>{1}, {T}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{1}，{T}，牺牲导灵明灯：抓一张牌。</target>
+        <target state="translated">{1}，{T}，牺牲CARDNAME：抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自WOE（2023-09-08）；</note>
       </trans-unit>
       <trans-unit id="7b497153-69a8-480e-b02f-88afec9d5053" resname="THB·238 | Thaumaturge's Familiar | Card Name">
@@ -2869,7 +2869,7 @@
       </trans-unit>
       <trans-unit id="7b497153-69a8-480e-b02f-88afec9d5053" resname="THB·238 | Thaumaturge's Familiar | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, scry 1.</source>
-        <target state="translated">当奇术师的佣兽进战场时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">当CARDNAME进战场时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="cd2fa92d-5521-421c-b3f8-7c14bbef3080" resname="THB·239 | Thundering Chariot | Card Name">
@@ -2894,7 +2894,7 @@
       </trans-unit>
       <trans-unit id="e3ef8f96-3e3c-4b1b-8180-3b38c7deaaff" resname="THB·241 | Wings of Hubris | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Equipped creature can't be blocked this turn. Sacrifice it at the beginning of the next end step.</source>
-        <target state="translated">牺牲狂妄之翼：佩带此武具的生物本回合不能被阻挡。在下一个结束步骤开始时，将它牺牲。</target>
+        <target state="translated">牺牲CARDNAME：佩带此武具的生物本回合不能被阻挡。在下一个结束步骤开始时，将它牺牲。</target>
       </trans-unit>
       <trans-unit id="e3ef8f96-3e3c-4b1b-8180-3b38c7deaaff" resname="THB·241 | Wings of Hubris | Card Text | Paragraph 3">
         <source>Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</source>
@@ -2962,7 +2962,7 @@
       </trans-unit>
       <trans-unit id="0f82064c-b335-454c-9be6-9fbcb21aa8e5" resname="THB·272 | Elspeth's Devotee | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library and/or graveyard for a card named Elspeth, Undaunted Hero, reveal it, and put it into your hand. If you search your library this way, shuffle.</source>
-        <target state="translated">当艾紫培的信徒进战场时，你可以从你的牌库和／或坟墓场中搜寻一张名称为无畏英雄艾紫培的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库和／或坟墓场中搜寻一张名称为无畏英雄艾紫培的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。</target>
       </trans-unit>
       <trans-unit id="2f89cf0f-f682-44f8-879c-ed1e22f849b0" resname="THB·273 | Sunlit Hoplite | Card Name">
         <source>Sunlit Hoplite</source>
@@ -2970,11 +2970,11 @@
       </trans-unit>
       <trans-unit id="2f89cf0f-f682-44f8-879c-ed1e22f849b0" resname="THB·273 | Sunlit Hoplite | Card Text | Paragraph 1">
         <source>As long as it's your turn, CARDNAME has first strike.</source>
-        <target state="translated">只要是在你的回合中，阳辉重装步兵便具有先攻异能。</target>
+        <target state="translated">只要是在你的回合中，CARDNAME便具有先攻异能。</target>
       </trans-unit>
       <trans-unit id="2f89cf0f-f682-44f8-879c-ed1e22f849b0" resname="THB·273 | Sunlit Hoplite | Card Text | Paragraph 2">
         <source>CARDNAME gets +1/+0 as long as you control an Elspeth planeswalker.</source>
-        <target state="translated">只要你操控艾紫培鹏洛客，阳辉重装步兵便得+1/+0。</target>
+        <target state="translated">只要你操控艾紫培鹏洛客，CARDNAME便得+1/+0。</target>
       </trans-unit>
       <trans-unit id="36a5fc37-e7bd-41a9-88ac-74a3f14fea8b" resname="THB·274 | Ashiok, Sculptor of Fears | Card Name">
         <source>Ashiok, Sculptor of Fears</source>
@@ -2998,11 +2998,11 @@
       </trans-unit>
       <trans-unit id="ebc6b5ee-e764-444e-8b27-26e00f4b2074" resname="THB·275 | Swimmer in Nightmares | Card Text | Paragraph 1">
         <source>CARDNAME gets +3/+0 as long as there are ten or more cards in a single graveyard.</source>
-        <target state="translated">只要某个坟墓场中有十张或更多牌，梦魇潜探客便得+3/+0。</target>
+        <target state="translated">只要某个坟墓场中有十张或更多牌，CARDNAME便得+3/+0。</target>
       </trans-unit>
       <trans-unit id="ebc6b5ee-e764-444e-8b27-26e00f4b2074" resname="THB·275 | Swimmer in Nightmares | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked as long as you control an Ashiok planeswalker.</source>
-        <target state="translated">只要你操控安梭苛鹏洛客，梦魇潜探客便不能被阻挡。</target>
+        <target state="translated">只要你操控安梭苛鹏洛客，CARDNAME便不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="6c5ce79a-fcbd-46ab-8911-480f967ca57f" resname="THB·276 | Mindwrack Harpy | Card Name">
         <source>Mindwrack Harpy</source>
@@ -3026,7 +3026,7 @@
       </trans-unit>
       <trans-unit id="781bfbae-acd9-4583-88d2-d31978eef565" resname="THB·277 | Ashiok's Forerunner | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may search your library and/or graveyard for a card named Ashiok, Sculptor of Fears, reveal it, and put it into your hand. If you search your library this way, shuffle.</source>
-        <target state="translated">当安梭苛的先驱进战场时，你可以从你的牌库和／或坟墓场中搜寻一张名称为恐惧塑师安梭苛的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库和／或坟墓场中搜寻一张名称为恐惧塑师安梭苛的牌，展示该牌，并将它置于你手上。如果你以此法搜寻你的牌库，则将它洗牌。</target>
       </trans-unit>
       <trans-unit id="a238aa9c-661e-449a-8f05-70b7954e544f" resname="THB·288 | Grasping Giant | Card Name">
         <source>Grasping Giant</source>
@@ -3038,7 +3038,7 @@
       </trans-unit>
       <trans-unit id="a238aa9c-661e-449a-8f05-70b7954e544f" resname="THB·288 | Grasping Giant | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes blocked by a creature, exile that creature until CARDNAME leaves the battlefield.</source>
-        <target state="translated">每当攫戾巨人被生物阻挡时，放逐该生物，直到攫戾巨人离开战场为止。</target>
+        <target state="translated">每当CARDNAME被生物阻挡时，放逐该生物，直到CARDNAME离开战场为止。</target>
       </trans-unit>
       <trans-unit id="7e7fa9e2-4c16-4e94-9b0e-09657303132c" resname="THB·289 | Victory's Envoy | Card Name">
         <source>Victory's Envoy</source>
@@ -3060,7 +3060,7 @@
       </trans-unit>
       <trans-unit id="d70c50ce-48f0-49a6-9653-42b8ccb9a647" resname="THB·290 | Sphinx Mindbreaker | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, each opponent mills ten cards.</source>
-        <target state="translated">当碎灵史芬斯进战场时，每位对手各将其牌库顶的十张牌置入其坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，每位对手各将其牌库顶的十张牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="a4ac18ae-0d1e-43f5-9cc9-722fa6e36fe5" resname="THB·291 | Serpent of Yawning Depths | Card Name">
         <source>Serpent of Yawning Depths</source>
@@ -3080,7 +3080,7 @@
       </trans-unit>
       <trans-unit id="57564f6f-7c99-4325-8a0e-22342e73767b" resname="THB·292 | Demon of Loathing | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, that player sacrifices a creature.</source>
-        <target state="translated">每当仇世恶魔对任一牌手造成战斗伤害时，该牌手牺牲一个生物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，该牌手牺牲一个生物。</target>
       </trans-unit>
       <trans-unit id="d8c7aa89-3777-49ec-a6d0-c568150864e8" resname="THB·293 | Underworld Sentinel | Card Name">
         <source>Underworld Sentinel</source>
@@ -3088,11 +3088,11 @@
       </trans-unit>
       <trans-unit id="d8c7aa89-3777-49ec-a6d0-c568150864e8" resname="THB·293 | Underworld Sentinel | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, exile target creature card from your graveyard.</source>
-        <target state="translated">每当冥界哨兵攻击时，将目标生物牌从你的坟墓场放逐。</target>
+        <target state="translated">每当CARDNAME攻击时，将目标生物牌从你的坟墓场放逐。</target>
       </trans-unit>
       <trans-unit id="d8c7aa89-3777-49ec-a6d0-c568150864e8" resname="THB·293 | Underworld Sentinel | Card Text | Paragraph 2">
         <source>When CARDNAME dies, put all cards exiled with it onto the battlefield.</source>
-        <target state="translated">当冥界哨兵死去时，将所有以它放逐的牌放进战场。</target>
+        <target state="translated">当CARDNAME死去时，将所有以它放逐的牌放进战场。</target>
       </trans-unit>
       <trans-unit id="cf0f58ac-88ef-445c-a12b-0bb1cf482298" resname="THB·294 | Deathbellow War Cry | Card Name">
         <source>Deathbellow War Cry</source>
@@ -3114,7 +3114,7 @@
       </trans-unit>
       <trans-unit id="332dc6c3-7802-4bde-aa4e-0feab70c216f" resname="THB·295 | Terror of Mount Velus | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, creatures you control gain double strike until end of turn.</source>
-        <target state="translated">当维鲁斯山骇龙进战场时，由你操控的生物获得连击异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，由你操控的生物获得连击异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自AFC（2021-07-23）；</note>
       </trans-unit>
       <trans-unit id="0215cbbf-7bac-4ff7-bceb-23d728797848" resname="THB·296 | Ironscale Hydra | Card Name">
@@ -3123,7 +3123,7 @@
       </trans-unit>
       <trans-unit id="0215cbbf-7bac-4ff7-bceb-23d728797848" resname="THB·296 | Ironscale Hydra | Card Text | Paragraph 1">
         <source>If a creature would deal combat damage to CARDNAME, prevent that damage and put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">如果某生物将对铁鳞多头龙造成战斗伤害，则防止该伤害且在铁鳞多头龙上放置一个+1/+1指示物。</target>
+        <target state="translated">如果某生物将对CARDNAME造成战斗伤害，则防止该伤害且在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="456627ec-81a4-40db-91dc-d25a59cd2837" resname="THB·297 | Treeshaker Chimera | Card Name">
         <source>Treeshaker Chimera</source>
@@ -3132,12 +3132,12 @@
       </trans-unit>
       <trans-unit id="456627ec-81a4-40db-91dc-d25a59cd2837" resname="THB·297 | Treeshaker Chimera | Card Text | Paragraph 1">
         <source>All creatures able to block CARDNAME do so.</source>
-        <target state="translated">所有能够阻挡撼树盖美拉的生物皆须阻挡之。</target>
+        <target state="translated">所有能够阻挡CARDNAME的生物皆须阻挡之。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="456627ec-81a4-40db-91dc-d25a59cd2837" resname="THB·297 | Treeshaker Chimera | Card Text | Paragraph 2">
         <source>When CARDNAME dies, draw three cards.</source>
-        <target state="translated">当撼树盖美拉死去时，抓三张牌。</target>
+        <target state="translated">当CARDNAME死去时，抓三张牌。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
     </body>

@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="5cd3b85b-7d8d-402e-829a-6080fd4eb7a1" resname="C18·1 | Boreas Charger | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, choose an opponent who controls more lands than you. Search your library for a number of Plains cards equal to the difference, reveal those cards, put one of them onto the battlefield tapped and the rest into your hand, then shuffle.</source>
-        <target state="translated">当朔风战马离开战场时，选择一位操控之地比你多的对手。从你牌库中搜寻等同于该差距数量的平原牌并展示这些牌。将其中一张横置放进战场，其余的牌则置于你手上。然后洗牌。</target>
+        <target state="translated">当CARDNAME离开战场时，选择一位操控之地比你多的对手。从你牌库中搜寻等同于该差距数量的平原牌并展示这些牌。将其中一张横置放进战场，其余的牌则置于你手上。然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="dbfb7f01-87bf-4eb6-8a8f-3401f37c3ebf" resname="C18·2 | Empyrial Storm | Card Name">
@@ -34,12 +34,12 @@
       </trans-unit>
       <trans-unit id="88549b0e-063a-4faf-984e-efff33522f14" resname="C18·3 | Heavenly Blademaster | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may attach any number of Auras and Equipment you control to it.</source>
-        <target state="translated">当天界大剑使进战场时，你可以将任意数量由你操控的灵气和武具贴附于其上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将任意数量由你操控的灵气和武具贴附于其上。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="88549b0e-063a-4faf-984e-efff33522f14" resname="C18·3 | Heavenly Blademaster | Card Text | Paragraph 3">
         <source>Other creatures you control get +1/+1 for each Aura and Equipment attached to CARDNAME.</source>
-        <target state="translated">天界大剑使上每贴附一个灵气和武具，由你操控的其他生物便得+1/+1。</target>
+        <target state="translated">CARDNAME上每贴附一个灵气和武具，由你操控的其他生物便得+1/+1。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="7d2fb006-3376-4322-8473-69de9b745412" resname="C18·4 | Loyal Unicorn | Card Name">
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="d90b230d-7d73-4066-87cc-f8f26b09d10e" resname="C18·5 | Magus of the Balance | Card Text | Paragraph 1">
         <source>{4}{W}, {T}, Sacrifice CARDNAME: Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.</source>
-        <target state="translated">{4}{W}，{T}，牺牲均势贤者：每位牌手各选择若干由其操控的地，其数量等同于所有牌手中操控地最少之牌手的地数量，然后牺牲其余的地。牌手也以此法弃牌与牺牲生物。</target>
+        <target state="translated">{4}{W}，{T}，牺牲CARDNAME：每位牌手各选择若干由其操控的地，其数量等同于所有牌手中操控地最少之牌手的地数量，然后牺牲其余的地。牌手也以此法弃牌与牺牲生物。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="ee3bc0e6-5e47-4a04-af15-faea70f3983a" resname="C18·6 | Aminatou's Augury | Card Name">
@@ -134,7 +134,7 @@
       </trans-unit>
       <trans-unit id="039dff9a-881f-4a3d-8680-7f560ef0ea7e" resname="C18·13 | Vedalken Humiliator | Card Text | Paragraph 1">
         <source>Metalcraft — Whenever CARDNAME attacks, if you control three or more artifacts, creatures your opponents control lose all abilities and have base power and toughness 1/1 until end of turn.</source>
-        <target state="translated">金技～每当维多肯谦卑师攻击时，若你操控三个或更多神器，则直到回合结束，由对手操控的生物失去所有异能且基础力量与防御力为1/1。</target>
+        <target state="translated">金技～每当CARDNAME攻击时，若你操控三个或更多神器，则直到回合结束，由对手操控的生物失去所有异能且基础力量与防御力为1/1。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="ca3519c4-4d8c-4caf-bc93-6e6160a3d5b6" resname="C18·14 | Bloodtracker | Card Name">
@@ -149,12 +149,12 @@
       </trans-unit>
       <trans-unit id="ca3519c4-4d8c-4caf-bc93-6e6160a3d5b6" resname="C18·14 | Bloodtracker | Card Text | Paragraph 2">
         <source>{B}, Pay 2 life: Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{B}，支付2点生命：在溯血师上放置一个+1/+1指示物。</target>
+        <target state="translated">{B}，支付2点生命：在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="ca3519c4-4d8c-4caf-bc93-6e6160a3d5b6" resname="C18·14 | Bloodtracker | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, draw a card for each +1/+1 counter on it.</source>
-        <target state="translated">当溯血师离开战场时，其上每有一个+1/+1指示物，便抓一张牌。</target>
+        <target state="translated">当CARDNAME离开战场时，其上每有一个+1/+1指示物，便抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="31a147bb-37ef-4a52-82e2-160a53323516" resname="C18·15 | Entreat the Dead | Card Name">
@@ -199,7 +199,7 @@
       </trans-unit>
       <trans-unit id="b111df04-7687-47f9-8ffc-5cf25bc3e9bf" resname="C18·19 | Sower of Discord | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose two players.</source>
-        <target state="translated">于传异魔进战场时，选择两位牌手。</target>
+        <target state="translated">于CARDNAME进战场时，选择两位牌手。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="b111df04-7687-47f9-8ffc-5cf25bc3e9bf" resname="C18·19 | Sower of Discord | Card Text | Paragraph 3">
@@ -289,7 +289,7 @@
       </trans-unit>
       <trans-unit id="c87715d6-4ce1-43d8-9909-e1d80c2d099f" resname="C18·29 | Crash of Rhino Beetles | Card Text | Paragraph 2">
         <source>CARDNAME gets +10/+10 as long as you control ten or more lands.</source>
-        <target state="translated">只要你操控十个或更多地，犀甲虫群便得+10/+10。</target>
+        <target state="translated">只要你操控十个或更多地，CARDNAME便得+10/+10。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="066578ed-ffaf-473d-87b8-e614035748b6" resname="C18·30 | Genesis Storm | Card Name">
@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="0005c844-787c-4f0c-8d25-85cec151642b" resname="C18·36 | Whiptongue Hydra | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy all creatures with flying. Put a +1/+1 counter on CARDNAME for each creature destroyed this way.</source>
-        <target state="translated">当鞭舌多头龙进战场时，消灭所有具飞行异能的生物。每以此法消灭一个生物，便在鞭舌多头龙上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭所有具飞行异能的生物。每以此法消灭一个生物，便在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自NEC（2022-02-18）；</note>
       </trans-unit>
       <trans-unit id="16b9f43a-9c3f-4bfa-9eb1-734189a4bb1f" resname="C18·37 | Aminatou, the Fateshifter | Card Name">
@@ -364,12 +364,12 @@
       </trans-unit>
       <trans-unit id="16b9f43a-9c3f-4bfa-9eb1-734189a4bb1f" resname="C18·37 | Aminatou, the Fateshifter | Card Text | Paragraph 3">
         <source>[−6]: Choose left or right. Each player gains control of all nonland permanents other than CARDNAME controlled by the next player in the chosen direction.</source>
-        <target state="translated">−6：选择左边或右边。每位牌手各获得由所选方向之下一位牌手操控的所有非地永久物之操控权，但矫命师阿米娜图除外。</target>
+        <target state="translated">−6：选择左边或右边。每位牌手各获得由所选方向之下一位牌手操控的所有非地永久物之操控权，但CARDNAME除外。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="16b9f43a-9c3f-4bfa-9eb1-734189a4bb1f" resname="C18·37 | Aminatou, the Fateshifter | Card Text | Paragraph 4">
         <source>CARDNAME can be your commander.</source>
-        <target state="translated">矫命师阿米娜图可用作指挥官。</target>
+        <target state="translated">CARDNAME可用作指挥官。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="c723c7dc-a452-49ec-a4e5-9e516fe530e9" resname="C18·38 | Arixmethes, Slumbering Isle | Card Name">
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="c723c7dc-a452-49ec-a4e5-9e516fe530e9" resname="C18·38 | Arixmethes, Slumbering Isle | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped with five slumber counters on it.</source>
-        <target state="translated">静眠岛屿阿力马昔斯须横置进战场，且上面有五个静眠指示物。</target>
+        <target state="translated">CARDNAME须横置进战场，且上面有五个静眠指示物。</target>
         <note xmlns:from="developer">中文数据来自MUL（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="c723c7dc-a452-49ec-a4e5-9e516fe530e9" resname="C18·38 | Arixmethes, Slumbering Isle | Card Text | Paragraph 2">
@@ -449,7 +449,7 @@
       </trans-unit>
       <trans-unit id="213d6fb8-5624-4804-b263-51f339482754" resname="C18·43 | Lord Windgrace | Card Text | Paragraph 4">
         <source>CARDNAME can be your commander.</source>
-        <target state="translated">风华领主可用作指挥官。</target>
+        <target state="translated">CARDNAME可用作指挥官。</target>
         <note xmlns:from="developer">中文数据来自SPG（2023-11-17）；非官方中文翻译来自legacy card name（2024-02-28）；</note>
       </trans-unit>
       <trans-unit id="ca095559-ac77-4186-8d9b-b75ce0607582" resname="C18·44 | Saheeli, the Gifted | Card Name">
@@ -504,7 +504,7 @@
       </trans-unit>
       <trans-unit id="89b03b9a-7e20-47cb-bc64-23513acea855" resname="C18·50 | Xantcha, Sleeper Agent | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield under the control of an opponent of your choice.</source>
-        <target state="translated">于潜藏密探珊迦进战场时，选择一位对手。珊迦在该牌手的操控下进战场。</target>
+        <target state="translated">于CARDNAME进战场时，选择一位对手。珊迦在该牌手的操控下进战场。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="89b03b9a-7e20-47cb-bc64-23513acea855" resname="C18·50 | Xantcha, Sleeper Agent | Card Text | Paragraph 2">
@@ -529,7 +529,7 @@
       </trans-unit>
       <trans-unit id="fb51b2a8-035c-44e6-92db-2e2385066470" resname="C18·51 | Yennett, Cryptic Sovereign | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, reveal the top card of your library. You may cast it without paying its mana cost if its mana value is odd. If you don't cast it, draw a card.</source>
-        <target state="translated">每当谜样君王叶妮特攻击时，展示你的牌库顶牌。如果它的法术力值为奇数，则你可以施放该牌，且不需支付其法术力费用。若你未施放它，则抓一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，展示你的牌库顶牌。如果它的法术力值为奇数，则你可以施放该牌，且不需支付其法术力费用。若你未施放它，则抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="3bd81ae6-e628-447a-a36b-597e63ede295" resname="C18·52 | Yuriko, the Tiger's Shadow | Card Name">
@@ -569,7 +569,7 @@
       </trans-unit>
       <trans-unit id="d3975f5c-5dcd-40b8-9311-01a173c40381" resname="C18·53 | Ancient Stone Idol | Card Text | Paragraph 4">
         <source>When CARDNAME dies, create a 6/12 colorless Construct artifact creature token with trample.</source>
-        <target state="translated">当远古石偶死去时，派出一个6/12无色，具践踏异能的组构体衍生神器生物。</target>
+        <target state="translated">当CARDNAME死去时，派出一个6/12无色，具践踏异能的组构体衍生神器生物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="f83ed433-fae3-4fa5-acad-bb8a5b535ce3" resname="C18·54 | Coveted Jewel | Card Name">
@@ -579,7 +579,7 @@
       </trans-unit>
       <trans-unit id="f83ed433-fae3-4fa5-acad-bb8a5b535ce3" resname="C18·54 | Coveted Jewel | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw three cards.</source>
-        <target state="translated">当簇捧珠宝进战场时，抓三张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓三张牌。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="f83ed433-fae3-4fa5-acad-bb8a5b535ce3" resname="C18·54 | Coveted Jewel | Card Text | Paragraph 2">
@@ -589,7 +589,7 @@
       </trans-unit>
       <trans-unit id="f83ed433-fae3-4fa5-acad-bb8a5b535ce3" resname="C18·54 | Coveted Jewel | Card Text | Paragraph 3">
         <source>Whenever one or more creatures an opponent controls attack you and aren't blocked, that player draws three cards and gains control of CARDNAME. Untap it.</source>
-        <target state="translated">每当由对手操控的一个或数个生物攻击你且未受阻挡时，该牌手抓三张牌并获得簇捧珠宝的操控权。将它重置。</target>
+        <target state="translated">每当由对手操控的一个或数个生物攻击你且未受阻挡时，该牌手抓三张牌并获得CARDNAME的操控权。将它重置。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="d2547a42-b2b9-4887-8671-4cf63a7b0eff" resname="C18·55 | Endless Atlas | Card Name">
@@ -614,7 +614,7 @@
       </trans-unit>
       <trans-unit id="05faf1a6-df6b-49fa-bbba-aaf52c39643f" resname="C18·56 | Geode Golem | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may cast your commander from the command zone without paying its mana cost. (You still pay any additional costs.)</source>
-        <target state="translated">每当晶岩魔像对任一牌手造成战斗伤害时，你可以从统帅区施放你的指挥官，且不需支付其法术力费用。（你依旧要支付额外费用。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以从统帅区施放你的指挥官，且不需支付其法术力费用。（你依旧要支付额外费用。）</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="5da578b8-19e6-4068-9336-e7cd33c585f1" resname="C18·57 | Retrofitter Foundry | Card Name">

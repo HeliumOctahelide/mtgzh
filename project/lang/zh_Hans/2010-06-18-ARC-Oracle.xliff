@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="655f983e-3b23-48ee-89d5-d01d469d5a6f" resname="ARC·22 | Reassembling Skeleton | Card Text | Paragraph 1">
         <source>{1}{B}: Return CARDNAME from your graveyard to the battlefield tapped.</source>
-        <target state="translated">{1}{B}：将重组骷髅妖从你的坟墓场横置移回战场。</target>
+        <target state="translated">{1}{B}：将CARDNAME从你的坟墓场横置移回战场。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="3282db18-8564-418e-8c26-62e610b160f2" resname="ARC·32 | Chandra's Outrage | Card Name">
@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="3282db18-8564-418e-8c26-62e610b160f2" resname="ARC·32 | Chandra's Outrage | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target creature and 2 damage to that creature's controller.</source>
-        <target state="translated">茜卓的暴怒对目标生物造成4点伤害，且对该生物的操控者造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成4点伤害，且对该生物的操控者造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自M20（2019-07-12）；</note>
       </trans-unit>
       <trans-unit id="a67bb585-cc4f-4cbc-9a5a-d31df98c07ae" resname="ARC·65 | Plummet | Card Name">
@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="09379286-54c1-432a-bb3f-00ad56273977" resname="ARC·116 | Sorcerer's Strongbox | Card Text | Paragraph 1">
         <source>{2}, {T}: Flip a coin. If you win the flip, sacrifice CARDNAME and draw three cards.</source>
-        <target state="translated">{2}，{T}：掷一枚硬币。 若你赢得此掷，则牺牲术士保险柜并抓三张牌。</target>
+        <target state="translated">{2}，{T}：掷一枚硬币。 若你赢得此掷，则牺牲CARDNAME并抓三张牌。</target>
         <note xmlns:from="developer">中文数据来自M11（2010-07-16）；</note>
       </trans-unit>
       <trans-unit id="17b941e9-5dcc-473e-a461-709d74e32a3c" resname="OARC·1★ | All in Good Time | Card Name">

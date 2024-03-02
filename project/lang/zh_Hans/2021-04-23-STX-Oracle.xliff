@@ -102,7 +102,7 @@
       </trans-unit>
       <trans-unit id="69957656-cfdf-4001-8e84-0ef29e4a468d" resname="STX·10 | Clever Lumimancer | Card Text | Paragraph 1">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，机敏辉光术士得+2/+2直到回合结束。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="3f669ac4-98ed-4e23-91a9-281f8277ab04" resname="STX·11 | Combat Professor | Card Name">
         <source>Combat Professor</source>
@@ -149,7 +149,7 @@
       </trans-unit>
       <trans-unit id="54ebe581-be17-415a-a160-28d8f4e95636" resname="STX·13 | Detention Vortex | Card Text | Paragraph 3">
         <source>{3}: Destroy CARDNAME. Only your opponents may activate this ability and only as a sorcery.</source>
-        <target state="translated">{3}：消灭拘禁漩涡。只有对手可以起动此异能，且仅限法术时机。</target>
+        <target state="translated">{3}：消灭CARDNAME。只有对手可以起动此异能，且仅限法术时机。</target>
       </trans-unit>
       <trans-unit id="3b6be019-29b9-4c81-9899-aefeaf9cc977" resname="STX·14 | Devastating Mastery | Card Name">
         <source>Devastating Mastery</source>
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="45b3dbb0-0d68-4351-bfc9-a09c50454bf7" resname="STX·15 | Dueling Coach | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on target creature.</source>
-        <target state="translated">当决斗教练进战场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="45b3dbb0-0d68-4351-bfc9-a09c50454bf7" resname="STX·15 | Dueling Coach | Card Text | Paragraph 2">
         <source>{4}{W}, {T}: Put a +1/+1 counter on each creature you control with a +1/+1 counter on it.</source>
@@ -190,7 +190,7 @@
       </trans-unit>
       <trans-unit id="7a83543b-3b6f-4e28-96f9-007b814bcfd6" resname="STX·16 | Eager First-Year | Card Text | Paragraph 1">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，热切新生得+1/+0直到回合结束。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9d3a7998-ccac-45ad-a4e9-3a2cb057f63b" resname="STX·17 | Elite Spellbinder | Card Name">
         <source>Elite Spellbinder</source>
@@ -202,7 +202,7 @@
       </trans-unit>
       <trans-unit id="9d3a7998-ccac-45ad-a4e9-3a2cb057f63b" resname="STX·17 | Elite Spellbinder | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.</source>
-        <target state="translated">当精英锁咒僧进战场时，检视目标对手的手牌。你可以放逐其中一张非地牌。于该牌持续放逐的时段内，其拥有者可以使用之。以此法施放的咒语增加{2}来施放。</target>
+        <target state="translated">当CARDNAME进战场时，检视目标对手的手牌。你可以放逐其中一张非地牌。于该牌持续放逐的时段内，其拥有者可以使用之。以此法施放的咒语增加{2}来施放。</target>
       </trans-unit>
       <trans-unit id="be517a58-b7ee-4213-98a5-8c19e1b2def6" resname="STX·18 | Expel | Card Name">
         <source>Expel</source>
@@ -251,12 +251,12 @@
       </trans-unit>
       <trans-unit id="c86714f5-e909-413f-8eb6-99dbea4d1897" resname="STX·22 | Pilgrim of the Ages | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">当岁月朝圣客进战场时，你可以从你牌库中搜寻一张基本的平原牌，展示该牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张基本的平原牌，展示该牌，将它置于你手上，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="c86714f5-e909-413f-8eb6-99dbea4d1897" resname="STX·22 | Pilgrim of the Ages | Card Text | Paragraph 2">
         <source>{6}: Return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">{6}：将岁月朝圣客从你的坟墓场移回你手上。</target>
+        <target state="translated">{6}：将CARDNAME从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="0884666e-8f9b-44b1-a1e3-c1c8941e2152" resname="STX·23 | Pillardrop Rescuer | Card Name">
@@ -271,7 +271,7 @@
       </trans-unit>
       <trans-unit id="0884666e-8f9b-44b1-a1e3-c1c8941e2152" resname="STX·23 | Pillardrop Rescuer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return target creature card with mana value 3 or less from your graveyard to your hand.</source>
-        <target state="translated">当避柱救援灵进战场时，将目标法术力值等于或小于3的生物牌从你坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标法术力值等于或小于3的生物牌从你坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57" resname="STX·24 | Professor of Symbology | Card Name">
@@ -280,7 +280,7 @@
       </trans-unit>
       <trans-unit id="f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57" resname="STX·24 | Professor of Symbology | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</source>
-        <target state="translated">当符号学教授进战场时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
+        <target state="translated">当CARDNAME进战场时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="7bfc408e-34d6-4e94-8678-4cc229cbc6f5" resname="STX·25 | Reduce to Memory | Card Name">
         <source>Reduce to Memory</source>
@@ -326,7 +326,7 @@
       </trans-unit>
       <trans-unit id="ab7c80d3-3e0c-4510-9ed0-bb9fe39d838f" resname="STX·29 | Sparring Regimen | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</source>
-        <target state="translated">当切磋强身进战场时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
+        <target state="translated">当CARDNAME进战场时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="ab7c80d3-3e0c-4510-9ed0-bb9fe39d838f" resname="STX·29 | Sparring Regimen | Card Text | Paragraph 2">
         <source>Whenever you attack, put a +1/+1 counter on target attacking creature and untap it.</source>
@@ -338,11 +338,11 @@
       </trans-unit>
       <trans-unit id="99e9318f-2e17-4b6e-895f-c17cd5d0d282" resname="STX·30 | Star Pupil | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a +1/+1 counter on it.</source>
-        <target state="translated">明星学子进战场时上面有一个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="99e9318f-2e17-4b6e-895f-c17cd5d0d282" resname="STX·30 | Star Pupil | Card Text | Paragraph 2">
         <source>When CARDNAME dies, put its counters on target creature you control.</source>
-        <target state="translated">当明星学子死去时，将它的指示物放置在目标由你操控的生物上。</target>
+        <target state="translated">当CARDNAME死去时，将它的指示物放置在目标由你操控的生物上。</target>
       </trans-unit>
       <trans-unit id="21de4a01-98d3-4af3-9c6e-29e16d2c1767" resname="STX·31 | Stonebinder's Familiar | Card Name">
         <source>Stonebinder's Familiar</source>
@@ -350,7 +350,7 @@
       </trans-unit>
       <trans-unit id="21de4a01-98d3-4af3-9c6e-29e16d2c1767" resname="STX·31 | Stonebinder's Familiar | Card Text | Paragraph 1">
         <source>Whenever one or more cards are put into exile during your turn, put a +1/+1 counter on CARDNAME. This ability triggers only once each turn.</source>
-        <target state="translated">每当一张或数张牌在你的回合中进入放逐区时，在缚石佣兽上放置一个+1/+1指示物。此异能每回合只会触发一次。</target>
+        <target state="translated">每当一张或数张牌在你的回合中进入放逐区时，在CARDNAME上放置一个+1/+1指示物。此异能每回合只会触发一次。</target>
       </trans-unit>
       <trans-unit id="388f2e45-570f-4a35-b205-37e1345b5d06" resname="STX·32 | Stonerise Spirit | Card Name">
         <source>Stonerise Spirit</source>
@@ -398,7 +398,7 @@
       </trans-unit>
       <trans-unit id="ef3b2961-559f-42b1-be13-ff3d03e62809" resname="STX·35 | Thunderous Orator | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, it gains flying until end of turn if you control a creature with flying. The same is true for first strike, double strike, deathtouch, indestructible, lifelink, menace, and trample.</source>
-        <target state="translated">每当雷霆雄辩家攻击时，如果你操控具飞行异能的生物，则雷霆雄辩家获得飞行异能直到回合结束。且先攻、连击、死触、不灭、系命、威慑与践踏异能亦比照办理。</target>
+        <target state="translated">每当CARDNAME攻击时，如果你操控具飞行异能的生物，则CARDNAME获得飞行异能直到回合结束。且先攻、连击、死触、不灭、系命、威慑与践踏异能亦比照办理。</target>
       </trans-unit>
       <trans-unit id="68cdb00c-ea86-4b72-8f62-570820edfa1b" resname="STX·36 | Arcane Subtraction | Card Name">
         <source>Arcane Subtraction</source>
@@ -430,7 +430,7 @@
       </trans-unit>
       <trans-unit id="6040c573-cd8c-4593-8ade-d9922482035c" resname="STX·38 | Burrog Befuddler | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature an opponent controls gets -1/-0 until end of turn.</source>
-        <target state="translated">当惑心布蛙进战场时，目标由对手操控的生物得-1/-0直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标由对手操控的生物得-1/-0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ac2a2cf5-80cf-4c06-8b04-bc04a5460de5" resname="STX·39 | Bury in Books | Card Name">
         <source>Bury in Books</source>
@@ -484,11 +484,11 @@
       </trans-unit>
       <trans-unit id="31d82f7a-64f1-463f-bb6b-936c3e49bf2b" resname="STX·42 | Dream Strix | Card Text | Paragraph 2">
         <source>When CARDNAME becomes the target of a spell, sacrifice it.</source>
-        <target state="translated">当眠梦枭成为咒语的目标时，将它牺牲。</target>
+        <target state="translated">当CARDNAME成为咒语的目标时，将它牺牲。</target>
       </trans-unit>
       <trans-unit id="31d82f7a-64f1-463f-bb6b-936c3e49bf2b" resname="STX·42 | Dream Strix | Card Text | Paragraph 3">
         <source>When CARDNAME dies, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</source>
-        <target state="translated">当眠梦枭死去时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
+        <target state="translated">当CARDNAME死去时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="fd79c9cc-0a8c-4d88-96e2-cb177134a18d" resname="STX·43 | Frost Trickster | Card Name">
         <source>Frost Trickster</source>
@@ -500,7 +500,7 @@
       </trans-unit>
       <trans-unit id="fd79c9cc-0a8c-4d88-96e2-cb177134a18d" resname="STX·43 | Frost Trickster | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.</source>
-        <target state="translated">当冰霜诈术师进战场时，横置目标由对手操控的生物。该生物于其操控者的下一个重置步骤中不能重置。</target>
+        <target state="translated">当CARDNAME进战场时，横置目标由对手操控的生物。该生物于其操控者的下一个重置步骤中不能重置。</target>
       </trans-unit>
       <trans-unit id="2386d020-a9ae-4d54-b5e4-f2cb5a7298cc" resname="STX·44 | Ingenious Mastery | Card Name">
         <source>Ingenious Mastery</source>
@@ -689,7 +689,7 @@
       </trans-unit>
       <trans-unit id="bab4a68d-5d26-42d8-bc51-15e3c1f95ebe" resname="STX·60 | Vortex Runner | Card Text | Paragraph 1">
         <source>As long as you control eight or more lands, CARDNAME gets +1/+0 and can't be blocked.</source>
-        <target state="translated">只要你操控八个或更多地，漩涡奔越者便得+1/+0且不能被阻挡。</target>
+        <target state="translated">只要你操控八个或更多地，CARDNAME便得+1/+0且不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="7bc6966c-18d9-4675-9594-6f0b2d11c405" resname="STX·61 | Waterfall Aerialist | Card Name">
         <source>Waterfall Aerialist</source>
@@ -717,7 +717,7 @@
       </trans-unit>
       <trans-unit id="556a0816-83c5-41dc-8546-213b21e2cceb" resname="STX·63 | Arrogant Poet | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may pay 2 life. If you do, it gains flying until end of turn.</source>
-        <target state="translated">每当傲慢诗人攻击时，你可以支付2点生命。若你如此作，则它获得飞行异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付2点生命。若你如此作，则它获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="35f1a6ba-e46f-44fb-93f4-fb883d677b36" resname="STX·64 | Baleful Mastery | Card Name">
         <source>Baleful Mastery</source>
@@ -741,11 +741,11 @@
       </trans-unit>
       <trans-unit id="90ba37ee-159f-421f-8d37-a7b5f1b562f0" resname="STX·65 | Brackish Trudge | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">盐碱楚吉兽须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="90ba37ee-159f-421f-8d37-a7b5f1b562f0" resname="STX·65 | Brackish Trudge | Card Text | Paragraph 2">
         <source>{1}{B}: Return CARDNAME from your graveyard to your hand. Activate only if you gained life this turn.</source>
-        <target state="translated">{1}{B}：将盐碱楚吉兽从你的坟墓场移回你手上。只能于你获得过生命的回合中起动。</target>
+        <target state="translated">{1}{B}：将CARDNAME从你的坟墓场移回你手上。只能于你获得过生命的回合中起动。</target>
       </trans-unit>
       <trans-unit id="81358736-65cf-44d8-819e-d0268d14cc76" resname="STX·66 | Callous Bloodmage | Card Name">
         <source>Callous Bloodmage</source>
@@ -753,7 +753,7 @@
       </trans-unit>
       <trans-unit id="81358736-65cf-44d8-819e-d0268d14cc76" resname="STX·66 | Callous Bloodmage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one —</source>
-        <target state="translated">当冷酷血涌法师进战场时，选择一项～</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～</target>
       </trans-unit>
       <trans-unit id="81358736-65cf-44d8-819e-d0268d14cc76" resname="STX·66 | Callous Bloodmage | Card Text | Paragraph 2">
         <source>• Create a 1/1 black and green Pest creature token with &amp;quot;When this creature dies, you gain 1 life.&amp;quot;</source>
@@ -809,7 +809,7 @@
       </trans-unit>
       <trans-unit id="1f4d1bb6-cb8f-4d01-9879-0b3a0585cbf4" resname="STX·70 | Eyetwitch | Card Text | Paragraph 2">
         <source>When CARDNAME dies, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</source>
-        <target state="translated">当巨眼蝠死去时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
+        <target state="translated">当CARDNAME死去时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="f8487884-e991-4feb-823b-90d9125edf19" resname="STX·71 | Flunk | Card Name">
         <source>Flunk</source>
@@ -853,7 +853,7 @@
       </trans-unit>
       <trans-unit id="307f9fe7-241b-4eb6-a059-be5384b4a1b6" resname="STX·75 | Leech Fanatic | Card Text | Paragraph 1">
         <source>As long as it's your turn, CARDNAME has lifelink.</source>
-        <target state="translated">只要是在你的回合中，弄蛭狂徒便具有系命异能。</target>
+        <target state="translated">只要是在你的回合中，CARDNAME便具有系命异能。</target>
       </trans-unit>
       <trans-unit id="56fcbe4a-2d98-4fa9-a6c3-e28255171a4d" resname="STX·76 | Mage Hunter | Card Name">
         <source>Mage Hunter</source>
@@ -901,7 +901,7 @@
       </trans-unit>
       <trans-unit id="25214a91-2f64-46ee-9834-7fbf684800f7" resname="STX·80 | Oriq Loremage | Card Text | Paragraph 1">
         <source>{T}: Search your library for a card, put it into your graveyard, then shuffle. If it's an instant or sorcery card, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{T}：从你的牌库中搜寻一张牌，将它置入你的坟墓场，然后洗牌。如果它是瞬间或法术牌，则在欧理可典法师上放置一个+1/+1指示物。</target>
+        <target state="translated">{T}：从你的牌库中搜寻一张牌，将它置入你的坟墓场，然后洗牌。如果它是瞬间或法术牌，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="5034227f-3b8a-45bf-917c-c2cbd98f2192" resname="STX·81 | Plumb the Forbidden | Card Name">
         <source>Plumb the Forbidden</source>
@@ -921,7 +921,7 @@
       </trans-unit>
       <trans-unit id="e7006f43-0b10-4693-b06f-e7cf86ab4129" resname="STX·82 | Poet's Quill | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</source>
-        <target state="translated">当诗人笔毫进战场时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
+        <target state="translated">当CARDNAME进战场时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="e7006f43-0b10-4693-b06f-e7cf86ab4129" resname="STX·82 | Poet's Quill | Card Text | Paragraph 2">
         <source>Equipped creature gets +1/+1 and has lifelink.</source>
@@ -973,7 +973,7 @@
       </trans-unit>
       <trans-unit id="2ea0dff9-71c3-4d56-aa7b-e0fb9938529a" resname="STX·85 | Promising Duskmage | Card Text | Paragraph 1">
         <source>When CARDNAME dies, if it had a +1/+1 counter on it, draw a card.</source>
-        <target state="translated">当有为暮法师死去时，若其上有+1/+1指示物，则抓一张牌。</target>
+        <target state="translated">当CARDNAME死去时，若其上有+1/+1指示物，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="e900c1eb-968b-4046-b824-c167a7a5b682" resname="STX·86 | Sedgemoor Witch | Card Name">
         <source>Sedgemoor Witch</source>
@@ -1009,7 +1009,7 @@
       </trans-unit>
       <trans-unit id="92eba33e-efea-4e58-a832-1c6049fb211f" resname="STX·88 | Tenured Inkcaster | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on target creature.</source>
-        <target state="translated">当常任挥墨师进战场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="92eba33e-efea-4e58-a832-1c6049fb211f" resname="STX·88 | Tenured Inkcaster | Card Text | Paragraph 2">
         <source>Whenever a creature you control with a +1/+1 counter on it attacks, each opponent loses 1 life and you gain 1 life.</source>
@@ -1046,7 +1046,7 @@
       </trans-unit>
       <trans-unit id="30448144-639a-43c7-a408-bd6ed543c231" resname="STX·90 | Unwilling Ingredient | Card Text | Paragraph 2">
         <source>{2}{B}, Exile CARDNAME from your graveyard: You draw a card and you lose 1 life.</source>
-        <target state="translated">{2}{B}，从你的坟墓场放逐受迫食材：你抓一张牌且失去1点生命。</target>
+        <target state="translated">{2}{B}，从你的坟墓场放逐CARDNAME：你抓一张牌且失去1点生命。</target>
       </trans-unit>
       <trans-unit id="4620cc3b-e401-4096-b310-fed080806344" resname="STX·91 | Academic Dispute | Card Name">
         <source>Academic Dispute</source>
@@ -1066,7 +1066,7 @@
       </trans-unit>
       <trans-unit id="7ff4832a-26c0-4da5-abbb-1941e7084e72" resname="STX·92 | Ardent Dustspeaker | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may put an instant or sorcery card from your graveyard on the bottom of your library. If you do, exile the top two cards of your library. You may play those cards this turn.</source>
-        <target state="translated">每当热诚尘语师攻击时，你可以将一张瞬间或法术牌从你的坟墓场置于你的牌库底。若你如此作，则放逐你牌库顶的两张牌。本回合中，你可以使用这些牌。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以将一张瞬间或法术牌从你的坟墓场置于你的牌库底。若你如此作，则放逐你牌库顶的两张牌。本回合中，你可以使用这些牌。</target>
       </trans-unit>
       <trans-unit id="79b12c44-9537-4863-a678-c982e8714a5a" resname="STX·A-92 | A-Ardent Dustspeaker | Card Name">
         <source>A-Ardent Dustspeaker</source>
@@ -1087,7 +1087,7 @@
       </trans-unit>
       <trans-unit id="742a7487-70a2-448b-8e66-c33cba798a32" resname="STX·94 | Conspiracy Theorist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may pay {1} and discard a card. If you do, draw a card.</source>
-        <target state="translated">每当同谋理论家攻击时，你可以支付{1}并弃一张牌。若你如此作，则抓一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付{1}并弃一张牌。若你如此作，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="742a7487-70a2-448b-8e66-c33cba798a32" resname="STX·94 | Conspiracy Theorist | Card Text | Paragraph 2">
         <source>Whenever you discard one or more nonland cards, you may exile one of them from your graveyard. If you do, you may cast it this turn.</source>
@@ -1099,7 +1099,7 @@
       </trans-unit>
       <trans-unit id="de547f52-3798-4b3a-947d-24873251204b" resname="STX·95 | Crackle with Power | Card Text | Paragraph 1">
         <source>CARDNAME deals five times X damage to each of up to X targets.</source>
-        <target state="translated">聚力劈响对至多X个目标各造成五倍于X数量的伤害。</target>
+        <target state="translated">CARDNAME对至多X个目标各造成五倍于X数量的伤害。</target>
       </trans-unit>
       <trans-unit id="657de246-b9fc-47b1-b932-091e9500bb82" resname="STX·96 | Draconic Intervention | Card Name">
         <source>Draconic Intervention</source>
@@ -1111,11 +1111,11 @@
       </trans-unit>
       <trans-unit id="657de246-b9fc-47b1-b932-091e9500bb82" resname="STX·96 | Draconic Intervention | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage to each non-Dragon creature, where X is the exiled card's mana value. If a creature dealt damage this way would die this turn, exile it instead.</source>
-        <target state="translated">龙族干预对每个非龙生物各造成X点伤害，X为所放逐之牌的法术力值。如果本回合中曾以此法受到伤害的生物将死去，则改为将它放逐。</target>
+        <target state="translated">CARDNAME对每个非龙生物各造成X点伤害，X为所放逐之牌的法术力值。如果本回合中曾以此法受到伤害的生物将死去，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="657de246-b9fc-47b1-b932-091e9500bb82" resname="STX·96 | Draconic Intervention | Card Text | Paragraph 3">
         <source>Exile CARDNAME.</source>
-        <target state="translated">放逐龙族干预。</target>
+        <target state="translated">放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="0cb504a0-1dfb-49d0-84c3-7bd318d55481" resname="STX·97 | Dragon's Approach | Card Name">
         <source>Dragon's Approach</source>
@@ -1123,11 +1123,11 @@
       </trans-unit>
       <trans-unit id="0cb504a0-1dfb-49d0-84c3-7bd318d55481" resname="STX·97 | Dragon's Approach | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to each opponent. You may exile CARDNAME and four cards named CARDNAME from your graveyard. If you do, search your library for a Dragon creature card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">巨龙来袭向每位对手各造成3点伤害。你可以放逐巨龙来袭，并从你的坟墓场放逐四张名称为巨龙来袭的牌。若你如此作，则从你的牌库中搜寻一张龙生物牌，将之放进战场，然后洗牌。</target>
+        <target state="translated">CARDNAME向每位对手各造成3点伤害。你可以放逐CARDNAME，并从你的坟墓场放逐四张名称为CARDNAME的牌。若你如此作，则从你的牌库中搜寻一张龙生物牌，将之放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="0cb504a0-1dfb-49d0-84c3-7bd318d55481" resname="STX·97 | Dragon's Approach | Card Text | Paragraph 2">
         <source>A deck can have any number of cards named CARDNAME.</source>
-        <target state="translated">名称为巨龙来袭的牌，在套牌中的数量不受限制。</target>
+        <target state="translated">名称为CARDNAME的牌，在套牌中的数量不受限制。</target>
       </trans-unit>
       <trans-unit id="d9f0731c-2a3d-4613-bffa-8b967e4f142e" resname="STX·98 | Efreet Flamepainter | Card Name">
         <source>Efreet Flamepainter</source>
@@ -1139,7 +1139,7 @@
       </trans-unit>
       <trans-unit id="d9f0731c-2a3d-4613-bffa-8b967e4f142e" resname="STX·98 | Efreet Flamepainter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.</source>
-        <target state="translated">每当绘焰魔神对任一牌手造成战斗伤害时，你可以从你的坟墓场中施放目标瞬间或法术牌，且不需支付其法术力费用。如果该咒语将进入你的坟墓场，则改为将它放逐。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以从你的坟墓场中施放目标瞬间或法术牌，且不需支付其法术力费用。如果该咒语将进入你的坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="543c64ff-2c51-4a63-a940-dc8645717c85" resname="STX·99 | Enthusiastic Study | Card Name">
         <source>Enthusiastic Study</source>
@@ -1159,7 +1159,7 @@
       </trans-unit>
       <trans-unit id="122c01e6-38a6-456e-971e-9004df85ac1c" resname="STX·100 | Explosive Welcome | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to any target and 3 damage to any other target. Add {R}{R}{R}.</source>
-        <target state="translated">热烈欢迎对任意一个目标造成5点伤害，且对任意另一个目标造成3点伤害。加{R}{R}{R}。</target>
+        <target state="translated">CARDNAME对任意一个目标造成5点伤害，且对任意另一个目标造成3点伤害。加{R}{R}{R}。</target>
       </trans-unit>
       <trans-unit id="1f824caf-b32c-442a-8631-887831a57360" resname="STX·101 | Fervent Mastery | Card Name">
         <source>Fervent Mastery</source>
@@ -1195,7 +1195,7 @@
       </trans-unit>
       <trans-unit id="7ce76a38-fc5f-4e29-ba24-4a877179a62c" resname="STX·103 | Fuming Effigy | Card Text | Paragraph 1">
         <source>Whenever one or more cards leave your graveyard, CARDNAME deals 1 damage to each opponent.</source>
-        <target state="translated">每当一张或数张牌离开你的坟墓场时，熏烟肖像向每位对手各造成1点伤害。</target>
+        <target state="translated">每当一张或数张牌离开你的坟墓场时，CARDNAME向每位对手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="02fdc551-0b22-49f4-8765-143ad82f16a3" resname="STX·105 | Hall Monitor | Card Name">
         <source>Hall Monitor</source>
@@ -1219,7 +1219,7 @@
       </trans-unit>
       <trans-unit id="f40c88e2-28ed-4e5b-bcb3-4397d6a15a6f" resname="STX·106 | Heated Debate | Card Text | Paragraph 2">
         <source>CARDNAME deals 4 damage to target creature or planeswalker.</source>
-        <target state="translated">火热争辩对目标生物或鹏洛客造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="5781ad7b-dc1b-4cc1-9e72-6e714b9ba1de" resname="STX·107 | Igneous Inspiration | Card Name">
         <source>Igneous Inspiration</source>
@@ -1227,7 +1227,7 @@
       </trans-unit>
       <trans-unit id="5781ad7b-dc1b-4cc1-9e72-6e714b9ba1de" resname="STX·107 | Igneous Inspiration | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">火灵启迪对任意一个目标造成3点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="5781ad7b-dc1b-4cc1-9e72-6e714b9ba1de" resname="STX·107 | Igneous Inspiration | Card Text | Paragraph 2">
         <source>Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</source>
@@ -1247,7 +1247,7 @@
       </trans-unit>
       <trans-unit id="56cc4e7d-3b06-4938-9023-d903912350c0" resname="STX·109 | Illustrious Historian | Card Text | Paragraph 1">
         <source>{5}, Exile CARDNAME from your graveyard: Create a tapped 3/2 red and white Spirit creature token.</source>
-        <target state="translated">{5}，从你的坟墓场放逐显赫史家：派出一个已横置的3/2，红白双色的精怪衍生生物。</target>
+        <target state="translated">{5}，从你的坟墓场放逐CARDNAME：派出一个已横置的3/2，红白双色的精怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="8f0ea66f-1756-4b0d-8ccc-3b3a7370b531" resname="STX·110 | Mascot Interception | Card Name">
         <source>Mascot Interception</source>
@@ -1267,7 +1267,7 @@
       </trans-unit>
       <trans-unit id="d285a7a1-bb7e-4a78-a49f-c2add62b829a" resname="STX·111 | Pigment Storm | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to target creature. Excess damage is dealt to that creature's controller instead.</source>
-        <target state="translated">染料风暴对目标生物造成5点伤害。过量伤害改为对该生物的操控者造成之。</target>
+        <target state="translated">CARDNAME对目标生物造成5点伤害。过量伤害改为对该生物的操控者造成之。</target>
       </trans-unit>
       <trans-unit id="7d509f73-cd62-4116-9652-0ed801ed8b36" resname="STX·112 | Pillardrop Warden | Card Name">
         <source>Pillardrop Warden</source>
@@ -1279,7 +1279,7 @@
       </trans-unit>
       <trans-unit id="7d509f73-cd62-4116-9652-0ed801ed8b36" resname="STX·112 | Pillardrop Warden | Card Text | Paragraph 2">
         <source>{2}, {T}, Sacrifice CARDNAME: Return target instant or sorcery card from your graveyard to your hand. Activate only as a sorcery.</source>
-        <target state="translated">{2}，{T}，牺牲避柱护卫：将目标瞬间或法术牌从你的坟墓场移回你手上。只能于法术时机起动。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：将目标瞬间或法术牌从你的坟墓场移回你手上。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="4dd6cb53-3c82-4ac3-be1e-311322729198" resname="STX·113 | Retriever Phoenix | Card Name">
         <source>Retriever Phoenix</source>
@@ -1291,11 +1291,11 @@
       </trans-unit>
       <trans-unit id="4dd6cb53-3c82-4ac3-be1e-311322729198" resname="STX·113 | Retriever Phoenix | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if you cast it, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</source>
-        <target state="translated">当折返凤凰进战场时，若你施放之，则温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
+        <target state="translated">当CARDNAME进战场时，若你施放之，则温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="4dd6cb53-3c82-4ac3-be1e-311322729198" resname="STX·113 | Retriever Phoenix | Card Text | Paragraph 3">
         <source>As long as CARDNAME is in your graveyard, if you would learn, you may instead return CARDNAME to the battlefield.</source>
-        <target state="translated">只要折返凤凰在你的坟墓场中，如果你将温习，你便可以改为将折返凤凰移回战场。</target>
+        <target state="translated">只要CARDNAME在你的坟墓场中，如果你将温习，你便可以改为将CARDNAME移回战场。</target>
       </trans-unit>
       <trans-unit id="55c99486-ae64-4293-81fb-a4b02e8fcae6" resname="STX·114 | Start from Scratch | Card Name">
         <source>Start from Scratch</source>
@@ -1307,7 +1307,7 @@
       </trans-unit>
       <trans-unit id="55c99486-ae64-4293-81fb-a4b02e8fcae6" resname="STX·114 | Start from Scratch | Card Text | Paragraph 2">
         <source>• CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">•从头开始对任意一个目标造成1点伤害。</target>
+        <target state="translated">•CARDNAME对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="55c99486-ae64-4293-81fb-a4b02e8fcae6" resname="STX·114 | Start from Scratch | Card Text | Paragraph 3">
         <source>• Destroy target artifact.</source>
@@ -1320,7 +1320,7 @@
       </trans-unit>
       <trans-unit id="fa96b8dc-233a-4884-ab84-235cbc7df0b6" resname="STX·115 | Storm-Kiln Artist | Card Text | Paragraph 1">
         <source>CARDNAME gets +1/+0 for each artifact you control.</source>
-        <target state="translated">你每操控一个神器，暴风窑艺家便得+1/+0。</target>
+        <target state="translated">你每操控一个神器，CARDNAME便得+1/+0。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="fa96b8dc-233a-4884-ab84-235cbc7df0b6" resname="STX·115 | Storm-Kiln Artist | Card Text | Paragraph 2">
@@ -1353,7 +1353,7 @@
       </trans-unit>
       <trans-unit id="a7cc9ea8-db4e-4f41-800f-fb0dbcb2c345" resname="STX·117 | Tome Shredder | Card Text | Paragraph 2">
         <source>{T}, Exile an instant or sorcery card from your graveyard: Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{T}，从你的坟墓场放逐一张瞬间或法术牌：在毁卷狼上放置一个+1/+1指示物。</target>
+        <target state="translated">{T}，从你的坟墓场放逐一张瞬间或法术牌：在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2952a34c-b0c0-4e1c-9a00-c74c7e6b7d32" resname="STX·A-117 | A-Tome Shredder | Card Name">
         <source>A-Tome Shredder</source>
@@ -1414,11 +1414,11 @@
       </trans-unit>
       <trans-unit id="57d230fc-d382-40b4-bdbd-5fe880fa16bf" resname="STX·123 | Bookwurm | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 3 life and draw a card.</source>
-        <target state="translated">当噬书亚龙进战场时，你获得3点生命且抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，你获得3点生命且抓一张牌。</target>
       </trans-unit>
       <trans-unit id="57d230fc-d382-40b4-bdbd-5fe880fa16bf" resname="STX·123 | Bookwurm | Card Text | Paragraph 3">
         <source>{2}{G}: Put CARDNAME from your graveyard into your library third from the top.</source>
-        <target state="translated">{2}{G}：将噬书亚龙从你的坟墓场置于你牌库顶数来第三张的位置。</target>
+        <target state="translated">{2}{G}：将CARDNAME从你的坟墓场置于你牌库顶数来第三张的位置。</target>
       </trans-unit>
       <trans-unit id="ed16926f-feb0-481a-8c5e-88ea119752cd" resname="STX·124 | Charge Through | Card Name">
         <source>Charge Through</source>
@@ -1454,11 +1454,11 @@
       </trans-unit>
       <trans-unit id="658ec634-3eb2-4967-b938-d20d31ab77e3" resname="STX·127 | Dragonsguard Elite | Card Text | Paragraph 1">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，在菁英护龙卫上放置一个+1/+1指示物。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="658ec634-3eb2-4967-b938-d20d31ab77e3" resname="STX·127 | Dragonsguard Elite | Card Text | Paragraph 2">
         <source>{4}{G}{G}: Double the number of +1/+1 counters on CARDNAME.</source>
-        <target state="translated">{4}{G}{G}：将菁英护龙卫上的+1/+1指示物数量加倍。</target>
+        <target state="translated">{4}{G}{G}：将CARDNAME上的+1/+1指示物数量加倍。</target>
       </trans-unit>
       <trans-unit id="115f3d72-1aaf-4237-91b9-389256e5e5c8" resname="STX·128 | Ecological Appreciation | Card Name">
         <source>Ecological Appreciation</source>
@@ -1466,7 +1466,7 @@
       </trans-unit>
       <trans-unit id="115f3d72-1aaf-4237-91b9-389256e5e5c8" resname="STX·128 | Ecological Appreciation | Card Text | Paragraph 1">
         <source>Search your library and graveyard for up to four creature cards with different names that each have mana value X or less and reveal them. An opponent chooses two of those cards. Shuffle the chosen cards into your library and put the rest onto the battlefield. Exile CARDNAME.</source>
-        <target state="translated">从你的牌库和坟墓场中搜寻至多四张名称各不相同的生物牌，且其法术力值均须等于或小于X，展示这些牌。任一对手选择其中两张牌。将所选之牌洗入你的牌库，其余则放进战场。放逐生态鉴赏。</target>
+        <target state="translated">从你的牌库和坟墓场中搜寻至多四张名称各不相同的生物牌，且其法术力值均须等于或小于X，展示这些牌。任一对手选择其中两张牌。将所选之牌洗入你的牌库，其余则放进战场。放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="04a81975-5f0e-4593-a2da-b9689f9a985f" resname="STX·129 | Emergent Sequence | Card Name">
         <source>Emergent Sequence</source>
@@ -1514,7 +1514,7 @@
       </trans-unit>
       <trans-unit id="a32338e8-1f6a-49b9-bd93-26578adab6b3" resname="STX·133 | Gnarled Professor | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</source>
-        <target state="translated">当糙节教授进战场时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
+        <target state="translated">当CARDNAME进战场时，温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="a9c6a6b9-f00c-46a5-8dab-796483e3a262" resname="STX·134 | Honor Troll | Card Name">
         <source>Honor Troll</source>
@@ -1586,7 +1586,7 @@
       </trans-unit>
       <trans-unit id="a71dddf5-8f72-4018-9cc8-5f63a17f1ee5" resname="STX·139 | Overgrown Arch | Card Text | Paragraph 3">
         <source>{2}, Sacrifice CARDNAME: Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</source>
-        <target state="translated">{2}，牺牲蔓生植拱：温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
+        <target state="translated">{2}，牺牲CARDNAME：温习。（你可以从游戏外展示一张由你拥有的课程牌并置于你手上，或弃一张牌来抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="8347f2e8-ef70-4879-860a-12f7cab25902" resname="STX·140 | Professor of Zoomancy | Card Name">
         <source>Professor of Zoomancy</source>
@@ -1594,7 +1594,7 @@
       </trans-unit>
       <trans-unit id="8347f2e8-ef70-4879-860a-12f7cab25902" resname="STX·140 | Professor of Zoomancy | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 black and green Pest creature token with &amp;quot;When this creature dies, you gain 1 life.&amp;quot;</source>
-        <target state="translated">当动物术教授进战场时，派出一个1/1，黑绿双色的害虫衍生生物，且具有「当此生物死去时，你获得1点生命。」</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1，黑绿双色的害虫衍生生物，且具有「当此生物死去时，你获得1点生命。」</target>
       </trans-unit>
       <trans-unit id="bc8072b1-6080-45cd-b1c7-353b54a55931" resname="STX·141 | Reckless Amplimancer | Card Name">
         <source>Reckless Amplimancer</source>
@@ -1603,7 +1603,7 @@
       </trans-unit>
       <trans-unit id="bc8072b1-6080-45cd-b1c7-353b54a55931" resname="STX·141 | Reckless Amplimancer | Card Text | Paragraph 1">
         <source>{4}{G}: Double CARDNAME's power and toughness until end of turn.</source>
-        <target state="translated">{4}{G}：将鲁莽增术师的力量与防御力加倍直到回合结束。</target>
+        <target state="translated">{4}{G}：将CARDNAME的力量与防御力加倍直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="c9c0a096-870d-443c-92d3-f7ec1f362616" resname="STX·142 | Scurrid Colony | Card Name">
@@ -1616,7 +1616,7 @@
       </trans-unit>
       <trans-unit id="c9c0a096-870d-443c-92d3-f7ec1f362616" resname="STX·142 | Scurrid Colony | Card Text | Paragraph 2">
         <source>CARDNAME gets +2/+2 as long as you control eight or more lands.</source>
-        <target state="translated">只要你操控八个或更多地，怖鼠群落便得+2/+2。</target>
+        <target state="translated">只要你操控八个或更多地，CARDNAME便得+2/+2。</target>
       </trans-unit>
       <trans-unit id="c37ae6b5-225a-410e-ab22-13e923bdfb65" resname="STX·143 | Spined Karok | Card Name">
         <source>Spined Karok</source>
@@ -1628,7 +1628,7 @@
       </trans-unit>
       <trans-unit id="f5b0eac4-0262-4eed-97d4-0f2e6f06c8e1" resname="STX·144 | Springmane Cervin | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 2 life.</source>
-        <target state="translated">当春鬃魔鹿进战场时，你获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="80fbf729-00c0-4237-8294-c857f96364d3" resname="STX·145 | Tangletrap | Card Name">
         <source>Tangletrap</source>
@@ -1640,7 +1640,7 @@
       </trans-unit>
       <trans-unit id="80fbf729-00c0-4237-8294-c857f96364d3" resname="STX·145 | Tangletrap | Card Text | Paragraph 2">
         <source>• CARDNAME deals 5 damage to target creature with flying.</source>
-        <target state="translated">•缠草捕物对目标具飞行异能的生物造成5点伤害。</target>
+        <target state="translated">•CARDNAME对目标具飞行异能的生物造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="80fbf729-00c0-4237-8294-c857f96364d3" resname="STX·145 | Tangletrap | Card Text | Paragraph 3">
         <source>• Destroy target artifact.</source>
@@ -1664,7 +1664,7 @@
       </trans-unit>
       <trans-unit id="d9131fc3-018a-4975-8795-47be3956160d" resname="STX·147 | Augmenter Pugilist | Card Text | Paragraphs">
         <source>Trample\nAs long as you control eight or more lands, CARDNAME gets +5/+5.</source>
-        <target state="translated">践踏\n只要你操控八个或更多地，增威拳手便得+5/+5。\n\n\n法术\n{3}{U}{U}</target>
+        <target state="translated">践踏\n只要你操控八个或更多地，CARDNAME便得+5/+5。\n\n\n法术\n{3}{U}{U}</target>
       </trans-unit>
       <trans-unit id="d9131fc3-018a-4975-8795-47be3956160d" resname="STX·147 | Echoing Equation | Card Name">
         <source>Echoing Equation</source>
@@ -1680,7 +1680,7 @@
       </trans-unit>
       <trans-unit id="c204b7ca-0904-40fa-b20c-92400fae20b8" resname="STX·148 | Blex, Vexing Pest | Card Text | Paragraphs">
         <source>Other Pests, Bats, Insects, Snakes, and Spiders you control get +1/+1.\nWhen CARDNAME dies, you gain 4 life.</source>
-        <target state="translated">由你操控的其他害虫、蝙蝠、昆虫、蛇和蜘蛛得+1/+1。\n当乱心害虫毕雷兹死去时，你获得4点生命。\n\n\n法术\n{2}{B}{B}</target>
+        <target state="translated">由你操控的其他害虫、蝙蝠、昆虫、蛇和蜘蛛得+1/+1。\n当CARDNAME死去时，你获得4点生命。\n\n\n法术\n{2}{B}{B}</target>
       </trans-unit>
       <trans-unit id="c204b7ca-0904-40fa-b20c-92400fae20b8" resname="STX·148 | Search for Blex | Card Name">
         <source>Search for Blex</source>
@@ -1712,7 +1712,7 @@
       </trans-unit>
       <trans-unit id="0dba25e3-2b4f-45d4-965f-3834bcb359ee" resname="STX·150 | Flamescroll Celebrant | Card Text | Paragraphs">
         <source>Whenever an opponent activates an ability that isn't a mana ability, CARDNAME deals 1 damage to that player.\n{1}{R}: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">每当任一对手起动不属法术力异能的异能时，焰卷主祭对该牌手造成1点伤害。\n{1}{R}：焰卷主祭得+2/+0直到回合结束。\n\n\n瞬间\n{W}{W}</target>
+        <target state="translated">每当任一对手起动不属法术力异能的异能时，CARDNAME对该牌手造成1点伤害。\n{1}{R}：CARDNAME得+2/+0直到回合结束。\n\n\n瞬间\n{W}{W}</target>
       </trans-unit>
       <trans-unit id="0dba25e3-2b4f-45d4-965f-3834bcb359ee" resname="STX·150 | Revel in Silence | Card Name">
         <source>Revel in Silence</source>
@@ -1720,7 +1720,7 @@
       </trans-unit>
       <trans-unit id="0dba25e3-2b4f-45d4-965f-3834bcb359ee" resname="STX·150 | Revel in Silence | Card Text | Paragraphs">
         <source>Your opponents can't cast spells or activate planeswalkers' loyalty abilities this turn.\nExile CARDNAME.</source>
-        <target state="translated">本回合中，所有对手都不能施放咒语或起动鹏洛客的忠诚异能。\n放逐陶醉静寂。\n\n\n祭师\n{1}{R}</target>
+        <target state="translated">本回合中，所有对手都不能施放咒语或起动鹏洛客的忠诚异能。\n放逐CARDNAME。\n\n\n祭师\n{1}{R}</target>
       </trans-unit>
       <trans-unit id="d7148d24-373e-4485-860b-c3429c2337f2" resname="STX·151 | Jadzi, Oracle of Arcavios | Card Name">
         <source>Jadzi, Oracle of Arcavios</source>
@@ -1728,7 +1728,7 @@
       </trans-unit>
       <trans-unit id="d7148d24-373e-4485-860b-c3429c2337f2" resname="STX·151 | Jadzi, Oracle of Arcavios | Card Text | Paragraphs">
         <source>Discard a card: Return CARDNAME to its owner's hand.\nMagecraft — Whenever you cast or copy an instant or sorcery spell, reveal the top card of your library. If it's a nonland card, you may cast it by paying {1} rather than paying its mana cost. If it's a land card, put it onto the battlefield.</source>
-        <target state="translated">弃一张牌：将阿凯维沃圣法谕贾琦移回其拥有者手上。\n魔艺～每当你施放或复制瞬间或法术咒语时，展示你的牌库顶牌。如果它是非地牌，则则你可以施放它，但须支付{1}，而非支付其法术力费用。如果它是地牌，则将之放进战场。\n\n\n法术\n{2}{G}{G}</target>
+        <target state="translated">弃一张牌：将CARDNAME移回其拥有者手上。\n魔艺～每当你施放或复制瞬间或法术咒语时，展示你的牌库顶牌。如果它是非地牌，则则你可以施放它，但须支付{1}，而非支付其法术力费用。如果它是地牌，则将之放进战场。\n\n\n法术\n{2}{G}{G}</target>
       </trans-unit>
       <trans-unit id="d7148d24-373e-4485-860b-c3429c2337f2" resname="STX·151 | Journey to the Oracle | Card Name">
         <source>Journey to the Oracle</source>
@@ -1736,7 +1736,7 @@
       </trans-unit>
       <trans-unit id="d7148d24-373e-4485-860b-c3429c2337f2" resname="STX·151 | Journey to the Oracle | Card Text | Paragraphs">
         <source>You may put any number of land cards from your hand onto the battlefield. Then if you control eight or more lands, you may discard a card. If you do, return CARDNAME to its owner's hand.</source>
-        <target state="translated">你可以将任意数量的地牌从你手上放进战场。然后如果你操控八个或更多地，则你可以弃一张牌。若你如此作，则将追寻圣法谕移回其拥有者手上。\n\n\n法术师\n{6}{U}{U}</target>
+        <target state="translated">你可以将任意数量的地牌从你手上放进战场。然后如果你操控八个或更多地，则你可以弃一张牌。若你如此作，则将CARDNAME移回其拥有者手上。\n\n\n法术师\n{6}{U}{U}</target>
       </trans-unit>
       <trans-unit id="8b45dc40-6827-46a7-a9b7-802be698d053" resname="STX·152 | Kianne, Dean of Substance | Card Name">
         <source>Kianne, Dean of Substance</source>
@@ -1768,7 +1768,7 @@
       </trans-unit>
       <trans-unit id="aaa1e6be-08cc-4ccc-b2de-3511613e4fd0" resname="STX·154 | Restorative Burst | Card Text | Paragraphs">
         <source>Return up to two target creature, land, and/or planeswalker cards from your graveyard to your hand. Each player gains 4 life. Exile CARDNAME.</source>
-        <target state="translated">将至多两张目标生物，地和／或鹏洛客牌从你的坟墓场移回你手上。每位牌手各获得4点生命。放逐复归爆发。\n\n\n神器\n{2}{B}</target>
+        <target state="translated">将至多两张目标生物，地和／或鹏洛客牌从你的坟墓场移回你手上。每位牌手各获得4点生命。放逐CARDNAME。\n\n\n神器\n{2}{B}</target>
       </trans-unit>
       <trans-unit id="18c16872-3675-4a4d-962a-2e17ad6f3886" resname="STX·156 | Rowan, Scholar of Sparks | Card Name">
         <source>Rowan, Scholar of Sparks</source>
@@ -1776,7 +1776,7 @@
       </trans-unit>
       <trans-unit id="18c16872-3675-4a4d-962a-2e17ad6f3886" resname="STX·156 | Rowan, Scholar of Sparks | Card Text | Paragraphs">
         <source>Instant and sorcery spells you cast cost {1} less to cast.\n[+1]: CARDNAME deals 1 damage to each opponent. If you've drawn three or more cards this turn, she deals 3 damage to each opponent instead.\n[−4]: You get an emblem with &amp;quot;Whenever you cast an instant or sorcery spell, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy.&amp;quot;</source>
-        <target state="translated">你施放的瞬间与法术咒语减少{1}来施放。\n+1：火花学者萝婉向每位对手各造成1点伤害。如果你本回合中抓过三张或更多牌，则改为她向每位对手各造成3点伤害。\n-4：你获得具有以下异能的徽记～「每当你施放瞬间或法术咒语时，你可以支付{2}。若你如此作，则复制该咒语。你可以为该复制品选择新的目标。」\n\n\n威尔\n{4}{U}</target>
+        <target state="translated">你施放的瞬间与法术咒语减少{1}来施放。\n+1：CARDNAME向每位对手各造成1点伤害。如果你本回合中抓过三张或更多牌，则改为她向每位对手各造成3点伤害。\n-4：你获得具有以下异能的徽记～「每当你施放瞬间或法术咒语时，你可以支付{2}。若你如此作，则复制该咒语。你可以为该复制品选择新的目标。」\n\n\n威尔\n{4}{U}</target>
       </trans-unit>
       <trans-unit id="18c16872-3675-4a4d-962a-2e17ad6f3886" resname="STX·156 | Will, Scholar of Frost | Card Name">
         <source>Will, Scholar of Frost</source>
@@ -1802,7 +1802,7 @@
       </trans-unit>
       <trans-unit id="8982ff88-8595-4363-8cde-6e87fb57a2d8" resname="STX·157 | Selfless Glyphweaver | Card Text | Paragraphs">
         <source>Exile CARDNAME: Creatures you control gain indestructible until end of turn.</source>
-        <target state="translated">放逐无私织符僧：由你操控的生物获得不灭异能直到回合结束。\n\n\n法术\n{5}{B}{B}{B}</target>
+        <target state="translated">放逐CARDNAME：由你操控的生物获得不灭异能直到回合结束。\n\n\n法术\n{5}{B}{B}{B}</target>
       </trans-unit>
       <trans-unit id="8982ff88-8595-4363-8cde-6e87fb57a2d8" resname="STX·157 | Deadly Vanity | Card Name">
         <source>Deadly Vanity</source>
@@ -1818,7 +1818,7 @@
       </trans-unit>
       <trans-unit id="87463b68-3642-41c7-a11c-67d524759b60" resname="STX·159 | Torrent Sculptor | Card Text | Paragraphs">
         <source>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nWhen CARDNAME enters the battlefield, exile an instant or sorcery card from your graveyard. Put a number of +1/+1 counters on CARDNAME equal to half that card's mana value, rounded up.</source>
-        <target state="translated">守护{2}（每当此生物成为由对手操控之咒语或异能的目标时，除非该牌手支付{2}，否则反击之。）\n当奔流塑师进战场时，从你的坟墓场放逐一张瞬间或法术牌。在奔流塑师上放置若干+1/+1指示物，其数量等同于所放逐之牌法术力值的一半，小数点后进位。\n\n\n法术\n{1}{R}</target>
+        <target state="translated">守护{2}（每当此生物成为由对手操控之咒语或异能的目标时，除非该牌手支付{2}，否则反击之。）\n当CARDNAME进战场时，从你的坟墓场放逐一张瞬间或法术牌。在CARDNAME上放置若干+1/+1指示物，其数量等同于所放逐之牌法术力值的一半，小数点后进位。\n\n\n法术\n{1}{R}</target>
       </trans-unit>
       <trans-unit id="87463b68-3642-41c7-a11c-67d524759b60" resname="STX·159 | Flamethrower Sonata | Card Name">
         <source>Flamethrower Sonata</source>
@@ -1826,7 +1826,7 @@
       </trans-unit>
       <trans-unit id="87463b68-3642-41c7-a11c-67d524759b60" resname="STX·159 | Flamethrower Sonata | Card Text | Paragraphs">
         <source>Discard a card, then draw a card. When you discard an instant or sorcery card this way, CARDNAME deals damage equal to that card's mana value to target creature or planeswalker you don't control.</source>
-        <target state="translated">弃一张牌，然后抓一张牌。当你以此法弃掉一张瞬间或法术牌时，喷焰奏曲对目标不由你操控的生物或鹏洛客造成伤害，其数量等同于所弃之牌的法术力值。\n\n\n法术师\n{2}{U}{U}</target>
+        <target state="translated">弃一张牌，然后抓一张牌。当你以此法弃掉一张瞬间或法术牌时，CARDNAME对目标不由你操控的生物或鹏洛客造成伤害，其数量等同于所弃之牌的法术力值。\n\n\n法术师\n{2}{U}{U}</target>
       </trans-unit>
       <trans-unit id="8cfd0887-0c83-4b33-a85e-8b8ec5bf758d" resname="STX·160 | Uvilda, Dean of Perfection | Card Name">
         <source>Uvilda, Dean of Perfection</source>
@@ -1842,7 +1842,7 @@
       </trans-unit>
       <trans-unit id="8cfd0887-0c83-4b33-a85e-8b8ec5bf758d" resname="STX·160 | Nassari, Dean of Expression | Card Text | Paragraphs">
         <source>At the beginning of your upkeep, exile the top card of each opponent's library. Until end of turn, you may cast spells from among those exiled cards, and you may spend mana as though it were mana of any color to cast those spells.\nWhenever you cast a spell from exile, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，放逐每位对手的牌库顶牌。直到回合结束，你可以从所放逐的牌之中施放咒语，且你可以将法术力视同任意颜色的法术力来支付施放这些咒语的费用。\n每当你从放逐区中施放咒语时，在展现院长纳撒理上放置一个+1/+1指示物。\n\n\n法术师\n{2}{U}</target>
+        <target state="translated">在你的维持开始时，放逐每位对手的牌库顶牌。直到回合结束，你可以从所放逐的牌之中施放咒语，且你可以将法术力视同任意颜色的法术力来支付施放这些咒语的费用。\n每当你从放逐区中施放咒语时，在CARDNAME上放置一个+1/+1指示物。\n\n\n法术师\n{2}{U}</target>
       </trans-unit>
       <trans-unit id="7d1c653e-f629-4105-a52c-379c5cd78208" resname="STX·162 | Aether Helix | Card Name">
         <source>Aether Helix</source>
@@ -1874,7 +1874,7 @@
       </trans-unit>
       <trans-unit id="b41a35ef-dae1-4534-a12a-d3951b285273" resname="STX·164 | Biomathematician | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 0/0 green and blue Fractal creature token. Put a +1/+1 counter on each Fractal you control.</source>
-        <target state="translated">当生机数学家进战场时，派出一个0/0，绿蓝双色的分灵衍生生物。在每个由你操控的分灵上各放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个0/0，绿蓝双色的分灵衍生生物。在每个由你操控的分灵上各放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="a46d64ec-aca4-428e-bce6-66cd755c8cc3" resname="STX·165 | Blade Historian | Card Name">
         <source>Blade Historian</source>
@@ -1894,7 +1894,7 @@
       </trans-unit>
       <trans-unit id="3e35e9ba-a10e-4926-a7a6-3a65efc2a730" resname="STX·166 | Blood Researcher | Card Text | Paragraph 2">
         <source>Whenever you gain life, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你获得生命时，在鲜血研究员上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你获得生命时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="0141312f-4b68-4c56-b1dc-5b7e6afbb96c" resname="STX·167 | Blot Out the Sky | Card Name">
         <source>Blot Out the Sky</source>
@@ -1942,11 +1942,11 @@
       </trans-unit>
       <trans-unit id="eab58d87-bf01-45dc-8958-e2b3375f914b" resname="STX·171 | Creative Outburst | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to any target. Look at the top five cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.</source>
-        <target state="translated">创意爆发对任意一个目标造成5点伤害。检视你牌库顶的五张牌。将其中一张置于你手上，其余的牌则以随机顺序置于你的牌库底。</target>
+        <target state="translated">CARDNAME对任意一个目标造成5点伤害。检视你牌库顶的五张牌。将其中一张置于你手上，其余的牌则以随机顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="eab58d87-bf01-45dc-8958-e2b3375f914b" resname="STX·171 | Creative Outburst | Card Text | Paragraph 2">
         <source>{U/R}{U/R}, Discard CARDNAME: Create a Treasure token.</source>
-        <target state="translated">{U/R}{U/R}，弃掉创意爆发：派出一个珍宝衍生物。</target>
+        <target state="translated">{U/R}{U/R}，弃掉CARDNAME：派出一个珍宝衍生物。</target>
       </trans-unit>
       <trans-unit id="8f6f91d3-cc07-4a42-99a0-5fb83b29cc25" resname="STX·172 | Culling Ritual | Card Name">
         <source>Culling Ritual</source>
@@ -1962,7 +1962,7 @@
       </trans-unit>
       <trans-unit id="2483060e-9d3f-48ae-80ea-0119bf6b4d67" resname="STX·173 | Culmination of Studies | Card Text | Paragraph 1">
         <source>Exile the top X cards of your library. For each land card exiled this way, create a Treasure token. For each blue card exiled this way, draw a card. For each red card exiled this way, CARDNAME deals 1 damage to each opponent.</source>
-        <target state="translated">放逐你牌库顶的X张牌。每以此法放逐一张地牌，便派出一个珍宝衍生物。每以此法放逐一张蓝色牌，便抓一张牌。每以此法放逐一张红色牌，研学巅峰便向每位对手各造成1点伤害。</target>
+        <target state="translated">放逐你牌库顶的X张牌。每以此法放逐一张地牌，便派出一个珍宝衍生物。每以此法放逐一张蓝色牌，便抓一张牌。每以此法放逐一张红色牌，CARDNAME便向每位对手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="c2f18828-ade7-4b99-97b2-e34bc2fdb68c" resname="STX·174 | Daemogoth Titan | Card Name">
         <source>Daemogoth Titan</source>
@@ -1970,7 +1970,7 @@
       </trans-unit>
       <trans-unit id="c2f18828-ade7-4b99-97b2-e34bc2fdb68c" resname="STX·174 | Daemogoth Titan | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks or blocks, sacrifice a creature.</source>
-        <target state="translated">每当无丈魔泰坦进行攻击或阻挡时，牺牲一个生物。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，牺牲一个生物。</target>
       </trans-unit>
       <trans-unit id="c965cbe3-50e5-41bb-bdb9-e65d97aab716" resname="STX·175 | Daemogoth Woe-Eater | Card Name">
         <source>Daemogoth Woe-Eater</source>
@@ -1982,7 +1982,7 @@
       </trans-unit>
       <trans-unit id="c965cbe3-50e5-41bb-bdb9-e65d97aab716" resname="STX·175 | Daemogoth Woe-Eater | Card Text | Paragraph 2">
         <source>When you sacrifice CARDNAME, each opponent discards a card, you draw a card, and you gain 2 life.</source>
-        <target state="translated">当你牺牲噬悲无丈魔时，每位对手各弃一张牌，你抓一张牌，且你获得2点生命。</target>
+        <target state="translated">当你牺牲CARDNAME时，每位对手各弃一张牌，你抓一张牌，且你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="87d33e48-90fc-4aac-b09a-68050bc053b5" resname="STX·176 | Deadly Brew | Card Name">
         <source>Deadly Brew</source>
@@ -2020,7 +2020,7 @@
       </trans-unit>
       <trans-unit id="9cd2b567-0cf7-4441-b3ce-e31141dd91c8" resname="STX·178 | Dina, Soul Steeper | Card Text | Paragraph 2">
         <source>{1}, Sacrifice another creature: CARDNAME gets +X/+0 until end of turn, where X is the sacrificed creature's power.</source>
-        <target state="translated">{1}，牺牲另一个生物：浸灵迪娜得+X/+0直到回合结束，X为所牺牲生物的力量。</target>
+        <target state="translated">{1}，牺牲另一个生物：CARDNAME得+X/+0直到回合结束，X为所牺牲生物的力量。</target>
         <note xmlns:from="developer">中文数据来自MUL（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="c3d35413-8742-4443-8859-93c91112978d" resname="STX·179 | Double Major | Card Name">
@@ -2061,7 +2061,7 @@
       </trans-unit>
       <trans-unit id="4331a7a6-e98e-4517-b0f9-ace379426a94" resname="STX·182 | Elemental Masterpiece | Card Text | Paragraph 2">
         <source>{U/R}{U/R}, Discard CARDNAME: Create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">{U/R}{U/R}，弃掉元素杰作：派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">{U/R}{U/R}，弃掉CARDNAME：派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="ea51991c-1589-4c62-965b-5ae8d233520b" resname="STX·183 | Elemental Summoning | Card Name">
         <source>Elemental Summoning</source>
@@ -2121,7 +2121,7 @@
       </trans-unit>
       <trans-unit id="06c9158c-064b-4d12-b860-d2c1450d1897" resname="STX·189 | Galazeth Prismari | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create a Treasure token.</source>
-        <target state="translated">当加拉泽粹丽进战场时，派出一个珍宝衍生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个珍宝衍生物。</target>
       </trans-unit>
       <trans-unit id="06c9158c-064b-4d12-b860-d2c1450d1897" resname="STX·189 | Galazeth Prismari | Card Text | Paragraph 3">
         <source>Artifacts you control have &amp;quot;{T}: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.&amp;quot;</source>
@@ -2145,7 +2145,7 @@
       </trans-unit>
       <trans-unit id="f74120ce-9f11-449f-bb72-04fe2a27a9f6" resname="STX·191 | Harness Infinity | Card Text | Paragraph 2">
         <source>Exile CARDNAME.</source>
-        <target state="translated">放逐掌驭无垠。</target>
+        <target state="translated">放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="bd8deecf-eded-418b-ac4c-5c3e8f54e86d" resname="STX·192 | Hofri Ghostforge | Card Name">
         <source>Hofri Ghostforge</source>
@@ -2193,7 +2193,7 @@
       </trans-unit>
       <trans-unit id="178bf300-38cf-4ab2-9e66-6fcaa112b649" resname="STX·196 | Kasmina, Enigma Sage | Card Text | Paragraph 1">
         <source>Each other planeswalker you control has the loyalty abilities of CARDNAME.</source>
-        <target state="translated">每个由你操控的其他鹏洛客均具有谜样智者克蜜娜的所有忠诚异能。</target>
+        <target state="translated">每个由你操控的其他鹏洛客均具有CARDNAME的所有忠诚异能。</target>
       </trans-unit>
       <trans-unit id="178bf300-38cf-4ab2-9e66-6fcaa112b649" resname="STX·196 | Kasmina, Enigma Sage | Card Text | Paragraph 2">
         <source>[+2]: Scry 1.</source>
@@ -2249,7 +2249,7 @@
       </trans-unit>
       <trans-unit id="e4f0885f-1049-4a19-853d-f4e6d4bec29e" resname="STX·199 | Lorehold Command | Card Text | Paragraph 4">
         <source>• CARDNAME deals 3 damage to any target. Target player gains 3 life.</source>
-        <target state="translated">•衡鉴指命对任意一个目标造成3点伤害。目标牌手获得3点生命。</target>
+        <target state="translated">•CARDNAME对任意一个目标造成3点伤害。目标牌手获得3点生命。</target>
       </trans-unit>
       <trans-unit id="e4f0885f-1049-4a19-853d-f4e6d4bec29e" resname="STX·199 | Lorehold Command | Card Text | Paragraph 5">
         <source>• Sacrifice a permanent, then draw two cards.</source>
@@ -2261,7 +2261,7 @@
       </trans-unit>
       <trans-unit id="43105beb-46f3-4914-8222-4907bd76d48f" resname="STX·200 | Lorehold Excavation | Card Text | Paragraph 1">
         <source>At the beginning of your end step, mill a card. If a land card was milled this way, you gain 1 life. Otherwise, CARDNAME deals 1 damage to each opponent. (To mill a card, put the top card of your library into your graveyard.)</source>
-        <target state="translated">在你的结束步骤开始时，磨一张牌。若以此法磨掉一张地牌，则你获得1点生命。若否，则衡鉴挖掘向每位对手各造成1点伤害。（磨一张牌的流程是将你牌库顶的牌置入你的坟墓场。）</target>
+        <target state="translated">在你的结束步骤开始时，磨一张牌。若以此法磨掉一张地牌，则你获得1点生命。若否，则CARDNAME向每位对手各造成1点伤害。（磨一张牌的流程是将你牌库顶的牌置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="43105beb-46f3-4914-8222-4907bd76d48f" resname="STX·200 | Lorehold Excavation | Card Text | Paragraph 2">
         <source>{5}, Exile a creature card from your graveyard: Create a tapped 3/2 red and white Spirit creature token.</source>
@@ -2277,7 +2277,7 @@
       </trans-unit>
       <trans-unit id="79b88b38-6b5a-4a89-80ca-add79c11e8b9" resname="STX·201 | Lorehold Pledgemage | Card Text | Paragraph 2">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，衡鉴证法师得+1/+0直到回合结束。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5516e81e-16ea-411c-9df0-ed3b03670220" resname="STX·202 | Maelstrom Muse | Card Name">
         <source>Maelstrom Muse</source>
@@ -2289,7 +2289,7 @@
       </trans-unit>
       <trans-unit id="5516e81e-16ea-411c-9df0-ed3b03670220" resname="STX·202 | Maelstrom Muse | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, the next instant or sorcery spell you cast this turn costs {X} less to cast, where X is CARDNAME's power as this ability resolves.</source>
-        <target state="translated">每当涡心缪思攻击时，你本回合中施放的下一个瞬间或法术咒语减少{X}来施放，X为于此异能结算时涡心缪思的力量。</target>
+        <target state="translated">每当CARDNAME攻击时，你本回合中施放的下一个瞬间或法术咒语减少{X}来施放，X为于此异能结算时CARDNAME的力量。</target>
       </trans-unit>
       <trans-unit id="f53e674b-5d48-4734-beeb-2a3deeb935e0" resname="STX·A-202 | A-Maelstrom Muse | Card Name">
         <source>A-Maelstrom Muse</source>
@@ -2302,11 +2302,11 @@
       </trans-unit>
       <trans-unit id="27c914a3-2294-4feb-9450-c012cfd307a6" resname="STX·203 | Magma Opus | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage divided as you choose among any number of targets. Tap two target permanents. Create a 4/4 blue and red Elemental creature token. Draw two cards.</source>
-        <target state="translated">至炫熔彩对任意数量的目标造成共4点伤害，你可以任意分配。横置两个目标永久物。派出一个4/4，蓝红双色的元素衍生生物。抓两张牌。</target>
+        <target state="translated">CARDNAME对任意数量的目标造成共4点伤害，你可以任意分配。横置两个目标永久物。派出一个4/4，蓝红双色的元素衍生生物。抓两张牌。</target>
       </trans-unit>
       <trans-unit id="27c914a3-2294-4feb-9450-c012cfd307a6" resname="STX·203 | Magma Opus | Card Text | Paragraph 2">
         <source>{U/R}{U/R}, Discard CARDNAME: Create a Treasure token.</source>
-        <target state="translated">{U/R}{U/R}，弃掉至炫熔彩：派出一个珍宝衍生物。</target>
+        <target state="translated">{U/R}{U/R}，弃掉CARDNAME：派出一个珍宝衍生物。</target>
       </trans-unit>
       <trans-unit id="7e937830-3804-44e8-b9d0-3e5f5cf39eab" resname="STX·204 | Make Your Mark | Card Name">
         <source>Make Your Mark</source>
@@ -2322,7 +2322,7 @@
       </trans-unit>
       <trans-unit id="76fc5cd2-fbb0-4d13-9089-0292b356de48" resname="STX·205 | Manifestation Sage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is the number of cards in your hand.</source>
-        <target state="translated">当具现智者进战场时，派出一个0/0，绿蓝双色的分灵衍生生物。在其上放置X个+1/+1指示物，X为你的手牌数量。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个0/0，绿蓝双色的分灵衍生生物。在其上放置X个+1/+1指示物，X为你的手牌数量。</target>
       </trans-unit>
       <trans-unit id="70c2ef30-0db5-4ef5-999c-7ffa48769421" resname="STX·206 | Moldering Karok | Card Name">
         <source>Moldering Karok</source>
@@ -2398,7 +2398,7 @@
       </trans-unit>
       <trans-unit id="dca3aa59-c8ac-4930-abf7-0a74d657122a" resname="STX·213 | Prismari Apprentice | Card Text | Paragraph 1">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, CARDNAME can't be blocked this turn. If that spell has mana value 5 or greater, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，粹丽学徒本回合不能被阻挡。如果该咒语的法术力值等于或大于5，则在粹丽学徒上放置一个+1/+1指示物。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，CARDNAME本回合不能被阻挡。如果该咒语的法术力值等于或大于5，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="866b7fd4-86e3-4b42-b1ea-33bad0db1f9f" resname="STX·214 | Prismari Command | Card Name">
         <source>Prismari Command</source>
@@ -2410,7 +2410,7 @@
       </trans-unit>
       <trans-unit id="866b7fd4-86e3-4b42-b1ea-33bad0db1f9f" resname="STX·214 | Prismari Command | Card Text | Paragraph 2">
         <source>• CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">•粹丽指命对任意一个目标造成2点伤害。</target>
+        <target state="translated">•CARDNAME对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="866b7fd4-86e3-4b42-b1ea-33bad0db1f9f" resname="STX·214 | Prismari Command | Card Text | Paragraph 3">
         <source>• Target player draws two cards, then discards two cards.</source>
@@ -2434,7 +2434,7 @@
       </trans-unit>
       <trans-unit id="404b4c7b-5d40-4ad1-bd40-3da1d08f5c78" resname="STX·215 | Prismari Pledgemage | Card Text | Paragraph 2">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, CARDNAME can attack this turn as though it didn't have defender.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，粹丽证法师于本回合中能视同不具守军异能地进行攻击。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，CARDNAME于本回合中能视同不具守军异能地进行攻击。</target>
       </trans-unit>
       <trans-unit id="0291c909-bb87-47cb-9b06-5e409e654f15" resname="STX·216 | Quandrix Apprentice | Card Name">
         <source>Quandrix Apprentice</source>
@@ -2474,7 +2474,7 @@
       </trans-unit>
       <trans-unit id="e3ca9ff7-0dcf-4ecc-879c-957d290ad7f5" resname="STX·218 | Quandrix Cultivator | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a basic Forest or Island card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">当量析栽培师进战场时，你可以从你的牌库中搜寻一张基本的树林或海岛牌，将之放进战场，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库中搜寻一张基本的树林或海岛牌，将之放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="07633b7f-4150-458b-89c3-d05dc0e3c4bd" resname="STX·219 | Quandrix Pledgemage | Card Name">
         <source>Quandrix Pledgemage</source>
@@ -2482,7 +2482,7 @@
       </trans-unit>
       <trans-unit id="07633b7f-4150-458b-89c3-d05dc0e3c4bd" resname="STX·219 | Quandrix Pledgemage | Card Text | Paragraph 1">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，在量析证法师上放置一个+1/+1指示物。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="06c55ef1-8e62-4d43-bd4c-b2c3c5203338" resname="STX·220 | Quintorius, Field Historian | Card Name">
         <source>Quintorius, Field Historian</source>
@@ -2518,7 +2518,7 @@
       </trans-unit>
       <trans-unit id="3e565e38-43d5-482e-a911-ce525dfee74f" resname="STX·222 | Reconstruct History | Card Text | Paragraph 2">
         <source>Exile CARDNAME.</source>
-        <target state="translated">放逐重构历史。</target>
+        <target state="translated">放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="c1cb483f-c567-4cfd-9fe8-1503e7b40542" resname="STX·223 | Relic Sloth | Card Name">
         <source>Relic Sloth</source>
@@ -2542,7 +2542,7 @@
       </trans-unit>
       <trans-unit id="7aa0e762-0fec-4f6b-b3d7-ad8295bf557d" resname="STX·224 | Returned Pastcaller | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return target Spirit, instant, or sorcery card from your graveyard to your hand.</source>
-        <target state="translated">当复归唤故灵进战场时，将目标精怪，瞬间或法术牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标精怪，瞬间或法术牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="b3b5b510-fd5c-415d-98b0-386e7508f7af" resname="STX·225 | Rip Apart | Card Name">
         <source>Rip Apart</source>
@@ -2554,7 +2554,7 @@
       </trans-unit>
       <trans-unit id="b3b5b510-fd5c-415d-98b0-386e7508f7af" resname="STX·225 | Rip Apart | Card Text | Paragraph 2">
         <source>• CARDNAME deals 3 damage to target creature or planeswalker.</source>
-        <target state="translated">•拆离对目标生物或鹏洛客造成3点伤害。</target>
+        <target state="translated">•CARDNAME对目标生物或鹏洛客造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="b3b5b510-fd5c-415d-98b0-386e7508f7af" resname="STX·225 | Rip Apart | Card Text | Paragraph 3">
         <source>• Destroy target artifact or enchantment.</source>
@@ -2578,7 +2578,7 @@
       </trans-unit>
       <trans-unit id="acb8f24d-8d1d-48aa-a534-238e969a474c" resname="STX·227 | Rootha, Mercurial Artist | Card Text | Paragraph 1">
         <source>{2}, Return CARDNAME to its owner's hand: Copy target instant or sorcery spell you control. You may choose new targets for the copy.</source>
-        <target state="translated">{2}，将善变艺家如莎移回其拥有者手上：复制目标由你操控的瞬间或法术咒语。你可以为该复制品选择新的目标。</target>
+        <target state="translated">{2}，将CARDNAME移回其拥有者手上：复制目标由你操控的瞬间或法术咒语。你可以为该复制品选择新的目标。</target>
       </trans-unit>
       <trans-unit id="07b7c952-5ab7-4546-8369-4d213bf868bf" resname="STX·228 | Rushed Rebirth | Card Name">
         <source>Rushed Rebirth</source>
@@ -2662,7 +2662,7 @@
       </trans-unit>
       <trans-unit id="a3f64ad2-4041-421d-baa2-206cedcecf0e" resname="STX·233 | Silverquill Pledgemage | Card Text | Paragraph 1">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, CARDNAME gains your choice of flying or lifelink until end of turn.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，选择飞行或系命，银毫证法师获得该异能直到回合结束。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，选择飞行或系命，CARDNAME获得该异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8bb60dcc-cb4a-414d-850f-c98efd872894" resname="STX·234 | Silverquill Silencer | Card Name">
         <source>Silverquill Silencer</source>
@@ -2670,7 +2670,7 @@
       </trans-unit>
       <trans-unit id="8bb60dcc-cb4a-414d-850f-c98efd872894" resname="STX·234 | Silverquill Silencer | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a nonland card name.</source>
-        <target state="translated">于银毫销音僧进战场时，选择一个非地牌的名称。</target>
+        <target state="translated">于CARDNAME进战场时，选择一个非地牌的名称。</target>
       </trans-unit>
       <trans-unit id="8bb60dcc-cb4a-414d-850f-c98efd872894" resname="STX·234 | Silverquill Silencer | Card Text | Paragraph 2">
         <source>Whenever an opponent casts a spell with the chosen name, they lose 3 life and you draw a card.</source>
@@ -2706,11 +2706,11 @@
       </trans-unit>
       <trans-unit id="be88355e-c986-4b69-93b4-0abf04916e86" resname="STX·237 | Spiteful Squad | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with two +1/+1 counters on it.</source>
-        <target state="translated">怨毒小队进战场时上面有两个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="be88355e-c986-4b69-93b4-0abf04916e86" resname="STX·237 | Spiteful Squad | Card Text | Paragraph 3">
         <source>When CARDNAME dies, put its counters on target creature you control.</source>
-        <target state="translated">当怨毒小队死去时，将它的指示物放置在目标由你操控的生物上。</target>
+        <target state="translated">当CARDNAME死去时，将它的指示物放置在目标由你操控的生物上。</target>
       </trans-unit>
       <trans-unit id="3d548d5a-1dd7-448a-8483-249572e08c47" resname="STX·238 | Square Up | Card Name">
         <source>Square Up</source>
@@ -2738,11 +2738,11 @@
       </trans-unit>
       <trans-unit id="3bd62ee4-e654-44ba-a650-889782cc9ac3" resname="STX·240 | Tanazir Quandrix | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, double the number of +1/+1 counters on target creature you control.</source>
-        <target state="translated">当塔那吉量析进战场时，将目标由你操控之生物上的+1/+1指示物数量加倍。</target>
+        <target state="translated">当CARDNAME进战场时，将目标由你操控之生物上的+1/+1指示物数量加倍。</target>
       </trans-unit>
       <trans-unit id="3bd62ee4-e654-44ba-a650-889782cc9ac3" resname="STX·240 | Tanazir Quandrix | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, you may have the base power and toughness of other creatures you control become equal to CARDNAME's power and toughness until end of turn.</source>
-        <target state="translated">每当塔那吉量析攻击时，你可以使由你操控之其他生物的基础力量与防御力成为等同于塔那吉量析之力量和防御力直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以使由你操控之其他生物的基础力量与防御力成为等同于CARDNAME之力量和防御力直到回合结束。</target>
       </trans-unit>
       <trans-unit id="957117fe-ddc9-4c5d-bff8-f74602a24dd8" resname="STX·A-240 | A-Tanazir Quandrix | Card Name">
         <source>A-Tanazir Quandrix</source>
@@ -2795,7 +2795,7 @@
       </trans-unit>
       <trans-unit id="04ea9067-ad50-4c43-ae4d-3f66890cd898" resname="STX·245 | Velomachus Lorehold | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, look at the top seven cards of your library. You may cast an instant or sorcery spell with mana value less than or equal to CARDNAME's power from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">每当维洛马楚衡鉴攻击时，检视你牌库顶的七张牌。你可以从其中施放一个法术力值等于或小于维洛马楚衡鉴之力量的瞬间或法术咒语，且不需支付其法术力费用。将其余的牌以随机顺序置于你的牌库底。</target>
+        <target state="translated">每当CARDNAME攻击时，检视你牌库顶的七张牌。你可以从其中施放一个法术力值等于或小于CARDNAME之力量的瞬间或法术咒语，且不需支付其法术力费用。将其余的牌以随机顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="006313f8-cc60-4a4e-8ec6-953cdf1c16e3" resname="STX·246 | Venerable Warsinger | Card Name">
         <source>Venerable Warsinger</source>
@@ -2807,7 +2807,7 @@
       </trans-unit>
       <trans-unit id="006313f8-cc60-4a4e-8ec6-953cdf1c16e3" resname="STX·246 | Venerable Warsinger | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may return target creature card with mana value X or less from your graveyard to the battlefield, where X is the amount of damage CARDNAME dealt to that player.</source>
-        <target state="translated">每当可敬颂战僧对任一牌手造成战斗伤害时，你可以将目标法术力值等于或小于X的生物牌从你的坟墓场移回战场，X为可敬颂战僧对该牌手造成的伤害数量。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以将目标法术力值等于或小于X的生物牌从你的坟墓场移回战场，X为CARDNAME对该牌手造成的伤害数量。</target>
       </trans-unit>
       <trans-unit id="7f80a11b-188b-464c-b00d-c9d1cfb8ddee" resname="STX·247 | Witherbloom Apprentice | Card Name">
         <source>Witherbloom Apprentice</source>
@@ -2871,7 +2871,7 @@
       </trans-unit>
       <trans-unit id="d74e1117-0196-4268-be97-a1e81b5dc90e" resname="STX·251 | Biblioplex Assistant | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put up to one target instant or sorcery card from your graveyard on top of your library.</source>
-        <target state="translated">当茂典阁助手进战场时，将至多一张目标瞬间或法术牌从你的坟墓场置于你的牌库顶。</target>
+        <target state="translated">当CARDNAME进战场时，将至多一张目标瞬间或法术牌从你的坟墓场置于你的牌库顶。</target>
       </trans-unit>
       <trans-unit id="87a9a8a2-de81-441b-b501-418311b677f7" resname="STX·252 | Campus Guide | Card Name">
         <source>Campus Guide</source>
@@ -2880,7 +2880,7 @@
       </trans-unit>
       <trans-unit id="87a9a8a2-de81-441b-b501-418311b677f7" resname="STX·252 | Campus Guide | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">当校区向导进战场时，你可以从你牌库中搜寻一张基本地牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张基本地牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="ea476ee1-67d9-4dd8-a5ac-f68a155eb18b" resname="STX·253 | Codie, Vociferous Codex | Card Name">
@@ -2931,7 +2931,7 @@
       </trans-unit>
       <trans-unit id="34750231-34aa-401c-b192-47b56588923a" resname="STX·256 | Letter of Acceptance | Card Text | Paragraph 2">
         <source>{2}, {T}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，{T}，牺牲入学通知书：抓一张牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="c01770c4-8848-495d-8af4-26152d45e9d3" resname="STX·257 | Reflective Golem | Card Name">
@@ -2940,7 +2940,7 @@
       </trans-unit>
       <trans-unit id="c01770c4-8848-495d-8af4-26152d45e9d3" resname="STX·257 | Reflective Golem | Card Text | Paragraph 1">
         <source>Whenever you cast an instant or sorcery spell that targets only CARDNAME, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy.</source>
-        <target state="translated">每当你施放仅以反射魔像为目标的瞬间或法术咒语时，你可以支付{2}。若你如此作，则复制该咒语。你可以为该复制品选择新的目标。</target>
+        <target state="translated">每当你施放仅以CARDNAME为目标的瞬间或法术咒语时，你可以支付{2}。若你如此作，则复制该咒语。你可以为该复制品选择新的目标。</target>
       </trans-unit>
       <trans-unit id="7de826a0-6e68-4d40-a51c-8d6e7a4148d1" resname="STX·258 | Spell Satchel | Card Name">
         <source>Spell Satchel</source>
@@ -2948,15 +2948,15 @@
       </trans-unit>
       <trans-unit id="7de826a0-6e68-4d40-a51c-8d6e7a4148d1" resname="STX·258 | Spell Satchel | Card Text | Paragraph 1">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, put a book counter on CARDNAME.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，在咒法背包上放置一个书籍指示物。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，在CARDNAME上放置一个书籍指示物。</target>
       </trans-unit>
       <trans-unit id="7de826a0-6e68-4d40-a51c-8d6e7a4148d1" resname="STX·258 | Spell Satchel | Card Text | Paragraph 2">
         <source>{T}, Remove a book counter from CARDNAME: Add {C}.</source>
-        <target state="translated">{T}，从咒法背包上移去一个书籍指示物：加{C}。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个书籍指示物：加{C}。</target>
       </trans-unit>
       <trans-unit id="7de826a0-6e68-4d40-a51c-8d6e7a4148d1" resname="STX·258 | Spell Satchel | Card Text | Paragraph 3">
         <source>{3}, {T}, Remove three book counters from CARDNAME: Draw a card.</source>
-        <target state="translated">{3}，{T}，从咒法背包上移去三个书籍指示物：抓一张牌。</target>
+        <target state="translated">{3}，{T}，从CARDNAME上移去三个书籍指示物：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="cd8acc65-c7e0-4ba5-b956-af0679ffb830" resname="STX·A-258 | A-Spell Satchel | Card Name">
         <source>A-Spell Satchel</source>
@@ -2969,15 +2969,15 @@
       </trans-unit>
       <trans-unit id="421674ee-4b85-4942-b166-952598165826" resname="STX·259 | Strixhaven Stadium | Card Text | Paragraph 1">
         <source>{T}: Add {C}. Put a point counter on CARDNAME.</source>
-        <target state="translated">{T}：加{C}。在斯翠海文赛场上放置一个得分指示物。</target>
+        <target state="translated">{T}：加{C}。在CARDNAME上放置一个得分指示物。</target>
       </trans-unit>
       <trans-unit id="421674ee-4b85-4942-b166-952598165826" resname="STX·259 | Strixhaven Stadium | Card Text | Paragraph 2">
         <source>Whenever a creature deals combat damage to you, remove a point counter from CARDNAME.</source>
-        <target state="translated">每当一个生物对你造成战斗伤害时，从斯翠海文赛场上移去一个得分指示物。</target>
+        <target state="translated">每当一个生物对你造成战斗伤害时，从CARDNAME上移去一个得分指示物。</target>
       </trans-unit>
       <trans-unit id="421674ee-4b85-4942-b166-952598165826" resname="STX·259 | Strixhaven Stadium | Card Text | Paragraph 3">
         <source>Whenever a creature you control deals combat damage to an opponent, put a point counter on CARDNAME. Then if it has ten or more point counters on it, remove them all and that player loses the game.</source>
-        <target state="translated">每当一个由你操控的生物向任一对手造成战斗伤害时，在斯翠海文赛场上放置一个得分指示物。然后如果其上有十个或更多得分指示物，则移去所有此类指示物且该牌手输掉这盘游戏。</target>
+        <target state="translated">每当一个由你操控的生物向任一对手造成战斗伤害时，在CARDNAME上放置一个得分指示物。然后如果其上有十个或更多得分指示物，则移去所有此类指示物且该牌手输掉这盘游戏。</target>
       </trans-unit>
       <trans-unit id="be294c4e-712b-459c-a36c-e26ed5c27edb" resname="STX·260 | Team Pennant | Card Name">
         <source>Team Pennant</source>
@@ -3029,11 +3029,11 @@
       </trans-unit>
       <trans-unit id="f6f6a2ff-7eb7-4680-af2b-e69ac88a65c9" resname="STX·263 | Archway Commons | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">拱顶公地须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="f6f6a2ff-7eb7-4680-af2b-e69ac88a65c9" resname="STX·263 | Archway Commons | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you pay {1}.</source>
-        <target state="translated">当拱顶公地进战场时，除非你支付{1}，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你支付{1}，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="f6f6a2ff-7eb7-4680-af2b-e69ac88a65c9" resname="STX·263 | Archway Commons | Card Text | Paragraph 3">
         <source>{T}: Add one mana of any color.</source>
@@ -3058,7 +3058,7 @@
       </trans-unit>
       <trans-unit id="c22ba565-da08-4957-93bb-8d266fe0b0d8" resname="STX·265 | Frostboil Snarl | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal an Island or Mountain card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于霜沸魔旋进战场时，你可以从你手上展示一张海岛或山脉牌。如果你未如此作，则霜沸魔旋须横置进战场。</target>
+        <target state="translated">于CARDNAME进战场时，你可以从你手上展示一张海岛或山脉牌。如果你未如此作，则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="c22ba565-da08-4957-93bb-8d266fe0b0d8" resname="STX·265 | Frostboil Snarl | Card Text | Paragraph 2">
@@ -3073,7 +3073,7 @@
       </trans-unit>
       <trans-unit id="53e33f37-7fd1-4431-a032-cd61b644401c" resname="STX·266 | Furycalm Snarl | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal a Mountain or Plains card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于怒静魔旋进战场时，你可以从你手上展示一张山脉或平原牌。如果你未如此作，则怒静魔旋须横置进战场。</target>
+        <target state="translated">于CARDNAME进战场时，你可以从你手上展示一张山脉或平原牌。如果你未如此作，则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="53e33f37-7fd1-4431-a032-cd61b644401c" resname="STX·266 | Furycalm Snarl | Card Text | Paragraph 2">
@@ -3103,7 +3103,7 @@
       </trans-unit>
       <trans-unit id="d35461cf-becf-4399-8329-64b4496b7fc2" resname="STX·268 | Lorehold Campus | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">衡鉴校区须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="d35461cf-becf-4399-8329-64b4496b7fc2" resname="STX·268 | Lorehold Campus | Card Text | Paragraph 2">
         <source>{T}: Add {R} or {W}.</source>
@@ -3119,7 +3119,7 @@
       </trans-unit>
       <trans-unit id="b0aed316-c28a-4c1a-a0a3-ab75ceba3ee7" resname="STX·269 | Necroblossom Snarl | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal a Swamp or Forest card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于死华魔旋进战场时，你可以从你手上展示一张沼泽或树林牌。如果你未如此作，则死华魔旋须横置进战场。</target>
+        <target state="translated">于CARDNAME进战场时，你可以从你手上展示一张沼泽或树林牌。如果你未如此作，则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="b0aed316-c28a-4c1a-a0a3-ab75ceba3ee7" resname="STX·269 | Necroblossom Snarl | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {G}.</source>
@@ -3132,7 +3132,7 @@
       </trans-unit>
       <trans-unit id="768120f5-9401-4e52-924e-3374bde65b3d" resname="STX·270 | Prismari Campus | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">粹丽校区须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="768120f5-9401-4e52-924e-3374bde65b3d" resname="STX·270 | Prismari Campus | Card Text | Paragraph 2">
@@ -3151,7 +3151,7 @@
       </trans-unit>
       <trans-unit id="f788da28-481b-41fa-a70c-b53db6b0f068" resname="STX·271 | Quandrix Campus | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">量析校区须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="f788da28-481b-41fa-a70c-b53db6b0f068" resname="STX·271 | Quandrix Campus | Card Text | Paragraph 2">
         <source>{T}: Add {G} or {U}.</source>
@@ -3168,7 +3168,7 @@
       </trans-unit>
       <trans-unit id="84a46ebf-6938-4100-8f5f-0605ad2be4fc" resname="STX·272 | Shineshadow Snarl | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal a Plains or Swamp card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于亮影魔旋进战场时，你可以从你手上展示一张平原或沼泽牌。如果你未如此作，则亮影魔旋须横置进战场。</target>
+        <target state="translated">于CARDNAME进战场时，你可以从你手上展示一张平原或沼泽牌。如果你未如此作，则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="84a46ebf-6938-4100-8f5f-0605ad2be4fc" resname="STX·272 | Shineshadow Snarl | Card Text | Paragraph 2">
@@ -3183,7 +3183,7 @@
       </trans-unit>
       <trans-unit id="42583850-ba5c-4a71-8717-406b5c6d048f" resname="STX·273 | Silverquill Campus | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">银毫校区须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="42583850-ba5c-4a71-8717-406b5c6d048f" resname="STX·273 | Silverquill Campus | Card Text | Paragraph 2">
@@ -3203,7 +3203,7 @@
       </trans-unit>
       <trans-unit id="f77e5ca7-dde1-435f-9b40-87558dd88749" resname="STX·274 | Vineglimmer Snarl | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal a Forest or Island card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于藤烁魔旋进战场时，你可以从你手上展示一张树林或海岛牌。如果你未如此作，则藤烁魔旋须横置进战场。</target>
+        <target state="translated">于CARDNAME进战场时，你可以从你手上展示一张树林或海岛牌。如果你未如此作，则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="f77e5ca7-dde1-435f-9b40-87558dd88749" resname="STX·274 | Vineglimmer Snarl | Card Text | Paragraph 2">
@@ -3217,7 +3217,7 @@
       </trans-unit>
       <trans-unit id="7346fb2e-754e-47de-b33d-eb089b357ee4" resname="STX·275 | Witherbloom Campus | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">靡华校区须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="7346fb2e-754e-47de-b33d-eb089b357ee4" resname="STX·275 | Witherbloom Campus | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {G}.</source>

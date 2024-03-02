@@ -384,7 +384,7 @@
       </trans-unit>
       <trans-unit id="21961b79-637a-4aa5-89b5-4e6e9f60d4d1" resname="ALL·63a | Swamp Mosquito | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)</source>
-        <target state="translated">每当沼泽蚊进行攻击且未受阻挡时，防御牌手得到一个中毒指示物。 （牌手若具有十个或更多的中毒指示物，便输掉这盘游戏。）</target>
+        <target state="translated">每当CARDNAME进行攻击且未受阻挡时，防御牌手得到一个中毒指示物。 （牌手若具有十个或更多的中毒指示物，便输掉这盘游戏。）</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="4a7506f8-cf09-46ca-ad80-3c398c487ae2" resname="ALL·64a | Agent of Stromgald | Card Name">
@@ -399,7 +399,7 @@
       </trans-unit>
       <trans-unit id="8e167a6c-05f8-4d90-9f6b-eb0f1046d54a" resname="ALL·65 | Balduvian Horde | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you discard a card at random.</source>
-        <target state="translated">当博都维亚部族进战场时，除非你随机弃一张牌，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你随机弃一张牌，否则牺牲之。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="12fd561e-6a26-4140-a033-1204f5dda5f3" resname="ALL·66a | Balduvian War-Makers | Card Name">
@@ -454,12 +454,12 @@
       </trans-unit>
       <trans-unit id="51811f2a-7002-4ba7-98d8-5b09d887975c" resname="ALL·74a | Guerrilla Tactics | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">游击策略对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="51811f2a-7002-4ba7-98d8-5b09d887975c" resname="ALL·74a | Guerrilla Tactics | Card Text | Paragraph 2">
         <source>When a spell or ability an opponent controls causes you to discard CARDNAME, CARDNAME deals 4 damage to any target.</source>
-        <target state="translated">当由对手所操控的咒语或异能使得你从手上弃掉游击策略时，游击策略对目标生物或牌手造成4点伤害。</target>
+        <target state="translated">当由对手所操控的咒语或异能使得你从手上弃掉CARDNAME时，CARDNAME对目标生物或牌手造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="9c724b46-6e17-4bee-9bc6-e9fc5a379dd7" resname="ALL·75 | Omen of Fire | Card Name">
@@ -489,12 +489,12 @@
       </trans-unit>
       <trans-unit id="db2a5e85-6cbc-43c1-9362-4056ad017ef0" resname="ALL·78 | Pyrokinesis | Card Text | Paragraph 1">
         <source>You may exile a red card from your hand rather than pay this spell's mana cost.</source>
-        <target state="translated">你可以从你手上放逐一张红色牌，而不支付驾驭爆焰的法术力费用。</target>
+        <target state="translated">你可以从你手上放逐一张红色牌，而不支付CARDNAME的法术力费用。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="db2a5e85-6cbc-43c1-9362-4056ad017ef0" resname="ALL·78 | Pyrokinesis | Card Text | Paragraph 2">
         <source>CARDNAME deals 4 damage divided as you choose among any number of target creatures.</source>
-        <target state="translated">驾驭爆焰对任意数量的目标生物造成共4点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对任意数量的目标生物造成共4点伤害，你可以任意分配。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="97aebf3b-e77d-4d18-b58b-117ae91792e2" resname="ALL·79 | Rogue Skycaptain | Card Name">
@@ -514,7 +514,7 @@
       </trans-unit>
       <trans-unit id="92c30a0a-3083-4d9f-9fe0-de5d6294f80e" resname="ALL·81a | Storm Shaman | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">红：暴风祭师得+1/+0直到回合结束。</target>
+        <target state="translated">红：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="b5ade7ad-ce32-4296-8cec-20bd79c7b16a" resname="ALL·82a | Varchild's Crusader | Card Name">
@@ -544,7 +544,7 @@
       </trans-unit>
       <trans-unit id="add1b999-5c3f-4187-adac-ed1037406b3f" resname="ALL·86a | Deadly Insect | Card Text | Paragraph 1">
         <source>Shroud (This creature can't be the target of spells or abilities.)</source>
-        <target state="translated">致命昆虫不能成为咒语或异能的目标。</target>
+        <target state="translated">CARDNAME不能成为咒语或异能的目标。</target>
         <note xmlns:from="developer">中文数据来自MMQ（1999-10-04）；</note>
       </trans-unit>
       <trans-unit id="62261004-ed32-4865-824a-4320548f4234" resname="ALL·87 | Elvish Bard | Card Name">
@@ -554,7 +554,7 @@
       </trans-unit>
       <trans-unit id="62261004-ed32-4865-824a-4320548f4234" resname="ALL·87 | Elvish Bard | Card Text | Paragraph 1">
         <source>All creatures able to block CARDNAME do so.</source>
-        <target state="translated">所有能够阻挡地精吟游诗人的生物皆须阻挡之。</target>
+        <target state="translated">所有能够阻挡CARDNAME的生物皆须阻挡之。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="ad9f1b09-73c2-43c5-a28b-4a40fff7b727" resname="ALL·88a | Elvish Ranger | Card Name">
@@ -569,7 +569,7 @@
       </trans-unit>
       <trans-unit id="5b94f37f-ebdf-4b79-a615-58331d27cf4e" resname="ALL·89 | Elvish Spirit Guide | Card Text | Paragraph 1">
         <source>Exile CARDNAME from your hand: Add {G}.</source>
-        <target state="translated">从你手上放逐妖精精怪向导：加{G}。</target>
+        <target state="translated">从你手上放逐CARDNAME：加{G}。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="778b028f-fa4e-4638-82b4-fb287223ea20" resname="ALL·90a | Fyndhorn Druid | Card Name">
@@ -599,7 +599,7 @@
       </trans-unit>
       <trans-unit id="47f1eedd-7021-4cce-a808-2e9384a5ef15" resname="ALL·94a | Gorilla Chieftain | Card Text | Paragraph 1">
         <source>{1}{G}: Regenerate CARDNAME.</source>
-        <target state="translated">1绿：重生大猩猩酋长。</target>
+        <target state="translated">1绿：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="a7e9d786-4e9b-447b-a5dc-ca117c4961c5" resname="ALL·95 | Hail Storm | Card Name">
@@ -609,7 +609,7 @@
       </trans-unit>
       <trans-unit id="a7e9d786-4e9b-447b-a5dc-ca117c4961c5" resname="ALL·95 | Hail Storm | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each attacking creature and 1 damage to you and each creature you control.</source>
-        <target state="translated">冰雹风暴对每个进行攻击的生物造成2点伤害，且对你与由你操控的生物造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个进行攻击的生物造成2点伤害，且对你与由你操控的生物造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="cd4b6daf-cf37-43c6-9446-3aa0de222ac4" resname="ALL·96 | Kaysa | Card Name">
@@ -724,7 +724,7 @@
       </trans-unit>
       <trans-unit id="35a8080f-ca3c-46fe-81cf-003ac7ba7f24" resname="ALL·116a | Aesthir Glider | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">艾斯鹰滑翔翼不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自DOM（2018-04-27）；</note>
       </trans-unit>
       <trans-unit id="d84e6fcf-4745-4dfb-9103-17beec4e45b6" resname="ALL·117 | Ashnod's Cylix | Card Name">

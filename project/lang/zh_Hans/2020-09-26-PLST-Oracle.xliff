@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="ea164381-1e76-4cfb-ab88-70b97c6285dd" resname="PLST·KHM-114 | Valki, God of Lies | Card Text | Paragraphs">
         <source>When Valki enters the battlefield, each opponent reveals their hand. For each opponent, exile a creature card they revealed this way until Valki leaves the battlefield.\n{X}: Choose a creature card exiled with Valki with mana value X. Valki becomes a copy of that card.</source>
-        <target state="translated">当谎言神瓦尔基进战场时，每位对手各展示其手牌。为每位对手各进行以下流程～放逐一张其以此法展示的生物牌，直到瓦尔基离开战场为止。\n{X}：选择一张以瓦尔基放逐且总法术力费用为X的生物牌。瓦尔基成为该牌的复制品。\n\n\n提勃\n{5}{B}{R}</target>
+        <target state="translated">当CARDNAME进战场时，每位对手各展示其手牌。为每位对手各进行以下流程～放逐一张其以此法展示的生物牌，直到瓦尔基离开战场为止。\n{X}：选择一张以瓦尔基放逐且总法术力费用为X的生物牌。瓦尔基成为该牌的复制品。\n\n\n提勃\n{5}{B}{R}</target>
         <note xmlns:from="developer">中文数据来自KHM（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="ea164381-1e76-4cfb-ab88-70b97c6285dd" resname="PLST·KHM-114 | Tibalt, Cosmic Impostor | Card Name">
@@ -54,7 +54,7 @@
       </trans-unit>
       <trans-unit id="ea164381-1e76-4cfb-ab88-70b97c6285dd" resname="PLST·KHM-114 | Tibalt, Cosmic Impostor | Card Text | Paragraphs">
         <source>As Tibalt enters the battlefield, you get an emblem with &amp;quot;You may play cards exiled with CARDNAME, and you may spend mana as though it were mana of any color to cast those spells.&amp;quot;\n[+2]: Exile the top card of each player's library.\n[−3]: Exile target artifact or creature.\n[−8]: Exile all graveyards. Add {R}{R}{R}.</source>
-        <target state="translated">于提勃进战场时，你获得具有「你可以使用以寰宇冒名客提勃放逐的牌，且你可以将法术力视同任意颜色的法术力来支付施放这类咒语的费用」的徽记。\n+2：放逐每位牌手的牌库顶牌。\n−3：放逐目标神器或生物。\n−8：放逐所有坟墓场中的所有牌。加{R}{R}{R}。\n\n\n神\n{1}{B}</target>
+        <target state="translated">于提勃进战场时，你获得具有「你可以使用以CARDNAME放逐的牌，且你可以将法术力视同任意颜色的法术力来支付施放这类咒语的费用」的徽记。\n+2：放逐每位牌手的牌库顶牌。\n−3：放逐目标神器或生物。\n−8：放逐所有坟墓场中的所有牌。加{R}{R}{R}。\n\n\n神\n{1}{B}</target>
         <note xmlns:from="developer">中文数据来自KHM（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="1845d858-07d0-4c74-a475-7950ad1c0d64" resname="PLST·STX-153 | Mila, Crafty Companion | Card Name">
@@ -114,7 +114,7 @@
       </trans-unit>
       <trans-unit id="69c9dc16-e966-4ea8-bfab-aaab9d125c50" resname="PLST·STX-158 | Embrose, Dean of Shadow | Card Text | Paragraphs">
         <source>{T}: Put a +1/+1 counter on another target creature, then CARDNAME deals 2 damage to that creature.\nWhenever a creature you control with a +1/+1 counter on it dies, draw a card.</source>
-        <target state="translated">{T}：在另一个目标生物上放置一个+1/+1指示物，然后黯影院长安博斯对该生物造成2点伤害。\n每当一个由你操控且其上有+1/+1指示物的生物死去时，抓一张牌。\n\n\n僧侣\n{1}{W}</target>
+        <target state="translated">{T}：在另一个目标生物上放置一个+1/+1指示物，然后CARDNAME对该生物造成2点伤害。\n每当一个由你操控且其上有+1/+1指示物的生物死去时，抓一张牌。\n\n\n僧侣\n{1}{W}</target>
         <note xmlns:from="developer">中文数据来自STX（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="902bc049-5348-47c3-95ad-d9dc935838cb" resname="PLST·STX-161 | Valentin, Dean of the Vein | Card Name">
@@ -154,7 +154,7 @@
       </trans-unit>
       <trans-unit id="c478f5a8-cd2c-4cd3-8022-864fdbced761" resname="PLST·KHM-181 | The Ringhart Crest | Card Text | Paragraphs">
         <source>As CARDNAME enters the battlefield, choose a creature type.\n{T}: Add {G}. Spend this mana only to cast a creature spell of the chosen type or a legendary creature spell.</source>
-        <target state="translated">于林哈特饰冠进战场时，选择一种生物类别。\n{T}：加{G}。此法术力只能用来施放传奇生物咒语或所选类别的生物咒语。\n\n\n神\n{2}{G}{G}</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。\n{T}：加{G}。此法术力只能用来施放传奇生物咒语或所选类别的生物咒语。\n\n\n神\n{2}{G}{G}</target>
         <note xmlns:from="developer">中文数据来自KHM（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="24614006-d99f-44b6-8ec1-29b48a1713d0" resname="PLST·CMR-189 | Krark, the Thumbless | Card Name">
@@ -179,7 +179,7 @@
       </trans-unit>
       <trans-unit id="1ca94ebc-057a-4541-b8c0-e0ddb22c9f5b" resname="PLST·MID-204 | Tovolar's Huntmaster | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two 2/2 green Wolf creature tokens.</source>
-        <target state="translated">当托瓦拉猎师进战场时，派出两个2/2绿色的狼衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出两个2/2绿色的狼衍生生物。</target>
         <note xmlns:from="developer">中文数据来自MID（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="1ca94ebc-057a-4541-b8c0-e0ddb22c9f5b" resname="PLST·MID-204 | Tovolar's Huntmaster | Card Text | Paragraph 2">
@@ -194,7 +194,7 @@
       </trans-unit>
       <trans-unit id="1ca94ebc-057a-4541-b8c0-e0ddb22c9f5b" resname="PLST·MID-204 | Tovolar's Packleader | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, create two 2/2 green Wolf creature tokens.</source>
-        <target state="translated">每当托瓦拉群首进战场或攻击时，派出两个2/2绿色的狼衍生生物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，派出两个2/2绿色的狼衍生生物。</target>
         <note xmlns:from="developer">中文数据来自MID（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="1ca94ebc-057a-4541-b8c0-e0ddb22c9f5b" resname="PLST·MID-204 | Tovolar's Packleader | Card Text | Paragraph 2">
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="b9379918-e39f-406a-b65a-bb74c2d7862d" resname="PLST·MID-211 | Arlinn, the Moon's Fury | Card Text | Paragraph 3">
         <source>[0]: Until end of turn, CARDNAME becomes a 5/5 Werewolf creature with trample, indestructible, and haste.</source>
-        <target state="translated">0：直到回合结束，皎月之怒雅琳成为5/5，具践踏、不灭与敏捷异能的狼人生物。</target>
+        <target state="translated">0：直到回合结束，CARDNAME成为5/5，具践踏、不灭与敏捷异能的狼人生物。</target>
         <note xmlns:from="developer">中文数据来自MID（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="293bd343-f119-4664-b68b-77dd4051f82e" resname="PLST·MID-217 | Dennick, Pious Apprentice | Card Name">
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id="293bd343-f119-4664-b68b-77dd4051f82e" resname="PLST·MID-217 | Dennick, Pious Apparition | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果虔敬新魂丹尼克将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
         <note xmlns:from="developer">中文数据来自MID（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="56060987-5c20-4574-95bd-668e6b45e2f1" resname="PLST·MID-233 | Ludevic, Necrogenius | Card Name">
@@ -294,7 +294,7 @@
       </trans-unit>
       <trans-unit id="56060987-5c20-4574-95bd-668e6b45e2f1" resname="PLST·MID-233 | Ludevic, Necrogenius | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, mill a card.</source>
-        <target state="translated">每当死灵奇才卢德维进战场或攻击时，磨一张牌。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，磨一张牌。</target>
         <note xmlns:from="developer">中文数据来自MID（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="56060987-5c20-4574-95bd-668e6b45e2f1" resname="PLST·MID-233 | Ludevic, Necrogenius | Card Text | Paragraph 2">
@@ -309,7 +309,7 @@
       </trans-unit>
       <trans-unit id="56060987-5c20-4574-95bd-668e6b45e2f1" resname="PLST·MID-233 | Olag, Ludevic's Hubris | Card Text | Paragraph 1">
         <source>As this creature transforms into CARDNAME, it becomes a copy of a creature card exiled with it, except its name is CARDNAME, it's 4/4, and it's a legendary blue and black Zombie in addition to its other colors and types. Put a number of +1/+1 counters on Olag equal to the number of creature cards exiled with it.</source>
-        <target state="translated">于此生物转化为卢德维巨作欧拉格时，它成为一张以其放逐之生物牌的复制品，但其名称是卢德维巨作欧拉格，为4/4，额外是蓝黑双色的传奇灵俑，且仍具有原本颜色与类别。在欧拉格上放置若干+1/+1指示物，其数量等同于以其放逐的生物牌数量。</target>
+        <target state="translated">于此生物转化为CARDNAME时，它成为一张以其放逐之生物牌的复制品，但其名称是CARDNAME，为4/4，额外是蓝黑双色的传奇灵俑，且仍具有原本颜色与类别。在欧拉格上放置若干+1/+1指示物，其数量等同于以其放逐的生物牌数量。</target>
         <note xmlns:from="developer">中文数据来自MID（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="f3600e4c-fd03-496f-84cf-a9417147a787" resname="PLST·KHM-251 | Barkchannel Pathway | Card Name">
@@ -404,7 +404,7 @@
       </trans-unit>
       <trans-unit id="55db3506-8aca-4feb-960d-011d735963d1" resname="PLST·KHM-266 | Rimewood Falls | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">霜林瀑布须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自KHM（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="a3b4cc0d-328f-40c3-ba34-23d67488e741" resname="PLST·KHM-274 | Woodland Chasm | Card Name">
@@ -419,7 +419,7 @@
       </trans-unit>
       <trans-unit id="a3b4cc0d-328f-40c3-ba34-23d67488e741" resname="PLST·KHM-274 | Woodland Chasm | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">林地冰峡须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自KHM（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="107ea1fe-167f-4a79-b0f1-f76dce2e6b0a" resname="PLST·CMR-305 | Commander's Plate | Card Name">
@@ -449,7 +449,7 @@
       </trans-unit>
       <trans-unit id="6df5d9dc-e4d9-42d6-8a5e-40ac04bc3dc8" resname="PLST·CMR-358 | Training Center | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you have two or more opponents.</source>
-        <target state="translated">除非你有两位或更多对手，否则训练中心须横置进战场。</target>
+        <target state="translated">除非你有两位或更多对手，否则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="6df5d9dc-e4d9-42d6-8a5e-40ac04bc3dc8" resname="PLST·CMR-358 | Training Center | Card Text | Paragraph 2">
@@ -484,7 +484,7 @@
       </trans-unit>
       <trans-unit id="081d4375-1d86-4fb1-9ccc-198dfbfacf8e" resname="PLST·C21-79 | Triplicate Titan | Card Text | Paragraph 2">
         <source>When CARDNAME dies, create a 3/3 colorless Golem artifact creature token with flying, a 3/3 colorless Golem artifact creature token with vigilance, and a 3/3 colorless Golem artifact creature token with trample.</source>
-        <target state="translated">当三联泰坦死去时，派出一个3/3无色、具飞行的魔像衍生神器生物，一个3/3无色、具警戒的魔像衍生神器生物和一个3/3无色、具践踏的魔像衍生神器生物。</target>
+        <target state="translated">当CARDNAME死去时，派出一个3/3无色、具飞行的魔像衍生神器生物，一个3/3无色、具警戒的魔像衍生神器生物和一个3/3无色、具践踏的魔像衍生神器生物。</target>
         <note xmlns:from="developer">中文数据来自C21（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="1163fe84-c5d5-42c8-b7cd-d206a9b0bd3f" resname="PLST·MH2-180 | Tireless Provisioner | Card Name">
@@ -509,7 +509,7 @@
       </trans-unit>
       <trans-unit id="5a75a38d-8bfc-4fe3-8bec-66f46313e48e" resname="PLST·MH2-218 | Yusri, Fortune's Flame | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, choose a number between 1 and 5. Flip that many coins. For each flip you win, draw a card. For each flip you lose, Yusri deals 2 damage to you. If you won five flips this way, you may cast spells from your hand this turn without paying their mana costs.</source>
-        <target state="translated">每当命运烈焰亚司利攻击时，选择一个1到5之间的数字。掷等量的硬币。你每猜对一掷，便抓一张牌。你每猜错一掷，亚司利便对你造成2点伤害。如果你以此法猜对五掷，则本回合中，你可以从你手上施放咒语，且不需支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME攻击时，选择一个1到5之间的数字。掷等量的硬币。你每猜对一掷，便抓一张牌。你每猜错一掷，亚司利便对你造成2点伤害。如果你以此法猜对五掷，则本回合中，你可以从你手上施放咒语，且不需支付其法术力费用。</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
     </body>

@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="be77b98a-dd79-477c-8ab2-7ebf5637a89e" resname="CLU·4 | Headliner Scarlett | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, creatures target player controls can't block this turn.</source>
-        <target state="translated">当红头牌进战场时，由目标牌手操控的生物本回合不能进行阻挡。</target>
+        <target state="translated">当CARDNAME进战场时，由目标牌手操控的生物本回合不能进行阻挡。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="be77b98a-dd79-477c-8ab2-7ebf5637a89e" resname="CLU·4 | Headliner Scarlett | Card Text | Paragraph 3">
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="323e9430-b87c-4b02-9ade-c4c65343147b" resname="CLU·5 | Emissary Green | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, starting with you, each player votes for profit or security. You create a number of Treasure tokens equal to twice the number of profit votes. Put a number of +1/+1 counters on each creature you control equal to the number of security votes.</source>
-        <target state="translated">每当绿特使攻击时，从你开始，每位牌手各投票选择「利润」或「安全」。你派出若干珍宝衍生物，其数量等同于「利润」票数的两倍。在每个由你操控的生物上各放置若干+1/+1指示物，其数量等同于「安全」的票数。</target>
+        <target state="translated">每当CARDNAME攻击时，从你开始，每位牌手各投票选择「利润」或「安全」。你派出若干珍宝衍生物，其数量等同于「利润」票数的两倍。在每个由你操控的生物上各放置若干+1/+1指示物，其数量等同于「安全」的票数。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="c1fa8c23-5501-476f-9614-162d7bd95b23" resname="CLU·6 | Commander Mustard | Card Name">
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="11fab2c1-250a-44f7-a187-ee0352b81569" resname="CLU·25 | Boros Strike-Captain | Card Text | Paragraph 1">
         <source>Battalion — Whenever CARDNAME and at least two other creatures attack, exile the top card of your library. During any turn you attacked with three or more creatures, you may play that card.</source>
-        <target state="translated">协战～每当波洛斯强攻队长与至少两个其他生物攻击时，放逐你的牌库顶牌。于你以三个或更多生物攻击过的回合中，你可以使用该牌。</target>
+        <target state="translated">协战～每当CARDNAME与至少两个其他生物攻击时，放逐你的牌库顶牌。于你以三个或更多生物攻击过的回合中，你可以使用该牌。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="f6fb576e-a4a4-496b-b553-3f81cc651210" resname="CLU·26 | Carnage Interpreter | Card Name">
@@ -154,12 +154,12 @@
       </trans-unit>
       <trans-unit id="f6fb576e-a4a4-496b-b553-3f81cc651210" resname="CLU·26 | Carnage Interpreter | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, discard your hand, then investigate four times. (To investigate, create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当杀戮解释魔进战场时，弃掉你的手牌，然后探查四次。（探查的流程，是派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，弃掉你的手牌，然后探查四次。（探查的流程，是派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="f6fb576e-a4a4-496b-b553-3f81cc651210" resname="CLU·26 | Carnage Interpreter | Card Text | Paragraph 2">
         <source>As long as you have one or fewer cards in hand, CARDNAME gets +2/+2 and has menace.</source>
-        <target state="translated">只要你的手牌为一张或更少，杀戮解释魔便得+2/+2且具有恐惧异能。</target>
+        <target state="translated">只要你的手牌为一张或更少，CARDNAME便得+2/+2且具有恐惧异能。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="0dcccbd8-2135-45e6-8802-8dcaa382a398" resname="CLU·27 | Conclave Evangelist | Card Name">
@@ -174,7 +174,7 @@
       </trans-unit>
       <trans-unit id="0dcccbd8-2135-45e6-8802-8dcaa382a398" resname="CLU·27 | Conclave Evangelist | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, create a token that's a copy of CARDNAME.</source>
-        <target state="translated">每当盟会福音师对任一牌手造成战斗伤害时，派出一个衍生物，此衍生物为盟会福音师的复制品。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，派出一个衍生物，此衍生物为CARDNAME的复制品。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="79611fce-ff17-4de6-8f54-8f3faced9322" resname="CLU·28 | Corporeal Projection | Card Name">
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="fb8719b0-69d7-4d43-8d9b-fa268358a9b8" resname="CLU·32 | Frenzied Gorespawn | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, for each opponent, goad target creature that player controls. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)</source>
-        <target state="translated">当狂热血裔进战场时，为每位对手各进行以下流程～煽惑目标由该牌手操控的生物。（直到你的下一个回合，那些生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
+        <target state="translated">当CARDNAME进战场时，为每位对手各进行以下流程～煽惑目标由该牌手操控的生物。（直到你的下一个回合，那些生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="fb8719b0-69d7-4d43-8d9b-fa268358a9b8" resname="CLU·32 | Frenzied Gorespawn | Card Text | Paragraph 2">
@@ -249,7 +249,7 @@
       </trans-unit>
       <trans-unit id="205a6ed6-38b0-42cd-a564-65ce19fb9031" resname="CLU·33 | Furious Spinesplitter | Card Text | Paragraph 2">
         <source>At the beginning of your end step, put a +1/+1 counter on CARDNAME for each opponent that was dealt damage this turn.</source>
-        <target state="translated">在你的结束步骤开始时，本回合每有一位对手受过伤害，便在暴怒碎脊魔上放置一个+1/+1指示物。</target>
+        <target state="translated">在你的结束步骤开始时，本回合每有一位对手受过伤害，便在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="90d0d1e6-adb1-4d37-94f5-d80aab7e65b8" resname="CLU·34 | Herald of Ilharg | Card Name">
@@ -264,7 +264,7 @@
       </trans-unit>
       <trans-unit id="90d0d1e6-adb1-4d37-94f5-d80aab7e65b8" resname="CLU·34 | Herald of Ilharg | Card Text | Paragraph 2">
         <source>Whenever you cast a creature spell, put two +1/+1 counters on CARDNAME. If that spell has mana value 5 or greater, CARDNAME deals damage equal to the number of counters on it to each opponent.</source>
-        <target state="translated">每当你施放生物咒语时，在衣哈格先锋上放置两个+1/+1指示物。如果该咒语的法术力值等于或大于5，则衣哈格先锋向每位对手各造成伤害，其数量等同于其上指示物的数量。</target>
+        <target state="translated">每当你施放生物咒语时，在CARDNAME上放置两个+1/+1指示物。如果该咒语的法术力值等于或大于5，则CARDNAME向每位对手各造成伤害，其数量等同于其上指示物的数量。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="d5435866-d48b-496a-ba07-438163b71ae8" resname="CLU·36 | Lavinia, Foil to Conspiracy | Card Name">
@@ -299,7 +299,7 @@
       </trans-unit>
       <trans-unit id="59813845-48c9-4af2-8beb-91d58aac09ee" resname="CLU·37 | Lonis, Genetics Expert | Card Text | Paragraph 2">
         <source>Whenever one or more +1/+1 counters are put on Lonis, investigate that many times.</source>
-        <target state="translated">每当在遗传学专家罗尼斯上放置一个或更多+1/+1指示物时，探查等量的次数。</target>
+        <target state="translated">每当在CARDNAME上放置一个或更多+1/+1指示物时，探查等量的次数。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="59813845-48c9-4af2-8beb-91d58aac09ee" resname="CLU·37 | Lonis, Genetics Expert | Card Text | Paragraph 3">
@@ -319,7 +319,7 @@
       </trans-unit>
       <trans-unit id="5d0704a4-8961-43f5-86ed-3f7b43abcf26" resname="CLU·38 | Memory Vampire | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, any number of target players each mill that many cards. Then you may collect evidence 9. When you do, you may cast target nonland card from defending player's graveyard without paying its mana cost.</source>
-        <target state="translated">每当记忆吸血鬼对任一牌手造成战斗伤害时，任意数量的目标牌手各磨等量的牌。然后你可以搜证9。当你如此作时，你可以从防御牌手的坟墓场施放目标非地牌，且不需支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，任意数量的目标牌手各磨等量的牌。然后你可以搜证9。当你如此作时，你可以从防御牌手的坟墓场施放目标非地牌，且不需支付其法术力费用。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="78413e47-f3e3-483a-b6c7-0cf0200a8c9c" resname="CLU·39 | Ordruun Mentor | Card Name">
@@ -349,7 +349,7 @@
       </trans-unit>
       <trans-unit id="a17c0eb0-86b0-471f-bd54-7b3c36e5833f" resname="CLU·40 | Portal Manipulator | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield during the declare attackers step, choose target player and any number of target attacking creatures their opponents control. Those creatures are now attacking that player.</source>
-        <target state="translated">当境道操弄师于宣告攻击者步骤中进战场时，选择目标牌手和任意数量目标由该牌手之对手操控且进行攻击的生物。这些生物现正向该牌手进行攻击。</target>
+        <target state="translated">当CARDNAME于宣告攻击者步骤中进战场时，选择目标牌手和任意数量目标由该牌手之对手操控且进行攻击的生物。这些生物现正向该牌手进行攻击。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="1e7c9ff3-9db9-41c0-9c8b-067e694973c5" resname="CLU·41 | Resonance Technician | Card Name">
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="1e7c9ff3-9db9-41c0-9c8b-067e694973c5" resname="CLU·41 | Resonance Technician | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may discard a card. If you do, investigate twice.</source>
-        <target state="translated">当共振技师进战场时，你可以弃一张牌。若你如此作，则探查两次。</target>
+        <target state="translated">当CARDNAME进战场时，你可以弃一张牌。若你如此作，则探查两次。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="1e7c9ff3-9db9-41c0-9c8b-067e694973c5" resname="CLU·41 | Resonance Technician | Card Text | Paragraph 3">
@@ -389,7 +389,7 @@
       </trans-unit>
       <trans-unit id="f3ef6061-9b3f-49cb-a09c-3567fca857d4" resname="CLU·42 | Scuttling Sentinel | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on another target creature you control. Until end of turn, that creature becomes a blue Crab in addition to its other types and gains hexproof. (It can't be the target of spells or abilities your opponents control.)</source>
-        <target state="translated">当凿孔哨卫进战场时，在另一个目标由你操控的生物上放置一个+1/+1指示物。直到回合结束，该生物成为蓝色蟹，仍具有原本类别，且获得辟邪异能。（它不能成为由对手操控之咒语或异能的目标。）</target>
+        <target state="translated">当CARDNAME进战场时，在另一个目标由你操控的生物上放置一个+1/+1指示物。直到回合结束，该生物成为蓝色蟹，仍具有原本类别，且获得辟邪异能。（它不能成为由对手操控之咒语或异能的目标。）</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="7e782e90-d6e5-4a55-87a8-3bd6dce1b67a" resname="CLU·44 | Stampede Surfer | Card Name">
@@ -404,7 +404,7 @@
       </trans-unit>
       <trans-unit id="7e782e90-d6e5-4a55-87a8-3bd6dce1b67a" resname="CLU·44 | Stampede Surfer | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, for each opponent, you create a 2/2 green Boar creature token that's tapped and attacking that opponent.</source>
-        <target state="translated">每当狂奔冲击手攻击时，每有一位对手，你便派出一个2/2绿色野猪衍生生物，其为横置且正攻击该对手。</target>
+        <target state="translated">每当CARDNAME攻击时，每有一位对手，你便派出一个2/2绿色野猪衍生生物，其为横置且正攻击该对手。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="314e1434-61a8-4587-812e-720a92493fb3" resname="CLU·45 | Sumala Rumblers | Card Name">
@@ -414,7 +414,7 @@
       </trans-unit>
       <trans-unit id="314e1434-61a8-4587-812e-720a92493fb3" resname="CLU·45 | Sumala Rumblers | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of creatures you control.</source>
-        <target state="translated">索马拉撼地龙的力量等同于由你操控的生物数量。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控的生物数量。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="314e1434-61a8-4587-812e-720a92493fb3" resname="CLU·45 | Sumala Rumblers | Card Text | Paragraph 2">
@@ -459,7 +459,7 @@
       </trans-unit>
       <trans-unit id="d0b24567-8fb7-4ec0-b81b-21a141c3861a" resname="CLU·49 | Undercover Butler | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks the player with the most life or tied for most life, it can't be blocked this turn.</source>
-        <target state="translated">每当卧底管家攻击生命最多或与他者同为最多的牌手时，它本回合不能被阻挡。</target>
+        <target state="translated">每当CARDNAME攻击生命最多或与他者同为最多的牌手时，它本回合不能被阻挡。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="a3b1b58d-b7f1-404f-aec6-b19cef4bebbd" resname="CLU·50 | Unruly Krasis | Card Name">
@@ -474,7 +474,7 @@
       </trans-unit>
       <trans-unit id="a3b1b58d-b7f1-404f-aec6-b19cef4bebbd" resname="CLU·50 | Unruly Krasis | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may have the base power and toughness of another target creature you control become X/X until end of turn, where X is CARDNAME's power.</source>
-        <target state="translated">每当难驭融合体攻击时，你可以使另一个目标由你操控之生物的基础力量和防御力成为X/X直到回合结束，X为难驭融合体的力量。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以使另一个目标由你操控之生物的基础力量和防御力成为X/X直到回合结束，X为CARDNAME的力量。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="a3b1b58d-b7f1-404f-aec6-b19cef4bebbd" resname="CLU·50 | Unruly Krasis | Card Text | Paragraph 3">
@@ -504,7 +504,7 @@
       </trans-unit>
       <trans-unit id="690acbbf-5e92-4323-b939-31bdb07f9905" resname="MKC·2 | Mirko, Obsessive Theorist | Card Text | Paragraph 2">
         <source>Whenever you surveil, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你刺探时，在偏执理论家米尔柯上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你刺探时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="690acbbf-5e92-4323-b939-31bdb07f9905" resname="MKC·2 | Mirko, Obsessive Theorist | Card Text | Paragraph 3">
         <source>At the beginning of your end step, you may return target creature card with power less than Mirko's from your graveyard to the battlefield with a finality counter on it. (If it would die, exile it instead.)</source>
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="ae9ccfec-05c6-469e-b1dd-dfbafa1e927f" resname="MKC·3 | Morska, Undersea Sleuth | Card Text | Paragraph 3">
         <source>Whenever you draw your second card each turn, put two +1/+1 counters on CARDNAME.</source>
-        <target state="translated">每当你抓每回合中你的第二张牌时，在海底侦员莫思卡上放置两个+1/+1指示物。</target>
+        <target state="translated">每当你抓每回合中你的第二张牌时，在CARDNAME上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2ef59aa9-f5e1-413a-869b-d287db95efd0" resname="MKC·4 | Nelly Borca, Impulsive Accuser | Card Name">
         <source>Nelly Borca, Impulsive Accuser</source>
@@ -536,7 +536,7 @@
       </trans-unit>
       <trans-unit id="2ef59aa9-f5e1-413a-869b-d287db95efd0" resname="MKC·4 | Nelly Borca, Impulsive Accuser | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, suspect target creature. Then goad all suspected creatures. (A suspected creature has menace and can't block.)</source>
-        <target state="translated">每当冲动控官内莉博卡攻击时，怀疑目标生物。然后煽惑所有已遭疑的生物。</target>
+        <target state="translated">每当CARDNAME攻击时，怀疑目标生物。然后煽惑所有已遭疑的生物。</target>
       </trans-unit>
       <trans-unit id="2ef59aa9-f5e1-413a-869b-d287db95efd0" resname="MKC·4 | Nelly Borca, Impulsive Accuser | Card Text | Paragraph 3">
         <source>Whenever one or more creatures an opponent controls deal combat damage to one or more of your opponents, you and the controller of those creatures each draw a card.</source>
@@ -548,7 +548,7 @@
       </trans-unit>
       <trans-unit id="31fa9d47-43d6-44b5-ab86-fc94a83eac26" resname="MKC·5 | Duskana, the Rage Mother | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card for each creature you control with base power and toughness 2/2.</source>
-        <target state="translated">当狂怒熊母杜卡娜进战场时，你每操控一个基础力量与防御力为2/2的生物，便抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，你每操控一个基础力量与防御力为2/2的生物，便抓一张牌。</target>
       </trans-unit>
       <trans-unit id="31fa9d47-43d6-44b5-ab86-fc94a83eac26" resname="MKC·5 | Duskana, the Rage Mother | Card Text | Paragraph 2">
         <source>Whenever a creature you control with base power and toughness 2/2 attacks, it gets +3/+3 until end of turn.</source>
@@ -564,7 +564,7 @@
       </trans-unit>
       <trans-unit id="d763695b-c184-409d-962d-5aaf39a6264e" resname="MKC·6 | Feather, Radiant Arbiter | Card Text | Paragraph 2">
         <source>Whenever you cast a noncreature spell that targets only CARDNAME, you may choose any number of other creatures that spell could target and pay {2} for each of those creatures. If you do, for each of those creatures, copy that spell. The copy targets that creature. (Copies of permanent spells become tokens.)</source>
-        <target state="translated">每当你施放仅以辉光仲裁使飞羽为目标的非生物咒语时，你可以选择任意数量该咒语能指定为目标的其他生物并为每个此类生物各支付{2}。若你如此作，则每有一个此类生物，便复制一次该咒语，此复制品以该生物为目标。</target>
+        <target state="translated">每当你施放仅以CARDNAME为目标的非生物咒语时，你可以选择任意数量该咒语能指定为目标的其他生物并为每个此类生物各支付{2}。若你如此作，则每有一个此类生物，便复制一次该咒语，此复制品以该生物为目标。</target>
       </trans-unit>
       <trans-unit id="8fdb30c1-0551-48b7-8bcb-d7e0dbb6690a" resname="MKC·7 | Marvo, Deep Operative | Card Name">
         <source>Marvo, Deep Operative</source>
@@ -572,7 +572,7 @@
       </trans-unit>
       <trans-unit id="8fdb30c1-0551-48b7-8bcb-d7e0dbb6690a" resname="MKC·7 | Marvo, Deep Operative | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, clash with defending player. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">每当深洋密探玛沃攻击时，与防御牌手比点。</target>
+        <target state="translated">每当CARDNAME攻击时，与防御牌手比点。</target>
       </trans-unit>
       <trans-unit id="8fdb30c1-0551-48b7-8bcb-d7e0dbb6690a" resname="MKC·7 | Marvo, Deep Operative | Card Text | Paragraph 2">
         <source>Whenever you win a clash, draw a card. Then you may cast a spell from your hand with mana value 8 or less without paying its mana cost.</source>
@@ -584,7 +584,7 @@
       </trans-unit>
       <trans-unit id="df653cf9-5a99-4f81-adb4-c155a9a63226" resname="MKC·8 | Sophia, Dogged Detective | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create Tiny, a legendary 2/2 green Dog Detective creature token with trample.</source>
-        <target state="translated">当携犬顽探索菲娅进战场时，派出传奇衍生生物小小，其为2/2绿色，具践踏异能的狗／侦探。</target>
+        <target state="translated">当CARDNAME进战场时，派出传奇衍生生物小小，其为2/2绿色，具践踏异能的狗／侦探。</target>
       </trans-unit>
       <trans-unit id="df653cf9-5a99-4f81-adb4-c155a9a63226" resname="MKC·8 | Sophia, Dogged Detective | Card Text | Paragraph 2">
         <source>{1}, Sacrifice an artifact token: Put a +1/+1 counter on each Dog you control.</source>
@@ -600,7 +600,7 @@
       </trans-unit>
       <trans-unit id="6e75470f-fe57-4b6e-a76b-5daf9d9caf0b" resname="MKC·9 | Armed with Proof | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, investigate twice. (To investigate, create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当证物防身进战场时，探查两次。</target>
+        <target state="translated">当CARDNAME进战场时，探查两次。</target>
       </trans-unit>
       <trans-unit id="6e75470f-fe57-4b6e-a76b-5daf9d9caf0b" resname="MKC·9 | Armed with Proof | Card Text | Paragraph 2">
         <source>Clues you control are Equipment in addition to their other types and have &amp;quot;Equipped creature gets +2/+0&amp;quot; and equip {2}.</source>
@@ -640,11 +640,11 @@
       </trans-unit>
       <trans-unit id="b50bfde2-6c2d-403e-ab47-c932bcb2116d" resname="MKC·12 | Otherworldly Escort | Card Text | Paragraph 2">
         <source>When CARDNAME dies, if it's not a Spirit, return it to the battlefield under its owner's control with four charge counters on it. It's a Spirit Detective. (It's no longer a Human.)</source>
-        <target state="translated">当异界卫士死去时，若它不是精怪，则将它在其拥有者的操控下移回战场，且上面有四个充电指示物。它是精怪／侦探。（它不再是人类。）</target>
+        <target state="translated">当CARDNAME死去时，若它不是精怪，则将它在其拥有者的操控下移回战场，且上面有四个充电指示物。它是精怪／侦探。（它不再是人类。）</target>
       </trans-unit>
       <trans-unit id="b50bfde2-6c2d-403e-ab47-c932bcb2116d" resname="MKC·12 | Otherworldly Escort | Card Text | Paragraph 3">
         <source>{1}{W}, {T}, Remove a charge counter from CARDNAME: Destroy target creature that dealt damage to you this turn.</source>
-        <target state="translated">{1}{W}，{T}，从异界卫士上移去一个充电指示物：消灭目标本回合中对你造成过伤害的生物。</target>
+        <target state="translated">{1}{W}，{T}，从CARDNAME上移去一个充电指示物：消灭目标本回合中对你造成过伤害的生物。</target>
       </trans-unit>
       <trans-unit id="960b84b6-febf-4926-9c7b-05efa0e0e11f" resname="MKC·13 | Redemption Arc | Card Name">
         <source>Redemption Arc</source>
@@ -668,7 +668,7 @@
       </trans-unit>
       <trans-unit id="61e691ff-ab3e-42ae-b160-54b53f5f961e" resname="MKC·14 | Serene Sleuth | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当安详侦员进战场时，探查。</target>
+        <target state="translated">当CARDNAME进战场时，探查。</target>
       </trans-unit>
       <trans-unit id="61e691ff-ab3e-42ae-b160-54b53f5f961e" resname="MKC·14 | Serene Sleuth | Card Text | Paragraph 2">
         <source>At the beginning of combat on your turn, investigate for each goaded creature you control. Then each creature you control is no longer goaded.</source>
@@ -692,7 +692,7 @@
       </trans-unit>
       <trans-unit id="979c3262-7680-49a3-b0dc-12154e44c317" resname="MKC·16 | True Identity | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another permanent you control is turned face up, scry 1, then draw a card. This ability triggers only once each turn.</source>
-        <target state="translated">每当真实身份或另一个由你操控的永久物翻回正面时，占卜1，然后抓一张牌。此异能每回合只会触发一次。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的永久物翻回正面时，占卜1，然后抓一张牌。此异能每回合只会触发一次。</target>
       </trans-unit>
       <trans-unit id="979c3262-7680-49a3-b0dc-12154e44c317" resname="MKC·16 | True Identity | Card Text | Paragraph 2">
         <source>Disguise {W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -712,7 +712,7 @@
       </trans-unit>
       <trans-unit id="5196eb5b-9330-46f7-b6f7-9c1164ea27d7" resname="MKC·18 | Veiled Ascension | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a flying counter on each face-down creature you control.</source>
-        <target state="translated">当蒙纱飞升进战场时，在每个由你操控且牌面朝下的生物上各放置一个飞行指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在每个由你操控且牌面朝下的生物上各放置一个飞行指示物。</target>
       </trans-unit>
       <trans-unit id="5196eb5b-9330-46f7-b6f7-9c1164ea27d7" resname="MKC·18 | Veiled Ascension | Card Text | Paragraph 2">
         <source>Face-down creatures you control enter the battlefield with a flying counter on them.</source>
@@ -752,7 +752,7 @@
       </trans-unit>
       <trans-unit id="af6b5cec-49fa-4f8d-8493-4bb7f3e291e8" resname="MKC·20 | Copy Catchers | Card Text | Paragraph 2">
         <source>Whenever you surveil, you may pay {1}{U}. If you do, create a token that's a copy of CARDNAME.</source>
-        <target state="translated">每当你刺探时，你可以支付{1}{U}。若你如此作，则派出一个为复体捕捉灵之复制品的衍生物。</target>
+        <target state="translated">每当你刺探时，你可以支付{1}{U}。若你如此作，则派出一个为CARDNAME之复制品的衍生物。</target>
       </trans-unit>
       <trans-unit id="e63e381d-142c-4622-ad78-8cacd5778355" resname="MKC·21 | Detective of the Month | Card Name">
         <source>Detective of the Month</source>
@@ -812,7 +812,7 @@
       </trans-unit>
       <trans-unit id="7582d7c0-6cb6-47d1-8026-3d661b5a809f" resname="MKC·24 | Tangletrove Kelp | Card Text | Paragraph 3">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲缠宝海藻：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="d827fc3c-bc86-4ee9-9db9-461cb0276f6b" resname="MKC·25 | Watcher of Hours | Card Name">
         <source>Watcher of Hours</source>
@@ -824,7 +824,7 @@
       </trans-unit>
       <trans-unit id="d827fc3c-bc86-4ee9-9db9-461cb0276f6b" resname="MKC·25 | Watcher of Hours | Card Text | Paragraph 2">
         <source>Whenever you remove a time counter from CARDNAME while it's exiled, surveil 1.</source>
-        <target state="translated">每当你于护时史芬斯被放逐期间从其上移去一个计时指示物时，刺探1。</target>
+        <target state="translated">每当你于CARDNAME被放逐期间从其上移去一个计时指示物时，刺探1。</target>
       </trans-unit>
       <trans-unit id="d827fc3c-bc86-4ee9-9db9-461cb0276f6b" resname="MKC·25 | Watcher of Hours | Card Text | Paragraph 3">
         <source>Suspend 6—{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with six time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost. It has haste.)</source>
@@ -836,7 +836,7 @@
       </trans-unit>
       <trans-unit id="05a2477e-a9a2-49fb-86e6-53d3e153a965" resname="MKC·26 | Charnel Serenade | Card Text | Paragraph 1">
         <source>Surveil 3, then return a creature card from your graveyard to the battlefield with a finality counter on it. Exile CARDNAME with three time counters on it.</source>
-        <target state="translated">刺探3，然后将一张生物牌从你的坟墓场移回战场，且上面有一个终命指示物。放逐唤尸夜曲，且上面有三个计时指示物。</target>
+        <target state="translated">刺探3，然后将一张生物牌从你的坟墓场移回战场，且上面有一个终命指示物。放逐CARDNAME，且上面有三个计时指示物。</target>
       </trans-unit>
       <trans-unit id="05a2477e-a9a2-49fb-86e6-53d3e153a965" resname="MKC·26 | Charnel Serenade | Card Text | Paragraph 2">
         <source>Suspend 3—{2}{B} (Rather than cast this card from your hand, you may pay {2}{B} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</source>
@@ -860,11 +860,11 @@
       </trans-unit>
       <trans-unit id="cbd9a0cb-e1ea-446e-aa57-4305d4b3b92e" resname="MKC·28 | Foreboding Steamboat | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each player chooses two nontoken, non-Vehicle creatures they control. Exile them until CARDNAME leaves the battlefield.</source>
-        <target state="translated">当恶兆汽船进战场时，每位牌手各选择两个由其操控且既非衍生物也非载具的生物。放逐它们，直到恶兆汽船离开战场为止。</target>
+        <target state="translated">当CARDNAME进战场时，每位牌手各选择两个由其操控且既非衍生物也非载具的生物。放逐它们，直到CARDNAME离开战场为止。</target>
       </trans-unit>
       <trans-unit id="cbd9a0cb-e1ea-446e-aa57-4305d4b3b92e" resname="MKC·28 | Foreboding Steamboat | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, put a card exiled with it into its owner's graveyard. If you do, investigate.</source>
-        <target state="translated">每当恶兆汽船攻击时，将一张以其放逐的牌置入其拥有者的坟墓场。若你如此作，则探查。</target>
+        <target state="translated">每当CARDNAME攻击时，将一张以其放逐的牌置入其拥有者的坟墓场。若你如此作，则探查。</target>
       </trans-unit>
       <trans-unit id="cbd9a0cb-e1ea-446e-aa57-4305d4b3b92e" resname="MKC·28 | Foreboding Steamboat | Card Text | Paragraph 3">
         <source>Crew 2</source>
@@ -876,7 +876,7 @@
       </trans-unit>
       <trans-unit id="053183e7-b505-49d2-b614-b704e984cb1a" resname="MKC·29 | Unshakable Tail | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield and at the beginning of your upkeep, surveil 1.</source>
-        <target state="translated">当难甩盯梢客进战场和在你的维持开始时，刺探1。</target>
+        <target state="translated">当CARDNAME进战场和在你的维持开始时，刺探1。</target>
       </trans-unit>
       <trans-unit id="053183e7-b505-49d2-b614-b704e984cb1a" resname="MKC·29 | Unshakable Tail | Card Text | Paragraph 2">
         <source>Whenever one or more creature cards are put into your graveyard from your library, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
@@ -884,7 +884,7 @@
       </trans-unit>
       <trans-unit id="053183e7-b505-49d2-b614-b704e984cb1a" resname="MKC·29 | Unshakable Tail | Card Text | Paragraph 3">
         <source>{2}, Sacrifice a Clue: Return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">{2}，牺牲一个线索：将难甩盯梢客从你的坟墓场移回你手上。</target>
+        <target state="translated">{2}，牺牲一个线索：将CARDNAME从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="f0a18bd1-1741-4231-a312-aed1373a96dd" resname="MKC·30 | Boltbender | Card Name">
         <source>Boltbender</source>
@@ -896,7 +896,7 @@
       </trans-unit>
       <trans-unit id="f0a18bd1-1741-4231-a312-aed1373a96dd" resname="MKC·30 | Boltbender | Card Text | Paragraph 2">
         <source>When CARDNAME is turned face up, you may choose new targets for any number of other spells and/or abilities.</source>
-        <target state="translated">当曲电师翻回正面时，你可以为任意数量的其他咒语和／或异能选择新的目标。</target>
+        <target state="translated">当CARDNAME翻回正面时，你可以为任意数量的其他咒语和／或异能选择新的目标。</target>
       </trans-unit>
       <trans-unit id="17054e75-d801-4962-83c1-0b52e7b65f66" resname="MKC·31 | Havoc Eater | Card Name">
         <source>Havoc Eater</source>
@@ -908,7 +908,7 @@
       </trans-unit>
       <trans-unit id="17054e75-d801-4962-83c1-0b52e7b65f66" resname="MKC·31 | Havoc Eater | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, for each opponent, goad up to one target creature that opponent controls. Put X +1/+1 counters on CARDNAME, where X is the total power of creatures goaded this way.</source>
-        <target state="translated">当噬荒灵进战场时，为每位对手各进行以下流程～煽惑至多一个目标由其操控的生物。在噬荒灵上放置X个+1/+1指示物，X为以此法煽惑之生物的力量总和。</target>
+        <target state="translated">当CARDNAME进战场时，为每位对手各进行以下流程～煽惑至多一个目标由其操控的生物。在CARDNAME上放置X个+1/+1指示物，X为以此法煽惑之生物的力量总和。</target>
       </trans-unit>
       <trans-unit id="bbba7b9f-d944-4987-b60d-34733382ec53" resname="MKC·32 | Hot Pursuit | Card Name">
         <source>Hot Pursuit</source>
@@ -916,7 +916,7 @@
       </trans-unit>
       <trans-unit id="bbba7b9f-d944-4987-b60d-34733382ec53" resname="MKC·32 | Hot Pursuit | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, suspect target creature an opponent controls. As long as CARDNAME remains on the battlefield, that creature is also goaded.</source>
-        <target state="translated">当穷追不舍进战场时，怀疑目标由对手操控的生物。只要穷追不舍仍在战场上，该生物也为已煽惑。</target>
+        <target state="translated">当CARDNAME进战场时，怀疑目标由对手操控的生物。只要CARDNAME仍在战场上，该生物也为已煽惑。</target>
       </trans-unit>
       <trans-unit id="bbba7b9f-d944-4987-b60d-34733382ec53" resname="MKC·32 | Hot Pursuit | Card Text | Paragraph 2">
         <source>At the beginning of combat on your turn, if two or more players have lost the game, gain control of all goaded and/or suspected creatures until end of turn. Untap them. They gain haste until end of turn.</source>
@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="e9bdc40b-ab7a-44a4-afb5-41b6fc2dffdc" resname="MKC·33 | Mob Verdict | Card Text | Paragraph 1">
         <source>Secret council — Each player secretly votes for another player, then those votes are revealed. For each vote an opponent received, CARDNAME deals 2 damage to that player and each creature that player controls. For each vote you received, draw a card.</source>
-        <target state="translated">密议～每位牌手各私下投票选择另一位牌手，然后展示投票结果。对每位对手而言，其每得一票，暴民裁定便对该牌手和由该牌手操控的每个生物各造成2点伤害。你每得一票，便抓一张牌。</target>
+        <target state="translated">密议～每位牌手各私下投票选择另一位牌手，然后展示投票结果。对每位对手而言，其每得一票，CARDNAME便对该牌手和由该牌手操控的每个生物各造成2点伤害。你每得一票，便抓一张牌。</target>
       </trans-unit>
       <trans-unit id="d678e736-7c29-433a-9a2a-b78749252377" resname="MKC·34 | Prisoner's Dilemma | Card Name">
         <source>Prisoner's Dilemma</source>
@@ -936,7 +936,7 @@
       </trans-unit>
       <trans-unit id="d678e736-7c29-433a-9a2a-b78749252377" resname="MKC·34 | Prisoner's Dilemma | Card Text | Paragraph 1">
         <source>Each opponent secretly chooses silence or snitch, then the choices are revealed. If each opponent chose silence, CARDNAME deals 4 damage to each of them. If each opponent chose snitch, CARDNAME deals 8 damage to each of them. Otherwise, CARDNAME deals 12 damage to each opponent who chose silence.</source>
-        <target state="translated">每位对手各私下选择「缄默」或「告发」，然后展示选择结果。如果所有对手均选择「缄默」，则囚徒困境对其各造成4点伤害。如果所有对手均选择「告发」，则囚徒困境对其各造成8点伤害。若以上皆非，则囚徒困境向每位选择「缄默」的对手各造成12点伤害。</target>
+        <target state="translated">每位对手各私下选择「缄默」或「告发」，然后展示选择结果。如果所有对手均选择「缄默」，则CARDNAME对其各造成4点伤害。如果所有对手均选择「告发」，则CARDNAME对其各造成8点伤害。若以上皆非，则CARDNAME向每位选择「缄默」的对手各造成12点伤害。</target>
       </trans-unit>
       <trans-unit id="d678e736-7c29-433a-9a2a-b78749252377" resname="MKC·34 | Prisoner's Dilemma | Card Text | Paragraph 2">
         <source>Flashback {5}{R}{R}</source>
@@ -968,7 +968,7 @@
       </trans-unit>
       <trans-unit id="0e563c13-7204-4cda-9b62-d46931fabcef" resname="MKC·36 | Tesak, Judith's Hellhound | Card Text | Paragraph 4">
         <source>Whenever CARDNAME attacks, add {R} for each attacking creature.</source>
-        <target state="translated">每当裘蒂丝的地狱犬特煞攻击时，每有一个进行攻击的生物，便加{R}。</target>
+        <target state="translated">每当CARDNAME攻击时，每有一个进行攻击的生物，便加{R}。</target>
       </trans-unit>
       <trans-unit id="7d76089e-b21a-4d89-9562-957c18474967" resname="MKC·37 | Experiment Twelve | Card Name">
         <source>Experiment Twelve</source>
@@ -980,7 +980,7 @@
       </trans-unit>
       <trans-unit id="7d76089e-b21a-4d89-9562-957c18474967" resname="MKC·37 | Experiment Twelve | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another creature you control is turned face up, put +1/+1 counters on that creature equal to its power.</source>
-        <target state="translated">每当十二号实验体或另一个由你操控的生物翻回正面时，在该生物上放置若干+1/+1指示物，其数量等同于其力量。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的生物翻回正面时，在该生物上放置若干+1/+1指示物，其数量等同于其力量。</target>
       </trans-unit>
       <trans-unit id="7d76089e-b21a-4d89-9562-957c18474967" resname="MKC·37 | Experiment Twelve | Card Text | Paragraph 3">
         <source>Disguise {4}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -992,7 +992,7 @@
       </trans-unit>
       <trans-unit id="84039704-d7c9-46fd-987e-4b93f812e803" resname="MKC·38 | Innocuous Researcher | Card Text | Paragraph 1">
         <source>Parley — Whenever CARDNAME attacks, each player reveals the top card of their library. For each nonland card revealed this way, you investigate. Then each player draws a card.</source>
-        <target state="translated">论争～每当无害研究员攻击时，每位牌手各展示其牌库顶牌。每以此法展示出一张非地牌，你便探查一次。然后每位牌手各抓一张牌。</target>
+        <target state="translated">论争～每当CARDNAME攻击时，每位牌手各展示其牌库顶牌。每以此法展示出一张非地牌，你便探查一次。然后每位牌手各抓一张牌。</target>
       </trans-unit>
       <trans-unit id="84039704-d7c9-46fd-987e-4b93f812e803" resname="MKC·38 | Innocuous Researcher | Card Text | Paragraph 2">
         <source>At the beginning of your end step, you may untap all lands you control. If you do, you can't cast spells until your next turn.</source>
@@ -1016,7 +1016,7 @@
       </trans-unit>
       <trans-unit id="db7fbf69-1118-446b-b5cb-02da2de42ce3" resname="MKC·40 | Printlifter Ooze | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another creature you control is turned face up, create a 0/0 green Ooze creature token with trample. The token enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures you control.</source>
-        <target state="translated">每当模印泥浆或另一个由你操控的生物翻回正面时，派出一个0/0，具践踏异能的绿色流浆衍生生物。该衍生物进战场时上面有X个+1/+1指示物，X为由你操控的其他生物数量。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的生物翻回正面时，派出一个0/0，具践踏异能的绿色流浆衍生生物。该衍生物进战场时上面有X个+1/+1指示物，X为由你操控的其他生物数量。</target>
       </trans-unit>
       <trans-unit id="db7fbf69-1118-446b-b5cb-02da2de42ce3" resname="MKC·40 | Printlifter Ooze | Card Text | Paragraph 3">
         <source>Disguise {3}{G}</source>
@@ -1068,11 +1068,11 @@
       </trans-unit>
       <trans-unit id="88158a11-a44e-49b4-8ae3-d81c14265802" resname="MKC·45 | Ransom Note | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, surveil 1.</source>
-        <target state="translated">当勒索信进战场时，刺探1。</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。</target>
       </trans-unit>
       <trans-unit id="88158a11-a44e-49b4-8ae3-d81c14265802" resname="MKC·45 | Ransom Note | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Choose one —</source>
-        <target state="translated">{2}，牺牲勒索信：选择一项～</target>
+        <target state="translated">{2}，牺牲CARDNAME：选择一项～</target>
       </trans-unit>
       <trans-unit id="88158a11-a44e-49b4-8ae3-d81c14265802" resname="MKC·45 | Ransom Note | Card Text | Paragraph 3">
         <source>• Cloak the top card of your library.</source>
@@ -1112,11 +1112,11 @@
       </trans-unit>
       <trans-unit id="bd6e71a1-713e-4eca-bd65-9f0638c16794" resname="MKM·2 | Absolving Lammasu | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, all suspected creatures are no longer suspected.</source>
-        <target state="translated">当赦罪拉玛苏进战场时，所有已遭疑的生物不再遭疑。</target>
+        <target state="translated">当CARDNAME进战场时，所有已遭疑的生物不再遭疑。</target>
       </trans-unit>
       <trans-unit id="bd6e71a1-713e-4eca-bd65-9f0638c16794" resname="MKM·2 | Absolving Lammasu | Card Text | Paragraph 3">
         <source>When CARDNAME dies, you gain 3 life and suspect up to one target creature an opponent controls. (A suspected creature has menace and can't block.)</source>
-        <target state="translated">当赦罪拉玛苏死去时，你获得3点生命且怀疑至多一个目标由对手操控的生物。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
+        <target state="translated">当CARDNAME死去时，你获得3点生命且怀疑至多一个目标由对手操控的生物。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
       </trans-unit>
       <trans-unit id="f5bcb21a-8559-4791-8cd0-482e7b8dcfd2" resname="MKM·3 | Assemble the Players | Card Name">
         <source>Assemble the Players</source>
@@ -1144,11 +1144,11 @@
       </trans-unit>
       <trans-unit id="5901dff4-e09b-4747-9297-797a1a057cd5" resname="MKM·4 | Aurelia's Vindicator | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, exile up to X other target creatures from the battlefield and/or creature cards from graveyards.</source>
-        <target state="translated">当欧瑞梨的雪恨使翻回正面时，将若干其他目标战场上的生物和／或坟墓场中的生物牌从该处放逐，上述数量至多为X。</target>
+        <target state="translated">当CARDNAME翻回正面时，将若干其他目标战场上的生物和／或坟墓场中的生物牌从该处放逐，上述数量至多为X。</target>
       </trans-unit>
       <trans-unit id="5901dff4-e09b-4747-9297-797a1a057cd5" resname="MKM·4 | Aurelia's Vindicator | Card Text | Paragraph 4">
         <source>When CARDNAME leaves the battlefield, return the exiled cards to their owners' hands.</source>
-        <target state="translated">当欧瑞梨的雪恨使离开战场时，将所放逐的牌移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="5180c85c-6add-4066-83c4-27fb1fd4de16" resname="MKM·5 | Auspicious Arrival | Card Name">
         <source>Auspicious Arrival</source>
@@ -1172,7 +1172,7 @@
       </trans-unit>
       <trans-unit id="70a52038-9d1c-4be1-8dbe-6f0ee916ba94" resname="MKM·7 | Case File Auditor | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield and whenever you solve a Case, look at the top six cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">当案宗审计员进战场或每当你侦办一个案件时，检视你牌库顶的六张牌。你可以展示其中一张结界牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
+        <target state="translated">当CARDNAME进战场或每当你侦办一个案件时，检视你牌库顶的六张牌。你可以展示其中一张结界牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="70a52038-9d1c-4be1-8dbe-6f0ee916ba94" resname="MKM·7 | Case File Auditor | Card Text | Paragraph 2">
         <source>You may spend mana as though it were mana of any color to cast Case spells.</source>
@@ -1276,7 +1276,7 @@
       </trans-unit>
       <trans-unit id="076d9f76-a247-4727-9e0f-a0289c51059e" resname="MKM·14 | Due Diligence | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature you control other than enchanted creature gets +2/+2 and gains vigilance until end of turn.</source>
-        <target state="translated">当尽心尽责进战场时，直到回合结束，目标所结附生物以外由你操控的生物得+2/+2且获得警戒异能。</target>
+        <target state="translated">当CARDNAME进战场时，直到回合结束，目标所结附生物以外由你操控的生物得+2/+2且获得警戒异能。</target>
       </trans-unit>
       <trans-unit id="076d9f76-a247-4727-9e0f-a0289c51059e" resname="MKM·14 | Due Diligence | Card Text | Paragraph 3">
         <source>Enchanted creature gets +2/+2 and has vigilance.</source>
@@ -1292,7 +1292,7 @@
       </trans-unit>
       <trans-unit id="aee2945d-bf6d-4328-a482-df24c2973b56" resname="MKM·15 | Essence of Antiquity | Card Text | Paragraph 2">
         <source>When CARDNAME is turned face up, creatures you control gain hexproof until end of turn. Untap them.</source>
-        <target state="translated">当古迹菁华翻回正面时，由你操控的生物获得辟邪异能直到回合结束。将它们重置。</target>
+        <target state="translated">当CARDNAME翻回正面时，由你操控的生物获得辟邪异能直到回合结束。将它们重置。</target>
       </trans-unit>
       <trans-unit id="b06a243d-acc8-42cd-926c-98a4cc96ab21" resname="MKM·16 | Forum Familiar | Card Name">
         <source>Forum Familiar</source>
@@ -1304,7 +1304,7 @@
       </trans-unit>
       <trans-unit id="b06a243d-acc8-42cd-926c-98a4cc96ab21" resname="MKM·16 | Forum Familiar | Card Text | Paragraph 2">
         <source>When CARDNAME is turned face up, return another target permanent you control to its owner's hand and put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">当法院佣兽翻回正面时，将另一个目标由你操控的永久物移回其拥有者手上，并在法院佣兽上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME翻回正面时，将另一个目标由你操控的永久物移回其拥有者手上，并在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="95f5d048-226f-49a4-a2ce-a6fa99aa9e8a" resname="MKM·17 | Griffnaut Tracker | Card Name">
         <source>Griffnaut Tracker</source>
@@ -1316,7 +1316,7 @@
       </trans-unit>
       <trans-unit id="95f5d048-226f-49a4-a2ce-a6fa99aa9e8a" resname="MKM·17 | Griffnaut Tracker | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile up to two target cards from a single graveyard.</source>
-        <target state="translated">当驭鹫追迹人进战场时，将至多两张目标在同一坟墓场中的牌从该处放逐。</target>
+        <target state="translated">当CARDNAME进战场时，将至多两张目标在同一坟墓场中的牌从该处放逐。</target>
       </trans-unit>
       <trans-unit id="5277fe72-dc33-4d19-a439-63b5344c6034" resname="MKM·18 | Haazda Vigilante | Card Name">
         <source>Haazda Vigilante</source>
@@ -1324,7 +1324,7 @@
       </trans-unit>
       <trans-unit id="5277fe72-dc33-4d19-a439-63b5344c6034" resname="MKM·18 | Haazda Vigilante | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, put a +1/+1 counter on target creature you control with power 2 or less.</source>
-        <target state="translated">每当哈兹达警卫进战场或攻击时，在目标由你操控且力量等于或小于2的生物上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，在目标由你操控且力量等于或小于2的生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="1548d181-3f83-457a-b2d3-eb88cfb2afda" resname="MKM·19 | Inside Source | Card Name">
         <source>Inside Source</source>
@@ -1332,7 +1332,7 @@
       </trans-unit>
       <trans-unit id="1548d181-3f83-457a-b2d3-eb88cfb2afda" resname="MKM·19 | Inside Source | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 2/2 white and blue Detective creature token.</source>
-        <target state="translated">当内部线民进战场时，派出一个2/2，白蓝双色的侦探衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个2/2，白蓝双色的侦探衍生生物。</target>
       </trans-unit>
       <trans-unit id="1548d181-3f83-457a-b2d3-eb88cfb2afda" resname="MKM·19 | Inside Source | Card Text | Paragraph 2">
         <source>{3}, {T}: Target Detective you control gets +2/+0 and gains vigilance until end of turn. Activate only as a sorcery.</source>
@@ -1364,11 +1364,11 @@
       </trans-unit>
       <trans-unit id="f663cd86-39e6-467b-85b7-dd27536251a6" resname="MKM·21 | Krovod Haunch | Card Text | Paragraph 2">
         <source>{2}, {T}, Sacrifice CARDNAME: You gain 3 life.</source>
-        <target state="translated">{2}，{T}，牺牲克瓦兽腿肉骨：你获得3点生命。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="f663cd86-39e6-467b-85b7-dd27536251a6" resname="MKM·21 | Krovod Haunch | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from the battlefield, you may pay {1}{W}. If you do, create two 1/1 white Dog creature tokens.</source>
-        <target state="translated">当克瓦兽腿肉骨从战场进入坟墓场时，你可以支付{1}{W}。若你如此作，则派出两个1/1白色的狗衍生生物。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，你可以支付{1}{W}。若你如此作，则派出两个1/1白色的狗衍生生物。</target>
       </trans-unit>
       <trans-unit id="f663cd86-39e6-467b-85b7-dd27536251a6" resname="MKM·21 | Krovod Haunch | Card Text | Paragraph 4">
         <source>Equip {2}</source>
@@ -1388,7 +1388,7 @@
       </trans-unit>
       <trans-unit id="e45d2e0c-d70d-40e5-8c3d-db6803393516" resname="MKM·23 | Makeshift Binding | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target creature an opponent controls until CARDNAME leaves the battlefield. You gain 2 life.</source>
-        <target state="translated">当临时束缚进战场时，放逐目标由对手操控的生物，直到临时束缚离开战场为止。你获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标由对手操控的生物，直到CARDNAME离开战场为止。你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="daf6a392-3fc4-45d1-b85d-3b1381b3ab7d" resname="MKM·24 | Marketwatch Phantom | Card Name">
         <source>Marketwatch Phantom</source>
@@ -1396,7 +1396,7 @@
       </trans-unit>
       <trans-unit id="daf6a392-3fc4-45d1-b85d-3b1381b3ab7d" resname="MKM·24 | Marketwatch Phantom | Card Text | Paragraph 1">
         <source>Whenever another creature with power 2 or less enters the battlefield under your control, CARDNAME gains flying until end of turn.</source>
-        <target state="translated">每当另一个力量等于或小于2的生物在你操控下进战场时，巡市幽魅获得飞行异能直到回合结束。</target>
+        <target state="translated">每当另一个力量等于或小于2的生物在你操控下进战场时，CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="37860682-4973-4a0f-a43a-3056037bd2dc" resname="MKM·25 | Museum Nightwatch | Card Name">
         <source>Museum Nightwatch</source>
@@ -1404,7 +1404,7 @@
       </trans-unit>
       <trans-unit id="37860682-4973-4a0f-a43a-3056037bd2dc" resname="MKM·25 | Museum Nightwatch | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a 2/2 white and blue Detective creature token.</source>
-        <target state="translated">当博物馆夜巡卫死去时，派出一个2/2，白蓝双色的侦探衍生生物。</target>
+        <target state="translated">当CARDNAME死去时，派出一个2/2，白蓝双色的侦探衍生生物。</target>
       </trans-unit>
       <trans-unit id="37860682-4973-4a0f-a43a-3056037bd2dc" resname="MKM·25 | Museum Nightwatch | Card Text | Paragraph 2">
         <source>Disguise {1}{W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -1440,7 +1440,7 @@
       </trans-unit>
       <trans-unit id="0ad38866-fc5f-4f62-89c1-afc0f50765aa" resname="MKM·29 | Novice Inspector | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当生手巡检员进战场时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="48b92629-4196-4943-91fd-8c8d5f3fcaef" resname="MKM·30 | On the Job | Card Name">
         <source>On the Job</source>
@@ -1460,7 +1460,7 @@
       </trans-unit>
       <trans-unit id="1f88d077-5082-4a67-91e4-97aafb9a5e91" resname="MKM·31 | Perimeter Enforcer | Card Text | Paragraph 2">
         <source>Whenever another Detective enters the battlefield under your control and whenever a Detective you control is turned face up, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">每当另一个侦探在你操控下进战场和每当一个由你操控的侦探翻回正面时，封锁线执法者得+1/+1直到回合结束。</target>
+        <target state="translated">每当另一个侦探在你操控下进战场和每当一个由你操控的侦探翻回正面时，CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4a009ba2-c7b9-4cf6-bb90-9d6fd589e932" resname="MKM·32 | Sanctuary Wall | Card Name">
         <source>Sanctuary Wall</source>
@@ -1472,7 +1472,7 @@
       </trans-unit>
       <trans-unit id="4a009ba2-c7b9-4cf6-bb90-9d6fd589e932" resname="MKM·32 | Sanctuary Wall | Card Text | Paragraph 2">
         <source>{2}{W}, {T}: Tap target creature. You may put a stun counter on it. If you do, put a stun counter on CARDNAME. (If a permanent with a stun counter would become untapped, remove one from it instead.)</source>
-        <target state="translated">{2}{W}，{T}：横置目标生物。你可以在其上放置一个晕眩指示物。若你如此作，则在圣地围墙上放置一个晕眩指示物。（如果其上有晕眩指示物的永久物将成为未横置，则改为从其上移去一个晕眩指示物。）</target>
+        <target state="translated">{2}{W}，{T}：横置目标生物。你可以在其上放置一个晕眩指示物。若你如此作，则在CARDNAME上放置一个晕眩指示物。（如果其上有晕眩指示物的永久物将成为未横置，则改为从其上移去一个晕眩指示物。）</target>
       </trans-unit>
       <trans-unit id="c0ebfe5d-8819-495d-bf72-b9c28c6fd23e" resname="MKM·33 | Seasoned Consultant | Card Name">
         <source>Seasoned Consultant</source>
@@ -1480,7 +1480,7 @@
       </trans-unit>
       <trans-unit id="c0ebfe5d-8819-495d-bf72-b9c28c6fd23e" resname="MKM·33 | Seasoned Consultant | Card Text | Paragraph 1">
         <source>Whenever you attack with three or more creatures, CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">每当你以三个或更多生物攻击时，老练顾问得+2/+0直到回合结束。</target>
+        <target state="translated">每当你以三个或更多生物攻击时，CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7c65a79e-f28a-4f30-95a4-1ea55fd84564" resname="MKM·34 | Tenth District Hero | Card Name">
         <source>Tenth District Hero</source>
@@ -1488,11 +1488,11 @@
       </trans-unit>
       <trans-unit id="7c65a79e-f28a-4f30-95a4-1ea55fd84564" resname="MKM·34 | Tenth District Hero | Card Text | Paragraph 1">
         <source>{1}{W}, Collect evidence 2: CARDNAME becomes a Human Detective with base power and toughness 4/4 and gains vigilance.</source>
-        <target state="translated">{1}{W}，搜证2：第十区勇士成为基础力量与防御力为4/4的人类／侦探且获得警戒异能。</target>
+        <target state="translated">{1}{W}，搜证2：CARDNAME成为基础力量与防御力为4/4的人类／侦探且获得警戒异能。</target>
       </trans-unit>
       <trans-unit id="7c65a79e-f28a-4f30-95a4-1ea55fd84564" resname="MKM·34 | Tenth District Hero | Card Text | Paragraph 2">
         <source>{2}{W}, Collect evidence 4: If CARDNAME is a Detective, it becomes a legendary creature named Mileva, the Stalwart, it has base power and toughness 5/5, and it gains &amp;quot;Other creatures you control have indestructible.&amp;quot;</source>
-        <target state="translated">{2}{W}，搜证4：如果第十区勇士是侦探，则它成为名称为坚兵米勒娃的传奇生物，其基础力量与防御力为5/5，且获得「由你操控的其他生物具有不灭异能。」</target>
+        <target state="translated">{2}{W}，搜证4：如果CARDNAME是侦探，则它成为名称为坚兵米勒娃的传奇生物，其基础力量与防御力为5/5，且获得「由你操控的其他生物具有不灭异能。」</target>
       </trans-unit>
       <trans-unit id="f3a0d597-d2df-4aaf-8084-c8eeda64ce60" resname="MKM·35 | Unyielding Gatekeeper | Card Name">
         <source>Unyielding Gatekeeper</source>
@@ -1504,7 +1504,7 @@
       </trans-unit>
       <trans-unit id="f3a0d597-d2df-4aaf-8084-c8eeda64ce60" resname="MKM·35 | Unyielding Gatekeeper | Card Text | Paragraph 2">
         <source>When CARDNAME is turned face up, exile another target nonland permanent. If you controlled it, return it to the battlefield tapped. Otherwise, its controller creates a 2/2 white and blue Detective creature token.</source>
-        <target state="translated">当刚毅门卫翻回正面时，放逐另一个目标非地永久物。如果你操控它，则将它横置移回战场。若否，则其操控者派出一个2/2，白蓝双色的侦探衍生生物。</target>
+        <target state="translated">当CARDNAME翻回正面时，放逐另一个目标非地永久物。如果你操控它，则将它横置移回战场。若否，则其操控者派出一个2/2，白蓝双色的侦探衍生生物。</target>
       </trans-unit>
       <trans-unit id="296574c6-3933-4ab3-b591-72514b244da9" resname="MKM·36 | Wojek Investigator | Card Name">
         <source>Wojek Investigator</source>
@@ -1528,7 +1528,7 @@
       </trans-unit>
       <trans-unit id="c36cc39b-8f3b-4297-b118-86fa624308b4" resname="MKM·37 | Wrench | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲扳手：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="c36cc39b-8f3b-4297-b118-86fa624308b4" resname="MKM·37 | Wrench | Card Text | Paragraph 3">
         <source>Equip {2}</source>
@@ -1544,7 +1544,7 @@
       </trans-unit>
       <trans-unit id="8112f133-535e-4264-8357-9cbf97957710" resname="MKM·38 | Agency Outfitter | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may search your graveyard, hand and/or library for a card named Magnifying Glass and/or a card named Thinking Cap and put them onto the battlefield. If you search your library this way, shuffle.</source>
-        <target state="translated">当魔调局外侦员进战场时，你可以从你的坟墓场，手牌和／或牌库中搜寻一张名称为放大镜的牌和／或一张名称为思考帽的牌，并将它们放进战场。如果你以此法搜寻你的牌库，则洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的坟墓场，手牌和／或牌库中搜寻一张名称为放大镜的牌和／或一张名称为思考帽的牌，并将它们放进战场。如果你以此法搜寻你的牌库，则洗牌。</target>
       </trans-unit>
       <trans-unit id="e522b043-fbd8-48a4-9f20-39e2a66a35ec" resname="MKM·39 | Behind the Mask | Card Name">
         <source>Behind the Mask</source>
@@ -1564,7 +1564,7 @@
       </trans-unit>
       <trans-unit id="283b6b5a-acdf-4255-a294-0964d9c62686" resname="MKM·40 | Benthic Criminologists | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, you may sacrifice an artifact. If you do, draw a card.</source>
-        <target state="translated">每当深洋犯罪学家进战场或攻击时，你可以牺牲一个神器。若你如此作，则抓一张牌。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，你可以牺牲一个神器。若你如此作，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="6b863ee0-d9f3-4b1e-993d-5212731d9353" resname="MKM·41 | Bubble Smuggler | Card Name">
         <source>Bubble Smuggler</source>
@@ -1576,7 +1576,7 @@
       </trans-unit>
       <trans-unit id="6b863ee0-d9f3-4b1e-993d-5212731d9353" resname="MKM·41 | Bubble Smuggler | Card Text | Paragraph 2">
         <source>As CARDNAME is turned face up, put four +1/+1 counters on it.</source>
-        <target state="translated">于吐泡走私客翻回正面时，在其上放置四个+1/+1指示物。</target>
+        <target state="translated">于CARDNAME翻回正面时，在其上放置四个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="4ea29c34-4b55-4170-9120-0a8dda61f2eb" resname="MKM·42 | Burden of Proof | Card Name">
         <source>Burden of Proof</source>
@@ -1604,7 +1604,7 @@
       </trans-unit>
       <trans-unit id="5aeae6fb-3834-4891-924e-3d1fb3e19e09" resname="MKM·43 | Candlestick | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲烛台：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="5aeae6fb-3834-4891-924e-3d1fb3e19e09" resname="MKM·43 | Candlestick | Card Text | Paragraph 3">
         <source>Equip {2}</source>
@@ -1652,7 +1652,7 @@
       </trans-unit>
       <trans-unit id="f082111b-9b1c-4a25-8c5d-d6ef77533a9b" resname="MKM·46 | Cold Case Cracker | Card Text | Paragraph 2">
         <source>When CARDNAME dies, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当悬案破解灵死去时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME死去时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="88e791fc-bf9f-49b6-b5f2-a24d4b3e360e" resname="MKM·47 | Conspiracy Unraveler | Card Name">
         <source>Conspiracy Unraveler</source>
@@ -1676,7 +1676,7 @@
       </trans-unit>
       <trans-unit id="bc936987-d58b-4e7c-870f-379bcae77727" resname="MKM·48 | Coveted Falcon | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, gain control of target permanent you own but don't control.</source>
-        <target state="translated">每当珍异猎鹰攻击时，获得目标由你拥有但不由你操控之永久物的操控权。</target>
+        <target state="translated">每当CARDNAME攻击时，获得目标由你拥有但不由你操控之永久物的操控权。</target>
       </trans-unit>
       <trans-unit id="bc936987-d58b-4e7c-870f-379bcae77727" resname="MKM·48 | Coveted Falcon | Card Text | Paragraph 3">
         <source>Disguise {1}{U}</source>
@@ -1684,7 +1684,7 @@
       </trans-unit>
       <trans-unit id="bc936987-d58b-4e7c-870f-379bcae77727" resname="MKM·48 | Coveted Falcon | Card Text | Paragraph 4">
         <source>When CARDNAME is turned face up, target opponent gains control of any number of target permanents you control. Draw a card for each one they gained control of this way.</source>
-        <target state="translated">当珍异猎鹰翻回正面时，目标对手获得任意数量目标由你操控之永久物的操控权。该牌手每以此法获得一个永久物的操控权，你便抓一张牌。</target>
+        <target state="translated">当CARDNAME翻回正面时，目标对手获得任意数量目标由你操控之永久物的操控权。该牌手每以此法获得一个永久物的操控权，你便抓一张牌。</target>
       </trans-unit>
       <trans-unit id="dc4ac597-38f0-48b5-ac2d-dfb0b169f834" resname="MKM·49 | Crimestopper Sprite | Card Name">
         <source>Crimestopper Sprite</source>
@@ -1700,7 +1700,7 @@
       </trans-unit>
       <trans-unit id="dc4ac597-38f0-48b5-ac2d-dfb0b169f834" resname="MKM·49 | Crimestopper Sprite | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, tap target creature. If evidence was collected, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</source>
-        <target state="translated">当止罪仙子进战场时，横置目标生物。如果已搜证，则在后者上放置一个晕眩指示物。（如果其上有晕眩指示物的永久物将成为未横置，则改为从其上移去一个晕眩指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，横置目标生物。如果已搜证，则在后者上放置一个晕眩指示物。（如果其上有晕眩指示物的永久物将成为未横置，则改为从其上移去一个晕眩指示物。）</target>
       </trans-unit>
       <trans-unit id="0c3d7e2c-a104-4757-9984-fb31088f92c4" resname="MKM·50 | Cryptic Coat | Card Name">
         <source>Cryptic Coat</source>
@@ -1708,7 +1708,7 @@
       </trans-unit>
       <trans-unit id="0c3d7e2c-a104-4757-9984-fb31088f92c4" resname="MKM·50 | Cryptic Coat | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, cloak the top card of your library, then attach CARDNAME to it. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it's a creature card.)</source>
-        <target state="translated">当隐密大衣进战场时，匿伏你的牌库顶牌，然后将隐密大衣贴附于其上。（匿伏某牌的流程，是将该牌牌面朝下地放进战场，当成2/2、具守护{2}的生物。如果该牌是生物牌，则可随时支付其法术力费用使其翻回正面。）</target>
+        <target state="translated">当CARDNAME进战场时，匿伏你的牌库顶牌，然后将CARDNAME贴附于其上。（匿伏某牌的流程，是将该牌牌面朝下地放进战场，当成2/2、具守护{2}的生物。如果该牌是生物牌，则可随时支付其法术力费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="0c3d7e2c-a104-4757-9984-fb31088f92c4" resname="MKM·50 | Cryptic Coat | Card Text | Paragraph 2">
         <source>Equipped creature gets +1/+0 and can't be blocked.</source>
@@ -1716,7 +1716,7 @@
       </trans-unit>
       <trans-unit id="0c3d7e2c-a104-4757-9984-fb31088f92c4" resname="MKM·50 | Cryptic Coat | Card Text | Paragraph 3">
         <source>{1}{U}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{1}{U}：将隐密大衣移回其拥有者手上。</target>
+        <target state="translated">{1}{U}：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="5a3603c6-92df-45c7-b402-1f0a552ea398" resname="MKM·51 | Curious Inquiry | Card Name">
         <source>Curious Inquiry</source>
@@ -1748,7 +1748,7 @@
       </trans-unit>
       <trans-unit id="2ca93438-a132-45ca-9fa8-364aeb519594" resname="MKM·53 | Dramatic Accusation | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, tap enchanted creature.</source>
-        <target state="translated">当戏剧性指控进战场时，横置所结附的生物。</target>
+        <target state="translated">当CARDNAME进战场时，横置所结附的生物。</target>
       </trans-unit>
       <trans-unit id="2ca93438-a132-45ca-9fa8-364aeb519594" resname="MKM·53 | Dramatic Accusation | Card Text | Paragraph 3">
         <source>Enchanted creature doesn't untap during its controller's untap step.</source>
@@ -1772,7 +1772,7 @@
       </trans-unit>
       <trans-unit id="268f142d-9fb1-4673-b804-add1f08dacb9" resname="MKM·55 | Exit Specialist | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by creatures with power 3 or greater.</source>
-        <target state="translated">脱逃专家不能被力量等于或大于3的生物阻挡。</target>
+        <target state="translated">CARDNAME不能被力量等于或大于3的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="268f142d-9fb1-4673-b804-add1f08dacb9" resname="MKM·55 | Exit Specialist | Card Text | Paragraph 2">
         <source>Disguise {1}{U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -1780,7 +1780,7 @@
       </trans-unit>
       <trans-unit id="268f142d-9fb1-4673-b804-add1f08dacb9" resname="MKM·55 | Exit Specialist | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, return another target creature to its owner's hand.</source>
-        <target state="translated">当脱逃专家翻回正面时，将另一个目标生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME翻回正面时，将另一个目标生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="d9caa4eb-ed8c-4d05-8029-2a42163938a7" resname="MKM·56 | Fae Flight | Card Name">
         <source>Fae Flight</source>
@@ -1796,7 +1796,7 @@
       </trans-unit>
       <trans-unit id="d9caa4eb-ed8c-4d05-8029-2a42163938a7" resname="MKM·56 | Fae Flight | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, enchanted creature gains hexproof until end of turn.</source>
-        <target state="translated">当仙儿飞空进战场时，所结附的生物获得辟邪异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，所结附的生物获得辟邪异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d9caa4eb-ed8c-4d05-8029-2a42163938a7" resname="MKM·56 | Fae Flight | Card Text | Paragraph 4">
         <source>Enchanted creature gets +1/+0 and has flying.</source>
@@ -1832,11 +1832,11 @@
       </trans-unit>
       <trans-unit id="6f359fc2-b9e4-4a01-9d04-442bb160b01e" resname="MKM·59 | Furtive Courier | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked as long as you've sacrificed an artifact this turn.</source>
-        <target state="translated">只要你本回合中牺牲过神器，鬼祟通讯使便不能被阻挡。</target>
+        <target state="translated">只要你本回合中牺牲过神器，CARDNAME便不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="6f359fc2-b9e4-4a01-9d04-442bb160b01e" resname="MKM·59 | Furtive Courier | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, draw a card, then discard a card.</source>
-        <target state="translated">每当鬼祟通讯使攻击时，抓一张牌，然后弃一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，抓一张牌，然后弃一张牌。</target>
       </trans-unit>
       <trans-unit id="8dc3b23b-04d6-4ac0-b698-596ea90b7781" resname="MKM·60 | Hotshot Investigators | Card Name">
         <source>Hotshot Investigators</source>
@@ -1844,7 +1844,7 @@
       </trans-unit>
       <trans-unit id="8dc3b23b-04d6-4ac0-b698-596ea90b7781" resname="MKM·60 | Hotshot Investigators | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return up to one other target creature to its owner's hand. If you controlled it, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当巧艺调查员进战场时，将至多另一个目标生物移回其拥有者手上。如果你操控它，则探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，将至多另一个目标生物移回其拥有者手上。如果你操控它，则探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="fbe62f47-df17-4646-88ca-89a8ec4deee9" resname="MKM·61 | Intrude on the Mind | Card Name">
         <source>Intrude on the Mind</source>
@@ -1864,7 +1864,7 @@
       </trans-unit>
       <trans-unit id="2807dcfb-d99c-483b-835f-2606eae4bd30" resname="MKM·62 | Jaded Analyst | Card Text | Paragraph 2">
         <source>Whenever you draw your second card each turn, CARDNAME loses defender and gains vigilance until end of turn.</source>
-        <target state="translated">每当你抓每回合中你的第二张牌时，直到回合结束，疲惫分析员失去守军异能并获得警戒异能。</target>
+        <target state="translated">每当你抓每回合中你的第二张牌时，直到回合结束，CARDNAME失去守军异能并获得警戒异能。</target>
       </trans-unit>
       <trans-unit id="97fb11c7-7b7f-4bdb-a022-53e28ebadecc" resname="MKM·63 | Living Conundrum | Card Name">
         <source>Living Conundrum</source>
@@ -1880,7 +1880,7 @@
       </trans-unit>
       <trans-unit id="97fb11c7-7b7f-4bdb-a022-53e28ebadecc" resname="MKM·63 | Living Conundrum | Card Text | Paragraph 3">
         <source>As long as there are no cards in your library, CARDNAME has base power and toughness 10/10 and has flying and vigilance.</source>
-        <target state="translated">只要你牌库没有牌，活体谜团的基础力量与防御力便为10/10且具有飞行与警戒异能。</target>
+        <target state="translated">只要你牌库没有牌，CARDNAME的基础力量与防御力便为10/10且具有飞行与警戒异能。</target>
       </trans-unit>
       <trans-unit id="6308dc62-d945-4761-aa4c-ef8e9271e901" resname="MKM·64 | Lost in the Maze | Card Name">
         <source>Lost in the Maze</source>
@@ -1892,7 +1892,7 @@
       </trans-unit>
       <trans-unit id="6308dc62-d945-4761-aa4c-ef8e9271e901" resname="MKM·64 | Lost in the Maze | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, tap X target creatures. Put a stun counter on each of those creatures you don't control. (If a permanent with a stun counter would become untapped, remove one from it instead.)</source>
-        <target state="translated">当迷宫歧途进战场时，横置X个目标生物。在其中不由你操控的生物上各放置一个晕眩指示物。（如果其上有晕眩指示物的永久物将成为未横置，则改为从其上移去一个晕眩指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，横置X个目标生物。在其中不由你操控的生物上各放置一个晕眩指示物。（如果其上有晕眩指示物的永久物将成为未横置，则改为从其上移去一个晕眩指示物。）</target>
       </trans-unit>
       <trans-unit id="6308dc62-d945-4761-aa4c-ef8e9271e901" resname="MKM·64 | Lost in the Maze | Card Text | Paragraph 3">
         <source>Tapped creatures you control have hexproof.</source>
@@ -1912,7 +1912,7 @@
       </trans-unit>
       <trans-unit id="e8578839-046f-4afd-a0e7-4737ded9e6eb" resname="MKM·65 | Mistway Spy | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, until end of turn, whenever a creature you control deals combat damage to a player, investigate.</source>
-        <target state="translated">当雾道探子翻回正面时，直到回合结束，每当一个由你操控的生物对任一牌手造成战斗伤害时，探查。</target>
+        <target state="translated">当CARDNAME翻回正面时，直到回合结束，每当一个由你操控的生物对任一牌手造成战斗伤害时，探查。</target>
       </trans-unit>
       <trans-unit id="aabfada0-3c1b-4237-b06c-573071ccd68d" resname="MKM·66 | Out Cold | Card Name">
         <source>Out Cold</source>
@@ -1932,7 +1932,7 @@
       </trans-unit>
       <trans-unit id="af5b29b3-974c-4200-8df8-b072c11e1600" resname="MKM·67 | Proft's Eidetic Memory | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当波费的清晰记忆进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="af5b29b3-974c-4200-8df8-b072c11e1600" resname="MKM·67 | Proft's Eidetic Memory | Card Text | Paragraph 2">
         <source>You have no maximum hand size.</source>
@@ -1948,7 +1948,7 @@
       </trans-unit>
       <trans-unit id="ad378843-e2b0-48d6-90dc-b584e857473d" resname="MKM·68 | Projektor Inspector | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Detective enters the battlefield under your control and whenever a Detective you control is turned face up, you may draw a card. If you do, discard a card.</source>
-        <target state="translated">每当映射镜巡检员或另一个侦探在你操控下进战场和每当一个由你操控的侦探翻回正面时，你可以抓一张牌。若你如此作，则弃一张牌。</target>
+        <target state="translated">每当CARDNAME或另一个侦探在你操控下进战场和每当一个由你操控的侦探翻回正面时，你可以抓一张牌。若你如此作，则弃一张牌。</target>
       </trans-unit>
       <trans-unit id="270570a3-8637-4e4e-92d9-e985474cd5d2" resname="MKM·69 | Reasonable Doubt | Card Name">
         <source>Reasonable Doubt</source>
@@ -1980,7 +1980,7 @@
       </trans-unit>
       <trans-unit id="6bbf7394-9b17-45f8-a25b-d865e8452b2c" resname="MKM·71 | Steamcore Scholar | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw two cards. Then discard two cards unless you discard an instant or sorcery card or a creature card with flying.</source>
-        <target state="translated">当蒸气核学者进战场时，抓两张牌。然后除非你弃一张瞬间或法术牌或一张具飞行异能的生物牌，否则弃两张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓两张牌。然后除非你弃一张瞬间或法术牌或一张具飞行异能的生物牌，否则弃两张牌。</target>
       </trans-unit>
       <trans-unit id="0b9e5fd6-a5ea-4ae5-83f5-89ed6a658dd3" resname="MKM·72 | Sudden Setback | Card Name">
         <source>Sudden Setback</source>
@@ -1996,7 +1996,7 @@
       </trans-unit>
       <trans-unit id="703b874d-6739-4063-9891-e9c040dd9618" resname="MKM·73 | Surveillance Monitor | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may collect evidence 4. (Exile cards with total mana value 4 or greater from your graveyard.)</source>
-        <target state="translated">当布控监视员进战场时，你可以搜证4。（从你坟墓场中放逐法术力值加总达到4或更多的牌。）</target>
+        <target state="translated">当CARDNAME进战场时，你可以搜证4。（从你坟墓场中放逐法术力值加总达到4或更多的牌。）</target>
       </trans-unit>
       <trans-unit id="703b874d-6739-4063-9891-e9c040dd9618" resname="MKM·73 | Surveillance Monitor | Card Text | Paragraph 2">
         <source>Whenever you collect evidence, create a 1/1 colorless Thopter artifact creature token with flying.</source>
@@ -2024,7 +2024,7 @@
       </trans-unit>
       <trans-unit id="edf238c9-61de-4f3a-b82f-05af46e5e81b" resname="MKM·76 | Alley Assailant | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">暗巷凶徒须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="edf238c9-61de-4f3a-b82f-05af46e5e81b" resname="MKM·76 | Alley Assailant | Card Text | Paragraph 2">
         <source>Disguise {4}{B}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -2032,7 +2032,7 @@
       </trans-unit>
       <trans-unit id="edf238c9-61de-4f3a-b82f-05af46e5e81b" resname="MKM·76 | Alley Assailant | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, target opponent loses 3 life and you gain 3 life.</source>
-        <target state="translated">当暗巷凶徒翻回正面时，目标对手失去3点生命且你获得3点生命。</target>
+        <target state="translated">当CARDNAME翻回正面时，目标对手失去3点生命且你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="1c34e4ae-9bf3-4098-88f1-267e7d6cfa35" resname="MKM·77 | Barbed Servitor | Card Name">
         <source>Barbed Servitor</source>
@@ -2044,15 +2044,15 @@
       </trans-unit>
       <trans-unit id="1c34e4ae-9bf3-4098-88f1-267e7d6cfa35" resname="MKM·77 | Barbed Servitor | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, suspect it. (It has menace and can't block.)</source>
-        <target state="translated">当带刺随侍进战场时，怀疑它。（它具有威慑异能且不能进行阻挡。）</target>
+        <target state="translated">当CARDNAME进战场时，怀疑它。（它具有威慑异能且不能进行阻挡。）</target>
       </trans-unit>
       <trans-unit id="1c34e4ae-9bf3-4098-88f1-267e7d6cfa35" resname="MKM·77 | Barbed Servitor | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals combat damage to a player, you draw a card and you lose 1 life.</source>
-        <target state="translated">每当带刺随侍对任一牌手造成战斗伤害时，你抓一张牌且失去1点生命。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你抓一张牌且失去1点生命。</target>
       </trans-unit>
       <trans-unit id="1c34e4ae-9bf3-4098-88f1-267e7d6cfa35" resname="MKM·77 | Barbed Servitor | Card Text | Paragraph 4">
         <source>Whenever CARDNAME is dealt damage, target opponent loses that much life.</source>
-        <target state="translated">每当带刺随侍受到伤害时，目标对手失去等量的生命。</target>
+        <target state="translated">每当CARDNAME受到伤害时，目标对手失去等量的生命。</target>
       </trans-unit>
       <trans-unit id="fdafea8f-283d-4f19-a74a-669bfbdfed98" resname="MKM·78 | Basilica Stalker | Card Name">
         <source>Basilica Stalker</source>
@@ -2064,7 +2064,7 @@
       </trans-unit>
       <trans-unit id="fdafea8f-283d-4f19-a74a-669bfbdfed98" resname="MKM·78 | Basilica Stalker | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you gain 1 life and surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">每当大教堂潜行客对任一牌手造成战斗伤害时，你获得1点生命且刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你获得1点生命且刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="fdafea8f-283d-4f19-a74a-669bfbdfed98" resname="MKM·78 | Basilica Stalker | Card Text | Paragraph 3">
         <source>Disguise {4}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -2124,7 +2124,7 @@
       </trans-unit>
       <trans-unit id="2e069de0-3218-456c-b191-93e755634783" resname="MKM·82 | Clandestine Meddler | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, suspect up to one other target creature you control. (A suspected creature has menace and can't block.)</source>
-        <target state="translated">当暗流干涉客进战场时，怀疑至多另一个目标由你操控的生物。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
+        <target state="translated">当CARDNAME进战场时，怀疑至多另一个目标由你操控的生物。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
       </trans-unit>
       <trans-unit id="2e069de0-3218-456c-b191-93e755634783" resname="MKM·82 | Clandestine Meddler | Card Text | Paragraph 2">
         <source>Whenever one or more suspected creatures you control attack, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
@@ -2160,11 +2160,11 @@
       </trans-unit>
       <trans-unit id="83a6fa37-8351-403b-ae05-b67e9bf74bbb" resname="MKM·85 | Festerleech | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, you mill two cards.</source>
-        <target state="translated">每当溃伤蛭对任一牌手造成战斗伤害时，你磨两张牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你磨两张牌。</target>
       </trans-unit>
       <trans-unit id="83a6fa37-8351-403b-ae05-b67e9bf74bbb" resname="MKM·85 | Festerleech | Card Text | Paragraph 2">
         <source>{1}{B}: CARDNAME gets +2/+2 until end of turn. Activate only once each turn.</source>
-        <target state="translated">{1}{B}：溃伤蛭得+2/+2直到回合结束。每回合只能起动一次。</target>
+        <target state="translated">{1}{B}：CARDNAME得+2/+2直到回合结束。每回合只能起动一次。</target>
       </trans-unit>
       <trans-unit id="21d6accd-167a-4b21-a488-44d54cdfa608" resname="MKM·86 | Homicide Investigator | Card Name">
         <source>Homicide Investigator</source>
@@ -2184,11 +2184,11 @@
       </trans-unit>
       <trans-unit id="a4ca0e10-8b7c-4ce2-888b-752fc909757a" resname="MKM·87 | Hunted Bonebrute | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target opponent creates two 1/1 white Dog creature tokens.</source>
-        <target state="translated">当遭缉骨身兽进战场时，目标对手派出两个1/1白色的狗衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手派出两个1/1白色的狗衍生生物。</target>
       </trans-unit>
       <trans-unit id="a4ca0e10-8b7c-4ce2-888b-752fc909757a" resname="MKM·87 | Hunted Bonebrute | Card Text | Paragraph 3">
         <source>When CARDNAME dies, each opponent loses 3 life.</source>
-        <target state="translated">当遭缉骨身兽死去时，每位对手各失去3点生命。</target>
+        <target state="translated">当CARDNAME死去时，每位对手各失去3点生命。</target>
       </trans-unit>
       <trans-unit id="a4ca0e10-8b7c-4ce2-888b-752fc909757a" resname="MKM·87 | Hunted Bonebrute | Card Text | Paragraph 4">
         <source>Disguise {1}{B}</source>
@@ -2204,7 +2204,7 @@
       </trans-unit>
       <trans-unit id="2a7a3ec4-afaa-45e1-8cde-f15bf4bd7379" resname="MKM·88 | Illicit Masquerade | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put an impostor counter on each creature you control.</source>
-        <target state="translated">当非法易容进战场时，在每个由你操控的生物上各放置一个冒名指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在每个由你操控的生物上各放置一个冒名指示物。</target>
       </trans-unit>
       <trans-unit id="2a7a3ec4-afaa-45e1-8cde-f15bf4bd7379" resname="MKM·88 | Illicit Masquerade | Card Text | Paragraph 3">
         <source>Whenever a creature you control with an impostor counter on it dies, exile it. Return up to one other target creature card from your graveyard to the battlefield.</source>
@@ -2232,7 +2232,7 @@
       </trans-unit>
       <trans-unit id="87f69249-c6e4-40c1-9870-b9c45ce24c39" resname="MKM·90 | Lead Pipe | Card Text | Paragraph 3">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲铅管：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="87f69249-c6e4-40c1-9870-b9c45ce24c39" resname="MKM·90 | Lead Pipe | Card Text | Paragraph 4">
         <source>Equip {2}</source>
@@ -2248,7 +2248,7 @@
       </trans-unit>
       <trans-unit id="dc687588-9c57-411d-b666-b9699949d48f" resname="MKM·91 | Leering Onlooker | Card Text | Paragraph 2">
         <source>{2}{B}{B}, Exile CARDNAME from your graveyard: Create two tapped 1/1 black Bat creature tokens with flying.</source>
-        <target state="translated">{2}{B}{B}，从你的坟墓场放逐空乏旁观客：派出两个已横置的1/1黑色，具飞行异能的蝙蝠衍生生物。</target>
+        <target state="translated">{2}{B}{B}，从你的坟墓场放逐CARDNAME：派出两个已横置的1/1黑色，具飞行异能的蝙蝠衍生生物。</target>
       </trans-unit>
       <trans-unit id="c3896705-bbd2-4ffb-a590-ee78e0eabdc5" resname="MKM·92 | Long Goodbye | Card Name">
         <source>Long Goodbye</source>
@@ -2300,7 +2300,7 @@
       </trans-unit>
       <trans-unit id="ce043cba-aea4-4156-b1d0-545eda06c400" resname="MKM·96 | Nightdrinker Moroii | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you lose 3 life.</source>
-        <target state="translated">当夜饮莫洛伊进战场时，你失去3点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你失去3点生命。</target>
       </trans-unit>
       <trans-unit id="ce043cba-aea4-4156-b1d0-545eda06c400" resname="MKM·96 | Nightdrinker Moroii | Card Text | Paragraph 3">
         <source>Disguise {B}{B} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -2320,7 +2320,7 @@
       </trans-unit>
       <trans-unit id="f0713025-581f-451b-97a3-97d891285dcc" resname="MKM·98 | Persuasive Interrogators | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当诱导诘问者进战场时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="f0713025-581f-451b-97a3-97d891285dcc" resname="MKM·98 | Persuasive Interrogators | Card Text | Paragraph 2">
         <source>Whenever you sacrifice a Clue, target opponent gets two poison counters. (A player with ten or more poison counters loses the game.)</source>
@@ -2332,7 +2332,7 @@
       </trans-unit>
       <trans-unit id="a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0" resname="MKM·99 | Polygraph Orb | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.</source>
-        <target state="translated">当测谎法球进战场时，检视你牌库顶的四张牌。将其中两张置于你手上，其余则置入你的坟墓场。你失去2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，检视你牌库顶的四张牌。将其中两张置于你手上，其余则置入你的坟墓场。你失去2点生命。</target>
       </trans-unit>
       <trans-unit id="a6cc4c6f-4a84-4d42-89fa-7405f7ad6ba0" resname="MKM·99 | Polygraph Orb | Card Text | Paragraph 2">
         <source>{2}, {T}, Collect evidence 3: Each opponent loses 3 life unless they discard a card or sacrifice a creature. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)</source>
@@ -2352,7 +2352,7 @@
       </trans-unit>
       <trans-unit id="0c2ca1e7-e0de-4d29-a81b-62185ccd295f" resname="MKM·101 | Repeat Offender | Card Text | Paragraph 1">
         <source>{2}{B}: If CARDNAME is suspected, put a +1/+1 counter on it. Otherwise, suspect it. (A suspected creature has menace and can't block.)</source>
-        <target state="translated">{2}{B}：如果累犯恶徒已遭疑，则在其上放置一个+1/+1指示物。若否，则怀疑它。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
+        <target state="translated">{2}{B}：如果CARDNAME已遭疑，则在其上放置一个+1/+1指示物。若否，则怀疑它。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
       </trans-unit>
       <trans-unit id="023b0142-663a-47e7-a9f1-0b565a172b60" resname="MKM·102 | Rot Farm Mortipede | Card Name">
         <source>Rot Farm Mortipede</source>
@@ -2360,7 +2360,7 @@
       </trans-unit>
       <trans-unit id="023b0142-663a-47e7-a9f1-0b565a172b60" resname="MKM·102 | Rot Farm Mortipede | Card Text | Paragraph 1">
         <source>Whenever one or more creature cards leave your graveyard, CARDNAME gets +1/+0 and gains menace and lifelink until end of turn.</source>
-        <target state="translated">每当一张或数张生物牌离开你的坟墓场时，直到回合结束，腐尸农场杀生虫得+1/+0且获得威慑与系命异能。</target>
+        <target state="translated">每当一张或数张生物牌离开你的坟墓场时，直到回合结束，CARDNAME得+1/+0且获得威慑与系命异能。</target>
       </trans-unit>
       <trans-unit id="317800b3-6b2d-4de6-8e44-7e54dd623055" resname="MKM·103 | Slice from the Shadows | Card Name">
         <source>Slice from the Shadows</source>
@@ -2404,7 +2404,7 @@
       </trans-unit>
       <trans-unit id="6f22ac67-06ce-47cc-a515-d216d30b9cae" resname="MKM·106 | Soul Enervation | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gets -4/-4 until end of turn.</source>
-        <target state="translated">当灵魂衰弱进战场时，目标生物得-4/-4直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得-4/-4直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6f22ac67-06ce-47cc-a515-d216d30b9cae" resname="MKM·106 | Soul Enervation | Card Text | Paragraph 3">
         <source>Whenever one or more creature cards leave your graveyard, each opponent loses 1 life and you gain 1 life.</source>
@@ -2424,7 +2424,7 @@
       </trans-unit>
       <trans-unit id="a67a4c5e-215b-4f03-87f7-c1af4f9f0a63" resname="MKM·108 | Undercity Eliminator | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may sacrifice an artifact or creature. When you do, exile target creature an opponent controls.</source>
-        <target state="translated">当地底城索命客进战场时，你可以牺牲一个神器或生物。当你如此作时，放逐目标由对手操控的生物。</target>
+        <target state="translated">当CARDNAME进战场时，你可以牺牲一个神器或生物。当你如此作时，放逐目标由对手操控的生物。</target>
       </trans-unit>
       <trans-unit id="37692f9a-3825-43aa-aacb-1bb92cb5bd07" resname="MKM·109 | Unscrupulous Agent | Card Name">
         <source>Unscrupulous Agent</source>
@@ -2432,7 +2432,7 @@
       </trans-unit>
       <trans-unit id="37692f9a-3825-43aa-aacb-1bb92cb5bd07" resname="MKM·109 | Unscrupulous Agent | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent exiles a card from their hand.</source>
-        <target state="translated">当无度密探进战场时，目标对手从其手上放逐一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手从其手上放逐一张牌。</target>
       </trans-unit>
       <trans-unit id="078933b3-6d82-45f2-94e8-addf54cf1704" resname="MKM·110 | Vein Ripper | Card Name">
         <source>Vein Ripper</source>
@@ -2536,7 +2536,7 @@
       </trans-unit>
       <trans-unit id="38e31fa6-a445-47c6-a73f-135087f6d760" resname="MKM·117 | Concealed Weapon | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, attach it to target creature you control.</source>
-        <target state="translated">当匿藏武器翻回正面时，将它贴附在目标由你操控的生物上。</target>
+        <target state="translated">当CARDNAME翻回正面时，将它贴附在目标由你操控的生物上。</target>
       </trans-unit>
       <trans-unit id="38e31fa6-a445-47c6-a73f-135087f6d760" resname="MKM·117 | Concealed Weapon | Card Text | Paragraph 4">
         <source>Equip {1}{R}</source>
@@ -2552,7 +2552,7 @@
       </trans-unit>
       <trans-unit id="8e02731a-8698-4b41-99c3-f0a19fc31430" resname="MKM·118 | Connecting the Dots | Card Text | Paragraph 2">
         <source>{1}{R}, Discard your hand, Sacrifice CARDNAME: Put all cards exiled with CARDNAME into their owners' hands.</source>
-        <target state="translated">{1}{R}，弃掉你的手牌，牺牲连点成线：将所有以连点成线放逐的牌置于其拥有者手上。</target>
+        <target state="translated">{1}{R}，弃掉你的手牌，牺牲CARDNAME：将所有以CARDNAME放逐的牌置于其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="2d2cf2ae-9152-41c4-9dc4-a19da5812869" resname="MKM·119 | Convenient Target | Card Name">
         <source>Convenient Target</source>
@@ -2564,7 +2564,7 @@
       </trans-unit>
       <trans-unit id="2d2cf2ae-9152-41c4-9dc4-a19da5812869" resname="MKM·119 | Convenient Target | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, suspect enchanted creature. (It has menace and can't block.)</source>
-        <target state="translated">当便捷目标进战场时，怀疑所结附的生物。（它具有威慑异能且不能进行阻挡。）</target>
+        <target state="translated">当CARDNAME进战场时，怀疑所结附的生物。（它具有威慑异能且不能进行阻挡。）</target>
       </trans-unit>
       <trans-unit id="2d2cf2ae-9152-41c4-9dc4-a19da5812869" resname="MKM·119 | Convenient Target | Card Text | Paragraph 3">
         <source>Enchanted creature gets +1/+1.</source>
@@ -2572,7 +2572,7 @@
       </trans-unit>
       <trans-unit id="2d2cf2ae-9152-41c4-9dc4-a19da5812869" resname="MKM·119 | Convenient Target | Card Text | Paragraph 4">
         <source>{2}{R}: Return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">{2}{R}：将便捷目标从你的坟墓场移回你手上。</target>
+        <target state="translated">{2}{R}：将CARDNAME从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="a3aff1ea-1d25-49c3-a2d9-f435124a5969" resname="MKM·120 | Cornered Crook | Card Name">
         <source>Cornered Crook</source>
@@ -2580,7 +2580,7 @@
       </trans-unit>
       <trans-unit id="a3aff1ea-1d25-49c3-a2d9-f435124a5969" resname="MKM·120 | Cornered Crook | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may sacrifice an artifact. When you do, CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">当背水恶徒进战场时，你可以牺牲一个神器。当你如此作时，背水恶徒对任意一个目标造成3点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，你可以牺牲一个神器。当你如此作时，CARDNAME对任意一个目标造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="14a5cd7c-b0b1-4ffa-a806-bb0e73baffad" resname="MKM·121 | Crime Novelist | Card Name">
         <source>Crime Novelist</source>
@@ -2588,7 +2588,7 @@
       </trans-unit>
       <trans-unit id="14a5cd7c-b0b1-4ffa-a806-bb0e73baffad" resname="MKM·121 | Crime Novelist | Card Text | Paragraph 1">
         <source>Whenever you sacrifice an artifact, put a +1/+1 counter on CARDNAME and add {R}.</source>
-        <target state="translated">每当你牺牲一个神器时，在犯罪小说家上放置一个+1/+1指示物并加{R}。</target>
+        <target state="translated">每当你牺牲一个神器时，在CARDNAME上放置一个+1/+1指示物并加{R}。</target>
       </trans-unit>
       <trans-unit id="eca092fc-7c67-4a73-989e-5297bbaaea76" resname="MKM·122 | Demand Answers | Card Name">
         <source>Demand Answers</source>
@@ -2644,11 +2644,11 @@
       </trans-unit>
       <trans-unit id="eb81e343-7242-44b1-9ce6-1dddd104f764" resname="MKM·126 | Frantic Scapegoat | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, suspect it. (It has menace and can't block.)</source>
-        <target state="translated">当狂乱替罪羊进战场时，怀疑它。（它具有威慑异能且不能进行阻挡。）</target>
+        <target state="translated">当CARDNAME进战场时，怀疑它。（它具有威慑异能且不能进行阻挡。）</target>
       </trans-unit>
       <trans-unit id="eb81e343-7242-44b1-9ce6-1dddd104f764" resname="MKM·126 | Frantic Scapegoat | Card Text | Paragraph 3">
         <source>Whenever one or more other creatures enter the battlefield under your control, if CARDNAME is suspected, you may suspect one of the other creatures. If you do, CARDNAME is no longer suspected.</source>
-        <target state="translated">每当一个或数个其他生物在你操控下进战场时，若狂乱替罪羊已遭疑，则你可以怀疑这些其他生物中的一个。若你如此作，则狂乱替罪羊不再遭疑。</target>
+        <target state="translated">每当一个或数个其他生物在你操控下进战场时，若CARDNAME已遭疑，则你可以怀疑这些其他生物中的一个。若你如此作，则CARDNAME不再遭疑。</target>
       </trans-unit>
       <trans-unit id="b682bf8a-06dc-4828-bc46-9e1427bf981f" resname="MKM·127 | Fugitive Codebreaker | Card Name">
         <source>Fugitive Codebreaker</source>
@@ -2664,7 +2664,7 @@
       </trans-unit>
       <trans-unit id="b682bf8a-06dc-4828-bc46-9e1427bf981f" resname="MKM·127 | Fugitive Codebreaker | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, discard your hand, then draw three cards.</source>
-        <target state="translated">当漂泊破码客翻回正面时，弃掉你的手牌，然后抓三张牌。</target>
+        <target state="translated">当CARDNAME翻回正面时，弃掉你的手牌，然后抓三张牌。</target>
       </trans-unit>
       <trans-unit id="64ed3bfa-3294-45dd-825e-3afc2580f0d4" resname="MKM·128 | Galvanize | Card Name">
         <source>Galvanize</source>
@@ -2672,7 +2672,7 @@
       </trans-unit>
       <trans-unit id="64ed3bfa-3294-45dd-825e-3afc2580f0d4" resname="MKM·128 | Galvanize | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature. If you've drawn two or more cards this turn, CARDNAME deals 5 damage to that creature instead.</source>
-        <target state="translated">电流光闪对目标生物造成3点伤害。如果你本回合中抓过两张或更多牌，则改为电流光闪对该生物造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成3点伤害。如果你本回合中抓过两张或更多牌，则改为CARDNAME对该生物造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="6900a344-a155-4ee1-a3ac-d6c28e024270" resname="MKM·129 | Gearbane Orangutan | Card Name">
         <source>Gearbane Orangutan</source>
@@ -2684,7 +2684,7 @@
       </trans-unit>
       <trans-unit id="6900a344-a155-4ee1-a3ac-d6c28e024270" resname="MKM·129 | Gearbane Orangutan | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, choose one —</source>
-        <target state="translated">当厌械长臂猿进战场时，选择一项～</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～</target>
       </trans-unit>
       <trans-unit id="6900a344-a155-4ee1-a3ac-d6c28e024270" resname="MKM·129 | Gearbane Orangutan | Card Text | Paragraph 3">
         <source>• Destroy up to one target artifact.</source>
@@ -2692,7 +2692,7 @@
       </trans-unit>
       <trans-unit id="6900a344-a155-4ee1-a3ac-d6c28e024270" resname="MKM·129 | Gearbane Orangutan | Card Text | Paragraph 4">
         <source>• Sacrifice an artifact. If you do, put two +1/+1 counters on CARDNAME.</source>
-        <target state="translated">•牺牲一个神器。若你如此作，则在厌械长臂猿上放置两个+1/+1指示物。</target>
+        <target state="translated">•牺牲一个神器。若你如此作，则在CARDNAME上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="6154a991-c602-4fca-91a3-3830060da60e" resname="MKM·130 | Goblin Maskmaker | Card Name">
         <source>Goblin Maskmaker</source>
@@ -2700,7 +2700,7 @@
       </trans-unit>
       <trans-unit id="6154a991-c602-4fca-91a3-3830060da60e" resname="MKM·130 | Goblin Maskmaker | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, face-down spells you cast this turn cost {1} less to cast.</source>
-        <target state="translated">每当鬼怪面具师攻击时，你本回合中施放之牌面朝下的咒语减少{1}来施放。</target>
+        <target state="translated">每当CARDNAME攻击时，你本回合中施放之牌面朝下的咒语减少{1}来施放。</target>
       </trans-unit>
       <trans-unit id="36cb25ee-3c84-40a8-ba45-7e44893deecf" resname="MKM·131 | Harried Dronesmith | Card Name">
         <source>Harried Dronesmith</source>
@@ -2720,7 +2720,7 @@
       </trans-unit>
       <trans-unit id="0c6aca64-a554-45c1-9f23-4f7878abeda5" resname="MKM·132 | Incinerator of the Guilty | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may collect evidence X. When you do, CARDNAME deals X damage to each creature and planeswalker that player controls. (To collect evidence X, exile cards with total mana value X or greater from your graveyard.)</source>
-        <target state="translated">每当罪人焚龙对任一牌手造成战斗伤害时，你可以搜证X。当你如此作时，罪人焚龙对由该牌手操控的每个生物和每个鹏洛客各造成X点伤害。（搜证X的流程，是从你坟墓场中放逐法术力值加总达到X或更多的牌。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以搜证X。当你如此作时，CARDNAME对由该牌手操控的每个生物和每个鹏洛客各造成X点伤害。（搜证X的流程，是从你坟墓场中放逐法术力值加总达到X或更多的牌。）</target>
       </trans-unit>
       <trans-unit id="085f4595-4ae5-428e-a934-e918774df6fd" resname="MKM·133 | Innocent Bystander | Card Name">
         <source>Innocent Bystander</source>
@@ -2728,7 +2728,7 @@
       </trans-unit>
       <trans-unit id="085f4595-4ae5-428e-a934-e918774df6fd" resname="MKM·133 | Innocent Bystander | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt 3 or more damage, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">每当无辜旁观客受到3点或更多伤害时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">每当CARDNAME受到3点或更多伤害时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="b6883788-e1ee-4ddd-add2-24d6bc367717" resname="MKM·134 | Knife | Card Name">
         <source>Knife</source>
@@ -2740,7 +2740,7 @@
       </trans-unit>
       <trans-unit id="b6883788-e1ee-4ddd-add2-24d6bc367717" resname="MKM·134 | Knife | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲小刀：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="b6883788-e1ee-4ddd-add2-24d6bc367717" resname="MKM·134 | Knife | Card Text | Paragraph 3">
         <source>Equip {2}</source>
@@ -2772,7 +2772,7 @@
       </trans-unit>
       <trans-unit id="0edcda2a-071b-40c5-9fb3-8a4ff87ca00e" resname="MKM·136 | Krenko's Buzzcrusher | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, for each player, destroy up to one nonbasic land that player controls. For each land destroyed this way, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">当克仑可的嗡坠虫进战场时，为每位牌手各进行以下流程～消灭至多一个由该牌手操控的非基本地。对每个以此法消灭的地而言，其操控者可以从其牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，为每位牌手各进行以下流程～消灭至多一个由该牌手操控的非基本地。对每个以此法消灭的地而言，其操控者可以从其牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="2faa0e56-527c-4be5-b8c9-b10ccde275f5" resname="MKM·137 | Lamplight Phoenix | Card Name">
         <source>Lamplight Phoenix</source>
@@ -2784,7 +2784,7 @@
       </trans-unit>
       <trans-unit id="2faa0e56-527c-4be5-b8c9-b10ccde275f5" resname="MKM·137 | Lamplight Phoenix | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you may exile it and collect evidence 4. If you do, return CARDNAME to the battlefield tapped. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)</source>
-        <target state="translated">当灯火凤凰死去时，你可以将它放逐并搜证4。若你如此作，则将灯火凤凰横置移回战场。（搜证4的流程，是从你坟墓场中放逐法术力值加总达到4或更多的牌。）</target>
+        <target state="translated">当CARDNAME死去时，你可以将它放逐并搜证4。若你如此作，则将CARDNAME横置移回战场。（搜证4的流程，是从你坟墓场中放逐法术力值加总达到4或更多的牌。）</target>
       </trans-unit>
       <trans-unit id="f096ff4a-85f4-46f1-9478-e8921f21309d" resname="MKM·138 | Offender at Large | Card Name">
         <source>Offender at Large</source>
@@ -2796,7 +2796,7 @@
       </trans-unit>
       <trans-unit id="f096ff4a-85f4-46f1-9478-e8921f21309d" resname="MKM·138 | Offender at Large | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield or is turned face up, up to one target creature gets +2/+0 until end of turn.</source>
-        <target state="translated">当在逃巨犯进战场或翻回正面时，至多一个目标生物得+2/+0直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场或翻回正面时，至多一个目标生物得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7d56ebff-67c8-4bc7-a533-ddde4ce0c2af" resname="MKM·139 | Person of Interest | Card Name">
         <source>Person of Interest</source>
@@ -2804,7 +2804,7 @@
       </trans-unit>
       <trans-unit id="7d56ebff-67c8-4bc7-a533-ddde4ce0c2af" resname="MKM·139 | Person of Interest | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, suspect it. Create a 2/2 white and blue Detective creature token. (A suspected creature has menace and can't block.)</source>
-        <target state="translated">当涉案凶嫌进战场时，怀疑它。派出一个2/2，白蓝双色的侦探衍生生物。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
+        <target state="translated">当CARDNAME进战场时，怀疑它。派出一个2/2，白蓝双色的侦探衍生生物。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
       </trans-unit>
       <trans-unit id="0fa5671b-2651-4944-a50a-c768ec70229e" resname="MKM·140 | Pyrotechnic Performer | Card Name">
         <source>Pyrotechnic Performer</source>
@@ -2816,7 +2816,7 @@
       </trans-unit>
       <trans-unit id="0fa5671b-2651-4944-a50a-c768ec70229e" resname="MKM·140 | Pyrotechnic Performer | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another creature you control is turned face up, that creature deals damage equal to its power to each opponent.</source>
-        <target state="translated">每当烟火表演者或另一个由你操控的生物翻回正面时，该生物向每位对手各造成等同于其力量的伤害。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的生物翻回正面时，该生物向每位对手各造成等同于其力量的伤害。</target>
       </trans-unit>
       <trans-unit id="18da1a1d-e6ba-47e5-a545-0bacd427b782" resname="MKM·141 | Reckless Detective | Card Name">
         <source>Reckless Detective</source>
@@ -2824,7 +2824,7 @@
       </trans-unit>
       <trans-unit id="18da1a1d-e6ba-47e5-a545-0bacd427b782" resname="MKM·141 | Reckless Detective | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may sacrifice an artifact or discard a card. If you do, draw a card and CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">每当无忌侦探攻击时，你可以牺牲一个神器或弃一张牌。若你如此作，则抓一张牌且无忌侦探得+2/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以牺牲一个神器或弃一张牌。若你如此作，则抓一张牌且CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f90f8691-210a-4bf0-9fc2-fb2efcf057fb" resname="MKM·143 | Rubblebelt Braggart | Card Name">
         <source>Rubblebelt Braggart</source>
@@ -2832,7 +2832,7 @@
       </trans-unit>
       <trans-unit id="f90f8691-210a-4bf0-9fc2-fb2efcf057fb" resname="MKM·143 | Rubblebelt Braggart | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, if it's not suspected, you may suspect it. (A suspected creature has menace and can't block.)</source>
-        <target state="translated">每当瓦砾区吹嘘客攻击时，若它未遭疑，则你可以怀疑它。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
+        <target state="translated">每当CARDNAME攻击时，若它未遭疑，则你可以怀疑它。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
       </trans-unit>
       <trans-unit id="6e280482-ed7e-4011-899e-096ff7bd4c41" resname="MKM·145 | Suspicious Detonation | Card Name">
         <source>Suspicious Detonation</source>
@@ -2848,7 +2848,7 @@
       </trans-unit>
       <trans-unit id="6e280482-ed7e-4011-899e-096ff7bd4c41" resname="MKM·145 | Suspicious Detonation | Card Text | Paragraph 3">
         <source>CARDNAME deals 4 damage to target creature.</source>
-        <target state="translated">可疑爆炸对目标生物造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="22bbf709-d8e9-4e3b-8ec8-206f1b2162b3" resname="MKM·146 | Torch the Witness | Card Name">
         <source>Torch the Witness</source>
@@ -2856,7 +2856,7 @@
       </trans-unit>
       <trans-unit id="22bbf709-d8e9-4e3b-8ec8-206f1b2162b3" resname="MKM·146 | Torch the Witness | Card Text | Paragraph 1">
         <source>CARDNAME deals twice X damage to target creature. If excess damage was dealt to that creature this way, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">证人成炬对目标生物造成两倍于X数量的伤害。如果以此法对该生物造成过量伤害，则探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">CARDNAME对目标生物造成两倍于X数量的伤害。如果以此法对该生物造成过量伤害，则探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="a247c9a0-0c65-47bc-92fd-bebe95cd35a3" resname="MKM·147 | Vengeful Tracker | Card Name">
         <source>Vengeful Tracker</source>
@@ -2864,7 +2864,7 @@
       </trans-unit>
       <trans-unit id="a247c9a0-0c65-47bc-92fd-bebe95cd35a3" resname="MKM·147 | Vengeful Tracker | Card Text | Paragraph 1">
         <source>Whenever an opponent sacrifices an artifact, CARDNAME deals 2 damage to them.</source>
-        <target state="translated">每当任一对手牺牲一个神器时，怨仇追迹人对其造成2点伤害。</target>
+        <target state="translated">每当任一对手牺牲一个神器时，CARDNAME对其造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="1c1aa6f8-2d34-4f4b-9184-0eab2e4745f7" resname="MKM·148 | Aftermath Analyst | Card Name">
         <source>Aftermath Analyst</source>
@@ -2872,11 +2872,11 @@
       </trans-unit>
       <trans-unit id="1c1aa6f8-2d34-4f4b-9184-0eab2e4745f7" resname="MKM·148 | Aftermath Analyst | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, mill three cards.</source>
-        <target state="translated">当事后分析师进战场时，磨三张牌。</target>
+        <target state="translated">当CARDNAME进战场时，磨三张牌。</target>
       </trans-unit>
       <trans-unit id="1c1aa6f8-2d34-4f4b-9184-0eab2e4745f7" resname="MKM·148 | Aftermath Analyst | Card Text | Paragraph 2">
         <source>{3}{G}, Sacrifice CARDNAME: Return all land cards from your graveyard to the battlefield tapped.</source>
-        <target state="translated">{3}{G}，牺牲事后分析师：将所有地牌从你的坟墓场横置移回战场。</target>
+        <target state="translated">{3}{G}，牺牲CARDNAME：将所有地牌从你的坟墓场横置移回战场。</target>
       </trans-unit>
       <trans-unit id="bffbbe21-0a1d-48b9-903e-81c109aa11de" resname="MKM·149 | Airtight Alibi | Card Name">
         <source>Airtight Alibi</source>
@@ -2892,7 +2892,7 @@
       </trans-unit>
       <trans-unit id="bffbbe21-0a1d-48b9-903e-81c109aa11de" resname="MKM·149 | Airtight Alibi | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, untap enchanted creature. It gains hexproof until end of turn. If it's suspected, it's no longer suspected.</source>
-        <target state="translated">当完美不在场进战场时，重置所结附的生物。它获得辟邪异能直到回合结束。如果它已遭疑，则它不再遭疑。</target>
+        <target state="translated">当CARDNAME进战场时，重置所结附的生物。它获得辟邪异能直到回合结束。如果它已遭疑，则它不再遭疑。</target>
       </trans-unit>
       <trans-unit id="bffbbe21-0a1d-48b9-903e-81c109aa11de" resname="MKM·149 | Airtight Alibi | Card Text | Paragraph 4">
         <source>Enchanted creature gets +2/+2 and can't become suspected.</source>
@@ -3008,7 +3008,7 @@
       </trans-unit>
       <trans-unit id="2ccdc58b-1e7e-402c-88f9-c789ff1dae31" resname="MKM·158 | Culvert Ambusher | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield or is turned face up, target creature blocks this turn if able.</source>
-        <target state="translated">当阴沟伏击兽进战场或翻回正面时，目标生物本回合若能进行阻挡，则必须阻挡。</target>
+        <target state="translated">当CARDNAME进战场或翻回正面时，目标生物本回合若能进行阻挡，则必须阻挡。</target>
       </trans-unit>
       <trans-unit id="2ccdc58b-1e7e-402c-88f9-c789ff1dae31" resname="MKM·158 | Culvert Ambusher | Card Text | Paragraph 2">
         <source>Disguise {4}{G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -3028,7 +3028,7 @@
       </trans-unit>
       <trans-unit id="5ddcb31e-9301-44f1-b138-0573fbf56a47" resname="MKM·160 | Flourishing Bloom-Kin | Card Text | Paragraph 1">
         <source>CARDNAME gets +1/+1 for each Forest you control.</source>
-        <target state="translated">你每操控一个树林，茁壮花身便得+1/+1。</target>
+        <target state="translated">你每操控一个树林，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="5ddcb31e-9301-44f1-b138-0573fbf56a47" resname="MKM·160 | Flourishing Bloom-Kin | Card Text | Paragraph 2">
         <source>Disguise {4}{G}</source>
@@ -3036,7 +3036,7 @@
       </trans-unit>
       <trans-unit id="5ddcb31e-9301-44f1-b138-0573fbf56a47" resname="MKM·160 | Flourishing Bloom-Kin | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, search your library for up to two Forest cards and reveal them. Put one of them onto the battlefield tapped and the other into your hand, then shuffle.</source>
-        <target state="translated">当茁壮花身翻回正面时，从你牌库中搜寻至多两张树林牌并展示之。将其中一张横置放进战场，另一张则置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME翻回正面时，从你牌库中搜寻至多两张树林牌并展示之。将其中一张横置放进战场，另一张则置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="34e61e0f-d0f3-492a-92f1-36f72a91583a" resname="MKM·161 | Get a Leg Up | Card Name">
         <source>Get a Leg Up</source>
@@ -3056,7 +3056,7 @@
       </trans-unit>
       <trans-unit id="c8eff4d0-67ad-4900-b33d-605659b59161" resname="MKM·162 | Glint Weaver | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, distribute three +1/+1 counters among one, two, or three target creatures, then you gain life equal to the greatest toughness among creatures you control.</source>
-        <target state="translated">当烁亮织网蛛进战场时，将三个+1/+1指示物分配给一个，两个或三个目标生物，然后你获得若干生命，其数量等同于由你操控之生物中的最大防御力。</target>
+        <target state="translated">当CARDNAME进战场时，将三个+1/+1指示物分配给一个，两个或三个目标生物，然后你获得若干生命，其数量等同于由你操控之生物中的最大防御力。</target>
       </trans-unit>
       <trans-unit id="88e62346-cc62-4938-970c-b56beeb79fa6" resname="MKM·163 | Greenbelt Radical | Card Name">
         <source>Greenbelt Radical</source>
@@ -3068,7 +3068,7 @@
       </trans-unit>
       <trans-unit id="88e62346-cc62-4938-970c-b56beeb79fa6" resname="MKM·163 | Greenbelt Radical | Card Text | Paragraph 2">
         <source>When CARDNAME is turned face up, put a +1/+1 counter on each creature you control. Creatures you control gain trample until end of turn.</source>
-        <target state="translated">当绿地闹事徒翻回正面时，在每个由你操控的生物上各放置一个+1/+1指示物。由你操控的生物获得践踏异能直到回合结束。</target>
+        <target state="translated">当CARDNAME翻回正面时，在每个由你操控的生物上各放置一个+1/+1指示物。由你操控的生物获得践踏异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8ad807c2-14a7-4464-bf57-c323fb3c0bd0" resname="MKM·164 | Hard-Hitting Question | Card Name">
         <source>Hard-Hitting Question</source>
@@ -3084,11 +3084,11 @@
       </trans-unit>
       <trans-unit id="4627adcd-ace7-4777-a7e6-fc80ac6b9dfe" resname="MKM·165 | Hedge Whisperer | Card Text | Paragraph 1">
         <source>You may choose not to untap CARDNAME during your untap step.</source>
-        <target state="translated">你可以选择于你的重置步骤中不重置树篱语者。</target>
+        <target state="translated">你可以选择于你的重置步骤中不重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="4627adcd-ace7-4777-a7e6-fc80ac6b9dfe" resname="MKM·165 | Hedge Whisperer | Card Text | Paragraph 2">
         <source>{3}{G}, {T}, Collect evidence 4: Target land you control becomes a 5/5 green Plant Boar creature with haste for as long as CARDNAME remains tapped. It's still a land. Activate only as a sorcery. (To collect evidence 4, exile cards with total mana value 4 or greater from your graveyard.)</source>
-        <target state="translated">{3}{G}，{T}，搜证4：于树篱语者持续横置的时段内，目标由你操控的地成为5/5绿色，具敏捷异能的植物／野猪生物。它仍然是地。只能于法术时机起动。（搜证4的流程，是从你坟墓场中放逐法术力值加总达到4或更多的牌。）</target>
+        <target state="translated">{3}{G}，{T}，搜证4：于CARDNAME持续横置的时段内，目标由你操控的地成为5/5绿色，具敏捷异能的植物／野猪生物。它仍然是地。只能于法术时机起动。（搜证4的流程，是从你坟墓场中放逐法术力值加总达到4或更多的牌。）</target>
       </trans-unit>
       <trans-unit id="d87c1ed8-c644-4ad5-9a21-c7bd9a7e8d20" resname="MKM·166 | Hide in Plain Sight | Card Name">
         <source>Hide in Plain Sight</source>
@@ -3104,11 +3104,11 @@
       </trans-unit>
       <trans-unit id="2c1392c5-91a5-4e6e-803d-ed032e4d594b" resname="MKM·167 | A Killer Among Us | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 white Human creature token, a 1/1 blue Merfolk creature token, and a 1/1 red Goblin creature token. Then secretly choose Human, Merfolk, or Goblin.</source>
-        <target state="translated">当凶手在侧进战场时，派出一个1/1白色人类衍生生物，一个1/1蓝色人鱼衍生生物和一个1/1红色鬼怪衍生生物。然后私下选择人类，人鱼或鬼怪。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1白色人类衍生生物，一个1/1蓝色人鱼衍生生物和一个1/1红色鬼怪衍生生物。然后私下选择人类，人鱼或鬼怪。</target>
       </trans-unit>
       <trans-unit id="2c1392c5-91a5-4e6e-803d-ed032e4d594b" resname="MKM·167 | A Killer Among Us | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME, Reveal the creature type you chose: If target attacking creature token is the chosen type, put three +1/+1 counters on it and it gains deathtouch until end of turn.</source>
-        <target state="translated">牺牲凶手在侧，展示所选生物类别：如果目标进行攻击的衍生生物为该类别，则在其上放置三个+1/+1指示物且其获得死触异能直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME，展示所选生物类别：如果目标进行攻击的衍生生物为该类别，则在其上放置三个+1/+1指示物且其获得死触异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848" resname="MKM·168 | Loxodon Eavesdropper | Card Name">
         <source>Loxodon Eavesdropper</source>
@@ -3116,11 +3116,11 @@
       </trans-unit>
       <trans-unit id="bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848" resname="MKM·168 | Loxodon Eavesdropper | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当象族偷听客进战场时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="bbbf8c3a-6c74-42fd-bb8d-61e3f0a77848" resname="MKM·168 | Loxodon Eavesdropper | Card Text | Paragraph 2">
         <source>Whenever you draw your second card each turn, CARDNAME gets +1/+1 and gains vigilance until end of turn.</source>
-        <target state="translated">每当你抓每回合中你的第二张牌时，直到回合结束，象族偷听客得+1/+1且获得警戒异能。</target>
+        <target state="translated">每当你抓每回合中你的第二张牌时，直到回合结束，CARDNAME得+1/+1且获得警戒异能。</target>
       </trans-unit>
       <trans-unit id="93b747c7-b342-47f8-a190-16c393b20607" resname="MKM·169 | Nervous Gardener | Card Name">
         <source>Nervous Gardener</source>
@@ -3132,7 +3132,7 @@
       </trans-unit>
       <trans-unit id="93b747c7-b342-47f8-a190-16c393b20607" resname="MKM·169 | Nervous Gardener | Card Text | Paragraph 2">
         <source>When CARDNAME is turned face up, search your library for a land card with a basic land type, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">当紧张的园丁翻回正面时，从你牌库中搜寻一张具基本地类别的地牌，展示该牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME翻回正面时，从你牌库中搜寻一张具基本地类别的地牌，展示该牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="6d803b93-c1df-4a02-9dbb-d347c841d4d7" resname="MKM·171 | Pompous Gadabout | Card Name">
         <source>Pompous Gadabout</source>
@@ -3140,11 +3140,11 @@
       </trans-unit>
       <trans-unit id="6d803b93-c1df-4a02-9dbb-d347c841d4d7" resname="MKM·171 | Pompous Gadabout | Card Text | Paragraph 1">
         <source>CARDNAME has hexproof as long as it's your turn.</source>
-        <target state="translated">只要是在你的回合中，浮夸游荡客便具有辟邪异能。</target>
+        <target state="translated">只要是在你的回合中，CARDNAME便具有辟邪异能。</target>
       </trans-unit>
       <trans-unit id="6d803b93-c1df-4a02-9dbb-d347c841d4d7" resname="MKM·171 | Pompous Gadabout | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked by creatures that don't have a name.</source>
-        <target state="translated">浮夸游荡客不能被没有名称的生物阻挡。</target>
+        <target state="translated">CARDNAME不能被没有名称的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="edb40ab9-e552-4eb5-9c35-09094136dd4f" resname="MKM·172 | The Pride of Hull Clade | Card Name">
         <source>The Pride of Hull Clade</source>
@@ -3172,7 +3172,7 @@
       </trans-unit>
       <trans-unit id="6881946c-5036-4d9f-926f-932c9a592aff" resname="MKM·173 | Rope | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲绳索：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="6881946c-5036-4d9f-926f-932c9a592aff" resname="MKM·173 | Rope | Card Text | Paragraph 3">
         <source>Equip {3}</source>
@@ -3184,11 +3184,11 @@
       </trans-unit>
       <trans-unit id="81c7ff67-b9e1-4d2e-b1ae-da9b946da00b" resname="MKM·174 | Rubblebelt Maverick | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</source>
-        <target state="translated">当瓦砾区独行客进战场时，刺探2。（检视你牌库顶的两张牌，然后将其中任意数量置入你坟墓场，其余则以任意顺序置于你牌库顶。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探2。（检视你牌库顶的两张牌，然后将其中任意数量置入你坟墓场，其余则以任意顺序置于你牌库顶。）</target>
       </trans-unit>
       <trans-unit id="81c7ff67-b9e1-4d2e-b1ae-da9b946da00b" resname="MKM·174 | Rubblebelt Maverick | Card Text | Paragraph 2">
         <source>{G}, Exile CARDNAME from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery.</source>
-        <target state="translated">{G}，从你的坟墓场放逐瓦砾区独行客：在目标生物上放置一个+1/+1指示物。只能于法术时机起动。</target>
+        <target state="translated">{G}，从你的坟墓场放逐CARDNAME：在目标生物上放置一个+1/+1指示物。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="76f7480c-82cc-4ddd-b619-c1a609c29a13" resname="MKM·175 | Sample Collector | Card Name">
         <source>Sample Collector</source>
@@ -3196,7 +3196,7 @@
       </trans-unit>
       <trans-unit id="76f7480c-82cc-4ddd-b619-c1a609c29a13" resname="MKM·175 | Sample Collector | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may collect evidence 3. When you do, put a +1/+1 counter on target creature you control. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)</source>
-        <target state="translated">每当样本收集员攻击时，你可以搜证3。当你如此作时，在目标由你操控的生物上放置一个+1/+1指示物。（搜证3的流程，是从你坟墓场中放逐法术力值加总达到3或更多的牌。）</target>
+        <target state="translated">每当CARDNAME攻击时，你可以搜证3。当你如此作时，在目标由你操控的生物上放置一个+1/+1指示物。（搜证3的流程，是从你坟墓场中放逐法术力值加总达到3或更多的牌。）</target>
       </trans-unit>
       <trans-unit id="3d5d4788-a970-4e09-89a1-740eca9331d9" resname="MKM·176 | Sharp-Eyed Rookie | Card Name">
         <source>Sharp-Eyed Rookie</source>
@@ -3208,7 +3208,7 @@
       </trans-unit>
       <trans-unit id="3d5d4788-a970-4e09-89a1-740eca9331d9" resname="MKM·176 | Sharp-Eyed Rookie | Card Text | Paragraph 2">
         <source>Whenever a creature enters the battlefield under your control, if its power is greater than CARDNAME's power or its toughness is greater than CARDNAME's toughness, put a +1/+1 counter on CARDNAME and investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">每当一个生物在你操控下进战场时，若其力量大于眼尖新手的力量或其防御力大于眼尖新手的防御力，则在眼尖新手上放置一个+1/+1指示物并探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">每当一个生物在你操控下进战场时，若其力量大于CARDNAME的力量或其防御力大于CARDNAME的防御力，则在CARDNAME上放置一个+1/+1指示物并探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="1eb21318-d32e-4724-8908-c0d7613de2f4" resname="MKM·177 | Slime Against Humanity | Card Name">
         <source>Slime Against Humanity</source>
@@ -3216,11 +3216,11 @@
       </trans-unit>
       <trans-unit id="1eb21318-d32e-4724-8908-c0d7613de2f4" resname="MKM·177 | Slime Against Humanity | Card Text | Paragraph 1">
         <source>Create a 0/0 green Ooze creature token with trample. Put X +1/+1 counters on it, where X is two plus the total number of cards you own in exile and in your graveyard that are Oozes or are named CARDNAME.</source>
-        <target state="translated">派出一个0/0绿色，具践踏异能的流浆衍生生物。在其上放置X个+1/+1指示物，X为放逐区和你坟墓场中由你拥有且为流浆或名称为反人淤泥者之牌的数量加二。</target>
+        <target state="translated">派出一个0/0绿色，具践踏异能的流浆衍生生物。在其上放置X个+1/+1指示物，X为放逐区和你坟墓场中由你拥有且为流浆或名称为CARDNAME者之牌的数量加二。</target>
       </trans-unit>
       <trans-unit id="1eb21318-d32e-4724-8908-c0d7613de2f4" resname="MKM·177 | Slime Against Humanity | Card Text | Paragraph 2">
         <source>A deck can have any number of cards named CARDNAME.</source>
-        <target state="translated">名称为反人淤泥的牌，在套牌中的数量不受限制。</target>
+        <target state="translated">名称为CARDNAME的牌，在套牌中的数量不受限制。</target>
       </trans-unit>
       <trans-unit id="f4a31d4a-34bc-46b4-b20f-a5460191b35d" resname="MKM·178 | They Went This Way | Card Name">
         <source>They Went This Way</source>
@@ -3248,7 +3248,7 @@
       </trans-unit>
       <trans-unit id="3e29b890-35b9-4e2a-9b4c-9417ca7db31d" resname="MKM·180 | Tunnel Tipster | Card Text | Paragraph 1">
         <source>At the beginning of your end step, if a face-down creature entered the battlefield under your control this turn, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">在你的结束步骤开始时，若本回合中有牌面朝下的生物在你操控下进战场，则在隧道情报贩上放置一个+1/+1指示物。</target>
+        <target state="translated">在你的结束步骤开始时，若本回合中有牌面朝下的生物在你操控下进战场，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="3e29b890-35b9-4e2a-9b4c-9417ca7db31d" resname="MKM·180 | Tunnel Tipster | Card Text | Paragraph 2">
         <source>{T}: Add {G}.</source>
@@ -3272,7 +3272,7 @@
       </trans-unit>
       <trans-unit id="7a914416-effd-4eda-b609-2773c53a08ec" resname="MKM·182 | Vengeful Creeper | Card Text | Paragraph 2">
         <source>When CARDNAME is turned face up, destroy target artifact or enchantment an opponent controls.</source>
-        <target state="translated">当复仇匍行怪翻回正面时，消灭目标由对手操控的神器或结界。</target>
+        <target state="translated">当CARDNAME翻回正面时，消灭目标由对手操控的神器或结界。</target>
       </trans-unit>
       <trans-unit id="664d15d7-2724-4a9b-b5a7-8042d4b7da7b" resname="MKM·183 | Vitu-Ghazi Inspector | Card Name">
         <source>Vitu-Ghazi Inspector</source>
@@ -3288,7 +3288,7 @@
       </trans-unit>
       <trans-unit id="664d15d7-2724-4a9b-b5a7-8042d4b7da7b" resname="MKM·183 | Vitu-Ghazi Inspector | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if evidence was collected, put a +1/+1 counter on target creature and you gain 2 life.</source>
-        <target state="translated">当维图加基巡检员进战场时，若已搜证，则在目标生物上放置一个+1/+1指示物且你获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，若已搜证，则在目标生物上放置一个+1/+1指示物且你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="58aeac7c-1275-49d4-9915-7604ae4bfdff" resname="MKM·184 | Agrus Kos, Spirit of Justice | Card Name">
         <source>Agrus Kos, Spirit of Justice</source>
@@ -3300,7 +3300,7 @@
       </trans-unit>
       <trans-unit id="58aeac7c-1275-49d4-9915-7604ae4bfdff" resname="MKM·184 | Agrus Kos, Spirit of Justice | Card Text | Paragraph 2">
         <source>Whenever CARDNAME enters the battlefield or attacks, choose up to one target creature. If it's suspected, exile it. Otherwise, suspect it. (A suspected creature has menace and can't block.)</source>
-        <target state="translated">每当正义之魂阿固寇斯进战场或攻击时，选择至多一个目标生物。如果它已遭疑，则将它放逐。若否，则怀疑它。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，选择至多一个目标生物。如果它已遭疑，则将它放逐。若否，则怀疑它。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
       </trans-unit>
       <trans-unit id="41129b44-4fa7-473b-b2b7-48c6a58be03c" resname="MKM·185 | Alquist Proft, Master Sleuth | Card Name">
         <source>Alquist Proft, Master Sleuth</source>
@@ -3312,7 +3312,7 @@
       </trans-unit>
       <trans-unit id="41129b44-4fa7-473b-b2b7-48c6a58be03c" resname="MKM·185 | Alquist Proft, Master Sleuth | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当大侦探阿奎斯波费进战场时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="41129b44-4fa7-473b-b2b7-48c6a58be03c" resname="MKM·185 | Alquist Proft, Master Sleuth | Card Text | Paragraph 3">
         <source>{X}{W}{U}{U}, {T}, Sacrifice a Clue: You draw X cards and gain X life.</source>
@@ -3324,7 +3324,7 @@
       </trans-unit>
       <trans-unit id="70e9d8b8-4b32-4414-b32f-1f47523239c5" resname="MKM·186 | Anzrag, the Quake-Mole | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, untap each creature you control. After this phase, there is an additional combat phase.</source>
-        <target state="translated">每当地动鼹鼠安札格被阻挡时，重置所有由你操控的生物。在此战斗阶段后，额外多出一个战斗阶段。</target>
+        <target state="translated">每当CARDNAME被阻挡时，重置所有由你操控的生物。在此战斗阶段后，额外多出一个战斗阶段。</target>
       </trans-unit>
       <trans-unit id="70e9d8b8-4b32-4414-b32f-1f47523239c5" resname="MKM·186 | Anzrag, the Quake-Mole | Card Text | Paragraph 2">
         <source>{3}{R}{R}{G}{G}: Anzrag must be blocked each combat this turn if able.</source>
@@ -3344,7 +3344,7 @@
       </trans-unit>
       <trans-unit id="8f80c6e7-e9f9-4ca6-87f7-a52c96079e4a" resname="MKM·188 | Aurelia, the Law Above | Card Text | Paragraph 3">
         <source>Whenever a player attacks with five or more creatures, CARDNAME deals 3 damage to each of your opponents and you gain 3 life.</source>
-        <target state="translated">每当任一牌手以五个或更多生物攻击时，苍天铁律欧瑞梨向你的每位对手各造成3点伤害且你获得3点生命。</target>
+        <target state="translated">每当任一牌手以五个或更多生物攻击时，CARDNAME向你的每位对手各造成3点伤害且你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="2b80feb8-5cc8-4e91-ac22-a733305a67de" resname="MKM·189 | Blood Spatter Analysis | Card Name">
         <source>Blood Spatter Analysis</source>
@@ -3352,11 +3352,11 @@
       </trans-unit>
       <trans-unit id="2b80feb8-5cc8-4e91-ac22-a733305a67de" resname="MKM·189 | Blood Spatter Analysis | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 3 damage to target creature an opponent controls.</source>
-        <target state="translated">当血迹分析进战场时，它向目标由对手操控的生物造成3点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它向目标由对手操控的生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="2b80feb8-5cc8-4e91-ac22-a733305a67de" resname="MKM·189 | Blood Spatter Analysis | Card Text | Paragraph 2">
         <source>Whenever one or more creatures die, mill a card and put a bloodstain counter on CARDNAME. Then sacrifice it if it has five or more bloodstain counters on it. When you do, return target creature card from your graveyard to your hand.</source>
-        <target state="translated">每当一个或数个生物死去时，磨一张牌并在血迹分析上放置一个血迹指示物。然后如果其上有五个或更多血迹指示物，则牺牲它。当你如此作时，将目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">每当一个或数个生物死去时，磨一张牌并在CARDNAME上放置一个血迹指示物。然后如果其上有五个或更多血迹指示物，则牺牲它。当你如此作时，将目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="8c628476-0987-47d4-8d2a-cfc3977b2357" resname="MKM·190 | Break Out | Card Name">
         <source>Break Out</source>
@@ -3376,7 +3376,7 @@
       </trans-unit>
       <trans-unit id="7e144609-e1f6-4bdc-8d14-b735ef4140d3" resname="MKM·191 | Buried in the Garden | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile target nonland permanent you don't control until CARDNAME leaves the battlefield.</source>
-        <target state="translated">当葬于花园进战场时，放逐目标不由你操控的非地永久物，直到葬于花园离开战场为止。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标不由你操控的非地永久物，直到CARDNAME离开战场为止。</target>
       </trans-unit>
       <trans-unit id="7e144609-e1f6-4bdc-8d14-b735ef4140d3" resname="MKM·191 | Buried in the Garden | Card Text | Paragraph 3">
         <source>Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.</source>
@@ -3404,7 +3404,7 @@
       </trans-unit>
       <trans-unit id="cdf0578f-4966-4ecd-81e1-83ae13126f13" resname="MKM·193 | Crowd-Control Warden | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield or is turned face up, put X +1/+1 counters on it, where X is the number of other creatures you control.</source>
-        <target state="translated">于控群护卫进战场或翻回正面时，在其上放置X个+1/+1指示物，X为由你操控的其他生物数量。</target>
+        <target state="translated">于CARDNAME进战场或翻回正面时，在其上放置X个+1/+1指示物，X为由你操控的其他生物数量。</target>
       </trans-unit>
       <trans-unit id="cdf0578f-4966-4ecd-81e1-83ae13126f13" resname="MKM·193 | Crowd-Control Warden | Card Text | Paragraph 2">
         <source>Disguise {3}{G/W}{G/W} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -3420,7 +3420,7 @@
       </trans-unit>
       <trans-unit id="2893aef8-835d-4935-b532-d8670585e489" resname="MKM·194 | Curious Cadaver | Card Text | Paragraph 2">
         <source>When you sacrifice a Clue, return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">当你牺牲一个线索时，将好奇尸身从你的坟墓场移回你手上。</target>
+        <target state="translated">当你牺牲一个线索时，将CARDNAME从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="7c68981c-037c-42e7-9b7f-6f07edab5f2e" resname="MKM·195 | Deadly Complication | Card Name">
         <source>Deadly Complication</source>
@@ -3444,7 +3444,7 @@
       </trans-unit>
       <trans-unit id="2c05bf2d-7d4f-4717-b1ea-ec4284854f4f" resname="MKM·196 | Detective's Satchel | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, investigate twice. (To investigate, create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当侦探背包进战场时，探查两次。（探查的流程，是派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，探查两次。（探查的流程，是派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="2c05bf2d-7d4f-4717-b1ea-ec4284854f4f" resname="MKM·196 | Detective's Satchel | Card Text | Paragraph 2">
         <source>{T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only if you've sacrificed an artifact this turn.</source>
@@ -3464,7 +3464,7 @@
       </trans-unit>
       <trans-unit id="a6e0adb7-a030-4dcc-9284-cd91c7598a22" resname="MKM·197 | Dog Walker | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, create two tapped 1/1 white Dog creature tokens.</source>
-        <target state="translated">当遛狗民众翻回正面时，派出两个已横置之1/1白色的狗衍生生物。</target>
+        <target state="translated">当CARDNAME翻回正面时，派出两个已横置之1/1白色的狗衍生生物。</target>
       </trans-unit>
       <trans-unit id="a2daec58-78ed-4da5-b3b0-b04f12b0acbd" resname="MKM·198 | Doppelgang | Card Name">
         <source>Doppelgang</source>
@@ -3520,7 +3520,7 @@
       </trans-unit>
       <trans-unit id="9554d5f2-7a33-4734-8cf3-dfae2ccc3596" resname="MKM·202 | Ezrim, Agency Chief | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, investigate twice. (To investigate, create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当魔调局局长伊泽霖进战场时，探查两次。（探查的流程，是派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，探查两次。（探查的流程，是派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="9554d5f2-7a33-4734-8cf3-dfae2ccc3596" resname="MKM·202 | Ezrim, Agency Chief | Card Text | Paragraph 3">
         <source>{1}, Sacrifice an artifact: Ezrim gains your choice of vigilance, lifelink, or hexproof until end of turn.</source>
@@ -3540,7 +3540,7 @@
       </trans-unit>
       <trans-unit id="20267dab-8898-4b44-8ef4-8a239967662c" resname="MKM·203 | Faerie Snoop | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, look at the top two cards of your library. Put one into your hand and the other into your graveyard.</source>
-        <target state="translated">当嗅探仙灵翻回正面时，检视你牌库顶的两张牌。将其中一张置于你手上，另一张则置入你的坟墓场。</target>
+        <target state="translated">当CARDNAME翻回正面时，检视你牌库顶的两张牌。将其中一张置于你手上，另一张则置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="3b489a54-ee43-4962-be7b-16e0e28800e0" resname="MKM·204 | Gadget Technician | Card Name">
         <source>Gadget Technician</source>
@@ -3548,7 +3548,7 @@
       </trans-unit>
       <trans-unit id="3b489a54-ee43-4962-be7b-16e0e28800e0" resname="MKM·204 | Gadget Technician | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield or is turned face up, create a 1/1 colorless Thopter artifact creature token with flying.</source>
-        <target state="translated">当灵械技师进战场或翻回正面时，派出一个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
+        <target state="translated">当CARDNAME进战场或翻回正面时，派出一个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
       </trans-unit>
       <trans-unit id="3b489a54-ee43-4962-be7b-16e0e28800e0" resname="MKM·204 | Gadget Technician | Card Text | Paragraph 2">
         <source>Disguise {U/R}{U/R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -3564,11 +3564,11 @@
       </trans-unit>
       <trans-unit id="cabb5875-42ff-4e3a-a32e-aab392fccff8" resname="MKM·205 | Gleaming Geardrake | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当光亮金械龙兽进战场时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="cabb5875-42ff-4e3a-a32e-aab392fccff8" resname="MKM·205 | Gleaming Geardrake | Card Text | Paragraph 3">
         <source>Whenever you sacrifice an artifact, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你牺牲一个神器时，在光亮金械龙兽上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你牺牲一个神器时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="daee9d98-f8c6-4980-8f23-c6c636b69430" resname="MKM·206 | Granite Witness | Card Name">
         <source>Granite Witness</source>
@@ -3584,7 +3584,7 @@
       </trans-unit>
       <trans-unit id="daee9d98-f8c6-4980-8f23-c6c636b69430" resname="MKM·206 | Granite Witness | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, you may tap or untap target creature.</source>
-        <target state="translated">当观路岗岩像翻回正面时，你可以横置或重置目标生物。</target>
+        <target state="translated">当CARDNAME翻回正面时，你可以横置或重置目标生物。</target>
       </trans-unit>
       <trans-unit id="0b5cdb01-eaa4-4a0a-b42a-332bcf4d6fff" resname="MKM·207 | Ill-Timed Explosion | Card Name">
         <source>Ill-Timed Explosion</source>
@@ -3592,7 +3592,7 @@
       </trans-unit>
       <trans-unit id="0b5cdb01-eaa4-4a0a-b42a-332bcf4d6fff" resname="MKM·207 | Ill-Timed Explosion | Card Text | Paragraph 1">
         <source>Draw two cards. Then you may discard two cards. When you do, CARDNAME deals X damage to each creature, where X is the greatest mana value among cards discarded this way.</source>
-        <target state="translated">抓两张牌。然后你可以弃两张牌。当你如此作时，厄时爆炸对每个生物各造成X点伤害，X为以此法所弃各牌中的最大法术力值。</target>
+        <target state="translated">抓两张牌。然后你可以弃两张牌。当你如此作时，CARDNAME对每个生物各造成X点伤害，X为以此法所弃各牌中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="0bb91a22-2040-4a37-85f8-5f22de8c5907" resname="MKM·208 | Insidious Roots | Card Name">
         <source>Insidious Roots</source>
@@ -3616,7 +3616,7 @@
       </trans-unit>
       <trans-unit id="70ea66cd-587a-4ca9-9ca8-d7d2046bfbed" resname="MKM·209 | Izoni, Center of the Web | Card Text | Paragraph 2">
         <source>Whenever CARDNAME enters the battlefield or attacks, you may collect evidence 4. If you do, create two 2/1 black and green Spider creature tokens with menace and reach.</source>
-        <target state="translated">每当罗网中心依佐妮进战场或攻击时，你可以搜证4。若你如此作，则派出两个2/1，黑绿双色，具威慑与延势异能的蜘蛛衍生生物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，你可以搜证4。若你如此作，则派出两个2/1，黑绿双色，具威慑与延势异能的蜘蛛衍生生物。</target>
       </trans-unit>
       <trans-unit id="70ea66cd-587a-4ca9-9ca8-d7d2046bfbed" resname="MKM·209 | Izoni, Center of the Web | Card Text | Paragraph 3">
         <source>Sacrifice four tokens: Surveil 2, then draw two cards. You gain 2 life.</source>
@@ -3668,7 +3668,7 @@
       </trans-unit>
       <trans-unit id="c49690c7-c282-4eb4-8da3-5e0c46a80fc4" resname="MKM·212 | Kellan, Inquisitive Prodigy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, destroy up to one target artifact. If you controlled that permanent, draw a card.</source>
-        <target state="translated">每当奇探逸才凯澜攻击时，消灭至多一个目标神器。如果你操控该永久物，则抓一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，消灭至多一个目标神器。如果你操控该永久物，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="c49690c7-c282-4eb4-8da3-5e0c46a80fc4" resname="MKM·212 | Tail the Suspect | Card Name">
         <source>Tail the Suspect</source>
@@ -3688,7 +3688,7 @@
       </trans-unit>
       <trans-unit id="0c08ed44-2c13-4029-af2e-68585a76bb03" resname="MKM·213 | Kraul Whipcracker | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target token an opponent controls.</source>
-        <target state="translated">当刻洛藤鞭手进战场时，消灭目标由对手操控的衍生物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标由对手操控的衍生物。</target>
       </trans-unit>
       <trans-unit id="00faa272-91ad-407b-9175-8fa1d02585b8" resname="MKM·214 | Kylox, Visionary Inventor | Card Name">
         <source>Kylox, Visionary Inventor</source>
@@ -3700,7 +3700,7 @@
       </trans-unit>
       <trans-unit id="00faa272-91ad-407b-9175-8fa1d02585b8" resname="MKM·214 | Kylox, Visionary Inventor | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, sacrifice any number of other creatures, then exile the top X cards of your library, where X is their total power. You may cast any number of instant and/or sorcery spells from among the exiled cards without paying their mana costs.</source>
-        <target state="translated">每当幻视发明家奇洛兹攻击时，牺牲任意数量的其他生物，然后放逐你牌库顶的X张牌，X为这些生物的力量总和。你可以从所放逐的牌之中施放任意数量的瞬间和／或法术咒语，且不需支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME攻击时，牺牲任意数量的其他生物，然后放逐你牌库顶的X张牌，X为这些生物的力量总和。你可以从所放逐的牌之中施放任意数量的瞬间和／或法术咒语，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="86a8a1af-b1cf-47fc-ab42-7efa07a1c95b" resname="MKM·215 | Kylox's Voltstrider | Card Name">
         <source>Kylox's Voltstrider</source>
@@ -3708,11 +3708,11 @@
       </trans-unit>
       <trans-unit id="86a8a1af-b1cf-47fc-ab42-7efa07a1c95b" resname="MKM·215 | Kylox's Voltstrider | Card Text | Paragraph 1">
         <source>Collect evidence 6: CARDNAME becomes an artifact creature until end of turn.</source>
-        <target state="translated">搜证6：奇洛兹的电行械成为神器生物直到回合结束。</target>
+        <target state="translated">搜证6：CARDNAME成为神器生物直到回合结束。</target>
       </trans-unit>
       <trans-unit id="86a8a1af-b1cf-47fc-ab42-7efa07a1c95b" resname="MKM·215 | Kylox's Voltstrider | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may cast an instant or sorcery spell from among cards exiled with it. If that spell would be put into a graveyard, put it on the bottom of its owner's library instead.</source>
-        <target state="translated">每当奇洛兹的电行械攻击时，你可以从以其放逐的牌之中施放一个瞬间或法术咒语。如果该咒语将进入坟墓场，则改为将它置于其拥有者的牌库底。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以从以其放逐的牌之中施放一个瞬间或法术咒语。如果该咒语将进入坟墓场，则改为将它置于其拥有者的牌库底。</target>
       </trans-unit>
       <trans-unit id="86a8a1af-b1cf-47fc-ab42-7efa07a1c95b" resname="MKM·215 | Kylox's Voltstrider | Card Text | Paragraph 3">
         <source>Crew 2</source>
@@ -3724,7 +3724,7 @@
       </trans-unit>
       <trans-unit id="cc264d1d-689d-41ac-b624-3fc7bb890e58" resname="MKM·216 | Lazav, Wearer of Faces | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, exile target card from a graveyard, then investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">每当千面变换拉札夫攻击时，将目标牌从坟墓场放逐，然后探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">每当CARDNAME攻击时，将目标牌从坟墓场放逐，然后探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="cc264d1d-689d-41ac-b624-3fc7bb890e58" resname="MKM·216 | Lazav, Wearer of Faces | Card Text | Paragraph 2">
         <source>Whenever you sacrifice a Clue, you may have Lazav become a copy of a creature card exiled with it until end of turn.</source>
@@ -3736,7 +3736,7 @@
       </trans-unit>
       <trans-unit id="bf6e59be-f959-4f4a-8c2d-b7c441e88135" resname="MKM·217 | Leyline of the Guildpact | Card Text | Paragraph 1">
         <source>If CARDNAME is in your opening hand, you may begin the game with it on the battlefield.</source>
-        <target state="translated">如果你的起手牌中包含了十会盟地脉，则你可以让它在战场上来开始游戏。</target>
+        <target state="translated">如果你的起手牌中包含了CARDNAME，则你可以让它在战场上来开始游戏。</target>
       </trans-unit>
       <trans-unit id="bf6e59be-f959-4f4a-8c2d-b7c441e88135" resname="MKM·217 | Leyline of the Guildpact | Card Text | Paragraph 2">
         <source>Each nonland permanent you control is all colors.</source>
@@ -3768,7 +3768,7 @@
       </trans-unit>
       <trans-unit id="32a8fda6-8614-45cd-879c-0cb7fa29647e" resname="MKM·220 | Niv-Mizzet, Guildpact | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, it deals X damage to any target, target player draws X cards, and you gain X life, where X is the number of different color pairs among permanents you control that are exactly two colors.</source>
-        <target state="translated">每当十会盟尼米捷对任一牌手造成战斗伤害时，它对任意一个目标造成X点伤害，目标牌手抓X张牌，且你获得X点生命，X为由你操控且为正好两色的永久物中不同双色色组的种数。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，它对任意一个目标造成X点伤害，目标牌手抓X张牌，且你获得X点生命，X为由你操控且为正好两色的永久物中不同双色色组的种数。</target>
       </trans-unit>
       <trans-unit id="1e0c695d-62f9-4805-9e2f-7032e8464136" resname="MKM·221 | No More Lies | Card Name">
         <source>No More Lies</source>
@@ -3824,7 +3824,7 @@
       </trans-unit>
       <trans-unit id="6aaa8c6b-7ef7-45db-99c9-4a6e7f177b94" resname="MKM·225 | Rakish Scoundrel | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield or is turned face up, target creature gains indestructible until end of turn.</source>
-        <target state="translated">当放浪恶棍进战场或翻回正面时，目标生物获得不灭异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场或翻回正面时，目标生物获得不灭异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6aaa8c6b-7ef7-45db-99c9-4a6e7f177b94" resname="MKM·225 | Rakish Scoundrel | Card Text | Paragraph 3">
         <source>Disguise {4}{B/G}{B/G} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -3864,7 +3864,7 @@
       </trans-unit>
       <trans-unit id="5288cf17-9d79-4d35-85f1-bf4d0a73494b" resname="MKM·229 | Rune-Brand Juggler | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, suspect up to one target creature you control. (A suspected creature has menace and can't block.)</source>
-        <target state="translated">当烙符杂耍客进战场时，怀疑至多一个目标由你操控的生物。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
+        <target state="translated">当CARDNAME进战场时，怀疑至多一个目标由你操控的生物。（已遭疑的生物具有威慑异能且不能进行阻挡。）</target>
       </trans-unit>
       <trans-unit id="5288cf17-9d79-4d35-85f1-bf4d0a73494b" resname="MKM·229 | Rune-Brand Juggler | Card Text | Paragraph 2">
         <source>{3}{B}{R}, Sacrifice a suspected creature: Target creature gets -5/-5 until end of turn.</source>
@@ -3884,7 +3884,7 @@
       </trans-unit>
       <trans-unit id="9cba5503-ba99-43d8-8062-66d905e0d86b" resname="MKM·230 | Sanguine Savior | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, another target creature you control gains lifelink until end of turn.</source>
-        <target state="translated">当血色救助僧翻回正面时，另一个目标由你操控的生物获得系命异能直到回合结束。</target>
+        <target state="translated">当CARDNAME翻回正面时，另一个目标由你操控的生物获得系命异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="0de36e63-8190-415f-b65b-bae1e595845d" resname="MKM·231 | Shady Informant | Card Name">
         <source>Shady Informant</source>
@@ -3892,7 +3892,7 @@
       </trans-unit>
       <trans-unit id="0de36e63-8190-415f-b65b-bae1e595845d" resname="MKM·231 | Shady Informant | Card Text | Paragraph 1">
         <source>When CARDNAME dies, it deals 2 damage to any target.</source>
-        <target state="translated">当可疑线人死去时，它对任意一个目标造成2点伤害。</target>
+        <target state="translated">当CARDNAME死去时，它对任意一个目标造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="0de36e63-8190-415f-b65b-bae1e595845d" resname="MKM·231 | Shady Informant | Card Text | Paragraph 2">
         <source>Disguise {2}{B/R}{B/R} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -3916,7 +3916,7 @@
       </trans-unit>
       <trans-unit id="3b9d4691-59d1-4e97-9b5d-8017788fbcb3" resname="MKM·233 | Sumala Sentry | Card Text | Paragraph 2">
         <source>Whenever a face-down permanent you control is turned face up, put a +1/+1 counter on it and a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个由你操控且牌面朝下的永久物翻回正面时，在其上放置一个+1/+1指示物且在索马拉哨卫上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个由你操控且牌面朝下的永久物翻回正面时，在其上放置一个+1/+1指示物且在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="9b5a13dd-c2fd-432e-bc49-cc62d94d62a0" resname="MKM·234 | Teysa, Opulent Oligarch | Card Name">
         <source>Teysa, Opulent Oligarch</source>
@@ -3956,7 +3956,7 @@
       </trans-unit>
       <trans-unit id="08d22402-c41d-43d7-be1f-42be1e300726" resname="MKM·236 | Tolsimir, Midnight's Light | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create Voja Fenstalker, a legendary 5/5 green and white Wolf creature token with trample.</source>
-        <target state="translated">当午夜明光托西密进战场时，派出传奇衍生生物沼行沃亚，其为5/5，绿白双色，具践踏异能的狼。</target>
+        <target state="translated">当CARDNAME进战场时，派出传奇衍生生物沼行沃亚，其为5/5，绿白双色，具践踏异能的狼。</target>
       </trans-unit>
       <trans-unit id="08d22402-c41d-43d7-be1f-42be1e300726" resname="MKM·236 | Tolsimir, Midnight's Light | Card Text | Paragraph 3">
         <source>Whenever a Wolf you control attacks, if Tolsimir attacked this combat, target creature an opponent controls blocks that Wolf this combat if able.</source>
@@ -3996,7 +3996,7 @@
       </trans-unit>
       <trans-unit id="5bc669c8-6f39-4d52-82d3-a4005d41c8a5" resname="MKM·239 | Undercover Crocodelf | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">每当卧底鳄身妖精对任一牌手造成战斗伤害时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="5bc669c8-6f39-4d52-82d3-a4005d41c8a5" resname="MKM·239 | Undercover Crocodelf | Card Text | Paragraph 2">
         <source>Disguise {3}{G/U}{G/U} (You may cast this card face down for {3} as a 2/2 creature with ward {2}. Turn it face up any time for its disguise cost.)</source>
@@ -4040,7 +4040,7 @@
       </trans-unit>
       <trans-unit id="b3e8f8bd-1c8b-4a7c-96c4-57a247ce9ccc" resname="MKM·242 | Warleader's Call | Card Text | Paragraph 2">
         <source>Whenever a creature enters the battlefield under your control, CARDNAME deals 1 damage to each opponent.</source>
-        <target state="translated">每当一个生物在你操控下进战场时，战领召令向每位对手各造成1点伤害。</target>
+        <target state="translated">每当一个生物在你操控下进战场时，CARDNAME向每位对手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="a3490c05-d12c-4483-acbc-1b4ae68877f0" resname="MKM·243 | Wispdrinker Vampire | Card Name">
         <source>Wispdrinker Vampire</source>
@@ -4064,7 +4064,7 @@
       </trans-unit>
       <trans-unit id="fc3340bd-1d8c-4c21-a59d-e092fcbe02e3" resname="MKM·244 | Worldsoul's Rage | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to any target. Put up to X land cards from your hand and/or graveyard onto the battlefield tapped.</source>
-        <target state="translated">世界之魂怒火对任意一个目标造成X点伤害。将至多X张地牌从你手上和／或你坟墓场中横置放进战场。</target>
+        <target state="translated">CARDNAME对任意一个目标造成X点伤害。将至多X张地牌从你手上和／或你坟墓场中横置放进战场。</target>
       </trans-unit>
       <trans-unit id="326845a7-7502-4dc3-8f3e-867d6c84e931" resname="MKM·245 | Yarus, Roar of the Old Gods | Card Name">
         <source>Yarus, Roar of the Old Gods</source>
@@ -4168,11 +4168,11 @@
       </trans-unit>
       <trans-unit id="f92a2563-6cfb-4d12-9513-b44d1a7a20ab" resname="MKM·251 | Cryptex | Card Text | Paragraph 1">
         <source>{T}, Collect evidence 3: Add one mana of any color. Put an unlock counter on CARDNAME. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)</source>
-        <target state="translated">{T}，搜证3：加一点任意颜色的法术力。在密码械上放置一个解锁指示物。（搜证3的流程，是从你坟墓场中放逐法术力值加总达到3或更多的牌。）</target>
+        <target state="translated">{T}，搜证3：加一点任意颜色的法术力。在CARDNAME上放置一个解锁指示物。（搜证3的流程，是从你坟墓场中放逐法术力值加总达到3或更多的牌。）</target>
       </trans-unit>
       <trans-unit id="f92a2563-6cfb-4d12-9513-b44d1a7a20ab" resname="MKM·251 | Cryptex | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Surveil 3, then draw three cards. Activate only if CARDNAME has five or more unlock counters on it.</source>
-        <target state="translated">牺牲密码械：刺探3，然后抓三张牌。只能于密码械上有五个或更多解锁指示物时起动。</target>
+        <target state="translated">牺牲CARDNAME：刺探3，然后抓三张牌。只能于CARDNAME上有五个或更多解锁指示物时起动。</target>
       </trans-unit>
       <trans-unit id="1f952d8d-c089-432c-822a-8ef1e605ae38" resname="MKM·252 | Gravestone Strider | Card Name">
         <source>Gravestone Strider</source>
@@ -4184,7 +4184,7 @@
       </trans-unit>
       <trans-unit id="1f952d8d-c089-432c-822a-8ef1e605ae38" resname="MKM·252 | Gravestone Strider | Card Text | Paragraph 2">
         <source>{2}, Exile CARDNAME from your graveyard: Exile target card from a graveyard.</source>
-        <target state="translated">{2}，从你的坟墓场放逐墓碑驮行像：将目标牌从坟墓场放逐。</target>
+        <target state="translated">{2}，从你的坟墓场放逐CARDNAME：将目标牌从坟墓场放逐。</target>
       </trans-unit>
       <trans-unit id="080ad039-1669-4735-9864-76f4c61fc59e" resname="MKM·253 | Lumbering Laundry | Card Name">
         <source>Lumbering Laundry</source>
@@ -4204,11 +4204,11 @@
       </trans-unit>
       <trans-unit id="70476534-2fc7-4872-a009-3380dd5ce2ab" resname="MKM·254 | Magnetic Snuffler | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return target Equipment card from your graveyard to the battlefield attached to CARDNAME.</source>
-        <target state="translated">当磁性嗅探械进战场时，将目标武具牌从你的坟墓场移回战场并贴附在磁性嗅探械上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标武具牌从你的坟墓场移回战场并贴附在CARDNAME上。</target>
       </trans-unit>
       <trans-unit id="70476534-2fc7-4872-a009-3380dd5ce2ab" resname="MKM·254 | Magnetic Snuffler | Card Text | Paragraph 2">
         <source>Whenever you sacrifice an artifact, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你牺牲一个神器时，在磁性嗅探械上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你牺牲一个神器时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="52608ba4-c47d-44e4-b624-dee2a3a42ae2" resname="MKM·256 | Sanitation Automaton | Card Name">
         <source>Sanitation Automaton</source>
@@ -4216,7 +4216,7 @@
       </trans-unit>
       <trans-unit id="52608ba4-c47d-44e4-b624-dee2a3a42ae2" resname="MKM·256 | Sanitation Automaton | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当保洁机械兽进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="6d2565e1-dd7b-462b-8270-a17913277793" resname="MKM·257 | Thinking Cap | Card Name">
         <source>Thinking Cap</source>
@@ -4248,7 +4248,7 @@
       </trans-unit>
       <trans-unit id="73a8169f-b858-47a5-9c76-2e7c50ad4ecd" resname="MKM·258 | Branch of Vitu-Ghazi | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, add two mana of any one color. Until end of turn, you don't lose this mana as steps and phases end.</source>
-        <target state="translated">当维图加基分枝翻回正面时，加两点任意颜色的单色法术力。直到回合结束，你不会因步骤与阶段结束失去这份法术力。</target>
+        <target state="translated">当CARDNAME翻回正面时，加两点任意颜色的单色法术力。直到回合结束，你不会因步骤与阶段结束失去这份法术力。</target>
       </trans-unit>
       <trans-unit id="bf220c06-3cce-4bdd-aa58-83940c223e9c" resname="MKM·259 | Commercial District | Card Name">
         <source>Commercial District</source>
@@ -4260,11 +4260,11 @@
       </trans-unit>
       <trans-unit id="bf220c06-3cce-4bdd-aa58-83940c223e9c" resname="MKM·259 | Commercial District | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">商贸城区须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="bf220c06-3cce-4bdd-aa58-83940c223e9c" resname="MKM·259 | Commercial District | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当商贸城区进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="72c6d541-e2cb-4d6e-acac-90a8f53b7006" resname="MKM·260 | Elegant Parlor | Card Name">
         <source>Elegant Parlor</source>
@@ -4276,11 +4276,11 @@
       </trans-unit>
       <trans-unit id="72c6d541-e2cb-4d6e-acac-90a8f53b7006" resname="MKM·260 | Elegant Parlor | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">优雅客厅须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="72c6d541-e2cb-4d6e-acac-90a8f53b7006" resname="MKM·260 | Elegant Parlor | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当优雅客厅进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="93ddde4f-d35e-4128-8f43-d0eadbd715de" resname="MKM·261 | Escape Tunnel | Card Name">
         <source>Escape Tunnel</source>
@@ -4288,11 +4288,11 @@
       </trans-unit>
       <trans-unit id="93ddde4f-d35e-4128-8f43-d0eadbd715de" resname="MKM·261 | Escape Tunnel | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">{T}，牺牲脱逃暗道：从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
+        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="93ddde4f-d35e-4128-8f43-d0eadbd715de" resname="MKM·261 | Escape Tunnel | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Target creature with power 2 or less can't be blocked this turn.</source>
-        <target state="translated">{T}，牺牲脱逃暗道：目标力量等于或小于2的生物本回合不能被阻挡。</target>
+        <target state="translated">{T}，牺牲CARDNAME：目标力量等于或小于2的生物本回合不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="5260f8ae-805b-4eae-badf-62de0f768867" resname="MKM·262 | Hedge Maze | Card Name">
         <source>Hedge Maze</source>
@@ -4304,11 +4304,11 @@
       </trans-unit>
       <trans-unit id="5260f8ae-805b-4eae-badf-62de0f768867" resname="MKM·262 | Hedge Maze | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">树篱迷宫须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="5260f8ae-805b-4eae-badf-62de0f768867" resname="MKM·262 | Hedge Maze | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当树篱迷宫进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="c17816e8-28b1-4295-a637-efb0e5c18873" resname="MKM·263 | Lush Portico | Card Name">
         <source>Lush Portico</source>
@@ -4320,11 +4320,11 @@
       </trans-unit>
       <trans-unit id="c17816e8-28b1-4295-a637-efb0e5c18873" resname="MKM·263 | Lush Portico | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">葱郁门廊须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="c17816e8-28b1-4295-a637-efb0e5c18873" resname="MKM·263 | Lush Portico | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当葱郁门廊进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="652236c2-84ef-45e4-b5fc-ed6170bc3d6c" resname="MKM·264 | Meticulous Archive | Card Name">
         <source>Meticulous Archive</source>
@@ -4336,11 +4336,11 @@
       </trans-unit>
       <trans-unit id="652236c2-84ef-45e4-b5fc-ed6170bc3d6c" resname="MKM·264 | Meticulous Archive | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">整洁档案库须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="652236c2-84ef-45e4-b5fc-ed6170bc3d6c" resname="MKM·264 | Meticulous Archive | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当整洁档案库进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="1f8b915f-3e82-4b05-b963-01ebff7a8f7b" resname="MKM·265 | Public Thoroughfare | Card Name">
         <source>Public Thoroughfare</source>
@@ -4348,11 +4348,11 @@
       </trans-unit>
       <trans-unit id="1f8b915f-3e82-4b05-b963-01ebff7a8f7b" resname="MKM·265 | Public Thoroughfare | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">公众通路须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="1f8b915f-3e82-4b05-b963-01ebff7a8f7b" resname="MKM·265 | Public Thoroughfare | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you tap an untapped artifact or land you control.</source>
-        <target state="translated">当公众通路进战场时，除非你横置一个由你操控且未横置的神器或地，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你横置一个由你操控且未横置的神器或地，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="1f8b915f-3e82-4b05-b963-01ebff7a8f7b" resname="MKM·265 | Public Thoroughfare | Card Text | Paragraph 3">
         <source>{T}: Add one mana of any color.</source>
@@ -4368,11 +4368,11 @@
       </trans-unit>
       <trans-unit id="b598c93e-dae1-4d71-a9e4-917abf76d2d0" resname="MKM·266 | Raucous Theater | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">喧闹剧院须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="b598c93e-dae1-4d71-a9e4-917abf76d2d0" resname="MKM·266 | Raucous Theater | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当喧闹剧院进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="de039992-631b-4feb-a522-acdb0a6d1f26" resname="MKM·267 | Scene of the Crime | Card Name">
         <source>Scene of the Crime</source>
@@ -4380,7 +4380,7 @@
       </trans-unit>
       <trans-unit id="de039992-631b-4feb-a522-acdb0a6d1f26" resname="MKM·267 | Scene of the Crime | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">罪案现场须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="de039992-631b-4feb-a522-acdb0a6d1f26" resname="MKM·267 | Scene of the Crime | Card Text | Paragraph 2">
         <source>{T}: Add {C}.</source>
@@ -4392,7 +4392,7 @@
       </trans-unit>
       <trans-unit id="de039992-631b-4feb-a522-acdb0a6d1f26" resname="MKM·267 | Scene of the Crime | Card Text | Paragraph 4">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲罪案现场：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="69c1b656-1d67-499c-bf0f-417682a86c7d" resname="MKM·268 | Shadowy Backstreet | Card Name">
         <source>Shadowy Backstreet</source>
@@ -4404,11 +4404,11 @@
       </trans-unit>
       <trans-unit id="69c1b656-1d67-499c-bf0f-417682a86c7d" resname="MKM·268 | Shadowy Backstreet | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">暗影后巷须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="69c1b656-1d67-499c-bf0f-417682a86c7d" resname="MKM·268 | Shadowy Backstreet | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当暗影后巷进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="17260fff-b239-4af4-9306-3236ae3fa5a5" resname="MKM·269 | Thundering Falls | Card Name">
         <source>Thundering Falls</source>
@@ -4420,11 +4420,11 @@
       </trans-unit>
       <trans-unit id="17260fff-b239-4af4-9306-3236ae3fa5a5" resname="MKM·269 | Thundering Falls | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">雷鸣瀑布须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="17260fff-b239-4af4-9306-3236ae3fa5a5" resname="MKM·269 | Thundering Falls | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当雷鸣瀑布进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="2b5801fb-2026-4f25-98bc-ebb2f99684b9" resname="MKM·270 | Undercity Sewers | Card Name">
         <source>Undercity Sewers</source>
@@ -4436,11 +4436,11 @@
       </trans-unit>
       <trans-unit id="2b5801fb-2026-4f25-98bc-ebb2f99684b9" resname="MKM·270 | Undercity Sewers | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">地底城水道须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="2b5801fb-2026-4f25-98bc-ebb2f99684b9" resname="MKM·270 | Undercity Sewers | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当地底城水道进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="f6ca59cd-8779-4a84-a54b-e863b79c61f0" resname="MKM·271 | Underground Mortuary | Card Name">
         <source>Underground Mortuary</source>
@@ -4452,11 +4452,11 @@
       </trans-unit>
       <trans-unit id="f6ca59cd-8779-4a84-a54b-e863b79c61f0" resname="MKM·271 | Underground Mortuary | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">地下殓房须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="f6ca59cd-8779-4a84-a54b-e863b79c61f0" resname="MKM·271 | Underground Mortuary | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</source>
-        <target state="translated">当地下殓房进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，刺探1。（检视你牌库顶的牌。你可以将其置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="01c5ede0-a098-4f21-8b7e-795a83e75aae" resname="MKM·430 | Melek, Reforged Researcher | Card Name">
         <source>Melek, Reforged Researcher</source>
@@ -4464,7 +4464,7 @@
       </trans-unit>
       <trans-unit id="01c5ede0-a098-4f21-8b7e-795a83e75aae" resname="MKM·430 | Melek, Reforged Researcher | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to twice the number of instant and sorcery cards in your graveyard.</source>
-        <target state="translated">重铸研究员梅列克的力量和防御力各等同于你坟墓场中瞬间与法术牌之总数量的两倍。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你坟墓场中瞬间与法术牌之总数量的两倍。</target>
       </trans-unit>
       <trans-unit id="01c5ede0-a098-4f21-8b7e-795a83e75aae" resname="MKM·430 | Melek, Reforged Researcher | Card Text | Paragraph 2">
         <source>The first instant or sorcery spell you cast each turn costs {3} less to cast.</source>
@@ -4496,7 +4496,7 @@
       </trans-unit>
       <trans-unit id="bfa1bd2f-25bd-4fbd-877b-cef00ab7f92f" resname="MKM·432 | Voja, Jaws of the Conclave | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, put X +1/+1 counters on each creature you control, where X is the number of Elves you control. Draw a card for each Wolf you control.</source>
-        <target state="translated">每当盟会尖颚沃亚攻击时，在每个由你操控的生物上各放置X个+1/+1指示物，X为由你操控的妖精数量。你每操控一个狼，便抓一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，在每个由你操控的生物上各放置X个+1/+1指示物，X为由你操控的妖精数量。你每操控一个狼，便抓一张牌。</target>
       </trans-unit>
     </body>
   </file>

@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="92870fc6-a6bc-4198-bb31-397e07e0e835" resname="CMM·706 | Commodore Guff | Card Text | Paragraph 3">
         <source>[−3]: You draw X cards and CARDNAME deals X damage to each opponent, where X is the number of planeswalkers you control.</source>
-        <target state="translated">-3：你抓X张牌且古夫准将向每位对手各造成X点伤害，X为由你操控的鹏洛客数量。</target>
+        <target state="translated">-3：你抓X张牌且CARDNAME向每位对手各造成X点伤害，X为由你操控的鹏洛客数量。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="92870fc6-a6bc-4198-bb31-397e07e0e835" resname="CMM·706 | Commodore Guff | Card Text | Paragraph 4">
         <source>CARDNAME can be your commander.</source>
-        <target state="translated">古夫准将可用作指挥官。</target>
+        <target state="translated">CARDNAME可用作指挥官。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="9f5d253e-9eb2-423c-90ee-68f27ec6bf88" resname="CMM·707 | Sliver Gravemother | Card Name">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="985e16ac-8e0f-4e2e-9b74-d6a77dddf274" resname="CMM·708 | Omarthis, Ghostfire Initiate | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">灵火新手欧玛迪斯进战场时上面有X个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="985e16ac-8e0f-4e2e-9b74-d6a77dddf274" resname="CMM·708 | Omarthis, Ghostfire Initiate | Card Text | Paragraph 2">
         <source>Whenever you put one or more +1/+1 counters on another colorless creature, you may put a +1/+1 counter on Omarthis.</source>
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="342979de-041e-4026-94c5-fc457ecde95d" resname="CMM·709 | Leori, Sparktouched Hunter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, choose a planeswalker type. Until end of turn, whenever you activate an ability of a planeswalker of that type, copy that ability. You may choose new targets for the copies.</source>
-        <target state="translated">每当触火花猎狮雷奥力对任一牌手造成伤害时，选择一种鹏洛客类别。直到回合结束，每当你起动为该类别之鹏洛客的异能时，复制该异能。你可以为每个复制品选择新的目标。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成伤害时，选择一种鹏洛客类别。直到回合结束，每当你起动为该类别之鹏洛客的异能时，复制该异能。你可以为每个复制品选择新的目标。</target>
       </trans-unit>
       <trans-unit id="a98a2fa9-82d6-4cf7-adb4-65b187cd9cda" resname="CMM·710 | Narci, Fable Singer | Card Name">
         <source>Narci, Fable Singer</source>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="0b2f7397-9d75-4667-8872-e58a39512583" resname="CMM·711 | Rukarumel, Biologist | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于生物学家陆卡陆梅进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="0b2f7397-9d75-4667-8872-e58a39512583" resname="CMM·711 | Rukarumel, Biologist | Card Text | Paragraph 2">
         <source>Slivers you control and nontoken creatures you control are the chosen type in addition to their other creature types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.</source>
@@ -185,7 +185,7 @@
       </trans-unit>
       <trans-unit id="4a4d851b-1fa9-4f5d-a8f6-6967b1ee5b50" resname="CMM·716 | Rise of the Eldrazi | Card Text | Paragraph 3">
         <source>Exile CARDNAME.</source>
-        <target state="translated">放逐奥札奇再起。</target>
+        <target state="translated">放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="d3a83be9-856d-4c30-95f5-da72a5ac8263" resname="CMM·717 | Skittering Cicada | Card Name">
         <source>Skittering Cicada</source>
@@ -201,7 +201,7 @@
       </trans-unit>
       <trans-unit id="d3a83be9-856d-4c30-95f5-da72a5ac8263" resname="CMM·717 | Skittering Cicada | Card Text | Paragraph 3">
         <source>Whenever you cast a colorless spell, until end of turn, CARDNAME gains trample and gets +X/+X, where X is that spell's mana value.</source>
-        <target state="translated">每当你施放无色咒语时，直到回合结束，掠行鸣蝉获得践踏异能且得+X/+X，X为该咒语的法术力值。</target>
+        <target state="translated">每当你施放无色咒语时，直到回合结束，CARDNAME获得践踏异能且得+X/+X，X为该咒语的法术力值。</target>
       </trans-unit>
       <trans-unit id="42991890-731c-4e6a-b0c5-57d6217029ab" resname="CMM·718 | Ugin's Mastery | Card Name">
         <source>Ugin's Mastery</source>
@@ -227,7 +227,7 @@
       </trans-unit>
       <trans-unit id="0de0eaeb-9b62-427d-9873-d84de1740ddc" resname="CMM·719 | Battle at the Helvault | Card Text | Paragraph 2">
         <source>I, II — For each player, exile up to one target non-Saga, nonland permanent that player controls until CARDNAME leaves the battlefield.</source>
-        <target state="translated">I, II—为每位牌手各进行以下流程～放逐至多一个目标由该牌手操控且既非传纪也非地的永久物，直到狱窖之战离开战场为止。</target>
+        <target state="translated">I, II—为每位牌手各进行以下流程～放逐至多一个目标由该牌手操控且既非传纪也非地的永久物，直到CARDNAME离开战场为止。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="0de0eaeb-9b62-427d-9873-d84de1740ddc" resname="CMM·719 | Battle at the Helvault | Card Text | Paragraph 3">
@@ -241,11 +241,11 @@
       </trans-unit>
       <trans-unit id="a588fc39-ed88-4262-96cd-908fadc7f049" resname="CMM·720 | Boon of the Spirit Realm | Card Text | Paragraph 1">
         <source>Constellation — Whenever CARDNAME or another enchantment enters the battlefield under your control, put a blessing counter on CARDNAME.</source>
-        <target state="translated">星彩～每当灵界恩泽或另一个结界在你的操控下进战场时，在灵界恩泽上放置一个祝福指示物。</target>
+        <target state="translated">星彩～每当CARDNAME或另一个结界在你的操控下进战场时，在CARDNAME上放置一个祝福指示物。</target>
       </trans-unit>
       <trans-unit id="a588fc39-ed88-4262-96cd-908fadc7f049" resname="CMM·720 | Boon of the Spirit Realm | Card Text | Paragraph 2">
         <source>Creatures you control get +1/+1 for each blessing counter on CARDNAME.</source>
-        <target state="translated">灵界恩泽上每有一个祝福指示物，由你操控的生物便得+1/+1。</target>
+        <target state="translated">CARDNAME上每有一个祝福指示物，由你操控的生物便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="08b3a1bb-1191-4484-80b0-71cf9f8e510b" resname="CMM·721 | Gatewatch Beacon | Card Name">
         <source>Gatewatch Beacon</source>
@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="08b3a1bb-1191-4484-80b0-71cf9f8e510b" resname="CMM·721 | Gatewatch Beacon | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three loyalty counters on it.</source>
-        <target state="translated">守护者信标进战场时上面有三个忠诚指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有三个忠诚指示物。</target>
       </trans-unit>
       <trans-unit id="08b3a1bb-1191-4484-80b0-71cf9f8e510b" resname="CMM·721 | Gatewatch Beacon | Card Text | Paragraph 2">
         <source>{T}: Add {W}.</source>
@@ -261,7 +261,7 @@
       </trans-unit>
       <trans-unit id="08b3a1bb-1191-4484-80b0-71cf9f8e510b" resname="CMM·721 | Gatewatch Beacon | Card Text | Paragraph 3">
         <source>Whenever a planeswalker enters the battlefield under your control, if CARDNAME has loyalty counters on it, you may move a loyalty counter from CARDNAME onto that planeswalker.</source>
-        <target state="translated">每当一个鹏洛客在你的操控下进战场时，若守护者信标上有忠诚指示物，则你可以将守护者信标上的一个忠诚指示物移至该鹏洛客上。</target>
+        <target state="translated">每当一个鹏洛客在你的操控下进战场时，若CARDNAME上有忠诚指示物，则你可以将CARDNAME上的一个忠诚指示物移至该鹏洛客上。</target>
       </trans-unit>
       <trans-unit id="55d0caac-50c0-434e-af77-9ebd2a466415" resname="CMM·722 | Onakke Oathkeeper | Card Name">
         <source>Onakke Oathkeeper</source>
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="55d0caac-50c0-434e-af77-9ebd2a466415" resname="CMM·722 | Onakke Oathkeeper | Card Text | Paragraph 2">
         <source>{4}{W}{W}, Exile CARDNAME from your graveyard: Return target planeswalker card from your graveyard to the battlefield.</source>
-        <target state="translated">{4}{W}{W}，从你的坟墓场放逐欧纳克守誓魔：将目标鹏洛客牌从你的坟墓场移回战场。</target>
+        <target state="translated">{4}{W}{W}，从你的坟墓场放逐CARDNAME：将目标鹏洛客牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="71991921-a860-44fe-9005-bf604c723167" resname="CMM·723 | Ondu Spiritdancer | Card Name">
         <source>Ondu Spiritdancer</source>
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="c66fa93a-6888-4297-b22e-7d69fd25c0d7" resname="CMM·725 | Teyo, Geometric Tactician | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 0/4 white Wall creature token with defender and flying.</source>
-        <target state="translated">当几何策士泰佑进战场时，派出一个0/4白色，具守军和飞行异能的墙衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个0/4白色，具守军和飞行异能的墙衍生生物。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="c66fa93a-6888-4297-b22e-7d69fd25c0d7" resname="CMM·725 | Teyo, Geometric Tactician | Card Text | Paragraph 2">
@@ -333,15 +333,15 @@
       </trans-unit>
       <trans-unit id="62807f83-b219-4769-afdd-2870deeb93c0" resname="CMM·728 | Titan of Littjara | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于利雅拉泰坦进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="62807f83-b219-4769-afdd-2870deeb93c0" resname="CMM·728 | Titan of Littjara | Card Text | Paragraph 2">
         <source>CARDNAME is the chosen type in addition to its other types.</source>
-        <target state="translated">利雅拉泰坦额外具有该类别。</target>
+        <target state="translated">CARDNAME额外具有该类别。</target>
       </trans-unit>
       <trans-unit id="62807f83-b219-4769-afdd-2870deeb93c0" resname="CMM·728 | Titan of Littjara | Card Text | Paragraph 3">
         <source>Whenever CARDNAME enters the battlefield or attacks, you may draw a card for each other creature you control that shares a creature type with it. If you do, discard a card.</source>
-        <target state="translated">每当利雅拉泰坦进战场或攻击时，你可以抓若干牌，其数量等同于由你操控且与它具共通生物类别的其他生物数量。若你如此作，则弃一张牌。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，你可以抓若干牌，其数量等同于由你操控且与它具共通生物类别的其他生物数量。若你如此作，则弃一张牌。</target>
       </trans-unit>
       <trans-unit id="fdd2504b-ff9b-464c-9595-7dffab3bc5b9" resname="CMM·729 | Vronos, Masked Inquisitor | Card Name">
         <source>Vronos, Masked Inquisitor</source>
@@ -369,11 +369,11 @@
       </trans-unit>
       <trans-unit id="908d9aa5-818c-4651-b135-cc6d1983ad99" resname="CMM·730 | Cacophony Unleashed | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, if you cast it, destroy all nonenchantment creatures.</source>
-        <target state="translated">当邪调现世进战场时，若它经你施放，则消灭所有非结界生物。</target>
+        <target state="translated">当CARDNAME进战场时，若它经你施放，则消灭所有非结界生物。</target>
       </trans-unit>
       <trans-unit id="908d9aa5-818c-4651-b135-cc6d1983ad99" resname="CMM·730 | Cacophony Unleashed | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another enchantment enters the battlefield under your control, until end of turn, CARDNAME becomes a legendary 6/6 Nightmare God creature with menace and deathtouch. It's still an enchantment.</source>
-        <target state="translated">每当邪调现世或另一个结界在你的操控下进战场时，直到回合结束，邪调现世成为传奇的6/6梦魇／神生物，且具有威慑与死触异能。它仍然是结界。</target>
+        <target state="translated">每当CARDNAME或另一个结界在你的操控下进战场时，直到回合结束，CARDNAME成为传奇的6/6梦魇／神生物，且具有威慑与死触异能。它仍然是结界。</target>
       </trans-unit>
       <trans-unit id="265aac73-bcbb-4332-940b-96e1e312bbf8" resname="CMM·731 | Demon of Fate's Design | Card Name">
         <source>Demon of Fate's Design</source>
@@ -389,7 +389,7 @@
       </trans-unit>
       <trans-unit id="265aac73-bcbb-4332-940b-96e1e312bbf8" resname="CMM·731 | Demon of Fate's Design | Card Text | Paragraph 3">
         <source>{2}{B}, Sacrifice another enchantment: CARDNAME gets +X/+0 until end of turn, where X is the sacrificed enchantment's mana value.</source>
-        <target state="translated">{2}{B}，牺牲另一个结界：定命恶魔得+X/+0直到回合结束，X为所牺牲结界的法术力值。</target>
+        <target state="translated">{2}{B}，牺牲另一个结界：CARDNAME得+X/+0直到回合结束，X为所牺牲结界的法术力值。</target>
       </trans-unit>
       <trans-unit id="bbe9d991-0abb-47c1-810d-fa44c1820063" resname="CMM·732 | Ghoulish Impetus | Card Name">
         <source>Ghoulish Impetus</source>
@@ -405,7 +405,7 @@
       </trans-unit>
       <trans-unit id="bbe9d991-0abb-47c1-810d-fa44c1820063" resname="CMM·732 | Ghoulish Impetus | Card Text | Paragraph 3">
         <source>When enchanted creature dies, return CARDNAME to the battlefield at the beginning of the next end step.</source>
-        <target state="translated">当所结附的生物死去，在下一个结束步骤开始时将尸鬼促动移回战场。</target>
+        <target state="translated">当所结附的生物死去，在下一个结束步骤开始时将CARDNAME移回战场。</target>
       </trans-unit>
       <trans-unit id="517f7b4d-2997-412b-8e25-315d93d1603a" resname="CMM·733 | Lazotep Sliver | Card Name">
         <source>Lazotep Sliver</source>
@@ -434,7 +434,7 @@
       </trans-unit>
       <trans-unit id="6b764e0d-ded0-4036-83b1-de49c6ee8f7e" resname="CMM·735 | Chandra, Legacy of Fire | Card Text | Paragraph 1">
         <source>At the beginning of your end step, CARDNAME deals X damage to each opponent, where X is the number of planeswalkers you control.</source>
-        <target state="translated">在你的结束步骤开始时，烈焰传承茜卓向每位对手各造成X点伤害，X为由你操控的鹏洛客数量。</target>
+        <target state="translated">在你的结束步骤开始时，CARDNAME向每位对手各造成X点伤害，X为由你操控的鹏洛客数量。</target>
         <note xmlns:from="developer">中文翻译出现在发布释疑中</note>
       </trans-unit>
       <trans-unit id="6b764e0d-ded0-4036-83b1-de49c6ee8f7e" resname="CMM·735 | Chandra, Legacy of Fire | Card Text | Paragraph 2">
@@ -473,11 +473,11 @@
       </trans-unit>
       <trans-unit id="aca45c6b-8cce-44db-9f5b-fa66075db6f6" resname="CMM·738 | Jaya's Phoenix | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player or planeswalker, copy the next loyalty ability you activate this turn when you activate it. You may choose new targets for the copy.</source>
-        <target state="translated">每当雅亚的凤凰对任一牌手或鹏洛客造成战斗伤害，本回合中，当你下一次起动忠诚异能时，复制该异能。你可以为该复制品选择新的目标。</target>
+        <target state="translated">每当CARDNAME对任一牌手或鹏洛客造成战斗伤害，本回合中，当你下一次起动忠诚异能时，复制该异能。你可以为该复制品选择新的目标。</target>
       </trans-unit>
       <trans-unit id="aca45c6b-8cce-44db-9f5b-fa66075db6f6" resname="CMM·738 | Jaya's Phoenix | Card Text | Paragraph 3">
         <source>Whenever you cast a planeswalker spell, you may return CARDNAME from your graveyard to the battlefield.</source>
-        <target state="translated">每当你施放鹏洛客咒语时，你可以将雅亚的凤凰从你的坟墓场移回战场。</target>
+        <target state="translated">每当你施放鹏洛客咒语时，你可以将CARDNAME从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="b57e06f8-e542-47d4-b527-7d8fc3dec38c" resname="CMM·739 | Composer of Spring | Card Name">
         <source>Composer of Spring</source>
@@ -525,7 +525,7 @@
       </trans-unit>
       <trans-unit id="b9f1dbdc-e590-48a4-bc52-e9e4e907fb82" resname="CMM·742 | Nyxborn Behemoth | Card Text | Paragraph 3">
         <source>{1}{G}, Sacrifice another enchantment: CARDNAME gains indestructible until end of turn.</source>
-        <target state="translated">{1}{G}，牺牲另一个结界：天裔贝西摩斯获得不灭异能直到回合结束。</target>
+        <target state="translated">{1}{G}，牺牲另一个结界：CARDNAME获得不灭异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f5b7d3df-4e9b-422b-a88c-43650a67a9c6" resname="CMM·743 | Darksteel Monolith | Card Name">
         <source>Darksteel Monolith</source>

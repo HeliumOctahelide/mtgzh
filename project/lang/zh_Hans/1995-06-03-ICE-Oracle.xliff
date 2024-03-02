@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="14fc0683-9cfa-4439-a533-8773e7747ec4" resname="ICE·8 | Blinking Spirit | Card Text | Paragraph 1">
         <source>{0}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{0}：将闪动精怪移回其拥有者手上。</target>
+        <target state="translated">{0}：将CARDNAME移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="b423bb5a-eaac-4c1d-981a-1c635001fc5a" resname="ICE·9 | Blue Scarab | Card Name">
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="5969875a-f647-4daf-b76c-d1514d45c312" resname="ICE·31 | Hipparion | Card Text | Paragraph 1">
         <source>CARDNAME can't block creatures with power 3 or greater unless you pay {1}.</source>
-        <target state="translated">除非你额外付出o1，否则三趾马不能阻挡任何力量大于或等于3的生物。</target>
+        <target state="translated">除非你额外付出o1，否则CARDNAME不能阻挡任何力量大于或等于3的生物。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="9a6e0c8d-0fc1-4f52-8357-e550b0ac579a" resname="ICE·32 | Justice | Card Name">
@@ -194,12 +194,12 @@
       </trans-unit>
       <trans-unit id="9a6e0c8d-0fc1-4f52-8357-e550b0ac579a" resname="ICE·32 | Justice | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {W}{W}.</source>
-        <target state="translated">在你的维持阶段付出oWoW，否则埋葬正义。</target>
+        <target state="translated">在你的维持阶段付出oWoW，否则埋葬CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="9a6e0c8d-0fc1-4f52-8357-e550b0ac579a" resname="ICE·32 | Justice | Card Text | Paragraph 2">
         <source>Whenever a red creature or spell deals damage, CARDNAME deals that much damage to that creature's or spell's controller.</source>
-        <target state="translated">当任何红色生物或咒语造成伤害时，正义对该生物或咒语的操控者造成等量的伤害。</target>
+        <target state="translated">当任何红色生物或咒语造成伤害时，CARDNAME对该生物或咒语的操控者造成等量的伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="8402543e-5406-404f-95c4-800a1dce35f1" resname="ICE·33 | Kelsinko Ranger | Card Name">
@@ -234,7 +234,7 @@
       </trans-unit>
       <trans-unit id="66343008-c38a-48a9-b767-fd2243103690" resname="ICE·38 | Kjeldoran Royal Guard | Card Text | Paragraph 1">
         <source>{T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to CARDNAME instead.</source>
-        <target state="translated">{T}：本回合中，未受阻挡的生物将对你造成的所有战斗伤害都改为对奇亚多朗皇家护卫造成之。</target>
+        <target state="translated">{T}：本回合中，未受阻挡的生物将对你造成的所有战斗伤害都改为对CARDNAME造成之。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="cf0115e0-6192-48a9-9e58-f3ef77ef77c2" resname="ICE·39 | Kjeldoran Skycaptain | Card Name">
@@ -309,7 +309,7 @@
       </trans-unit>
       <trans-unit id="6f8b50fd-3d1d-4ea8-a3c7-98ca7a8a455e" resname="ICE·47 | Prismatic Ward | Card Text | Paragraphs">
         <source>Enchant creature\nAs CARDNAME enters the battlefield, choose a color.\nPrevent all damage that would be dealt to enchanted creature by sources of the chosen color.</source>
-        <target state="translated">当你施放虹彩守护时，选择一种颜色。所有来自该颜色来源对受此结界的生物所造成的伤害都减少至0。</target>
+        <target state="translated">当你施放CARDNAME时，选择一种颜色。所有来自该颜色来源对受此结界的生物所造成的伤害都减少至0。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="e1e9f80e-5d75-45b7-9c66-c0f30996f4dc" resname="ICE·48 | Rally | Card Name">
@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="ab675291-3189-43f3-b11b-0724eca8b941" resname="ICE·51 | Seraph | Card Text | Paragraph 2">
         <source>Whenever a creature dealt damage by CARDNAME this turn dies, put that card onto the battlefield under your control at the beginning of the next end step. Sacrifice the creature when you lose control of CARDNAME.</source>
-        <target state="translated">当有任何生物在本回合受过六翼天使的伤害，并被放至坟墓场，则在回合结束时，将此生物放回场上，由你操控。如果你不再操控六翼天使，则埋葬此生物。</target>
+        <target state="translated">当有任何生物在本回合受过CARDNAME的伤害，并被放至坟墓场，则在回合结束时，将此生物放回场上，由你操控。如果你不再操控CARDNAME，则埋葬此生物。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="318ff2da-d309-469c-8e2f-fa3c7517a15a" resname="ICE·52 | Shield Bearer | Card Name">
@@ -394,7 +394,7 @@
       </trans-unit>
       <trans-unit id="6b086186-5fbf-4ba7-af0d-ee3ad61d27bb" resname="ICE·60 | Binding Grasp | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of your upkeep, sacrifice CARDNAME unless you pay {1}{U}.\nYou control enchanted creature.\nEnchanted creature gets +0/+1.</source>
-        <target state="translated">在你的维持阶段中，支付o1oU，否则埋葬咒缚的驾驭力。\n获得受此结界的生物之操控权。该生物得到+0/+1。</target>
+        <target state="translated">在你的维持阶段中，支付o1oU，否则埋葬CARDNAME。\n获得受此结界的生物之操控权。该生物得到+0/+1。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="8d42d7aa-7f53-4cfc-842a-086aab2448d1" resname="ICE·61 | Brainstorm | Card Name">
@@ -654,7 +654,7 @@
       </trans-unit>
       <trans-unit id="47364ad2-5ce9-4b19-a9d2-f6a33188b882" resname="ICE·97 | Sibilant Spirit | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, defending player may draw a card.</source>
-        <target state="translated">每当嘶嘶仙灵攻击时，防御牌手便可以抓一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，防御牌手便可以抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="685076cc-098c-4f98-918c-0ad825eda10f" resname="ICE·98 | Silver Erne | Card Name">
@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="9ad7fac7-db4d-45b2-aba6-16f4fd1a586f" resname="ICE·103 | Soul Barrier | Card Text | Paragraph 1">
         <source>Whenever an opponent casts a creature spell, CARDNAME deals 2 damage to that player unless they pay {2}.</source>
-        <target state="translated">当目标对手成功施放一个召唤咒语时，灵魂障蔽会对他造成2点伤害。该玩家可支付o2以防止此伤害。</target>
+        <target state="translated">当目标对手成功施放一个召唤咒语时，CARDNAME会对他造成2点伤害。该玩家可支付o2以防止此伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="4fc5d510-c4f7-4a09-bf86-83c3fa3f8928" resname="ICE·104 | Thunder Wall | Card Name">
@@ -719,7 +719,7 @@
       </trans-unit>
       <trans-unit id="4d882447-9594-4aab-b1a7-8bb275f250cf" resname="ICE·106 | Wind Spirit | Card Text | Paragraph 2">
         <source>Menace (This creature can't be blocked except by two or more creatures.)</source>
-        <target state="translated">风仙灵在战斗时不能只被一个生物阻挡。</target>
+        <target state="translated">CARDNAME在战斗时不能只被一个生物阻挡。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="a779aca7-ff2c-48d8-9484-6ad04b2c6bcb" resname="ICE·107 | Winter's Chill | Card Name">
@@ -739,7 +739,7 @@
       </trans-unit>
       <trans-unit id="1d512f5c-0327-4d49-8a26-672574a49102" resname="ICE·109 | Wrath of Marit Lage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, tap all red creatures.</source>
-        <target state="translated">当玛莉雷基之怒进场时，横置所有红色生物。</target>
+        <target state="translated">当CARDNAME进场时，横置所有红色生物。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="1d512f5c-0327-4d49-8a26-672574a49102" resname="ICE·109 | Wrath of Marit Lage | Card Text | Paragraph 2">
@@ -784,7 +784,7 @@
       </trans-unit>
       <trans-unit id="fc26f19c-bcf7-4bd8-af42-4757dbe47fb1" resname="ICE·113 | Abyssal Specter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage to a player, that player discards a card.</source>
-        <target state="translated">每当深渊幽灵对任一牌手造成伤害时，该牌手弃一张牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成伤害时，该牌手弃一张牌。</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="6bb83301-5662-4628-b536-6a3ee0296f2e" resname="ICE·114 | Ashen Ghoul | Card Name">
@@ -874,12 +874,12 @@
       </trans-unit>
       <trans-unit id="8f59620f-ff9e-44d8-9c4e-be9de1a919e8" resname="ICE·130 | Hecatomb | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice CARDNAME unless you sacrifice four creatures.</source>
-        <target state="translated">当百牲祭进场时，你可以牺牲四个生物。若你不如此作，则牺牲百牲祭。</target>
+        <target state="translated">当CARDNAME进场时，你可以牺牲四个生物。若你不如此作，则牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="8f59620f-ff9e-44d8-9c4e-be9de1a919e8" resname="ICE·130 | Hecatomb | Card Text | Paragraph 2">
         <source>Tap an untapped Swamp you control: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">横置你所操控的一个未横置的沼泽：百牲祭对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">横置你所操控的一个未横置的沼泽：CARDNAME对目标生物或牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="72242dff-15ca-4da0-b3ae-9984d037b31f" resname="ICE·131 | Hoar Shade | Card Name">
@@ -894,7 +894,7 @@
       </trans-unit>
       <trans-unit id="d2c9e037-f4d5-46fd-b439-56bee6fb2ad3" resname="ICE·133 | Hyalopterous Lemure | Card Text | Paragraph 1">
         <source>{0}: CARDNAME gets -1/-0 and gains flying until end of turn.</source>
-        <target state="translated">{0}：直到回合结束，透翅游魂得-1/-0且获得飞行异能。</target>
+        <target state="translated">{0}：直到回合结束，CARDNAME得-1/-0且获得飞行异能。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="14b4dd4d-c617-4603-8a87-761ec6fc6883" resname="ICE·134 | Icequake | Card Name">
@@ -919,12 +919,12 @@
       </trans-unit>
       <trans-unit id="d3f7b614-6075-4b7c-acc7-ab63185b570b" resname="ICE·137 | Kjeldoran Dead | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice a creature.</source>
-        <target state="translated">当奇亚多朗亡者进场时，牺牲一个生物。</target>
+        <target state="translated">当CARDNAME进场时，牺牲一个生物。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="d3f7b614-6075-4b7c-acc7-ab63185b570b" resname="ICE·137 | Kjeldoran Dead | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">oB：重生奇亚多朗亡者。</target>
+        <target state="translated">oB：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="2b87069b-ebaf-4705-b5da-446932af9b73" resname="ICE·138 | Knight of Stromgald | Card Name">
@@ -959,7 +959,7 @@
       </trans-unit>
       <trans-unit id="844e73e6-b201-4b2e-b46a-b719484fba0e" resname="ICE·140 | Krovikan Fetish | Card Text | Paragraphs">
         <source>Enchant creature\nWhen CARDNAME enters the battlefield, draw a card at the beginning of the next turn's upkeep.\nEnchanted creature gets +1/+1.</source>
-        <target state="translated">在寇维肯的饰物进场的下回合开始时抽一张牌。受此结界的生物得到+1/+1。</target>
+        <target state="translated">在CARDNAME进场的下回合开始时抽一张牌。受此结界的生物得到+1/+1。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="717c5dda-8e38-4c76-b241-685198402284" resname="ICE·141 | Krovikan Vampire | Card Name">
@@ -1039,12 +1039,12 @@
       </trans-unit>
       <trans-unit id="4914f6fc-e3e7-426b-8688-12157c7df9e7" resname="ICE·152 | Mole Worms | Card Text | Paragraph 1">
         <source>You may choose not to untap CARDNAME during your untap step.</source>
-        <target state="translated">在你的重置阶段中，你可以选择不重置鼹虫。</target>
+        <target state="translated">在你的重置阶段中，你可以选择不重置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="4914f6fc-e3e7-426b-8688-12157c7df9e7" resname="ICE·152 | Mole Worms | Card Text | Paragraph 2">
         <source>{T}: Tap target land. It doesn't untap during its controller's untap step for as long as CARDNAME remains tapped.</source>
-        <target state="translated">ocT：横置目标地。只要鼹虫持续被横置，该地便不能在其操控者的重置阶段中被重置。</target>
+        <target state="translated">ocT：横置目标地。只要CARDNAME持续被横置，该地便不能在其操控者的重置阶段中被重置。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="57089dd4-e30d-498d-9341-43c104c6f3f9" resname="ICE·153 | Moor Fiend | Card Name">
@@ -1119,7 +1119,7 @@
       </trans-unit>
       <trans-unit id="eb8e00d2-2381-4d45-bed8-c9bf738a9419" resname="ICE·161 | Soul Burn | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage to any target. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness.</source>
-        <target state="translated">焚魂对目标生物或牌手造成X点伤害。你获得与该伤害等量的生命，但不能超过支付于X的oB数量，或该牌手受到焚魂伤害前的总生命，或该生物的防御力。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成X点伤害。你获得与该伤害等量的生命，但不能超过支付于X的oB数量，或该牌手受到CARDNAME伤害前的总生命，或该生物的防御力。</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
       <trans-unit id="42fbf6a5-86fe-41a3-891e-f72f11ad0aee" resname="ICE·162 | Soul Kiss | Card Name">
@@ -1159,7 +1159,7 @@
       </trans-unit>
       <trans-unit id="a49c658f-e657-490b-af1f-e67e48d0046e" resname="ICE·167 | Touch of Death | Card Text | Paragraphs">
         <source>CARDNAME deals 1 damage to target player or planeswalker. You gain 1 life.\nDraw a card at the beginning of the next turn's upkeep.</source>
-        <target state="translated">死之触对目标玩家造成1点伤害，并且你获得1点生命。你在下回合开始时抽一张牌。</target>
+        <target state="translated">CARDNAME对目标玩家造成1点伤害，并且你获得1点生命。你在下回合开始时抽一张牌。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="ad1e6ae5-c972-42c0-ae78-f203873aeeb1" resname="ICE·168 | Withering Wisps | Card Name">
@@ -1259,7 +1259,7 @@
       </trans-unit>
       <trans-unit id="add2b82a-9aa5-4d5c-a1c2-e313541f12c8" resname="ICE·184 | Flame Spirit | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">oR：火焰仙灵得+1/+0直到回合结束。</target>
+        <target state="translated">oR：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="d5350236-7bd2-462d-9768-50087626c764" resname="ICE·185 | Flare | Card Name">
@@ -1269,7 +1269,7 @@
       </trans-unit>
       <trans-unit id="d5350236-7bd2-462d-9768-50087626c764" resname="ICE·185 | Flare | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">火光对目标生物或玩家造成1点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或玩家造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="d5350236-7bd2-462d-9768-50087626c764" resname="ICE·185 | Flare | Card Text | Paragraph 2">
@@ -1314,12 +1314,12 @@
       </trans-unit>
       <trans-unit id="5bbb260a-6763-4d1c-a009-4e34cd572519" resname="ICE·191 | Goblin Snowman | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks, prevent all combat damage that would be dealt to and dealt by it this turn.</source>
-        <target state="translated">每当精灵雪人阻挡时，防止它于本回合中将受到或造成的所有战斗伤害。</target>
+        <target state="translated">每当CARDNAME阻挡时，防止它于本回合中将受到或造成的所有战斗伤害。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="5bbb260a-6763-4d1c-a009-4e34cd572519" resname="ICE·191 | Goblin Snowman | Card Text | Paragraph 2">
         <source>{T}: CARDNAME deals 1 damage to target creature it's blocking.</source>
-        <target state="translated">{T}：精灵雪人对目标受其阻挡的生物造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标受其阻挡的生物造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="95bb17b9-55c4-4cc1-83f6-75490b9a97d0" resname="ICE·192 | Grizzled Wolverine | Card Name">
@@ -1344,7 +1344,7 @@
       </trans-unit>
       <trans-unit id="9c3f00af-010d-4485-b8b7-47400d99c496" resname="ICE·194 | Incinerate | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target. A creature dealt damage this way can't be regenerated this turn.</source>
-        <target state="translated">焚化对目标生物或牌手造成3点伤害。 以此法受到伤害的生物本回合不能重生。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。 以此法受到伤害的生物本回合不能重生。</target>
         <note xmlns:from="developer">中文数据来自M12（2011-07-15）；</note>
       </trans-unit>
       <trans-unit id="3bf0d325-5928-4593-8faa-64ffa414cb48" resname="ICE·195 | Jokulhaups | Card Name">
@@ -1369,7 +1369,7 @@
       </trans-unit>
       <trans-unit id="7dd9b214-d9fe-4c2e-b45b-7145ad98c408" resname="ICE·197 | Karplusan Yeti | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals damage equal to its power to target creature. That creature deals damage equal to its power to CARDNAME.</source>
-        <target state="translated">{T}：卡普路桑雪怪对目标生物造成等同于卡普路桑雪怪力量的伤害。 该生物对卡普路桑雪怪造成等同于该生物力量的伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物造成等同于CARDNAME力量的伤害。 该生物对CARDNAME造成等同于该生物力量的伤害。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="79dc0e20-5790-4927-8432-cf0e9b7381d4" resname="ICE·198 | Lava Burst | Card Name">
@@ -1424,12 +1424,12 @@
       </trans-unit>
       <trans-unit id="e71394f8-3038-4cad-adea-a704f004777f" resname="ICE·206 | Orcish Conscripts | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless at least two other creatures attack.</source>
-        <target state="translated">除非另外有至少两只生物一起攻击，否则半兽人民兵此回合不可进行攻击。</target>
+        <target state="translated">除非另外有至少两只生物一起攻击，否则CARDNAME此回合不可进行攻击。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="e71394f8-3038-4cad-adea-a704f004777f" resname="ICE·206 | Orcish Conscripts | Card Text | Paragraph 2">
         <source>CARDNAME can't block unless at least two other creatures block.</source>
-        <target state="translated">除非另外有至少两只生物一起阻挡，否则半兽人民兵此回合不可进行阻挡。</target>
+        <target state="translated">除非另外有至少两只生物一起阻挡，否则CARDNAME此回合不可进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="efa5beef-d609-4809-a813-621b0b4cff7f" resname="ICE·207 | Orcish Farmer | Card Name">
@@ -1469,7 +1469,7 @@
       </trans-unit>
       <trans-unit id="f3ee7bd5-612b-4916-a914-1294805b8f64" resname="ICE·211 | Orcish Squatters | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control CARDNAME. If you do, CARDNAME assigns no combat damage this turn.</source>
-        <target state="translated">o0：只要你操控半兽人屯垦民，即获得目标地的操控权，半兽人屯垦民此回合不造成战斗伤害。你只能在半兽人屯垦民进行攻击且未被阻挡时使用此异能，并且每回合只能使用一次。</target>
+        <target state="translated">o0：只要你操控CARDNAME，即获得目标地的操控权，CARDNAME此回合不造成战斗伤害。你只能在CARDNAME进行攻击且未被阻挡时使用此异能，并且每回合只能使用一次。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="a9ab85ac-311c-4e36-943a-817e43a3c8a8" resname="ICE·212 | Panic | Card Name">
@@ -1519,7 +1519,7 @@
       </trans-unit>
       <trans-unit id="88040748-ad76-4b9a-bd4e-87e5980e9816" resname="ICE·214 | Pyroclasm | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each creature.</source>
-        <target state="translated">烈火断层对每个生物各造成2点伤害。</target>
+        <target state="translated">CARDNAME对每个生物各造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="6914c5a8-2114-41c5-a471-ca97524d622f" resname="ICE·215 | Sabretooth Tiger | Card Name">
@@ -1539,7 +1539,7 @@
       </trans-unit>
       <trans-unit id="789dfae7-fe23-4e2e-9f5f-304535d22a78" resname="ICE·218 | Stone Spirit | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by creatures with flying.</source>
-        <target state="translated">石精灵不能被具飞行异能之生物阻挡。</target>
+        <target state="translated">CARDNAME不能被具飞行异能之生物阻挡。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="d23fa1af-78e5-4d23-bbf6-cd62bc54b4e9" resname="ICE·219 | Stonehands | Card Name">
@@ -1564,7 +1564,7 @@
       </trans-unit>
       <trans-unit id="3067e7af-7bbd-48c1-9f1d-df2a91a0ec54" resname="ICE·222 | Vertigo | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature with flying. That creature loses flying until end of turn.</source>
-        <target state="translated">眩晕对目标具飞行异能的生物造成2点伤害。该生物失去飞行异能直到回合结束。</target>
+        <target state="translated">CARDNAME对目标具飞行异能的生物造成2点伤害。该生物失去飞行异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="b99d6d11-b3f7-4d73-967c-3049af82a9d8" resname="ICE·223 | Wall of Lava | Card Name">
@@ -1579,7 +1579,7 @@
       </trans-unit>
       <trans-unit id="46b383c8-d604-4131-a869-9e9d13e30b94" resname="ICE·224 | Word of Blasting | Card Text | Paragraph 1">
         <source>Destroy target Wall. It can't be regenerated. CARDNAME deals damage equal to that Wall's mana value to the Wall's controller.</source>
-        <target state="translated">消灭目标墙。该墙不能重生。爆碎咒对该墙的操控者造成等同于该墙总魔法力费用的伤害。</target>
+        <target state="translated">消灭目标墙。该墙不能重生。CARDNAME对该墙的操控者造成等同于该墙总魔法力费用的伤害。</target>
         <note xmlns:from="developer">中文数据来自MMQ（1999-10-04）；</note>
       </trans-unit>
       <trans-unit id="7e973a84-7f7d-4524-9f2f-ec9a014d52ee" resname="ICE·225 | Aurochs | Card Name">
@@ -1594,7 +1594,7 @@
       </trans-unit>
       <trans-unit id="7e973a84-7f7d-4524-9f2f-ec9a014d52ee" resname="ICE·225 | Aurochs | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, it gets +1/+0 until end of turn for each other attacking CARDNAME.</source>
-        <target state="translated">若原牛进行攻击，则其他每只进行攻击的原牛使牠+1/+0直到回合结束。</target>
+        <target state="translated">若CARDNAME进行攻击，则其他每只进行攻击的CARDNAME使牠+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="ef5297cb-e763-4871-9cd3-0e2dbcc52095" resname="ICE·226 | Balduvian Bears | Card Name">
@@ -1624,7 +1624,7 @@
       </trans-unit>
       <trans-unit id="b6ebcc1d-0c5c-4bc2-ade7-41944f69162e" resname="ICE·229 | Chub Toad | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked, it gets +2/+2 until end of turn.</source>
-        <target state="translated">若胖蟾蜍阻挡或被阻挡，则得到+2/+2直到回合结束。</target>
+        <target state="translated">若CARDNAME阻挡或被阻挡，则得到+2/+2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="a602c93d-e00f-4b4f-a7ff-95316b7e7641" resname="ICE·230 | Dire Wolves | Card Name">
@@ -1754,7 +1754,7 @@
       </trans-unit>
       <trans-unit id="64a22e88-f7b1-48c8-a199-e57edcd50654" resname="ICE·250 | Johtull Wurm | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.</source>
-        <target state="translated">若阻挡乔图尔亚龙的生物超过一只，从第二只开始，每只生物使乔图尔亚龙得到-2/-1直到回合结束。</target>
+        <target state="translated">若阻挡CARDNAME的生物超过一只，从第二只开始，每只生物使CARDNAME得到-2/-1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="cb211704-ff8e-498b-b7bb-f8384f198ffd" resname="ICE·251 | Juniper Order Druid | Card Name">
@@ -1769,7 +1769,7 @@
       </trans-unit>
       <trans-unit id="fee6d385-d44b-4f1a-beb1-13aeebde063e" resname="ICE·252 | Lhurgoyf | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.</source>
-        <target state="translated">拉高耶夫的力量等同于所有坟墓场内生物牌的数量，其防御力等同于前述的数量加1。</target>
+        <target state="translated">CARDNAME的力量等同于所有坟墓场内生物牌的数量，其防御力等同于前述的数量加1。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="5277656c-70f5-4660-bd58-7d9261d53fb5" resname="ICE·254 | Maddening Wind | Card Name">
@@ -1849,7 +1849,7 @@
       </trans-unit>
       <trans-unit id="b1420ec5-367c-4514-86c5-3993bf339e37" resname="ICE·267 | Tarpan | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you gain 1 life.</source>
-        <target state="translated">如果草原野马被从场上放入任何坟墓场，则你获得1点生命。</target>
+        <target state="translated">如果CARDNAME被从场上放入任何坟墓场，则你获得1点生命。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="00ae906b-2c4d-48e9-9f2d-217777e22292" resname="ICE·268 | Thermokarst | Card Name">
@@ -1964,7 +1964,7 @@
       </trans-unit>
       <trans-unit id="8965ce61-0522-4f77-a82d-89441d1ba867" resname="ICE·288 | Fiery Justice | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage divided as you choose among any number of targets. Target opponent gains 5 life.</source>
-        <target state="translated">火热正义对任意数量的目标造成共5点伤害，你可以任意分配。目标对手获得5点生命。</target>
+        <target state="translated">CARDNAME对任意数量的目标造成共5点伤害，你可以任意分配。目标对手获得5点生命。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="6a0139c2-ad86-4c71-ab6d-4840c37d5d20" resname="ICE·289 | Fire Covenant | Card Name">
@@ -2014,12 +2014,12 @@
       </trans-unit>
       <trans-unit id="3bf47c0a-5c17-47d0-b663-becff62fbdf8" resname="ICE·297 | Merieke Ri Berit | Card Text | Paragraph 1">
         <source>CARDNAME doesn't untap during your untap step.</source>
-        <target state="translated">梅丽可里柏莉于你的重置步骤中不能重置。</target>
+        <target state="translated">CARDNAME于你的重置步骤中不能重置。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="3bf47c0a-5c17-47d0-b663-becff62fbdf8" resname="ICE·297 | Merieke Ri Berit | Card Text | Paragraph 2">
         <source>{T}: Gain control of target creature for as long as you control CARDNAME. When CARDNAME leaves the battlefield or becomes untapped, destroy that creature. It can't be regenerated.</source>
-        <target state="translated">{T}：只要你操控梅丽可里柏莉，便获得目标生物的操控权。 当梅丽可里柏莉离场或成为未横置时，消灭该生物。 它不能重生。</target>
+        <target state="translated">{T}：只要你操控CARDNAME，便获得目标生物的操控权。 当CARDNAME离场或成为未横置时，消灭该生物。 它不能重生。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="254fcc50-79a5-40cd-b028-e78dde3f8480" resname="ICE·298 | Monsoon | Card Name">
@@ -2059,7 +2059,7 @@
       </trans-unit>
       <trans-unit id="c2d5d91b-aeb4-4d7e-b748-77f9960da55f" resname="ICE·304 | Stormbind | Card Text | Paragraph 1">
         <source>{2}, Discard a card at random: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{2}，随机弃一张牌：风暴纠缠对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">{2}，随机弃一张牌：CARDNAME对目标生物或牌手造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="eeb0282d-ccec-4556-8b70-b6f665077afe" resname="ICE·305 | Wings of Aesthir | Card Name">
@@ -2104,7 +2104,7 @@
       </trans-unit>
       <trans-unit id="edb82654-de12-4dce-8c6b-f28d68f0fbe1" resname="ICE·312 | Barbed Sextant | Card Text | Paragraph 1">
         <source>{1}, {T}, Sacrifice CARDNAME: Add one mana of any color. Draw a card at the beginning of the next turn's upkeep.</source>
-        <target state="translated">o1，ocT，牺牲带刺六分仪：加一点任意颜色的法术力到你的法术力池中。将此效应视为法术力源使用。你在下回合开始时抽一张牌。</target>
+        <target state="translated">o1，ocT，牺牲CARDNAME：加一点任意颜色的法术力到你的法术力池中。将此效应视为法术力源使用。你在下回合开始时抽一张牌。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="8bc29872-b1a2-4851-9eca-f3e67ae6e14c" resname="ICE·313 | Baton of Morale | Card Name">
@@ -2169,17 +2169,17 @@
       </trans-unit>
       <trans-unit id="f9a42152-32c0-47ff-aaac-8deaf01873ca" resname="ICE·323 | Infinite Hourglass | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a time counter on CARDNAME.</source>
-        <target state="translated">在你的维持阶段中，放置一个计时指示物于无垠沙漏上。</target>
+        <target state="translated">在你的维持阶段中，放置一个计时指示物于CARDNAME上。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="f9a42152-32c0-47ff-aaac-8deaf01873ca" resname="ICE·323 | Infinite Hourglass | Card Text | Paragraph 2">
         <source>All creatures get +1/+0 for each time counter on CARDNAME.</source>
-        <target state="translated">所有生物得+X/+0，其中X等于在无垠沙漏上计时指示物的数量。</target>
+        <target state="translated">所有生物得+X/+0，其中X等于在CARDNAME上计时指示物的数量。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="f9a42152-32c0-47ff-aaac-8deaf01873ca" resname="ICE·323 | Infinite Hourglass | Card Text | Paragraph 3">
         <source>{3}: Remove a time counter from CARDNAME. Any player may activate this ability but only during any upkeep step.</source>
-        <target state="translated">任何玩家皆可以在任何维持阶段中支付o3以移去无垠沙漏上的一个计时指示物。</target>
+        <target state="translated">任何玩家皆可以在任何维持阶段中支付o3以移去CARDNAME上的一个计时指示物。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="47ac44d0-8090-4e7b-ac47-c567294f185e" resname="ICE·324 | Jester's Cap | Card Name">
@@ -2189,7 +2189,7 @@
       </trans-unit>
       <trans-unit id="47ac44d0-8090-4e7b-ac47-c567294f185e" resname="ICE·324 | Jester's Cap | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Search target player's library for three cards and exile them. Then that player shuffles.</source>
-        <target state="translated">{2}，{T}，牺牲小丑帽：从目标牌手的牌库中搜寻三张牌，并将它们放逐。然后该牌手洗牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：从目标牌手的牌库中搜寻三张牌，并将它们放逐。然后该牌手洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7" resname="ICE·325 | Jester's Mask | Card Name">
@@ -2244,7 +2244,7 @@
       </trans-unit>
       <trans-unit id="c588fe7f-945d-4459-904c-67442f88b4e1" resname="ICE·333 | Pit Trap | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Destroy target attacking creature without flying. It can't be regenerated.</source>
-        <target state="translated">2，ocT，牺牲陷坑：消灭目标不具飞行异能、且进行攻击的生物。它不能重生。</target>
+        <target state="translated">2，ocT，牺牲CARDNAME：消灭目标不具飞行异能、且进行攻击的生物。它不能重生。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="ca02861b-9639-480d-8e54-e024f0c70158" resname="ICE·334 | Runed Arch | Card Name">
@@ -2264,7 +2264,7 @@
       </trans-unit>
       <trans-unit id="eb92a3e6-dc30-4a08-baba-e125290cadc5" resname="ICE·336 | Skull Catapult | Card Text | Paragraph 1">
         <source>{1}, {T}, Sacrifice a creature: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">o1，ocT，牺牲一个生物：骷髅投石器对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">o1，ocT，牺牲一个生物：CARDNAME对目标生物或牌手造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="1c480e07-fb26-4760-865f-47985f7447bb" resname="ICE·337 | Snow Fortress | Card Name">
@@ -2299,12 +2299,12 @@
       </trans-unit>
       <trans-unit id="092ec691-4729-46d3-a4e2-0cfc5df42a31" resname="ICE·342 | Time Bomb | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a time counter on CARDNAME.</source>
-        <target state="translated">在你的维持阶段中，放置一个计时指示物于定时炸弹上。</target>
+        <target state="translated">在你的维持阶段中，放置一个计时指示物于CARDNAME上。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="092ec691-4729-46d3-a4e2-0cfc5df42a31" resname="ICE·342 | Time Bomb | Card Text | Paragraph 2">
         <source>{1}, {T}, Sacrifice CARDNAME: CARDNAME deals damage equal to the number of time counters on it to each creature and each player.</source>
-        <target state="translated">o1，ocT，牺牲定时炸弹：定时炸弹对所有玩家及生物造成与在定时炸弹上之计时指示物数量等量的伤害。</target>
+        <target state="translated">o1，ocT，牺牲CARDNAME：CARDNAME对所有玩家及生物造成与在CARDNAME上之计时指示物数量等量的伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="58c9e9a7-e170-4361-b7d5-22fc0771c489" resname="ICE·343 | Urza's Bauble | Card Name">
@@ -2314,7 +2314,7 @@
       </trans-unit>
       <trans-unit id="58c9e9a7-e170-4361-b7d5-22fc0771c489" resname="ICE·343 | Urza's Bauble | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Look at a card at random in target player's hand. You draw a card at the beginning of the next turn's upkeep.</source>
-        <target state="translated">ocT，牺牲克撒的饰品：随机由目标对手的手牌中选择一张，并且检视该牌。你在下回合开始时抽一张牌。</target>
+        <target state="translated">ocT，牺牲CARDNAME：随机由目标对手的手牌中选择一张，并且检视该牌。你在下回合开始时抽一张牌。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="0c9ea118-6a19-4e1b-aa5a-9b2729efc096" resname="ICE·344 | Vexing Arcanix | Card Name">
@@ -2324,7 +2324,7 @@
       </trans-unit>
       <trans-unit id="0c9ea118-6a19-4e1b-aa5a-9b2729efc096" resname="ICE·344 | Vexing Arcanix | Card Text | Paragraph 1">
         <source>{3}, {T}: Target player chooses a card name, then reveals the top card of their library. If that card has the chosen name, that player puts it into their hand. Otherwise, they put it into their graveyard and CARDNAME deals 2 damage to them.</source>
-        <target state="translated">{3}，{T}：目标牌手说出一个牌名，然后展示其牌库顶牌。若该牌的名称是你所说的名称，则该牌手将该牌置于其手上。若不是，则该牌手将该牌置入其坟墓场，并且艾卡尼思乱心具对他造成2点伤害。</target>
+        <target state="translated">{3}，{T}：目标牌手说出一个牌名，然后展示其牌库顶牌。若该牌的名称是你所说的名称，则该牌手将该牌置于其手上。若不是，则该牌手将该牌置入其坟墓场，并且CARDNAME对他造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="48f93ded-ecf6-4a70-8ca3-a9c0c3201c21" resname="ICE·345 | Vibrating Sphere | Card Name">
@@ -2374,7 +2374,7 @@
       </trans-unit>
       <trans-unit id="09dd9023-f7ee-4e99-8821-7059deb83730" resname="ICE·351 | Adarkar Wastes | Card Text | Paragraph 2">
         <source>{T}: Add {W} or {U}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{W}或{U}。阿达卡荒野对你造成1点伤害。</target>
+        <target state="translated">{T}：加{W}或{U}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMU（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="170e5ccd-54bf-4c6d-86b4-0359ca8f36e8" resname="ICE·352 | Brushland | Card Name">
@@ -2389,7 +2389,7 @@
       </trans-unit>
       <trans-unit id="170e5ccd-54bf-4c6d-86b4-0359ca8f36e8" resname="ICE·352 | Brushland | Card Text | Paragraph 2">
         <source>{T}: Add {G} or {W}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{G}或{W}。矮丛林地对你造成1点伤害。</target>
+        <target state="translated">{T}：加{G}或{W}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自BRO（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="3d23f800-7a6f-40e3-b242-9f5955e47a75" resname="ICE·353 | Glacial Chasm | Card Name">
@@ -2409,12 +2409,12 @@
       </trans-unit>
       <trans-unit id="85ce04fb-e687-41e0-ae9a-16a51df5d943" resname="ICE·355 | Ice Floe | Card Text | Paragraph 1">
         <source>You may choose not to untap CARDNAME during your untap step.</source>
-        <target state="translated">在你的重置阶段中，你可以选择不重置浮冰。</target>
+        <target state="translated">在你的重置阶段中，你可以选择不重置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="85ce04fb-e687-41e0-ae9a-16a51df5d943" resname="ICE·355 | Ice Floe | Card Text | Paragraph 2">
         <source>{T}: Tap target creature without flying that's attacking you. It doesn't untap during its controller's untap step for as long as CARDNAME remains tapped.</source>
-        <target state="translated">ocT：横置目标正在攻击你且不会飞的生物。只要浮冰持续被横置，该生物在它的操控者的重置阶段便不能重置。</target>
+        <target state="translated">ocT：横置目标正在攻击你且不会飞的生物。只要CARDNAME持续被横置，该生物在它的操控者的重置阶段便不能重置。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="ba6f1263-d598-49fb-b5f8-09f11822ebd0" resname="ICE·356 | Karplusan Forest | Card Name">
@@ -2429,7 +2429,7 @@
       </trans-unit>
       <trans-unit id="ba6f1263-d598-49fb-b5f8-09f11822ebd0" resname="ICE·356 | Karplusan Forest | Card Text | Paragraph 2">
         <source>{T}: Add {R} or {G}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{R}或{G}。卡普路桑森林对你造成1点伤害。</target>
+        <target state="translated">{T}：加{R}或{G}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMU（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="c4806c02-7a4d-42e3-affd-0338084bd3ab" resname="ICE·357 | Land Cap | Card Name">
@@ -2459,7 +2459,7 @@
       </trans-unit>
       <trans-unit id="2fdeab50-b45f-412b-85a3-c6cf009ce567" resname="ICE·360 | Sulfurous Springs | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {R}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{B}或{R}。硫磺温泉对你造成1点伤害。</target>
+        <target state="translated">{T}：加{B}或{R}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMU（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="87cc2fc9-0a24-4ac1-afcc-9317b90c7178" resname="ICE·361 | Timberline Ridge | Card Name">
@@ -2479,7 +2479,7 @@
       </trans-unit>
       <trans-unit id="92369d7e-5e5a-46f9-bb31-c57d62410283" resname="ICE·362 | Underground River | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {B}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{U}或{B}。伏流对你造成1点伤害。</target>
+        <target state="translated">{T}：加{U}或{B}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自BRO（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="987534fb-74a9-46a3-805f-fe2fe2df4a90" resname="ICE·363 | Veldt | Card Name">

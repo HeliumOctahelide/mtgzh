@@ -36,7 +36,7 @@
       </trans-unit>
       <trans-unit id="1afc1033-0004-43c1-9341-c5ed0b0048f2" resname="MOR·4 | Burrenton Shield-Bearers | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, target creature gets +0/+3 until end of turn.</source>
-        <target state="translated">每当布连屯执盾手攻击时，目标生物得+0/+3直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，目标生物得+0/+3直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d998c949-4791-477f-ab8d-e625199623ad" resname="MOR·5 | Cenn's Tactician | Card Name">
         <source>Cenn's Tactician</source>
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="8d0b26b0-cc31-458b-8a92-aa3392d0ca0f" resname="MOR·7 | Coordinated Barrage | Card Text | Paragraph 1">
         <source>Choose a creature type. CARDNAME deals damage to target attacking or blocking creature equal to the number of permanents you control of the chosen type.</source>
-        <target state="translated">选择一种生物类别。 协力齐击对目标进行攻击或阻挡的生物造成伤害，其数量等同于由你操控的该类别永久物之数量。</target>
+        <target state="translated">选择一种生物类别。 CARDNAME对目标进行攻击或阻挡的生物造成伤害，其数量等同于由你操控的该类别永久物之数量。</target>
       </trans-unit>
       <trans-unit id="45d83dae-747b-4acf-adfd-7822dd64cfcc" resname="MOR·8 | Daily Regimen | Card Name">
         <source>Daily Regimen</source>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="82a2e219-9e84-4f54-88e2-3925e48c4827" resname="MOR·14 | Kinsbaile Borderguard | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield with a +1/+1 counter on it for each other Kithkin you control.\nWhen CARDNAME dies, create a 1/1 white Kithkin Soldier creature token for each counter on it.</source>
-        <target state="translated">你每操控一个其他的洁英，英庄园边界守卫进场时上面便有一个+1/+1指示物。 当英庄园边界守卫从场上置入坟墓场时，其上每有一个指示物，便将一个1/1白色的洁英／士兵衍生物放置进场。</target>
+        <target state="translated">你每操控一个其他的洁英，CARDNAME进场时上面便有一个+1/+1指示物。 当CARDNAME从场上置入坟墓场时，其上每有一个指示物，便将一个1/1白色的洁英／士兵衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="ebe3d840-95af-4664-ace0-625f89f06a41" resname="MOR·15 | Kinsbaile Cavalier | Card Name">
         <source>Kinsbaile Cavalier</source>
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="8671abe8-4333-4b23-a87e-58bcc65deef2" resname="MOR·16 | Kithkin Zephyrnaut | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, CARDNAME gets +2/+2 and gains flying and vigilance until end of turn.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与风飘洁英有共通之生物类别，你可以展示该牌。 如果你如此作，则风飘洁英得+2/+2且获得飞行与警戒异能直到回合结束。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 如果你如此作，则CARDNAME得+2/+2且获得飞行与警戒异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a7f7a4e9-08c3-4600-9eb5-03ed01ea0738" resname="MOR·17 | Meadowboon | Card Name">
         <source>Meadowboon</source>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="a7f7a4e9-08c3-4600-9eb5-03ed01ea0738" resname="MOR·17 | Meadowboon | Card Text | Paragraph 1">
         <source>When CARDNAME leaves the battlefield, put a +1/+1 counter on each creature target player controls.</source>
-        <target state="translated">当牧地恩离场时，在每个由目标牌手操控的生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME离场时，在每个由目标牌手操控的生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="a7f7a4e9-08c3-4600-9eb5-03ed01ea0738" resname="MOR·17 | Meadowboon | Card Text | Paragraph 2">
         <source>Evoke {3}{W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -177,7 +177,7 @@
       </trans-unit>
       <trans-unit id="5d1c2f16-5661-4c17-8265-f4b88ff1e833" resname="MOR·19 | Order of the Golden Cricket | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may pay {W}. If you do, it gains flying until end of turn.</source>
-        <target state="translated">每当金蟋蟀骑士团攻击时，你可以支付{W}。若你如此作，则它获得飞行异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付{W}。若你如此作，则它获得飞行异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="41659773-8b26-41bf-afcc-805f373c0074" resname="MOR·20 | Preeminent Captain | Card Name">
@@ -192,7 +192,7 @@
       </trans-unit>
       <trans-unit id="41659773-8b26-41bf-afcc-805f373c0074" resname="MOR·20 | Preeminent Captain | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may put a Soldier creature card from your hand onto the battlefield tapped and attacking.</source>
-        <target state="translated">每当杰出队长攻击时，你可以将一张士兵生物牌从你手上横置放进战场，且正进行攻击。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以将一张士兵生物牌从你手上横置放进战场，且正进行攻击。</target>
         <note xmlns:from="developer">中文数据来自M15（2014-07-18）；</note>
       </trans-unit>
       <trans-unit id="6a0f1aa1-b5be-43f0-822d-c4fcf33270d9" resname="MOR·21 | Redeem the Lost | Card Name">
@@ -201,7 +201,7 @@
       </trans-unit>
       <trans-unit id="6a0f1aa1-b5be-43f0-822d-c4fcf33270d9" resname="MOR·21 | Redeem the Lost | Card Text | Paragraph 1">
         <source>Target creature you control gains protection from the color of your choice until end of turn. Clash with an opponent. If you win, return CARDNAME to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">选择一种颜色，目标由你操控的生物获得反该色保护异能直到回合结束。 与一位对手比点。 若你赢，则将救赎迷途者移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">选择一种颜色，目标由你操控的生物获得反该色保护异能直到回合结束。 与一位对手比点。 若你赢，则将CARDNAME移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="5629edd4-b5d3-43f8-8c7c-f9d916e35158" resname="MOR·22 | Reveillark | Card Name">
         <source>Reveillark</source>
@@ -215,7 +215,7 @@
       </trans-unit>
       <trans-unit id="5629edd4-b5d3-43f8-8c7c-f9d916e35158" resname="MOR·22 | Reveillark | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield.</source>
-        <target state="translated">当醒灵云雀离开战场时，将至多两张目标力量等于或小于2的生物牌从你的坟墓场移回战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将至多两张目标力量等于或小于2的生物牌从你的坟墓场移回战场。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="5629edd4-b5d3-43f8-8c7c-f9d916e35158" resname="MOR·22 | Reveillark | Card Text | Paragraph 3">
@@ -233,11 +233,11 @@
       </trans-unit>
       <trans-unit id="85dbd4a4-2a6f-477a-a267-27859ad73369" resname="MOR·23 | Shinewend | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with a +1/+1 counter on it.</source>
-        <target state="translated">明旅灵进场时上面有一个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="85dbd4a4-2a6f-477a-a267-27859ad73369" resname="MOR·23 | Shinewend | Card Text | Paragraph 3">
         <source>{1}{W}, Remove a +1/+1 counter from CARDNAME: Destroy target enchantment.</source>
-        <target state="translated">{1}{W}，从明旅灵上移去一个+1/+1指示物：消灭目标结界。</target>
+        <target state="translated">{1}{W}，从CARDNAME上移去一个+1/+1指示物：消灭目标结界。</target>
       </trans-unit>
       <trans-unit id="363c51c5-b0fc-4c84-b3d6-8cc17c2387a4" resname="MOR·24 | Stonehewer Giant | Card Name">
         <source>Stonehewer Giant</source>
@@ -260,7 +260,7 @@
       </trans-unit>
       <trans-unit id="69fa2293-f398-4ad8-895e-c739ddea56d0" resname="MOR·25 | Stonybrook Schoolmaster | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes tapped, you may create a 1/1 blue Merfolk Wizard creature token.</source>
-        <target state="translated">每当石溪鱼群长成为横置时，你可以将一个1/1蓝色的人鱼／法术师衍生物放置进场。</target>
+        <target state="translated">每当CARDNAME成为横置时，你可以将一个1/1蓝色的人鱼／法术师衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="162bba28-667d-4acd-97ed-3421d12e0453" resname="MOR·26 | Swell of Courage | Card Name">
         <source>Swell of Courage</source>
@@ -280,7 +280,7 @@
       </trans-unit>
       <trans-unit id="ea5c82f9-4bc5-4326-92c0-d2aa4b4838a5" resname="MOR·27 | Wandering Graybeard | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, you gain 4 life.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与灰须漫游客有共通之生物类别，你可以展示该牌。 若你如此作，则你获得4点生命。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 若你如此作，则你获得4点生命。</target>
       </trans-unit>
       <trans-unit id="396c8c41-70b4-4189-9160-8b7367a817a2" resname="MOR·28 | Weight of Conscience | Card Name">
         <source>Weight of Conscience</source>
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="2e67d62f-9629-463b-a445-4181f6fafd0f" resname="MOR·29 | Declaration of Naught | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a card name.</source>
-        <target state="translated">于无用宣言进场时，说出一个牌名。</target>
+        <target state="translated">于CARDNAME进场时，说出一个牌名。</target>
       </trans-unit>
       <trans-unit id="2e67d62f-9629-463b-a445-4181f6fafd0f" resname="MOR·29 | Declaration of Naught | Card Text | Paragraph 2">
         <source>{U}: Counter target spell with the chosen name.</source>
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="64b14ad2-0ac7-4ae1-8a9e-eb49c8c5cc40" resname="MOR·30 | Dewdrop Spy | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, look at the top card of target player's library.</source>
-        <target state="translated">当露珠探子进场时，检视目标牌手的牌库顶牌。</target>
+        <target state="translated">当CARDNAME进场时，检视目标牌手的牌库顶牌。</target>
       </trans-unit>
       <trans-unit id="0ae239b2-1596-4906-9711-1d180a246d35" resname="MOR·31 | Disperse | Card Name">
         <source>Disperse</source>
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="77c0929f-bee6-416d-8571-6540ae4f6e4f" resname="MOR·33 | Fencer Clique | Card Text | Paragraph 2">
         <source>{U}: Put CARDNAME on top of its owner's library.</source>
-        <target state="translated">{U}：将剑击聚群置于其拥有者的牌库顶。</target>
+        <target state="translated">{U}：将CARDNAME置于其拥有者的牌库顶。</target>
       </trans-unit>
       <trans-unit id="71265bb0-bf51-4d9d-b94c-c90adf65c55b" resname="MOR·34 | Floodchaser | Card Name">
         <source>Floodchaser</source>
@@ -368,15 +368,15 @@
       </trans-unit>
       <trans-unit id="71265bb0-bf51-4d9d-b94c-c90adf65c55b" resname="MOR·34 | Floodchaser | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with six +1/+1 counters on it.</source>
-        <target state="translated">逐洪灵进场时上面有六个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时上面有六个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="71265bb0-bf51-4d9d-b94c-c90adf65c55b" resname="MOR·34 | Floodchaser | Card Text | Paragraph 2">
         <source>CARDNAME can't attack unless defending player controls an Island.</source>
-        <target state="translated">除非防御牌手操控海岛，否则逐洪灵不能攻击。</target>
+        <target state="translated">除非防御牌手操控海岛，否则CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="71265bb0-bf51-4d9d-b94c-c90adf65c55b" resname="MOR·34 | Floodchaser | Card Text | Paragraph 3">
         <source>{U}, Remove a +1/+1 counter from CARDNAME: Target land becomes an Island until end of turn.</source>
-        <target state="translated">{U}，从逐洪灵上移去一个+1/+1指示物：目标地成为海岛直到回合结束。</target>
+        <target state="translated">{U}，从CARDNAME上移去一个+1/+1指示物：目标地成为海岛直到回合结束。</target>
       </trans-unit>
       <trans-unit id="59c4dceb-6889-4a79-87c2-98952f3478bb" resname="MOR·35 | Grimoire Thief | Card Name">
         <source>Grimoire Thief</source>
@@ -384,15 +384,15 @@
       </trans-unit>
       <trans-unit id="59c4dceb-6889-4a79-87c2-98952f3478bb" resname="MOR·35 | Grimoire Thief | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes tapped, exile the top three cards of target opponent's library face down.</source>
-        <target state="translated">每当秘录窃贼成为横置时，将目标对手牌库顶的三张牌以牌面朝下的方式移出对战。</target>
+        <target state="translated">每当CARDNAME成为横置时，将目标对手牌库顶的三张牌以牌面朝下的方式移出对战。</target>
       </trans-unit>
       <trans-unit id="59c4dceb-6889-4a79-87c2-98952f3478bb" resname="MOR·35 | Grimoire Thief | Card Text | Paragraph 2">
         <source>You may look at cards exiled with CARDNAME.</source>
-        <target state="translated">你可以检视以秘录窃贼移出对战之牌。</target>
+        <target state="translated">你可以检视以CARDNAME移出对战之牌。</target>
       </trans-unit>
       <trans-unit id="59c4dceb-6889-4a79-87c2-98952f3478bb" resname="MOR·35 | Grimoire Thief | Card Text | Paragraph 3">
         <source>{U}, Sacrifice CARDNAME: Turn all cards exiled with CARDNAME face up. Counter all spells with those names.</source>
-        <target state="translated">{U}，牺牲秘录窃贼：将所有以秘录窃贼移出对战的牌翻回正面，然后反击所有与这些牌其一同名的咒语。</target>
+        <target state="translated">{U}，牺牲CARDNAME：将所有以CARDNAME移出对战的牌翻回正面，然后反击所有与这些牌其一同名的咒语。</target>
       </trans-unit>
       <trans-unit id="6e1bf0ad-f718-4118-9e9b-19041cfbb5cf" resname="MOR·36 | Ink Dissolver | Card Name">
         <source>Ink Dissolver</source>
@@ -400,7 +400,7 @@
       </trans-unit>
       <trans-unit id="6e1bf0ad-f718-4118-9e9b-19041cfbb5cf" resname="MOR·36 | Ink Dissolver | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, each opponent mills three cards.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与溶墨师有共通之生物类别，你可以展示该牌。 若你如此作，则每位对手各将其牌库顶的三张牌置入其坟墓场。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 若你如此作，则每位对手各将其牌库顶的三张牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="0960dc0a-907b-4e02-a0b5-dd2613be8e65" resname="MOR·37 | Inspired Sprite | Card Name">
         <source>Inspired Sprite</source>
@@ -416,7 +416,7 @@
       </trans-unit>
       <trans-unit id="0960dc0a-907b-4e02-a0b5-dd2613be8e65" resname="MOR·37 | Inspired Sprite | Card Text | Paragraph 3">
         <source>Whenever you cast a Wizard spell, you may untap CARDNAME.</source>
-        <target state="translated">每当你使用法术师咒语时，你可以重置获启仙子。</target>
+        <target state="translated">每当你使用法术师咒语时，你可以重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="0960dc0a-907b-4e02-a0b5-dd2613be8e65" resname="MOR·37 | Inspired Sprite | Card Text | Paragraph 4">
         <source>{T}: Draw a card, then discard a card.</source>
@@ -451,7 +451,7 @@
       </trans-unit>
       <trans-unit id="ef32d51e-1ec0-46aa-b240-e28a1fb64d73" resname="MOR·39 | Latchkey Faerie | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if its prowl cost was paid, draw a card.</source>
-        <target state="translated">当飞钥仙灵进战场时，若曾支付其伺机费用，则抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，若曾支付其伺机费用，则抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自ZNC（2020-09-25）；</note>
       </trans-unit>
       <trans-unit id="d5b4e77f-012f-47f4-8b44-930148250b1d" resname="MOR·40 | Merrow Witsniper | Card Name">
@@ -460,7 +460,7 @@
       </trans-unit>
       <trans-unit id="d5b4e77f-012f-47f4-8b44-930148250b1d" resname="MOR·40 | Merrow Witsniper | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target player mills a card.</source>
-        <target state="translated">当狙思美洛进场时，目标牌手将其牌库顶牌置入其坟墓场。</target>
+        <target state="translated">当CARDNAME进场时，目标牌手将其牌库顶牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="7b7cd9b6-1ea8-423d-8aa0-8699fffbcf50" resname="MOR·41 | Mind Spring | Card Name">
         <source>Mind Spring</source>
@@ -482,7 +482,7 @@
       </trans-unit>
       <trans-unit id="95da9bc9-6ac5-432d-ac12-04088cc6c74d" resname="MOR·42 | Mothdust Changeling | Card Text | Paragraph 2">
         <source>Tap an untapped creature you control: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">横置一个由你操控且未横置的生物：蛾粉化形获得飞行异能直到回合结束。</target>
+        <target state="translated">横置一个由你操控且未横置的生物：CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5a501252-e722-4ebf-bcf7-f53a42745fa7" resname="MOR·43 | Negate | Card Name">
         <source>Negate</source>
@@ -504,7 +504,7 @@
       </trans-unit>
       <trans-unit id="e1fa77d1-cd61-4ef8-a71f-7c92b1f3b074" resname="MOR·44 | Nevermaker | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, put target nonland permanent on top of its owner's library.</source>
-        <target state="translated">当返虚灵离场时，将目标非地永久物置于其拥有者的牌库顶。</target>
+        <target state="translated">当CARDNAME离场时，将目标非地永久物置于其拥有者的牌库顶。</target>
       </trans-unit>
       <trans-unit id="e1fa77d1-cd61-4ef8-a71f-7c92b1f3b074" resname="MOR·44 | Nevermaker | Card Text | Paragraph 3">
         <source>Evoke {3}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -531,7 +531,7 @@
       </trans-unit>
       <trans-unit id="927bab71-a208-4ff2-b6c9-51b63468db38" resname="MOR·46 | Research the Deep | Card Text | Paragraph 1">
         <source>Draw a card. Clash with an opponent. If you win, return CARDNAME to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">抓一张牌。 与一位对手比点。 若你赢，则将探究深水移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">抓一张牌。 与一位对手比点。 若你赢，则将CARDNAME移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="37b3e46e-7a65-4c2a-989b-b626b20e1b14" resname="MOR·47 | Sage of Fables | Card Name">
         <source>Sage of Fables</source>
@@ -567,7 +567,7 @@
       </trans-unit>
       <trans-unit id="2ec9df4e-2ee7-4c77-91b0-ad6e624340cd" resname="MOR·50 | Slithermuse | Card Text | Paragraph 1">
         <source>When CARDNAME leaves the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.</source>
-        <target state="translated">当蛇身思灵离场时，选择一位对手。 若该牌手的手牌数量比你多，则抓等同于该差距数量的牌。</target>
+        <target state="translated">当CARDNAME离场时，选择一位对手。 若该牌手的手牌数量比你多，则抓等同于该差距数量的牌。</target>
       </trans-unit>
       <trans-unit id="2ec9df4e-2ee7-4c77-91b0-ad6e624340cd" resname="MOR·50 | Slithermuse | Card Text | Paragraph 2">
         <source>Evoke {3}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -634,7 +634,7 @@
       </trans-unit>
       <trans-unit id="f53d8540-fb6d-4d4c-b467-ebfbfa53c880" resname="MOR·55 | Vendilion Clique | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of their library, then draws a card.</source>
-        <target state="translated">当薇安留聚群进战场时，检视目标牌手的手牌。你可以选择其中一张非地牌。若你如此作，则该牌手展示所选的牌，将它置于其牌库底，然后抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，检视目标牌手的手牌。你可以选择其中一张非地牌。若你如此作，则该牌手展示所选的牌，将它置于其牌库底，然后抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="7db5c04f-fd5e-4e4c-9146-f9e6ef20a159" resname="MOR·56 | Waterspout Weavers | Card Name">
@@ -643,7 +643,7 @@
       </trans-unit>
       <trans-unit id="7db5c04f-fd5e-4e4c-9146-f9e6ef20a159" resname="MOR·56 | Waterspout Weavers | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, each creature you control gains flying until end of turn.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与水龙卷织者有共通之生物类别，你可以展示该牌。 如果你如此作，则由你操控的每个生物获得飞行异能直到回合结束。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 如果你如此作，则由你操控的每个生物获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="dc5caf12-9358-490b-aafa-fc4d2b8b9b22" resname="MOR·57 | Auntie's Snitch | Card Name">
         <source>Auntie's Snitch</source>
@@ -651,7 +651,7 @@
       </trans-unit>
       <trans-unit id="dc5caf12-9358-490b-aafa-fc4d2b8b9b22" resname="MOR·57 | Auntie's Snitch | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">大婶眼线不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="dc5caf12-9358-490b-aafa-fc4d2b8b9b22" resname="MOR·57 | Auntie's Snitch | Card Text | Paragraph 2">
         <source>Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)</source>
@@ -659,7 +659,7 @@
       </trans-unit>
       <trans-unit id="dc5caf12-9358-490b-aafa-fc4d2b8b9b22" resname="MOR·57 | Auntie's Snitch | Card Text | Paragraph 3">
         <source>Whenever a Goblin or Rogue you control deals combat damage to a player, if CARDNAME is in your graveyard, you may return CARDNAME to your hand.</source>
-        <target state="translated">每当由你操控的一个精灵或浪客对牌手造成战斗伤害时，若大婶眼线在你的坟墓场，则你可以将大婶眼线移回你手上。</target>
+        <target state="translated">每当由你操控的一个精灵或浪客对牌手造成战斗伤害时，若CARDNAME在你的坟墓场，则你可以将CARDNAME移回你手上。</target>
       </trans-unit>
       <trans-unit id="8145fed6-6b51-420a-84cf-4ea5e0aa1883" resname="MOR·58 | Bitterblossom | Card Name">
         <source>Bitterblossom</source>
@@ -691,7 +691,7 @@
       </trans-unit>
       <trans-unit id="0116416b-ed95-4fa2-abc5-446de5c3106b" resname="MOR·60 | Earwig Squad | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles.</source>
-        <target state="translated">当偷听小队进场时，若曾支付其伺机费用，则从目标对手的牌库中搜寻三张牌，并将它们移出对战。 然后该牌手将他的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，若曾支付其伺机费用，则从目标对手的牌库中搜寻三张牌，并将它们移出对战。 然后该牌手将他的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="10fb2b62-eea7-469f-b237-fdce20b8bdcf" resname="MOR·61 | Fendeep Summoner | Card Name">
         <source>Fendeep Summoner</source>
@@ -708,12 +708,12 @@
       </trans-unit>
       <trans-unit id="614a9456-0ebf-4fba-b085-225f8c7e4a98" resname="MOR·62 | Festercreep | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a +1/+1 counter on it.</source>
-        <target state="translated">腐行灵进战场时上面有一个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自C16（2016-11-11）；</note>
       </trans-unit>
       <trans-unit id="614a9456-0ebf-4fba-b085-225f8c7e4a98" resname="MOR·62 | Festercreep | Card Text | Paragraph 2">
         <source>{1}{B}, Remove a +1/+1 counter from CARDNAME: All other creatures get -1/-1 until end of turn.</source>
-        <target state="translated">{1}{B}，从腐行灵上移去一个+1/+1指示物：所有其他生物得-1/-1直到回合结束。</target>
+        <target state="translated">{1}{B}，从CARDNAME上移去一个+1/+1指示物：所有其他生物得-1/-1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自C16（2016-11-11）；</note>
       </trans-unit>
       <trans-unit id="fb237de0-bf73-445f-a42b-c3da4cd35973" resname="MOR·63 | Final-Sting Faerie | Card Name">
@@ -726,7 +726,7 @@
       </trans-unit>
       <trans-unit id="fb237de0-bf73-445f-a42b-c3da4cd35973" resname="MOR·63 | Final-Sting Faerie | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target creature that was dealt damage this turn.</source>
-        <target state="translated">当终命仙灵进场时，消灭目标在本回合受过伤害的生物。</target>
+        <target state="translated">当CARDNAME进场时，消灭目标在本回合受过伤害的生物。</target>
       </trans-unit>
       <trans-unit id="78543dac-7367-429f-88a5-83cb803193ef" resname="MOR·64 | Frogtosser Banneret | Card Name">
         <source>Frogtosser Banneret</source>
@@ -775,7 +775,7 @@
       </trans-unit>
       <trans-unit id="6955348b-70e9-49c3-9343-9becf977abe8" resname="MOR·67 | Moonglove Changeling | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy that creature.)</source>
-        <target state="translated">{B}：月地黄化形获得死触异能直到回合结束。 （每当此生物对任一生物造成伤害时，消灭后者。）</target>
+        <target state="translated">{B}：CARDNAME获得死触异能直到回合结束。 （每当此生物对任一生物造成伤害时，消灭后者。）</target>
       </trans-unit>
       <trans-unit id="cac48152-81c0-4cdc-8e3c-bfbe7b068b28" resname="MOR·68 | Morsel Theft | Card Name">
         <source>Morsel Theft</source>
@@ -787,7 +787,7 @@
       </trans-unit>
       <trans-unit id="cac48152-81c0-4cdc-8e3c-bfbe7b068b28" resname="MOR·68 | Morsel Theft | Card Text | Paragraph 2">
         <source>Target player loses 3 life and you gain 3 life. If this spell's prowl cost was paid, draw a card.</source>
-        <target state="translated">目标牌手失去3点生命且你获得3点生命。 如果曾支付偷尝佳肴的伺机费用，则抓一张牌。</target>
+        <target state="translated">目标牌手失去3点生命且你获得3点生命。 如果曾支付CARDNAME的伺机费用，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="af9a61cd-3a26-4142-83ce-9c41cdb16eb4" resname="MOR·69 | Nightshade Schemers | Card Name">
         <source>Nightshade Schemers</source>
@@ -799,7 +799,7 @@
       </trans-unit>
       <trans-unit id="af9a61cd-3a26-4142-83ce-9c41cdb16eb4" resname="MOR·69 | Nightshade Schemers | Card Text | Paragraph 2">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, each opponent loses 2 life.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与夜影阴谋师有共通之生物类别，你可以展示该牌。 如果你如此作，则每位对手各失去2点生命。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 如果你如此作，则每位对手各失去2点生命。</target>
       </trans-unit>
       <trans-unit id="932649ab-ed5e-405f-986f-855d8a7c8eb2" resname="MOR·70 | Noggin Whack | Card Name">
         <source>Noggin Whack</source>
@@ -823,7 +823,7 @@
       </trans-unit>
       <trans-unit id="632dcea3-53ad-4317-b8bc-457b1887e7b5" resname="MOR·71 | Offalsnout | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, exile target card from a graveyard.</source>
-        <target state="translated">当嗅杂灵进场时，将目标牌从坟墓场移出对战。</target>
+        <target state="translated">当CARDNAME进场时，将目标牌从坟墓场移出对战。</target>
       </trans-unit>
       <trans-unit id="632dcea3-53ad-4317-b8bc-457b1887e7b5" resname="MOR·71 | Offalsnout | Card Text | Paragraph 3">
         <source>Evoke {B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -879,7 +879,7 @@
       </trans-unit>
       <trans-unit id="8b0aa3c8-9e11-4917-956b-35b77a100761" resname="MOR·76 | Revive the Fallen | Card Text | Paragraph 1">
         <source>Return target creature card from a graveyard to its owner's hand. Clash with an opponent. If you win, return CARDNAME to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">将目标生物牌从坟墓场移回其拥有者手上。 与一位对手比点。 若你赢，则将复生逝者移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">将目标生物牌从坟墓场移回其拥有者手上。 与一位对手比点。 若你赢，则将CARDNAME移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="1bd5c2b6-fcb2-4865-a0e5-9af59d94ae5a" resname="MOR·77 | Scarblade Elite | Card Name">
         <source>Scarblade Elite</source>
@@ -895,7 +895,7 @@
       </trans-unit>
       <trans-unit id="81290ae9-9217-482a-ae1a-be1a0ef47b5d" resname="MOR·78 | Squeaking Pie Grubfellows | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, each opponent discards a card.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与吱吱集挖虫人有共通之生物类别，你可以展示该牌。 如果你如此作，则每位对手各弃一张牌。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 如果你如此作，则每位对手各弃一张牌。</target>
       </trans-unit>
       <trans-unit id="c376fd5f-596a-4208-b173-0b2e5165f2e9" resname="MOR·79 | Stenchskipper | Card Name">
         <source>Stenchskipper</source>
@@ -907,7 +907,7 @@
       </trans-unit>
       <trans-unit id="c376fd5f-596a-4208-b173-0b2e5165f2e9" resname="MOR·79 | Stenchskipper | Card Text | Paragraph 2">
         <source>At the beginning of the end step, if you control no Goblins, sacrifice CARDNAME.</source>
-        <target state="translated">在回合结束时，若你并未操控精灵，则牺牲臭蹦灵。</target>
+        <target state="translated">在回合结束时，若你并未操控精灵，则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="4d9818ad-db8d-41e2-945f-a8b487c2df76" resname="MOR·80 | Stinkdrinker Bandit | Card Name">
         <source>Stinkdrinker Bandit</source>
@@ -946,7 +946,7 @@
       </trans-unit>
       <trans-unit id="d44d2eb4-e5a3-4401-86cb-311374a2de04" resname="MOR·83 | Weed-Pruner Poplar | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, target creature other than CARDNAME gets -1/-1 until end of turn.</source>
-        <target state="translated">在你的维持开始时，修草黑杨以外的目标生物得-1/-1直到回合结束。</target>
+        <target state="translated">在你的维持开始时，CARDNAME以外的目标生物得-1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="fe1d40cc-2871-4a33-bc58-5250fd3d4f0e" resname="MOR·84 | Weirding Shaman | Card Name">
         <source>Weirding Shaman</source>
@@ -966,7 +966,7 @@
       </trans-unit>
       <trans-unit id="88d90bc4-7f70-4203-b554-800c70c775ef" resname="MOR·85 | Boldwyr Heavyweights | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, each opponent may search their library for a creature card and put it onto the battlefield. Then each player who searched their library this way shuffles.</source>
-        <target state="translated">当波维尔壮汉进场时，每位对手可以从其牌库中搜寻一张生物牌，并将其放置进场。 然后每位以此法搜寻牌库的牌手将其牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，每位对手可以从其牌库中搜寻一张生物牌，并将其放置进场。 然后每位以此法搜寻牌库的牌手将其牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="28ccfc78-b2d6-4eb7-b8bf-ba8bd876d2b8" resname="MOR·87 | Borderland Behemoth | Card Name">
         <source>Borderland Behemoth</source>
@@ -975,7 +975,7 @@
       </trans-unit>
       <trans-unit id="28ccfc78-b2d6-4eb7-b8bf-ba8bd876d2b8" resname="MOR·87 | Borderland Behemoth | Card Text | Paragraphs">
         <source>Trample\nCARDNAME gets +4/+4 for each other Giant you control.</source>
-        <target state="translated">践踏你每操控一个其他的巨人，边境贝西摩斯便得+4/+4。</target>
+        <target state="translated">践踏你每操控一个其他的巨人，CARDNAME便得+4/+4。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="cb44df5b-6c89-46ae-b068-5056b8c4c189" resname="MOR·88 | Brighthearth Banneret | Card Name">
@@ -1000,7 +1000,7 @@
       </trans-unit>
       <trans-unit id="8ca3f7a3-05e7-44c0-9e09-3f28378677c1" resname="MOR·89 | Countryside Crusher | Card Text | Paragraph 2">
         <source>Whenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一张地牌从任何区域置入你的坟墓场时，在乡间破坏人上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一张地牌从任何区域置入你的坟墓场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="f04d5eef-da88-496b-a902-b87b0b386f96" resname="MOR·90 | Fire Juggler | Card Name">
         <source>Fire Juggler</source>
@@ -1008,7 +1008,7 @@
       </trans-unit>
       <trans-unit id="f04d5eef-da88-496b-a902-b87b0b386f96" resname="MOR·90 | Fire Juggler | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, clash with an opponent. If you win, CARDNAME deals 4 damage to each creature blocking it. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">每当戏火人被阻挡时，与一位对手比点。 若你赢，则戏火人对每个阻挡它的生物各造成4点伤害。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">每当CARDNAME被阻挡时，与一位对手比点。 若你赢，则CARDNAME对每个阻挡它的生物各造成4点伤害。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="e172b353-7a16-4831-b735-206230b22e59" resname="MOR·91 | Hostile Realm | Card Name">
         <source>Hostile Realm</source>
@@ -1042,7 +1042,7 @@
       </trans-unit>
       <trans-unit id="f68f5ac9-0345-4052-9f93-d9f7afc66932" resname="MOR·93 | Lightning Crafter | Card Text | Paragraph 2">
         <source>{T}: CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">{T}：闪电艺师对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="f459acfa-a9db-43c6-b0e9-ed66d772a335" resname="MOR·94 | Lunk Errant | Card Name">
         <source>Lunk Errant</source>
@@ -1050,7 +1050,7 @@
       </trans-unit>
       <trans-unit id="f459acfa-a9db-43c6-b0e9-ed66d772a335" resname="MOR·94 | Lunk Errant | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks alone, it gets +1/+1 and gains trample until end of turn.</source>
-        <target state="translated">每当漫游呆瓜单独攻击时，它便得+1/+1且获得践踏异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME单独攻击时，它便得+1/+1且获得践踏异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="bc5e2771-ae35-4aff-a92d-7fc7f3ca915f" resname="MOR·95 | Mudbutton Clanger | Card Name">
         <source>Mudbutton Clanger</source>
@@ -1058,7 +1058,7 @@
       </trans-unit>
       <trans-unit id="bc5e2771-ae35-4aff-a92d-7fc7f3ca915f" resname="MOR·95 | Mudbutton Clanger | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与泥钮冲锋兵有共通之生物类别，你可以展示该牌。 如果你如此作，则泥钮冲锋兵得+1/+1直到回合结束。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 如果你如此作，则CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="17a1c7c8-1acd-4219-a272-69e855517a74" resname="MOR·96 | Pyroclast Consul | Card Name">
         <source>Pyroclast Consul</source>
@@ -1066,7 +1066,7 @@
       </trans-unit>
       <trans-unit id="17a1c7c8-1acd-4219-a272-69e855517a74" resname="MOR·96 | Pyroclast Consul | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, CARDNAME deals 2 damage to each creature.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与烈火领事有共通之生物类别，你可以展示该牌。 若你如此作，则烈火领事对每个生物各造成2点伤害。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 若你如此作，则CARDNAME对每个生物各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="fe140361-93b2-4382-b85e-8c263d2f446e" resname="MOR·97 | Rage Forger | Card Name">
         <source>Rage Forger</source>
@@ -1074,7 +1074,7 @@
       </trans-unit>
       <trans-unit id="fe140361-93b2-4382-b85e-8c263d2f446e" resname="MOR·97 | Rage Forger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on each other Shaman creature you control.</source>
-        <target state="translated">当炼怒师进场时，在由你操控的其他祭师生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进场时，在由你操控的其他祭师生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="fe140361-93b2-4382-b85e-8c263d2f446e" resname="MOR·97 | Rage Forger | Card Text | Paragraph 2">
         <source>Whenever a creature you control with a +1/+1 counter on it attacks, you may have that creature deal 1 damage to target player or planeswalker.</source>
@@ -1086,7 +1086,7 @@
       </trans-unit>
       <trans-unit id="1b6f1afb-2451-4611-ac3e-3513a4651719" resname="MOR·98 | Release the Ants | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to any target. Clash with an opponent. If you win, return CARDNAME to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">放蚁咬人对目标生物或牌手造成1点伤害。 与一位对手比点。 若你赢，则将放蚁咬人移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成1点伤害。 与一位对手比点。 若你赢，则将CARDNAME移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="2d2eee8b-cc55-4a65-983f-0a91d7e4494a" resname="MOR·99 | Rivals' Duel | Card Name">
         <source>Rivals' Duel</source>
@@ -1102,7 +1102,7 @@
       </trans-unit>
       <trans-unit id="e4b0e072-c51a-4e97-a089-8e5b540355aa" resname="MOR·100 | Roar of the Crowd | Card Text | Paragraph 1">
         <source>Choose a creature type. CARDNAME deals damage to any target equal to the number of permanents you control of the chosen type.</source>
-        <target state="translated">选择一种生物类别。 群众之吼对目标生物或牌手造成伤害，其数量等同于由你操控的该类别永久物之数量。</target>
+        <target state="translated">选择一种生物类别。 CARDNAME对目标生物或牌手造成伤害，其数量等同于由你操控的该类别永久物之数量。</target>
       </trans-unit>
       <trans-unit id="4971a447-29c8-47b6-863c-f13a69b4148b" resname="MOR·101 | Seething Pathblazer | Card Name">
         <source>Seething Pathblazer</source>
@@ -1110,7 +1110,7 @@
       </trans-unit>
       <trans-unit id="4971a447-29c8-47b6-863c-f13a69b4148b" resname="MOR·101 | Seething Pathblazer | Card Text | Paragraph 1">
         <source>Sacrifice an Elemental: CARDNAME gets +2/+0 and gains first strike until end of turn.</source>
-        <target state="translated">牺牲一个元素：热血焰径人得+2/+0且获得先攻异能直到回合结束。</target>
+        <target state="translated">牺牲一个元素：CARDNAME得+2/+0且获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b2e5eb69-dcd9-4784-bf4c-20b674f4c035" resname="MOR·102 | Sensation Gorger | Card Name">
         <source>Sensation Gorger</source>
@@ -1118,7 +1118,7 @@
       </trans-unit>
       <trans-unit id="b2e5eb69-dcd9-4784-bf4c-20b674f4c035" resname="MOR·102 | Sensation Gorger | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, each player discards their hand, then draws four cards.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与感知食客有共通之生物类别，你可以展示该牌。 如果你如此作，则每位牌手弃掉其手牌并抓四张牌。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 如果你如此作，则每位牌手弃掉其手牌并抓四张牌。</target>
       </trans-unit>
       <trans-unit id="43db4810-078e-487a-afef-57cbc1db0cc7" resname="MOR·103 | Shard Volley | Card Name">
         <source>Shard Volley</source>
@@ -1126,11 +1126,11 @@
       </trans-unit>
       <trans-unit id="43db4810-078e-487a-afef-57cbc1db0cc7" resname="MOR·103 | Shard Volley | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, sacrifice a land.</source>
-        <target state="translated">牺牲一个地，以作为使用碎片射击的额外费用。</target>
+        <target state="translated">牺牲一个地，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="43db4810-078e-487a-afef-57cbc1db0cc7" resname="MOR·103 | Shard Volley | Card Text | Paragraph 2">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">碎片射击对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="fe332c46-90f0-4cc0-8bf1-35a3934ff8a0" resname="MOR·104 | Shared Animosity | Card Name">
         <source>Shared Animosity</source>
@@ -1149,7 +1149,7 @@
       </trans-unit>
       <trans-unit id="43f2104d-aeff-493f-8227-cb95bf3e2eab" resname="MOR·105 | Spitebellows | Card Text | Paragraph 1">
         <source>When CARDNAME leaves the battlefield, it deals 6 damage to target creature.</source>
-        <target state="translated">当怨吼灵离开战场时，它对目标生物造成6点伤害。</target>
+        <target state="translated">当CARDNAME离开战场时，它对目标生物造成6点伤害。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="43f2104d-aeff-493f-8227-cb95bf3e2eab" resname="MOR·105 | Spitebellows | Card Text | Paragraph 2">
@@ -1163,11 +1163,11 @@
       </trans-unit>
       <trans-unit id="27e0fdb4-187a-4178-a702-884bef9e029d" resname="MOR·106 | Stingmoggie | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with two +1/+1 counters on it.</source>
-        <target state="translated">刺猫灵进场时上面有两个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时上面有两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="27e0fdb4-187a-4178-a702-884bef9e029d" resname="MOR·106 | Stingmoggie | Card Text | Paragraph 2">
         <source>{3}{R}, Remove a +1/+1 counter from CARDNAME: Destroy target artifact or land.</source>
-        <target state="translated">{3}{R}，从刺猫灵上移去一个+1/+1指示物：消灭目标神器或地。</target>
+        <target state="translated">{3}{R}，从CARDNAME上移去一个+1/+1指示物：消灭目标神器或地。</target>
       </trans-unit>
       <trans-unit id="820f1acf-7f0c-4ee5-9f18-b5627aac7c81" resname="MOR·107 | Stomping Slabs | Card Name">
         <source>Stomping Slabs</source>
@@ -1175,7 +1175,7 @@
       </trans-unit>
       <trans-unit id="820f1acf-7f0c-4ee5-9f18-b5627aac7c81" resname="MOR·107 | Stomping Slabs | Card Text | Paragraph 1">
         <source>Reveal the top seven cards of your library, then put those cards on the bottom of your library in any order. If a card named CARDNAME was revealed this way, CARDNAME deals 7 damage to any target.</source>
-        <target state="translated">展示你牌库顶的七张牌，然后将这些牌以任意顺序置于你牌库底。 如果以此法展示出名称为晃动岩板的牌，则晃动岩板对目标生物或牌手造成7点伤害。</target>
+        <target state="translated">展示你牌库顶的七张牌，然后将这些牌以任意顺序置于你牌库底。 如果以此法展示出名称为CARDNAME的牌，则CARDNAME对目标生物或牌手造成7点伤害。</target>
       </trans-unit>
       <trans-unit id="6db24aa7-4922-4b39-9964-f76df09cba12" resname="MOR·108 | Sunflare Shaman | Card Name">
         <source>Sunflare Shaman</source>
@@ -1183,7 +1183,7 @@
       </trans-unit>
       <trans-unit id="6db24aa7-4922-4b39-9964-f76df09cba12" resname="MOR·108 | Sunflare Shaman | Card Text | Paragraph 1">
         <source>{1}{R}, {T}: CARDNAME deals X damage to any target and X damage to itself, where X is the number of Elemental cards in your graveyard.</source>
-        <target state="translated">{1}{R}，{T}：日焰祭师对目标生物或牌手造成X点伤害，并且对本身造成X点伤害，X为你坟墓场中元素牌的数量。</target>
+        <target state="translated">{1}{R}，{T}：CARDNAME对目标生物或牌手造成X点伤害，并且对本身造成X点伤害，X为你坟墓场中元素牌的数量。</target>
       </trans-unit>
       <trans-unit id="d50b5df1-b658-4df0-900e-79c44599b93e" resname="MOR·109 | Taurean Mauler | Card Name">
         <source>Taurean Mauler</source>
@@ -1197,7 +1197,7 @@
       </trans-unit>
       <trans-unit id="d50b5df1-b658-4df0-900e-79c44599b93e" resname="MOR·109 | Taurean Mauler | Card Text | Paragraph 2">
         <source>Whenever an opponent casts a spell, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当任一对手施放咒语时，你可以在牛身虐杀兽上放置一个+1/+1指示物。</target>
+        <target state="translated">每当任一对手施放咒语时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自NEC（2022-02-18）；</note>
       </trans-unit>
       <trans-unit id="b1b0f9ca-b752-4dd6-982b-06bb3a27ddbc" resname="MOR·110 | Titan's Revenge | Card Name">
@@ -1206,7 +1206,7 @@
       </trans-unit>
       <trans-unit id="b1b0f9ca-b752-4dd6-982b-06bb3a27ddbc" resname="MOR·110 | Titan's Revenge | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to any target. Clash with an opponent. If you win, return CARDNAME to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">泰坦复仇对目标生物或牌手造成X点伤害。 与一位对手比点。 若你赢，则将泰坦复仇移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成X点伤害。 与一位对手比点。 若你赢，则将CARDNAME移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="e5db7e33-188f-4d66-a58b-7b5c5760a773" resname="MOR·111 | Vengeful Firebrand | Card Name">
         <source>Vengeful Firebrand</source>
@@ -1214,11 +1214,11 @@
       </trans-unit>
       <trans-unit id="e5db7e33-188f-4d66-a58b-7b5c5760a773" resname="MOR·111 | Vengeful Firebrand | Card Text | Paragraph 1">
         <source>CARDNAME has haste as long as a Warrior card is in your graveyard.</source>
-        <target state="translated">只要你的坟墓场有战士牌，复仇挑动者便具有敏捷异能。</target>
+        <target state="translated">只要你的坟墓场有战士牌，CARDNAME便具有敏捷异能。</target>
       </trans-unit>
       <trans-unit id="e5db7e33-188f-4d66-a58b-7b5c5760a773" resname="MOR·111 | Vengeful Firebrand | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：复仇挑动者得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="917081e0-8a5f-4edc-b5e9-9a7302bb5c06" resname="MOR·112 | War-Spike Changeling | Card Name">
         <source>War-Spike Changeling</source>
@@ -1230,7 +1230,7 @@
       </trans-unit>
       <trans-unit id="917081e0-8a5f-4edc-b5e9-9a7302bb5c06" resname="MOR·112 | War-Spike Changeling | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gains first strike until end of turn.</source>
-        <target state="translated">{R}：战刺化形获得先攻异能直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="904d3416-70bf-4043-8078-f5f033ecfb31" resname="MOR·113 | Ambassador Oak | Card Name">
         <source>Ambassador Oak</source>
@@ -1239,7 +1239,7 @@
       </trans-unit>
       <trans-unit id="904d3416-70bf-4043-8078-f5f033ecfb31" resname="MOR·113 | Ambassador Oak | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 green Elf Warrior creature token.</source>
-        <target state="translated">当橡树大使进战场时，派出一个1/1绿色妖精／战士衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1绿色妖精／战士衍生生物。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="203f41a7-ecf5-4757-9162-01ffd2a42ee9" resname="MOR·114 | Bosk Banneret | Card Name">
@@ -1279,7 +1279,7 @@
       </trans-unit>
       <trans-unit id="5459f1e6-7019-427d-9e2d-e494b3cd52d2" resname="MOR·116 | Chameleon Colossus | Card Text | Paragraph 3">
         <source>{2}{G}{G}: CARDNAME gets +X/+X until end of turn, where X is its power.</source>
-        <target state="translated">{2}{G}{G}：善变巨像得+X/+X直到回合结束，X为其力量。</target>
+        <target state="translated">{2}{G}{G}：CARDNAME得+X/+X直到回合结束，X为其力量。</target>
         <note xmlns:from="developer">中文数据来自AFC（2021-07-23）；</note>
       </trans-unit>
       <trans-unit id="030b0a9d-d0cf-4f3a-97b3-3e1d59226ee6" resname="MOR·117 | Cream of the Crop | Card Name">
@@ -1325,12 +1325,12 @@
       </trans-unit>
       <trans-unit id="ad8055f1-cf3a-4db4-844e-b10bbbb25255" resname="MOR·122 | Fertilid | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with two +1/+1 counters on it.</source>
-        <target state="translated">沃壤灵进战场时上面有两个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有两个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="ad8055f1-cf3a-4db4-844e-b10bbbb25255" resname="MOR·122 | Fertilid | Card Text | Paragraph 2">
         <source>{1}{G}, Remove a +1/+1 counter from CARDNAME: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.</source>
-        <target state="translated">{1}{G}，从沃壤灵上移去一个+1/+1指示物：目标牌手从其牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
+        <target state="translated">{1}{G}，从CARDNAME上移去一个+1/+1指示物：目标牌手从其牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="7bc76a7f-516f-4d0b-b024-39d5c8096a9f" resname="MOR·123 | Game-Trail Changeling | Card Name">
@@ -1400,7 +1400,7 @@
       </trans-unit>
       <trans-unit id="c666dc97-8780-4982-b9e7-7d4a358f922c" resname="MOR·128 | Leaf-Crowned Elder | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, you may play that card without paying its mana cost.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与叶冠长老有共通之生物类别，你可以展示该牌。 若你如此作，则你可以使用它且不需支付其法术力费用。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 若你如此作，则你可以使用它且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="5f9903cc-350c-44cf-9c0b-5df7922ed766" resname="MOR·129 | Luminescent Rain | Card Name">
         <source>Luminescent Rain</source>
@@ -1422,7 +1422,7 @@
       </trans-unit>
       <trans-unit id="fac845bd-becd-4c58-9561-7cdf2adca058" resname="MOR·130 | Lys Alana Bowmaster | Card Text | Paragraph 2">
         <source>Whenever you cast an Elf spell, you may have CARDNAME deal 2 damage to target creature with flying.</source>
-        <target state="translated">每当你施放妖精咒语时，你可以使黎撒拉那弓队长对目标具飞行异能的生物造成2点伤害。</target>
+        <target state="translated">每当你施放妖精咒语时，你可以使CARDNAME对目标具飞行异能的生物造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="7a4e2c5c-26ad-4b13-934b-e545038b6729" resname="MOR·131 | Orchard Warden | Card Name">
@@ -1443,7 +1443,7 @@
       </trans-unit>
       <trans-unit id="74e2215c-fdc0-4135-83ef-ddf4151318ba" resname="MOR·132 | Reach of Branches | Card Text | Paragraph 2">
         <source>Whenever a Forest enters the battlefield under your control, you may return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">每当一个树林在你的操控下进场时，你可以将拓展林地从你坟墓场移回你手上。</target>
+        <target state="translated">每当一个树林在你的操控下进场时，你可以将CARDNAME从你坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="0bfe1d8e-ae3c-4144-a44b-e13ab33da95c" resname="MOR·133 | Recross the Paths | Card Name">
         <source>Recross the Paths</source>
@@ -1451,7 +1451,7 @@
       </trans-unit>
       <trans-unit id="0bfe1d8e-ae3c-4144-a44b-e13ab33da95c" resname="MOR·133 | Recross the Paths | Card Text | Paragraph 1">
         <source>Reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in any order. Clash with an opponent. If you win, return CARDNAME to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">从你牌库顶开始展示牌，直到你展示出一张地牌为止。将该牌放置进场，其余的则以任意顺序置于你的牌库底。 与一位对手比点。 若你赢，则将重渡路途移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">从你牌库顶开始展示牌，直到你展示出一张地牌为止。将该牌放置进场，其余的则以任意顺序置于你的牌库底。 与一位对手比点。 若你赢，则将CARDNAME移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="407a0ef5-a63e-4013-b3d9-b42f2c42c7a4" resname="MOR·134 | Reins of the Vinesteed | Card Name">
         <source>Reins of the Vinesteed</source>
@@ -1467,7 +1467,7 @@
       </trans-unit>
       <trans-unit id="407a0ef5-a63e-4013-b3d9-b42f2c42c7a4" resname="MOR·134 | Reins of the Vinesteed | Card Text | Paragraph 3">
         <source>When enchanted creature dies, you may return CARDNAME from your graveyard to the battlefield attached to a creature that shares a creature type with that creature.</source>
-        <target state="translated">当受此结界的生物置入坟墓场时，你可以将藤驹缰绳从坟墓场移回场上，并结附于与该生物具共通生物类别的生物上。</target>
+        <target state="translated">当受此结界的生物置入坟墓场时，你可以将CARDNAME从坟墓场移回场上，并结附于与该生物具共通生物类别的生物上。</target>
       </trans-unit>
       <trans-unit id="f26da029-9c95-4e9b-9a1b-62048c16acaf" resname="MOR·135 | Rhys the Exiled | Card Name">
         <source>Rhys the Exiled</source>
@@ -1476,12 +1476,12 @@
       </trans-unit>
       <trans-unit id="f26da029-9c95-4e9b-9a1b-62048c16acaf" resname="MOR·135 | Rhys the Exiled | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you gain 1 life for each Elf you control.</source>
-        <target state="translated">每当黜人黎兹攻击时，你每操控一个妖精，便获得1点生命。</target>
+        <target state="translated">每当CARDNAME攻击时，你每操控一个妖精，便获得1点生命。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="f26da029-9c95-4e9b-9a1b-62048c16acaf" resname="MOR·135 | Rhys the Exiled | Card Text | Paragraph 2">
         <source>{B}, Sacrifice an Elf: Regenerate CARDNAME.</source>
-        <target state="translated">{B}，牺牲一个妖精：重生黜人黎兹。</target>
+        <target state="translated">{B}，牺牲一个妖精：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="84829605-50eb-455d-a236-ebfa11e883c5" resname="MOR·136 | Scapeshift | Card Name">
@@ -1516,7 +1516,7 @@
       </trans-unit>
       <trans-unit id="e2675b8b-a321-4982-b1d9-5c55d27b9bfd" resname="MOR·138 | Walker of the Grove | Card Text | Paragraph 1">
         <source>When CARDNAME leaves the battlefield, create a 4/4 green Elemental creature token.</source>
-        <target state="translated">当历丛灵离场时，将一个4/4绿色元素衍生物放置进场。</target>
+        <target state="translated">当CARDNAME离场时，将一个4/4绿色元素衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="e2675b8b-a321-4982-b1d9-5c55d27b9bfd" resname="MOR·138 | Walker of the Grove | Card Text | Paragraph 2">
         <source>Evoke {4}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -1528,7 +1528,7 @@
       </trans-unit>
       <trans-unit id="a47bed84-5a4a-4f16-af6c-789c542ce3a7" resname="MOR·139 | Winnower Patrol | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与巡防筛除者有共通之生物类别，你可以展示该牌。 若你如此作，则在巡防筛除者上放置一个+1/+1指示物。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 若你如此作，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="804ef999-0d44-420e-ad0c-a6dcf8e9c392" resname="MOR·140 | Wolf-Skull Shaman | Card Name">
         <source>Wolf-Skull Shaman</source>
@@ -1536,7 +1536,7 @@
       </trans-unit>
       <trans-unit id="804ef999-0d44-420e-ad0c-a6dcf8e9c392" resname="MOR·140 | Wolf-Skull Shaman | Card Text | Paragraph 1">
         <source>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with CARDNAME, you may reveal it. If you do, create a 2/2 green Wolf creature token.</source>
-        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与狼颅祭师有共通之生物类别，你可以展示该牌。 若你如此作，将一个2/2绿色狼衍生物放置进场。</target>
+        <target state="translated">血族～在你的维持开始时，你可以检视你的牌库顶牌。 如果它与CARDNAME有共通之生物类别，你可以展示该牌。 若你如此作，将一个2/2绿色狼衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="38bb3e3c-1a7d-4bc4-b69d-6a8e9f1b3fe7" resname="MOR·141 | Cloak and Dagger | Card Name">
         <source>Cloak and Dagger</source>
@@ -1548,7 +1548,7 @@
       </trans-unit>
       <trans-unit id="38bb3e3c-1a7d-4bc4-b69d-6a8e9f1b3fe7" resname="MOR·141 | Cloak and Dagger | Card Text | Paragraph 2">
         <source>Whenever a Rogue creature enters the battlefield, you may attach CARDNAME to it.</source>
-        <target state="translated">每当一个浪客生物进场时，你可以将斗篷与短刀装备于其上。</target>
+        <target state="translated">每当一个浪客生物进场时，你可以将CARDNAME装备于其上。</target>
       </trans-unit>
       <trans-unit id="38bb3e3c-1a7d-4bc4-b69d-6a8e9f1b3fe7" resname="MOR·141 | Cloak and Dagger | Card Text | Paragraph 3">
         <source>Equip {3}</source>
@@ -1564,7 +1564,7 @@
       </trans-unit>
       <trans-unit id="277eed87-6b78-456d-91fb-774c72b3ae8c" resname="MOR·142 | Diviner's Wand | Card Text | Paragraph 2">
         <source>Whenever a Wizard creature enters the battlefield, you may attach CARDNAME to it.</source>
-        <target state="translated">每当一个法术师生物进场时，你可以将先知魔杖装备于其上。</target>
+        <target state="translated">每当一个法术师生物进场时，你可以将CARDNAME装备于其上。</target>
       </trans-unit>
       <trans-unit id="277eed87-6b78-456d-91fb-774c72b3ae8c" resname="MOR·142 | Diviner's Wand | Card Text | Paragraph 3">
         <source>Equip {3}</source>
@@ -1580,7 +1580,7 @@
       </trans-unit>
       <trans-unit id="c7978371-9ea8-4264-9a2f-38226ea25018" resname="MOR·144 | Obsidian Battle-Axe | Card Text | Paragraph 2">
         <source>Whenever a Warrior creature enters the battlefield, you may attach CARDNAME to it.</source>
-        <target state="translated">每当一个战士生物进场时，你可以将黑曜战斧装备于其上。</target>
+        <target state="translated">每当一个战士生物进场时，你可以将CARDNAME装备于其上。</target>
       </trans-unit>
       <trans-unit id="c7978371-9ea8-4264-9a2f-38226ea25018" resname="MOR·144 | Obsidian Battle-Axe | Card Text | Paragraph 3">
         <source>Equip {3}</source>
@@ -1596,7 +1596,7 @@
       </trans-unit>
       <trans-unit id="c1ab3225-64a9-411e-b22b-1869e958b8e5" resname="MOR·145 | Thornbite Staff | Card Text | Paragraph 2">
         <source>Whenever a Shaman creature enters the battlefield, you may attach CARDNAME to it.</source>
-        <target state="translated">每当一个祭师生物进场时，你可以将棘刺法杖装备于其上。</target>
+        <target state="translated">每当一个祭师生物进场时，你可以将CARDNAME装备于其上。</target>
       </trans-unit>
       <trans-unit id="c1ab3225-64a9-411e-b22b-1869e958b8e5" resname="MOR·145 | Thornbite Staff | Card Text | Paragraph 3">
         <source>Equip {4}</source>
@@ -1612,7 +1612,7 @@
       </trans-unit>
       <trans-unit id="a6d0beb9-3381-423f-b54e-5490b892630a" resname="MOR·146 | Veteran's Armaments | Card Text | Paragraph 2">
         <source>Whenever a Soldier creature enters the battlefield, you may attach CARDNAME to it.</source>
-        <target state="translated">每当一个士兵生物进场时，你可以将老兵战具装备于其上。</target>
+        <target state="translated">每当一个士兵生物进场时，你可以将CARDNAME装备于其上。</target>
       </trans-unit>
       <trans-unit id="a6d0beb9-3381-423f-b54e-5490b892630a" resname="MOR·146 | Veteran's Armaments | Card Text | Paragraph 3">
         <source>Equip {2}</source>
@@ -1630,12 +1630,12 @@
       </trans-unit>
       <trans-unit id="7d4f8cc7-3d02-4cf2-920f-2cc32b58f397" resname="MOR·147 | Murmuring Bosk | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于细语树丛进战场时，你可以从你手上展示一张树妖牌。如果你未如此作，则细语树丛须横置进战场。</target>
+        <target state="translated">于CARDNAME进战场时，你可以从你手上展示一张树妖牌。如果你未如此作，则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="7d4f8cc7-3d02-4cf2-920f-2cc32b58f397" resname="MOR·147 | Murmuring Bosk | Card Text | Paragraph 3">
         <source>{T}: Add {W} or {B}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{W}或{B}。细语树丛对你造成1点伤害。</target>
+        <target state="translated">{T}：加{W}或{B}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="8ca3c48b-f104-4292-9a4e-2ce87a65893c" resname="MOR·148 | Mutavault | Card Name">
@@ -1650,7 +1650,7 @@
       </trans-unit>
       <trans-unit id="8ca3c48b-f104-4292-9a4e-2ce87a65893c" resname="MOR·148 | Mutavault | Card Text | Paragraph 2">
         <source>{1}: CARDNAME becomes a 2/2 creature with all creature types until end of turn. It's still a land.</source>
-        <target state="translated">{1}：直到回合结束，易形地窖成为2/2生物并具有所有生物类别。它仍然是地。</target>
+        <target state="translated">{1}：直到回合结束，CARDNAME成为2/2生物并具有所有生物类别。它仍然是地。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="b4c28c1d-0ebf-4e95-8d0a-56be10cc0ef2" resname="MOR·149 | Primal Beyond | Card Name">
@@ -1659,7 +1659,7 @@
       </trans-unit>
       <trans-unit id="b4c28c1d-0ebf-4e95-8d0a-56be10cc0ef2" resname="MOR·149 | Primal Beyond | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal an Elemental card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于原初远境进场时，你可以展示你手上一张元素牌。 若你未如此作，则原初远境须横置进场。</target>
+        <target state="translated">于CARDNAME进场时，你可以展示你手上一张元素牌。 若你未如此作，则CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="b4c28c1d-0ebf-4e95-8d0a-56be10cc0ef2" resname="MOR·149 | Primal Beyond | Card Text | Paragraph 2">
         <source>{T}: Add {C}.</source>
@@ -1675,7 +1675,7 @@
       </trans-unit>
       <trans-unit id="19bc170c-4a84-4c07-b481-b50b82f62f44" resname="MOR·150 | Rustic Clachan | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal a Kithkin card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于锈色小村进场时，你可以从你手上展示一张洁英牌。 若你未如此作，则锈色小村须横置进场。</target>
+        <target state="translated">于CARDNAME进场时，你可以从你手上展示一张洁英牌。 若你未如此作，则CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="19bc170c-4a84-4c07-b481-b50b82f62f44" resname="MOR·150 | Rustic Clachan | Card Text | Paragraph 2">
         <source>{T}: Add {W}.</source>
@@ -1692,7 +1692,7 @@
       </trans-unit>
       <trans-unit id="d4ab817e-11d4-4444-b9e1-322624501619" resname="PMOR·143★ | Door of Destinies | Card Text | Paragraphs">
         <source>As CARDNAME enters the battlefield, choose a creature type.\nWhenever you cast a spell of the chosen type, put a charge counter on CARDNAME.\nCreatures you control of the chosen type get +1/+1 for each charge counter on CARDNAME.</source>
-        <target state="translated">于命运之门进战场时，选择一种生物类别。每当你施放该类别的咒语时，在命运之门上放置一个充电指示物。命运之门上每有一个充电指示物，由你操控的该类别生物便得+1/+1。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。每当你施放该类别的咒语时，在CARDNAME上放置一个充电指示物。CARDNAME上每有一个充电指示物，由你操控的该类别生物便得+1/+1。</target>
         <note xmlns:from="developer">中文数据来自M14（2013-07-19）；</note>
       </trans-unit>
     </body>

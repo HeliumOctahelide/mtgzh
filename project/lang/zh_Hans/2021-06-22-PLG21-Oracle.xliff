@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="2c0edd02-181e-4077-9829-1c1ed5035eeb" resname="PLG21·J1 | Orb of Dragonkind | Card Text | Paragraph 2">
         <source>{R}, {T}, Sacrifice CARDNAME: Look at the top seven cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">{R}，{T}，牺牲龙珠：检视你牌库顶的七张牌。你可以展示其中的一张龙牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
+        <target state="translated">{R}，{T}，牺牲CARDNAME：检视你牌库顶的七张牌。你可以展示其中的一张龙牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
         <note xmlns:from="developer">中文数据来自AFR（2021-07-23）；</note>
       </trans-unit>
     </body>

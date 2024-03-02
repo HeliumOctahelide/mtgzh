@@ -44,12 +44,12 @@
       </trans-unit>
       <trans-unit id="f04b8356-2384-4743-80dd-f15ca7ec65f7" resname="FEM·8a | Icatian Javelineers | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a javelin counter on it.</source>
-        <target state="translated">艾凯逊掷枪手进战场时上面有一个标枪指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有一个标枪指示物。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="f04b8356-2384-4743-80dd-f15ca7ec65f7" resname="FEM·8a | Icatian Javelineers | Card Text | Paragraph 2">
         <source>{T}, Remove a javelin counter from CARDNAME: It deals 1 damage to any target.</source>
-        <target state="translated">{T}，从艾凯逊掷枪手上移去一个标枪指示物：它对任意一个目标造成1点伤害。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个标枪指示物：它对任意一个目标造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="39fec59a-4ade-4c6f-ae7d-911fbe6da26d" resname="FEM·9 | Icatian Lieutenant | Card Name">
@@ -149,7 +149,7 @@
       </trans-unit>
       <trans-unit id="627ca588-917f-4768-a69d-3d93c1210390" resname="FEM·22a | Homarid Warrior | Card Text | Paragraphs">
         <source>{U}: CARDNAME gains shroud until end of turn and doesn't untap during your next untap step. Tap CARDNAME. (A creature with shroud can't be the target of spells or abilities.)</source>
-        <target state="translated">oU：荷马利族勇士不可成为咒语或效应的目标直到回合结束，且不可在你的下一个重置阶段中重置。\n横置荷马利族勇士。</target>
+        <target state="translated">oU：CARDNAME不可成为咒语或效应的目标直到回合结束，且不可在你的下一个重置阶段中重置。\n横置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="b1e96895-ef1d-44fa-b263-bce833fc3109" resname="FEM·23a | Merseine | Card Name">
@@ -169,17 +169,17 @@
       </trans-unit>
       <trans-unit id="c5266aa1-e2ea-46b9-91ab-b94a7bb7e9f9" resname="FEM·25 | Seasinger | Card Text | Paragraph 1">
         <source>When you control no Islands, sacrifice CARDNAME.</source>
-        <target state="translated">若你未操控任何海岛，则埋葬海之歌女。</target>
+        <target state="translated">若你未操控任何海岛，则埋葬CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="c5266aa1-e2ea-46b9-91ab-b94a7bb7e9f9" resname="FEM·25 | Seasinger | Card Text | Paragraph 2">
         <source>You may choose not to untap CARDNAME during your untap step.</source>
-        <target state="translated">你可选择在重置阶段中不重置海之歌女。</target>
+        <target state="translated">你可选择在重置阶段中不重置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="c5266aa1-e2ea-46b9-91ab-b94a7bb7e9f9" resname="FEM·25 | Seasinger | Card Text | Paragraph 3">
         <source>{T}: Gain control of target creature whose controller controls an Island for as long as you control CARDNAME and CARDNAME remains tapped.</source>
-        <target state="translated">ocT：只要你操控海之歌女，且海之歌女持续被横置，你便获得目标其操控者拥有海岛之生物的操控权。</target>
+        <target state="translated">ocT：只要你操控CARDNAME，且CARDNAME持续被横置，你便获得目标其操控者拥有海岛之生物的操控权。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="316d25ae-7ac6-4f5b-93ab-0e0e28ec104b" resname="FEM·26 | Svyelunite Priest | Card Name">
@@ -234,7 +234,7 @@
       </trans-unit>
       <trans-unit id="a0d7e85f-eba5-4fc5-9fc0-109109d368aa" resname="FEM·35 | Breeding Pit | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {B}{B}.</source>
-        <target state="translated">在你的维持阶段支付oBoB，否则埋葬滋生之坑。</target>
+        <target state="translated">在你的维持阶段支付oBoB，否则埋葬CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="a0d7e85f-eba5-4fc5-9fc0-109109d368aa" resname="FEM·35 | Breeding Pit | Card Text | Paragraph 2">
@@ -274,7 +274,7 @@
       </trans-unit>
       <trans-unit id="5be87527-3b8f-4529-afdb-a61ad4e787e1" resname="FEM·39a | Initiates of the Ebon Hand | Card Text | Paragraph 1">
         <source>{1}: Add {B}. If this ability has been activated four or more times this turn, sacrifice CARDNAME at the beginning of the next end step.</source>
-        <target state="translated">o1：加oB到你的法术力池中。如果一回合中在此异能上的消费大于或等于o4，则在回合结束时埋葬黑檀手的信众。</target>
+        <target state="translated">o1：加oB到你的法术力池中。如果一回合中在此异能上的消费大于或等于o4，则在回合结束时埋葬CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="499a791f-ac4f-4a96-b59b-37043686a79a" resname="FEM·40a | Mindstab Thrull | Card Name">
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id="499a791f-ac4f-4a96-b59b-37043686a79a" resname="FEM·40a | Mindstab Thrull | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.</source>
-        <target state="translated">牺牲灵杀索尔兽：防御玩家选择弃掉三张牌。你只能在灵杀索尔兽进行攻击且未被阻挡时使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：防御玩家选择弃掉三张牌。你只能在CARDNAME进行攻击且未被阻挡时使用此异能。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="311d752a-ce8a-44cb-8aeb-1ed66705eb09" resname="FEM·41a | Necrite | Card Name">
@@ -294,7 +294,7 @@
       </trans-unit>
       <trans-unit id="311d752a-ce8a-44cb-8aeb-1ed66705eb09" resname="FEM·41a | Necrite | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.</source>
-        <target state="translated">牺牲尼克里特：埋葬目标由防御玩家所操控的生物。你只能在尼克里特进行攻击且未被阻挡时使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：埋葬目标由防御玩家所操控的生物。你只能在CARDNAME进行攻击且未被阻挡时使用此异能。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="9e51f5d8-a7cc-4720-8af5-e002bcfd78a0" resname="FEM·42a | Order of the Ebon Hand | Card Name">
@@ -319,7 +319,7 @@
       </trans-unit>
       <trans-unit id="d800512b-1492-41d2-931d-57c625044454" resname="FEM·45 | Thrull Retainer | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature gets +1/+1.\nSacrifice CARDNAME: Regenerate enchanted creature.</source>
-        <target state="translated">受此结界的生物得到+1/+1。\n牺牲索尔兽侍从：重生受此结界的生物。</target>
+        <target state="translated">受此结界的生物得到+1/+1。\n牺牲CARDNAME：重生受此结界的生物。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="c4e732fb-cbef-4fd8-b704-e4d513a6cf2d" resname="FEM·46 | Thrull Wizard | Card Name">
@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="fc0cb8f6-6ba7-402c-9829-251f7443e871" resname="FEM·49a | Brassclaw Orcs | Card Text | Paragraph 1">
         <source>CARDNAME can't block creatures with power 2 or greater.</source>
-        <target state="translated">铜爪半兽人不可用来阻挡任何力量大于或等于2的生物。</target>
+        <target state="translated">CARDNAME不可用来阻挡任何力量大于或等于2的生物。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="1d50bf06-97ab-4874-a484-9289f41dc98e" resname="FEM·50 | Dwarven Armorer | Card Name">
@@ -359,7 +359,7 @@
       </trans-unit>
       <trans-unit id="8c1c6932-638a-4df7-bf9b-8d921f7484d9" resname="FEM·51 | Dwarven Catapult | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage divided evenly, rounded down, among all creatures target opponent controls.</source>
-        <target state="translated">矮人投石器造成X点伤害，平均分配到目标玩家操控的所有生物上，小数点以下舍去。</target>
+        <target state="translated">CARDNAME造成X点伤害，平均分配到目标玩家操控的所有生物上，小数点以下舍去。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="ea9a38b1-4676-425a-b40d-4fb478966024" resname="FEM·52 | Dwarven Lieutenant | Card Name">
@@ -374,7 +374,7 @@
       </trans-unit>
       <trans-unit id="6fe77608-0b33-43f5-83fb-ae993ca1bf7c" resname="FEM·53a | Dwarven Soldier | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked by one or more Orcs, CARDNAME gets +0/+2 until end of turn.</source>
-        <target state="translated">若矮人士兵阻挡任何半兽人或被任何半兽人阻挡，则牠得到+0/+2直到回合结束。</target>
+        <target state="translated">若CARDNAME阻挡任何半兽人或被任何半兽人阻挡，则牠得到+0/+2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="2b710c21-e9f5-4660-80f6-2104ec65f63f" resname="FEM·54a | Goblin Chirurgeon | Card Name">
@@ -399,7 +399,7 @@
       </trans-unit>
       <trans-unit id="8837eaba-9602-4f63-9897-85583fcdcf51" resname="FEM·56a | Goblin Grenade | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage to any target.</source>
-        <target state="translated">鬼怪手榴弹对任意一个目标造成5点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成5点伤害。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="a0a27ac3-2273-469a-92ba-3f4a3d55de6f" resname="FEM·57 | Goblin Kites | Card Name">
@@ -464,12 +464,12 @@
       </trans-unit>
       <trans-unit id="5af19ab0-4bd0-4d5f-8d2e-507e4fe87c18" resname="FEM·63 | Orgg | Card Text | Paragraph 2">
         <source>CARDNAME can't attack if defending player controls an untapped creature with power 3 or greater.</source>
-        <target state="translated">如果防御牌手操控了力量大于或等于3的未横置生物，则欧格不能攻击。</target>
+        <target state="translated">如果防御牌手操控了力量大于或等于3的未横置生物，则CARDNAME不能攻击。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="5af19ab0-4bd0-4d5f-8d2e-507e4fe87c18" resname="FEM·63 | Orgg | Card Text | Paragraph 3">
         <source>CARDNAME can't block creatures with power 3 or greater.</source>
-        <target state="translated">欧格不能阻挡力量大于或等于3的生物。</target>
+        <target state="translated">CARDNAME不能阻挡力量大于或等于3的生物。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="907a3396-706b-4ca2-9973-bca758986032" resname="FEM·64 | Raiding Party | Card Name">
@@ -529,12 +529,12 @@
       </trans-unit>
       <trans-unit id="4caaf31b-86a9-485b-8da7-d5b526ed1233" resname="FEM·74a | Thallid | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a spore counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在散绿菌上放置一个芽孢指示物。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个芽孢指示物。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="4caaf31b-86a9-485b-8da7-d5b526ed1233" resname="FEM·74a | Thallid | Card Text | Paragraph 2">
         <source>Remove three spore counters from CARDNAME: Create a 1/1 green Saproling creature token.</source>
-        <target state="translated">从散绿菌上移去三个芽孢指示物：将一个1/1绿色腐生物衍生物放置进场。</target>
+        <target state="translated">从CARDNAME上移去三个芽孢指示物：将一个1/1绿色腐生物衍生物放置进场。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="aa533845-4c4b-4072-aa39-8e56ce7ec325" resname="FEM·75 | Thallid Devourer | Card Name">
@@ -629,7 +629,7 @@
       </trans-unit>
       <trans-unit id="639ae988-d1d1-4ead-b0f8-47fc39eb64a0" resname="FEM·92 | Bottomless Vault | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\nYou may choose not to untap CARDNAME during your untap step.\nAt the beginning of your upkeep, if CARDNAME is tapped, put a storage counter on it.\n{T}, Remove any number of storage counters from CARDNAME: Add {B} for each storage counter removed this way.</source>
-        <target state="translated">无底地窖须横置进场。\n在你的重置阶段中，你可以选择不重置无底地窖而在上面放一个储藏指示物。\nocT，从无底地窖上移出X个储藏指示物：加X点的oB到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\n在你的重置阶段中，你可以选择不重置CARDNAME而在上面放一个储藏指示物。\nocT，从CARDNAME上移出X个储藏指示物：加X点的oB到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="a3142ded-ff62-4817-aa54-75a7ea4498a6" resname="FEM·93 | Dwarven Hold | Card Name">
@@ -639,7 +639,7 @@
       </trans-unit>
       <trans-unit id="a3142ded-ff62-4817-aa54-75a7ea4498a6" resname="FEM·93 | Dwarven Hold | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\nYou may choose not to untap CARDNAME during your untap step.\nAt the beginning of your upkeep, if CARDNAME is tapped, put a storage counter on it.\n{T}, Remove any number of storage counters from CARDNAME: Add {R} for each storage counter removed this way.</source>
-        <target state="translated">矮人储藏仓须横置进场。\n在你的重置阶段中，你可以选择不重置矮人储藏仓而在上面放一个储藏指示物。\nocT，从矮人储藏仓上移出X个储藏指示物：加X点的oR到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\n在你的重置阶段中，你可以选择不重置CARDNAME而在上面放一个储藏指示物。\nocT，从CARDNAME上移出X个储藏指示物：加X点的oR到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="0dfe1352-27be-4c99-a58f-b961f911f270" resname="FEM·94 | Dwarven Ruins | Card Name">
@@ -649,7 +649,7 @@
       </trans-unit>
       <trans-unit id="0dfe1352-27be-4c99-a58f-b961f911f270" resname="FEM·94 | Dwarven Ruins | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">矮人遗迹须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="0dfe1352-27be-4c99-a58f-b961f911f270" resname="FEM·94 | Dwarven Ruins | Card Text | Paragraph 2">
@@ -659,7 +659,7 @@
       </trans-unit>
       <trans-unit id="0dfe1352-27be-4c99-a58f-b961f911f270" resname="FEM·94 | Dwarven Ruins | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add {R}{R}.</source>
-        <target state="translated">ocT，牺牲矮人遗迹：加oRoR到你的法术力池中。</target>
+        <target state="translated">ocT，牺牲CARDNAME：加oRoR到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="3fb2a11f-a8e4-4acf-871a-11171e3304ef" resname="FEM·95 | Ebon Stronghold | Card Name">
@@ -669,7 +669,7 @@
       </trans-unit>
       <trans-unit id="3fb2a11f-a8e4-4acf-871a-11171e3304ef" resname="FEM·95 | Ebon Stronghold | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">黑檀堡垒须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="3fb2a11f-a8e4-4acf-871a-11171e3304ef" resname="FEM·95 | Ebon Stronghold | Card Text | Paragraph 2">
@@ -679,7 +679,7 @@
       </trans-unit>
       <trans-unit id="3fb2a11f-a8e4-4acf-871a-11171e3304ef" resname="FEM·95 | Ebon Stronghold | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add {B}{B}.</source>
-        <target state="translated">ocT，牺牲黑檀堡垒：加oBoB到你的法术力池中。</target>
+        <target state="translated">ocT，牺牲CARDNAME：加oBoB到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="9028f200-80dd-4c53-877f-ea380ff417cb" resname="FEM·96 | Havenwood Battleground | Card Name">
@@ -689,7 +689,7 @@
       </trans-unit>
       <trans-unit id="9028f200-80dd-4c53-877f-ea380ff417cb" resname="FEM·96 | Havenwood Battleground | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">海温森战场须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="9028f200-80dd-4c53-877f-ea380ff417cb" resname="FEM·96 | Havenwood Battleground | Card Text | Paragraph 2">
@@ -699,7 +699,7 @@
       </trans-unit>
       <trans-unit id="9028f200-80dd-4c53-877f-ea380ff417cb" resname="FEM·96 | Havenwood Battleground | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add {G}{G}.</source>
-        <target state="translated">{T}，牺牲海温森战场：加{G}{G}到你的法术力池中。</target>
+        <target state="translated">{T}，牺牲CARDNAME：加{G}{G}到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="90845410-e09a-4753-ad4c-bf2b2f3c95ac" resname="FEM·97 | Hollow Trees | Card Name">
@@ -709,7 +709,7 @@
       </trans-unit>
       <trans-unit id="90845410-e09a-4753-ad4c-bf2b2f3c95ac" resname="FEM·97 | Hollow Trees | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\nYou may choose not to untap CARDNAME during your untap step.\nAt the beginning of your upkeep, if CARDNAME is tapped, put a storage counter on it.\n{T}, Remove any number of storage counters from CARDNAME: Add {G} for each storage counter removed this way.</source>
-        <target state="translated">空心木林场须横置进场。\n在你的重置阶段中，你可以选择不重置空心木林场而在上面放一个储藏指示物。\nocT，从空心木林场上移出X个储藏指示物：加X点的oG到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\n在你的重置阶段中，你可以选择不重置CARDNAME而在上面放一个储藏指示物。\nocT，从CARDNAME上移出X个储藏指示物：加X点的oG到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="d7cd8d8c-52c7-402f-92e1-5e5866f2555a" resname="FEM·98 | Icatian Store | Card Name">
@@ -719,7 +719,7 @@
       </trans-unit>
       <trans-unit id="d7cd8d8c-52c7-402f-92e1-5e5866f2555a" resname="FEM·98 | Icatian Store | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\nYou may choose not to untap CARDNAME during your untap step.\nAt the beginning of your upkeep, if CARDNAME is tapped, put a storage counter on it.\n{T}, Remove any number of storage counters from CARDNAME: Add {W} for each storage counter removed this way.</source>
-        <target state="translated">艾凯逊的储仓须横置进场。\n在你的重置阶段中，你可以选择不重置艾凯逊的储仓而在上面放一个储藏指示物。\nocT，从艾凯逊的储仓上移出X个储藏指示物：加X点的oW到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\n在你的重置阶段中，你可以选择不重置CARDNAME而在上面放一个储藏指示物。\nocT，从CARDNAME上移出X个储藏指示物：加X点的oW到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="c1b138e1-f8fc-435c-9aed-98004768479c" resname="FEM·99 | Rainbow Vale | Card Name">
@@ -734,7 +734,7 @@
       </trans-unit>
       <trans-unit id="4ce2e734-8cff-4bfe-85f8-17b3e1903f18" resname="FEM·100 | Ruins of Trokair | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">卓耶卡的遗迹须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="4ce2e734-8cff-4bfe-85f8-17b3e1903f18" resname="FEM·100 | Ruins of Trokair | Card Text | Paragraph 2">
@@ -744,7 +744,7 @@
       </trans-unit>
       <trans-unit id="4ce2e734-8cff-4bfe-85f8-17b3e1903f18" resname="FEM·100 | Ruins of Trokair | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add {W}{W}.</source>
-        <target state="translated">ocT，牺牲卓耶卡的遗迹：加oWoW到你的法术力池中。</target>
+        <target state="translated">ocT，牺牲CARDNAME：加oWoW到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="3f6f1fcb-d903-4a31-abab-40488569eef6" resname="FEM·101 | Sand Silos | Card Name">
@@ -754,7 +754,7 @@
       </trans-unit>
       <trans-unit id="3f6f1fcb-d903-4a31-abab-40488569eef6" resname="FEM·101 | Sand Silos | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\nYou may choose not to untap CARDNAME during your untap step.\nAt the beginning of your upkeep, if CARDNAME is tapped, put a storage counter on it.\n{T}, Remove any number of storage counters from CARDNAME: Add {U} for each storage counter removed this way.</source>
-        <target state="translated">沙窖须横置进场。\n在你的重置阶段中，你可以选择不重置沙窖而在上面放一个储藏指示物。\nocT，从沙窖上移出X个储藏指示物：加X点的oU到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\n在你的重置阶段中，你可以选择不重置CARDNAME而在上面放一个储藏指示物。\nocT，从CARDNAME上移出X个储藏指示物：加X点的oU到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="8b3fde62-ab21-459b-9c5d-01aa6fe1d08e" resname="FEM·102 | Svyelunite Temple | Card Name">
@@ -764,7 +764,7 @@
       </trans-unit>
       <trans-unit id="8b3fde62-ab21-459b-9c5d-01aa6fe1d08e" resname="FEM·102 | Svyelunite Temple | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">希亚尔军的神殿须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="8b3fde62-ab21-459b-9c5d-01aa6fe1d08e" resname="FEM·102 | Svyelunite Temple | Card Text | Paragraph 2">
@@ -774,7 +774,7 @@
       </trans-unit>
       <trans-unit id="8b3fde62-ab21-459b-9c5d-01aa6fe1d08e" resname="FEM·102 | Svyelunite Temple | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add {U}{U}.</source>
-        <target state="translated">ocT，牺牲希亚尔军的神殿：加oUoU到你的法术力池中。</target>
+        <target state="translated">ocT，牺牲CARDNAME：加oUoU到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
     </body>

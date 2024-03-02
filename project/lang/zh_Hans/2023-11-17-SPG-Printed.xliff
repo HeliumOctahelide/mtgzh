@@ -32,11 +32,11 @@
       </trans-unit>
       <trans-unit id="5feaed81-008e-4ec1-852d-907c0897dff6" resname="SPG·3 | Bridge from Below | Card Text | Paragraph 1">
         <source>Whenever a nontoken creature is put into your graveyard from the battlefield, if CARDNAME is in your graveyard, create a 2/2 black Zombie creature token.</source>
-        <target state="translated">每当一个非衍生物的生物从战场进入你的坟墓场时，若阴界渡桥在你的坟墓场中，则派出一个2/2黑色灵俑衍生生物。</target>
+        <target state="translated">每当一个非衍生物的生物从战场进入你的坟墓场时，若CARDNAME在你的坟墓场中，则派出一个2/2黑色灵俑衍生生物。</target>
       </trans-unit>
       <trans-unit id="5feaed81-008e-4ec1-852d-907c0897dff6" resname="SPG·3 | Bridge from Below | Card Text | Paragraph 2">
         <source>When a creature is put into an opponent's graveyard from the battlefield, if CARDNAME is in your graveyard, exile CARDNAME.</source>
-        <target state="translated">当一个生物从战场进入对手的坟墓场时，若阴界渡桥在你的坟墓场中，则放逐阴界渡桥。</target>
+        <target state="translated">当一个生物从战场进入对手的坟墓场时，若CARDNAME在你的坟墓场中，则放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="23206788-1d7f-430b-9c0a-35bfff824176" resname="SPG·4 | Mephidross Vampire | Card Name">
         <source>Mephidross Vampire</source>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="3850d00e-cef7-494e-89cd-b5d2d8367fcc" resname="SPG·8 | Rampaging Ferocidon | Card Text | Paragraph 3">
         <source>Whenever another creature enters the battlefield, CARDNAME deals 1 damage to that creature's controller.</source>
-        <target state="translated">每当另一个生物进战场时，莽闯暴猛龙对该生物的操控者造成1点伤害。</target>
+        <target state="translated">每当另一个生物进战场时，CARDNAME对该生物的操控者造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="2f2374a2-21d6-4643-8602-684342d0dbfc" resname="SPG·9 | Underworld Breach | Card Name">
         <source>Underworld Breach</source>
@@ -116,7 +116,7 @@
       </trans-unit>
       <trans-unit id="2f2374a2-21d6-4643-8602-684342d0dbfc" resname="SPG·9 | Underworld Breach | Card Text | Paragraph 2">
         <source>At the beginning of the end step, sacrifice CARDNAME.</source>
-        <target state="translated">在结束步骤开始时，牺牲冥界裂隙。</target>
+        <target state="translated">在结束步骤开始时，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f5f20dd5-ff5f-4530-9a69-d6a3eab467f7" resname="SPG·10 | Carnage Tyrant | Card Name">
         <source>Carnage Tyrant</source>
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="8cb105d6-6bc1-4b8b-8797-8acc6af41be9" resname="SPG·12 | Polyraptor | Card Text | Paragraph 1">
         <source>Enrage — Whenever CARDNAME is dealt damage, create a token that's a copy of CARDNAME.</source>
-        <target state="translated">激怒～每当多态迅猛龙受到伤害时，派出一个衍生物，此衍生物为多态迅猛龙的复制品。</target>
+        <target state="translated">激怒～每当CARDNAME受到伤害时，派出一个衍生物，此衍生物为CARDNAME的复制品。</target>
       </trans-unit>
       <trans-unit id="7ce0935c-03f7-4f8d-9141-ef612438414f" resname="SPG·13 | Kalamax, the Stormsire | Card Name">
         <source>Kalamax, the Stormsire</source>
@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="7ce0935c-03f7-4f8d-9141-ef612438414f" resname="SPG·13 | Kalamax, the Stormsire | Card Text | Paragraph 1">
         <source>Whenever you cast your first instant spell each turn, if CARDNAME is tapped, copy that spell. You may choose new targets for the copy.</source>
-        <target state="translated">每当你施放每回合中你的第一个瞬间咒语时，若唤风君龙卡勒麦已横置，则复制该咒语。你可以为该复制品选择新的目标。</target>
+        <target state="translated">每当你施放每回合中你的第一个瞬间咒语时，若CARDNAME已横置，则复制该咒语。你可以为该复制品选择新的目标。</target>
       </trans-unit>
       <trans-unit id="7ce0935c-03f7-4f8d-9141-ef612438414f" resname="SPG·13 | Kalamax, the Stormsire | Card Text | Paragraph 2">
         <source>Whenever you copy an instant spell, put a +1/+1 counter on Kalamax.</source>
@@ -180,7 +180,7 @@
       </trans-unit>
       <trans-unit id="a135d779-d223-4274-8d7f-d7b12842d93b" resname="SPG·14 | Lord Windgrace | Card Text | Paragraph 4">
         <source>CARDNAME can be your commander.</source>
-        <target state="translated">风华领主可用作指挥官。</target>
+        <target state="translated">CARDNAME可用作指挥官。</target>
       </trans-unit>
       <trans-unit id="95890c4e-c661-4aae-8463-d1377d9cbcaf" resname="SPG·15 | Mirri, Weatherlight Duelist | Card Name">
         <source>Mirri, Weatherlight Duelist</source>
@@ -192,11 +192,11 @@
       </trans-unit>
       <trans-unit id="95890c4e-c661-4aae-8463-d1377d9cbcaf" resname="SPG·15 | Mirri, Weatherlight Duelist | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, each opponent can't block with more than one creature this combat.</source>
-        <target state="translated">每当晴空号斗士米丽攻击时，本次战斗中每位对手均不能以多于一个生物进行阻挡。</target>
+        <target state="translated">每当CARDNAME攻击时，本次战斗中每位对手均不能以多于一个生物进行阻挡。</target>
       </trans-unit>
       <trans-unit id="95890c4e-c661-4aae-8463-d1377d9cbcaf" resname="SPG·15 | Mirri, Weatherlight Duelist | Card Text | Paragraph 3">
         <source>As long as CARDNAME is tapped, no more than one creature can attack you each combat.</source>
-        <target state="translated">只要晴空号斗士米丽已横置，每次战斗攻击你的生物便不能多于一个。</target>
+        <target state="translated">只要CARDNAME已横置，每次战斗攻击你的生物便不能多于一个。</target>
       </trans-unit>
       <trans-unit id="78b14ae1-fc8b-43df-b6a2-e9f8edc0b8dd" resname="SPG·16 | Thrasios, Triton Hero | Card Name">
         <source>Thrasios, Triton Hero</source>
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="ecb293d5-b13b-400f-ac7b-162a1e127ec7" resname="SPG·17 | Mana Crypt | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, flip a coin. If you lose the flip, CARDNAME deals 3 damage to you.</source>
-        <target state="translated">在你的维持开始时，掷一枚硬币。若你输掉此掷，则魔法力墓穴对你造成3点伤害。</target>
+        <target state="translated">在你的维持开始时，掷一枚硬币。若你输掉此掷，则CARDNAME对你造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="ecb293d5-b13b-400f-ac7b-162a1e127ec7" resname="SPG·17 | Mana Crypt | Card Text | Paragraph 2">
         <source>{T}: Add {C}{C}.</source>
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="44a1104b-ceec-4d5e-9945-946fe2bff7cc" resname="SPG·18 | Star Compass | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">繁星罗盘须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="44a1104b-ceec-4d5e-9945-946fe2bff7cc" resname="SPG·18 | Star Compass | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color that a basic land you control could produce.</source>
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="b3364018-aeba-4f58-8233-b0026c488dd0" resname="SPG·26 | Tireless Tracker | Card Text | Paragraph 2">
         <source>Whenever you sacrifice a Clue, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你牺牲一个线索时，在不倦追迹人上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你牺牲一个线索时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="03c8654e-900a-4720-a4a1-1107d6271c70" resname="SPG·27 | Drown in the Loch | Card Name">
         <source>Drown in the Loch</source>
@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit id="2cf97898-1e05-4c0e-896f-ba6713bf6a7b" resname="SPG·28 | Field of the Dead | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">亡者旷野须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="2cf97898-1e05-4c0e-896f-ba6713bf6a7b" resname="SPG·28 | Field of the Dead | Card Text | Paragraph 2">
         <source>{T}: Add {C}.</source>
@@ -340,7 +340,7 @@
       </trans-unit>
       <trans-unit id="2cf97898-1e05-4c0e-896f-ba6713bf6a7b" resname="SPG·28 | Field of the Dead | Card Text | Paragraph 3">
         <source>Whenever CARDNAME or another land enters the battlefield under your control, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.</source>
-        <target state="translated">每当亡者旷野或另一个地在你的操控下进战场时，若你操控七个或更多名称各不相同的地，则派出一个2/2黑色灵俑衍生生物。</target>
+        <target state="translated">每当CARDNAME或另一个地在你的操控下进战场时，若你操控七个或更多名称各不相同的地，则派出一个2/2黑色灵俑衍生生物。</target>
       </trans-unit>
     </body>
   </file>

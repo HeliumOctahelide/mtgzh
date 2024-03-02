@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="2f7afcaa-9df8-4dd6-89ad-bc2e15f1ec4b" resname="VIS·2 | Daraja Griffin | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Destroy target black creature.</source>
-        <target state="translated">牺牲达拉杰狮鹫：消灭目标黑色生物。</target>
+        <target state="translated">牺牲CARDNAME：消灭目标黑色生物。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="53783312-3551-4361-ab02-c9651ce2a926" resname="VIS·3 | Equipoise | Card Name">
@@ -41,7 +41,7 @@
       </trans-unit>
       <trans-unit id="fa84e4ad-738a-4d23-a84c-06c39ff4200b" resname="VIS·4 | Eye of Singularity | Card Text | Paragraphs">
         <source>When CARDNAME enters the battlefield, destroy each permanent with the same name as another permanent, except for basic lands. They can't be regenerated.\nWhenever a permanent other than a basic land enters the battlefield, destroy all other permanents with that name. They can't be regenerated.</source>
-        <target state="translated">当特异之眼进场时，埋葬所有基本地之外的，具相同名称之永久性。当任何基本地之外的永久性进场，埋葬在场中的任何相同名称永久性。</target>
+        <target state="translated">当CARDNAME进场时，埋葬所有基本地之外的，具相同名称之永久性。当任何基本地之外的永久性进场，埋葬在场中的任何相同名称永久性。</target>
       </trans-unit>
       <trans-unit id="33dc0244-319c-4e15-9083-8d21ad0364d8" resname="VIS·5 | Freewind Falcon | Card Name">
         <source>Freewind Falcon</source>
@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="e9917a29-c6b4-4e0a-a301-21868bd27e17" resname="VIS·6 | Gossamer Chains | Card Text | Paragraph 1">
         <source>Return CARDNAME to its owner's hand: Prevent all combat damage that would be dealt by target unblocked creature this turn.</source>
-        <target state="translated">将薄纱之链移回拥有者手上：目标未被阻挡的生物此回合不造成战斗伤害。</target>
+        <target state="translated">将CARDNAME移回拥有者手上：目标未被阻挡的生物此回合不造成战斗伤害。</target>
       </trans-unit>
       <trans-unit id="6559d301-98bd-40a9-abf4-1079d7283214" resname="VIS·7 | Honorable Passage | Card Name">
         <source>Honorable Passage</source>
@@ -66,7 +66,7 @@
       </trans-unit>
       <trans-unit id="6559d301-98bd-40a9-abf4-1079d7283214" resname="VIS·7 | Honorable Passage | Card Text | Paragraph 1">
         <source>The next time a source of your choice would deal damage to any target this turn, prevent that damage. If damage from a red source is prevented this way, CARDNAME deals that much damage to the source's controller.</source>
-        <target state="translated">选择一个来源，于本回合中，防止该来源下一次将对目标生物或牌手造成的伤害 若以此法防止的伤害来源为红色，则荣耀之路对此来源的操控者造成伤害，其数量等同于以此法防止之伤害。</target>
+        <target state="translated">选择一个来源，于本回合中，防止该来源下一次将对目标生物或牌手造成的伤害 若以此法防止的伤害来源为红色，则CARDNAME对此来源的操控者造成伤害，其数量等同于以此法防止之伤害。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="a1a8980f-07ab-49b7-b83d-f394952ced57" resname="VIS·8 | Hope Charm | Card Name">
@@ -97,7 +97,7 @@
       </trans-unit>
       <trans-unit id="25aa80ae-bb17-4e52-a269-efe75cf4c041" resname="VIS·11 | Knight of Valor | Card Text | Paragraph 2">
         <source>{1}{W}: Each creature without flanking blocking CARDNAME gets -1/-1 until end of turn. Activate only once each turn.</source>
-        <target state="translated">o1oW：每只来阻挡骁勇骑士且未具有侧面攻击的生物得-1/-1直到回合结束。每回合只能使用此异能一次。</target>
+        <target state="translated">o1oW：每只来阻挡CARDNAME且未具有侧面攻击的生物得-1/-1直到回合结束。每回合只能使用此异能一次。</target>
       </trans-unit>
       <trans-unit id="e2ee185d-f5ae-4b1d-90a4-840182f87ab8" resname="VIS·12 | Longbow Archer | Card Name">
         <source>Longbow Archer</source>
@@ -125,7 +125,7 @@
       </trans-unit>
       <trans-unit id="a7bbcaa9-edbf-48ad-bcd2-65e8fb9bb938" resname="VIS·14 | Parapet | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.</source>
-        <target state="translated">你可将胸墙视为瞬间使用；若你如此做，则在回合结束时埋葬胸墙。</target>
+        <target state="translated">你可将CARDNAME视为瞬间使用；若你如此做，则在回合结束时埋葬CARDNAME。</target>
       </trans-unit>
       <trans-unit id="a7bbcaa9-edbf-48ad-bcd2-65e8fb9bb938" resname="VIS·14 | Parapet | Card Text | Paragraph 2">
         <source>Creatures you control get +0/+1.</source>
@@ -137,7 +137,7 @@
       </trans-unit>
       <trans-unit id="f0459667-b7da-43bd-b981-0e515432d147" resname="VIS·16 | Relic Ward | Card Text | Paragraphs">
         <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant artifact\nEnchanted artifact has shroud. (It can't be the target of spells or abilities.)</source>
-        <target state="translated">你可将圣物守护视为瞬间使用；若你如此做，则在回合结束时埋葬圣物守护。\n受此结界的神器不可成为咒语或效应之目标。</target>
+        <target state="translated">你可将CARDNAME视为瞬间使用；若你如此做，则在回合结束时埋葬CARDNAME。\n受此结界的神器不可成为咒语或效应之目标。</target>
       </trans-unit>
       <trans-unit id="2a0b7162-4422-4dfb-a6ca-8d89fa74e6dc" resname="VIS·17 | Remedy | Card Name">
         <source>Remedy</source>
@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="21250bdb-9431-41b3-9fef-d66a4d3f6ecd" resname="VIS·18 | Resistance Fighter | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Prevent all combat damage target creature would deal this turn.</source>
-        <target state="translated">牺牲反抗军斗士：目标生物在此回合中不造成战斗伤害。</target>
+        <target state="translated">牺牲CARDNAME：目标生物在此回合中不造成战斗伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="860b8633-1bfc-426a-8666-5e6a584d4525" resname="VIS·19 | Retribution of the Meek | Card Name">
@@ -237,7 +237,7 @@
       </trans-unit>
       <trans-unit id="d8ed802f-6e54-4fed-a71e-6d404c2c664b" resname="VIS·25 | Zhalfirin Crusader | Card Text | Paragraph 2">
         <source>{1}{W}: The next 1 damage that would be dealt to CARDNAME this turn is dealt to any target instead.</source>
-        <target state="translated">o1oW：将赛费林十字军所受的1点伤害转移至目标生物或玩家上。</target>
+        <target state="translated">o1oW：将CARDNAME所受的1点伤害转移至目标生物或玩家上。</target>
       </trans-unit>
       <trans-unit id="7f9b5c75-882e-4fe4-827f-584080e91485" resname="VIS·26 | Betrayal | Card Name">
         <source>Betrayal</source>
@@ -265,7 +265,7 @@
       </trans-unit>
       <trans-unit id="05ada02f-04e9-4269-b04a-97a7eaac2c46" resname="VIS·28 | Chronatog | Card Text | Paragraph 1">
         <source>{0}: CARDNAME gets +3/+3 until end of turn. You skip your next turn. Activate only once each turn.</source>
-        <target state="translated">略过你的下一回合：时空阿托格得+3/+3直到回合结束。此异能每回合只能使用一次。</target>
+        <target state="translated">略过你的下一回合：CARDNAME得+3/+3直到回合结束。此异能每回合只能使用一次。</target>
       </trans-unit>
       <trans-unit id="4f2a5146-cf2e-40c0-b498-06e611343196" resname="VIS·29 | Cloud Elemental | Card Name">
         <source>Cloud Elemental</source>
@@ -279,7 +279,7 @@
       </trans-unit>
       <trans-unit id="4f2a5146-cf2e-40c0-b498-06e611343196" resname="VIS·29 | Cloud Elemental | Card Text | Paragraph 2">
         <source>CARDNAME can block only creatures with flying.</source>
-        <target state="translated">云元素只能阻挡具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能阻挡具飞行异能的生物。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="9a2a1779-af08-4a9a-aba4-e6892ce2332c" resname="VIS·30 | Desertion | Card Name">
@@ -350,7 +350,7 @@
       </trans-unit>
       <trans-unit id="37924cbc-fb9d-4906-9ad2-9b6d4ccfff0f" resname="VIS·36 | Knight of the Mists | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may pay {U}. If you don't, destroy target Knight and it can't be regenerated.</source>
-        <target state="translated">当迷雾骑士进场时，支付oU否则埋葬目标骑士。</target>
+        <target state="translated">当CARDNAME进场时，支付oU否则埋葬目标骑士。</target>
       </trans-unit>
       <trans-unit id="4dbf9bf9-75cd-4b25-a3a1-43b7e029700b" resname="VIS·37 | Man-o'-War | Card Name">
         <source>Man-o'-War</source>
@@ -359,7 +359,7 @@
       </trans-unit>
       <trans-unit id="4dbf9bf9-75cd-4b25-a3a1-43b7e029700b" resname="VIS·37 | Man-o'-War | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return target creature to its owner's hand.</source>
-        <target state="translated">当战舰水母进战场时，将目标生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标生物移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="7ddb640d-5c54-4d0a-b8c2-e22fe04f96c2" resname="VIS·38 | Mystic Veil | Card Name">
@@ -368,7 +368,7 @@
       </trans-unit>
       <trans-unit id="7ddb640d-5c54-4d0a-b8c2-e22fe04f96c2" resname="VIS·38 | Mystic Veil | Card Text | Paragraphs">
         <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant creature\nEnchanted creature has shroud. (It can't be the target of spells or abilities.)</source>
-        <target state="translated">你可将神秘面纱视为瞬间使用；若你如此做，则在回合结束时埋葬神秘面纱。\n受此结界的生物不可成为咒语或效应之目标。</target>
+        <target state="translated">你可将CARDNAME视为瞬间使用；若你如此做，则在回合结束时埋葬CARDNAME。\n受此结界的生物不可成为咒语或效应之目标。</target>
       </trans-unit>
       <trans-unit id="3fa5e806-3cf2-4241-b45d-a05d2b715efd" resname="VIS·40 | Prosperity | Card Name">
         <source>Prosperity</source>
@@ -398,7 +398,7 @@
       </trans-unit>
       <trans-unit id="23c5704f-5856-4422-9d82-14558dbe1434" resname="VIS·42 | Shimmering Efreet | Card Text | Paragraphs">
         <source>Flying\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nWhenever CARDNAME phases in, target creature phases out. (It phases in before its controller untaps during their next untap step.)</source>
-        <target state="translated">飞行，时间跳跃\n当闪烁魔神跃回时，目标生物跃离。</target>
+        <target state="translated">飞行，时间跳跃\n当CARDNAME跃回时，目标生物跃离。</target>
       </trans-unit>
       <trans-unit id="aba3e4ea-2241-4f1e-a46b-70f512fe729e" resname="VIS·44 | Teferi's Realm | Card Name">
         <source>Teferi's Realm</source>
@@ -458,7 +458,7 @@
       </trans-unit>
       <trans-unit id="6946a75e-e9d1-4a56-86d1-dd81f7b1b125" resname="VIS·50 | Waterspout Djinn | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you return an untapped Island you control to its owner's hand.</source>
-        <target state="translated">在你的维持阶段时，将一张你所操控的未横置海岛移回其拥有者手上，否则埋葬水龙卷巨灵。</target>
+        <target state="translated">在你的维持阶段时，将一张你所操控的未横置海岛移回其拥有者手上，否则埋葬CARDNAME。</target>
       </trans-unit>
       <trans-unit id="369a5df5-fc36-476c-84f4-ec4bdeb4f9d2" resname="VIS·51 | Aku Djinn | Card Name">
         <source>Aku Djinn</source>
@@ -486,7 +486,7 @@
       </trans-unit>
       <trans-unit id="30b6150e-7d0c-4361-b99b-79de96dfc53a" resname="VIS·53 | Brood of Cockroaches | Card Text | Paragraph 1">
         <source>When CARDNAME is put into your graveyard from the battlefield, at the beginning of the next end step, you lose 1 life and return CARDNAME to your hand.</source>
-        <target state="translated">若蟑螂窝被从场上放置入你的坟墓场，则在回合结束时支付1点生命，并将蟑螂窝移回手上。</target>
+        <target state="translated">若CARDNAME被从场上放置入你的坟墓场，则在回合结束时支付1点生命，并将CARDNAME移回手上。</target>
       </trans-unit>
       <trans-unit id="f3b07d33-f5f5-45cc-b2ac-360eaf2d4146" resname="VIS·54 | Coercion | Card Name">
         <source>Coercion</source>
@@ -505,7 +505,7 @@
       </trans-unit>
       <trans-unit id="736455f6-c1b3-4a5a-a91f-a0cd3986ed53" resname="VIS·55 | Crypt Rats | Card Text | Paragraph 1">
         <source>{X}: CARDNAME deals X damage to each creature and each player. Spend only black mana on X.</source>
-        <target state="translated">{X}：墓穴老鼠对每个生物和每位牌手各造成X点伤害。只能将黑色法术力用于X。</target>
+        <target state="translated">{X}：CARDNAME对每个生物和每位牌手各造成X点伤害。只能将黑色法术力用于X。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="0e939d8f-6989-4884-989b-9cba566c9963" resname="VIS·57 | Death Watch | Card Name">
@@ -522,7 +522,7 @@
       </trans-unit>
       <trans-unit id="3b186460-d2af-4912-ba19-95b2cb5f1639" resname="VIS·58 | Desolation | Card Text | Paragraph 1">
         <source>At the beginning of each end step, each player who tapped a land for mana this turn sacrifices a land. CARDNAME deals 2 damage to each player who sacrificed a Plains this way.</source>
-        <target state="translated">在每回合结束时，任何玩家若在该回合中横置地产生魔法力时，每横置一张则须牺牲一张地。如果因此被牺牲的是平原，则荒芜对该平原的操控者造成2点伤害。</target>
+        <target state="translated">在每回合结束时，任何玩家若在该回合中横置地产生魔法力时，每横置一张则须牺牲一张地。如果因此被牺牲的是平原，则CARDNAME对该平原的操控者造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="00107210-313f-49c1-84ff-92628f75b764" resname="VIS·59 | Fallen Askari | Card Name">
         <source>Fallen Askari</source>
@@ -534,7 +534,7 @@
       </trans-unit>
       <trans-unit id="00107210-313f-49c1-84ff-92628f75b764" resname="VIS·59 | Fallen Askari | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">堕落阿斯卡力骑士不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="f5327e6d-db4e-4b44-a00e-b764e80b8946" resname="VIS·60 | Forbidden Ritual | Card Name">
         <source>Forbidden Ritual</source>
@@ -560,7 +560,7 @@
       </trans-unit>
       <trans-unit id="ccf85ac9-f5d8-4a36-aa6c-3a31427a0348" resname="VIS·62 | Infernal Harvest | Card Text | Paragraphs">
         <source>As an additional cost to cast this spell, return X Swamps you control to their owner's hand.\nCARDNAME deals X damage divided as you choose among any number of target creatures.</source>
-        <target state="translated">移回你操控的X张沼泽至拥有者手上：地狱的酬劳造成X点伤害，你可以将这些伤害分配到任意数量的目标生物上。</target>
+        <target state="translated">移回你操控的X张沼泽至拥有者手上：CARDNAME造成X点伤害，你可以将这些伤害分配到任意数量的目标生物上。</target>
       </trans-unit>
       <trans-unit id="d385b9e5-e13d-4098-ba74-ea55bde164d9" resname="VIS·63 | Kaervek's Spite | Card Name">
         <source>Kaervek's Spite</source>
@@ -576,11 +576,11 @@
       </trans-unit>
       <trans-unit id="311a6257-dd77-4bb6-81cb-c8e7862350f3" resname="VIS·64 | Necromancy | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.</source>
-        <target state="translated">你可将死灵术视为瞬间使用。若你如此做，则在回合结束时埋葬死灵术。</target>
+        <target state="translated">你可将CARDNAME视为瞬间使用。若你如此做，则在回合结束时埋葬CARDNAME。</target>
       </trans-unit>
       <trans-unit id="311a6257-dd77-4bb6-81cb-c8e7862350f3" resname="VIS·64 | Necromancy | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it's on the battlefield, it becomes an Aura with &amp;quot;enchant creature put onto the battlefield with CARDNAME.&amp;quot; Put target creature card from a graveyard onto the battlefield under your control and attach CARDNAME to it. When CARDNAME leaves the battlefield, that creature's controller sacrifices it.</source>
-        <target state="translated">当你施放死灵术时，选择坟墓场中的目标生物牌。当死灵术进场时，放置该生物进场，并将其视为刚进场。此时，死灵术成为生物结界，其目标为该生物。若死灵术离场，埋葬该生物。</target>
+        <target state="translated">当你施放CARDNAME时，选择坟墓场中的目标生物牌。当CARDNAME进场时，放置该生物进场，并将其视为刚进场。此时，CARDNAME成为生物结界，其目标为该生物。若CARDNAME离场，埋葬该生物。</target>
       </trans-unit>
       <trans-unit id="dba3e342-88b7-4692-a3f7-a3f56c0cf6b5" resname="VIS·66 | Nekrataal | Card Name">
         <source>Nekrataal</source>
@@ -594,7 +594,7 @@
       </trans-unit>
       <trans-unit id="dba3e342-88b7-4692-a3f7-a3f56c0cf6b5" resname="VIS·66 | Nekrataal | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.</source>
-        <target state="translated">当尼可拉塔进战场时，消灭目标非神器且非黑色的生物。该生物不能重生。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标非神器且非黑色的生物。该生物不能重生。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="153f93fd-4f2c-4dce-a774-4483031ed532" resname="VIS·67 | Pillar Tombs of Aku | Card Name">
@@ -603,7 +603,7 @@
       </trans-unit>
       <trans-unit id="153f93fd-4f2c-4dce-a774-4483031ed532" resname="VIS·67 | Pillar Tombs of Aku | Card Text | Paragraph 1">
         <source>At the beginning of each player's upkeep, that player may sacrifice a creature. If that player doesn't, they lose 5 life and you sacrifice CARDNAME.</source>
-        <target state="translated">在每位玩家的维持阶段中，该玩家牺牲一生物；或是该玩家失去5点生命，并且你埋葬尔库城的墓碑柱。</target>
+        <target state="translated">在每位玩家的维持阶段中，该玩家牺牲一生物；或是该玩家失去5点生命，并且你埋葬CARDNAME。</target>
       </trans-unit>
       <trans-unit id="e7e99969-6c21-4de6-ba57-44ef7f9c8c47" resname="VIS·68 | Python | Card Name">
         <source>Python</source>
@@ -616,11 +616,11 @@
       </trans-unit>
       <trans-unit id="1b7178c6-f989-437d-83e3-04b9817f2c54" resname="VIS·69 | Suq'Ata Assassin | Card Text | Paragraph 1">
         <source>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">神器或黑色以外的生物皆不可阻挡舒夸塔刺客。</target>
+        <target state="translated">神器或黑色以外的生物皆不可阻挡CARDNAME。</target>
       </trans-unit>
       <trans-unit id="1b7178c6-f989-437d-83e3-04b9817f2c54" resname="VIS·69 | Suq'Ata Assassin | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)</source>
-        <target state="translated">若舒夸塔刺客攻击且未被阻挡，则防御玩家得一中毒指示物。若任何玩家得十个或更多中毒指示物，则输掉此盘游戏。</target>
+        <target state="translated">若CARDNAME攻击且未被阻挡，则防御玩家得一中毒指示物。若任何玩家得十个或更多中毒指示物，则输掉此盘游戏。</target>
       </trans-unit>
       <trans-unit id="e1283190-094e-4a9f-bf67-f9fd05778744" resname="VIS·70 | Tar Pit Warrior | Card Name">
         <source>Tar Pit Warrior</source>
@@ -628,7 +628,7 @@
       </trans-unit>
       <trans-unit id="e1283190-094e-4a9f-bf67-f9fd05778744" resname="VIS·70 | Tar Pit Warrior | Card Text | Paragraph 1">
         <source>When CARDNAME becomes the target of a spell or ability, sacrifice it.</source>
-        <target state="translated">若焦油坑战士成为咒语或效应的目标，则埋葬焦油坑战士。</target>
+        <target state="translated">若CARDNAME成为咒语或效应的目标，则埋葬CARDNAME。</target>
       </trans-unit>
       <trans-unit id="0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d" resname="VIS·72 | Vampiric Tutor | Card Name">
         <source>Vampiric Tutor</source>
@@ -652,7 +652,7 @@
       </trans-unit>
       <trans-unit id="52420b80-7f34-4426-ac97-a6e15167c7a9" resname="VIS·74 | Wake of Vultures | Card Text | Paragraph 2">
         <source>{1}{B}, Sacrifice a creature: Regenerate CARDNAME.</source>
-        <target state="translated">{1}{B}，牺牲一个生物：重生警醒的秃鹰。</target>
+        <target state="translated">{1}{B}，牺牲一个生物：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="253db28a-3873-4364-80d7-a8164000ea9e" resname="VIS·76 | Bogardan Phoenix | Card Name">
@@ -661,7 +661,7 @@
       </trans-unit>
       <trans-unit id="253db28a-3873-4364-80d7-a8164000ea9e" resname="VIS·76 | Bogardan Phoenix | Card Text | Paragraphs">
         <source>Flying\nWhen CARDNAME dies, exile it if it had a death counter on it. Otherwise, return it to the battlefield under your control and put a death counter on it.</source>
-        <target state="translated">飞行。\n若博卡登凤凰由场上被放置入任何坟墓场，并且其上没有死亡指示物，则将博卡登凤凰移回场上，并放置一个死亡指示物于其上。\n若博卡登凤凰由场上被放置入任何坟墓场，并且有死亡指示物于其上，则将牠移出游戏。</target>
+        <target state="translated">飞行。\n若CARDNAME由场上被放置入任何坟墓场，并且其上没有死亡指示物，则将CARDNAME移回场上，并放置一个死亡指示物于其上。\n若CARDNAME由场上被放置入任何坟墓场，并且有死亡指示物于其上，则将牠移出游戏。</target>
       </trans-unit>
       <trans-unit id="077d33bb-41bf-440d-939b-67ab5aacb092" resname="VIS·77 | Dwarven Vigilantes | Card Name">
         <source>Dwarven Vigilantes</source>
@@ -669,7 +669,7 @@
       </trans-unit>
       <trans-unit id="077d33bb-41bf-440d-939b-67ab5aacb092" resname="VIS·77 | Dwarven Vigilantes | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks and isn't blocked, you may have it deal damage equal to its power to target creature. If you do, CARDNAME assigns no combat damage this turn.</source>
-        <target state="translated">如果矮人警卫攻击且未被阻挡，你可以选择它此回合不造成战斗伤害。如果你如此选择，则矮人警卫对目标生物造成与矮人警卫力量相等的伤害。</target>
+        <target state="translated">如果CARDNAME攻击且未被阻挡，你可以选择它此回合不造成战斗伤害。如果你如此选择，则CARDNAME对目标生物造成与CARDNAME力量相等的伤害。</target>
       </trans-unit>
       <trans-unit id="bcb625ba-3718-4988-962c-bf2e11eb4c16" resname="VIS·78 | Elkin Lair | Card Name">
         <source>Elkin Lair</source>
@@ -691,7 +691,7 @@
       </trans-unit>
       <trans-unit id="b1eb5b2c-1f02-48a6-a287-88eb189d6780" resname="VIS·79 | Fireblast | Card Text | Paragraph 2">
         <source>CARDNAME deals 4 damage to any target.</source>
-        <target state="translated">火焰冲击波对任意一个目标造成4点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="6ee791d5-1d48-40e8-b65f-b6aa889f3467" resname="VIS·80 | Goblin Recruiter | Card Name">
@@ -701,7 +701,7 @@
       </trans-unit>
       <trans-unit id="6ee791d5-1d48-40e8-b65f-b6aa889f3467" resname="VIS·80 | Goblin Recruiter | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, search your library for any number of Goblin cards, reveal them, then shuffle and put those cards on top in any order.</source>
-        <target state="translated">当精灵征兵员进场时，自你的牌库中搜寻任意数量的精灵牌。展示这些牌，然后洗你的牌库，并将这些牌以任意顺序放置于你的牌库顶。</target>
+        <target state="translated">当CARDNAME进场时，自你的牌库中搜寻任意数量的精灵牌。展示这些牌，然后洗你的牌库，并将这些牌以任意顺序放置于你的牌库顶。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="49980982-d534-4204-bc15-3e6c4ffa1a53" resname="VIS·81 | Goblin Swine-Rider | Card Name">
@@ -710,7 +710,7 @@
       </trans-unit>
       <trans-unit id="49980982-d534-4204-bc15-3e6c4ffa1a53" resname="VIS·81 | Goblin Swine-Rider | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, it deals 2 damage to each attacking creature and each blocking creature.</source>
-        <target state="translated">如果鬼怪猪骑兵被阻挡，则牠对每个攻击生物和每个阻挡生物造成2点伤害。</target>
+        <target state="translated">如果CARDNAME被阻挡，则牠对每个攻击生物和每个阻挡生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="caa9ac66-51b7-4aec-92dc-0f0656b0f7fe" resname="VIS·82 | Hearth Charm | Card Name">
         <source>Hearth Charm</source>
@@ -743,7 +743,7 @@
       </trans-unit>
       <trans-unit id="a3ee5ea8-7023-4dde-ab51-d3ba234d74b9" resname="VIS·84 | Hulking Cyclops | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">笨拙独眼巨人不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="d11b6df4-449f-44ea-a4fa-f079bcd26a54" resname="VIS·85 | Keeper of Kookus | Card Name">
@@ -764,7 +764,7 @@
       </trans-unit>
       <trans-unit id="8fb90922-99d2-4b36-9039-bb806fd01756" resname="VIS·86 | Kookus | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if you don't control a creature named Keeper of CARDNAME, CARDNAME deals 3 damage to you and attacks this turn if able.</source>
-        <target state="translated">在你的维持阶段，如果你未操控任何库克兹守卫，则库克兹对你造成3点伤害，并且若这回合牠能够攻击，牠便须攻击。</target>
+        <target state="translated">在你的维持阶段，如果你未操控任何CARDNAME守卫，则CARDNAME对你造成3点伤害，并且若这回合牠能够攻击，牠便须攻击。</target>
       </trans-unit>
       <trans-unit id="8fb90922-99d2-4b36-9039-bb806fd01756" resname="VIS·86 | Kookus | Card Text | Paragraph 3">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
@@ -776,7 +776,7 @@
       </trans-unit>
       <trans-unit id="7fcfc2ad-a1a4-4f65-a239-f11383aaafe1" resname="VIS·87 | Lightning Cloud | Card Text | Paragraph 1">
         <source>Whenever a player casts a red spell, you may pay {R}. If you do, CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">oR：雷云对目标生物或玩家造成1点伤害。此异能只可在红色咒语被成功施放时使用，且只可对每个咒语使用一次。</target>
+        <target state="translated">oR：CARDNAME对目标生物或玩家造成1点伤害。此异能只可在红色咒语被成功施放时使用，且只可对每个咒语使用一次。</target>
       </trans-unit>
       <trans-unit id="e428d56a-9445-4e86-b281-656e2d251e0b" resname="VIS·88 | Mob Mentality | Card Name">
         <source>Mob Mentality</source>
@@ -792,7 +792,7 @@
       </trans-unit>
       <trans-unit id="b0f072d6-7489-4eb0-8c53-1fa42ad806a4" resname="VIS·89 | Ogre Enforcer | Card Text | Paragraph 1">
         <source>CARDNAME can't be destroyed by lethal damage unless lethal damage dealt by a single source is marked on it.</source>
-        <target state="translated">食人魔的执法者不会因受致命伤害而被消灭，除非致命伤害来自於单一来源。</target>
+        <target state="translated">CARDNAME不会因受致命伤害而被消灭，除非致命伤害来自於单一来源。</target>
       </trans-unit>
       <trans-unit id="07c284ce-33b8-4fb2-9dd9-4c477bedc774" resname="VIS·90 | Raging Gorilla | Card Name">
         <source>Raging Gorilla</source>
@@ -800,7 +800,7 @@
       </trans-unit>
       <trans-unit id="07c284ce-33b8-4fb2-9dd9-4c477bedc774" resname="VIS·90 | Raging Gorilla | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked, it gets +2/-2 until end of turn.</source>
-        <target state="translated">若狂怒的大猩猩阻挡或被阻挡，则牠得+2/-2直到回合结束。</target>
+        <target state="translated">若CARDNAME阻挡或被阻挡，则牠得+2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="747161ea-cb65-4960-84dd-a05bfe5f3ba0" resname="VIS·91 | Relentless Assault | Card Name">
         <source>Relentless Assault</source>
@@ -818,7 +818,7 @@
       </trans-unit>
       <trans-unit id="7e01717a-d6ed-42c1-9a9a-f3f4a3d73bca" resname="VIS·92 | Rock Slide | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage divided as you choose among any number of target attacking or blocking creatures without flying.</source>
-        <target state="translated">坍方造成X点伤害，你可将之任意分配于任何数量的不具飞行异能之攻击或防御中的目标生物。</target>
+        <target state="translated">CARDNAME造成X点伤害，你可将之任意分配于任何数量的不具飞行异能之攻击或防御中的目标生物。</target>
       </trans-unit>
       <trans-unit id="c5d4bd6f-b019-4594-aa41-138fa58ba529" resname="VIS·93 | Solfatara | Card Name">
         <source>Solfatara</source>
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="c9f6ef97-587f-4f7b-98a2-e3cc8b39df8b" resname="VIS·95 | Spitting Drake | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn. Activate only once each turn.</source>
-        <target state="translated">oR：吐炎龙兽得+1/+0直到回合结束。每回合中你最多只可在此异能上消费oR。</target>
+        <target state="translated">oR：CARDNAME得+1/+0直到回合结束。每回合中你最多只可在此异能上消费oR。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="2884d8df-7fd5-4247-9da5-38c31333ff5d" resname="VIS·96 | Suq'Ata Lancer | Card Name">
@@ -876,7 +876,7 @@
       </trans-unit>
       <trans-unit id="33730a07-754c-4606-bfac-d73454af9567" resname="VIS·97 | Talruum Champion | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks or becomes blocked by a creature, that creature loses first strike until end of turn.</source>
-        <target state="translated">若塔路姆斗士阻挡或被任何生物阻挡，该生物失去先攻异能直到回合结束。</target>
+        <target state="translated">若CARDNAME阻挡或被任何生物阻挡，该生物失去先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ca2cb9a7-5063-4b31-9782-8bfd784bca0a" resname="VIS·98 | Talruum Piper | Card Name">
         <source>Talruum Piper</source>
@@ -884,7 +884,7 @@
       </trans-unit>
       <trans-unit id="ca2cb9a7-5063-4b31-9782-8bfd784bca0a" resname="VIS·98 | Talruum Piper | Card Text | Paragraph 1">
         <source>All creatures with flying able to block CARDNAME do so.</source>
-        <target state="translated">所有可阻挡塔路姆吹笛手之飞行生物皆须如此做。</target>
+        <target state="translated">所有可阻挡CARDNAME之飞行生物皆须如此做。</target>
       </trans-unit>
       <trans-unit id="a9d64665-c1e0-40ab-a358-247f82966379" resname="VIS·99 | Tremor | Card Name">
         <source>Tremor</source>
@@ -893,7 +893,7 @@
       </trans-unit>
       <trans-unit id="a9d64665-c1e0-40ab-a358-247f82966379" resname="VIS·99 | Tremor | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature without flying.</source>
-        <target state="translated">地动对每个不具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个不具飞行异能的生物各造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="be499b81-bb2d-4f1d-9deb-c8bfcdca8e13" resname="VIS·102 | City of Solitude | Card Name">
@@ -984,7 +984,7 @@
       </trans-unit>
       <trans-unit id="b7f602a6-3d35-49a3-b5cb-d754e03a9573" resname="VIS·108 | Giant Caterpillar | Card Text | Paragraph 1">
         <source>{G}, Sacrifice CARDNAME: Create a 1/1 green Insect creature token with flying named Butterfly at the beginning of the next end step.</source>
-        <target state="translated">{G}，牺牲巨型毛虫：在下一个结束步骤开始时，派出一个1/1绿色，名称为蝴蝶，具飞行异能的昆虫衍生生物。</target>
+        <target state="translated">{G}，牺牲CARDNAME：在下一个结束步骤开始时，派出一个1/1绿色，名称为蝴蝶，具飞行异能的昆虫衍生生物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="97b34ce8-1eb2-44eb-813a-09d0308e27a0" resname="VIS·109 | Katabatic Winds | Card Name">
@@ -1013,7 +1013,7 @@
       </trans-unit>
       <trans-unit id="b6f14bbe-2436-4a5a-8e2a-8066b740b715" resname="VIS·111 | Kyscu Drake | Card Text | Paragraph 3">
         <source>Sacrifice CARDNAME and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon, put that card onto the battlefield, then shuffle.</source>
-        <target state="translated">牺牲其斯库龙兽及吐炎龙兽：自你的牌库中搜寻凡尔西瓦巨龙，并放置牠进场。其后将你的牌库洗牌。</target>
+        <target state="translated">牺牲CARDNAME及吐炎龙兽：自你的牌库中搜寻凡尔西瓦巨龙，并放置牠进场。其后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="76f0c356-a81d-41d4-a8b7-8c159146a8b8" resname="VIS·112 | Lichenthrope | Card Name">
         <source>Lichenthrope</source>
@@ -1021,11 +1021,11 @@
       </trans-unit>
       <trans-unit id="76f0c356-a81d-41d4-a8b7-8c159146a8b8" resname="VIS·112 | Lichenthrope | Card Text | Paragraph 1">
         <source>If damage would be dealt to CARDNAME, put that many -1/-1 counters on it instead.</source>
-        <target state="translated">地衣人每受到1点伤害，则以在其上放置一个-1/-1指示物代替。</target>
+        <target state="translated">CARDNAME每受到1点伤害，则以在其上放置一个-1/-1指示物代替。</target>
       </trans-unit>
       <trans-unit id="76f0c356-a81d-41d4-a8b7-8c159146a8b8" resname="VIS·112 | Lichenthrope | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, remove a -1/-1 counter from CARDNAME.</source>
-        <target state="translated">在你的维持阶段中，移出地衣人上的一个-1/-1指示物。</target>
+        <target state="translated">在你的维持阶段中，移出CARDNAME上的一个-1/-1指示物。</target>
       </trans-unit>
       <trans-unit id="808830ff-496a-41dc-8b64-334ddaca9435" resname="VIS·113 | Mortal Wound | Card Name">
         <source>Mortal Wound</source>
@@ -1085,7 +1085,7 @@
       </trans-unit>
       <trans-unit id="2e9d5aaf-b7e8-4676-aec8-7d29a0169a2c" resname="VIS·118 | River Boa | Card Text | Paragraph 2">
         <source>{G}: Regenerate CARDNAME.</source>
-        <target state="translated">{G}：重生河流蟒蛇。</target>
+        <target state="translated">{G}：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自ZEN（2009-10-02）；</note>
       </trans-unit>
       <trans-unit id="07144d84-f7f3-4101-805d-07cce8342a64" resname="VIS·119 | Rowen | Card Name">
@@ -1104,7 +1104,7 @@
       </trans-unit>
       <trans-unit id="a1818812-4cb8-4fe1-98c0-b40086b4991c" resname="VIS·120 | Spider Climb | Card Text | Paragraphs">
         <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant creature\nEnchanted creature gets +0/+3 and has reach. (It can block creatures with flying.)</source>
-        <target state="translated">你可将蛛行术视为瞬间使用。若你如此做，则在回合结束时埋葬蛛行术。\n受此结界的生物得+0/+3，并且可阻挡具飞行异能的生物。</target>
+        <target state="translated">你可将CARDNAME视为瞬间使用。若你如此做，则在回合结束时埋葬CARDNAME。\n受此结界的生物得+0/+3，并且可阻挡具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="ddb5f524-fad6-4a63-b20f-3348a844fefa" resname="VIS·121 | Stampeding Wildebeests | Card Name">
         <source>Stampeding Wildebeests</source>
@@ -1138,7 +1138,7 @@
       </trans-unit>
       <trans-unit id="101c7d58-43cc-4ebd-87f1-2016fbff56dd" resname="VIS·123 | Uktabi Orangutan | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, destroy target artifact.</source>
-        <target state="translated">当乌克塔比长臂猿进战场时，消灭目标神器。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标神器。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="dd2510b8-52d6-4d2e-89a5-31b27b732dd8" resname="VIS·124 | Warthog | Card Name">
@@ -1189,7 +1189,7 @@
       </trans-unit>
       <trans-unit id="176122b2-f60f-4150-8c0c-757c8f8914d2" resname="VIS·128 | Corrosion | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, remove all rust counters from all permanents.</source>
-        <target state="translated">如果腐锈离场，则移出游戏中所有生锈指示物。</target>
+        <target state="translated">如果CARDNAME离场，则移出游戏中所有生锈指示物。</target>
       </trans-unit>
       <trans-unit id="20ba72c7-7957-4d02-b41e-c0132fe1f2e6" resname="VIS·129 | Femeref Enchantress | Card Name">
         <source>Femeref Enchantress</source>
@@ -1237,7 +1237,7 @@
       </trans-unit>
       <trans-unit id="2e3f6220-6ead-46b4-8663-57609ef5a12e" resname="VIS·133 | Pygmy Hippo | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks and isn't blocked, you may have defending player activate a mana ability of each land they control and lose all unspent mana. If you do, CARDNAME assigns no combat damage this turn and at the beginning of your next main phase this turn, you add an amount of {C} equal to the amount of mana that player lost this way.</source>
-        <target state="translated">若矮黑河马攻击且未被阻挡，你可选择使牠此回合不造成任何战斗伤害。若你如此做，防御玩家须利用其全部所有地抽取魔法力，然后该玩家的魔法力池成空。在战斗后，加等量无色魔法力到你的魔法力池中。</target>
+        <target state="translated">若CARDNAME攻击且未被阻挡，你可选择使牠此回合不造成任何战斗伤害。若你如此做，防御玩家须利用其全部所有地抽取魔法力，然后该玩家的魔法力池成空。在战斗后，加等量无色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="bbcacb8e-1aff-4807-b70c-a17d6703d279" resname="VIS·134 | Righteous War | Card Name">
         <source>Righteous War</source>
@@ -1266,7 +1266,7 @@
       </trans-unit>
       <trans-unit id="642d9239-82e0-4696-ad99-10796042d1f8" resname="VIS·136 | Simoon | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature target opponent controls.</source>
-        <target state="translated">热风沙对目标对手所操控的每个生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对目标对手所操控的每个生物各造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
       <trans-unit id="fcddbea7-3025-47b1-a597-2d2b2711fb81" resname="VIS·137 | Squandered Resources | Card Name">
@@ -1283,7 +1283,7 @@
       </trans-unit>
       <trans-unit id="3a15e970-e605-425a-b4ec-391d9cacde38" resname="VIS·138 | Suleiman's Legacy | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, destroy all Djinns and Efreets. They can't be regenerated.</source>
-        <target state="translated">当苏利南的遗产进场时，埋葬所有巨灵及魔神。</target>
+        <target state="translated">当CARDNAME进场时，埋葬所有巨灵及魔神。</target>
       </trans-unit>
       <trans-unit id="3a15e970-e605-425a-b4ec-391d9cacde38" resname="VIS·138 | Suleiman's Legacy | Card Text | Paragraph 2">
         <source>Whenever a Djinn or Efreet enters the battlefield, destroy it. It can't be regenerated.</source>
@@ -1295,7 +1295,7 @@
       </trans-unit>
       <trans-unit id="54aa5262-d0d9-4b4a-8027-00393568b3df" resname="VIS·139 | Tempest Drake | Card Text | Paragraphs">
         <source>Flying, vigilance</source>
-        <target state="translated">飞行\n暴风龙兽攻击时不须横置。</target>
+        <target state="translated">飞行\nCARDNAME攻击时不须横置。</target>
       </trans-unit>
       <trans-unit id="7172ef0b-ca9e-47cf-8ec6-2d8cb18f2283" resname="VIS·140 | Viashivan Dragon | Card Name">
         <source>Viashivan Dragon</source>
@@ -1331,7 +1331,7 @@
       </trans-unit>
       <trans-unit id="200c9655-e51c-4b63-96cf-7f3fba3ec75c" resname="VIS·142 | Brass-Talon Chimera | Card Text | Paragraphs">
         <source>First strike\nSacrifice CARDNAME: Put a +2/+2 counter on target Chimera creature. It gains first strike. (This effect lasts indefinitely.)</source>
-        <target state="translated">先攻。\n铜爪盖美拉属于盖美拉。\n牺牲铜爪盖美拉：放置一个+2/+2指示物于目标盖美拉上，并且该盖美拉永久地获得先攻异能。</target>
+        <target state="translated">先攻。\nCARDNAME属于盖美拉。\n牺牲CARDNAME：放置一个+2/+2指示物于目标盖美拉上，并且该盖美拉永久地获得先攻异能。</target>
       </trans-unit>
       <trans-unit id="548ff852-274d-4068-818d-58a883e74a5f" resname="VIS·143 | Diamond Kaleidoscope | Card Name">
         <source>Diamond Kaleidoscope</source>
@@ -1371,7 +1371,7 @@
       </trans-unit>
       <trans-unit id="5899a575-a97d-4850-b55c-22ad6900ba20" resname="VIS·146 | Iron-Heart Chimera | Card Text | Paragraphs">
         <source>Vigilance\nSacrifice CARDNAME: Put a +2/+2 counter on target Chimera creature. It gains vigilance. (This effect lasts indefinitely.)</source>
-        <target state="translated">铁心盖美拉攻击时不须横置。\n铁心盖美拉属于盖美拉。\n牺牲铁心盖美拉：放一个+2/+2指示物于目标盖美拉上，并且该盖美拉攻击时不须横置。</target>
+        <target state="translated">CARDNAME攻击时不须横置。\nCARDNAME属于盖美拉。\n牺牲CARDNAME：放一个+2/+2指示物于目标盖美拉上，并且该盖美拉攻击时不须横置。</target>
       </trans-unit>
       <trans-unit id="a5fa8208-7d65-4f8f-b07e-f5c3a66e1143" resname="VIS·147 | Juju Bubble | Card Name">
         <source>Juju Bubble</source>
@@ -1383,7 +1383,7 @@
       </trans-unit>
       <trans-unit id="a5fa8208-7d65-4f8f-b07e-f5c3a66e1143" resname="VIS·147 | Juju Bubble | Card Text | Paragraph 2">
         <source>When you play a card, sacrifice CARDNAME.</source>
-        <target state="translated">如果你施放任何牌，则埋葬鸠鸠气泡。</target>
+        <target state="translated">如果你施放任何牌，则埋葬CARDNAME。</target>
       </trans-unit>
       <trans-unit id="a5fa8208-7d65-4f8f-b07e-f5c3a66e1143" resname="VIS·147 | Juju Bubble | Card Text | Paragraph 3">
         <source>{2}: You gain 1 life.</source>
@@ -1395,7 +1395,7 @@
       </trans-unit>
       <trans-unit id="5d89b377-80d2-42a0-b84e-a455a72ed9fe" resname="VIS·148 | Lead-Belly Chimera | Card Text | Paragraphs">
         <source>Trample\nSacrifice CARDNAME: Put a +2/+2 counter on target Chimera creature. It gains trample. (This effect lasts indefinitely.)</source>
-        <target state="translated">践踏\n铅腹盖美拉属于盖美拉。\n牺牲铅腹盖美拉：放置一个+2/+2指示物于目标盖美拉上，并且该盖美拉永久地获得践踏异能。</target>
+        <target state="translated">践踏\nCARDNAME属于盖美拉。\n牺牲CARDNAME：放置一个+2/+2指示物于目标盖美拉上，并且该盖美拉永久地获得践踏异能。</target>
       </trans-unit>
       <trans-unit id="1aecc3df-7ce6-419c-b3d6-60fc28bfe941" resname="VIS·149 | Magma Mine | Card Name">
         <source>Magma Mine</source>
@@ -1403,11 +1403,11 @@
       </trans-unit>
       <trans-unit id="1aecc3df-7ce6-419c-b3d6-60fc28bfe941" resname="VIS·149 | Magma Mine | Card Text | Paragraph 1">
         <source>{4}: Put a pressure counter on CARDNAME.</source>
-        <target state="translated">o4：放一个压力指示物在熔岩地雷上。</target>
+        <target state="translated">o4：放一个压力指示物在CARDNAME上。</target>
       </trans-unit>
       <trans-unit id="1aecc3df-7ce6-419c-b3d6-60fc28bfe941" resname="VIS·149 | Magma Mine | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: It deals damage equal to the number of pressure counters on it to any target.</source>
-        <target state="translated">ocT，牺牲熔岩地雷：熔岩地雷上每一个压力指示物使熔岩地雷对目标生物或玩家造成1点伤害。</target>
+        <target state="translated">ocT，牺牲CARDNAME：CARDNAME上每一个压力指示物使CARDNAME对目标生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="92378d6f-89ee-49dc-8964-0e9c55daeffc" resname="VIS·150 | Matopi Golem | Card Name">
         <source>Matopi Golem</source>
@@ -1415,7 +1415,7 @@
       </trans-unit>
       <trans-unit id="92378d6f-89ee-49dc-8964-0e9c55daeffc" resname="VIS·150 | Matopi Golem | Card Text | Paragraph 1">
         <source>{1}: Regenerate CARDNAME. When it regenerates this way, put a -1/-1 counter on it.</source>
-        <target state="translated">o1：重生并且放置一个-1/-1指示物在麻托圮活石像上。</target>
+        <target state="translated">o1：重生并且放置一个-1/-1指示物在CARDNAME上。</target>
       </trans-unit>
       <trans-unit id="29a75dc8-1c24-4063-8944-d7e71b4a5755" resname="VIS·151 | Phyrexian Marauder | Card Name">
         <source>Phyrexian Marauder</source>
@@ -1423,15 +1423,15 @@
       </trans-unit>
       <trans-unit id="29a75dc8-1c24-4063-8944-d7e71b4a5755" resname="VIS·151 | Phyrexian Marauder | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">非瑞克西亚掠劫兽进场时，放置X个+1/+1指示物在其上。</target>
+        <target state="translated">CARDNAME进场时，放置X个+1/+1指示物在其上。</target>
       </trans-unit>
       <trans-unit id="29a75dc8-1c24-4063-8944-d7e71b4a5755" resname="VIS·151 | Phyrexian Marauder | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">非瑞克西亚掠劫兽不可阻挡其他生物。</target>
+        <target state="translated">CARDNAME不可阻挡其他生物。</target>
       </trans-unit>
       <trans-unit id="29a75dc8-1c24-4063-8944-d7e71b4a5755" resname="VIS·151 | Phyrexian Marauder | Card Text | Paragraph 3">
         <source>CARDNAME can't attack unless you pay {1} for each +1/+1 counter on it.</source>
-        <target state="translated">非瑞克西亚掠劫兽不可攻击，除非你为每一个+1/+1指示物支付o1。</target>
+        <target state="translated">CARDNAME不可攻击，除非你为每一个+1/+1指示物支付o1。</target>
       </trans-unit>
       <trans-unit id="9f8a3979-2947-4692-8b2f-d4c07c534777" resname="VIS·152 | Phyrexian Walker | Card Name">
         <source>Phyrexian Walker</source>
@@ -1466,7 +1466,7 @@
       </trans-unit>
       <trans-unit id="bfda9a16-9cdb-494a-b662-ac24e3b89d0c" resname="VIS·155 | Snake Basket | Card Text | Paragraph 1">
         <source>{X}, Sacrifice CARDNAME: Create X 1/1 green Snake creature tokens. Activate only as a sorcery.</source>
-        <target state="translated">oX，牺牲蛇笼：放置X个1/1，绿色的眼镜蛇衍生物进场。你只能在你可使用法术时使用此异能。</target>
+        <target state="translated">oX，牺牲CARDNAME：放置X个1/1，绿色的眼镜蛇衍生物进场。你只能在你可使用法术时使用此异能。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="1377dab4-b814-46cc-a097-24a3cf8d0f8f" resname="VIS·156 | Teferi's Puzzle Box | Card Name">
@@ -1485,7 +1485,7 @@
       </trans-unit>
       <trans-unit id="3375dcc6-9399-48eb-9aa4-7b40c3686cc5" resname="VIS·157 | Tin-Wing Chimera | Card Text | Paragraphs">
         <source>Flying\nSacrifice CARDNAME: Put a +2/+2 counter on target Chimera creature. It gains flying. (This effect lasts indefinitely.)</source>
-        <target state="translated">飞行\n锡翼盖美拉属于盖美拉。\n牺牲锡翼盖美拉：放置一个+2/+2指示物于目标盖美拉上，并且该盖美拉永久地获得飞行异能。</target>
+        <target state="translated">飞行\nCARDNAME属于盖美拉。\n牺牲CARDNAME：放置一个+2/+2指示物于目标盖美拉上，并且该盖美拉永久地获得飞行异能。</target>
       </trans-unit>
       <trans-unit id="4c1d7d4d-bed7-4d28-a304-ad33f42e9831" resname="VIS·158 | Triangle of War | Card Name">
         <source>Triangle of War</source>
@@ -1493,7 +1493,7 @@
       </trans-unit>
       <trans-unit id="4c1d7d4d-bed7-4d28-a304-ad33f42e9831" resname="VIS·158 | Triangle of War | Card Text | Paragraph 1">
         <source>{2}, Sacrifice CARDNAME: Target creature you control fights target creature an opponent controls. (Each deals damage equal to its power to the other.)</source>
-        <target state="translated">o2，牺牲战争三角勋章：选择你所操控的目标生物及对手所操控的目标生物。这些生物互相对对方造成等同于自己攻击力的伤害。</target>
+        <target state="translated">o2，牺牲CARDNAME：选择你所操控的目标生物及对手所操控的目标生物。这些生物互相对对方造成等同于自己攻击力的伤害。</target>
       </trans-unit>
       <trans-unit id="0b1c856f-6d29-4bfc-976e-7875d60abd52" resname="VIS·159 | Wand of Denial | Card Name">
         <source>Wand of Denial</source>
@@ -1512,12 +1512,12 @@
       </trans-unit>
       <trans-unit id="5d7c4619-e5af-4aa0-bd3f-6bf0e1fdc1fc" resname="VIS·160 | Coral Atoll | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">环珊瑚礁须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="5d7c4619-e5af-4aa0-bd3f-6bf0e1fdc1fc" resname="VIS·160 | Coral Atoll | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return an untapped Island you control to its owner's hand.</source>
-        <target state="translated">当环珊瑚礁进战场时，除非你将一个由你操控且未横置的海岛移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将一个由你操控且未横置的海岛移回其拥有者手上，否则牺牲之。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="5d7c4619-e5af-4aa0-bd3f-6bf0e1fdc1fc" resname="VIS·160 | Coral Atoll | Card Text | Paragraph 3">
@@ -1532,12 +1532,12 @@
       </trans-unit>
       <trans-unit id="6aa92be7-883f-42bd-8623-00eb2df28a98" resname="VIS·161 | Dormant Volcano | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">休火山须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="6aa92be7-883f-42bd-8623-00eb2df28a98" resname="VIS·161 | Dormant Volcano | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return an untapped Mountain you control to its owner's hand.</source>
-        <target state="translated">当休火山进战场时，除非你将一个由你操控且未横置的山脉移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将一个由你操控且未横置的山脉移回其拥有者手上，否则牺牲之。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="6aa92be7-883f-42bd-8623-00eb2df28a98" resname="VIS·161 | Dormant Volcano | Card Text | Paragraph 3">
@@ -1552,12 +1552,12 @@
       </trans-unit>
       <trans-unit id="c1f2eaf7-7f08-446b-892f-5a844f74808f" resname="VIS·162 | Everglades | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">湿沼须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="c1f2eaf7-7f08-446b-892f-5a844f74808f" resname="VIS·162 | Everglades | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return an untapped Swamp you control to its owner's hand.</source>
-        <target state="translated">当湿沼进战场时，除非你将一个由你操控且未横置的沼泽移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将一个由你操控且未横置的沼泽移回其拥有者手上，否则牺牲之。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="c1f2eaf7-7f08-446b-892f-5a844f74808f" resname="VIS·162 | Everglades | Card Text | Paragraph 3">
@@ -1584,12 +1584,12 @@
       </trans-unit>
       <trans-unit id="cc3146db-2f86-4728-9af1-ff651f871652" resname="VIS·164 | Jungle Basin | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">丛林水潭须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="cc3146db-2f86-4728-9af1-ff651f871652" resname="VIS·164 | Jungle Basin | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return an untapped Forest you control to its owner's hand.</source>
-        <target state="translated">当丛林水潭进战场时，除非你将一个由你操控且未横置的树林移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将一个由你操控且未横置的树林移回其拥有者手上，否则牺牲之。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="cc3146db-2f86-4728-9af1-ff651f871652" resname="VIS·164 | Jungle Basin | Card Text | Paragraph 3">
@@ -1604,12 +1604,12 @@
       </trans-unit>
       <trans-unit id="d786815c-53ec-483e-ad56-382778a57b1a" resname="VIS·165 | Karoo | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">卡陆须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="d786815c-53ec-483e-ad56-382778a57b1a" resname="VIS·165 | Karoo | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you return an untapped Plains you control to its owner's hand.</source>
-        <target state="translated">当卡陆进战场时，除非你将一个由你操控且未横置的平原移回其拥有者手上，否则牺牲之。</target>
+        <target state="translated">当CARDNAME进战场时，除非你将一个由你操控且未横置的平原移回其拥有者手上，否则牺牲之。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="d786815c-53ec-483e-ad56-382778a57b1a" resname="VIS·165 | Karoo | Card Text | Paragraph 3">
@@ -1629,7 +1629,7 @@
       </trans-unit>
       <trans-unit id="11370658-8d80-4d2f-afa5-ec6df6dee369" resname="VIS·166 | Quicksand | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Target attacking creature without flying gets -1/-2 until end of turn.</source>
-        <target state="translated">{T}，牺牲流沙：目标进行攻击且不具飞行异能的生物得-1/-2直到回合结束。</target>
+        <target state="translated">{T}，牺牲CARDNAME：目标进行攻击且不具飞行异能的生物得-1/-2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="5f6e8830-5e62-4945-8b73-60f0628d38e7" resname="VIS·167 | Undiscovered Paradise | Card Name">
@@ -1638,7 +1638,7 @@
       </trans-unit>
       <trans-unit id="5f6e8830-5e62-4945-8b73-60f0628d38e7" resname="VIS·167 | Undiscovered Paradise | Card Text | Paragraph 1">
         <source>{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return CARDNAME to its owner's hand.</source>
-        <target state="translated">ocT：加一点任意颜色的魔法力到你的魔法力池中。在你的下一个重置阶段开始时，将未知的乐园移回拥有者手上。</target>
+        <target state="translated">ocT：加一点任意颜色的魔法力到你的魔法力池中。在你的下一个重置阶段开始时，将CARDNAME移回拥有者手上。</target>
       </trans-unit>
     </body>
   </file>

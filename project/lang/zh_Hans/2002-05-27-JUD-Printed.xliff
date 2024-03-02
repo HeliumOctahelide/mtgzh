@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="c0cf71e1-3c57-47f9-a4ef-e0d0ad1ee329" resname="JUD·1 | Ancestor's Chosen | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, you gain 1 life for each card in your graveyard.</source>
-        <target state="translated">当祖灵的爱民进场时，在你坟墓场中每有一张牌，你便获得1点生命。</target>
+        <target state="translated">当CARDNAME进场时，在你坟墓场中每有一张牌，你便获得1点生命。</target>
       </trans-unit>
       <trans-unit id="1fd5d21a-b151-4fea-ac0d-6659af131bf9" resname="JUD·2 | Aven Warcraft | Card Name">
         <source>Aven Warcraft</source>
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="ca363409-cba9-43ed-bf88-3519521e1983" resname="JUD·4 | Battlewise Aven | Card Text | Paragraph 2">
         <source>Threshold CARDNAME gets +1/+1 and has first strike. (You have threshold as long as seven or more cards are in your graveyard.)</source>
-        <target state="translated">门槛～善战艾文得+1/+1并具有先攻异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1并具有先攻异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="22492fb3-5ceb-4d5e-ba82-ae1a6a69c105" resname="JUD·5 | Benevolent Bodyguard | Card Name">
         <source>Benevolent Bodyguard</source>
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit id="22492fb3-5ceb-4d5e-ba82-ae1a6a69c105" resname="JUD·5 | Benevolent Bodyguard | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Target creature you control gains protection from the color of your choice until end of turn.</source>
-        <target state="translated">牺牲善心护卫：选择一种颜色，目标由你操控的生物获得反该色保护异能直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME：选择一种颜色，目标由你操控的生物获得反该色保护异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a49a85c8-3516-4dda-b16b-bf1bf890becb" resname="JUD·6 | Border Patrol | Card Name">
         <source>Border Patrol</source>
@@ -60,7 +60,7 @@
       </trans-unit>
       <trans-unit id="a49a85c8-3516-4dda-b16b-bf1bf890becb" resname="JUD·6 | Border Patrol | Card Text | Paragraph 1">
         <source>Attacking doesn't cause CARDNAME to tap.</source>
-        <target state="translated">边境巡逻队攻击时不须横置。</target>
+        <target state="translated">CARDNAME攻击时不须横置。</target>
       </trans-unit>
       <trans-unit id="72ab91ab-2bcf-4617-bec3-2bf040d4997c" resname="JUD·7 | Cagemail | Card Name">
         <source>Cagemail</source>
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="7a414f0e-b157-4570-8213-1c58a96bf7a5" resname="JUD·11 | Glory | Card Text | Paragraphs">
         <source>Flying\no2o\nW: Creatures you control gain protection from the color of your choice until end of turn. Play this ability only if CARDNAME is in your graveyard.</source>
-        <target state="translated">飞行\n二白：选择一种颜色。由你操控的生物获得反该色保护异能直到回合结束。你只可于荣耀在你坟墓场中时使用此异能。</target>
+        <target state="translated">飞行\n二白：选择一种颜色。由你操控的生物获得反该色保护异能直到回合结束。你只可于CARDNAME在你坟墓场中时使用此异能。</target>
       </trans-unit>
       <trans-unit id="dc409ded-41f3-4f14-8199-72a9fe98bac0" resname="JUD·12 | Golden Wish | Card Name">
         <source>Golden Wish</source>
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="dc409ded-41f3-4f14-8199-72a9fe98bac0" resname="JUD·12 | Golden Wish | Card Text | Paragraph 1">
         <source>Choose an artifact or enchantment card you own from outside the game, reveal that card, and put it into your hand. Remove CARDNAME from the game.</source>
-        <target state="translated">从对战外选择一张由你拥有的神器或结界牌，展示该牌，然后将之置于你手上。将富贵祈愿移出对战。</target>
+        <target state="translated">从对战外选择一张由你拥有的神器或结界牌，展示该牌，然后将之置于你手上。将CARDNAME移出对战。</target>
       </trans-unit>
       <trans-unit id="d13138c1-e98f-4803-8c68-ffc80139c168" resname="JUD·13 | Guided Strike | Card Name">
         <source>Guided Strike</source>
@@ -148,11 +148,11 @@
       </trans-unit>
       <trans-unit id="617d4246-c827-4742-ab6a-c5170c12cb87" resname="JUD·16 | Phantom Flock | Card Text | Paragraph 2">
         <source>CARDNAME comes into play with three +1/+1 counters on it.</source>
-        <target state="translated">幽魅战群进场时上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="617d4246-c827-4742-ab6a-c5170c12cb87" resname="JUD·16 | Phantom Flock | Card Text | Paragraph 3">
         <source>If damage would be dealt to CARDNAME, prevent that damage. Remove a +1/+1 counter from CARDNAME.</source>
-        <target state="translated">若幽魅战群将受到伤害，则防止该伤害。从幽魅战群上移去一个+1/+1指示物。</target>
+        <target state="translated">若CARDNAME将受到伤害，则防止该伤害。从CARDNAME上移去一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="6c5309f5-8b32-4a57-99f2-dcf7a8341898" resname="JUD·17 | Phantom Nomad | Card Name">
         <source>Phantom Nomad</source>
@@ -160,11 +160,11 @@
       </trans-unit>
       <trans-unit id="6c5309f5-8b32-4a57-99f2-dcf7a8341898" resname="JUD·17 | Phantom Nomad | Card Text | Paragraph 1">
         <source>CARDNAME comes into play with two +1/+1 counters on it.</source>
-        <target state="translated">幽魅游牧人进场时上面有两个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时上面有两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="6c5309f5-8b32-4a57-99f2-dcf7a8341898" resname="JUD·17 | Phantom Nomad | Card Text | Paragraph 2">
         <source>If damage would be dealt to CARDNAME, prevent that damage. Remove a +1/+1 counter from CARDNAME.</source>
-        <target state="translated">若幽魅游牧人将受到伤害，则防止该伤害。从幽魅游牧人上移去一个+1/+1指示物。</target>
+        <target state="translated">若CARDNAME将受到伤害，则防止该伤害。从CARDNAME上移去一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="3454ef42-2e0b-4ce4-945f-e4ec3e83c39d" resname="JUD·18 | Prismatic Strands | Card Name">
         <source>Prismatic Strands</source>
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="c9b1c300-aec3-4512-9902-309615e86c73" resname="JUD·21 | Selfless Exorcist | Card Text | Paragraphs">
         <source>oc\nT: Remove target creature card in a graveyard from the game. That card deals damage equal to its power to CARDNAME. (A * on a card not in play is 0.)</source>
-        <target state="translated">ocT：将目标在坟墓场中的生物牌移出对战。该牌对无私的驱魔师造成等同于该牌力量值的伤害。（不在场上的牌，其上的*均为0）</target>
+        <target state="translated">ocT：将目标在坟墓场中的生物牌移出对战。该牌对CARDNAME造成等同于该牌力量值的伤害。（不在场上的牌，其上的*均为0）</target>
       </trans-unit>
       <trans-unit id="2ea66a41-cb2e-49d6-81fe-3f69b0dfd40e" resname="JUD·22 | Shieldmage Advocate | Card Name">
         <source>Shieldmage Advocate</source>
@@ -224,7 +224,7 @@
       </trans-unit>
       <trans-unit id="e7a8eb7a-eb3f-405e-8f44-d8ea64d76386" resname="JUD·24 | Solitary Confinement | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you discard a card from your hand.</source>
-        <target state="translated">在你的维持开始时，除非你从手上弃掉一张牌，否则牺牲单独拘禁。</target>
+        <target state="translated">在你的维持开始时，除非你从手上弃掉一张牌，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="e7a8eb7a-eb3f-405e-8f44-d8ea64d76386" resname="JUD·24 | Solitary Confinement | Card Text | Paragraph 2">
         <source>Skip your draw step.</source>
@@ -244,11 +244,11 @@
       </trans-unit>
       <trans-unit id="b30df994-bb09-4d16-8443-223c6ce342dc" resname="JUD·25 | Soulcatchers' Aerie | Card Text | Paragraph 1">
         <source>Whenever a Bird is put into your graveyard from play, put a feather counter on CARDNAME.</source>
-        <target state="translated">每当任一鸟从场上置入你的坟墓场时，在捕灵手巢窝上放置一个飞羽指示物。</target>
+        <target state="translated">每当任一鸟从场上置入你的坟墓场时，在CARDNAME上放置一个飞羽指示物。</target>
       </trans-unit>
       <trans-unit id="b30df994-bb09-4d16-8443-223c6ce342dc" resname="JUD·25 | Soulcatchers' Aerie | Card Text | Paragraph 2">
         <source>All Birds get +1/+1 for each feather counter on CARDNAME.</source>
-        <target state="translated">捕灵手巢窝上每有一个飞羽指示物，所有的鸟便得+1/+1。</target>
+        <target state="translated">CARDNAME上每有一个飞羽指示物，所有的鸟便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="d8baf60f-c20b-4b2f-9fe1-df008a9273c6" resname="JUD·26 | Spirit Cairn | Card Name">
         <source>Spirit Cairn</source>
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="720ec745-226c-4211-974f-e04a4f9e1902" resname="JUD·30 | Trained Pronghorn | Card Text | Paragraph 1">
         <source>Discard a card from your hand: Prevent all damage that would be dealt to CARDNAME this turn.</source>
-        <target state="translated">从你手上弃掉一张牌：于本回合中，防止将对驯良叉角羚造成的所有伤害。</target>
+        <target state="translated">从你手上弃掉一张牌：于本回合中，防止将对CARDNAME造成的所有伤害。</target>
       </trans-unit>
       <trans-unit id="a015205e-5895-4038-9c2f-ed4766c498ff" resname="JUD·31 | Unquestioned Authority | Card Name">
         <source>Unquestioned Authority</source>
@@ -296,7 +296,7 @@
       </trans-unit>
       <trans-unit id="a015205e-5895-4038-9c2f-ed4766c498ff" resname="JUD·31 | Unquestioned Authority | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, draw a card.</source>
-        <target state="translated">当至上权威进场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="a015205e-5895-4038-9c2f-ed4766c498ff" resname="JUD·31 | Unquestioned Authority | Card Text | Paragraph 2">
         <source>Enchanted creature has protection from creatures.</source>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="58095f6b-d937-4871-b3af-5c6a1d9c04b3" resname="JUD·32 | Valor | Card Text | Paragraph 2">
         <source>As long as CARDNAME is in your graveyard and you control a plains, creatures you control have first strike.</source>
-        <target state="translated">只要骁勇在你的坟墓场中，并且你操控平原，由你操控的生物便具有先攻异能。</target>
+        <target state="translated">只要CARDNAME在你的坟墓场中，并且你操控平原，由你操控的生物便具有先攻异能。</target>
       </trans-unit>
       <trans-unit id="c3790282-ea04-4600-8912-dac541ffd081" resname="JUD·33 | Vigilant Sentry | Card Name">
         <source>Vigilant Sentry</source>
@@ -320,7 +320,7 @@
       </trans-unit>
       <trans-unit id="c3790282-ea04-4600-8912-dac541ffd081" resname="JUD·33 | Vigilant Sentry | Card Text | Paragraphs">
         <source>Threshold CARDNAME gets +1/+1 and has &amp;quot;oc\nT: Target attacking or blocking creature gets +3/+3 until end of turn.&amp;quot; (You have threshold as long as seven or more cards are in your graveyard.)</source>
-        <target state="translated">门槛～警醒的哨兵得+1/+1并具有「ocT：目标进行攻击或阻挡的生物得+3/+3直到回合结束。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1并具有「ocT：目标进行攻击或阻挡的生物得+3/+3直到回合结束。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="c0ee9e09-c4b1-4133-90a3-350677f0b72a" resname="JUD·34 | Aven Fogbringer | Card Name">
         <source>Aven Fogbringer</source>
@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit id="c0ee9e09-c4b1-4133-90a3-350677f0b72a" resname="JUD·34 | Aven Fogbringer | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, return target land to its owner's hand.</source>
-        <target state="translated">当扬雾艾文进场时，将目标地移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进场时，将目标地移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="6d98f05b-ddfe-4b93-b247-dbd1a89e0731" resname="JUD·35 | Cephalid Constable | Card Name">
         <source>Cephalid Constable</source>
@@ -340,7 +340,7 @@
       </trans-unit>
       <trans-unit id="6d98f05b-ddfe-4b93-b247-dbd1a89e0731" resname="JUD·35 | Cephalid Constable | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, return up to X target permanents that player controls to their owners' hands, where X is the damage it dealt to that player.</source>
-        <target state="translated">每当𫠒人保安官对任一牌手造成战斗伤害时，将X个目标由该牌手操控的永久物移回其拥有者手上，X为𫠒人保安官对该牌手造成的伤害。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，将X个目标由该牌手操控的永久物移回其拥有者手上，X为CARDNAME对该牌手造成的伤害。</target>
       </trans-unit>
       <trans-unit id="2c3e8c80-690b-4d79-9dee-99d1a3876160" resname="JUD·36 | Cephalid Inkshrouder | Card Name">
         <source>Cephalid Inkshrouder</source>
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="2c3e8c80-690b-4d79-9dee-99d1a3876160" resname="JUD·36 | Cephalid Inkshrouder | Card Text | Paragraph 1">
         <source>Discard a card from your hand: CARDNAME can't be the target of spells or abilities and is unblockable this turn.</source>
-        <target state="translated">从你手上弃掉一张牌：于本回合中，墨遁𫠒人不能成为咒语或异能的目标，并且不能被阻挡。</target>
+        <target state="translated">从你手上弃掉一张牌：于本回合中，CARDNAME不能成为咒语或异能的目标，并且不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="ca097675-5e82-493d-beab-9fc11efd7492" resname="JUD·37 | Cunning Wish | Card Name">
         <source>Cunning Wish</source>
@@ -356,7 +356,7 @@
       </trans-unit>
       <trans-unit id="ca097675-5e82-493d-beab-9fc11efd7492" resname="JUD·37 | Cunning Wish | Card Text | Paragraph 1">
         <source>Choose an instant card you own from outside the game, reveal that card, and put it into your hand. Remove CARDNAME from the game.</source>
-        <target state="translated">从对战外选择一张由你拥有的瞬间牌，展示该牌，然后将它置于你手上。将黠智祈愿移出对战。</target>
+        <target state="translated">从对战外选择一张由你拥有的瞬间牌，展示该牌，然后将它置于你手上。将CARDNAME移出对战。</target>
       </trans-unit>
       <trans-unit id="461413fe-0392-41c1-b50f-05e87ea1c338" resname="JUD·38 | Defy Gravity | Card Name">
         <source>Defy Gravity</source>
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit id="ffaab905-0b97-42c2-a1a3-1e72275caa82" resname="JUD·40 | Flash of Insight | Card Text | Paragraphs">
         <source>Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library.\nFlashback—o1o\nU, Remove X blue cards in your graveyard from the game. (You can't remove CARDNAME to pay for its own flashback cost.)</source>
-        <target state="translated">检视你牌库顶上的X张牌。将其中一张置于你手上，其余则置于你的牌库底。\n返照～一蓝，从你的坟墓场中将X张蓝色牌移出对战。（你不能将洞察乍现本身移出对战来支付本身的返照费用）</target>
+        <target state="translated">检视你牌库顶上的X张牌。将其中一张置于你手上，其余则置于你的牌库底。\n返照～一蓝，从你的坟墓场中将X张蓝色牌移出对战。（你不能将CARDNAME本身移出对战来支付本身的返照费用）</target>
       </trans-unit>
       <trans-unit id="43dc7e2a-5b9b-4f0f-8b2e-a7c7f847e1f1" resname="JUD·41 | Grip of Amnesia | Card Name">
         <source>Grip of Amnesia</source>
@@ -400,7 +400,7 @@
       </trans-unit>
       <trans-unit id="22ed0ee7-6749-4f38-8e53-c11b46b17e5d" resname="JUD·42 | Hapless Researcher | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Draw a card, then discard a card from your hand.</source>
-        <target state="translated">牺牲倒楣的研究者：抓一张牌，然后从你手上弃掉一张牌。</target>
+        <target state="translated">牺牲CARDNAME：抓一张牌，然后从你手上弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="6e702ee4-62b5-4d3b-a202-8cac4b84591c" resname="JUD·43 | Keep Watch | Card Name">
         <source>Keep Watch</source>
@@ -448,7 +448,7 @@
       </trans-unit>
       <trans-unit id="d0e52b73-ebdf-4339-8780-84327a59ca57" resname="JUD·47 | Mirror Wall | Card Text | Paragraphs">
         <source>(Walls can't attack.)\no\nW: CARDNAME may attack this turn as though it weren't a Wall.</source>
-        <target state="translated">（墙不能攻击）\n白：镜墙本回合可以如同不是墙地进行攻击。</target>
+        <target state="translated">（墙不能攻击）\n白：CARDNAME本回合可以如同不是墙地进行攻击。</target>
       </trans-unit>
       <trans-unit id="76d03121-9515-4101-9d60-e01225533f44" resname="JUD·48 | Mist of Stagnation | Card Name">
         <source>Mist of Stagnation</source>
@@ -480,7 +480,7 @@
       </trans-unit>
       <trans-unit id="29c3b7fa-78e7-4a0c-bcdc-4b829638e3f6" resname="JUD·50 | Scalpelexis | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, that player removes the top four cards of his or her library from the game. If two or more of those cards have the same name, repeat this process.</source>
-        <target state="translated">每当史卡佩雷克斯对任一牌手造成战斗伤害时，该牌手将他牌库顶上的四张牌移出对战。若该些牌中有两张或更多牌具有相同的名称，则重复此程序。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，该牌手将他牌库顶上的四张牌移出对战。若该些牌中有两张或更多牌具有相同的名称，则重复此程序。</target>
       </trans-unit>
       <trans-unit id="3eda8c7b-ce35-482a-bece-52a30cc78a9a" resname="JUD·51 | Spelljack | Card Name">
         <source>Spelljack</source>
@@ -516,7 +516,7 @@
       </trans-unit>
       <trans-unit id="44670666-9028-4b4a-a5af-a3bf35fc6a21" resname="JUD·54 | Wonder | Card Text | Paragraph 2">
         <source>As long as CARDNAME is in your graveyard and you control an island, creatures you control have flying.</source>
-        <target state="translated">只要神奇在你坟墓场中，并且你操控海岛，由你操控的生物便具有飞行异能。</target>
+        <target state="translated">只要CARDNAME在你坟墓场中，并且你操控海岛，由你操控的生物便具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="1c7f29aa-c069-4adb-b313-6a56849905d4" resname="JUD·55 | Wormfang Behemoth | Card Name">
         <source>Wormfang Behemoth</source>
@@ -524,11 +524,11 @@
       </trans-unit>
       <trans-unit id="1c7f29aa-c069-4adb-b313-6a56849905d4" resname="JUD·55 | Wormfang Behemoth | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, remove all cards in your hand from the game.</source>
-        <target state="translated">当奇肢贝西摩斯进场时，将你的手牌移出对战。</target>
+        <target state="translated">当CARDNAME进场时，将你的手牌移出对战。</target>
       </trans-unit>
       <trans-unit id="1c7f29aa-c069-4adb-b313-6a56849905d4" resname="JUD·55 | Wormfang Behemoth | Card Text | Paragraph 2">
         <source>When CARDNAME leaves play, return the removed cards to their owner's hand.</source>
-        <target state="translated">当奇肢贝西摩斯离场时，将以此法移出对战的牌移回其拥有者的手上。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌移回其拥有者的手上。</target>
       </trans-unit>
       <trans-unit id="dcf56dcf-ec1a-4298-8644-1fe248443b7e" resname="JUD·56 | Wormfang Crab | Card Name">
         <source>Wormfang Crab</source>
@@ -536,15 +536,15 @@
       </trans-unit>
       <trans-unit id="dcf56dcf-ec1a-4298-8644-1fe248443b7e" resname="JUD·56 | Wormfang Crab | Card Text | Paragraph 1">
         <source>CARDNAME is unblockable.</source>
-        <target state="translated">奇肢蟹不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="dcf56dcf-ec1a-4298-8644-1fe248443b7e" resname="JUD·56 | Wormfang Crab | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, an opponent chooses a permanent you control and removes it from the game.</source>
-        <target state="translated">当奇肢蟹进场时，一位对手选择一个由你操控，并且不是奇肢蟹的永久物，并将其移出对战。</target>
+        <target state="translated">当CARDNAME进场时，一位对手选择一个由你操控，并且不是CARDNAME的永久物，并将其移出对战。</target>
       </trans-unit>
       <trans-unit id="dcf56dcf-ec1a-4298-8644-1fe248443b7e" resname="JUD·56 | Wormfang Crab | Card Text | Paragraph 3">
         <source>When CARDNAME leaves play, return the removed card to play under its owner's control.</source>
-        <target state="translated">当奇肢蟹离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
       </trans-unit>
       <trans-unit id="b6afd312-6448-4bd1-8539-0910cefead0d" resname="JUD·57 | Wormfang Drake | Card Name">
         <source>Wormfang Drake</source>
@@ -556,11 +556,11 @@
       </trans-unit>
       <trans-unit id="b6afd312-6448-4bd1-8539-0910cefead0d" resname="JUD·57 | Wormfang Drake | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, sacrifice it unless you remove a creature you control other than CARDNAME from the game.</source>
-        <target state="translated">当奇肢龙兽进场时，除非你将一个奇肢龙兽以外且由你操控的生物移出对战，否则牺牲奇肢龙兽。</target>
+        <target state="translated">当CARDNAME进场时，除非你将一个CARDNAME以外且由你操控的生物移出对战，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b6afd312-6448-4bd1-8539-0910cefead0d" resname="JUD·57 | Wormfang Drake | Card Text | Paragraph 3">
         <source>When CARDNAME leaves play, return the removed card to play under its owner's control.</source>
-        <target state="translated">当奇肢龙兽离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
       </trans-unit>
       <trans-unit id="bc9bf91d-6f7c-4fb5-bbc6-c012212e62e9" resname="JUD·58 | Wormfang Manta | Card Name">
         <source>Wormfang Manta</source>
@@ -572,11 +572,11 @@
       </trans-unit>
       <trans-unit id="bc9bf91d-6f7c-4fb5-bbc6-c012212e62e9" resname="JUD·58 | Wormfang Manta | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, you skip your next turn.</source>
-        <target state="translated">当奇肢𫚉进场时，你略过你的下一个回合。</target>
+        <target state="translated">当CARDNAME进场时，你略过你的下一个回合。</target>
       </trans-unit>
       <trans-unit id="bc9bf91d-6f7c-4fb5-bbc6-c012212e62e9" resname="JUD·58 | Wormfang Manta | Card Text | Paragraph 3">
         <source>When CARDNAME leaves play, you take an extra turn after this one.</source>
-        <target state="translated">当奇肢𫚉离场时，你在本回合后进行额外的一个回合。</target>
+        <target state="translated">当CARDNAME离场时，你在本回合后进行额外的一个回合。</target>
       </trans-unit>
       <trans-unit id="df8012c1-76ec-4c36-8b38-5bc41ce5e156" resname="JUD·59 | Wormfang Newt | Card Name">
         <source>Wormfang Newt</source>
@@ -584,11 +584,11 @@
       </trans-unit>
       <trans-unit id="df8012c1-76ec-4c36-8b38-5bc41ce5e156" resname="JUD·59 | Wormfang Newt | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, remove a land you control from the game.</source>
-        <target state="translated">当奇肢水蝾进场时，将一个由你操控的地移出对战。</target>
+        <target state="translated">当CARDNAME进场时，将一个由你操控的地移出对战。</target>
       </trans-unit>
       <trans-unit id="df8012c1-76ec-4c36-8b38-5bc41ce5e156" resname="JUD·59 | Wormfang Newt | Card Text | Paragraph 2">
         <source>When CARDNAME leaves play, return the removed card to play under its owner's control.</source>
-        <target state="translated">当奇肢水蝾离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
       </trans-unit>
       <trans-unit id="48404362-7579-4896-a71a-8eb40e5ac416" resname="JUD·60 | Wormfang Turtle | Card Name">
         <source>Wormfang Turtle</source>
@@ -596,11 +596,11 @@
       </trans-unit>
       <trans-unit id="48404362-7579-4896-a71a-8eb40e5ac416" resname="JUD·60 | Wormfang Turtle | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, remove a land you control from the game.</source>
-        <target state="translated">当奇肢龟进场时，将一个由你操控的地移出对战。</target>
+        <target state="translated">当CARDNAME进场时，将一个由你操控的地移出对战。</target>
       </trans-unit>
       <trans-unit id="48404362-7579-4896-a71a-8eb40e5ac416" resname="JUD·60 | Wormfang Turtle | Card Text | Paragraph 2">
         <source>When CARDNAME leaves play, return the removed card to play under its owner's control.</source>
-        <target state="translated">当奇肢龟离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
       </trans-unit>
       <trans-unit id="ed4cc273-adc3-4f46-9743-134b552d1d56" resname="JUD·61 | Balthor the Defiled | Card Name">
         <source>Balthor the Defiled</source>
@@ -608,7 +608,7 @@
       </trans-unit>
       <trans-unit id="ed4cc273-adc3-4f46-9743-134b552d1d56" resname="JUD·61 | Balthor the Defiled | Card Text | Paragraphs">
         <source>All Minions get +1/+1.\no\nBo\nBo\nB, Remove CARDNAME from the game: Each player returns all black and all red creature cards from his or her graveyard to play.</source>
-        <target state="translated">所有奴仆得+1/+1。\n黑黑黑，将污秽的巴铎移出对战：每位牌手从其坟墓场中将所有黑色和／或红色的生物牌移回场上。</target>
+        <target state="translated">所有奴仆得+1/+1。\n黑黑黑，将CARDNAME移出对战：每位牌手从其坟墓场中将所有黑色和／或红色的生物牌移回场上。</target>
       </trans-unit>
       <trans-unit id="0a5df970-c6ba-4824-b8ba-67244aec2b82" resname="JUD·62 | Cabal Therapy | Card Name">
         <source>Cabal Therapy</source>
@@ -624,7 +624,7 @@
       </trans-unit>
       <trans-unit id="d345d702-b205-4391-985a-6201e707f0ba" resname="JUD·63 | Cabal Trainee | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Target creature gets -2/-0 until end of turn.</source>
-        <target state="translated">牺牲柯帮学员：目标生物得-2/-0直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME：目标生物得-2/-0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7bf134c9-a50d-4eff-a5a8-7cfe6a010080" resname="JUD·64 | Death Wish | Card Name">
         <source>Death Wish</source>
@@ -632,7 +632,7 @@
       </trans-unit>
       <trans-unit id="7bf134c9-a50d-4eff-a5a8-7cfe6a010080" resname="JUD·64 | Death Wish | Card Text | Paragraph 1">
         <source>Choose a card you own from outside the game and put it into your hand. You lose half your life, rounded up. Remove CARDNAME from the game.</source>
-        <target state="translated">从对战外选择一张由你拥有的牌，并且置于你手上。你失去一半生命，小数点后进位。将致命祈愿移出对战。</target>
+        <target state="translated">从对战外选择一张由你拥有的牌，并且置于你手上。你失去一半生命，小数点后进位。将CARDNAME移出对战。</target>
       </trans-unit>
       <trans-unit id="5dad63b5-ced3-4150-ad84-1ca05a892840" resname="JUD·65 | Earsplitting Rats | Card Name">
         <source>Earsplitting Rats</source>
@@ -640,11 +640,11 @@
       </trans-unit>
       <trans-unit id="5dad63b5-ced3-4150-ad84-1ca05a892840" resname="JUD·65 | Earsplitting Rats | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, each player discards a card from his or her hand.</source>
-        <target state="translated">当刺耳鼠进场时，每位牌手各从手上弃掉一张牌。</target>
+        <target state="translated">当CARDNAME进场时，每位牌手各从手上弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="5dad63b5-ced3-4150-ad84-1ca05a892840" resname="JUD·65 | Earsplitting Rats | Card Text | Paragraph 2">
         <source>Discard a card from your hand: Regenerate CARDNAME.</source>
-        <target state="translated">从你手上弃掉一张牌：重生刺耳鼠。</target>
+        <target state="translated">从你手上弃掉一张牌：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="37de06dc-c0c1-4edb-9732-2d16dbabfb31" resname="JUD·66 | Filth | Card Name">
         <source>Filth</source>
@@ -656,7 +656,7 @@
       </trans-unit>
       <trans-unit id="37de06dc-c0c1-4edb-9732-2d16dbabfb31" resname="JUD·66 | Filth | Card Text | Paragraph 2">
         <source>As long as CARDNAME is in your graveyard and you control a swamp, creatures you control have swampwalk.</source>
-        <target state="translated">只要污孽在你的坟墓场中，并且你操控沼泽，由你操控的生物便具有沼泽行者异能。</target>
+        <target state="translated">只要CARDNAME在你的坟墓场中，并且你操控沼泽，由你操控的生物便具有沼泽行者异能。</target>
       </trans-unit>
       <trans-unit id="9ad5f9f2-282a-4ee0-a259-cc24404ddf6f" resname="JUD·67 | Grave Consequences | Card Name">
         <source>Grave Consequences</source>
@@ -676,11 +676,11 @@
       </trans-unit>
       <trans-unit id="e2e9af4e-bd02-4d91-898f-68d192446904" resname="JUD·68 | Guiltfeeder | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked except by artifact creatures and/or black creatures.</source>
-        <target state="translated">罪业啜兽只能被神器和／或黑色生物阻挡。</target>
+        <target state="translated">CARDNAME只能被神器和／或黑色生物阻挡。</target>
       </trans-unit>
       <trans-unit id="e2e9af4e-bd02-4d91-898f-68d192446904" resname="JUD·68 | Guiltfeeder | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks and isn't blocked, defending player loses 1 life for each card in his or her graveyard.</source>
-        <target state="translated">每当罪业啜兽进行攻击且未受阻挡时，防御牌手的坟墓场中每有一张牌，他便失去1点生命。</target>
+        <target state="translated">每当CARDNAME进行攻击且未受阻挡时，防御牌手的坟墓场中每有一张牌，他便失去1点生命。</target>
       </trans-unit>
       <trans-unit id="0d62728b-b834-4fa8-aed5-6348033ee69c" resname="JUD·69 | Masked Gorgon | Card Name">
         <source>Masked Gorgon</source>
@@ -692,7 +692,7 @@
       </trans-unit>
       <trans-unit id="0d62728b-b834-4fa8-aed5-6348033ee69c" resname="JUD·69 | Masked Gorgon | Card Text | Paragraph 2">
         <source>Threshold CARDNAME has protection from green and from white. (You have threshold as long as seven or more cards are in your graveyard.)</source>
-        <target state="translated">门槛～覆面蛇发妖具有反绿保护及反白保护异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME具有反绿保护及反白保护异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="b5c83e4d-ccc1-4ebf-9e74-2cc1ff9a7b07" resname="JUD·70 | Morality Shift | Card Name">
         <source>Morality Shift</source>
@@ -732,11 +732,11 @@
       </trans-unit>
       <trans-unit id="f769536f-def1-40b8-863f-ba12c7cb0d87" resname="JUD·73 | Sutured Ghoul | Card Text | Paragraph 2">
         <source>As CARDNAME comes into play, remove any number of creature cards in your graveyard from the game.</source>
-        <target state="translated">于缝组食尸鬼进场时，从你坟墓场中将任意数量的生物牌移出对战。</target>
+        <target state="translated">于CARDNAME进场时，从你坟墓场中将任意数量的生物牌移出对战。</target>
       </trans-unit>
       <trans-unit id="f769536f-def1-40b8-863f-ba12c7cb0d87" resname="JUD·73 | Sutured Ghoul | Card Text | Paragraph 3">
         <source>CARDNAME's power is equal to the total power of the removed cards and its toughness is equal to their total toughness. (A * on a card not in play is 0.)</source>
-        <target state="translated">缝组食尸鬼的力量等同于以此法移出对战之牌力量的总和，且其防御力等同于以此法移出对战之牌防御力的总和。（不在场上的牌，其上的*均为0）</target>
+        <target state="translated">CARDNAME的力量等同于以此法移出对战之牌力量的总和，且其防御力等同于以此法移出对战之牌防御力的总和。（不在场上的牌，其上的*均为0）</target>
       </trans-unit>
       <trans-unit id="8c4d1f59-0dba-4b83-8386-ae564fb4b771" resname="JUD·74 | Toxic Stench | Card Name">
         <source>Toxic Stench</source>
@@ -760,11 +760,11 @@
       </trans-unit>
       <trans-unit id="a00562ae-b8b4-4f8f-8ea8-15d20568997d" resname="JUD·75 | Treacherous Vampire | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks or blocks, sacrifice it unless you remove a card in your graveyard from the game.</source>
-        <target state="translated">每当无节吸血鬼进行攻击或阻挡时，除非你从你坟墓场中将一张牌移出对战，否则牺牲之。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，除非你从你坟墓场中将一张牌移出对战，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="a00562ae-b8b4-4f8f-8ea8-15d20568997d" resname="JUD·75 | Treacherous Vampire | Card Text | Paragraph 3">
         <source>Threshold CARDNAME gets +2/+2 and has &amp;quot;When CARDNAME is put into a graveyard from play, you lose 6 life.&amp;quot;</source>
-        <target state="translated">门槛～无节吸血鬼得+2/+2并具有「当无节吸血鬼从场上置入坟墓场时，你失去6点生命。」</target>
+        <target state="translated">门槛～CARDNAME得+2/+2并具有「当CARDNAME从场上置入坟墓场时，你失去6点生命。」</target>
       </trans-unit>
       <trans-unit id="c9647726-302b-4fc4-91d7-2aa0bba0b653" resname="JUD·76 | Treacherous Werewolf | Card Name">
         <source>Treacherous Werewolf</source>
@@ -772,7 +772,7 @@
       </trans-unit>
       <trans-unit id="c9647726-302b-4fc4-91d7-2aa0bba0b653" resname="JUD·76 | Treacherous Werewolf | Card Text | Paragraph 1">
         <source>Threshold CARDNAME gets +2/+2 and has &amp;quot;When CARDNAME is put into a graveyard from play, you lose 4 life.&amp;quot; (You have threshold as long as seven or more cards are in your graveyard.)</source>
-        <target state="translated">门槛～无节狼人得+2/+2并具有「当无节狼人从场上置入坟墓场时，你失去4点生命。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+2/+2并具有「当CARDNAME从场上置入坟墓场时，你失去4点生命。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="fa2920af-e6a1-4939-ab59-67af4430e5b8" resname="JUD·77 | Anger | Card Name">
         <source>Anger</source>
@@ -784,7 +784,7 @@
       </trans-unit>
       <trans-unit id="fa2920af-e6a1-4939-ab59-67af4430e5b8" resname="JUD·77 | Anger | Card Text | Paragraph 2">
         <source>As long as CARDNAME is in your graveyard and you control a mountain, creatures you control have haste.</source>
-        <target state="translated">只要愤怒在你的坟墓场中，并且你操控山脉，由你操控的生物便具有敏捷异能。</target>
+        <target state="translated">只要CARDNAME在你的坟墓场中，并且你操控山脉，由你操控的生物便具有敏捷异能。</target>
       </trans-unit>
       <trans-unit id="02c56677-c8e2-4500-9ee0-0b102496f454" resname="JUD·78 | Arcane Teachings | Card Name">
         <source>Arcane Teachings</source>
@@ -800,7 +800,7 @@
       </trans-unit>
       <trans-unit id="e38f0f9f-ad7b-48da-89f3-b3e5346a3b71" resname="JUD·79 | Barbarian Bully | Card Text | Paragraph 1">
         <source>Discard a card at random from your hand: CARDNAME gets +2/+2 until end of turn unless a player has CARDNAME deal 4 damage to him or her. Play this ability only once each turn.</source>
-        <target state="translated">从你手上随机弃掉一张牌：除非任一牌手让恶霸蛮人对他造成4点伤害，否则它得+2/+2直到回合结束。此异能每回合中只能使用一次。</target>
+        <target state="translated">从你手上随机弃掉一张牌：除非任一牌手让CARDNAME对他造成4点伤害，否则它得+2/+2直到回合结束。此异能每回合中只能使用一次。</target>
       </trans-unit>
       <trans-unit id="bead678c-7b6a-4668-9919-623312e08a65" resname="JUD·80 | Book Burning | Card Name">
         <source>Book Burning</source>
@@ -808,7 +808,7 @@
       </trans-unit>
       <trans-unit id="bead678c-7b6a-4668-9919-623312e08a65" resname="JUD·80 | Book Burning | Card Text | Paragraph 1">
         <source>Unless a player has CARDNAME deal 6 damage to him or her, put the top six cards of target player's library into his or her graveyard.</source>
-        <target state="translated">除非任意牌手让焚书对他造成6点伤害，否则将目标牌手牌库顶的六张牌置入其坟墓场。</target>
+        <target state="translated">除非任意牌手让CARDNAME对他造成6点伤害，否则将目标牌手牌库顶的六张牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="765ec2c9-8ffe-488a-bebe-e5dd63825a8c" resname="JUD·81 | Breaking Point | Card Name">
         <source>Breaking Point</source>
@@ -816,7 +816,7 @@
       </trans-unit>
       <trans-unit id="765ec2c9-8ffe-488a-bebe-e5dd63825a8c" resname="JUD·81 | Breaking Point | Card Text | Paragraph 1">
         <source>Destroy all creatures unless a player has CARDNAME deal 6 damage to him or her. Creatures destroyed this way can't be regenerated.</source>
-        <target state="translated">除非任意牌手让惊爆点对他造成6点伤害，否则消灭所有生物。因此法被消灭的生物不能重生。</target>
+        <target state="translated">除非任意牌手让CARDNAME对他造成6点伤害，否则消灭所有生物。因此法被消灭的生物不能重生。</target>
       </trans-unit>
       <trans-unit id="74f20068-f225-4055-be7a-5c4a18e33b0b" resname="JUD·82 | Browbeat | Card Name">
         <source>Browbeat</source>
@@ -824,7 +824,7 @@
       </trans-unit>
       <trans-unit id="74f20068-f225-4055-be7a-5c4a18e33b0b" resname="JUD·82 | Browbeat | Card Text | Paragraph 1">
         <source>Unless a player has CARDNAME deal 5 damage to him or her, target player draws three cards.</source>
-        <target state="translated">除非任意牌手让威胁恫吓对他造成5点伤害，否则目标牌手抓三张牌。</target>
+        <target state="translated">除非任意牌手让CARDNAME对他造成5点伤害，否则目标牌手抓三张牌。</target>
       </trans-unit>
       <trans-unit id="1c9b692a-e832-4612-a6ec-93b52f6a0410" resname="JUD·83 | Burning Wish | Card Name">
         <source>Burning Wish</source>
@@ -832,7 +832,7 @@
       </trans-unit>
       <trans-unit id="1c9b692a-e832-4612-a6ec-93b52f6a0410" resname="JUD·83 | Burning Wish | Card Text | Paragraph 1">
         <source>Choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Remove CARDNAME from the game.</source>
-        <target state="translated">从对战外选择一张由你拥有的法术牌，展示该牌，然后将它置于你手上。将热切祈愿移出对战。</target>
+        <target state="translated">从对战外选择一张由你拥有的法术牌，展示该牌，然后将它置于你手上。将CARDNAME移出对战。</target>
       </trans-unit>
       <trans-unit id="9ac576b2-cda4-4aea-aa5c-933ec0457dda" resname="JUD·84 | Dwarven Bloodboiler | Card Name">
         <source>Dwarven Bloodboiler</source>
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="69d815d3-7e33-4de9-aa36-ff5ffb893d73" resname="JUD·85 | Dwarven Driller | Card Text | Paragraphs">
         <source>oc\nT: Destroy target land unless its controller has CARDNAME deal 2 damage to him or her.</source>
-        <target state="translated">ocT：除非目标地的操控者让钻探矮人对他造成2点伤害，否则消灭该地。</target>
+        <target state="translated">ocT：除非目标地的操控者让CARDNAME对他造成2点伤害，否则消灭该地。</target>
       </trans-unit>
       <trans-unit id="099873b1-7181-4b9d-8ce1-8ec63c814afe" resname="JUD·86 | Dwarven Scorcher | Card Name">
         <source>Dwarven Scorcher</source>
@@ -856,7 +856,7 @@
       </trans-unit>
       <trans-unit id="099873b1-7181-4b9d-8ce1-8ec63c814afe" resname="JUD·86 | Dwarven Scorcher | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: CARDNAME deals 1 damage to target creature unless that creature's controller has CARDNAME deal 2 damage to him or her.</source>
-        <target state="translated">牺牲焦炙矮人：除非目标生物的操控者让焦炙矮人对他造成2点伤害，否则焦炙矮人对该生物造成1点伤害。</target>
+        <target state="translated">牺牲CARDNAME：除非目标生物的操控者让CARDNAME对他造成2点伤害，否则CARDNAME对该生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="6a9eb72b-9ae2-4b64-bbb9-187446b5fd2f" resname="JUD·87 | Ember Shot | Card Name">
         <source>Ember Shot</source>
@@ -864,7 +864,7 @@
       </trans-unit>
       <trans-unit id="6a9eb72b-9ae2-4b64-bbb9-187446b5fd2f" resname="JUD·87 | Ember Shot | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature or player.</source>
-        <target state="translated">烬击对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="6a9eb72b-9ae2-4b64-bbb9-187446b5fd2f" resname="JUD·87 | Ember Shot | Card Text | Paragraph 2">
         <source>Draw a card.</source>
@@ -892,7 +892,7 @@
       </trans-unit>
       <trans-unit id="315e5b4e-ae58-412a-be27-c4ef4899fbbd" resname="JUD·90 | Fledgling Dragon | Card Text | Paragraphs">
         <source>Flying\nThreshold CARDNAME gets +3/+3 and has &amp;quot;o\nR: CARDNAME gets +1/+0 until end of turn.&amp;quot; (You have threshold as long as seven or more cards are in your graveyard.)</source>
-        <target state="translated">飞行\n门槛～幼年巨龙得+3/+3并具有「红：幼年巨龙得+1/+0直到回合结束。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">飞行\n门槛～CARDNAME得+3/+3并具有「红：CARDNAME得+1/+0直到回合结束。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="9919d2dd-d6a1-4d45-b6aa-227ed05d7051" resname="JUD·91 | Goretusk Firebeast | Card Name">
         <source>Goretusk Firebeast</source>
@@ -900,7 +900,7 @@
       </trans-unit>
       <trans-unit id="9919d2dd-d6a1-4d45-b6aa-227ed05d7051" resname="JUD·91 | Goretusk Firebeast | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, it deals 4 damage to target player.</source>
-        <target state="translated">当牴牙火焰兽进场时，它对目标牌手造成4点伤害。</target>
+        <target state="translated">当CARDNAME进场时，它对目标牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="8569cdf7-e0e9-4733-98b5-56fac216fad3" resname="JUD·92 | Infectious Rage | Card Name">
         <source>Infectious Rage</source>
@@ -912,7 +912,7 @@
       </trans-unit>
       <trans-unit id="8569cdf7-e0e9-4733-98b5-56fac216fad3" resname="JUD·92 | Infectious Rage | Card Text | Paragraph 2">
         <source>When enchanted creature is put into a graveyard, choose a creature at random CARDNAME can enchant. Return CARDNAME to play enchanting that creature.</source>
-        <target state="translated">当受此结界的生物置入坟墓场时，随机选择一个流布怒火能够结附的生物。将流布怒火移回场上，且结附于该生物。</target>
+        <target state="translated">当受此结界的生物置入坟墓场时，随机选择一个CARDNAME能够结附的生物。将CARDNAME移回场上，且结附于该生物。</target>
       </trans-unit>
       <trans-unit id="1cf96a59-8b7d-4a5b-adfd-17eeedd95db5" resname="JUD·93 | Jeska, Warrior Adept | Card Name">
         <source>Jeska, Warrior Adept</source>
@@ -920,7 +920,7 @@
       </trans-unit>
       <trans-unit id="1cf96a59-8b7d-4a5b-adfd-17eeedd95db5" resname="JUD·93 | Jeska, Warrior Adept | Card Text | Paragraphs">
         <source>First strike, haste\noc\nT: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">先攻，敏捷\nocT：战斗专家洁丝卡对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">先攻，敏捷\nocT：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="865bb1d3-5b7d-40e9-87cc-96be9524a105" resname="JUD·94 | Lava Dart | Card Name">
         <source>Lava Dart</source>
@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="865bb1d3-5b7d-40e9-87cc-96be9524a105" resname="JUD·94 | Lava Dart | Card Text | Paragraphs">
         <source>CARDNAME deals 1 damage to target creature or player.\nFlashback—\nSacrifice a mountain. (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)</source>
-        <target state="translated">熔岩镖对目标生物或牌手造成1点伤害。\n返照～牺牲一个山脉。（你可以从你的坟墓场使用此牌，并支付其返照费用。然后将它移出对战）</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成1点伤害。\n返照～牺牲一个山脉。（你可以从你的坟墓场使用此牌，并支付其返照费用。然后将它移出对战）</target>
       </trans-unit>
       <trans-unit id="e2c07842-9b70-40b1-9b97-9a9279b7ebc4" resname="JUD·95 | Liberated Dwarf | Card Name">
         <source>Liberated Dwarf</source>
@@ -936,7 +936,7 @@
       </trans-unit>
       <trans-unit id="e2c07842-9b70-40b1-9b97-9a9279b7ebc4" resname="JUD·95 | Liberated Dwarf | Card Text | Paragraphs">
         <source>o\nR, Sacrifice CARDNAME: Target green creature gets +1/+0 and gains first strike until end of turn.</source>
-        <target state="translated">红，牺牲重获自由的矮人：目标绿色生物得+1/+0并获得先攻异能直到回合结束。</target>
+        <target state="translated">红，牺牲CARDNAME：目标绿色生物得+1/+0并获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="0452d78d-eafc-4ccb-a478-d1f46bcefffe" resname="JUD·96 | Lightning Surge | Card Name">
         <source>Lightning Surge</source>
@@ -944,7 +944,7 @@
       </trans-unit>
       <trans-unit id="0452d78d-eafc-4ccb-a478-d1f46bcefffe" resname="JUD·96 | Lightning Surge | Card Text | Paragraphs">
         <source>CARDNAME deals 4 damage to target creature or player.\nThreshold Instead CARDNAME deals 6 damage to that creature or player and the damage can't be prevented.\nFlashback o5o\nRo\nR (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)</source>
-        <target state="translated">闪电波涛对目标生物或牌手造成4点伤害。\n门槛～改为闪电波涛对该生物或牌手造成6点伤害，且该伤害不能被防止。\n返照五红红（你可以从你的坟墓场使用此牌，并支付其返照费用。然后将它移出对战）</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成4点伤害。\n门槛～改为CARDNAME对该生物或牌手造成6点伤害，且该伤害不能被防止。\n返照五红红（你可以从你的坟墓场使用此牌，并支付其返照费用。然后将它移出对战）</target>
       </trans-unit>
       <trans-unit id="5dae5e16-d2fc-488c-9c53-d35c377d6a00" resname="JUD·97 | Planar Chaos | Card Name">
         <source>Planar Chaos</source>
@@ -952,7 +952,7 @@
       </trans-unit>
       <trans-unit id="5dae5e16-d2fc-488c-9c53-d35c377d6a00" resname="JUD·97 | Planar Chaos | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, flip a coin. If you lose the flip, sacrifice CARDNAME.</source>
-        <target state="translated">在你的维持开始时，掷一枚硬币。若你输去此掷，则牺牲时空混沌。</target>
+        <target state="translated">在你的维持开始时，掷一枚硬币。若你输去此掷，则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="5dae5e16-d2fc-488c-9c53-d35c377d6a00" resname="JUD·97 | Planar Chaos | Card Text | Paragraph 2">
         <source>Whenever a player plays a spell, that player flips a coin. If he or she loses the flip, counter that spell.</source>
@@ -976,11 +976,11 @@
       </trans-unit>
       <trans-unit id="8aef55b8-5813-4aff-a35d-4b3cbd4a9ffb" resname="JUD·99 | Soulgorger Orgg | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, you lose all but 1 life.</source>
-        <target state="translated">当吞魂欧格进场时，你失去除了1点以外的所有生命。</target>
+        <target state="translated">当CARDNAME进场时，你失去除了1点以外的所有生命。</target>
       </trans-unit>
       <trans-unit id="8aef55b8-5813-4aff-a35d-4b3cbd4a9ffb" resname="JUD·99 | Soulgorger Orgg | Card Text | Paragraph 3">
         <source>When CARDNAME leaves play, you gain life equal to the life you lost when it came into play.</source>
-        <target state="translated">当吞魂欧格离场时，你获得当它进场时使你失去的生命。</target>
+        <target state="translated">当CARDNAME离场时，你获得当它进场时使你失去的生命。</target>
       </trans-unit>
       <trans-unit id="043fcf80-dd20-4cc2-a0d5-4bb22b8b0789" resname="JUD·100 | Spellgorger Barbarian | Card Name">
         <source>Spellgorger Barbarian</source>
@@ -988,11 +988,11 @@
       </trans-unit>
       <trans-unit id="043fcf80-dd20-4cc2-a0d5-4bb22b8b0789" resname="JUD·100 | Spellgorger Barbarian | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, discard a card at random from your hand.</source>
-        <target state="translated">当吞咒野蛮人进场时，从你手上随机弃掉一张牌。</target>
+        <target state="translated">当CARDNAME进场时，从你手上随机弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="043fcf80-dd20-4cc2-a0d5-4bb22b8b0789" resname="JUD·100 | Spellgorger Barbarian | Card Text | Paragraph 2">
         <source>When CARDNAME leaves play, draw a card.</source>
-        <target state="translated">当吞咒野蛮人离场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME离场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="8f667c26-40f5-4ac5-87a4-cb03f70590a2" resname="JUD·101 | Swelter | Card Name">
         <source>Swelter</source>
@@ -1000,7 +1000,7 @@
       </trans-unit>
       <trans-unit id="8f667c26-40f5-4ac5-87a4-cb03f70590a2" resname="JUD·101 | Swelter | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each of two target creatures.</source>
-        <target state="translated">热浪袭击对两个目标生物各造成2点伤害。</target>
+        <target state="translated">CARDNAME对两个目标生物各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="4d757ec3-c15f-4d6e-8e18-36ebae985448" resname="JUD·102 | Swirling Sandstorm | Card Name">
         <source>Swirling Sandstorm</source>
@@ -1008,7 +1008,7 @@
       </trans-unit>
       <trans-unit id="4d757ec3-c15f-4d6e-8e18-36ebae985448" resname="JUD·102 | Swirling Sandstorm | Card Text | Paragraph 1">
         <source>Threshold CARDNAME deals 5 damage to each creature without flying. (You have threshold if seven or more cards are in your graveyard.)</source>
-        <target state="translated">门槛～回旋沙暴对每个不具飞行异能的生物各造成5点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME对每个不具飞行异能的生物各造成5点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="99783a2b-a95a-457b-82d6-001933aee5ec" resname="JUD·103 | Worldgorger Dragon | Card Name">
         <source>Worldgorger Dragon</source>
@@ -1020,11 +1020,11 @@
       </trans-unit>
       <trans-unit id="99783a2b-a95a-457b-82d6-001933aee5ec" resname="JUD·103 | Worldgorger Dragon | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, remove all other permanents you control from the game.</source>
-        <target state="translated">当吞世龙进场时，将所有其他由你操控的永久物移出对战。</target>
+        <target state="translated">当CARDNAME进场时，将所有其他由你操控的永久物移出对战。</target>
       </trans-unit>
       <trans-unit id="99783a2b-a95a-457b-82d6-001933aee5ec" resname="JUD·103 | Worldgorger Dragon | Card Text | Paragraph 3">
         <source>When CARDNAME leaves play, return the removed cards to play under their owners' control.</source>
-        <target state="translated">当吞世龙离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
       </trans-unit>
       <trans-unit id="33255dfd-f8a9-4a15-aac5-c53dc0257859" resname="JUD·104 | Anurid Barkripper | Card Name">
         <source>Anurid Barkripper</source>
@@ -1032,7 +1032,7 @@
       </trans-unit>
       <trans-unit id="33255dfd-f8a9-4a15-aac5-c53dc0257859" resname="JUD·104 | Anurid Barkripper | Card Text | Paragraph 1">
         <source>Threshold CARDNAME gets +2/+2. (You have threshold as long as seven or more cards are in your graveyard.)</source>
-        <target state="translated">门槛～裂皮驽蛙得+2/+2。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+2/+2。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="3636a9f8-d1d7-4452-8a53-788b514fdb97" resname="JUD·105 | Anurid Swarmsnapper | Card Name">
         <source>Anurid Swarmsnapper</source>
@@ -1040,7 +1040,7 @@
       </trans-unit>
       <trans-unit id="3636a9f8-d1d7-4452-8a53-788b514fdb97" resname="JUD·105 | Anurid Swarmsnapper | Card Text | Paragraphs">
         <source>CARDNAME may block as though it had flying.\no1o\nG: CARDNAME may block an additional creature this turn.</source>
-        <target state="translated">舌击驽蛙可以视同具有飞行异能地进行阻挡。\n一绿：舌击驽蛙本回合可以多阻挡一个生物。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。\n一绿：CARDNAME本回合可以多阻挡一个生物。</target>
       </trans-unit>
       <trans-unit id="f5ac74bc-1198-4a9a-bcde-668cca08b274" resname="JUD·106 | Battlefield Scrounger | Card Name">
         <source>Battlefield Scrounger</source>
@@ -1048,7 +1048,7 @@
       </trans-unit>
       <trans-unit id="f5ac74bc-1198-4a9a-bcde-668cca08b274" resname="JUD·106 | Battlefield Scrounger | Card Text | Paragraph 1">
         <source>Threshold Put three cards from your graveyard on the bottom of your library: CARDNAME gets +3/+3 until end of turn. Play this ability only once each turn. (Play this ability only if seven or more cards are in your graveyard.)</source>
-        <target state="translated">门槛～从你坟墓场将三张牌置于你的牌库底：战场搜括者得+3/+3直到回合结束。此异能每回合中只能使用一次。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
+        <target state="translated">门槛～从你坟墓场将三张牌置于你的牌库底：CARDNAME得+3/+3直到回合结束。此异能每回合中只能使用一次。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
       </trans-unit>
       <trans-unit id="e9f4b7fc-8793-43af-ade3-b23846a80457" resname="JUD·107 | Brawn | Card Name">
         <source>Brawn</source>
@@ -1060,7 +1060,7 @@
       </trans-unit>
       <trans-unit id="e9f4b7fc-8793-43af-ade3-b23846a80457" resname="JUD·107 | Brawn | Card Text | Paragraph 2">
         <source>As long as CARDNAME is in your graveyard and you control a forest, creatures you control have trample.</source>
-        <target state="translated">只要雄膂在你的坟墓场中，并且你操控树林，由你操控的生物便具有践踏异能。</target>
+        <target state="translated">只要CARDNAME在你的坟墓场中，并且你操控树林，由你操控的生物便具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="c4530da2-fd04-40d9-ad69-5c2847921509" resname="JUD·108 | Canopy Claws | Card Name">
         <source>Canopy Claws</source>
@@ -1076,7 +1076,7 @@
       </trans-unit>
       <trans-unit id="3f10dfd9-9889-4d9e-872a-07623dee6b6b" resname="JUD·109 | Centaur Rootcaster | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, you may search your library for a basic land card and put that card into play tapped. If you do, shuffle your library.</source>
-        <target state="translated">每当生根半人马对任一牌手造成战斗伤害时，你可以从你的牌库中搜寻一张基本地牌，并将之横置进场。若你如此作，则将你的牌库洗牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以从你的牌库中搜寻一张基本地牌，并将之横置进场。若你如此作，则将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="32a924b3-3bd6-43ad-acbd-1303dd670db4" resname="JUD·110 | Crush of Wurms | Card Name">
         <source>Crush of Wurms</source>
@@ -1144,7 +1144,7 @@
       </trans-unit>
       <trans-unit id="b43aee5e-b12e-43ea-9fae-16310acdc640" resname="JUD·117 | Genesis | Card Text | Paragraphs">
         <source>At the beginning of your upkeep, if CARDNAME is in your graveyard, you may pay o2o\nG. If you do, return target creature card from your graveyard to your hand.</source>
-        <target state="translated">在你的维持开始时，若创生在你的坟墓场中，你可以支付二绿。若你如此作，则将目标在你坟墓场中的生物牌移回你手上。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME在你的坟墓场中，你可以支付二绿。若你如此作，则将目标在你坟墓场中的生物牌移回你手上。</target>
       </trans-unit>
       <trans-unit id="c402ef0e-51e7-4da6-a434-b99c5d435698" resname="JUD·118 | Giant Warthog | Card Name">
         <source>Giant Warthog</source>
@@ -1176,7 +1176,7 @@
       </trans-unit>
       <trans-unit id="be9299cc-6f21-4185-ac63-2fd92e843faa" resname="JUD·121 | Ironshell Beetle | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, put a +1/+1 counter on target creature.</source>
-        <target state="translated">当铁壳甲虫进场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进场时，在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="5b3c5144-7e15-46c6-b819-d729ecb30bb1" resname="JUD·122 | Krosan Reclamation | Card Name">
         <source>Krosan Reclamation</source>
@@ -1192,7 +1192,7 @@
       </trans-unit>
       <trans-unit id="5356e684-c2fc-465e-a16c-7300824d2a8d" resname="JUD·123 | Krosan Wayfarer | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Put a land card from your hand into play.</source>
-        <target state="translated">牺牲克洛萨旅人：将一张地牌从你手上放置进场。</target>
+        <target state="translated">牺牲CARDNAME：将一张地牌从你手上放置进场。</target>
       </trans-unit>
       <trans-unit id="2478a8d2-ca44-4c42-8d75-dd9cb1b59f61" resname="JUD·124 | Living Wish | Card Name">
         <source>Living Wish</source>
@@ -1200,7 +1200,7 @@
       </trans-unit>
       <trans-unit id="2478a8d2-ca44-4c42-8d75-dd9cb1b59f61" resname="JUD·124 | Living Wish | Card Text | Paragraph 1">
         <source>Choose a creature or land card you own from outside the game, reveal that card, and put it into your hand. Remove CARDNAME from the game.</source>
-        <target state="translated">从对战外选择一张由你拥有的生物牌或地牌，展示该牌，然后将之置于你手上。将生机祈愿移出对战。</target>
+        <target state="translated">从对战外选择一张由你拥有的生物牌或地牌，展示该牌，然后将之置于你手上。将CARDNAME移出对战。</target>
       </trans-unit>
       <trans-unit id="16b93c93-5944-4289-bc5a-30b6e73b0dfd" resname="JUD·125 | Nantuko Tracer | Card Name">
         <source>Nantuko Tracer</source>
@@ -1208,7 +1208,7 @@
       </trans-unit>
       <trans-unit id="16b93c93-5944-4289-bc5a-30b6e73b0dfd" resname="JUD·125 | Nantuko Tracer | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, you may put target card from a graveyard on the bottom of its owner's library.</source>
-        <target state="translated">当摹迹螳人进场时，你可以将目标在坟墓场中的牌置于其拥有者的牌库底。</target>
+        <target state="translated">当CARDNAME进场时，你可以将目标在坟墓场中的牌置于其拥有者的牌库底。</target>
       </trans-unit>
       <trans-unit id="1c29991d-82f2-479d-95ca-5c88e9f3f219" resname="JUD·126 | Nullmage Advocate | Card Name">
         <source>Nullmage Advocate</source>
@@ -1228,11 +1228,11 @@
       </trans-unit>
       <trans-unit id="c421c2f1-2137-41bd-9a89-74d8a76fb5c5" resname="JUD·127 | Phantom Centaur | Card Text | Paragraph 2">
         <source>CARDNAME comes into play with three +1/+1 counters on it.</source>
-        <target state="translated">幽魅半人马进场时上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="c421c2f1-2137-41bd-9a89-74d8a76fb5c5" resname="JUD·127 | Phantom Centaur | Card Text | Paragraph 3">
         <source>If damage would be dealt to CARDNAME, prevent that damage. Remove a +1/+1 counter from CARDNAME.</source>
-        <target state="translated">若幽魅半人马将受到伤害，则防止该伤害。从幽魅半人马上移去一个+1/+1指示物。</target>
+        <target state="translated">若CARDNAME将受到伤害，则防止该伤害。从CARDNAME上移去一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="66f8ca45-b60f-4bb9-9f7e-1b5e13478f22" resname="JUD·128 | Phantom Nantuko | Card Name">
         <source>Phantom Nantuko</source>
@@ -1240,7 +1240,7 @@
       </trans-unit>
       <trans-unit id="66f8ca45-b60f-4bb9-9f7e-1b5e13478f22" resname="JUD·128 | Phantom Nantuko | Card Text | Paragraphs">
         <source>Trample\nCARDNAME comes into play with two +1/+1 counters on it.\nIf damage would be dealt to CARDNAME, prevent that damage. Remove a +1/+1 counter from CARDNAME.\noc\nT: Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">践踏\n幽魅螳人进场时上面有两个+1/+1指示物。\n若幽魅螳人将受到伤害，则防止该伤害。从幽魅螳人上移去一个+1/+1指示物。\nocT：在幽魅螳人上放置一个+1/+1指示物。</target>
+        <target state="translated">践踏\nCARDNAME进场时上面有两个+1/+1指示物。\n若CARDNAME将受到伤害，则防止该伤害。从CARDNAME上移去一个+1/+1指示物。\nocT：在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="32839296-e583-4f71-aa44-dbe16408665e" resname="JUD·129 | Phantom Tiger | Card Name">
         <source>Phantom Tiger</source>
@@ -1248,11 +1248,11 @@
       </trans-unit>
       <trans-unit id="32839296-e583-4f71-aa44-dbe16408665e" resname="JUD·129 | Phantom Tiger | Card Text | Paragraph 1">
         <source>CARDNAME comes into play with two +1/+1 counters on it.</source>
-        <target state="translated">幽魅虎进场时上面有两个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时上面有两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="32839296-e583-4f71-aa44-dbe16408665e" resname="JUD·129 | Phantom Tiger | Card Text | Paragraph 2">
         <source>If damage would be dealt to CARDNAME, prevent that damage. Remove a +1/+1 counter from CARDNAME.</source>
-        <target state="translated">若幽魅虎将受到伤害，则防止该伤害。从幽魅虎上移去一个+1/+1指示物。</target>
+        <target state="translated">若CARDNAME将受到伤害，则防止该伤害。从CARDNAME上移去一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="4ffd5c52-f260-400c-b088-8792282509a5" resname="JUD·130 | Seedtime | Card Name">
         <source>Seedtime</source>
@@ -1260,7 +1260,7 @@
       </trans-unit>
       <trans-unit id="4ffd5c52-f260-400c-b088-8792282509a5" resname="JUD·130 | Seedtime | Card Text | Paragraph 1">
         <source>Play CARDNAME only during your turn.</source>
-        <target state="translated">你只可以于你的回合中使用播种期。</target>
+        <target state="translated">你只可以于你的回合中使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="4ffd5c52-f260-400c-b088-8792282509a5" resname="JUD·130 | Seedtime | Card Text | Paragraph 2">
         <source>Take an extra turn after this one if an opponent played a blue spell this turn.</source>
@@ -1308,7 +1308,7 @@
       </trans-unit>
       <trans-unit id="c8e246c8-3b3f-47c4-8a1b-b5f2d36f0ca4" resname="JUD·135 | Tunneler Wurm | Card Text | Paragraph 1">
         <source>Discard a card from your hand: Regenerate CARDNAME.</source>
-        <target state="translated">从你手上弃掉一张牌：重生穿隧亚龙。</target>
+        <target state="translated">从你手上弃掉一张牌：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="db10359c-1ea8-4453-bc01-f638ad20a5ec" resname="JUD·136 | Venomous Vines | Card Name">
         <source>Venomous Vines</source>
@@ -1324,7 +1324,7 @@
       </trans-unit>
       <trans-unit id="b09204c7-3e3d-484a-a4f7-da1b818e3884" resname="JUD·137 | Anurid Brushhopper | Card Text | Paragraph 1">
         <source>Discard two cards from your hand: Remove CARDNAME from the game. Return it to play under its owner's control at end of turn.</source>
-        <target state="translated">从你手上弃掉两张牌：将跃丛驽蛙移出对战。在回合结束时将它在其拥有者的操控下移回场上。</target>
+        <target state="translated">从你手上弃掉两张牌：将CARDNAME移出对战。在回合结束时将它在其拥有者的操控下移回场上。</target>
       </trans-unit>
       <trans-unit id="5b14a736-5223-457b-9d4e-f4a2d6ed9a8d" resname="JUD·138 | Hunting Grounds | Card Name">
         <source>Hunting Grounds</source>
@@ -1356,15 +1356,15 @@
       </trans-unit>
       <trans-unit id="56ebc372-aabd-4174-a943-c7bf59e5028d" resname="JUD·140 | Phantom Nishoba | Card Text | Paragraph 2">
         <source>CARDNAME comes into play with seven +1/+1 counters on it.</source>
-        <target state="translated">幽魅尼索巴进场时上面有七个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时上面有七个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="56ebc372-aabd-4174-a943-c7bf59e5028d" resname="JUD·140 | Phantom Nishoba | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals damage, you gain that much life.</source>
-        <target state="translated">每当幽魅尼索巴造成伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME造成伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="56ebc372-aabd-4174-a943-c7bf59e5028d" resname="JUD·140 | Phantom Nishoba | Card Text | Paragraph 4">
         <source>If damage would be dealt to CARDNAME, prevent that damage. Remove a +1/+1 counter from CARDNAME.</source>
-        <target state="translated">若幽魅尼索巴将受到伤害，则防止该伤害。从幽魅尼索巴上移去一个+1/+1指示物。</target>
+        <target state="translated">若CARDNAME将受到伤害，则防止该伤害。从CARDNAME上移去一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="bae25abc-22c2-436d-9e08-f123543a0911" resname="JUD·141 | Krosan Verge | Card Name">
         <source>Krosan Verge</source>
@@ -1372,7 +1372,7 @@
       </trans-unit>
       <trans-unit id="bae25abc-22c2-436d-9e08-f123543a0911" resname="JUD·141 | Krosan Verge | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add one colorless mana to your mana pool.\no2, oc\nT, Sacrifice CARDNAME: Search your library for a forest card and a plains card and put them into play tapped. Then shuffle your library.</source>
-        <target state="translated">克洛萨边陲须横置进场。\nocT：加一点无色法术力到你的法术力池中。\n二，ocT，牺牲克洛萨边陲：从你的牌库中搜寻一张树林牌和一张平原牌，并将这些牌横置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">CARDNAME须横置进场。\nocT：加一点无色法术力到你的法术力池中。\n二，ocT，牺牲CARDNAME：从你的牌库中搜寻一张树林牌和一张平原牌，并将这些牌横置进场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="cb870406-9d59-4493-9f81-0f4b84642001" resname="JUD·142 | Nantuko Monastery | Card Name">
         <source>Nantuko Monastery</source>
@@ -1380,7 +1380,7 @@
       </trans-unit>
       <trans-unit id="cb870406-9d59-4493-9f81-0f4b84642001" resname="JUD·142 | Nantuko Monastery | Card Text | Paragraphs">
         <source>oc\nT: Add one colorless mana to your mana pool.\nThreshold o\nGo\nW: CARDNAME becomes a 4/4 green and white creature with first strike until end of turn. It's still a land. (Play this ability only if seven or more cards are in your graveyard.)</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\n门槛～绿白：螳人僧院成为4/4、绿色及白色、具有先攻异能的生物直到回合结束。它仍然是地。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
+        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\n门槛～绿白：CARDNAME成为4/4、绿色及白色、具有先攻异能的生物直到回合结束。它仍然是地。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
       </trans-unit>
       <trans-unit id="92ece630-e484-4221-911f-e32048894f23" resname="JUD·143 | Riftstone Portal | Card Name">
         <source>Riftstone Portal</source>
@@ -1388,7 +1388,7 @@
       </trans-unit>
       <trans-unit id="92ece630-e484-4221-911f-e32048894f23" resname="JUD·143 | Riftstone Portal | Card Text | Paragraphs">
         <source>oc\nT: Add one colorless mana to your mana pool.\nAs long as CARDNAME is in your graveyard, lands you control have &amp;quot;oc\nT: Add o\nG or o\nW to your mana pool.&amp;quot;</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\n只要天门石通道在你的坟墓场中，由你操控的地便具有「ocT：加绿或白到你的法术力池中。」</target>
+        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\n只要CARDNAME在你的坟墓场中，由你操控的地便具有「ocT：加绿或白到你的法术力池中。」</target>
       </trans-unit>
     </body>
   </file>

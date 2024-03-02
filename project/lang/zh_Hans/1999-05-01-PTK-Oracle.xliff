@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="c94a92a9-060e-42d3-a8d1-49425defc08a" resname="PTK·1 | Alert Shu Infantry | Card Text | Paragraph 1">
         <source>Vigilance</source>
-        <target state="translated">蜀国戎边部队攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
       </trans-unit>
       <trans-unit id="cc8c377a-82c4-46ee-94c2-b970160a3205" resname="PTK·2 | Eightfold Maze | Card Name">
         <source>Eightfold Maze</source>
@@ -26,7 +26,7 @@
       </trans-unit>
       <trans-unit id="cc8c377a-82c4-46ee-94c2-b970160a3205" resname="PTK·2 | Eightfold Maze | Card Text | Paragraph 1">
         <source>Cast this spell only during the declare attackers step and only if you've been attacked this step.</source>
-        <target state="translated">八阵图只能在你被攻击后，但还未宣布阻挡者之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣布阻挡者之前使用。</target>
       </trans-unit>
       <trans-unit id="cc8c377a-82c4-46ee-94c2-b970160a3205" resname="PTK·2 | Eightfold Maze | Card Text | Paragraph 2">
         <source>Destroy target attacking creature.</source>
@@ -54,7 +54,7 @@
       </trans-unit>
       <trans-unit id="a219a031-2466-4850-b646-79a09e30cf18" resname="PTK·5 | Flanking Troops | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may tap target creature.</source>
-        <target state="translated">当侧攻部队攻击，你可以横置任何一个生物。（已横置的生物不可进行阻挡）</target>
+        <target state="translated">当CARDNAME攻击，你可以横置任何一个生物。（已横置的生物不可进行阻挡）</target>
       </trans-unit>
       <trans-unit id="1575fadf-cd5c-4b4f-8965-c006e571334b" resname="PTK·6 | Guan Yu, Sainted Warrior | Card Name">
         <source>Guan Yu, Sainted Warrior</source>
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="6729eb0b-5655-4191-af14-4f7e4a8dded7" resname="PTK·10 | Kongming's Contraptions | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 2 damage to target attacking creature. Activate only during the declare attackers step and only if you've been attacked this step.</source>
-        <target state="translated">在你被攻击后，但还未宣布阻挡者之前，你可以横置木牛流马，以对任一个进行攻击的生物造成2点伤害。</target>
+        <target state="translated">在你被攻击后，但还未宣布阻挡者之前，你可以横置CARDNAME，以对任一个进行攻击的生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="b804c879-fe23-4d7f-9e7d-1da41b5c0973" resname="PTK·11 | Liu Bei, Lord of Shu | Card Name">
         <source>Liu Bei, Lord of Shu</source>
@@ -117,7 +117,7 @@
       </trans-unit>
       <trans-unit id="a2c37964-1c0d-40e6-9947-8be04fe14427" resname="PTK·12 | Loyal Retainers | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Return target legendary creature card from your graveyard to the battlefield. Activate only during your turn, before attackers are declared.</source>
-        <target state="translated">牺牲忠臣：将目标传奇生物牌从你的坟墓场移回战场。只能于你的回合中、宣告攻击者之前起动。</target>
+        <target state="translated">牺牲CARDNAME：将目标传奇生物牌从你的坟墓场移回战场。只能于你的回合中、宣告攻击者之前起动。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="80abd7c1-8f7a-4279-b76f-251a02624345" resname="PTK·13 | Misfortune's Gain | Card Name">
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="ee57a9ab-c385-4a51-aff7-6a654f5d7611" resname="PTK·20 | Shu Defender | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks, it gets +0/+2 until end of turn.</source>
-        <target state="translated">当蜀国防卫队进行阻挡时，它得+0S/+2D直到回合结束。</target>
+        <target state="translated">当CARDNAME进行阻挡时，它得+0S/+2D直到回合结束。</target>
       </trans-unit>
       <trans-unit id="11ac63f6-cd61-4334-902a-777410311b2d" resname="PTK·21 | Shu Elite Companions | Card Name">
         <source>Shu Elite Companions</source>
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="fc6d6524-d8bd-4eb9-9222-747443492b8c" resname="PTK·23 | Shu Farmer | Card Text | Paragraph 1">
         <source>{T}: You gain 1 life. Activate only during your turn, before attackers are declared.</source>
-        <target state="translated">在你的回合中，宣告攻击前，你可以横置蜀国农民，以获得1点生命。</target>
+        <target state="translated">在你的回合中，宣告攻击前，你可以横置CARDNAME，以获得1点生命。</target>
       </trans-unit>
       <trans-unit id="cd4268d5-f27b-44a5-91f6-6c90521825fd" resname="PTK·24 | Shu Foot Soldiers | Card Name">
         <source>Shu Foot Soldiers</source>
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="c9c3be7a-82a8-411c-bfe2-16749ada1244" resname="PTK·25 | Shu General | Card Text | Paragraphs">
         <source>Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)</source>
-        <target state="translated">马术\n蜀国将军攻击时不需横置。</target>
+        <target state="translated">马术\nCARDNAME攻击时不需横置。</target>
       </trans-unit>
       <trans-unit id="7bf26eb7-8a31-4022-87bb-67394653f06a" resname="PTK·26 | Shu Grain Caravan | Card Name">
         <source>Shu Grain Caravan</source>
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="7bf26eb7-8a31-4022-87bb-67394653f06a" resname="PTK·26 | Shu Grain Caravan | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 2 life.</source>
-        <target state="translated">当蜀国运粮队进场时，你获得2点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="edb576e9-98ba-4bd1-9d1e-e316acf2e7f5" resname="PTK·27 | Shu Soldier-Farmers | Card Name">
         <source>Shu Soldier-Farmers</source>
@@ -224,7 +224,7 @@
       </trans-unit>
       <trans-unit id="edb576e9-98ba-4bd1-9d1e-e316acf2e7f5" resname="PTK·27 | Shu Soldier-Farmers | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 4 life.</source>
-        <target state="translated">当蜀国屯田兵进场时，你获得4点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得4点生命。</target>
       </trans-unit>
       <trans-unit id="72ad4c79-a85d-4fc6-95ab-5a6d6d667579" resname="PTK·29 | Virtuous Charge | Card Name">
         <source>Virtuous Charge</source>
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="451ef657-8590-497a-9d98-a732d4de6165" resname="PTK·39 | Champion's Victory | Card Text | Paragraph 1">
         <source>Cast this spell only during the declare attackers step and only if you've been attacked this step.</source>
-        <target state="translated">冠军的胜利只能在你被攻击后，但还未宣布阻挡者之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣布阻挡者之前使用。</target>
       </trans-unit>
       <trans-unit id="451ef657-8590-497a-9d98-a732d4de6165" resname="PTK·39 | Champion's Victory | Card Text | Paragraph 2">
         <source>Return target attacking creature to its owner's hand.</source>
@@ -310,7 +310,7 @@
       </trans-unit>
       <trans-unit id="0c59f45b-46fa-4494-9b25-cf9d3e462539" resname="PTK·40 | Council of Advisors | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当参谋会议进场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="eafbeafb-ef84-4a8d-9ca8-ca305b1feeea" resname="PTK·41 | Counterintelligence | Card Name">
         <source>Counterintelligence</source>
@@ -334,7 +334,7 @@
       </trans-unit>
       <trans-unit id="0f45e837-7b98-46ef-b21b-e3508ce999e5" resname="PTK·45 | Lady Sun | Card Text | Paragraph 1">
         <source>{T}: Return CARDNAME and another target creature to their owners' hands. Activate only during your turn, before attackers are declared.</source>
-        <target state="translated">在你的回合中，宣告攻击前，你可以横置孙夫人，以移回任何一个生物及孙夫人到其拥有者手中。</target>
+        <target state="translated">在你的回合中，宣告攻击前，你可以横置CARDNAME，以移回任何一个生物及CARDNAME到其拥有者手中。</target>
       </trans-unit>
       <trans-unit id="77a8b376-eda5-4bf9-9093-9518c09e50e8" resname="PTK·46 | Lu Meng, Wu General | Card Name">
         <source>Lu Meng, Wu General</source>
@@ -370,7 +370,7 @@
       </trans-unit>
       <trans-unit id="c2314bf1-b22d-48c2-860f-e1081f56296b" resname="PTK·50 | Preemptive Strike | Card Text | Paragraph 1">
         <source>Counter target creature spell.</source>
-        <target state="translated">你只能在其他的玩家使用召唤生物时，以反应它的方式使用先下手为强。该生物牌将不会产生任何效应，并且被放入该玩家的坟墓场中。</target>
+        <target state="translated">你只能在其他的玩家使用召唤生物时，以反应它的方式使用CARDNAME。该生物牌将不会产生任何效应，并且被放入该玩家的坟墓场中。</target>
       </trans-unit>
       <trans-unit id="c8fe0f33-35c7-439b-bece-4a9461b92352" resname="PTK·51 | Red Cliffs Armada | Card Name">
         <source>Red Cliffs Armada</source>
@@ -378,7 +378,7 @@
       </trans-unit>
       <trans-unit id="c8fe0f33-35c7-439b-bece-4a9461b92352" resname="PTK·51 | Red Cliffs Armada | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless defending player controls an Island.</source>
-        <target state="translated">除非防御玩家有任何海岛在场，否则赤壁舰队不能攻击。</target>
+        <target state="translated">除非防御玩家有任何海岛在场，否则CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="156d7c70-6c6d-4052-9d44-029ba1bb66e4" resname="PTK·52 | Sage's Knowledge | Card Name">
         <source>Sage's Knowledge</source>
@@ -430,7 +430,7 @@
       </trans-unit>
       <trans-unit id="499ae191-80ac-42bf-b49d-db343803bd56" resname="PTK·57 | Wu Admiral | Card Text | Paragraph 1">
         <source>CARDNAME gets +1/+1 as long as an opponent controls an Island.</source>
-        <target state="translated">只要你的对手有任何海岛在场，吴国水军都督便得+1S/+1D。</target>
+        <target state="translated">只要你的对手有任何海岛在场，CARDNAME便得+1S/+1D。</target>
       </trans-unit>
       <trans-unit id="7cf562e2-be8e-4514-b2c8-3268dc1ab0db" resname="PTK·58 | Wu Elite Cavalry | Card Name">
         <source>Wu Elite Cavalry</source>
@@ -458,7 +458,7 @@
       </trans-unit>
       <trans-unit id="28e68635-b0ed-4a56-8b18-679f95db12b6" resname="PTK·61 | Wu Longbowman | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 1 damage to any target. Activate only during your turn, before attackers are declared.</source>
-        <target state="translated">在你的回合中，宣告攻击前，你可以横置吴国长弓箭手，以对任一个生物或玩家造成1点伤害。</target>
+        <target state="translated">在你的回合中，宣告攻击前，你可以横置CARDNAME，以对任一个生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="8d13330f-6e07-451f-b17a-4e1606a74c3f" resname="PTK·62 | Wu Scout | Card Name">
         <source>Wu Scout</source>
@@ -470,7 +470,7 @@
       </trans-unit>
       <trans-unit id="8d13330f-6e07-451f-b17a-4e1606a74c3f" resname="PTK·62 | Wu Scout | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, look at target opponent's hand.</source>
-        <target state="translated">当吴国斥候进场时，你可以检视你对手的手牌。</target>
+        <target state="translated">当CARDNAME进场时，你可以检视你对手的手牌。</target>
       </trans-unit>
       <trans-unit id="f77b8e34-e7e9-4ac6-bc21-0ef52c6696c7" resname="PTK·63 | Wu Spy | Card Name">
         <source>Wu Spy</source>
@@ -478,7 +478,7 @@
       </trans-unit>
       <trans-unit id="f77b8e34-e7e9-4ac6-bc21-0ef52c6696c7" resname="PTK·63 | Wu Spy | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, look at the top two cards of target player's library. Put one of them into their graveyard.</source>
-        <target state="translated">当吴国间谍进场时，检视任何玩家牌库顶端二张牌，将一张牌放回该玩家的牌库顶上，另一张置入该玩家的坟墓场。</target>
+        <target state="translated">当CARDNAME进场时，检视任何玩家牌库顶端二张牌，将一张牌放回该玩家的牌库顶上，另一张置入该玩家的坟墓场。</target>
       </trans-unit>
       <trans-unit id="2e211d47-dab4-429a-a90b-5b8489441886" resname="PTK·64 | Wu Warship | Card Name">
         <source>Wu Warship</source>
@@ -486,7 +486,7 @@
       </trans-unit>
       <trans-unit id="2e211d47-dab4-429a-a90b-5b8489441886" resname="PTK·64 | Wu Warship | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless defending player controls an Island.</source>
-        <target state="translated">除非防御玩家有任何海岛在场，否则吴国战船不可攻击。</target>
+        <target state="translated">除非防御玩家有任何海岛在场，否则CARDNAME不可攻击。</target>
       </trans-unit>
       <trans-unit id="6e2cf83b-417d-41ca-8e65-86aa65180c40" resname="PTK·65 | Zhou Yu, Chief Commander | Card Name">
         <source>Zhou Yu, Chief Commander</source>
@@ -541,7 +541,7 @@
       </trans-unit>
       <trans-unit id="9d3ba2e3-e680-47cd-81c5-555deea7d00f" resname="PTK·71 | Corrupt Court Official | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent discards a card.</source>
-        <target state="translated">当贪官污吏进战场时，目标对手弃一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手弃一张牌。</target>
         <note xmlns:from="developer">中文数据来自SNC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="5e31ede4-b0bb-4f63-b8df-1330152611a4" resname="PTK·72 | Cunning Advisor | Card Name">
@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="5e31ede4-b0bb-4f63-b8df-1330152611a4" resname="PTK·72 | Cunning Advisor | Card Text | Paragraph 1">
         <source>{T}: Target opponent discards a card. Activate only during your turn, before attackers are declared.</source>
-        <target state="translated">在你的回合中，宣告攻击之前，你可以横置狡猾的参谋，以使你的对手选择一张手牌并弃掉。</target>
+        <target state="translated">在你的回合中，宣告攻击之前，你可以横置CARDNAME，以使你的对手选择一张手牌并弃掉。</target>
       </trans-unit>
       <trans-unit id="bdb63768-2d8a-4a74-a312-b981dd462cdc" resname="PTK·73 | Deception | Card Name">
         <source>Deception</source>
@@ -574,7 +574,7 @@
       </trans-unit>
       <trans-unit id="8d6c10ca-f6d6-4322-aa17-7e874cb10bb1" resname="PTK·75 | Famine | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to each creature and each player.</source>
-        <target state="translated">饥荒对每一个生物及玩家造成3点伤害。（这包括你的生物及你自己）</target>
+        <target state="translated">CARDNAME对每一个生物及玩家造成3点伤害。（这包括你的生物及你自己）</target>
       </trans-unit>
       <trans-unit id="06f6938a-229a-4521-b5d5-7999ce5fb372" resname="PTK·76 | Ghostly Visit | Card Name">
         <source>Ghostly Visit</source>
@@ -640,7 +640,7 @@
       </trans-unit>
       <trans-unit id="e1f08862-5107-46a0-8c14-a961a5c4b135" resname="PTK·83 | Stolen Grain | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to target opponent or planeswalker. You gain 5 life.</source>
-        <target state="translated">窃取粮食对你的对手造成5点伤害。你获得5点生命。</target>
+        <target state="translated">CARDNAME对你的对手造成5点伤害。你获得5点生命。</target>
       </trans-unit>
       <trans-unit id="60303bfe-9158-4e25-a905-6522883ab671" resname="PTK·84 | Stone Catapult | Card Name">
         <source>Stone Catapult</source>
@@ -648,7 +648,7 @@
       </trans-unit>
       <trans-unit id="60303bfe-9158-4e25-a905-6522883ab671" resname="PTK·84 | Stone Catapult | Card Text | Paragraph 1">
         <source>{T}: Destroy target tapped nonblack creature. Activate only during your turn, before attackers are declared.</source>
-        <target state="translated">在你的回合中，宣告攻击前，你可以横置投石机，以消灭任一个非黑色的已横置生物。</target>
+        <target state="translated">在你的回合中，宣告攻击前，你可以横置CARDNAME，以消灭任一个非黑色的已横置生物。</target>
       </trans-unit>
       <trans-unit id="9b241ba4-cff5-48ce-83bd-d70fb5e20ff4" resname="PTK·85 | Wei Ambush Force | Card Name">
         <source>Wei Ambush Force</source>
@@ -656,7 +656,7 @@
       </trans-unit>
       <trans-unit id="9b241ba4-cff5-48ce-83bd-d70fb5e20ff4" resname="PTK·85 | Wei Ambush Force | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +2/+0 until end of turn.</source>
-        <target state="translated">若魏国埋伏部队进行攻击，它得+2S/+0D直到回合结束。</target>
+        <target state="translated">若CARDNAME进行攻击，它得+2S/+0D直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9b448c08-140f-41d6-aed5-ce9b68efafa9" resname="PTK·86 | Wei Assassins | Card Name">
         <source>Wei Assassins</source>
@@ -664,7 +664,7 @@
       </trans-unit>
       <trans-unit id="9b448c08-140f-41d6-aed5-ce9b68efafa9" resname="PTK·86 | Wei Assassins | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent chooses a creature they control. Destroy that creature.</source>
-        <target state="translated">当魏国刺客进场时，你的对手选择他的一个生物。消灭该生物。（若你的对手没有任何生物在场，则忽略此效应）</target>
+        <target state="translated">当CARDNAME进场时，你的对手选择他的一个生物。消灭该生物。（若你的对手没有任何生物在场，则忽略此效应）</target>
       </trans-unit>
       <trans-unit id="843cbf18-60ac-4d97-b156-874735db61c6" resname="PTK·87 | Wei Elite Companions | Card Name">
         <source>Wei Elite Companions</source>
@@ -688,7 +688,7 @@
       </trans-unit>
       <trans-unit id="f5a0292e-ecf4-42df-8abf-f4479f8ad6cb" resname="PTK·89 | Wei Night Raiders | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage to an opponent, that player discards a card.</source>
-        <target state="translated">当魏国夜袭队成功地对你的对手造成伤害时，他选择一张手牌并弃掉。（若你的对手没有手牌，则忽略此效应）</target>
+        <target state="translated">当CARDNAME成功地对你的对手造成伤害时，他选择一张手牌并弃掉。（若你的对手没有手牌，则忽略此效应）</target>
       </trans-unit>
       <trans-unit id="a11d58fb-fb70-4e8f-8f64-232ad2c1f59b" resname="PTK·90 | Wei Scout | Card Name">
         <source>Wei Scout</source>
@@ -732,7 +732,7 @@
       </trans-unit>
       <trans-unit id="11431c4c-b0bb-4747-a34a-4a90238ec9c6" resname="PTK·94 | Young Wei Recruits | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">魏国新兵不可进行阻挡。</target>
+        <target state="translated">CARDNAME不可进行阻挡。</target>
       </trans-unit>
       <trans-unit id="736e4bf1-fee9-47cc-9bbc-093f21c77297" resname="PTK·95 | Zhang He, Wei General | Card Name">
         <source>Zhang He, Wei General</source>
@@ -796,7 +796,7 @@
       </trans-unit>
       <trans-unit id="dee12f01-581e-4a3c-a8b5-41bef2516781" resname="PTK·103 | Burning Fields | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to target opponent or planeswalker.</source>
-        <target state="translated">纵火燎原对你的对手造成5点伤害。</target>
+        <target state="translated">CARDNAME对你的对手造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="33a1fe45-52d2-4c50-bedc-eee156ab69c8" resname="PTK·104 | Burning of Xinye | Card Name">
         <source>Burning of Xinye</source>
@@ -804,7 +804,7 @@
       </trans-unit>
       <trans-unit id="33a1fe45-52d2-4c50-bedc-eee156ab69c8" resname="PTK·104 | Burning of Xinye | Card Text | Paragraph 1">
         <source>You destroy four lands you control, then target opponent destroys four lands they control. Then CARDNAME deals 4 damage to each creature.</source>
-        <target state="translated">你消灭4张你的地牌，且你的对手也消灭4张他的地牌。然后火烧新野对场上每一个生物造成4点伤害。（这包括你的生物）</target>
+        <target state="translated">你消灭4张你的地牌，且你的对手也消灭4张他的地牌。然后CARDNAME对场上每一个生物造成4点伤害。（这包括你的生物）</target>
       </trans-unit>
       <trans-unit id="3e4f0005-4f19-4352-9cd2-3993ae6db879" resname="PTK·105 | Control of the Court | Card Name">
         <source>Control of the Court</source>
@@ -820,7 +820,7 @@
       </trans-unit>
       <trans-unit id="5e084664-2faf-4f7a-9068-d58d3f4b8456" resname="PTK·106 | Corrupt Eunuchs | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 2 damage to target creature.</source>
-        <target state="translated">当十常侍进场时，它对任何一个生物造成2点伤害。（如果场上只有你的生物，则对该生物之一造成伤害）</target>
+        <target state="translated">当CARDNAME进场时，它对任何一个生物造成2点伤害。（如果场上只有你的生物，则对该生物之一造成伤害）</target>
       </trans-unit>
       <trans-unit id="588ad2bf-405d-4c36-b485-e415c22f2703" resname="PTK·107 | Desert Sandstorm | Card Name">
         <source>Desert Sandstorm</source>
@@ -828,7 +828,7 @@
       </trans-unit>
       <trans-unit id="588ad2bf-405d-4c36-b485-e415c22f2703" resname="PTK·107 | Desert Sandstorm | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature.</source>
-        <target state="translated">沙漠风暴对每个生物造成1点伤害。（这包括你的生物）</target>
+        <target state="translated">CARDNAME对每个生物造成1点伤害。（这包括你的生物）</target>
       </trans-unit>
       <trans-unit id="6180c476-dadf-4c03-ab1e-639386bd4319" resname="PTK·108 | Diaochan, Artful Beauty | Card Name">
         <source>Diaochan, Artful Beauty</source>
@@ -860,7 +860,7 @@
       </trans-unit>
       <trans-unit id="4dd8bdbd-99c9-4fa7-936a-acc7f4238507" resname="PTK·111 | Fire Ambush | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">火攻突袭对任一个生物或玩家造成3点伤害。</target>
+        <target state="translated">CARDNAME对任一个生物或玩家造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="18acc721-e9ae-4ba4-b435-754e41fb541e" resname="PTK·112 | Fire Bowman | Card Name">
         <source>Fire Bowman</source>
@@ -868,7 +868,7 @@
       </trans-unit>
       <trans-unit id="18acc721-e9ae-4ba4-b435-754e41fb541e" resname="PTK·112 | Fire Bowman | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: It deals 1 damage to any target. Activate only during your turn, before attackers are declared.</source>
-        <target state="translated">在你的回合中，宣告攻击前，你可以消灭火弓箭手，以对任何一个生物或玩家造成1点伤害。</target>
+        <target state="translated">在你的回合中，宣告攻击前，你可以消灭CARDNAME，以对任何一个生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="1c473253-3992-4cc1-8b46-5d1da308c537" resname="PTK·113 | Imperial Recruiter | Card Name">
         <source>Imperial Recruiter</source>
@@ -877,7 +877,7 @@
       </trans-unit>
       <trans-unit id="1c473253-3992-4cc1-8b46-5d1da308c537" resname="PTK·113 | Imperial Recruiter | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">当近卫队进战场时，从你的牌库中搜寻一张力量等于或小于2的生物牌，展示该牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，从你的牌库中搜寻一张力量等于或小于2的生物牌，展示该牌，将它置于你手上，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
       <trans-unit id="ff7a4769-7a64-4016-8db0-b56c6b98aff3" resname="PTK·114 | Independent Troops | Card Name">
@@ -902,7 +902,7 @@
       </trans-unit>
       <trans-unit id="34fd541d-9956-4595-9527-a83db4c5f74f" resname="PTK·117 | Mountain Bandit | Card Text | Paragraph 1">
         <source>Haste</source>
-        <target state="translated">山贼不受召唤失调影响。</target>
+        <target state="translated">CARDNAME不受召唤失调影响。</target>
       </trans-unit>
       <trans-unit id="6278d679-fc54-4527-ab16-90735574ab9b" resname="PTK·118 | Ravaging Horde | Card Name">
         <source>Ravaging Horde</source>
@@ -910,7 +910,7 @@
       </trans-unit>
       <trans-unit id="6278d679-fc54-4527-ab16-90735574ab9b" resname="PTK·118 | Ravaging Horde | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, destroy target land.</source>
-        <target state="translated">当掠夺部队进场时，消灭任何一张地。</target>
+        <target state="translated">当CARDNAME进场时，消灭任何一张地。</target>
       </trans-unit>
       <trans-unit id="a75095f4-a77f-4237-ae25-2e6f2f8788c1" resname="PTK·120 | Renegade Troops | Card Name">
         <source>Renegade Troops</source>
@@ -918,7 +918,7 @@
       </trans-unit>
       <trans-unit id="a75095f4-a77f-4237-ae25-2e6f2f8788c1" resname="PTK·120 | Renegade Troops | Card Text | Paragraph 1">
         <source>Haste</source>
-        <target state="translated">叛军不受召唤失调影响。</target>
+        <target state="translated">CARDNAME不受召唤失调影响。</target>
       </trans-unit>
       <trans-unit id="04e5faf1-25c9-46c0-88f2-c59e7b9c08c5" resname="PTK·121 | Rockslide Ambush | Card Name">
         <source>Rockslide Ambush</source>
@@ -926,7 +926,7 @@
       </trans-unit>
       <trans-unit id="04e5faf1-25c9-46c0-88f2-c59e7b9c08c5" resname="PTK·121 | Rockslide Ambush | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target creature equal to the number of Mountains you control.</source>
-        <target state="translated">落石埋伏对任一个生物造成等同于你场上山脉数量的伤害。（这包括你横置与未横置的山脉）</target>
+        <target state="translated">CARDNAME对任一个生物造成等同于你场上山脉数量的伤害。（这包括你横置与未横置的山脉）</target>
       </trans-unit>
       <trans-unit id="3c1bf210-ecdb-4b49-8504-51360c269e66" resname="PTK·122 | Rolling Earthquake | Card Name">
         <source>Rolling Earthquake</source>
@@ -935,7 +935,7 @@
       </trans-unit>
       <trans-unit id="3c1bf210-ecdb-4b49-8504-51360c269e66" resname="PTK·122 | Rolling Earthquake | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature without horsemanship and each player.</source>
-        <target state="translated">地动山摇对每个不具马术异能的生物和每位牌手各造成X点伤害。</target>
+        <target state="translated">CARDNAME对每个不具马术异能的生物和每位牌手各造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="d582861a-ca6e-4b74-adf0-3eb588ea5ed2" resname="PTK·124 | Warrior's Oath | Card Name">
@@ -958,7 +958,7 @@
       </trans-unit>
       <trans-unit id="84460666-4f6b-422c-b20e-dc1651c66e15" resname="PTK·125 | Yellow Scarves Cavalry | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">黄巾贼骑兵不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="06e98691-6227-41f2-a3f4-3131b07a3a6f" resname="PTK·126 | Yellow Scarves General | Card Name">
         <source>Yellow Scarves General</source>
@@ -970,7 +970,7 @@
       </trans-unit>
       <trans-unit id="06e98691-6227-41f2-a3f4-3131b07a3a6f" resname="PTK·126 | Yellow Scarves General | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">黄巾贼将领不可进行阻挡。</target>
+        <target state="translated">CARDNAME不可进行阻挡。</target>
       </trans-unit>
       <trans-unit id="3ca36a8d-ca44-485e-a219-85814f160c4d" resname="PTK·127 | Yellow Scarves Troops | Card Name">
         <source>Yellow Scarves Troops</source>
@@ -978,7 +978,7 @@
       </trans-unit>
       <trans-unit id="3ca36a8d-ca44-485e-a219-85814f160c4d" resname="PTK·127 | Yellow Scarves Troops | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">黄巾贼不可进行阻挡。</target>
+        <target state="translated">CARDNAME不可进行阻挡。</target>
       </trans-unit>
       <trans-unit id="5e9b3794-d0f0-4d28-85cb-22492e195ae1" resname="PTK·128 | Yuan Shao, the Indecisive | Card Name">
         <source>Yuan Shao, the Indecisive</source>
@@ -998,7 +998,7 @@
       </trans-unit>
       <trans-unit id="a2623481-cee3-4a9d-933b-235fcde9a27b" resname="PTK·129 | Yuan Shao's Infantry | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks alone, CARDNAME can't be blocked this combat.</source>
-        <target state="translated">每当只有袁绍步兵进行攻击时，袁绍步兵不能被阻挡。</target>
+        <target state="translated">每当只有CARDNAME进行攻击时，CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="cc61aa62-25ee-40a4-9b6e-d6277316b464" resname="PTK·130 | Zodiac Dog | Card Name">
         <source>Zodiac Dog</source>
@@ -1014,7 +1014,7 @@
       </trans-unit>
       <trans-unit id="46652ae3-6572-4296-939b-0789923180d5" resname="PTK·131 | Zodiac Dragon | Card Text | Paragraph 1">
         <source>When CARDNAME is put into your graveyard from the battlefield, you may return it to your hand.</source>
-        <target state="translated">如果十二生肖·龙进入你的坟墓场，你可以将十二生肖·龙移回你的手中。</target>
+        <target state="translated">如果CARDNAME进入你的坟墓场，你可以将CARDNAME移回你的手中。</target>
       </trans-unit>
       <trans-unit id="52510462-2802-4e16-87d4-da376ee2e3be" resname="PTK·132 | Zodiac Goat | Card Name">
         <source>Zodiac Goat</source>
@@ -1030,7 +1030,7 @@
       </trans-unit>
       <trans-unit id="96ba9014-d750-4924-aa6f-8b9f421807f9" resname="PTK·133 | Borrowing the East Wind | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature with horsemanship and each player.</source>
-        <target state="translated">借东风对每个玩家及每个具马术异能的生物造成X点伤害。（这包括你及你的生物）</target>
+        <target state="translated">CARDNAME对每个玩家及每个具马术异能的生物造成X点伤害。（这包括你及你的生物）</target>
       </trans-unit>
       <trans-unit id="61bdfefb-f2e2-409c-b5e1-66d24ab3ee5d" resname="PTK·134 | False Mourning | Card Name">
         <source>False Mourning</source>
@@ -1050,7 +1050,7 @@
       </trans-unit>
       <trans-unit id="499fee7b-1942-4eb9-b1d0-806a1f6c0cd8" resname="PTK·136 | Heavy Fog | Card Text | Paragraph 1">
         <source>Cast this spell only during the declare attackers step and only if you've been attacked this step.</source>
-        <target state="translated">大雾只能在你被攻击后，但还未宣布阻挡者之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣布阻挡者之前使用。</target>
       </trans-unit>
       <trans-unit id="499fee7b-1942-4eb9-b1d0-806a1f6c0cd8" resname="PTK·136 | Heavy Fog | Card Text | Paragraph 2">
         <source>Prevent all damage that would be dealt to you this turn by attacking creatures.</source>
@@ -1070,7 +1070,7 @@
       </trans-unit>
       <trans-unit id="56a63628-17e6-4845-96b4-c82c3e7e8fb5" resname="PTK·138 | Hunting Cheetah | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage to an opponent, you may search your library for a Forest card, reveal that card, put it into your hand, then shuffle.</source>
-        <target state="translated">当巡行猎豹成功地对你的对手造成伤害时，你可以在你的牌库中搜寻一张树林牌，展示该牌，再将它放入你的手中。之后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME成功地对你的对手造成伤害时，你可以在你的牌库中搜寻一张树林牌，展示该牌，再将它放入你的手中。之后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="009661e7-c704-43a1-82e3-7da0b609844e" resname="PTK·139 | Lady Zhurong, Warrior Queen | Card Name">
         <source>Lady Zhurong, Warrior Queen</source>
@@ -1114,7 +1114,7 @@
       </trans-unit>
       <trans-unit id="4fbedd66-457a-4e1c-a9f3-fa37dec81c7a" resname="PTK·145 | Slashing Tiger | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, it gets +2/+2 until end of turn.</source>
-        <target state="translated">当猛虎进行攻击且被阻挡时，它得+2S/+2D直到回合结束。</target>
+        <target state="translated">当CARDNAME进行攻击且被阻挡时，它得+2S/+2D直到回合结束。</target>
       </trans-unit>
       <trans-unit id="87e138c7-1166-4e20-b039-e94c1319ad42" resname="PTK·146 | Southern Elephant | Card Name">
         <source>Southern Elephant</source>
@@ -1142,7 +1142,7 @@
       </trans-unit>
       <trans-unit id="d818c231-8d66-4024-91de-fe29f8622902" resname="PTK·150 | Taoist Hermit | Card Text | Paragraph 1">
         <source>Hexproof (This creature can't be the target of spells or abilities your opponents control.)</source>
-        <target state="translated">每当你的对手需选择场上一个生物时，他不能选择道家隐士</target>
+        <target state="translated">每当你的对手需选择场上一个生物时，他不能选择CARDNAME</target>
       </trans-unit>
       <trans-unit id="023ae64a-7888-4ad2-b879-0649d8e341ac" resname="PTK·151 | Taoist Mystic | Card Name">
         <source>Taoist Mystic</source>
@@ -1150,7 +1150,7 @@
       </trans-unit>
       <trans-unit id="023ae64a-7888-4ad2-b879-0649d8e341ac" resname="PTK·151 | Taoist Mystic | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by creatures with horsemanship.</source>
-        <target state="translated">具马术异能的生物无法阻挡秘术道士。</target>
+        <target state="translated">具马术异能的生物无法阻挡CARDNAME。</target>
       </trans-unit>
       <trans-unit id="4620867c-a3a6-4c81-b923-24007367132e" resname="PTK·152 | Taunting Challenge | Card Name">
         <source>Taunting Challenge</source>
@@ -1176,7 +1176,7 @@
       </trans-unit>
       <trans-unit id="ab242eab-5cab-41a0-bcf8-93a6919e4558" resname="PTK·154 | Trained Cheetah | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, it gets +1/+1 until end of turn.</source>
-        <target state="translated">当驯使的猎豹进行攻击且被阻挡时，它得+1S/+1D直到回合结束。</target>
+        <target state="translated">当CARDNAME进行攻击且被阻挡时，它得+1S/+1D直到回合结束。</target>
       </trans-unit>
       <trans-unit id="01deb3cc-91e8-4ef3-964f-f36c6a21207c" resname="PTK·155 | Trained Jackal | Card Name">
         <source>Trained Jackal</source>
@@ -1204,7 +1204,7 @@
       </trans-unit>
       <trans-unit id="290f395d-0827-4f62-b117-4766d4ab5dca" resname="PTK·158 | Wolf Pack | Card Text | Paragraph 1">
         <source>You may have CARDNAME assign its combat damage as though it weren't blocked.</source>
-        <target state="translated">当狼群进行攻击且被阻挡时，你可以改为对防御玩家，而非对阻挡它的生物造成伤害。</target>
+        <target state="translated">当CARDNAME进行攻击且被阻挡时，你可以改为对防御玩家，而非对阻挡它的生物造成伤害。</target>
       </trans-unit>
       <trans-unit id="fb24cb19-3409-45f7-b0e0-7c652064d2dd" resname="PTK·159 | Zodiac Horse | Card Name">
         <source>Zodiac Horse</source>

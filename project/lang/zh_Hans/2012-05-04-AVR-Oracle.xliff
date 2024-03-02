@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="7a8be765-0949-491c-875c-0385fb83e4b9" resname="AVR·1 | Angel of Glory's Rise | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.</source>
-        <target state="translated">当耀扬天使进战场时，放逐所有灵俑，然后将所有人类生物牌从你的坟墓场移回战场。</target>
+        <target state="translated">当CARDNAME进战场时，放逐所有灵俑，然后将所有人类生物牌从你的坟墓场移回战场。</target>
         <note xmlns:from="developer">中文数据来自MIC（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="16c5dfed-4dee-4e48-a445-89f03d7794e6" resname="AVR·2 | Angel of Jubilation | Card Name">
@@ -84,7 +84,7 @@
       </trans-unit>
       <trans-unit id="76cac47a-9e83-4039-8d80-fa9bdadb7527" resname="AVR·11 | Cathedral Sanctifier | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 3 life.</source>
-        <target state="translated">当大教堂祝圣僧进战场时，你获得3点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="35b06c8f-5f08-43bd-a548-2a98ba30fd41" resname="AVR·12 | Cloudshift | Card Name">
         <source>Cloudshift</source>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="ec06e42f-e294-44ef-8fa8-1d1a4c2090d8" resname="AVR·18 | Divine Deflection | Card Text | Paragraph 1">
         <source>Prevent the next X damage that would be dealt to you and/or permanents you control this turn. If damage is prevented this way, CARDNAME deals that much damage to any target.</source>
-        <target state="translated">于本回合中，防止接下来将对你和／或由你操控的永久物造成之X点伤害。 若以此法防止伤害，则神圣偏折对目标生物或牌手造成等量的伤害。</target>
+        <target state="translated">于本回合中，防止接下来将对你和／或由你操控的永久物造成之X点伤害。 若以此法防止伤害，则CARDNAME对目标生物或牌手造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="7a4bc00e-28ca-4152-b832-f36425d2b615" resname="AVR·19 | Emancipation Angel | Card Name">
         <source>Emancipation Angel</source>
@@ -166,7 +166,7 @@
       </trans-unit>
       <trans-unit id="7a4bc00e-28ca-4152-b832-f36425d2b615" resname="AVR·19 | Emancipation Angel | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return a permanent you control to its owner's hand.</source>
-        <target state="translated">当解放天使进战场时，将一个由你操控的永久物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将一个由你操控的永久物移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="31292616-70e6-4d19-a883-e63ad860f50c" resname="AVR·20 | Entreat the Angels | Card Name">
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="df5656e3-5f53-41f8-9f24-04caad5e4ca3" resname="AVR·23 | Goldnight Redeemer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 2 life for each other creature you control.</source>
-        <target state="translated">当金夜救赎使进战场时，你每操控一个其他生物，便获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你每操控一个其他生物，便获得2点生命。</target>
       </trans-unit>
       <trans-unit id="77e92bbb-c22d-4879-9437-b87a3ff70a2d" resname="AVR·24 | Herald of War | Card Name">
         <source>Herald of War</source>
@@ -226,12 +226,12 @@
       </trans-unit>
       <trans-unit id="77e92bbb-c22d-4879-9437-b87a3ff70a2d" resname="AVR·24 | Herald of War | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, put a +1/+1 counter on it.</source>
-        <target state="translated">每当战令天使攻击时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME攻击时，在其上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自MIC（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="77e92bbb-c22d-4879-9437-b87a3ff70a2d" resname="AVR·24 | Herald of War | Card Text | Paragraph 3">
         <source>Angel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on CARDNAME.</source>
-        <target state="translated">战令天使上每有一个+1/+1指示物，你施放之天使咒语和人类咒语便减少{1}来施放。</target>
+        <target state="translated">CARDNAME上每有一个+1/+1指示物，你施放之天使咒语和人类咒语便减少{1}来施放。</target>
         <note xmlns:from="developer">中文数据来自MIC（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="640cad49-1db3-4611-a80d-7ce95f000fad" resname="AVR·25 | Holy Justiciar | Card Name">
@@ -264,7 +264,7 @@
       </trans-unit>
       <trans-unit id="d4f6214f-90cb-4575-b221-3c8d0ed65ffe" resname="AVR·28 | Midvast Protector | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.</source>
-        <target state="translated">当中厅保护人进战场时，选择一种颜色，目标由你操控的生物获得反该色保护异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，选择一种颜色，目标由你操控的生物获得反该色保护异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4cf4c4cf-df35-4725-81ca-d62b70b8d0dd" resname="AVR·29 | Moonlight Geist | Card Name">
         <source>Moonlight Geist</source>
@@ -276,7 +276,7 @@
       </trans-unit>
       <trans-unit id="4cf4c4cf-df35-4725-81ca-d62b70b8d0dd" resname="AVR·29 | Moonlight Geist | Card Text | Paragraph 2">
         <source>{3}{W}: Prevent all combat damage that would be dealt to and dealt by CARDNAME this turn.</source>
-        <target state="translated">{3}{W}：于本回合中，防止月光游魂将受到与造成的所有伤害。</target>
+        <target state="translated">{3}{W}：于本回合中，防止CARDNAME将受到与造成的所有伤害。</target>
       </trans-unit>
       <trans-unit id="581dbbea-9995-4e4b-ba5c-d6d5597e4ace" resname="AVR·30 | Moorland Inquisitor | Card Name">
         <source>Moorland Inquisitor</source>
@@ -285,7 +285,7 @@
       </trans-unit>
       <trans-unit id="581dbbea-9995-4e4b-ba5c-d6d5597e4ace" resname="AVR·30 | Moorland Inquisitor | Card Text | Paragraph 1">
         <source>{2}{W}: CARDNAME gains first strike until end of turn. (It deals combat damage before creatures without first strike.)</source>
-        <target state="translated">{2}{W}：荒野审判官获得先攻异能直到回合结束。（它会比不具先攻异能的生物提前造成战斗伤害。）</target>
+        <target state="translated">{2}{W}：CARDNAME获得先攻异能直到回合结束。（它会比不具先攻异能的生物提前造成战斗伤害。）</target>
         <note xmlns:from="developer">中文数据来自M20（2019-07-12）；</note>
       </trans-unit>
       <trans-unit id="d81d6fe0-c7c2-46a6-811c-f121284937ea" resname="AVR·31 | Nearheath Pilgrim | Card Name">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="d81d6fe0-c7c2-46a6-811c-f121284937ea" resname="AVR·31 | Nearheath Pilgrim | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have lifelink.</source>
-        <target state="translated">只要原陲朝圣客与另一生物搭档，此两者便具有系命异能。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此两者便具有系命异能。</target>
       </trans-unit>
       <trans-unit id="bcc1647b-9271-4426-9938-7eb620ad0769" resname="AVR·33 | Riders of Gavony | Card Name">
         <source>Riders of Gavony</source>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="bcc1647b-9271-4426-9938-7eb620ad0769" resname="AVR·33 | Riders of Gavony | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于加渥尼骑兵进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
         <note xmlns:from="developer">中文数据来自MIC（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="bcc1647b-9271-4426-9938-7eb620ad0769" resname="AVR·33 | Riders of Gavony | Card Text | Paragraph 3">
@@ -327,7 +327,7 @@
       </trans-unit>
       <trans-unit id="9b640fdc-7a19-475e-858f-e159f61e154e" resname="AVR·34 | Righteous Blow | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target attacking or blocking creature.</source>
-        <target state="translated">正气霆击对目标进行攻击或阻挡的生物造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标进行攻击或阻挡的生物造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自GRN（2018-10-05）；</note>
       </trans-unit>
       <trans-unit id="5da345bd-8f2b-4966-97f5-c0e4c6cfe3b7" resname="AVR·35 | Seraph of Dawn | Card Name">
@@ -350,7 +350,7 @@
       </trans-unit>
       <trans-unit id="f774e0eb-5c05-4a9e-8ab7-9ee4c7741591" resname="AVR·37 | Spectral Gateguards | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have vigilance.</source>
-        <target state="translated">只要幽灵门卫与另一生物搭档，此两者便具有警戒异能。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此两者便具有警戒异能。</target>
       </trans-unit>
       <trans-unit id="0982ea7e-05a4-4e40-98ab-ea9aa6c7342e" resname="AVR·38 | Terminus | Card Name">
         <source>Terminus</source>
@@ -385,7 +385,7 @@
       </trans-unit>
       <trans-unit id="b785276b-3778-49f3-b46f-a1f3d91db097" resname="AVR·40 | Voice of the Provinces | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create a 1/1 white Human creature token.</source>
-        <target state="translated">当诸省使者进战场时，将一个1/1白色人类衍生生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将一个1/1白色人类衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="ae8a01fb-dd47-44de-b528-8b7ca4b3388b" resname="AVR·41 | Zealous Strike | Card Name">
         <source>Zealous Strike</source>
@@ -403,7 +403,7 @@
       </trans-unit>
       <trans-unit id="31abba67-1241-4fb3-88b5-4c4668ec5f25" resname="AVR·42 | Alchemist's Apprentice | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">牺牲炼金术士学徒：抓一张牌。</target>
+        <target state="translated">牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="f5b48d60-fc99-4d21-9293-4f7ce1c02928" resname="AVR·43 | Amass the Components | Card Name">
         <source>Amass the Components</source>
@@ -429,7 +429,7 @@
       </trans-unit>
       <trans-unit id="c43aa68e-a182-4006-b4d6-b4fc67e68583" resname="AVR·45 | Captain of the Mists | Card Text | Paragraph 1">
         <source>Whenever another Human enters the battlefield under your control, untap CARDNAME.</source>
-        <target state="translated">每当另一个人类在你的操控下进战场时，重置迷雾船长。</target>
+        <target state="translated">每当另一个人类在你的操控下进战场时，重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="c43aa68e-a182-4006-b4d6-b4fc67e68583" resname="AVR·45 | Captain of the Mists | Card Text | Paragraph 2">
         <source>{1}{U}, {T}: You may tap or untap target permanent.</source>
@@ -462,7 +462,7 @@
       </trans-unit>
       <trans-unit id="fa94262b-f740-48fb-a937-75776864c9ee" resname="AVR·47 | Deadeye Navigator | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures has &amp;quot;{1}{U}: Exile this creature, then return it to the battlefield under your control.&amp;quot;</source>
-        <target state="translated">只要神准导灵与另一生物搭档，它们便各具有「{1}{U}：放逐此生物，然后将它在你的操控下移回战场。」</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各具有「{1}{U}：放逐此生物，然后将它在你的操控下移回战场。」</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="23b62be6-1a80-4f16-a94a-374203052662" resname="AVR·48 | Devastation Tide | Card Name">
@@ -500,7 +500,7 @@
       </trans-unit>
       <trans-unit id="e7d376ef-c900-4abb-9a0b-5eb9369f5739" resname="AVR·50 | Elgaud Shieldmate | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)</source>
-        <target state="translated">只要艾尔告护盾手与另一生物搭档，此两者便具有辟邪异能。 （它们不能成为由对手所操控之咒语或异能的目标。）</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此两者便具有辟邪异能。 （它们不能成为由对手所操控之咒语或异能的目标。）</target>
       </trans-unit>
       <trans-unit id="4cbd57f1-9883-40a4-9b52-1649cee83815" resname="AVR·51 | Favorable Winds | Card Name">
         <source>Favorable Winds</source>
@@ -522,7 +522,7 @@
       </trans-unit>
       <trans-unit id="8e89ef0e-1bfe-4e12-90ee-38f993cd8110" resname="AVR·52 | Fettergeist | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {1} for each other creature you control.</source>
-        <target state="translated">在你的维持开始时，除非你为由你操控的每个其他生物各支付{1}，否则牺牲拘锁游魂。</target>
+        <target state="translated">在你的维持开始时，除非你为由你操控的每个其他生物各支付{1}，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b0e24d65-0e6f-4978-8de1-c5e4acac12fb" resname="AVR·54 | Galvanic Alchemist | Card Name">
         <source>Galvanic Alchemist</source>
@@ -534,7 +534,7 @@
       </trans-unit>
       <trans-unit id="b0e24d65-0e6f-4978-8de1-c5e4acac12fb" resname="AVR·54 | Galvanic Alchemist | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures has &amp;quot;{2}{U}: Untap this creature.&amp;quot;</source>
-        <target state="translated">只要电流炼金术士与另一生物搭档，它们便各具有「{2}{U}：重置此生物。」</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各具有「{2}{U}：重置此生物。」</target>
       </trans-unit>
       <trans-unit id="b6dac5db-ef96-4bd5-aabc-e5ae2b95c8c3" resname="AVR·55 | Geist Snatch | Card Name">
         <source>Geist Snatch</source>
@@ -586,7 +586,7 @@
       </trans-unit>
       <trans-unit id="b7238136-c8de-4949-9b54-ff75094e0569" resname="AVR·59 | Gryff Vanguard | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当骏鹭先锋进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="4c7ff97f-fb06-4a61-98cd-50965a6522d4" resname="AVR·60 | Havengul Skaab | Card Name">
         <source>Havengul Skaab</source>
@@ -594,7 +594,7 @@
       </trans-unit>
       <trans-unit id="4c7ff97f-fb06-4a61-98cd-50965a6522d4" resname="AVR·60 | Havengul Skaab | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, return another creature you control to its owner's hand.</source>
-        <target state="translated">每当海温古尸嵌攻击时，将由你操控的另一个生物移回其拥有者手上。</target>
+        <target state="translated">每当CARDNAME攻击时，将由你操控的另一个生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="42506c54-e9bf-4d0f-8dd5-8b218668c925" resname="AVR·61 | Infinite Reflection | Card Name">
         <source>Infinite Reflection</source>
@@ -608,7 +608,7 @@
       </trans-unit>
       <trans-unit id="42506c54-e9bf-4d0f-8dd5-8b218668c925" resname="AVR·61 | Infinite Reflection | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature.</source>
-        <target state="translated">当无限映象进战场且结附于生物上时，所有由你操控且非衍生物的其他生物均成为所结附的生物之复制品。</target>
+        <target state="translated">当CARDNAME进战场且结附于生物上时，所有由你操控且非衍生物的其他生物均成为所结附的生物之复制品。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="42506c54-e9bf-4d0f-8dd5-8b218668c925" resname="AVR·61 | Infinite Reflection | Card Text | Paragraph 3">
@@ -633,7 +633,7 @@
       </trans-unit>
       <trans-unit id="2e12186e-9c93-4136-9ea3-e8d2ae1ee2e5" resname="AVR·64 | Lone Revenant | Card Text | Paragraphs">
         <source>Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever CARDNAME deals combat damage to a player, if you control no other creatures, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">辟邪（此生物不能成为由对手所操控之咒语或异能的目标。）每当独行复灵对任一牌手造成战斗伤害时，若你未操控其他生物，则检视你牌库顶的四张牌。将其中一张置于你手上，其余的牌则以任意顺序置于你的牌库底。</target>
+        <target state="translated">辟邪（此生物不能成为由对手所操控之咒语或异能的目标。）每当CARDNAME对任一牌手造成战斗伤害时，若你未操控其他生物，则检视你牌库顶的四张牌。将其中一张置于你手上，其余的牌则以任意顺序置于你的牌库底。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="f346d236-528c-4164-9995-74cdc56597a9" resname="AVR·65 | Lunar Mystic | Card Name">
@@ -664,7 +664,7 @@
       </trans-unit>
       <trans-unit id="0d98f0c4-021a-407a-8b0c-5500d804f959" resname="AVR·67 | Mist Raven | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return target creature to its owner's hand.</source>
-        <target state="translated">当雾鸦进战场时，将目标生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标生物移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="2db4fe28-e580-479b-910f-b719d69468b1" resname="AVR·68 | Misthollow Griffin | Card Name">
@@ -677,7 +677,7 @@
       </trans-unit>
       <trans-unit id="2db4fe28-e580-479b-910f-b719d69468b1" resname="AVR·68 | Misthollow Griffin | Card Text | Paragraph 2">
         <source>You may cast CARDNAME from exile.</source>
-        <target state="translated">你可以从放逐区施放雾谷狮鹫。</target>
+        <target state="translated">你可以从放逐区施放CARDNAME。</target>
       </trans-unit>
       <trans-unit id="1a531b2f-2a9e-4cc9-aea6-9dce239f5511" resname="AVR·69 | Nephalia Smuggler | Card Name">
         <source>Nephalia Smuggler</source>
@@ -703,7 +703,7 @@
       </trans-unit>
       <trans-unit id="f13b5ba6-0de1-4f5c-867b-57e2c10bde8e" resname="AVR·72 | Rotcrown Ghoul | Card Text | Paragraph 1">
         <source>When CARDNAME dies, target player mills five cards.</source>
-        <target state="translated">当腐冠食尸鬼死去时，目标牌手将其牌库顶的五张牌置入其坟墓场。</target>
+        <target state="translated">当CARDNAME死去时，目标牌手将其牌库顶的五张牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="c9f03bae-1d23-43ea-9079-4b09d61bbadd" resname="AVR·73 | Scrapskin Drake | Card Name">
         <source>Scrapskin Drake</source>
@@ -712,7 +712,7 @@
       </trans-unit>
       <trans-unit id="c9f03bae-1d23-43ea-9079-4b09d61bbadd" resname="AVR·73 | Scrapskin Drake | Card Text | Paragraphs">
         <source>Flying (This creature can't be blocked except by creatures with flying or reach.)\nCARDNAME can block only creatures with flying.</source>
-        <target state="translated">飞行 （此生物只能被具飞行或延势异能的生物阻挡。）废皮龙兽只能阻挡具飞行异能的生物。</target>
+        <target state="translated">飞行 （此生物只能被具飞行或延势异能的生物阻挡。）CARDNAME只能阻挡具飞行异能的生物。</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="0d22d093-8e89-4d54-ac04-14c8759de3ea" resname="AVR·74 | Second Guess | Card Name">
@@ -737,7 +737,7 @@
       </trans-unit>
       <trans-unit id="89d141bc-7307-40c2-a7ed-427caaec5efc" resname="AVR·75 | Spectral Prison | Card Text | Paragraph 3">
         <source>When enchanted creature becomes the target of a spell, sacrifice CARDNAME.</source>
-        <target state="translated">当所结附的生物成为咒语的目标时，牺牲幽灵拘禁。</target>
+        <target state="translated">当所结附的生物成为咒语的目标时，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="d8823bdc-0467-47f1-9bef-a281b4a7071d" resname="AVR·76 | Spirit Away | Card Name">
         <source>Spirit Away</source>
@@ -765,7 +765,7 @@
       </trans-unit>
       <trans-unit id="ffe4d34f-68f0-4d79-9aab-58c5304224d9" resname="AVR·77 | Stern Mentor | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures has &amp;quot;{T}: Target player mills two cards.&amp;quot;</source>
-        <target state="translated">只要严峻教师与另一生物搭档，它们便各具有「{T}：目标牌手将其牌库顶的两张牌置入其坟墓场。」</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各具有「{T}：目标牌手将其牌库顶的两张牌置入其坟墓场。」</target>
       </trans-unit>
       <trans-unit id="53203dfc-5ad5-4c17-9802-ca2f874d327a" resname="AVR·78 | Stolen Goods | Card Name">
         <source>Stolen Goods</source>
@@ -809,7 +809,7 @@
       </trans-unit>
       <trans-unit id="83564e67-2677-4955-a3b9-3b221dbb100b" resname="AVR·80 | Tandem Lookout | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures has &amp;quot;Whenever this creature deals damage to an opponent, draw a card.&amp;quot;</source>
-        <target state="translated">只要协力警戒员与另一生物搭档，它们便各具有「每当此生物向任一对手造成伤害时，抓一张牌。」</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各具有「每当此生物向任一对手造成伤害时，抓一张牌。」</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="266e5267-2288-4bb0-8c54-0c556521cec3" resname="AVR·81 | Temporal Mastery | Card Name">
@@ -819,7 +819,7 @@
       </trans-unit>
       <trans-unit id="266e5267-2288-4bb0-8c54-0c556521cec3" resname="AVR·81 | Temporal Mastery | Card Text | Paragraph 1">
         <source>Take an extra turn after this one. Exile CARDNAME.</source>
-        <target state="translated">于本回合后进行额外的一个回合。放逐精研时序。</target>
+        <target state="translated">于本回合后进行额外的一个回合。放逐CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="266e5267-2288-4bb0-8c54-0c556521cec3" resname="AVR·81 | Temporal Mastery | Card Text | Paragraph 2">
@@ -851,7 +851,7 @@
       </trans-unit>
       <trans-unit id="04a3059f-92f2-4163-b79a-154118a4e36d" resname="AVR·83 | Wingcrafter | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have flying.</source>
-        <target state="translated">只要飞翼匠与另一生物搭档，此二者便具有飞行异能。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此二者便具有飞行异能。</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="062ee892-cce7-42bd-97c7-032cec61faca" resname="AVR·84 | Appetite for Brains | Card Name">
@@ -869,7 +869,7 @@
       </trans-unit>
       <trans-unit id="2e1fb442-68ff-4249-8e44-87edf6fae211" resname="AVR·86 | Blood Artist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another creature dies, target player loses 1 life and you gain 1 life.</source>
-        <target state="translated">每当鲜血画家或另一个生物死去时，目标牌手失去1点生命且你获得1点生命。</target>
+        <target state="translated">每当CARDNAME或另一个生物死去时，目标牌手失去1点生命且你获得1点生命。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="97485dbf-2f31-4ed2-a6cd-529ca22c9ac5" resname="AVR·87 | Bloodflow Connoisseur | Card Name">
@@ -879,7 +879,7 @@
       </trans-unit>
       <trans-unit id="97485dbf-2f31-4ed2-a6cd-529ca22c9ac5" resname="AVR·87 | Bloodflow Connoisseur | Card Text | Paragraph 1">
         <source>Sacrifice a creature: Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">牺牲一个生物：在血流鉴赏家上放置一个+1/+1指示物。</target>
+        <target state="translated">牺牲一个生物：在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="44a91e62-e946-4101-8cef-d1c147caebf2" resname="AVR·89 | Butcher Ghoul | Card Name">
@@ -905,12 +905,12 @@
       </trans-unit>
       <trans-unit id="8f5e8815-cda8-407d-847c-968b72c061e8" resname="AVR·92 | Dark Impostor | Card Text | Paragraph 1">
         <source>{4}{B}{B}: Exile target creature and put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{4}{B}{B}：放逐目标生物并在黑暗冒名客上放置一个+1/+1指示物。</target>
+        <target state="translated">{4}{B}{B}：放逐目标生物并在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="8f5e8815-cda8-407d-847c-968b72c061e8" resname="AVR·92 | Dark Impostor | Card Text | Paragraph 2">
         <source>CARDNAME has all activated abilities of all creature cards exiled with it.</source>
-        <target state="translated">黑暗冒名客具有所有以它放逐之生物牌的所有起动式异能。</target>
+        <target state="translated">CARDNAME具有所有以它放逐之生物牌的所有起动式异能。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="462a0961-cca5-4d63-867f-7426dbef8639" resname="AVR·93 | Death Wind | Card Name">
@@ -941,7 +941,7 @@
       </trans-unit>
       <trans-unit id="fb5d6266-30a7-4360-84bc-22b52fb782b3" resname="AVR·95 | Demonic Taskmaster | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice a creature other than CARDNAME.</source>
-        <target state="translated">在你的维持开始时，牺牲一个恶魔工头以外的生物。</target>
+        <target state="translated">在你的维持开始时，牺牲一个CARDNAME以外的生物。</target>
       </trans-unit>
       <trans-unit id="785da9a3-09af-45aa-bc04-4ab69cfb2ba4" resname="AVR·96 | Demonlord of Ashmouth | Card Name">
         <source>Demonlord of Ashmouth</source>
@@ -953,7 +953,7 @@
       </trans-unit>
       <trans-unit id="785da9a3-09af-45aa-bc04-4ab69cfb2ba4" resname="AVR·96 | Demonlord of Ashmouth | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile it unless you sacrifice another creature.</source>
-        <target state="translated">当烬口恶魔领主进战场时，除非你牺牲另一个生物，否则放逐它。</target>
+        <target state="translated">当CARDNAME进战场时，除非你牺牲另一个生物，否则放逐它。</target>
       </trans-unit>
       <trans-unit id="785da9a3-09af-45aa-bc04-4ab69cfb2ba4" resname="AVR·96 | Demonlord of Ashmouth | Card Text | Paragraph 3">
         <source>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</source>
@@ -965,7 +965,7 @@
       </trans-unit>
       <trans-unit id="fa016bb7-ad8b-40d5-90db-412a9cf19e4e" resname="AVR·97 | Descent into Madness | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a despair counter on CARDNAME, then each player exiles X permanents they control and/or cards from their hand, where X is the number of despair counters on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在陷落狂境上放置一个绝望指示物，然后每位牌手各放逐X个由他操控的永久物和／或其手上的一张牌，X为陷落狂境上的绝望指示物数量。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个绝望指示物，然后每位牌手各放逐X个由他操控的永久物和／或其手上的一张牌，X为CARDNAME上的绝望指示物数量。</target>
       </trans-unit>
       <trans-unit id="3d8a3abd-a4a2-48e6-b709-1c0240a76c5e" resname="AVR·98 | Dread Slaver | Card Name">
         <source>Dread Slaver</source>
@@ -974,7 +974,7 @@
       </trans-unit>
       <trans-unit id="3d8a3abd-a4a2-48e6-b709-1c0240a76c5e" resname="AVR·98 | Dread Slaver | Card Text | Paragraph 1">
         <source>Whenever a creature dealt damage by CARDNAME this turn dies, return it to the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.</source>
-        <target state="translated">每当本回合中受过可怖奴隶主伤害的生物死去时，将它在你的操控下移回战场。该生物是黑色灵俑，且仍具有原本颜色与类别。</target>
+        <target state="translated">每当本回合中受过CARDNAME伤害的生物死去时，将它在你的操控下移回战场。该生物是黑色灵俑，且仍具有原本颜色与类别。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="56113cde-4210-46be-bd53-8966c36ef2a3" resname="AVR·99 | Driver of the Dead | Card Name">
@@ -984,7 +984,7 @@
       </trans-unit>
       <trans-unit id="56113cde-4210-46be-bd53-8966c36ef2a3" resname="AVR·99 | Driver of the Dead | Card Text | Paragraph 1">
         <source>When CARDNAME dies, return target creature card with mana value 2 or less from your graveyard to the battlefield.</source>
-        <target state="translated">当亡者车夫死去时，将目标总法术力费用等于或小于2的生物牌从你的坟墓场移回战场。</target>
+        <target state="translated">当CARDNAME死去时，将目标总法术力费用等于或小于2的生物牌从你的坟墓场移回战场。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="7c3fac03-a019-4faa-bc1c-09e3a394fff7" resname="AVR·100 | Essence Harvest | Card Name">
@@ -1002,7 +1002,7 @@
       </trans-unit>
       <trans-unit id="1091fadf-97c4-4f87-8466-6a1246a72226" resname="AVR·101 | Evernight Shade | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：永夜阴魂得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="1091fadf-97c4-4f87-8466-6a1246a72226" resname="AVR·101 | Evernight Shade | Card Text | Paragraph 2">
@@ -1036,7 +1036,7 @@
       </trans-unit>
       <trans-unit id="1b00c711-007d-4c85-9dd9-dd9d52f1649d" resname="AVR·104 | Gloom Surgeon | Card Text | Paragraph 1">
         <source>If combat damage would be dealt to CARDNAME, prevent that damage and exile that many cards from the top of your library.</source>
-        <target state="translated">若幽暗医士将受到战斗伤害，防止该伤害并从你的牌库顶放逐等量的牌。</target>
+        <target state="translated">若CARDNAME将受到战斗伤害，防止该伤害并从你的牌库顶放逐等量的牌。</target>
       </trans-unit>
       <trans-unit id="14f420c4-801b-48e7-a10b-de44a2417265" resname="AVR·105 | Grave Exchange | Card Name">
         <source>Grave Exchange</source>
@@ -1083,7 +1083,7 @@
       </trans-unit>
       <trans-unit id="bb443cf7-70bd-4df7-b446-107e099c19e3" resname="AVR·110 | Hunted Ghoul | Card Text | Paragraph 1">
         <source>CARDNAME can't block Humans.</source>
-        <target state="translated">遭缉食尸鬼不能阻挡人类。</target>
+        <target state="translated">CARDNAME不能阻挡人类。</target>
       </trans-unit>
       <trans-unit id="c63dd203-bce9-4ab7-8a0c-059d19d384e9" resname="AVR·112 | Maalfeld Twins | Card Name">
         <source>Maalfeld Twins</source>
@@ -1092,7 +1092,7 @@
       </trans-unit>
       <trans-unit id="c63dd203-bce9-4ab7-8a0c-059d19d384e9" resname="AVR·112 | Maalfeld Twins | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create two 2/2 black Zombie creature tokens.</source>
-        <target state="translated">当玛费尔双身死去时，派出两个2/2黑色灵俑衍生生物。</target>
+        <target state="translated">当CARDNAME死去时，派出两个2/2黑色灵俑衍生生物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="38dcbad0-267e-411f-8e99-5d90b537bf9b" resname="AVR·113 | Marrow Bats | Card Name">
@@ -1105,7 +1105,7 @@
       </trans-unit>
       <trans-unit id="38dcbad0-267e-411f-8e99-5d90b537bf9b" resname="AVR·113 | Marrow Bats | Card Text | Paragraph 2">
         <source>Pay 4 life: Regenerate CARDNAME.</source>
-        <target state="translated">支付4点生命：重生骨髓蝙蝠。</target>
+        <target state="translated">支付4点生命：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="4f8a1d51-aa7f-41fd-b97d-56bc48221615" resname="AVR·114 | Mental Agony | Card Name">
         <source>Mental Agony</source>
@@ -1131,7 +1131,7 @@
       </trans-unit>
       <trans-unit id="036c1954-37d3-4787-8df8-f2d0dd39058a" resname="AVR·116 | Polluted Dead | Card Text | Paragraph 1">
         <source>When CARDNAME dies, destroy target land.</source>
-        <target state="translated">当聚污亡者死去时，消灭目标地。</target>
+        <target state="translated">当CARDNAME死去时，消灭目标地。</target>
       </trans-unit>
       <trans-unit id="88810a96-d5f8-4030-93f1-e2ad0d480317" resname="AVR·117 | Predator's Gambit | Card Name">
         <source>Predator's Gambit</source>
@@ -1164,7 +1164,7 @@
       </trans-unit>
       <trans-unit id="b0dc1a94-0193-464e-a481-730b34b57db5" resname="AVR·119 | Searchlight Geist | Card Text | Paragraph 2">
         <source>{3}{B}: CARDNAME gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)</source>
-        <target state="translated">{3}{B}：探照游魂获得死触异能直到回合结束。 （它对生物造成的任何数量伤害都足以消灭后者。）</target>
+        <target state="translated">{3}{B}：CARDNAME获得死触异能直到回合结束。 （它对生物造成的任何数量伤害都足以消灭后者。）</target>
       </trans-unit>
       <trans-unit id="dce1b1d3-9602-42bf-b341-d96976ff1e60" resname="AVR·120 | Soulcage Fiend | Card Name">
         <source>Soulcage Fiend</source>
@@ -1173,7 +1173,7 @@
       </trans-unit>
       <trans-unit id="dce1b1d3-9602-42bf-b341-d96976ff1e60" resname="AVR·120 | Soulcage Fiend | Card Text | Paragraph 1">
         <source>When CARDNAME dies, each player loses 3 life.</source>
-        <target state="translated">当魂槛邪鬼死去时，每位牌手各失去3点生命。</target>
+        <target state="translated">当CARDNAME死去时，每位牌手各失去3点生命。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="eec7dfd7-d7b2-44fa-b351-022a19fe81b8" resname="AVR·121 | Treacherous Pit-Dweller | Card Name">
@@ -1182,7 +1182,7 @@
       </trans-unit>
       <trans-unit id="eec7dfd7-d7b2-44fa-b351-022a19fe81b8" resname="AVR·121 | Treacherous Pit-Dweller | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield from a graveyard, target opponent gains control of it.</source>
-        <target state="translated">当变节恶魔从坟墓场进战场时，目标对手获得其操控权。</target>
+        <target state="translated">当CARDNAME从坟墓场进战场时，目标对手获得其操控权。</target>
       </trans-unit>
       <trans-unit id="eec7dfd7-d7b2-44fa-b351-022a19fe81b8" resname="AVR·121 | Treacherous Pit-Dweller | Card Text | Paragraph 2">
         <source>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</source>
@@ -1202,7 +1202,7 @@
       </trans-unit>
       <trans-unit id="8d330058-16af-4486-aa89-b6be759e35d4" resname="AVR·123 | Undead Executioner | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may have target creature get -2/-2 until end of turn.</source>
-        <target state="translated">当不死行刑人死去时，你可以让目标生物得-2/-2直到回合结束。</target>
+        <target state="translated">当CARDNAME死去时，你可以让目标生物得-2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b26d73e6-9138-43b2-8031-6e3b25fa33f9" resname="AVR·124 | Unhallowed Pact | Card Name">
         <source>Unhallowed Pact</source>
@@ -1225,7 +1225,7 @@
       </trans-unit>
       <trans-unit id="999f40a7-b723-42e1-83c1-f45a72a26dd4" resname="AVR·125 | Aggravate | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature target player controls. Each creature dealt damage this way attacks this turn if able.</source>
-        <target state="translated">惹恼对由目标牌手操控的每个生物各造成1点伤害。 以此法受到伤害的每个生物本回合若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME对由目标牌手操控的每个生物各造成1点伤害。 以此法受到伤害的每个生物本回合若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="6c6f1a8b-329e-4094-8141-6bc88311a08c" resname="AVR·126 | Archwing Dragon | Card Name">
         <source>Archwing Dragon</source>
@@ -1237,7 +1237,7 @@
       </trans-unit>
       <trans-unit id="6c6f1a8b-329e-4094-8141-6bc88311a08c" resname="AVR·126 | Archwing Dragon | Card Text | Paragraph 2">
         <source>At the beginning of the end step, return CARDNAME to its owner's hand.</source>
-        <target state="translated">在结束步骤开始时，将拱翼巨龙移回其拥有者手上。</target>
+        <target state="translated">在结束步骤开始时，将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="a7792df3-e2ab-4e60-abee-f24b72807107" resname="AVR·127 | Banners Raised | Card Name">
         <source>Banners Raised</source>
@@ -1262,7 +1262,7 @@
       </trans-unit>
       <trans-unit id="e60610fe-891d-46de-b556-d03b637dccec" resname="AVR·129 | Bonfire of the Damned | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.</source>
-        <target state="translated">厄亡者葬火对目标牌手与由他操控的每个生物各造成X点伤害。</target>
+        <target state="translated">CARDNAME对目标牌手与由他操控的每个生物各造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="e60610fe-891d-46de-b556-d03b637dccec" resname="AVR·129 | Bonfire of the Damned | Card Text | Paragraph 2">
@@ -1276,11 +1276,11 @@
       </trans-unit>
       <trans-unit id="d46e9902-81fb-4a3c-9f2f-d3faf031631d" resname="AVR·130 | Burn at the Stake | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, tap any number of untapped creatures you control.</source>
-        <target state="translated">横置任意数量由你操控、且未横置的生物，以作为施放处以火刑的额外费用。</target>
+        <target state="translated">横置任意数量由你操控、且未横置的生物，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="d46e9902-81fb-4a3c-9f2f-d3faf031631d" resname="AVR·130 | Burn at the Stake | Card Text | Paragraph 2">
         <source>CARDNAME deals damage to any target equal to three times the number of creatures tapped this way.</source>
-        <target state="translated">处以火刑对目标生物或牌手造成伤害，其数量等同于以此法横置之生物数量三倍。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成伤害，其数量等同于以此法横置之生物数量三倍。</target>
       </trans-unit>
       <trans-unit id="636c4042-703f-4548-9a0f-cb550c468bf9" resname="AVR·131 | Dangerous Wager | Card Name">
         <source>Dangerous Wager</source>
@@ -1309,12 +1309,12 @@
       </trans-unit>
       <trans-unit id="40e23909-7e08-4686-ae59-e18e7d4cfd3c" resname="AVR·134 | Falkenrath Exterminator | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, put a +1/+1 counter on it.</source>
-        <target state="translated">每当伐肯纳扑灭者对任一牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="40e23909-7e08-4686-ae59-e18e7d4cfd3c" resname="AVR·134 | Falkenrath Exterminator | Card Text | Paragraph 2">
         <source>{2}{R}: CARDNAME deals damage to target creature equal to the number of +1/+1 counters on CARDNAME.</source>
-        <target state="translated">{2}{R}：伐肯纳扑灭者对目标生物造成伤害，其数量等同于伐肯纳扑灭者上+1/+1指示物的数量。</target>
+        <target state="translated">{2}{R}：CARDNAME对目标生物造成伤害，其数量等同于CARDNAME上+1/+1指示物的数量。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="0fceeb14-a22a-4ab6-9e6d-ba375b6865c0" resname="AVR·135 | Fervent Cathar | Card Name">
@@ -1329,7 +1329,7 @@
       </trans-unit>
       <trans-unit id="0fceeb14-a22a-4ab6-9e6d-ba375b6865c0" resname="AVR·135 | Fervent Cathar | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature can't block this turn.</source>
-        <target state="translated">当激昂护教军进战场时，目标生物本回合不能进行阻挡。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物本回合不能进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="0430b9fa-3bc6-4183-ad5b-d70ad401fa97" resname="AVR·136 | Gang of Devils | Card Name">
@@ -1339,7 +1339,7 @@
       </trans-unit>
       <trans-unit id="0430b9fa-3bc6-4183-ad5b-d70ad401fa97" resname="AVR·136 | Gang of Devils | Card Text | Paragraph 1">
         <source>When CARDNAME dies, it deals 3 damage divided as you choose among one, two, or three targets.</source>
-        <target state="translated">当魔鬼群死去时，它对一个，两个，或三个目标生物和／或牌手造成共3点伤害，你可以任意分配。</target>
+        <target state="translated">当CARDNAME死去时，它对一个，两个，或三个目标生物和／或牌手造成共3点伤害，你可以任意分配。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="beb10d42-fa19-400c-bad8-ec3827f077bc" resname="AVR·137 | Guise of Fire | Card Name">
@@ -1366,7 +1366,7 @@
       </trans-unit>
       <trans-unit id="73884fd1-5be9-4ad5-8c72-c0fbe27ad4c1" resname="AVR·138 | Hanweir Lancer | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have first strike.</source>
-        <target state="translated">只要翰威枪骑兵与另一生物搭档，此两者便具有先攻异能。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此两者便具有先攻异能。</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="cbc09839-1463-40b8-86bd-fb96797b2633" resname="AVR·139 | Havengul Vampire | Card Name">
@@ -1376,12 +1376,12 @@
       </trans-unit>
       <trans-unit id="cbc09839-1463-40b8-86bd-fb96797b2633" resname="AVR·139 | Havengul Vampire | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, put a +1/+1 counter on it.</source>
-        <target state="translated">每当海温古吸血鬼对任一牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="cbc09839-1463-40b8-86bd-fb96797b2633" resname="AVR·139 | Havengul Vampire | Card Text | Paragraph 2">
         <source>Whenever another creature dies, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当另一个生物死去时，在海温古吸血鬼上放置一个+1/+1指示物。</target>
+        <target state="translated">每当另一个生物死去时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="ff89ad3b-b154-49e2-a0fd-135279512250" resname="AVR·140 | Heirs of Stromkirk | Card Name">
@@ -1394,7 +1394,7 @@
       </trans-unit>
       <trans-unit id="ff89ad3b-b154-49e2-a0fd-135279512250" resname="AVR·140 | Heirs of Stromkirk | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, put a +1/+1 counter on it.</source>
-        <target state="translated">每当溪堡传人对一位牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对一位牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="0fe68bce-6207-4fd1-9e82-a18fd2d6ddca" resname="AVR·141 | Hound of Griselbrand | Card Name">
         <source>Hound of Griselbrand</source>
@@ -1414,7 +1414,7 @@
       </trans-unit>
       <trans-unit id="dce9a30f-a850-4826-a255-ce511d567b60" resname="AVR·142 | Kessig Malcontents | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals damage to target player or planeswalker equal to the number of Humans you control.</source>
-        <target state="translated">当凯锡革不满者进战场时，它对目标牌手造成伤害，其数量等同于由你操控的人类数量。</target>
+        <target state="translated">当CARDNAME进战场时，它对目标牌手造成伤害，其数量等同于由你操控的人类数量。</target>
       </trans-unit>
       <trans-unit id="73e72249-84ea-4e9c-9f64-b67b02ffdf3a" resname="AVR·143 | Kruin Striker | Card Name">
         <source>Kruin Striker</source>
@@ -1423,7 +1423,7 @@
       </trans-unit>
       <trans-unit id="73e72249-84ea-4e9c-9f64-b67b02ffdf3a" resname="AVR·143 | Kruin Striker | Card Text | Paragraph 1">
         <source>Whenever another creature enters the battlefield under your control, CARDNAME gets +1/+0 and gains trample until end of turn.</source>
-        <target state="translated">每当另一个生物在你的操控下进战场时，直到回合结束，克廉打击手得+1/+0且获得践踏异能。</target>
+        <target state="translated">每当另一个生物在你的操控下进战场时，直到回合结束，CARDNAME得+1/+0且获得践踏异能。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="241cc968-b93e-4fe3-a66d-7776d29aa023" resname="AVR·144 | Lightning Mauler | Card Name">
@@ -1436,7 +1436,7 @@
       </trans-unit>
       <trans-unit id="241cc968-b93e-4fe3-a66d-7776d29aa023" resname="AVR·144 | Lightning Mauler | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have haste.</source>
-        <target state="translated">只要闪电虐杀兵与另一生物搭档，此两者便具有敏捷异能。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此两者便具有敏捷异能。</target>
       </trans-unit>
       <trans-unit id="5578e3e2-2460-4dfb-9016-527463f2d918" resname="AVR·145 | Lightning Prowess | Card Name">
         <source>Lightning Prowess</source>
@@ -1483,11 +1483,11 @@
       </trans-unit>
       <trans-unit id="8a6a7000-4a1d-4cd4-a85e-4b7b20d8e543" resname="AVR·148 | Malignus | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to half the highest life total among your opponents, rounded up.</source>
-        <target state="translated">毒怨妖的力量与防御力各等同于所有对手中总生命最高者数值的一半，小数点以下无条件进位。</target>
+        <target state="translated">CARDNAME的力量与防御力各等同于所有对手中总生命最高者数值的一半，小数点以下无条件进位。</target>
       </trans-unit>
       <trans-unit id="8a6a7000-4a1d-4cd4-a85e-4b7b20d8e543" resname="AVR·148 | Malignus | Card Text | Paragraph 2">
         <source>Damage that would be dealt by CARDNAME can't be prevented.</source>
-        <target state="translated">毒怨妖将造成的伤害不能被防止。</target>
+        <target state="translated">CARDNAME将造成的伤害不能被防止。</target>
       </trans-unit>
       <trans-unit id="78833788-ffb2-43fc-9345-975f1cd46f38" resname="AVR·150 | Raging Poltergeist | Card Name">
         <source>Raging Poltergeist</source>
@@ -1514,7 +1514,7 @@
       </trans-unit>
       <trans-unit id="c043f30b-548f-4c31-a415-0e59c2841dcf" resname="AVR·152 | Riot Ringleader | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, Human creatures you control get +1/+0 until end of turn.</source>
-        <target state="translated">每当暴乱魁首攻击时，由你操控的人类生物得+1/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，由你操控的人类生物得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="89e7fec3-94b5-411e-aeb0-44a64f517986" resname="AVR·153 | Rite of Ruin | Card Name">
         <source>Rite of Ruin</source>
@@ -1538,7 +1538,7 @@
       </trans-unit>
       <trans-unit id="bbe49a97-dac8-4273-b4dc-45cdf8f5a6e0" resname="AVR·155 | Scalding Devil | Card Text | Paragraph 1">
         <source>{2}{R}: CARDNAME deals 1 damage to target player or planeswalker.</source>
-        <target state="translated">{2}{R}：灼烫魔鬼对目标牌手造成1点伤害。</target>
+        <target state="translated">{2}{R}：CARDNAME对目标牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="9e69eb29-a7e4-4826-9535-9a073136c688" resname="AVR·156 | Somberwald Vigilante | Card Name">
         <source>Somberwald Vigilante</source>
@@ -1546,7 +1546,7 @@
       </trans-unit>
       <trans-unit id="9e69eb29-a7e4-4826-9535-9a073136c688" resname="AVR·156 | Somberwald Vigilante | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked by a creature, CARDNAME deals 1 damage to that creature.</source>
-        <target state="translated">每当松柏森警卫被一个生物阻挡时，松柏森警卫对该生物造成1点伤害。</target>
+        <target state="translated">每当CARDNAME被一个生物阻挡时，CARDNAME对该生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="9564d79d-5f4d-4192-94ee-5e5998011266" resname="AVR·157 | Stonewright | Card Name">
         <source>Stonewright</source>
@@ -1558,7 +1558,7 @@
       </trans-unit>
       <trans-unit id="9564d79d-5f4d-4192-94ee-5e5998011266" resname="AVR·157 | Stonewright | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures has &amp;quot;{R}: This creature gets +1/+0 until end of turn.&amp;quot;</source>
-        <target state="translated">只要石艺师与另一生物搭档，它们便各具有「{R}：此生物得+1/+0直到回合结束。」</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各具有「{R}：此生物得+1/+0直到回合结束。」</target>
       </trans-unit>
       <trans-unit id="ea28bd68-47a8-47c6-be16-75ae622daf0a" resname="AVR·158 | Thatcher Revolt | Card Name">
         <source>Thatcher Revolt</source>
@@ -1575,7 +1575,7 @@
       </trans-unit>
       <trans-unit id="daa39826-7f89-41cb-a7fe-7f7be817d5cd" resname="AVR·160 | Thunderous Wrath | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to any target.</source>
-        <target state="translated">雷霆之怒对目标生物或牌手造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成5点伤害。</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="daa39826-7f89-41cb-a7fe-7f7be817d5cd" resname="AVR·160 | Thunderous Wrath | Card Text | Paragraph 2">
@@ -1593,7 +1593,7 @@
       </trans-unit>
       <trans-unit id="5ddb3936-8f5a-498d-a46c-27eb9546c76c" resname="AVR·161 | Tibalt, the Fiend-Blooded | Card Text | Paragraph 2">
         <source>[−4]: CARDNAME deals damage equal to the number of cards in target player's hand to that player.</source>
-        <target state="translated">-4：魔血提勃对目标牌手造成等同于其手牌数量的伤害。</target>
+        <target state="translated">-4：CARDNAME对目标牌手造成等同于其手牌数量的伤害。</target>
       </trans-unit>
       <trans-unit id="5ddb3936-8f5a-498d-a46c-27eb9546c76c" resname="AVR·161 | Tibalt, the Fiend-Blooded | Card Text | Paragraph 3">
         <source>[−6]: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.</source>
@@ -1605,7 +1605,7 @@
       </trans-unit>
       <trans-unit id="e8f7c8ea-e9c1-4d78-972c-15c4014915a0" resname="AVR·162 | Tyrant of Discord | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent chooses a permanent they control at random and sacrifices it. If a nonland permanent is sacrificed this way, repeat this process.</source>
-        <target state="translated">当走调暴君进战场时，目标对手随机选择由他操控的一个永久物并牺牲之。 若以此法牺牲一个非地永久物，重复此流程。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手随机选择由他操控的一个永久物并牺牲之。 若以此法牺牲一个非地永久物，重复此流程。</target>
       </trans-unit>
       <trans-unit id="1d7b747e-446a-4c25-9834-0be8476dc22d" resname="AVR·163 | Uncanny Speed | Card Name">
         <source>Uncanny Speed</source>
@@ -1621,7 +1621,7 @@
       </trans-unit>
       <trans-unit id="dbbefd98-4b17-4cc2-9ef9-8807f594cb16" resname="AVR·164 | Vexing Devil | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, any opponent may have it deal 4 damage to them. If a player does, sacrifice CARDNAME.</source>
-        <target state="translated">当恼人魔鬼进战场时，任意对手可让它对该牌手造成4点伤害。 若有牌手如此做，牺牲恼人魔鬼。</target>
+        <target state="translated">当CARDNAME进战场时，任意对手可让它对该牌手造成4点伤害。 若有牌手如此做，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="a9db329b-6248-4082-bfc8-5d2c0db43338" resname="AVR·165 | Vigilante Justice | Card Name">
         <source>Vigilante Justice</source>
@@ -1629,7 +1629,7 @@
       </trans-unit>
       <trans-unit id="a9db329b-6248-4082-bfc8-5d2c0db43338" resname="AVR·165 | Vigilante Justice | Card Text | Paragraph 1">
         <source>Whenever a Human enters the battlefield under your control, CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">每当一个人类在你的操控下进战场时，保安正义对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">每当一个人类在你的操控下进战场时，CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="fc027b11-1ecc-430d-a862-586a14bb23c3" resname="AVR·166 | Zealous Conscripts | Card Name">
         <source>Zealous Conscripts</source>
@@ -1643,7 +1643,7 @@
       </trans-unit>
       <trans-unit id="fc027b11-1ecc-430d-a862-586a14bb23c3" resname="AVR·166 | Zealous Conscripts | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.</source>
-        <target state="translated">当狂热民兵进战场时，获得目标永久物的操控权直到回合结束。重置该永久物。它获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，获得目标永久物的操控权直到回合结束。重置该永久物。它获得敏捷异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="afbc8fd0-dc15-4ac9-b97b-173f7fb66ed7" resname="AVR·167 | Abundant Growth | Card Name">
@@ -1658,7 +1658,7 @@
       </trans-unit>
       <trans-unit id="afbc8fd0-dc15-4ac9-b97b-173f7fb66ed7" resname="AVR·167 | Abundant Growth | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当丰足成长进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="afbc8fd0-dc15-4ac9-b97b-173f7fb66ed7" resname="AVR·167 | Abundant Growth | Card Text | Paragraph 3">
@@ -1693,12 +1693,12 @@
       </trans-unit>
       <trans-unit id="e8ab9cd3-2faf-4500-a2ee-90b3a8d559c4" resname="AVR·171 | Champion of Lambholt | Card Text | Paragraph 1">
         <source>Creatures with power less than CARDNAME's power can't block creatures you control.</source>
-        <target state="translated">力量小于羊屯斗士的生物不能阻挡由你操控的生物。</target>
+        <target state="translated">力量小于CARDNAME的生物不能阻挡由你操控的生物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="e8ab9cd3-2faf-4500-a2ee-90b3a8d559c4" resname="AVR·171 | Champion of Lambholt | Card Text | Paragraph 2">
         <source>Whenever another creature enters the battlefield under your control, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当另一个生物在你的操控下进战场时，在羊屯斗士上放置一个+1/+1指示物。</target>
+        <target state="translated">每当另一个生物在你的操控下进战场时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="a249be17-73ed-4108-89c0-f7e87939beb8" resname="AVR·172 | Craterhoof Behemoth | Card Name">
@@ -1713,7 +1713,7 @@
       </trans-unit>
       <trans-unit id="a249be17-73ed-4108-89c0-f7e87939beb8" resname="AVR·172 | Craterhoof Behemoth | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.</source>
-        <target state="translated">当陨蹄贝西摩斯进战场时，直到回合结束，由你操控的生物获得践踏异能且得+X/+X，X为由你操控的生物数量。</target>
+        <target state="translated">当CARDNAME进战场时，直到回合结束，由你操控的生物获得践踏异能且得+X/+X，X为由你操控的生物数量。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="ada93208-5cda-4e2d-b9a7-15345e30b831" resname="AVR·173 | Descendants' Path | Card Name">
@@ -1734,7 +1734,7 @@
       </trans-unit>
       <trans-unit id="640e21ad-5064-41bc-886e-2c997f69a3f5" resname="AVR·174 | Diregraf Escort | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have protection from Zombies.</source>
-        <target state="translated">只要战墓卫士与另一生物搭档，此两者便具有反灵俑保护。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此两者便具有反灵俑保护。</target>
       </trans-unit>
       <trans-unit id="1d8c794a-7964-41f0-bc9c-27af7cf87aaa" resname="AVR·175 | Druid's Familiar | Card Name">
         <source>Druid's Familiar</source>
@@ -1746,7 +1746,7 @@
       </trans-unit>
       <trans-unit id="1d8c794a-7964-41f0-bc9c-27af7cf87aaa" resname="AVR·175 | Druid's Familiar | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures gets +2/+2.</source>
-        <target state="translated">只要德鲁伊佣兽与另一生物搭档，它们便各得+2/+2。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各得+2/+2。</target>
       </trans-unit>
       <trans-unit id="57e6fb62-7ee3-444d-8fd4-c1f44014a05c" resname="AVR·176 | Druids' Repository | Card Name">
         <source>Druids' Repository</source>
@@ -1754,11 +1754,11 @@
       </trans-unit>
       <trans-unit id="57e6fb62-7ee3-444d-8fd4-c1f44014a05c" resname="AVR·176 | Druids' Repository | Card Text | Paragraph 1">
         <source>Whenever a creature you control attacks, put a charge counter on CARDNAME.</source>
-        <target state="translated">每当由你操控的一个生物攻击时，在德鲁伊贮藏处上放置一个充电指示物。</target>
+        <target state="translated">每当由你操控的一个生物攻击时，在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="57e6fb62-7ee3-444d-8fd4-c1f44014a05c" resname="AVR·176 | Druids' Repository | Card Text | Paragraph 2">
         <source>Remove a charge counter from CARDNAME: Add one mana of any color.</source>
-        <target state="translated">从德鲁伊贮藏处上移去一个充电指示物：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">从CARDNAME上移去一个充电指示物：加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="0efea1b1-f212-4b97-98dd-922f85ab191f" resname="AVR·177 | Eaten by Spiders | Card Name">
         <source>Eaten by Spiders</source>
@@ -1774,7 +1774,7 @@
       </trans-unit>
       <trans-unit id="78fa2ddc-142b-4562-8812-ecb72e3bae57" resname="AVR·178 | Flowering Lumberknot | Card Text | Paragraph 1">
         <source>CARDNAME can't attack or block unless it's paired with a creature with soulbond.</source>
-        <target state="translated">除非百花木节妖与具有魂系的另一生物搭档，否则它不能进行攻击或阻挡。</target>
+        <target state="translated">除非CARDNAME与具有魂系的另一生物搭档，否则它不能进行攻击或阻挡。</target>
       </trans-unit>
       <trans-unit id="26f00a18-0ff7-42e4-be16-aa34fe27093b" resname="AVR·179 | Geist Trappers | Card Name">
         <source>Geist Trappers</source>
@@ -1786,7 +1786,7 @@
       </trans-unit>
       <trans-unit id="26f00a18-0ff7-42e4-be16-aa34fe27093b" resname="AVR·179 | Geist Trappers | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have reach.</source>
-        <target state="translated">只要捕游魂师与另一生物搭档，此两者便具有延势异能。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此两者便具有延势异能。</target>
       </trans-unit>
       <trans-unit id="dc4982f0-0ede-4846-82c8-bcf7ad63d099" resname="AVR·181 | Grounded | Card Name">
         <source>Grounded</source>
@@ -1807,7 +1807,7 @@
       </trans-unit>
       <trans-unit id="dad60d45-1c99-41d1-a237-c0ee18ce5361" resname="AVR·182 | Howlgeist | Card Text | Paragraph 1">
         <source>Creatures with power less than CARDNAME's power can't block it.</source>
-        <target state="translated">力量小于长嚎游魂的生物不能阻挡它。</target>
+        <target state="translated">力量小于CARDNAME的生物不能阻挡它。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="dad60d45-1c99-41d1-a237-c0ee18ce5361" resname="AVR·182 | Howlgeist | Card Text | Paragraph 2">
@@ -1855,7 +1855,7 @@
       </trans-unit>
       <trans-unit id="4d3de66c-2283-458f-9d0d-943027520aa2" resname="AVR·187 | Nightshade Peddler | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have deathtouch.</source>
-        <target state="translated">只要龙葵小贩与另一生物搭档，此两者便具有死触异能。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此两者便具有死触异能。</target>
       </trans-unit>
       <trans-unit id="fe65eded-37ef-4cf0-b55c-390d34aab7b8" resname="AVR·188 | Pathbreaker Wurm | Card Name">
         <source>Pathbreaker Wurm</source>
@@ -1867,7 +1867,7 @@
       </trans-unit>
       <trans-unit id="fe65eded-37ef-4cf0-b55c-390d34aab7b8" resname="AVR·188 | Pathbreaker Wurm | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have trample.</source>
-        <target state="translated">只要辟路亚龙与另一生物搭档，此两者便具有践踏异能。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此两者便具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="4278f7bd-afff-4a1d-a0bb-bf9ce3ad5a2e" resname="AVR·189 | Primal Surge | Card Name">
         <source>Primal Surge</source>
@@ -1953,7 +1953,7 @@
       </trans-unit>
       <trans-unit id="ae80fefb-af78-4f98-8058-71b61e91842f" resname="AVR·197 | Timberland Guide | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on target creature.</source>
-        <target state="translated">当林地向导进战场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在目标生物上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自MID（2021-09-24）；</note>
       </trans-unit>
       <trans-unit id="7bb41fa6-0cc6-43e5-9aa8-fcd9c781f4ce" resname="AVR·198 | Triumph of Ferocity | Card Name">
@@ -1974,7 +1974,7 @@
       </trans-unit>
       <trans-unit id="3ee66ef9-10a7-4aab-88f7-84956811cc6c" resname="AVR·199 | Trusted Forcemage | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures gets +1/+1.</source>
-        <target state="translated">只要可靠的力法师与另一生物搭档，它们便各得+1/+1。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各得+1/+1。</target>
       </trans-unit>
       <trans-unit id="46199391-a4f5-4532-b89c-b7691b229bd0" resname="AVR·200 | Ulvenwald Tracker | Card Name">
         <source>Ulvenwald Tracker</source>
@@ -1998,7 +1998,7 @@
       </trans-unit>
       <trans-unit id="ac606ad5-b8d0-4c93-a9de-5e41229a8229" resname="AVR·202 | Wandering Wolf | Card Text | Paragraph 1">
         <source>Creatures with power less than CARDNAME's power can't block it.</source>
-        <target state="translated">力量小于漂浪狼的生物不能阻挡它。</target>
+        <target state="translated">力量小于CARDNAME的生物不能阻挡它。</target>
         <note xmlns:from="developer">中文数据来自BBD（2018-06-08）；</note>
       </trans-unit>
       <trans-unit id="7eaa6be7-2c6f-4442-85d1-ae31ad87fd98" resname="AVR·203 | Wild Defiance | Card Name">
@@ -2015,7 +2015,7 @@
       </trans-unit>
       <trans-unit id="4658b4b2-7043-4ca2-96fd-4f663c20c80f" resname="AVR·204 | Wildwood Geist | Card Text | Paragraph 1">
         <source>CARDNAME gets +2/+2 as long as it's your turn.</source>
-        <target state="translated">只要是在你的回合中，野林游魂便得+2/+2。</target>
+        <target state="translated">只要是在你的回合中，CARDNAME便得+2/+2。</target>
       </trans-unit>
       <trans-unit id="88cc00e5-9683-4ccc-a914-c422b76f6014" resname="AVR·205 | Wolfir Avenger | Card Name">
         <source>Wolfir Avenger</source>
@@ -2027,7 +2027,7 @@
       </trans-unit>
       <trans-unit id="88cc00e5-9683-4ccc-a914-c422b76f6014" resname="AVR·205 | Wolfir Avenger | Card Text | Paragraph 2">
         <source>{1}{G}: Regenerate CARDNAME.</source>
-        <target state="translated">{1}{G}：重生复仇卫狼。</target>
+        <target state="translated">{1}{G}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="8629c598-11c8-4911-acfb-0643e5feffa8" resname="AVR·206 | Wolfir Silverheart | Card Name">
         <source>Wolfir Silverheart</source>
@@ -2039,7 +2039,7 @@
       </trans-unit>
       <trans-unit id="8629c598-11c8-4911-acfb-0643e5feffa8" resname="AVR·206 | Wolfir Silverheart | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures gets +4/+4.</source>
-        <target state="translated">只要银心卫狼与另一生物搭档，它们便各得+4/+4。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各得+4/+4。</target>
       </trans-unit>
       <trans-unit id="b9320432-4f89-4363-91e6-2e740535cc2e" resname="AVR·207 | Yew Spirit | Card Name">
         <source>Yew Spirit</source>
@@ -2047,7 +2047,7 @@
       </trans-unit>
       <trans-unit id="b9320432-4f89-4363-91e6-2e740535cc2e" resname="AVR·207 | Yew Spirit | Card Text | Paragraph 1">
         <source>{2}{G}{G}: CARDNAME gets +X/+X until end of turn, where X is its power.</source>
-        <target state="translated">{2}{G}{G}：紫杉精怪得+X/+X直到回合结束，X为其力量。</target>
+        <target state="translated">{2}{G}{G}：CARDNAME得+X/+X直到回合结束，X为其力量。</target>
       </trans-unit>
       <trans-unit id="28226303-7e67-4b88-adae-2386aff033ec" resname="AVR·211 | Angel's Tomb | Card Name">
         <source>Angel's Tomb</source>
@@ -2056,7 +2056,7 @@
       </trans-unit>
       <trans-unit id="28226303-7e67-4b88-adae-2386aff033ec" resname="AVR·211 | Angel's Tomb | Card Text | Paragraph 1">
         <source>Whenever a creature enters the battlefield under your control, you may have CARDNAME become a 3/3 white Angel artifact creature with flying until end of turn.</source>
-        <target state="translated">每当一个生物在你的操控下进战场时，你可以令天使之墓成为3/3白色，具飞行异能的天使神器生物直到回合结束。</target>
+        <target state="translated">每当一个生物在你的操控下进战场时，你可以令CARDNAME成为3/3白色，具飞行异能的天使神器生物直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="3fa99b48-469d-4112-bdfd-2391fa439514" resname="AVR·212 | Angelic Armaments | Card Name">
@@ -2122,7 +2122,7 @@
       </trans-unit>
       <trans-unit id="f808ed9b-95ac-4069-bdca-b100bc816b5b" resname="AVR·218 | Narstad Scrapper | Card Text | Paragraph 1">
         <source>{2}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{2}：纳司达废铁怪得+1/+0直到回合结束。</target>
+        <target state="translated">{2}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="46e4aa67-4643-42ff-8172-200498686494" resname="AVR·219 | Otherworld Atlas | Card Name">
         <source>Otherworld Atlas</source>
@@ -2130,11 +2130,11 @@
       </trans-unit>
       <trans-unit id="46e4aa67-4643-42ff-8172-200498686494" resname="AVR·219 | Otherworld Atlas | Card Text | Paragraph 1">
         <source>{T}: Put a charge counter on CARDNAME.</source>
-        <target state="translated">{T}：在异界图集上放置一个充电指示物。</target>
+        <target state="translated">{T}：在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="46e4aa67-4643-42ff-8172-200498686494" resname="AVR·219 | Otherworld Atlas | Card Text | Paragraph 2">
         <source>{T}: Each player draws a card for each charge counter on CARDNAME.</source>
-        <target state="translated">{T}：异界图集上每有一个充电指示物，每位牌手便抓一张牌。</target>
+        <target state="translated">{T}：CARDNAME上每有一个充电指示物，每位牌手便抓一张牌。</target>
       </trans-unit>
       <trans-unit id="871e6e2a-7e45-446b-b964-94377eb6ca92" resname="AVR·220 | Scroll of Avacyn | Card Name">
         <source>Scroll of Avacyn</source>
@@ -2142,7 +2142,7 @@
       </trans-unit>
       <trans-unit id="871e6e2a-7e45-446b-b964-94377eb6ca92" resname="AVR·220 | Scroll of Avacyn | Card Text | Paragraph 1">
         <source>{1}, Sacrifice CARDNAME: Draw a card. If you control an Angel, you gain 5 life.</source>
-        <target state="translated">{1}，牺牲艾维欣的卷轴：抓一张牌。如果你操控天使，则你获得5点生命。</target>
+        <target state="translated">{1}，牺牲CARDNAME：抓一张牌。如果你操控天使，则你获得5点生命。</target>
       </trans-unit>
       <trans-unit id="2263ceaf-49d2-40fe-86b8-146271b11e46" resname="AVR·221 | Scroll of Griselbrand | Card Name">
         <source>Scroll of Griselbrand</source>
@@ -2150,7 +2150,7 @@
       </trans-unit>
       <trans-unit id="2263ceaf-49d2-40fe-86b8-146271b11e46" resname="AVR·221 | Scroll of Griselbrand | Card Text | Paragraph 1">
         <source>{1}, Sacrifice CARDNAME: Target opponent discards a card. If you control a Demon, that player loses 3 life.</source>
-        <target state="translated">{1}，牺牲棘泽边的卷轴：目标对手弃一张牌。如果你操控恶魔，则该牌手失去3点生命。</target>
+        <target state="translated">{1}，牺牲CARDNAME：目标对手弃一张牌。如果你操控恶魔，则该牌手失去3点生命。</target>
       </trans-unit>
       <trans-unit id="9543d454-27d6-42ba-aad8-54811d180cfb" resname="AVR·222 | Tormentor's Trident | Card Name">
         <source>Tormentor's Trident</source>
@@ -2182,7 +2182,7 @@
       </trans-unit>
       <trans-unit id="ec733373-3f68-47ad-ac35-6f39092f1e26" resname="AVR·224 | Vessel of Endless Rest | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put target card from a graveyard on the bottom of its owner's library.</source>
-        <target state="translated">当长眠之皿进战场时，将目标牌从任一坟墓场置于其拥有者的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，将目标牌从任一坟墓场置于其拥有者的牌库底。</target>
       </trans-unit>
       <trans-unit id="ec733373-3f68-47ad-ac35-6f39092f1e26" resname="AVR·224 | Vessel of Endless Rest | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color.</source>
@@ -2207,7 +2207,7 @@
       </trans-unit>
       <trans-unit id="1381c8f1-a292-4bdf-b20c-a5c2a169ee84" resname="AVR·226 | Cavern of Souls | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于灵魂洞窟进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
         <note xmlns:from="developer">中文数据来自LCI（2023-11-17）；</note>
       </trans-unit>
       <trans-unit id="1381c8f1-a292-4bdf-b20c-a5c2a169ee84" resname="AVR·226 | Cavern of Souls | Card Text | Paragraph 2">
@@ -2241,7 +2241,7 @@
       </trans-unit>
       <trans-unit id="f903b04a-2733-4ce7-9d83-9db8d5e1e10d" resname="AVR·228 | Seraph Sanctuary | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 1 life.</source>
-        <target state="translated">当炽天使圣殿进战场时，你获得1点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="f903b04a-2733-4ce7-9d83-9db8d5e1e10d" resname="AVR·228 | Seraph Sanctuary | Card Text | Paragraph 2">
         <source>Whenever an Angel enters the battlefield under your control, you gain 1 life.</source>
@@ -2283,7 +2283,7 @@
       </trans-unit>
       <trans-unit id="c83c7429-751e-4103-b09a-f78a9617020d" resname="PAVR·32★ | Restoration Angel | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.</source>
-        <target state="translated">当复归天使进战场时，你可以放逐目标由你操控的非天使生物，然后将该牌在你的操控下移回战场。</target>
+        <target state="translated">当CARDNAME进战场时，你可以放逐目标由你操控的非天使生物，然后将该牌在你的操控下移回战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="bde0dbd9-354d-42b2-83f4-7f8f98c7b4de" resname="PAVR·36★ | Silverblade Paladin | Card Name">
@@ -2298,7 +2298,7 @@
       </trans-unit>
       <trans-unit id="bde0dbd9-354d-42b2-83f4-7f8f98c7b4de" resname="PAVR·36★ | Silverblade Paladin | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, both creatures have double strike.</source>
-        <target state="translated">只要银刃神圣武士与另一生物搭档，此两者便具有连击异能。</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，此两者便具有连击异能。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="57976d9d-0c22-4274-9ebc-e34a15005cf2" resname="PAVR·63 | Latch Seeker | Card Name">
@@ -2308,7 +2308,7 @@
       </trans-unit>
       <trans-unit id="57976d9d-0c22-4274-9ebc-e34a15005cf2" resname="PAVR·63 | Latch Seeker | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">觅锢魂不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
         <note xmlns:from="developer">中文数据来自AVR（2012-05-04）；</note>
       </trans-unit>
       <trans-unit id="e40ed6b1-7b92-4ba4-b197-07c3f171a935" resname="PAVR·111 | Killing Wave | Card Name">
@@ -2383,7 +2383,7 @@
       </trans-unit>
       <trans-unit id="c1995b46-cd88-470d-89ec-37ffb6596348" resname="PHEL·208 | Bruna, Light of Alabaster | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.</source>
-        <target state="translated">每当洁羽之光布鲁娜进行攻击或阻挡时，你可以将战场上任意数量的灵气结附于其上，且你可以从你的坟墓场和／或手牌中将可以结附它的任意数量灵气结附于其上。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，你可以将战场上任意数量的灵气结附于其上，且你可以从你的坟墓场和／或手牌中将可以结附它的任意数量灵气结附于其上。</target>
         <note xmlns:from="developer">中文数据来自AVR（2012-05-04）；</note>
       </trans-unit>
       <trans-unit id="95a576a5-e873-4f27-93df-d363fc5945d0" resname="PHEL·209 | Gisela, Blade of Goldnight | Card Name">

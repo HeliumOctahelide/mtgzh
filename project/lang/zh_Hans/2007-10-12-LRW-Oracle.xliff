@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="6b598cf2-c327-422b-9527-1b28645ba70c" resname="LRW·2 | Arbiter of Knollridge | Card Text | Paragraphs">
         <source>Vigilance\nWhen CARDNAME enters the battlefield, each player's life total becomes the highest life total among all players.</source>
-        <target state="translated">警戒当丘脊仲裁者进战场时，每位牌手的总生命成为所有牌手中总生命最高者的数值。</target>
+        <target state="translated">警戒当CARDNAME进战场时，每位牌手的总生命成为所有牌手中总生命最高者的数值。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="8ee73fe8-d52b-43bb-ab91-5545192be676" resname="LRW·3 | Austere Command | Card Name">
@@ -99,7 +99,7 @@
       </trans-unit>
       <trans-unit id="da70a20f-213e-4d79-a46f-1ef1fc3f4a51" resname="LRW·6 | Brigid, Hero of Kinsbaile | Card Text | Paragraph 2">
         <source>{T}: CARDNAME deals 2 damage to each attacking or blocking creature target player controls.</source>
-        <target state="translated">{T}：英庄园勇士布莉姬对由目标牌手操控、且进行攻击或阻挡的所有生物各造成2点伤害。</target>
+        <target state="translated">{T}：CARDNAME对由目标牌手操控、且进行攻击或阻挡的所有生物各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="c000c3e4-d71a-43c8-8ded-f3da54bc088d" resname="LRW·7 | Burrenton Forge-Tender | Card Name">
         <source>Burrenton Forge-Tender</source>
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="c000c3e4-d71a-43c8-8ded-f3da54bc088d" resname="LRW·7 | Burrenton Forge-Tender | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Prevent all damage a red source of your choice would deal this turn.</source>
-        <target state="translated">牺牲布连屯守炉师：选择一个红色来源。于本回合中，防止该来源将造成的所有伤害。</target>
+        <target state="translated">牺牲CARDNAME：选择一个红色来源。于本回合中，防止该来源将造成的所有伤害。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="a7610d2f-e35f-42fa-a3fb-fcae54bf5a1d" resname="LRW·8 | Cenn's Heir | Card Name">
@@ -122,7 +122,7 @@
       </trans-unit>
       <trans-unit id="a7610d2f-e35f-42fa-a3fb-fcae54bf5a1d" resname="LRW·8 | Cenn's Heir | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +1/+1 until end of turn for each other attacking Kithkin.</source>
-        <target state="translated">每当仕绅传人攻击时，每有一个进行攻击的其它洁英，它便得+1/+1直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，每有一个进行攻击的其它洁英，它便得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="24f0c586-a1a5-4907-801a-7815c4dceb39" resname="LRW·9 | Changeling Hero | Card Name">
         <source>Changeling Hero</source>
@@ -147,12 +147,12 @@
       </trans-unit>
       <trans-unit id="9e344859-7248-4498-8303-252f196a007b" resname="LRW·10 | Cloudgoat Ranger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create three 1/1 white Kithkin Soldier creature tokens.</source>
-        <target state="translated">当云山羊巡林者进战场时，派出三个1/1白色洁英／士兵衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出三个1/1白色洁英／士兵衍生生物。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="9e344859-7248-4498-8303-252f196a007b" resname="LRW·10 | Cloudgoat Ranger | Card Text | Paragraph 2">
         <source>Tap three untapped Kithkin you control: CARDNAME gets +2/+0 and gains flying until end of turn.</source>
-        <target state="translated">横置三个由你操控且未横置的洁英：直到回合结束，云山羊巡林者得+2/+0且获得飞行异能。</target>
+        <target state="translated">横置三个由你操控且未横置的洁英：直到回合结束，CARDNAME得+2/+0且获得飞行异能。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="a9044585-4d44-42fb-ad7b-e0e224fbc502" resname="LRW·11 | Crib Swap | Card Name">
@@ -180,7 +180,7 @@
       </trans-unit>
       <trans-unit id="f8968bc0-518f-4c41-bf00-2bf295065e33" resname="LRW·12 | Dawnfluke | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, prevent the next 3 damage that would be dealt to any target this turn.</source>
-        <target state="translated">当黎明鲽鱼精进场时，防止本回合接下来将对目标生物或牌手造成的3点伤害。</target>
+        <target state="translated">当CARDNAME进场时，防止本回合接下来将对目标生物或牌手造成的3点伤害。</target>
       </trans-unit>
       <trans-unit id="f8968bc0-518f-4c41-bf00-2bf295065e33" resname="LRW·12 | Dawnfluke | Card Text | Paragraph 3">
         <source>Evoke {W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -214,7 +214,7 @@
       </trans-unit>
       <trans-unit id="8152999d-5e65-4ea6-b1e7-94b41808faa0" resname="LRW·15 | Galepowder Mage | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.</source>
-        <target state="translated">每当风粉法师攻击时，放逐另一个目标生物。在下一个结束步骤开始时，将该牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">每当CARDNAME攻击时，放逐另一个目标生物。在下一个结束步骤开始时，将该牌在其拥有者的操控下移回战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="5305b5c6-2af6-4b5c-9a57-0a2d2628e2f4" resname="LRW·16 | Goldmeadow Dodger | Card Name">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="5305b5c6-2af6-4b5c-9a57-0a2d2628e2f4" resname="LRW·16 | Goldmeadow Dodger | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by creatures with power 4 or greater.</source>
-        <target state="translated">金牧地躲闪客不能被力量大于或等于4的生物阻挡。</target>
+        <target state="translated">CARDNAME不能被力量大于或等于4的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="b6a7508c-2815-40eb-92f7-3e66dfb28484" resname="LRW·17 | Goldmeadow Harrier | Card Name">
         <source>Goldmeadow Harrier</source>
@@ -239,7 +239,7 @@
       </trans-unit>
       <trans-unit id="6a7a9110-6aea-460b-91fa-5f8a507160e7" resname="LRW·18 | Goldmeadow Stalwart | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, reveal a Kithkin card from your hand or pay {3}.</source>
-        <target state="translated">从你的手上展示一张洁英牌或支付{3}，以作为使用金牧地壮汉的额外费用。</target>
+        <target state="translated">从你的手上展示一张洁英牌或支付{3}，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="c10ccaef-2a75-43d6-95f2-c3690ae5c87a" resname="LRW·19 | Harpoon Sniper | Card Name">
         <source>Harpoon Sniper</source>
@@ -247,7 +247,7 @@
       </trans-unit>
       <trans-unit id="c10ccaef-2a75-43d6-95f2-c3690ae5c87a" resname="LRW·19 | Harpoon Sniper | Card Text | Paragraph 1">
         <source>{W}, {T}: CARDNAME deals X damage to target attacking or blocking creature, where X is the number of Merfolk you control.</source>
-        <target state="translated">{W}，{T}：鱼叉神射手对目标进行攻击或阻挡的生物造成X点伤害，X为由你操控的人鱼之数量。</target>
+        <target state="translated">{W}，{T}：CARDNAME对目标进行攻击或阻挡的生物造成X点伤害，X为由你操控的人鱼之数量。</target>
       </trans-unit>
       <trans-unit id="c0a785a2-462d-4321-9e48-eb98698b7591" resname="LRW·20 | Hillcomber Giant | Card Name">
         <source>Hillcomber Giant</source>
@@ -264,12 +264,12 @@
       </trans-unit>
       <trans-unit id="d11187c6-f213-45db-9de3-314df1f43589" resname="LRW·21 | Hoofprints of the Stag | Card Text | Paragraph 1">
         <source>Whenever you draw a card, you may put a hoofprint counter on CARDNAME.</source>
-        <target state="translated">每当你抓一张牌时，你可以在雄鹿蹄印上放置一个蹄印指示物。</target>
+        <target state="translated">每当你抓一张牌时，你可以在CARDNAME上放置一个蹄印指示物。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="d11187c6-f213-45db-9de3-314df1f43589" resname="LRW·21 | Hoofprints of the Stag | Card Text | Paragraph 2">
         <source>{2}{W}, Remove four hoofprint counters from CARDNAME: Create a 4/4 white Elemental creature token with flying. Activate only during your turn.</source>
-        <target state="translated">{2}{W}，从雄鹿蹄印上移去四个蹄印指示物：派出一个4/4白色，具飞行异能的元素衍生生物。只能于你的回合中起动。</target>
+        <target state="translated">{2}{W}，从CARDNAME上移去四个蹄印指示物：派出一个4/4白色，具飞行异能的元素衍生生物。只能于你的回合中起动。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="3073f3f5-bff8-4ec1-a68f-c83d63435843" resname="LRW·22 | Judge of Currents | Card Name">
@@ -290,7 +290,7 @@
       </trans-unit>
       <trans-unit id="b6053c20-3632-43e2-8560-259d0c12f235" resname="LRW·23 | Kinsbaile Balloonist | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may have target creature gain flying until end of turn.</source>
-        <target state="translated">每当英庄园热气球兵攻击时，你可以让目标生物获得飞行异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以让目标生物获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6145bcd5-a583-4a04-9a13-a64ecdf4425a" resname="LRW·24 | Kinsbaile Skirmisher | Card Name">
         <source>Kinsbaile Skirmisher</source>
@@ -299,7 +299,7 @@
       </trans-unit>
       <trans-unit id="6145bcd5-a583-4a04-9a13-a64ecdf4425a" resname="LRW·24 | Kinsbaile Skirmisher | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature gets +1/+1 until end of turn.</source>
-        <target state="translated">当英庄园侦卫进战场时，目标生物得+1/+1直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自M15（2014-07-18）；</note>
       </trans-unit>
       <trans-unit id="e75283b6-1b70-4e89-bf21-f85c21454aae" resname="LRW·25 | Kithkin Greatheart | Card Name">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="e75283b6-1b70-4e89-bf21-f85c21454aae" resname="LRW·25 | Kithkin Greatheart | Card Text | Paragraph 1">
         <source>As long as you control a Giant, CARDNAME gets +1/+1 and has first strike.</source>
-        <target state="translated">只要你操控巨人，壮志洁英便得+1/+1且具有先攻异能。</target>
+        <target state="translated">只要你操控巨人，CARDNAME便得+1/+1且具有先攻异能。</target>
       </trans-unit>
       <trans-unit id="64735178-3dc5-4a95-92fa-e15bd04e5733" resname="LRW·26 | Kithkin Harbinger | Card Name">
         <source>Kithkin Harbinger</source>
@@ -316,7 +316,7 @@
       </trans-unit>
       <trans-unit id="64735178-3dc5-4a95-92fa-e15bd04e5733" resname="LRW·26 | Kithkin Harbinger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a Kithkin card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">当先兆洁英进场时，你可以从你的牌库中搜寻一张洁英牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻一张洁英牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
       </trans-unit>
       <trans-unit id="44032574-a5bc-4366-af65-9824fd4302a2" resname="LRW·27 | Kithkin Healer | Card Name">
         <source>Kithkin Healer</source>
@@ -344,11 +344,11 @@
       </trans-unit>
       <trans-unit id="c64ba1c8-b93a-4169-9ba0-d3fc5bf57676" resname="LRW·29 | Lairwatch Giant | Card Text | Paragraph 1">
         <source>CARDNAME can block an additional creature each combat.</source>
-        <target state="translated">守园巨人可以额外多阻挡一个生物。</target>
+        <target state="translated">CARDNAME可以额外多阻挡一个生物。</target>
       </trans-unit>
       <trans-unit id="c64ba1c8-b93a-4169-9ba0-d3fc5bf57676" resname="LRW·29 | Lairwatch Giant | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks two or more creatures, it gains first strike until end of turn.</source>
-        <target state="translated">每当守园巨人阻挡两个或更多生物时，它获得先攻异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME阻挡两个或更多生物时，它获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="53c8cde1-e447-422e-aed0-2571a77d3d29" resname="LRW·30 | Militia's Pride | Card Name">
         <source>Militia's Pride</source>
@@ -387,7 +387,7 @@
       </trans-unit>
       <trans-unit id="e9fdb060-8f4d-453a-9516-92c390fbc85a" resname="LRW·33 | Oaken Brawler | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on CARDNAME. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">当橡树喧哗兵进场时，与一位对手比点。 若你赢，则在橡树喧哗兵上放置一个+1/+1指示物。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">当CARDNAME进场时，与一位对手比点。 若你赢，则在CARDNAME上放置一个+1/+1指示物。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="1c7fffe8-709c-4cb4-bbad-e4a0c35b616a" resname="LRW·34 | Oblivion Ring | Card Name">
         <source>Oblivion Ring</source>
@@ -396,12 +396,12 @@
       </trans-unit>
       <trans-unit id="1c7fffe8-709c-4cb4-bbad-e4a0c35b616a" resname="LRW·34 | Oblivion Ring | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile another target nonland permanent.</source>
-        <target state="translated">当遗忘轮进战场时，放逐另一个目标非地永久物。</target>
+        <target state="translated">当CARDNAME进战场时，放逐另一个目标非地永久物。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="1c7fffe8-709c-4cb4-bbad-e4a0c35b616a" resname="LRW·34 | Oblivion Ring | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return the exiled card to the battlefield under its owner's control.</source>
-        <target state="translated">当遗忘轮离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="ea2de26e-4cb3-4d7e-b884-54d6056dc9e9" resname="LRW·35 | Plover Knights | Card Name">
@@ -434,7 +434,7 @@
       </trans-unit>
       <trans-unit id="154a335d-188d-49c3-af6d-c8e702b4b3ba" resname="LRW·37 | Purity | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from anywhere, shuffle it into its owner's library.</source>
-        <target state="translated">当纯洁从任何地方置入坟墓场时，将它洗入其拥有者的牌库。</target>
+        <target state="translated">当CARDNAME从任何地方置入坟墓场时，将它洗入其拥有者的牌库。</target>
       </trans-unit>
       <trans-unit id="ab09d6d7-e2f0-4e78-a9a3-ac37f02f4096" resname="LRW·38 | Sentry Oak | Card Name">
         <source>Sentry Oak</source>
@@ -446,7 +446,7 @@
       </trans-unit>
       <trans-unit id="ab09d6d7-e2f0-4e78-a9a3-ac37f02f4096" resname="LRW·38 | Sentry Oak | Card Text | Paragraph 2">
         <source>At the beginning of combat on your turn, you may clash with an opponent. If you win, CARDNAME gets +2/+0 and loses defender until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">在你回合的战斗开始时，你可以与一位对手比点。 若你赢，则橡树哨兵得+2/+0且失去守军异能直到回合结束。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">在你回合的战斗开始时，你可以与一位对手比点。 若你赢，则CARDNAME得+2/+0且失去守军异能直到回合结束。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="f550f44f-8b8f-4c1d-a583-9fd986d3061c" resname="LRW·39 | Shields of Velis Vel | Card Name">
         <source>Shields of Velis Vel</source>
@@ -470,7 +470,7 @@
       </trans-unit>
       <trans-unit id="7f6c24b1-af9d-4a9c-9167-faa8a397a361" resname="LRW·40 | Soaring Hope | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 3 life.</source>
-        <target state="translated">当翱翔希望进场时，你获得3点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="7f6c24b1-af9d-4a9c-9167-faa8a397a361" resname="LRW·40 | Soaring Hope | Card Text | Paragraph 3">
         <source>Enchanted creature has flying.</source>
@@ -478,7 +478,7 @@
       </trans-unit>
       <trans-unit id="7f6c24b1-af9d-4a9c-9167-faa8a397a361" resname="LRW·40 | Soaring Hope | Card Text | Paragraph 4">
         <source>{W}: Put CARDNAME on top of its owner's library.</source>
-        <target state="translated">{W}：将翱翔希望置于其拥有者的牌库顶。</target>
+        <target state="translated">{W}：将CARDNAME置于其拥有者的牌库顶。</target>
       </trans-unit>
       <trans-unit id="75fa0c72-427b-4797-b5b1-15f07fc5fa07" resname="LRW·41 | Springjack Knight | Card Name">
         <source>Springjack Knight</source>
@@ -486,7 +486,7 @@
       </trans-unit>
       <trans-unit id="75fa0c72-427b-4797-b5b1-15f07fc5fa07" resname="LRW·41 | Springjack Knight | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, clash with an opponent. If you win, target creature gains double strike until end of turn. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">每当兔脚羊骑士攻击时，与一位对手比点。 若你赢，则目标生物获得连击异能直到回合结束。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">每当CARDNAME攻击时，与一位对手比点。 若你赢，则目标生物获得连击异能直到回合结束。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="13a4c124-216b-44b1-b49a-3db3f033e4cd" resname="LRW·42 | Summon the School | Card Name">
         <source>Summon the School</source>
@@ -498,7 +498,7 @@
       </trans-unit>
       <trans-unit id="13a4c124-216b-44b1-b49a-3db3f033e4cd" resname="LRW·42 | Summon the School | Card Text | Paragraph 2">
         <source>Tap four untapped Merfolk you control: Return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">横置四个由你操控且未横置的人鱼：将鱼群召唤从你的坟墓场移回你手上。</target>
+        <target state="translated">横置四个由你操控且未横置的人鱼：将CARDNAME从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="e0b61fb2-11e5-45ae-873d-85f79f161950" resname="LRW·43 | Surge of Thoughtweft | Card Name">
         <source>Surge of Thoughtweft</source>
@@ -522,7 +522,7 @@
       </trans-unit>
       <trans-unit id="9e48d34d-063c-4703-870b-4a22d5774c89" resname="LRW·44 | Thoughtweft Trio | Card Text | Paragraph 3">
         <source>CARDNAME can block any number of creatures.</source>
-        <target state="translated">纺思尖兵能阻挡任意数量的生物。</target>
+        <target state="translated">CARDNAME能阻挡任意数量的生物。</target>
       </trans-unit>
       <trans-unit id="444b5d72-ac5b-43d2-b5dc-0cc4bf63e43d" resname="LRW·45 | Triclopean Sight | Card Name">
         <source>Triclopean Sight</source>
@@ -538,7 +538,7 @@
       </trans-unit>
       <trans-unit id="444b5d72-ac5b-43d2-b5dc-0cc4bf63e43d" resname="LRW·45 | Triclopean Sight | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, untap enchanted creature.</source>
-        <target state="translated">当三眼灵视进场时，重置受此结界的生物。</target>
+        <target state="translated">当CARDNAME进场时，重置受此结界的生物。</target>
       </trans-unit>
       <trans-unit id="444b5d72-ac5b-43d2-b5dc-0cc4bf63e43d" resname="LRW·45 | Triclopean Sight | Card Text | Paragraph 4">
         <source>Enchanted creature gets +1/+1 and has vigilance.</source>
@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="c36fe821-e9b1-453d-8e44-f8dce111a6de" resname="LRW·46 | Veteran of the Depths | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes tapped, you may put a +1/+1 counter on it.</source>
-        <target state="translated">每当奥流老兵成为横置时，你可以在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME成为横置时，你可以在其上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="129933ba-60a0-4764-a705-28fa7bb10bd3" resname="LRW·47 | Wellgabber Apothecary | Card Name">
         <source>Wellgabber Apothecary</source>
@@ -570,7 +570,7 @@
       </trans-unit>
       <trans-unit id="56389c91-a470-4c43-9368-98df4d38f7fd" resname="LRW·48 | Wispmare | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target enchantment.</source>
-        <target state="translated">当灵驹进场时，消灭目标结界。</target>
+        <target state="translated">当CARDNAME进场时，消灭目标结界。</target>
       </trans-unit>
       <trans-unit id="56389c91-a470-4c43-9368-98df4d38f7fd" resname="LRW·48 | Wispmare | Card Text | Paragraph 3">
         <source>Evoke {W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -591,7 +591,7 @@
       </trans-unit>
       <trans-unit id="c44c623e-9ae1-495d-b72d-166f2ed4cf2c" resname="LRW·50 | Aethersnipe | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return target nonland permanent to its owner's hand.</source>
-        <target state="translated">当乙太空靶进战场时，将目标非地永久物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标非地永久物移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="c44c623e-9ae1-495d-b72d-166f2ed4cf2c" resname="LRW·50 | Aethersnipe | Card Text | Paragraph 2">
@@ -633,11 +633,11 @@
       </trans-unit>
       <trans-unit id="f240d225-9fbf-438a-93c3-5fef325035e8" resname="LRW·53 | Benthicore | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two 1/1 blue Merfolk Wizard creature tokens.</source>
-        <target state="translated">当深河精进场时，将两个1/1蓝色的人鱼／法术师衍生物放置进场。</target>
+        <target state="translated">当CARDNAME进场时，将两个1/1蓝色的人鱼／法术师衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="f240d225-9fbf-438a-93c3-5fef325035e8" resname="LRW·53 | Benthicore | Card Text | Paragraph 2">
         <source>Tap two untapped Merfolk you control: Untap CARDNAME. It gains shroud until end of turn. (It can't be the target of spells or abilities.)</source>
-        <target state="translated">横置两个由你操控且未横置的人鱼：重置深河精。 它获得帷幕异能直到回合结束。 （它不能成为咒语或异能的目标。）</target>
+        <target state="translated">横置两个由你操控且未横置的人鱼：重置CARDNAME。 它获得帷幕异能直到回合结束。 （它不能成为咒语或异能的目标。）</target>
       </trans-unit>
       <trans-unit id="8052d90b-bc49-4a9e-9211-159a54aa2bcd" resname="LRW·54 | Broken Ambitions | Card Name">
         <source>Broken Ambitions</source>
@@ -695,7 +695,7 @@
       </trans-unit>
       <trans-unit id="42ebd6ff-2b1c-4e93-81cc-81998459c5c7" resname="LRW·57 | Deeptread Merrow | Card Text | Paragraph 1">
         <source>{U}: CARDNAME gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)</source>
-        <target state="translated">{U}：深行美洛获得海岛行者异能直到回合结束。</target>
+        <target state="translated">{U}：CARDNAME获得海岛行者异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="149aa77e-fc10-4b9b-8f38-cc6db5be7b79" resname="LRW·58 | Drowner of Secrets | Card Name">
         <source>Drowner of Secrets</source>
@@ -727,7 +727,7 @@
       </trans-unit>
       <trans-unit id="5b9fa774-fb6d-4a2f-96d5-a449a423312e" resname="LRW·60 | Ethereal Whiskergill | Card Text | Paragraph 2">
         <source>CARDNAME can't attack unless defending player controls an Island.</source>
-        <target state="translated">除非防御牌手操控海岛，否则虚相须嘴鱼不能攻击。</target>
+        <target state="translated">除非防御牌手操控海岛，否则CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="f9bdc319-4e06-420b-ba54-6cb994d4e279" resname="LRW·61 | Faerie Harbinger | Card Name">
         <source>Faerie Harbinger</source>
@@ -743,7 +743,7 @@
       </trans-unit>
       <trans-unit id="f9bdc319-4e06-420b-ba54-6cb994d4e279" resname="LRW·61 | Faerie Harbinger | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, you may search your library for a Faerie card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">当先兆仙灵进场时，你可以从你的牌库中搜寻一张仙灵牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻一张仙灵牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
       </trans-unit>
       <trans-unit id="defb9f0b-195e-4aeb-92c1-8f827ad6724b" resname="LRW·62 | Faerie Trickery | Card Name">
         <source>Faerie Trickery</source>
@@ -760,7 +760,7 @@
       </trans-unit>
       <trans-unit id="d4237352-4e0e-4f40-946b-2a61753674d4" resname="LRW·63 | Fallowsage | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes tapped, you may draw a card.</source>
-        <target state="translated">每当静修贤者成为横置时，你可以抓一张牌。</target>
+        <target state="translated">每当CARDNAME成为横置时，你可以抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="55b9be91-f3a1-49ce-8a3e-2ecd30e2e692" resname="LRW·64 | Familiar's Ruse | Card Name">
@@ -770,7 +770,7 @@
       </trans-unit>
       <trans-unit id="55b9be91-f3a1-49ce-8a3e-2ecd30e2e692" resname="LRW·64 | Familiar's Ruse | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, return a creature you control to its owner's hand.</source>
-        <target state="translated">将一个由你操控的生物移回其拥有者手上，以作为施放佣兽诈术的额外费用。</target>
+        <target state="translated">将一个由你操控的生物移回其拥有者手上，以作为施放CARDNAME的额外费用。</target>
         <note xmlns:from="developer">中文数据来自MM3（2017-03-17）；</note>
       </trans-unit>
       <trans-unit id="55b9be91-f3a1-49ce-8a3e-2ecd30e2e692" resname="LRW·64 | Familiar's Ruse | Card Text | Paragraph 2">
@@ -830,7 +830,7 @@
       </trans-unit>
       <trans-unit id="2eec6ab7-afbe-46ea-a7a6-6b678256f33e" resname="LRW·69 | Guile | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked except by three or more creatures.</source>
-        <target state="translated">智谋只能被三个或更多生物阻挡。</target>
+        <target state="translated">CARDNAME只能被三个或更多生物阻挡。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="2eec6ab7-afbe-46ea-a7a6-6b678256f33e" resname="LRW·69 | Guile | Card Text | Paragraph 2">
@@ -840,7 +840,7 @@
       </trans-unit>
       <trans-unit id="2eec6ab7-afbe-46ea-a7a6-6b678256f33e" resname="LRW·69 | Guile | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from anywhere, shuffle it into its owner's library.</source>
-        <target state="translated">当智谋从任何区域置入坟墓场时，将它洗入其拥有者的牌库。</target>
+        <target state="translated">当CARDNAME从任何区域置入坟墓场时，将它洗入其拥有者的牌库。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="cce7ce6e-0d84-4d66-a1dd-26ddac73d47b" resname="LRW·70 | Inkfathom Divers | Card Name">
@@ -853,7 +853,7 @@
       </trans-unit>
       <trans-unit id="cce7ce6e-0d84-4d66-a1dd-26ddac73d47b" resname="LRW·70 | Inkfathom Divers | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, look at the top four cards of your library, then put them back in any order.</source>
-        <target state="translated">当墨湛潜兵进场时，检视你牌库顶的四张牌，然后将它们以任意顺序放回。</target>
+        <target state="translated">当CARDNAME进场时，检视你牌库顶的四张牌，然后将它们以任意顺序放回。</target>
       </trans-unit>
       <trans-unit id="cdffb058-1af0-41bb-956a-ae10e092c389" resname="LRW·71 | Jace Beleren | Card Name">
         <source>Jace Beleren</source>
@@ -893,7 +893,7 @@
       </trans-unit>
       <trans-unit id="b47af11c-1090-4f0a-8eea-64a3b639e535" resname="LRW·73 | Merrow Harbinger | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">当先兆美洛进场时，你可以从你的牌库中搜寻一张人鱼牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻一张人鱼牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
       </trans-unit>
       <trans-unit id="b57434d9-6fa5-43a6-98b9-044d2259d699" resname="LRW·74 | Merrow Reejerey | Card Name">
         <source>Merrow Reejerey</source>
@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="cfc421e2-0dd4-4bdf-b5f5-a60c4b0df63b" resname="LRW·75 | Mistbind Clique | Card Text | Paragraph 4">
         <source>When a Faerie is championed with CARDNAME, tap all lands target player controls.</source>
-        <target state="translated">当一个仙灵被雾锁聚群夺冠时，横置所有由目标牌手操控的地。</target>
+        <target state="translated">当一个仙灵被CARDNAME夺冠时，横置所有由目标牌手操控的地。</target>
       </trans-unit>
       <trans-unit id="a97cfefa-ade7-49f6-b2aa-1118b9db4935" resname="LRW·76 | Mulldrifter | Card Name">
         <source>Mulldrifter</source>
@@ -942,7 +942,7 @@
       </trans-unit>
       <trans-unit id="a97cfefa-ade7-49f6-b2aa-1118b9db4935" resname="LRW·76 | Mulldrifter | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw two cards.</source>
-        <target state="translated">当漂念精进战场时，抓两张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓两张牌。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="a97cfefa-ade7-49f6-b2aa-1118b9db4935" resname="LRW·76 | Mulldrifter | Card Text | Paragraph 3">
@@ -956,7 +956,7 @@
       </trans-unit>
       <trans-unit id="a439c0ca-0cb2-4293-825e-1a72159953b9" resname="LRW·77 | Paperfin Rascal | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on CARDNAME. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">当薄鳍无赖进场时，与一位对手比点。 若你赢，则在薄鳍无赖上放置一个+1/+1指示物。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">当CARDNAME进场时，与一位对手比点。 若你赢，则在CARDNAME上放置一个+1/+1指示物。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="f252ae53-443c-4a27-b8f0-639a9a2b8598" resname="LRW·78 | Pestermite | Card Name">
         <source>Pestermite</source>
@@ -975,7 +975,7 @@
       </trans-unit>
       <trans-unit id="f252ae53-443c-4a27-b8f0-639a9a2b8598" resname="LRW·78 | Pestermite | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, you may tap or untap target permanent.</source>
-        <target state="translated">当恼人鬼进战场时，你可以横置或重置目标永久物。</target>
+        <target state="translated">当CARDNAME进战场时，你可以横置或重置目标永久物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="ba6b6fc5-5077-4812-b8e9-906783dbaf67" resname="LRW·79 | Ponder | Card Name">
@@ -1015,7 +1015,7 @@
       </trans-unit>
       <trans-unit id="72d3ae1f-5442-4725-a16a-502f13359a85" resname="LRW·81 | Ringskipper | Card Text | Paragraph 2">
         <source>When CARDNAME dies, clash with an opponent. If you win, return CARDNAME to its owner's hand. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">当领轮师从场上置入坟墓场时，与一位对手比点。 若你赢，则将领轮师移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，与一位对手比点。 若你赢，则将CARDNAME移回其拥有者手上。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="c536c1ce-a012-4d77-ab29-8574be164731" resname="LRW·82 | Scattering Stroke | Card Name">
         <source>Scattering Stroke</source>
@@ -1079,12 +1079,12 @@
       </trans-unit>
       <trans-unit id="9e07a38a-2d88-4b01-9634-f24cbc8d96d6" resname="LRW·86 | Silvergill Adept | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, reveal a Merfolk card from your hand or pay {3}.</source>
-        <target state="translated">从你的手上展示一张人鱼牌或支付{3}，以作为施放银鳃专家的额外费用。</target>
+        <target state="translated">从你的手上展示一张人鱼牌或支付{3}，以作为施放CARDNAME的额外费用。</target>
         <note xmlns:from="developer">中文数据来自RIX（2018-01-19）；</note>
       </trans-unit>
       <trans-unit id="9e07a38a-2d88-4b01-9634-f24cbc8d96d6" resname="LRW·86 | Silvergill Adept | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当银鳃专家进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自RIX（2018-01-19）；</note>
       </trans-unit>
       <trans-unit id="8875c883-8d56-406b-bd89-42199a6e79f5" resname="LRW·87 | Silvergill Douser | Card Name">
@@ -1107,7 +1107,7 @@
       </trans-unit>
       <trans-unit id="2f5320da-7214-4348-84d8-74bf951c9f2f" resname="LRW·88 | Sower of Temptation | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, gain control of target creature for as long as CARDNAME remains on the battlefield.</source>
-        <target state="translated">当传惑师进战场时，于传惑师仍在战场上的时段内，获得目标生物的操控权。</target>
+        <target state="translated">当CARDNAME进战场时，于CARDNAME仍在战场上的时段内，获得目标生物的操控权。</target>
         <note xmlns:from="developer">中文数据来自BBD（2018-06-08）；</note>
       </trans-unit>
       <trans-unit id="4e5ba4a9-a282-4d4b-b25a-179e05e458f4" resname="LRW·89 | Spellstutter Sprite | Card Name">
@@ -1127,7 +1127,7 @@
       </trans-unit>
       <trans-unit id="4e5ba4a9-a282-4d4b-b25a-179e05e458f4" resname="LRW·89 | Spellstutter Sprite | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, counter target spell with mana value X or less, where X is the number of Faeries you control.</source>
-        <target state="translated">当纷咒仙灵进场时，反击目标法术力值等于或小于X的咒语，X为由你操控的仙灵数量。</target>
+        <target state="translated">当CARDNAME进场时，反击目标法术力值等于或小于X的咒语，X为由你操控的仙灵数量。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="047709e7-c44f-47e4-a9cc-1d941264e454" resname="LRW·90 | Stonybrook Angler | Card Name">
@@ -1158,7 +1158,7 @@
       </trans-unit>
       <trans-unit id="1d5b00cb-ebc3-44e8-970d-724150eb7876" resname="LRW·92 | Surgespanner | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes tapped, you may pay {1}{U}. If you do, return target permanent to its owner's hand.</source>
-        <target state="translated">每当跨涛师成为横置时，你可以支付{1}{U}。 若你如此作，则将目标永久物移回其拥有者手上。</target>
+        <target state="translated">每当CARDNAME成为横置时，你可以支付{1}{U}。 若你如此作，则将目标永久物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="e526ebbf-2041-4c3e-9a20-73bbf6f90251" resname="LRW·93 | Tideshaper Mystic | Card Name">
         <source>Tideshaper Mystic</source>
@@ -1178,7 +1178,7 @@
       </trans-unit>
       <trans-unit id="a72b078e-e324-4775-9d38-08943017a48e" resname="LRW·94 | Turtleshell Changeling | Card Text | Paragraph 2">
         <source>{1}{U}: Switch CARDNAME's power and toughness until end of turn.</source>
-        <target state="translated">{1}{U}：将龟壳化形之力量与防御力互换直到回合结束。</target>
+        <target state="translated">{1}{U}：将CARDNAME之力量与防御力互换直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6cdbb6ff-c945-4dd6-aba6-4fd4b77824c0" resname="LRW·95 | Wanderwine Prophets | Card Name">
         <source>Wanderwine Prophets</source>
@@ -1190,7 +1190,7 @@
       </trans-unit>
       <trans-unit id="6cdbb6ff-c945-4dd6-aba6-4fd4b77824c0" resname="LRW·95 | Wanderwine Prophets | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may sacrifice a Merfolk. If you do, take an extra turn after this one.</source>
-        <target state="translated">每当漫酿先知对牌手造成战斗伤害时，你可以牺牲一个人鱼。 若你如此作，则在本回合后进行额外的一个回合。</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，你可以牺牲一个人鱼。 若你如此作，则在本回合后进行额外的一个回合。</target>
       </trans-unit>
       <trans-unit id="1934c34a-c163-4fac-a80d-8b17e8d64efa" resname="LRW·96 | Whirlpool Whelm | Card Name">
         <source>Whirlpool Whelm</source>
@@ -1241,11 +1241,11 @@
       </trans-unit>
       <trans-unit id="f2459953-a4b5-4a9c-85ed-928b684d7240" resname="LRW·100 | Bog Hoodlums | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">泥坑流氓不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="f2459953-a4b5-4a9c-85ed-928b684d7240" resname="LRW·100 | Bog Hoodlums | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on CARDNAME. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">当泥坑流氓进场时，与一位对手比点。 若你赢，则在泥坑流氓上放置一个+1/+1指示物。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">当CARDNAME进场时，与一位对手比点。 若你赢，则在CARDNAME上放置一个+1/+1指示物。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="1bb4916d-ab50-45c9-bf7e-e7a7e761aef4" resname="LRW·101 | Boggart Birth Rite | Card Name">
         <source>Boggart Birth Rite</source>
@@ -1261,7 +1261,7 @@
       </trans-unit>
       <trans-unit id="8ea8d2b8-bcac-410d-aa5a-e4a74f7d5315" resname="LRW·102 | Boggart Harbinger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a Goblin card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">当先兆波尬进场时，你可以从你的牌库中搜寻一张精灵牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻一张精灵牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
       </trans-unit>
       <trans-unit id="9ed9a638-c3f9-48dd-9633-5c52146e0dcd" resname="LRW·103 | Boggart Loggers | Card Name">
         <source>Boggart Loggers</source>
@@ -1273,7 +1273,7 @@
       </trans-unit>
       <trans-unit id="9ed9a638-c3f9-48dd-9633-5c52146e0dcd" resname="LRW·103 | Boggart Loggers | Card Text | Paragraph 2">
         <source>{2}{B}, Sacrifice CARDNAME: Destroy target Treefolk or Forest.</source>
-        <target state="translated">{2}{B}，牺牲伐木波尬：消灭目标树妖或树林。</target>
+        <target state="translated">{2}{B}，牺牲CARDNAME：消灭目标树妖或树林。</target>
       </trans-unit>
       <trans-unit id="a61990de-0daf-4340-8e6b-c49852d46980" resname="LRW·104 | Boggart Mob | Card Name">
         <source>Boggart Mob</source>
@@ -1297,7 +1297,7 @@
       </trans-unit>
       <trans-unit id="b870a7aa-0836-4e3e-8be9-3299bdaded81" resname="LRW·105 | Cairn Wanderer | Card Text | Paragraph 2">
         <source>As long as a creature card with flying is in a graveyard, CARDNAME has flying. The same is true for fear, first strike, double strike, deathtouch, haste, landwalk, lifelink, protection, reach, trample, shroud, and vigilance.</source>
-        <target state="translated">只要具飞行异能的生物牌在任何坟墓场中，石冢漫游者便具有飞行异能。 且恐惧，先攻，连击，死触，敏捷，地行者，系命，保护，延势，践踏，帷幕，以及警戒等异能亦比照办理。</target>
+        <target state="translated">只要具飞行异能的生物牌在任何坟墓场中，CARDNAME便具有飞行异能。 且恐惧，先攻，连击，死触，敏捷，地行者，系命，保护，延势，践踏，帷幕，以及警戒等异能亦比照办理。</target>
       </trans-unit>
       <trans-unit id="f8d06368-d226-4089-84d4-950a3ebdfb15" resname="LRW·106 | Colfenor's Plans | Card Name">
         <source>Colfenor's Plans</source>
@@ -1305,11 +1305,11 @@
       </trans-unit>
       <trans-unit id="f8d06368-d226-4089-84d4-950a3ebdfb15" resname="LRW·106 | Colfenor's Plans | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile the top seven cards of your library face down.</source>
-        <target state="translated">当柯芬诺的计划进场时，将你牌库顶的七张牌面朝下地移出对战。</target>
+        <target state="translated">当CARDNAME进场时，将你牌库顶的七张牌面朝下地移出对战。</target>
       </trans-unit>
       <trans-unit id="f8d06368-d226-4089-84d4-950a3ebdfb15" resname="LRW·106 | Colfenor's Plans | Card Text | Paragraph 2">
         <source>You may look at the cards exiled with CARDNAME, and you may play lands and cast spells from among those cards.</source>
-        <target state="translated">你可以检视及使用以柯芬诺的计划移出对战之牌。</target>
+        <target state="translated">你可以检视及使用以CARDNAME移出对战之牌。</target>
       </trans-unit>
       <trans-unit id="f8d06368-d226-4089-84d4-950a3ebdfb15" resname="LRW·106 | Colfenor's Plans | Card Text | Paragraph 3">
         <source>Skip your draw step.</source>
@@ -1333,7 +1333,7 @@
       </trans-unit>
       <trans-unit id="9b608658-9150-439b-b0a0-4a994722b95c" resname="LRW·107 | Dread | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from anywhere, shuffle it into its owner's library.</source>
-        <target state="translated">当颤栗从任何地方置入坟墓场时，将它洗入其拥有者的牌库。</target>
+        <target state="translated">当CARDNAME从任何地方置入坟墓场时，将它洗入其拥有者的牌库。</target>
       </trans-unit>
       <trans-unit id="7d5c2487-5da0-4d9a-beb2-598feeb068a1" resname="LRW·108 | Dreamspoiler Witches | Card Name">
         <source>Dreamspoiler Witches</source>
@@ -1353,7 +1353,7 @@
       </trans-unit>
       <trans-unit id="5fe41509-02db-415c-964e-971ea1d5485c" resname="LRW·109 | Exiled Boggart | Card Text | Paragraph 1">
         <source>When CARDNAME dies, discard a card.</source>
-        <target state="translated">当流放波尬从场上置入坟墓场时，弃一张牌。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，弃一张牌。</target>
       </trans-unit>
       <trans-unit id="e0c08701-7038-4d6b-bbf8-056fd8ffb226" resname="LRW·110 | Eyeblight's Ending | Card Name">
         <source>Eyeblight's Ending</source>
@@ -1371,7 +1371,7 @@
       </trans-unit>
       <trans-unit id="1fc973d3-39cf-4d0c-a3e9-70af2be3cd68" resname="LRW·111 | Facevaulter | Card Text | Paragraph 1">
         <source>{B}, Sacrifice a Goblin: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">{B}，牺牲一个精灵：跺脸客得+2/+2直到回合结束。</target>
+        <target state="translated">{B}，牺牲一个精灵：CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="33727782-dafd-4a7c-96dd-6ffaf667cc6b" resname="LRW·112 | Faerie Tauntings | Card Name">
         <source>Faerie Tauntings</source>
@@ -1395,11 +1395,11 @@
       </trans-unit>
       <trans-unit id="d000670f-1151-4abf-a7ec-b35a6e587183" resname="LRW·114 | Fodder Launch | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, sacrifice a Goblin.</source>
-        <target state="translated">牺牲一个精灵，以作为使用粮秣发射的额外费用。</target>
+        <target state="translated">牺牲一个精灵，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="d000670f-1151-4abf-a7ec-b35a6e587183" resname="LRW·114 | Fodder Launch | Card Text | Paragraph 2">
         <source>Target creature gets -5/-5 until end of turn. CARDNAME deals 5 damage to that creature's controller.</source>
-        <target state="translated">目标生物得-5/-5直到回合结束。 粮秣发射对该生物的操控者造成5点伤害。</target>
+        <target state="translated">目标生物得-5/-5直到回合结束。 CARDNAME对该生物的操控者造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="fc04f820-9505-4ccd-98e7-1bb861161af5" resname="LRW·115 | Footbottom Feast | Card Name">
         <source>Footbottom Feast</source>
@@ -1425,7 +1425,7 @@
       </trans-unit>
       <trans-unit id="d7218726-dfa2-4d13-a210-5d54024e2d27" resname="LRW·116 | Ghostly Changeling | Card Text | Paragraph 2">
         <source>{1}{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{1}{B}：魂魅化形得+1/+1直到回合结束。</target>
+        <target state="translated">{1}{B}：CARDNAME得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="9666a328-cc51-4be1-abef-06bbe41dd866" resname="LRW·117 | Hoarder's Greed | Card Name">
@@ -1442,7 +1442,7 @@
       </trans-unit>
       <trans-unit id="45598727-a8b1-4b3e-87c6-70c36f0d4fe8" resname="LRW·118 | Hornet Harasser | Card Text | Paragraph 1">
         <source>When CARDNAME dies, target creature gets -2/-2 until end of turn.</source>
-        <target state="translated">当黄蜂骚扰师从场上进入坟墓场时，目标生物得-2/-2直到回合结束。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，目标生物得-2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="bbd5b8db-4a56-45bd-9704-a1316016ec5b" resname="LRW·119 | Hunter of Eyeblights | Card Name">
         <source>Hunter of Eyeblights</source>
@@ -1450,7 +1450,7 @@
       </trans-unit>
       <trans-unit id="bbd5b8db-4a56-45bd-9704-a1316016ec5b" resname="LRW·119 | Hunter of Eyeblights | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on target creature you don't control.</source>
-        <target state="translated">当碍眼猎捕人进场时，在目标不由你操控的生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进场时，在目标不由你操控的生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="bbd5b8db-4a56-45bd-9704-a1316016ec5b" resname="LRW·119 | Hunter of Eyeblights | Card Text | Paragraph 2">
         <source>{2}{B}, {T}: Destroy target creature with a counter on it.</source>
@@ -1462,7 +1462,7 @@
       </trans-unit>
       <trans-unit id="7d66b355-9aff-4cce-ae4a-42b233475dcf" resname="LRW·120 | Knucklebone Witch | Card Text | Paragraph 1">
         <source>Whenever a Goblin you control is put into a graveyard from the battlefield, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个由你操控的精灵从场上进入坟墓场时，你可以在跖骨法术师上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个由你操控的精灵从场上进入坟墓场时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="1662fcb1-f142-43ff-b682-6827dea2ff7e" resname="LRW·121 | Liliana Vess | Card Name">
         <source>Liliana Vess</source>
@@ -1526,12 +1526,12 @@
       </trans-unit>
       <trans-unit id="040e1039-1943-4c2d-aa98-b7f9519de321" resname="LRW·125 | Marsh Flitter | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create two 1/1 black Goblin Rogue creature tokens.</source>
-        <target state="translated">当沼地掠空客进战场时，派出两个1/1黑色鬼怪／浪客衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出两个1/1黑色鬼怪／浪客衍生生物。</target>
         <note xmlns:from="developer">中文数据来自ZNC（2020-09-25）；</note>
       </trans-unit>
       <trans-unit id="040e1039-1943-4c2d-aa98-b7f9519de321" resname="LRW·125 | Marsh Flitter | Card Text | Paragraph 3">
         <source>Sacrifice a Goblin: CARDNAME has base power and toughness 3/3 until end of turn.</source>
-        <target state="translated">牺牲一个鬼怪：沼地掠空客的基础力量与防御力为3/3直到回合结束。</target>
+        <target state="translated">牺牲一个鬼怪：CARDNAME的基础力量与防御力为3/3直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自ZNC（2020-09-25）；</note>
       </trans-unit>
       <trans-unit id="effb7761-98a8-4cb8-883a-ddcb91d30c08" resname="LRW·126 | Moonglove Winnower | Card Name">
@@ -1548,7 +1548,7 @@
       </trans-unit>
       <trans-unit id="3a62a282-5f94-444b-9095-4c36fabdad57" resname="LRW·127 | Mournwhelk | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target player discards two cards.</source>
-        <target state="translated">当悼亡螺精进场时，目标牌手弃两张牌。</target>
+        <target state="translated">当CARDNAME进场时，目标牌手弃两张牌。</target>
       </trans-unit>
       <trans-unit id="3a62a282-5f94-444b-9095-4c36fabdad57" resname="LRW·127 | Mournwhelk | Card Text | Paragraph 2">
         <source>Evoke {3}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -1611,7 +1611,7 @@
       </trans-unit>
       <trans-unit id="aa341824-bf3a-49ce-a8a0-ee53f537d626" resname="LRW·132 | Nightshade Stinger | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">夜影刺棘客不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="9675b8ea-47f9-440e-9535-de879da53f76" resname="LRW·133 | Oona's Prowler | Card Name">
         <source>Oona's Prowler</source>
@@ -1625,7 +1625,7 @@
       </trans-unit>
       <trans-unit id="9675b8ea-47f9-440e-9535-de879da53f76" resname="LRW·133 | Oona's Prowler | Card Text | Paragraph 2">
         <source>Discard a card: CARDNAME gets -2/-0 until end of turn. Any player may activate this ability.</source>
-        <target state="translated">弃一张牌：欧娜的游掠者得-2/-0直到回合结束。任何牌手均可以起动此异能。</target>
+        <target state="translated">弃一张牌：CARDNAME得-2/-0直到回合结束。任何牌手均可以起动此异能。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="568586ca-8a02-4a77-bd65-c0b4a74c429d" resname="LRW·134 | Peppersmoke | Card Name">
@@ -1690,7 +1690,7 @@
       </trans-unit>
       <trans-unit id="a60c51c2-3a24-4376-850c-cebd4d75adca" resname="LRW·138 | Scarred Vinebreeder | Card Text | Paragraph 1">
         <source>{2}{B}, Exile an Elf card from your graveyard: CARDNAME gets +3/+3 until end of turn.</source>
-        <target state="translated">{2}{B}，将一张地精牌从你的坟墓场移出对战：带疤育藤师得+3/+3直到回合结束。</target>
+        <target state="translated">{2}{B}，将一张地精牌从你的坟墓场移出对战：CARDNAME得+3/+3直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ea19eb5e-0d70-42e6-bda2-b13757e08ca6" resname="LRW·139 | Shriekmaw | Card Name">
         <source>Shriekmaw</source>
@@ -1704,7 +1704,7 @@
       </trans-unit>
       <trans-unit id="ea19eb5e-0d70-42e6-bda2-b13757e08ca6" resname="LRW·139 | Shriekmaw | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target nonartifact, nonblack creature.</source>
-        <target state="translated">当尖吼怪进战场时，消灭目标非神器且非黑色的生物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标非神器且非黑色的生物。</target>
         <note xmlns:from="developer">中文数据来自AFC（2021-07-23）；</note>
       </trans-unit>
       <trans-unit id="ea19eb5e-0d70-42e6-bda2-b13757e08ca6" resname="LRW·139 | Shriekmaw | Card Text | Paragraph 3">
@@ -1722,7 +1722,7 @@
       </trans-unit>
       <trans-unit id="6f1d8e26-304b-4571-9b33-7713265d9bbf" resname="LRW·140 | Skeletal Changeling | Card Text | Paragraph 2">
         <source>{1}{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{1}{B}：重生骨骸化形。</target>
+        <target state="translated">{1}{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="88e77c10-b569-485f-ba3e-16ef0c57dd81" resname="LRW·141 | Spiderwig Boggart | Card Name">
         <source>Spiderwig Boggart</source>
@@ -1730,7 +1730,7 @@
       </trans-unit>
       <trans-unit id="88e77c10-b569-485f-ba3e-16ef0c57dd81" resname="LRW·141 | Spiderwig Boggart | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">当蛛发波尬进场时，目标生物获得恐惧异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，目标生物获得恐惧异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b7184715-3ed3-4f56-9bf3-ff431cca86be" resname="LRW·142 | Squeaking Pie Sneak | Card Name">
         <source>Squeaking Pie Sneak</source>
@@ -1738,7 +1738,7 @@
       </trans-unit>
       <trans-unit id="b7184715-3ed3-4f56-9bf3-ff431cca86be" resname="LRW·142 | Squeaking Pie Sneak | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, reveal a Goblin card from your hand or pay {3}.</source>
-        <target state="translated">从你的手上展示一张精灵牌或支付{3}，以作为使用吱吱集偷袭客的额外费用。</target>
+        <target state="translated">从你的手上展示一张精灵牌或支付{3}，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="b7184715-3ed3-4f56-9bf3-ff431cca86be" resname="LRW·142 | Squeaking Pie Sneak | Card Text | Paragraph 2">
         <source>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</source>
@@ -1754,7 +1754,7 @@
       </trans-unit>
       <trans-unit id="9b5b51c3-60a8-45b2-9de0-605388091e8a" resname="LRW·143 | Thieving Sprite | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target player reveals X cards from their hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card.</source>
-        <target state="translated">当行窃仙子进场时，目标牌手从手上展示X张牌，X为由你操控的仙灵数量。 你从那些牌中选择一张。 该牌手弃掉该牌。</target>
+        <target state="translated">当CARDNAME进场时，目标牌手从手上展示X张牌，X为由你操控的仙灵数量。 你从那些牌中选择一张。 该牌手弃掉该牌。</target>
       </trans-unit>
       <trans-unit id="140265a2-61c3-4731-989c-9d55c27400ec" resname="LRW·144 | Thorntooth Witch | Card Name">
         <source>Thorntooth Witch</source>
@@ -1780,7 +1780,7 @@
       </trans-unit>
       <trans-unit id="bc98177b-34a6-44e1-9abd-6fd8df09fc70" resname="LRW·146 | Warren Pilferers | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return target creature card from your graveyard to your hand. If that card is a Goblin card, CARDNAME gains haste until end of turn.</source>
-        <target state="translated">当繁殖地小偷进场时，你可以将目标生物牌从你的坟墓场移回你手上。 若该牌是精灵牌，则繁殖地小偷获得敏捷直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，你可以将目标生物牌从你的坟墓场移回你手上。 若该牌是精灵牌，则CARDNAME获得敏捷直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c1f7fb79-19a8-483a-bf91-e687f7da4e9c" resname="LRW·147 | Weed Strangle | Card Name">
         <source>Weed Strangle</source>
@@ -1796,7 +1796,7 @@
       </trans-unit>
       <trans-unit id="d116839f-6a3a-4a2e-a3ab-ea177c012746" resname="LRW·148 | Adder-Staff Boggart | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on CARDNAME. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">当蛇杖波尬进场时，与一位对手比点。 若你赢，则在蛇杖波尬上放置一个+1/+1指示物。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">当CARDNAME进场时，与一位对手比点。 若你赢，则在CARDNAME上放置一个+1/+1指示物。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="63056eb9-4257-4530-8ff4-6909a2cedf47" resname="LRW·149 | Ashling the Pilgrim | Card Name">
         <source>Ashling the Pilgrim</source>
@@ -1805,7 +1805,7 @@
       </trans-unit>
       <trans-unit id="63056eb9-4257-4530-8ff4-6909a2cedf47" resname="LRW·149 | Ashling the Pilgrim | Card Text | Paragraph 1">
         <source>{1}{R}: Put a +1/+1 counter on CARDNAME. If this is the third time this ability has resolved this turn, remove all +1/+1 counters from CARDNAME, and it deals that much damage to each creature and each player.</source>
-        <target state="translated">{1}{R}：在朝圣客灰儿上放置一个+1/+1指示物。如果这是此异能在本回合第三次的结算，则从朝圣客灰儿上移去所有+1/+1指示物，且它对每个生物和每位牌手各造成该数量的伤害。</target>
+        <target state="translated">{1}{R}：在CARDNAME上放置一个+1/+1指示物。如果这是此异能在本回合第三次的结算，则从CARDNAME上移去所有+1/+1指示物，且它对每个生物和每位牌手各造成该数量的伤害。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="d850d95e-ba27-49cc-aa7a-42508852fe20" resname="LRW·150 | Ashling's Prerogative | Card Name">
@@ -1814,7 +1814,7 @@
       </trans-unit>
       <trans-unit id="d850d95e-ba27-49cc-aa7a-42508852fe20" resname="LRW·150 | Ashling's Prerogative | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose odd or even. (Zero is even.)</source>
-        <target state="translated">于灰儿的特权进场时，选择奇数或偶数。 （零是偶数。）</target>
+        <target state="translated">于CARDNAME进场时，选择奇数或偶数。 （零是偶数。）</target>
       </trans-unit>
       <trans-unit id="d850d95e-ba27-49cc-aa7a-42508852fe20" resname="LRW·150 | Ashling's Prerogative | Card Text | Paragraph 2">
         <source>Each creature with mana value of the chosen quality has haste.</source>
@@ -1849,7 +1849,7 @@
       </trans-unit>
       <trans-unit id="75aaca31-8ed5-4e8a-8332-1cca77903f88" resname="LRW·153 | Blind-Spot Giant | Card Text | Paragraph 1">
         <source>CARDNAME can't attack or block unless you control another Giant.</source>
-        <target state="translated">除非你操控其它巨人，否则盲点巨人不能进行攻击或阻挡。</target>
+        <target state="translated">除非你操控其它巨人，否则CARDNAME不能进行攻击或阻挡。</target>
       </trans-unit>
       <trans-unit id="fbc26374-d8de-4740-b1ec-ac92cfedbebc" resname="LRW·154 | Boggart Forager | Card Name">
         <source>Boggart Forager</source>
@@ -1857,7 +1857,7 @@
       </trans-unit>
       <trans-unit id="fbc26374-d8de-4740-b1ec-ac92cfedbebc" resname="LRW·154 | Boggart Forager | Card Text | Paragraph 1">
         <source>{R}, Sacrifice CARDNAME: Target player shuffles their library.</source>
-        <target state="translated">{R}，牺牲搜粮波尬：目标牌手洗他的牌库。</target>
+        <target state="translated">{R}，牺牲CARDNAME：目标牌手洗他的牌库。</target>
       </trans-unit>
       <trans-unit id="1b3c0ea9-270d-4738-9462-7f48fecb4bf4" resname="LRW·155 | Boggart Shenanigans | Card Name">
         <source>Boggart Shenanigans</source>
@@ -1865,7 +1865,7 @@
       </trans-unit>
       <trans-unit id="1b3c0ea9-270d-4738-9462-7f48fecb4bf4" resname="LRW·155 | Boggart Shenanigans | Card Text | Paragraph 1">
         <source>Whenever another Goblin you control is put into a graveyard from the battlefield, you may have CARDNAME deal 1 damage to target player or planeswalker.</source>
-        <target state="translated">每当由你操控的另一个精灵从场上置入坟墓场时，你可以让捣蛋波尬对目标牌手造成1点伤害。</target>
+        <target state="translated">每当由你操控的另一个精灵从场上置入坟墓场时，你可以让CARDNAME对目标牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="6341b73b-a035-45a2-908d-879c8eed4bbd" resname="LRW·156 | Boggart Sprite-Chaser | Card Name">
         <source>Boggart Sprite-Chaser</source>
@@ -1873,7 +1873,7 @@
       </trans-unit>
       <trans-unit id="6341b73b-a035-45a2-908d-879c8eed4bbd" resname="LRW·156 | Boggart Sprite-Chaser | Card Text | Paragraph 1">
         <source>As long as you control a Faerie, CARDNAME gets +1/+1 and has flying.</source>
-        <target state="translated">只要你操控仙灵，缠仙波尬便得+1/+1并具有飞行异能。</target>
+        <target state="translated">只要你操控仙灵，CARDNAME便得+1/+1并具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="ee8337bf-9fe8-45a0-974c-8911306b19ea" resname="LRW·157 | Caterwauling Boggart | Card Name">
         <source>Caterwauling Boggart</source>
@@ -1889,7 +1889,7 @@
       </trans-unit>
       <trans-unit id="a7e103a3-555c-4b68-9768-42637bfd2478" resname="LRW·158 | Ceaseless Searblades | Card Text | Paragraph 1">
         <source>Whenever you activate an ability of an Elemental, CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">每当你使用元素的起动式异能时，不息焦刃军得+1/+0直到回合结束。</target>
+        <target state="translated">每当你使用元素的起动式异能时，CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="317e7ab7-7639-4877-aae2-3746563f2ec9" resname="LRW·159 | Chandra Nalaar | Card Name">
         <source>Chandra Nalaar</source>
@@ -1898,17 +1898,17 @@
       </trans-unit>
       <trans-unit id="317e7ab7-7639-4877-aae2-3746563f2ec9" resname="LRW·159 | Chandra Nalaar | Card Text | Paragraph 1">
         <source>[+1]: CARDNAME deals 1 damage to target player or planeswalker.</source>
-        <target state="translated">+1：茜卓纳拉对目标牌手造成1点伤害。</target>
+        <target state="translated">+1：CARDNAME对目标牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自M11（2010-07-16）；</note>
       </trans-unit>
       <trans-unit id="317e7ab7-7639-4877-aae2-3746563f2ec9" resname="LRW·159 | Chandra Nalaar | Card Text | Paragraph 2">
         <source>[−X]: CARDNAME deals X damage to target creature.</source>
-        <target state="translated">-X：茜卓纳拉对目标生物造成X点伤害。</target>
+        <target state="translated">-X：CARDNAME对目标生物造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自M11（2010-07-16）；</note>
       </trans-unit>
       <trans-unit id="317e7ab7-7639-4877-aae2-3746563f2ec9" resname="LRW·159 | Chandra Nalaar | Card Text | Paragraph 3">
         <source>[−8]: CARDNAME deals 10 damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.</source>
-        <target state="translated">-8：茜卓纳拉对目标牌手与该牌手所操控的每个生物各造成10点伤害。</target>
+        <target state="translated">-8：CARDNAME对目标牌手与该牌手所操控的每个生物各造成10点伤害。</target>
         <note xmlns:from="developer">中文数据来自M11（2010-07-16）；</note>
       </trans-unit>
       <trans-unit id="9f2e8f24-2ee1-4516-bf60-7fe6a0c4baec" resname="LRW·160 | Changeling Berserker | Card Name">
@@ -1933,7 +1933,7 @@
       </trans-unit>
       <trans-unit id="56a4ec08-5029-4f7b-a93b-a5dad4be5113" resname="LRW·161 | Consuming Bonfire | Card Text | Paragraphs">
         <source>Choose one —\n• CARDNAME deals 4 damage to target non-Elemental creature.\n• CARDNAME deals 7 damage to target Treefolk creature.</source>
-        <target state="translated">选择一项～营火吞噬对目标非元素生物造成4点伤害；或营火吞噬对目标树妖生物造成7点伤害。</target>
+        <target state="translated">选择一项～CARDNAME对目标非元素生物造成4点伤害；或CARDNAME对目标树妖生物造成7点伤害。</target>
       </trans-unit>
       <trans-unit id="e0386925-53bc-4902-ac30-cbdcb099936d" resname="LRW·162 | Crush Underfoot | Card Name">
         <source>Crush Underfoot</source>
@@ -1953,7 +1953,7 @@
       </trans-unit>
       <trans-unit id="be88b32a-986c-4317-b4a3-119f67e13b83" resname="LRW·163 | Faultgrinder | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target land.</source>
-        <target state="translated">当翻突怪进场时，消灭目标地。</target>
+        <target state="translated">当CARDNAME进场时，消灭目标地。</target>
       </trans-unit>
       <trans-unit id="be88b32a-986c-4317-b4a3-119f67e13b83" resname="LRW·163 | Faultgrinder | Card Text | Paragraph 3">
         <source>Evoke {4}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -1969,7 +1969,7 @@
       </trans-unit>
       <trans-unit id="d4732342-71a4-4079-b549-f4454945273a" resname="LRW·164 | Fire-Belly Changeling | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn. Activate no more than twice each turn.</source>
-        <target state="translated">{R}：炎腹化形得+1/+0直到回合结束。 此异能每回合中最多只能使用两次。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。 此异能每回合中最多只能使用两次。</target>
       </trans-unit>
       <trans-unit id="1b6ea1c8-ca58-4240-adb7-71cd49664414" resname="LRW·165 | Flamekin Bladewhirl | Card Name">
         <source>Flamekin Bladewhirl</source>
@@ -1977,7 +1977,7 @@
       </trans-unit>
       <trans-unit id="1b6ea1c8-ca58-4240-adb7-71cd49664414" resname="LRW·165 | Flamekin Bladewhirl | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, reveal an Elemental card from your hand or pay {3}.</source>
-        <target state="translated">从你的手上展示一张元素牌或支付{3}，以作为使用旋刃炎身的额外费用。</target>
+        <target state="translated">从你的手上展示一张元素牌或支付{3}，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="301abe8f-916a-4e5b-bf25-f1e12ae9cee2" resname="LRW·166 | Flamekin Brawler | Card Name">
         <source>Flamekin Brawler</source>
@@ -1985,7 +1985,7 @@
       </trans-unit>
       <trans-unit id="301abe8f-916a-4e5b-bf25-f1e12ae9cee2" resname="LRW·166 | Flamekin Brawler | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：炎身喧哗兵得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f330c0f4-13d2-4432-9ced-f044bef98ec8" resname="LRW·167 | Flamekin Harbinger | Card Name">
         <source>Flamekin Harbinger</source>
@@ -1993,7 +1993,7 @@
       </trans-unit>
       <trans-unit id="f330c0f4-13d2-4432-9ced-f044bef98ec8" resname="LRW·167 | Flamekin Harbinger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for an Elemental card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">当先兆炎身进场时，你可以从你的牌库中搜寻一张元素牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻一张元素牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
       </trans-unit>
       <trans-unit id="9a7878e5-fcb0-4de5-8dda-fcdb4b138ec1" resname="LRW·168 | Flamekin Spitfire | Card Name">
         <source>Flamekin Spitfire</source>
@@ -2001,7 +2001,7 @@
       </trans-unit>
       <trans-unit id="9a7878e5-fcb0-4de5-8dda-fcdb4b138ec1" resname="LRW·168 | Flamekin Spitfire | Card Text | Paragraph 1">
         <source>{3}{R}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{3}{R}：喷火炎身对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{3}{R}：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="1f72f461-98d7-45e0-9968-9afb240fbf1e" resname="LRW·169 | Giant Harbinger | Card Name">
         <source>Giant Harbinger</source>
@@ -2009,7 +2009,7 @@
       </trans-unit>
       <trans-unit id="1f72f461-98d7-45e0-9968-9afb240fbf1e" resname="LRW·169 | Giant Harbinger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a Giant card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">当先兆巨人进场时，你可以从你的牌库中搜寻一张巨人牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻一张巨人牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
       </trans-unit>
       <trans-unit id="046fa2db-4c73-401a-b9a4-b039554be625" resname="LRW·170 | Giant's Ire | Card Name">
         <source>Giant's Ire</source>
@@ -2017,7 +2017,7 @@
       </trans-unit>
       <trans-unit id="046fa2db-4c73-401a-b9a4-b039554be625" resname="LRW·170 | Giant's Ire | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target player or planeswalker. If you control a Giant, draw a card.</source>
-        <target state="translated">巨人怒火对目标牌手造成4点伤害。 若你操控巨人，则抓一张牌。</target>
+        <target state="translated">CARDNAME对目标牌手造成4点伤害。 若你操控巨人，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="59fdc845-7165-40f3-a082-21a502b3f0f6" resname="LRW·171 | Glarewielder | Card Name">
         <source>Glarewielder</source>
@@ -2029,7 +2029,7 @@
       </trans-unit>
       <trans-unit id="59fdc845-7165-40f3-a082-21a502b3f0f6" resname="LRW·171 | Glarewielder | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, up to two target creatures can't block this turn.</source>
-        <target state="translated">当眩光师进场时，至多两个目标生物本回合不能进行阻挡。</target>
+        <target state="translated">当CARDNAME进场时，至多两个目标生物本回合不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="59fdc845-7165-40f3-a082-21a502b3f0f6" resname="LRW·171 | Glarewielder | Card Text | Paragraph 3">
         <source>Evoke {1}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -2041,7 +2041,7 @@
       </trans-unit>
       <trans-unit id="78f32852-2a18-453d-910a-829c3a2b5b1b" resname="LRW·172 | Goatnapper | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, untap target Goat and gain control of it until end of turn. It gains haste until end of turn.</source>
-        <target state="translated">当牵羊客进场时，重置目标山羊并获得其操控权直到回合结束。 它获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，重置目标山羊并获得其操控权直到回合结束。 它获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="96f71692-6389-462f-933e-b18b5aa7d76b" resname="LRW·173 | Hamletback Goliath | Card Name">
         <source>Hamletback Goliath</source>
@@ -2050,7 +2050,7 @@
       </trans-unit>
       <trans-unit id="96f71692-6389-462f-933e-b18b5aa7d76b" resname="LRW·173 | Hamletback Goliath | Card Text | Paragraph 1">
         <source>Whenever another creature enters the battlefield, you may put X +1/+1 counters on CARDNAME, where X is that creature's power.</source>
-        <target state="translated">每当另一个生物进战场时，你可以在驮村巨人上放置X个+1/+1指示物，X为该生物的力量。</target>
+        <target state="translated">每当另一个生物进战场时，你可以在CARDNAME上放置X个+1/+1指示物，X为该生物的力量。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="fb0d4d3f-d3ad-4c70-b9af-9bfcdd9efd1f" resname="LRW·174 | Hearthcage Giant | Card Name">
@@ -2059,7 +2059,7 @@
       </trans-unit>
       <trans-unit id="fb0d4d3f-d3ad-4c70-b9af-9bfcdd9efd1f" resname="LRW·174 | Hearthcage Giant | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two 3/1 red Elemental Shaman creature tokens.</source>
-        <target state="translated">当炉监巨人进场时，将两个3/1红色的元素／祭师衍生物放置进场。</target>
+        <target state="translated">当CARDNAME进场时，将两个3/1红色的元素／祭师衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="fb0d4d3f-d3ad-4c70-b9af-9bfcdd9efd1f" resname="LRW·174 | Hearthcage Giant | Card Text | Paragraph 2">
         <source>Sacrifice an Elemental: Target Giant creature gets +3/+1 until end of turn.</source>
@@ -2082,7 +2082,7 @@
       </trans-unit>
       <trans-unit id="5f560199-7703-4e2a-8e2d-5728f6efef46" resname="LRW·176 | Hostility | Card Text | Paragraphs">
         <source>Haste\nIf a spell you control would deal damage to an opponent, prevent that damage. Create a 3/1 red Elemental Shaman creature token with haste for each 1 damage prevented this way.\nWhen CARDNAME is put into a graveyard from anywhere, shuffle it into its owner's library.</source>
-        <target state="translated">敏捷如果由你操控的某咒语将向任一对手造成伤害，则防止该伤害。每以此法防止1点伤害，便将一个3/1红色，具敏捷异能的元素／祭师衍生生物放进战场。当敌意从任何区域置入坟墓场时，将它洗入其拥有者的牌库。</target>
+        <target state="translated">敏捷如果由你操控的某咒语将向任一对手造成伤害，则防止该伤害。每以此法防止1点伤害，便将一个3/1红色，具敏捷异能的元素／祭师衍生生物放进战场。当CARDNAME从任何区域置入坟墓场时，将它洗入其拥有者的牌库。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="7a6e0b97-c2a9-4cd6-957e-87e9b22f7b48" resname="LRW·177 | Hurly-Burly | Card Name">
@@ -2097,12 +2097,12 @@
       </trans-unit>
       <trans-unit id="7a6e0b97-c2a9-4cd6-957e-87e9b22f7b48" resname="LRW·177 | Hurly-Burly | Card Text | Paragraph 2">
         <source>• CARDNAME deals 1 damage to each creature without flying.</source>
-        <target state="translated">•骚动不断对每个不具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">•CARDNAME对每个不具飞行异能的生物各造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="7a6e0b97-c2a9-4cd6-957e-87e9b22f7b48" resname="LRW·177 | Hurly-Burly | Card Text | Paragraph 3">
         <source>• CARDNAME deals 1 damage to each creature with flying.</source>
-        <target state="translated">•骚动不断对每个具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">•CARDNAME对每个具飞行异能的生物各造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="c8829b3c-5267-44c6-b709-c2dfc683b0a8" resname="LRW·178 | Incandescent Soulstoke | Card Name">
@@ -2126,7 +2126,7 @@
       </trans-unit>
       <trans-unit id="512367a2-f8f6-4c28-9eb3-8e04d2694e4b" resname="LRW·179 | Incendiary Command | Card Text | Paragraphs">
         <source>Choose two —\n• CARDNAME deals 4 damage to target player or planeswalker.\n• CARDNAME deals 2 damage to each creature.\n• Destroy target nonbasic land.\n• Each player discards all the cards in their hand, then draws that many cards.</source>
-        <target state="translated">选择两项～煽动指命对目标牌手造成4点伤害；或煽动指命对每个生物各造成2点伤害；或消灭目标非基本地；或每位牌手弃掉所有手牌，然后抓等量的牌。</target>
+        <target state="translated">选择两项～CARDNAME对目标牌手造成4点伤害；或CARDNAME对每个生物各造成2点伤害；或消灭目标非基本地；或每位牌手弃掉所有手牌，然后抓等量的牌。</target>
       </trans-unit>
       <trans-unit id="9ceb9ae9-d153-446f-8835-1c53672fc9ca" resname="LRW·180 | Ingot Chewer | Card Name">
         <source>Ingot Chewer</source>
@@ -2135,7 +2135,7 @@
       </trans-unit>
       <trans-unit id="9ceb9ae9-d153-446f-8835-1c53672fc9ca" resname="LRW·180 | Ingot Chewer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, destroy target artifact.</source>
-        <target state="translated">当嚼锭怪进战场时，消灭目标神器。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标神器。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="9ceb9ae9-d153-446f-8835-1c53672fc9ca" resname="LRW·180 | Ingot Chewer | Card Text | Paragraph 2">
@@ -2149,7 +2149,7 @@
       </trans-unit>
       <trans-unit id="f99a113a-013a-411b-9f16-975cebd5ea5f" resname="LRW·181 | Inner-Flame Acolyte | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature gets +2/+0 and gains haste until end of turn.</source>
-        <target state="translated">当心焰侍僧进场时，目标生物得+2/+0且获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，目标生物得+2/+0且获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f99a113a-013a-411b-9f16-975cebd5ea5f" resname="LRW·181 | Inner-Flame Acolyte | Card Text | Paragraph 2">
         <source>Evoke {R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -2171,7 +2171,7 @@
       </trans-unit>
       <trans-unit id="de2c0c8b-5442-44fb-9686-d3dff5742501" resname="LRW·183 | Lash Out | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature. Clash with an opponent. If you win, CARDNAME deals 3 damage to that creature's controller. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">猛击对目标生物造成3点伤害。 与一位对手比点。 若你赢，则猛击再对该生物的操控者造成3点伤害。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">CARDNAME对目标生物造成3点伤害。 与一位对手比点。 若你赢，则CARDNAME再对该生物的操控者造成3点伤害。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="cdaa7f6a-9639-4bee-aa12-20054d7975d5" resname="LRW·184 | Lowland Oaf | Card Name">
         <source>Lowland Oaf</source>
@@ -2188,7 +2188,7 @@
       </trans-unit>
       <trans-unit id="50575eab-6c23-4f63-9667-458416c5caa5" resname="LRW·185 | Mudbutton Torchrunner | Card Text | Paragraph 1">
         <source>When CARDNAME dies, it deals 3 damage to any target.</source>
-        <target state="translated">当泥钮炬跑者死去时，它对任意一个目标造成3点伤害。</target>
+        <target state="translated">当CARDNAME死去时，它对任意一个目标造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="d3f89bcf-46f8-4598-a949-7f10134606aa" resname="LRW·186 | Needle Drop | Card Name">
@@ -2197,7 +2197,7 @@
       </trans-unit>
       <trans-unit id="d3f89bcf-46f8-4598-a949-7f10134606aa" resname="LRW·186 | Needle Drop | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to any target that was dealt damage this turn.</source>
-        <target state="translated">落针对目标在本回合受过伤害的生物或牌手造成1点伤害。</target>
+        <target state="translated">CARDNAME对目标在本回合受过伤害的生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="d3f89bcf-46f8-4598-a949-7f10134606aa" resname="LRW·186 | Needle Drop | Card Text | Paragraph 2">
         <source>Draw a card.</source>
@@ -2269,7 +2269,7 @@
       </trans-unit>
       <trans-unit id="ffd2ec11-eb65-488d-a857-b5020113c429" resname="LRW·193 | Tar Pitcher | Card Text | Paragraph 1">
         <source>{T}, Sacrifice a Goblin: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{T}，牺牲一个精灵：焦油投掷手对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">{T}，牺牲一个精灵：CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="d13a898e-6a97-4fd9-980e-3bfd8d755386" resname="LRW·194 | Tarfire | Card Name">
         <source>Tarfire</source>
@@ -2277,7 +2277,7 @@
       </trans-unit>
       <trans-unit id="d13a898e-6a97-4fd9-980e-3bfd8d755386" resname="LRW·194 | Tarfire | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">焦油火对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="5864f207-2878-461b-8ff6-76475abc324d" resname="LRW·195 | Thundercloud Shaman | Card Name">
         <source>Thundercloud Shaman</source>
@@ -2286,7 +2286,7 @@
       </trans-unit>
       <trans-unit id="5864f207-2878-461b-8ff6-76475abc324d" resname="LRW·195 | Thundercloud Shaman | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals damage equal to the number of Giants you control to each non-Giant creature.</source>
-        <target state="translated">当雷云祭师进战场时，它对每个非巨人的生物各造成伤害，其数量等同于由你操控的巨人数量。</target>
+        <target state="translated">当CARDNAME进战场时，它对每个非巨人的生物各造成伤害，其数量等同于由你操控的巨人数量。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="d76f09bc-b49a-4ad2-be2d-2a191d41b86d" resname="LRW·196 | Wild Ricochet | Card Name">
@@ -2305,11 +2305,11 @@
       </trans-unit>
       <trans-unit id="8a128ea6-cd00-4410-8dc4-cf66ce6f0fa1" resname="LRW·197 | Battlewand Oak | Card Text | Paragraph 1">
         <source>Whenever a Forest enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">每当一个树林在你的操控下进场时，战杖橡树得+2/+2直到回合结束。</target>
+        <target state="translated">每当一个树林在你的操控下进场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8a128ea6-cd00-4410-8dc4-cf66ce6f0fa1" resname="LRW·197 | Battlewand Oak | Card Text | Paragraph 2">
         <source>Whenever you cast a Treefolk spell, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">每当你使用一个树妖咒语时，战杖橡树得+2/+2直到回合结束。</target>
+        <target state="translated">每当你使用一个树妖咒语时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="310a1b54-56d9-496a-b910-90cc55996ad4" resname="LRW·198 | Bog-Strider Ash | Card Name">
         <source>Bog-Strider Ash</source>
@@ -2333,7 +2333,7 @@
       </trans-unit>
       <trans-unit id="b734a0a8-aa21-4fc0-b20d-5fea172884f6" resname="LRW·199 | Briarhorn | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gets +3/+3 until end of turn.</source>
-        <target state="translated">当荆棘角进场时，目标生物得+3/+3直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，目标生物得+3/+3直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b734a0a8-aa21-4fc0-b20d-5fea172884f6" resname="LRW·199 | Briarhorn | Card Text | Paragraph 3">
         <source>Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
@@ -2366,7 +2366,7 @@
       </trans-unit>
       <trans-unit id="c759c561-829d-483d-a433-fe1213f20236" resname="LRW·202 | Cloudthresher | Card Text | Paragraphs">
         <source>Flash\nReach\nWhen CARDNAME enters the battlefield, it deals 2 damage to each creature with flying and each player.\nEvoke {2}{G}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</source>
-        <target state="translated">闪现延势当扫云怪进战场时，它对每位牌手和每个具飞行异能的生物各造成2点伤害。呼魂{2}{G}{G}（你可以支付此咒语的呼魂费用来施放它。若你如此作，当它进战场时便牺牲之。）</target>
+        <target state="translated">闪现延势当CARDNAME进战场时，它对每位牌手和每个具飞行异能的生物各造成2点伤害。呼魂{2}{G}{G}（你可以支付此咒语的呼魂费用来施放它。若你如此作，当它进战场时便牺牲之。）</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="ad87cb77-6b49-4e93-9151-29f53b48dd4b" resname="LRW·203 | Dauntless Dourbark | Card Name">
@@ -2375,11 +2375,11 @@
       </trans-unit>
       <trans-unit id="ad87cb77-6b49-4e93-9151-29f53b48dd4b" resname="LRW·203 | Dauntless Dourbark | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.</source>
-        <target state="translated">不屈韧皮树之力量与防御力各等同于由你操控的树林数量与由你操控的树妖数量之总和。</target>
+        <target state="translated">CARDNAME之力量与防御力各等同于由你操控的树林数量与由你操控的树妖数量之总和。</target>
       </trans-unit>
       <trans-unit id="ad87cb77-6b49-4e93-9151-29f53b48dd4b" resname="LRW·203 | Dauntless Dourbark | Card Text | Paragraph 2">
         <source>CARDNAME has trample as long as you control another Treefolk.</source>
-        <target state="translated">只要你操控其它树妖，不屈韧皮树便具有践踏异能。</target>
+        <target state="translated">只要你操控其它树妖，CARDNAME便具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="5154fc12-a8f2-4a16-8b1f-f7415c87566d" resname="LRW·204 | Elvish Branchbender | Card Name">
         <source>Elvish Branchbender</source>
@@ -2395,7 +2395,7 @@
       </trans-unit>
       <trans-unit id="564b9d31-3079-45e3-acb3-a74169aa332e" resname="LRW·205 | Elvish Eulogist | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: You gain 1 life for each Elf card in your graveyard.</source>
-        <target state="translated">牺牲地精赞颂人：你坟墓场中每有一张地精牌，你便获得1点生命。</target>
+        <target state="translated">牺牲CARDNAME：你坟墓场中每有一张地精牌，你便获得1点生命。</target>
       </trans-unit>
       <trans-unit id="9854f9a9-160c-4c96-b871-0f85914597d0" resname="LRW·206 | Elvish Handservant | Card Name">
         <source>Elvish Handservant</source>
@@ -2403,7 +2403,7 @@
       </trans-unit>
       <trans-unit id="9854f9a9-160c-4c96-b871-0f85914597d0" resname="LRW·206 | Elvish Handservant | Card Text | Paragraph 1">
         <source>Whenever a player casts a Giant spell, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当任一牌手使用巨人咒语时，你可以在地精随侍上放置一个+1/+1指示物。</target>
+        <target state="translated">每当任一牌手使用巨人咒语时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="de789231-8358-4cbd-b8eb-1da4ce5b34c0" resname="LRW·207 | Elvish Harbinger | Card Name">
         <source>Elvish Harbinger</source>
@@ -2411,7 +2411,7 @@
       </trans-unit>
       <trans-unit id="de789231-8358-4cbd-b8eb-1da4ce5b34c0" resname="LRW·207 | Elvish Harbinger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">当先兆地精进场时，你可以从你的牌库中搜寻一张地精牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻一张地精牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
       </trans-unit>
       <trans-unit id="de789231-8358-4cbd-b8eb-1da4ce5b34c0" resname="LRW·207 | Elvish Harbinger | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color.</source>
@@ -2501,7 +2501,7 @@
       </trans-unit>
       <trans-unit id="311c5f1d-7e3b-4397-b05b-f20bde2dc164" resname="LRW·216 | Guardian of Cloverdell | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create three 1/1 white Kithkin Soldier creature tokens.</source>
-        <target state="translated">当苜蓿谷守护者进场时，将三个1/1白色洁英／士兵衍生物放置进场。</target>
+        <target state="translated">当CARDNAME进场时，将三个1/1白色洁英／士兵衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="311c5f1d-7e3b-4397-b05b-f20bde2dc164" resname="LRW·216 | Guardian of Cloverdell | Card Text | Paragraph 2">
         <source>{G}, Sacrifice a Kithkin: You gain 1 life.</source>
@@ -2565,12 +2565,12 @@
       </trans-unit>
       <trans-unit id="75fd5232-2dac-4bd9-a1f6-eb1a40154367" resname="LRW·222 | Jagged-Scar Archers | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of Elves you control.</source>
-        <target state="translated">锯疤箭手的力量和防御力各等同于由你操控的妖精数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控的妖精数量。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="75fd5232-2dac-4bd9-a1f6-eb1a40154367" resname="LRW·222 | Jagged-Scar Archers | Card Text | Paragraph 2">
         <source>{T}: CARDNAME deals damage equal to its power to target creature with flying.</source>
-        <target state="translated">{T}：锯疤箭手对目标具飞行异能的生物造成伤害，其数量等同于前者的力量。</target>
+        <target state="translated">{T}：CARDNAME对目标具飞行异能的生物造成伤害，其数量等同于前者的力量。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="90d0d7fd-a580-41af-8e9d-fee74094ec47" resname="LRW·223 | Kithkin Daggerdare | Card Name">
@@ -2655,12 +2655,12 @@
       </trans-unit>
       <trans-unit id="c9cf01d6-7d5d-4638-9884-733797c9f502" resname="LRW·230 | Masked Admirers | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当假面崇美者进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="c9cf01d6-7d5d-4638-9884-733797c9f502" resname="LRW·230 | Masked Admirers | Card Text | Paragraph 2">
         <source>Whenever you cast a creature spell, you may pay {G}{G}. If you do, return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">每当你施放生物咒语时，你可以支付{G}{G}。若你如此作，则将假面崇美者从你的坟墓场移回你手上。</target>
+        <target state="translated">每当你施放生物咒语时，你可以支付{G}{G}。若你如此作，则将CARDNAME从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="f2a2b029-02ba-46b0-88a2-99025727cc56" resname="LRW·231 | Nath's Elite | Card Name">
@@ -2669,11 +2669,11 @@
       </trans-unit>
       <trans-unit id="f2a2b029-02ba-46b0-88a2-99025727cc56" resname="LRW·231 | Nath's Elite | Card Text | Paragraph 1">
         <source>All creatures able to block CARDNAME do so.</source>
-        <target state="translated">所有能够阻挡纳斯精兵的生物皆须阻挡之。</target>
+        <target state="translated">所有能够阻挡CARDNAME的生物皆须阻挡之。</target>
       </trans-unit>
       <trans-unit id="f2a2b029-02ba-46b0-88a2-99025727cc56" resname="LRW·231 | Nath's Elite | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on CARDNAME. (Each clashing player reveals the top card of their library, then puts that card on the top or bottom. A player wins if their card had a higher mana value.)</source>
-        <target state="translated">当纳斯精兵进场时，与一位对手比点。 若你赢，则在纳斯精兵上放置一个+1/+1指示物。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
+        <target state="translated">当CARDNAME进场时，与一位对手比点。 若你赢，则在CARDNAME上放置一个+1/+1指示物。 （参与比点的牌手各展示其牌库顶牌，然后将该牌置于牌库顶部或底部。 所展示的牌之总法术力费用比较高的牌手赢得比点。）</target>
       </trans-unit>
       <trans-unit id="09fe818e-6dbc-4100-8552-b0393c87b052" resname="LRW·232 | Oakgnarl Warrior | Card Name">
         <source>Oakgnarl Warrior</source>
@@ -2727,7 +2727,7 @@
       </trans-unit>
       <trans-unit id="eca605c0-6270-4238-bb77-0bbfd7568807" resname="LRW·235 | Seedguide Ash | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may search your library for up to three Forest cards, put them onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">当导实梣木从场上置入坟墓场时，你可以从你的牌库中搜寻至多三张树林牌，并将它们横置进场。 若你如此作，则将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，你可以从你的牌库中搜寻至多三张树林牌，并将它们横置进场。 若你如此作，则将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="dc20ef13-e97f-454c-8295-7bb8a7c4e4be" resname="LRW·236 | Spring Cleaning | Card Name">
         <source>Spring Cleaning</source>
@@ -2763,7 +2763,7 @@
       </trans-unit>
       <trans-unit id="9ef45cdc-2e1c-40c7-8978-b09a50f511fb" resname="LRW·239 | Treefolk Harbinger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a Treefolk or Forest card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">当先兆树妖进场时，你可以从你的牌库中搜寻一张先兆树妖或树林牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的牌库中搜寻一张CARDNAME或树林牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
       </trans-unit>
       <trans-unit id="5cede0be-1bdd-4392-beaf-b83d0b780eb7" resname="LRW·240 | Vigor | Card Name">
         <source>Vigor</source>
@@ -2782,7 +2782,7 @@
       </trans-unit>
       <trans-unit id="5cede0be-1bdd-4392-beaf-b83d0b780eb7" resname="LRW·240 | Vigor | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from anywhere, shuffle it into its owner's library.</source>
-        <target state="translated">当活力从任何区域置入坟墓场时，将它洗入其拥有者的牌库。</target>
+        <target state="translated">当CARDNAME从任何区域置入坟墓场时，将它洗入其拥有者的牌库。</target>
         <note xmlns:from="developer">中文数据来自BBD（2018-06-08）；</note>
       </trans-unit>
       <trans-unit id="7ab5fe17-5499-427b-9267-3b3a9676a087" resname="LRW·241 | Warren-Scourge Elf | Card Name">
@@ -2811,7 +2811,7 @@
       </trans-unit>
       <trans-unit id="92adead0-f8b4-4c49-b4ce-d9253980ee03" resname="LRW·243 | Woodland Guidance | Card Text | Paragraph 2">
         <source>Exile CARDNAME.</source>
-        <target state="translated">将引导林地移出对战。</target>
+        <target state="translated">将CARDNAME移出对战。</target>
       </trans-unit>
       <trans-unit id="f9c411a0-b8dd-4394-852a-a29dbcec953b" resname="LRW·245 | Wren's Run Vanquisher | Card Name">
         <source>Wren's Run Vanquisher</source>
@@ -2819,7 +2819,7 @@
       </trans-unit>
       <trans-unit id="f9c411a0-b8dd-4394-852a-a29dbcec953b" resname="LRW·245 | Wren's Run Vanquisher | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, reveal an Elf card from your hand or pay {3}.</source>
-        <target state="translated">从你的手上展示一张地精牌或支付{3}，以作为使用蒙鸠地降敌兵的额外费用。</target>
+        <target state="translated">从你的手上展示一张地精牌或支付{3}，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="f9c411a0-b8dd-4394-852a-a29dbcec953b" resname="LRW·245 | Wren's Run Vanquisher | Card Text | Paragraph 2">
         <source>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</source>
@@ -2837,7 +2837,7 @@
       </trans-unit>
       <trans-unit id="aa21cfc2-9671-4bf3-b922-2f436f284cb1" resname="LRW·246 | Brion Stoutarm | Card Text | Paragraph 2">
         <source>{R}, {T}, Sacrifice another creature: CARDNAME deals damage equal to the sacrificed creature's power to target player or planeswalker.</source>
-        <target state="translated">{R}，{T}，牺牲另一个生物：勇臂伯里翁对目标牌手造成伤害，其数量等同于所牺牲生物的力量。</target>
+        <target state="translated">{R}，{T}，牺牲另一个生物：CARDNAME对目标牌手造成伤害，其数量等同于所牺牲生物的力量。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="b006b169-295d-4ead-8e8e-29a9c3246025" resname="LRW·247 | Doran, the Siege Tower | Card Name">
@@ -2930,7 +2930,7 @@
       </trans-unit>
       <trans-unit id="ff6b558b-74a5-497d-8be4-474c375d7ca7" resname="LRW·253 | Wydwen, the Biting Gale | Card Text | Paragraph 3">
         <source>{U}{B}, Pay 1 life: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{U}{B}，支付1点生命：将螫人风薇温移回其拥有者手上。</target>
+        <target state="translated">{U}{B}，支付1点生命：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="419fea28-3813-4e65-8b90-6d335fdf0a0b" resname="LRW·254 | Colfenor's Urn | Card Name">
         <source>Colfenor's Urn</source>
@@ -2942,7 +2942,7 @@
       </trans-unit>
       <trans-unit id="419fea28-3813-4e65-8b90-6d335fdf0a0b" resname="LRW·254 | Colfenor's Urn | Card Text | Paragraph 2">
         <source>At the beginning of the end step, if three or more cards have been exiled with CARDNAME, sacrifice it. If you do, return those cards to the battlefield under their owner's control.</source>
-        <target state="translated">在回合结束时，如果三张或更多牌已经被柯芬诺的瓮移出对战，则牺牲之。 若你如此作，则将这些牌在其拥有者的操控下移回场上。</target>
+        <target state="translated">在回合结束时，如果三张或更多牌已经被CARDNAME移出对战，则牺牲之。 若你如此作，则将这些牌在其拥有者的操控下移回场上。</target>
       </trans-unit>
       <trans-unit id="bd836fe0-932c-4d5c-9a52-94fc423c3d57" resname="LRW·255 | Deathrender | Card Name">
         <source>Deathrender</source>
@@ -2956,7 +2956,7 @@
       </trans-unit>
       <trans-unit id="bd836fe0-932c-4d5c-9a52-94fc423c3d57" resname="LRW·255 | Deathrender | Card Text | Paragraph 2">
         <source>Whenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach CARDNAME to it.</source>
-        <target state="translated">每当佩带此武具的生物死去时，你可以将一张生物牌从你手上放进战场，并将归魂剑装备于其上。</target>
+        <target state="translated">每当佩带此武具的生物死去时，你可以将一张生物牌从你手上放进战场，并将CARDNAME装备于其上。</target>
         <note xmlns:from="developer">中文数据来自CNS（2014-06-06）；</note>
       </trans-unit>
       <trans-unit id="bd836fe0-932c-4d5c-9a52-94fc423c3d57" resname="LRW·255 | Deathrender | Card Text | Paragraph 3">
@@ -2978,7 +2978,7 @@
       </trans-unit>
       <trans-unit id="b20925a3-dd4f-477c-806a-a3ec0fd2e00d" resname="LRW·257 | Herbal Poultice | Card Text | Paragraph 1">
         <source>{3}, Sacrifice CARDNAME: Regenerate target creature.</source>
-        <target state="translated">{3}，牺牲草药糊：重生目标生物。</target>
+        <target state="translated">{3}，牺牲CARDNAME：重生目标生物。</target>
       </trans-unit>
       <trans-unit id="97377416-35e8-4cf3-be1f-edc2ec3f6eb2" resname="LRW·258 | Moonglove Extract | Card Name">
         <source>Moonglove Extract</source>
@@ -2987,7 +2987,7 @@
       </trans-unit>
       <trans-unit id="97377416-35e8-4cf3-be1f-edc2ec3f6eb2" resname="LRW·258 | Moonglove Extract | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: It deals 2 damage to any target.</source>
-        <target state="translated">牺牲月地黄精粹：它对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">牺牲CARDNAME：它对目标生物或牌手造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="fbfd3898-cb06-4bb9-9d52-b319e1fa2217" resname="LRW·259 | Rings of Brighthearth | Card Name">
@@ -3061,7 +3061,7 @@
       </trans-unit>
       <trans-unit id="8ea7b2c0-c641-478f-b8d9-17aa17fa1cbe" resname="LRW·265 | Wanderer's Twig | Card Text | Paragraph 1">
         <source>{1}, Sacrifice CARDNAME: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">{1}，牺牲漫游者细枝：从你的牌库中搜寻一张基本地牌，展示该牌，并将它置入你手上。 然后将你的牌库洗牌。</target>
+        <target state="translated">{1}，牺牲CARDNAME：从你的牌库中搜寻一张基本地牌，展示该牌，并将它置入你手上。 然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="2ff3a82d-e794-4c3b-994d-b28b8eb7eac4" resname="LRW·266 | Ancient Amphitheater | Card Name">
         <source>Ancient Amphitheater</source>
@@ -3070,7 +3070,7 @@
       </trans-unit>
       <trans-unit id="2ff3a82d-e794-4c3b-994d-b28b8eb7eac4" resname="LRW·266 | Ancient Amphitheater | Card Text | Paragraphs">
         <source>As CARDNAME enters the battlefield, you may reveal a Giant card from your hand. If you don't, CARDNAME enters the battlefield tapped.\n{T}: Add {R} or {W}.</source>
-        <target state="translated">于远古阶梯剧场进战场时，你可以从你手上展示一张巨人牌。如果你未如此作，则远古阶梯剧场须横置进战场。{T}：加{R}或{W}到你的法术力池中。</target>
+        <target state="translated">于CARDNAME进战场时，你可以从你手上展示一张巨人牌。如果你未如此作，则CARDNAME须横置进战场。{T}：加{R}或{W}到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="098685c9-cd85-4279-a3b5-b495485bba35" resname="LRW·267 | Auntie's Hovel | Card Name">
@@ -3079,7 +3079,7 @@
       </trans-unit>
       <trans-unit id="098685c9-cd85-4279-a3b5-b495485bba35" resname="LRW·267 | Auntie's Hovel | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal a Goblin card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于大婶小屋进场时，你可以展示你手上一张精灵牌。 若你未如此作，则大婶小屋须横置进场。</target>
+        <target state="translated">于CARDNAME进场时，你可以展示你手上一张精灵牌。 若你未如此作，则CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="098685c9-cd85-4279-a3b5-b495485bba35" resname="LRW·267 | Auntie's Hovel | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {R}.</source>
@@ -3091,7 +3091,7 @@
       </trans-unit>
       <trans-unit id="cc4bbbb5-4218-4b2a-9ca2-de4d5f5dda19" resname="LRW·268 | Gilt-Leaf Palace | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal an Elf card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于金叶宫殿进场时，你可以展示你手上一张地精牌。 若你未如此作，则金叶宫殿须横置进场。</target>
+        <target state="translated">于CARDNAME进场时，你可以展示你手上一张地精牌。 若你未如此作，则CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="cc4bbbb5-4218-4b2a-9ca2-de4d5f5dda19" resname="LRW·268 | Gilt-Leaf Palace | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {G}.</source>
@@ -3117,7 +3117,7 @@
       </trans-unit>
       <trans-unit id="38234590-812c-4d29-80c1-32b9e1282580" resname="LRW·270 | Mosswort Bridge | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">苔草桥须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="38234590-812c-4d29-80c1-32b9e1282580" resname="LRW·270 | Mosswort Bridge | Card Text | Paragraph 3">
@@ -3136,7 +3136,7 @@
       </trans-unit>
       <trans-unit id="9e4afa65-7933-4a64-b50f-a9a9f832b112" resname="LRW·271 | Secluded Glen | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal a Faerie card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于隐僻幽谷进场时，你可以从你手上展示一张仙灵牌。 若你未如此作，则隐僻幽谷须横置进场。</target>
+        <target state="translated">于CARDNAME进场时，你可以从你手上展示一张仙灵牌。 若你未如此作，则CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="9e4afa65-7933-4a64-b50f-a9a9f832b112" resname="LRW·271 | Secluded Glen | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {B}.</source>
@@ -3177,7 +3177,7 @@
       </trans-unit>
       <trans-unit id="dec6abed-8fbb-4d3e-8f89-64ea1b3913db" resname="LRW·274 | Spinerock Knoll | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">脊石圆丘须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="dec6abed-8fbb-4d3e-8f89-64ea1b3913db" resname="LRW·274 | Spinerock Knoll | Card Text | Paragraph 3">
@@ -3197,7 +3197,7 @@
       </trans-unit>
       <trans-unit id="539001dc-69f0-42c0-b5c3-37d7b12eb79e" resname="LRW·275 | Vivid Crag | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped with two charge counters on it.\n{T}: Add {R}.\n{T}, Remove a charge counter from CARDNAME: Add one mana of any color.</source>
-        <target state="translated">虹霓峭壁须横置进战场，且上面有两个充电指示物。{T}：加{R}到你的法术力池中。{T}，从虹霓峭壁上移去一个充电指示物：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进战场，且上面有两个充电指示物。{T}：加{R}到你的法术力池中。{T}，从CARDNAME上移去一个充电指示物：加一点任意颜色的法术力到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="2e3c2935-84ee-446d-b247-2f574ea84a8f" resname="LRW·276 | Vivid Creek | Card Name">
@@ -3207,7 +3207,7 @@
       </trans-unit>
       <trans-unit id="2e3c2935-84ee-446d-b247-2f574ea84a8f" resname="LRW·276 | Vivid Creek | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped with two charge counters on it.</source>
-        <target state="translated">虹霓小溪须横置进战场，且上面有两个充电指示物。</target>
+        <target state="translated">CARDNAME须横置进战场，且上面有两个充电指示物。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="2e3c2935-84ee-446d-b247-2f574ea84a8f" resname="LRW·276 | Vivid Creek | Card Text | Paragraph 2">
@@ -3217,7 +3217,7 @@
       </trans-unit>
       <trans-unit id="2e3c2935-84ee-446d-b247-2f574ea84a8f" resname="LRW·276 | Vivid Creek | Card Text | Paragraph 3">
         <source>{T}, Remove a charge counter from CARDNAME: Add one mana of any color.</source>
-        <target state="translated">{T}，从虹霓小溪上移去一个充电指示物：加一点任意颜色的法术力。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个充电指示物：加一点任意颜色的法术力。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="6646babe-edd8-4367-ba8f-89af4f859dd8" resname="LRW·277 | Vivid Grove | Card Name">
@@ -3227,7 +3227,7 @@
       </trans-unit>
       <trans-unit id="6646babe-edd8-4367-ba8f-89af4f859dd8" resname="LRW·277 | Vivid Grove | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped with two charge counters on it.</source>
-        <target state="translated">虹霓树丛须横置进战场，且上面有两个充电指示物。</target>
+        <target state="translated">CARDNAME须横置进战场，且上面有两个充电指示物。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="6646babe-edd8-4367-ba8f-89af4f859dd8" resname="LRW·277 | Vivid Grove | Card Text | Paragraph 2">
@@ -3237,7 +3237,7 @@
       </trans-unit>
       <trans-unit id="6646babe-edd8-4367-ba8f-89af4f859dd8" resname="LRW·277 | Vivid Grove | Card Text | Paragraph 3">
         <source>{T}, Remove a charge counter from CARDNAME: Add one mana of any color.</source>
-        <target state="translated">{T}，从虹霓树丛上移去一个充电指示物：加一点任意颜色的法术力。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个充电指示物：加一点任意颜色的法术力。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="31f806c7-0063-4270-b37c-5363c41a7621" resname="LRW·278 | Vivid Marsh | Card Name">
@@ -3247,7 +3247,7 @@
       </trans-unit>
       <trans-unit id="31f806c7-0063-4270-b37c-5363c41a7621" resname="LRW·278 | Vivid Marsh | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped with two charge counters on it.\n{T}: Add {B}.\n{T}, Remove a charge counter from CARDNAME: Add one mana of any color.</source>
-        <target state="translated">虹霓泥沼须横置进战场，且上面有两个充电指示物。{T}：加{B}到你的法术力池中。{T}，从虹霓泥沼上移去一个充电指示物：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进战场，且上面有两个充电指示物。{T}：加{B}到你的法术力池中。{T}，从CARDNAME上移去一个充电指示物：加一点任意颜色的法术力到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="a535790b-d416-4807-bca0-acf6b192101c" resname="LRW·279 | Vivid Meadow | Card Name">
@@ -3257,7 +3257,7 @@
       </trans-unit>
       <trans-unit id="a535790b-d416-4807-bca0-acf6b192101c" resname="LRW·279 | Vivid Meadow | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped with two charge counters on it.</source>
-        <target state="translated">虹霓牧地须横置进战场，且上面有两个充电指示物。</target>
+        <target state="translated">CARDNAME须横置进战场，且上面有两个充电指示物。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="a535790b-d416-4807-bca0-acf6b192101c" resname="LRW·279 | Vivid Meadow | Card Text | Paragraph 2">
@@ -3267,7 +3267,7 @@
       </trans-unit>
       <trans-unit id="a535790b-d416-4807-bca0-acf6b192101c" resname="LRW·279 | Vivid Meadow | Card Text | Paragraph 3">
         <source>{T}, Remove a charge counter from CARDNAME: Add one mana of any color.</source>
-        <target state="translated">{T}，从虹霓牧地上移去一个充电指示物：加一点任意颜色的法术力。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个充电指示物：加一点任意颜色的法术力。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="ccec69de-7203-4810-a8ec-8748705ee3a2" resname="LRW·280 | Wanderwine Hub | Card Name">
@@ -3276,7 +3276,7 @@
       </trans-unit>
       <trans-unit id="ccec69de-7203-4810-a8ec-8748705ee3a2" resname="LRW·280 | Wanderwine Hub | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may reveal a Merfolk card from your hand. If you don't, CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">于漫酿中继站进场时，你可以从你手上展示一张人鱼牌。 若你未如此作，则漫酿中继站须横置进场。</target>
+        <target state="translated">于CARDNAME进场时，你可以从你手上展示一张人鱼牌。 若你未如此作，则CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="ccec69de-7203-4810-a8ec-8748705ee3a2" resname="LRW·280 | Wanderwine Hub | Card Text | Paragraph 2">
         <source>{T}: Add {W} or {U}.</source>
@@ -3294,7 +3294,7 @@
       </trans-unit>
       <trans-unit id="9df6a31a-5c49-4506-b8f8-84c9ab4a2ece" resname="LRW·281 | Windbrisk Heights | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">迅风高地须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="9df6a31a-5c49-4506-b8f8-84c9ab4a2ece" resname="LRW·281 | Windbrisk Heights | Card Text | Paragraph 3">

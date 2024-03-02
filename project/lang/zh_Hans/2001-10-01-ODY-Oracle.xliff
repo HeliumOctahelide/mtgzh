@@ -37,7 +37,7 @@
       </trans-unit>
       <trans-unit id="090dd4cf-5087-4ed8-a944-f3794e5862d5" resname="ODY·5 | Auramancer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may return target enchantment card from your graveyard to your hand.</source>
-        <target state="translated">当灵气法师进战场时，你可以将目标结界牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标结界牌从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="4d174892-c192-4667-94fb-9f8dbcc6c5eb" resname="ODY·6 | Aven Archer | Card Name">
@@ -50,7 +50,7 @@
       </trans-unit>
       <trans-unit id="4d174892-c192-4667-94fb-9f8dbcc6c5eb" resname="ODY·6 | Aven Archer | Card Text | Paragraph 2">
         <source>{2}{W}, {T}: CARDNAME deals 2 damage to target attacking or blocking creature.</source>
-        <target state="translated">2白，横置：艾文箭手对目标进行攻击或阻挡的生物造成2点伤害。</target>
+        <target state="translated">2白，横置：CARDNAME对目标进行攻击或阻挡的生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="08afe190-368e-4259-9959-00beaccee7ba" resname="ODY·7 | Aven Cloudchaser | Card Name">
         <source>Aven Cloudchaser</source>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="08afe190-368e-4259-9959-00beaccee7ba" resname="ODY·7 | Aven Cloudchaser | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target enchantment.</source>
-        <target state="translated">当艾文逐云战士进场时，消灭目标结界。</target>
+        <target state="translated">当CARDNAME进场时，消灭目标结界。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="29866d0b-f9be-4284-9d21-03598ef6ae4f" resname="ODY·8 | Aven Flock | Card Name">
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="29866d0b-f9be-4284-9d21-03598ef6ae4f" resname="ODY·8 | Aven Flock | Card Text | Paragraph 2">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">{W}：艾文信众得+0/+1直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME得+0/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="9890be7f-35af-43b7-b255-25be4ff20dc0" resname="ODY·9 | Aven Shrine | Card Name">
@@ -154,7 +154,7 @@
       </trans-unit>
       <trans-unit id="d1f95b64-858b-4344-84a2-3afa5c7b9ee9" resname="ODY·16 | Dedicated Martyr | Card Text | Paragraph 1">
         <source>{W}, Sacrifice CARDNAME: You gain 3 life.</source>
-        <target state="translated">白，牺牲献身的殉道者：你获得3点生命。</target>
+        <target state="translated">白，牺牲CARDNAME：你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="14e8195a-d0e4-4b11-b413-765ed1cae834" resname="ODY·17 | Delaying Shield | Card Name">
         <source>Delaying Shield</source>
@@ -162,11 +162,11 @@
       </trans-unit>
       <trans-unit id="14e8195a-d0e4-4b11-b413-765ed1cae834" resname="ODY·17 | Delaying Shield | Card Text | Paragraph 1">
         <source>If damage would be dealt to you, put that many delay counters on CARDNAME instead.</source>
-        <target state="translated">若你将受到伤害，则改为在延迟甲盾上放置等量的延迟指示物。</target>
+        <target state="translated">若你将受到伤害，则改为在CARDNAME上放置等量的延迟指示物。</target>
       </trans-unit>
       <trans-unit id="14e8195a-d0e4-4b11-b413-765ed1cae834" resname="ODY·17 | Delaying Shield | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, remove all delay counters from CARDNAME. For each delay counter removed this way, you lose 1 life unless you pay {1}{W}.</source>
-        <target state="translated">在你的维持开始时，从延迟甲盾上移去所有延迟指示物。每以此法移去一个延迟指示物，除非你支付1白，否则你失去1点生命。</target>
+        <target state="translated">在你的维持开始时，从CARDNAME上移去所有延迟指示物。每以此法移去一个延迟指示物，除非你支付1白，否则你失去1点生命。</target>
       </trans-unit>
       <trans-unit id="8d400b63-de3e-4805-a51d-c4c0dfbb7033" resname="ODY·18 | Devoted Caretaker | Card Name">
         <source>Devoted Caretaker</source>
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="948f0d9d-4e05-48b4-8652-1f8f41d35563" resname="ODY·24 | Graceful Antelope | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may have target land become a Plains until CARDNAME leaves the battlefield.</source>
-        <target state="translated">每当优美的羚羊对任一牌手造成战斗伤害时，你可以使目标地成为平原，直到优美的羚羊离场。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以使目标地成为平原，直到CARDNAME离场。</target>
       </trans-unit>
       <trans-unit id="254d5bf0-f985-4919-a142-d4578ae9a38e" resname="ODY·25 | Hallowed Healer | Card Name">
         <source>Hallowed Healer</source>
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="e518750f-492d-4575-b4ee-c80c1f8e0a58" resname="ODY·29 | Lieutenant Kirtar | Card Text | Paragraph 2">
         <source>{1}{W}, Sacrifice CARDNAME: Exile target attacking creature.</source>
-        <target state="translated">{1}{W}，牺牲柯塔中尉：放逐目标进行攻击的生物。</target>
+        <target state="translated">{1}{W}，牺牲CARDNAME：放逐目标进行攻击的生物。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="7f8eee50-efd2-45fd-b815-051167ef4541" resname="ODY·30 | Life Burst | Card Name">
@@ -297,7 +297,7 @@
       </trans-unit>
       <trans-unit id="7f8eee50-efd2-45fd-b815-051167ef4541" resname="ODY·30 | Life Burst | Card Text | Paragraph 1">
         <source>Target player gains 4 life, then gains 4 life for each card named CARDNAME in each graveyard.</source>
-        <target state="translated">目标牌手获得4点生命，然后在所有坟墓场中每有一张生命爆发牌，他便获得4点生命。</target>
+        <target state="translated">目标牌手获得4点生命，然后在所有坟墓场中每有一张CARDNAME牌，他便获得4点生命。</target>
       </trans-unit>
       <trans-unit id="a5becc51-4df8-4f67-a029-42a3da598a26" resname="ODY·31 | Luminous Guardian | Card Name">
         <source>Luminous Guardian</source>
@@ -305,11 +305,11 @@
       </trans-unit>
       <trans-unit id="a5becc51-4df8-4f67-a029-42a3da598a26" resname="ODY·31 | Luminous Guardian | Card Text | Paragraph 1">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">白：光辉守护者得+0/+1直到回合结束。</target>
+        <target state="translated">白：CARDNAME得+0/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a5becc51-4df8-4f67-a029-42a3da598a26" resname="ODY·31 | Luminous Guardian | Card Text | Paragraph 2">
         <source>{2}: CARDNAME can block an additional creature this turn.</source>
-        <target state="translated">2：光辉守护者本回合可以多阻挡一个生物。</target>
+        <target state="translated">2：CARDNAME本回合可以多阻挡一个生物。</target>
       </trans-unit>
       <trans-unit id="f9ff6624-ed0e-43d0-9519-112979b165f5" resname="ODY·32 | Master Apothecary | Card Name">
         <source>Master Apothecary</source>
@@ -329,7 +329,7 @@
       </trans-unit>
       <trans-unit id="27ce1baf-8a89-4884-b0f7-19311bfc8c4c" resname="ODY·33 | Mystic Crusader | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1 and has flying.</source>
-        <target state="translated">门槛～秘教护教军得+1/+1并具有飞行异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1并具有飞行异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="fb37f08b-019e-4e6b-8b15-b2971a3b5ebb" resname="ODY·34 | Mystic Penitent | Card Name">
         <source>Mystic Penitent</source>
@@ -337,11 +337,11 @@
       </trans-unit>
       <trans-unit id="fb37f08b-019e-4e6b-8b15-b2971a3b5ebb" resname="ODY·34 | Mystic Penitent | Card Text | Paragraph 1">
         <source>Vigilance</source>
-        <target state="translated">秘教悔过者攻击时不须横置。</target>
+        <target state="translated">CARDNAME攻击时不须横置。</target>
       </trans-unit>
       <trans-unit id="fb37f08b-019e-4e6b-8b15-b2971a3b5ebb" resname="ODY·34 | Mystic Penitent | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1 and has flying.</source>
-        <target state="translated">门槛～秘教悔过者得+1/+1并具有飞行异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1并具有飞行异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="48ed1b3d-0f7e-46ff-ada7-ebbd416ecf5b" resname="ODY·35 | Mystic Visionary | Card Name">
         <source>Mystic Visionary</source>
@@ -349,7 +349,7 @@
       </trans-unit>
       <trans-unit id="48ed1b3d-0f7e-46ff-ada7-ebbd416ecf5b" resname="ODY·35 | Mystic Visionary | Card Text | Paragraph 1">
         <source>Threshold — CARDNAME has flying as long as seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～秘教幻视家具有飞行异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME具有飞行异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="1ba21062-5d13-47b9-bea1-ded8530a9aeb" resname="ODY·36 | Mystic Zealot | Card Name">
         <source>Mystic Zealot</source>
@@ -358,7 +358,7 @@
       </trans-unit>
       <trans-unit id="1ba21062-5d13-47b9-bea1-ded8530a9aeb" resname="ODY·36 | Mystic Zealot | Card Text | Paragraph 1">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1 and has flying.</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，秘教狂信者便得+1/+1且具有飞行异能。</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便得+1/+1且具有飞行异能。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="9ffef7c6-e05b-4bef-84aa-8df10be110af" resname="ODY·37 | Nomad Decoy | Card Name">
@@ -382,7 +382,7 @@
       </trans-unit>
       <trans-unit id="e216a539-152b-4a83-98ef-1996182a5714" resname="ODY·38 | Patrol Hound | Card Text | Paragraph 1">
         <source>Discard a card: CARDNAME gains first strike until end of turn.</source>
-        <target state="translated">从你手上弃掉一张牌；巡逻犬获得先攻异能直到回合结束。</target>
+        <target state="translated">从你手上弃掉一张牌；CARDNAME获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="0812edfa-3a53-48e8-ba35-6922a1f3aa90" resname="ODY·39 | Pianna, Nomad Captain | Card Name">
         <source>Pianna, Nomad Captain</source>
@@ -391,7 +391,7 @@
       </trans-unit>
       <trans-unit id="0812edfa-3a53-48e8-ba35-6922a1f3aa90" resname="ODY·39 | Pianna, Nomad Captain | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, attacking creatures get +1/+1 until end of turn.</source>
-        <target state="translated">每当游牧人首领匹雅娜攻击时，进行攻击的生物得+1/+1直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，进行攻击的生物得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="6103a3a7-78ce-4a66-bd82-434e0bd9dea4" resname="ODY·40 | Pilgrim of Justice | Card Name">
@@ -404,7 +404,7 @@
       </trans-unit>
       <trans-unit id="6103a3a7-78ce-4a66-bd82-434e0bd9dea4" resname="ODY·40 | Pilgrim of Justice | Card Text | Paragraph 2">
         <source>{W}, Sacrifice CARDNAME: The next time a red source of your choice would deal damage this turn, prevent that damage.</source>
-        <target state="translated">白，牺牲正义的朝香客：选择一个红色来源。于本回合中，当该来源下一次将造成伤害时，防止该些伤害。</target>
+        <target state="translated">白，牺牲CARDNAME：选择一个红色来源。于本回合中，当该来源下一次将造成伤害时，防止该些伤害。</target>
       </trans-unit>
       <trans-unit id="be58f0dd-3856-4960-83de-06eed78ed703" resname="ODY·41 | Pilgrim of Virtue | Card Name">
         <source>Pilgrim of Virtue</source>
@@ -416,7 +416,7 @@
       </trans-unit>
       <trans-unit id="be58f0dd-3856-4960-83de-06eed78ed703" resname="ODY·41 | Pilgrim of Virtue | Card Text | Paragraph 2">
         <source>{W}, Sacrifice CARDNAME: The next time a black source of your choice would deal damage this turn, prevent that damage.</source>
-        <target state="translated">白，牺牲美德的朝香客：选择一个黑色来源。于本回合中，当该来源下一次将造成伤害时，防止该些伤害。</target>
+        <target state="translated">白，牺牲CARDNAME：选择一个黑色来源。于本回合中，当该来源下一次将造成伤害时，防止该些伤害。</target>
       </trans-unit>
       <trans-unit id="9940f593-021f-44cd-9725-0779a2808b6c" resname="ODY·42 | Ray of Distortion | Card Name">
         <source>Ray of Distortion</source>
@@ -440,7 +440,7 @@
       </trans-unit>
       <trans-unit id="5e5a61de-ee4e-4097-b342-b5f2c976e16e" resname="ODY·43 | Resilient Wanderer | Card Text | Paragraph 2">
         <source>Discard a card: CARDNAME gains protection from the color of your choice until end of turn.</source>
-        <target state="translated">从你手上弃掉一张牌：选择一种颜色。快活的漫游者获得反该色保护异能直到回合结束。</target>
+        <target state="translated">从你手上弃掉一张牌：选择一种颜色。CARDNAME获得反该色保护异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="3d7f1dd0-ee1b-484a-949d-dde4c3340a09" resname="ODY·44 | Sacred Rites | Card Name">
         <source>Sacred Rites</source>
@@ -492,7 +492,7 @@
       </trans-unit>
       <trans-unit id="14d24d2f-699b-46d8-9353-45e6a67f99d2" resname="ODY·47 | Soulcatcher | Card Text | Paragraph 2">
         <source>Whenever a creature with flying dies, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个具飞行异能的生物死去时，在捕灵手上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个具飞行异能的生物死去时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="4bdcd0de-6466-488c-a882-bad80c86504d" resname="ODY·48 | Sphere of Duty | Card Name">
@@ -553,7 +553,7 @@
       </trans-unit>
       <trans-unit id="89920480-9b39-47dd-988a-c040067da7fb" resname="ODY·54 | Tattoo Ward | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature gets +1/+1 and has protection from enchantments. This effect doesn't remove CARDNAME.\nSacrifice CARDNAME: Destroy target enchantment.</source>
-        <target state="translated">受此结界的生物得+1/+1并具有反结界保护异能。此效应不会移除护体纹身。\n牺牲护体纹身：消灭目标结界。</target>
+        <target state="translated">受此结界的生物得+1/+1并具有反结界保护异能。此效应不会移除CARDNAME。\n牺牲CARDNAME：消灭目标结界。</target>
       </trans-unit>
       <trans-unit id="f399b371-fed0-42b8-8f95-5d76fdbe193d" resname="ODY·55 | Testament of Faith | Card Name">
         <source>Testament of Faith</source>
@@ -561,7 +561,7 @@
       </trans-unit>
       <trans-unit id="f399b371-fed0-42b8-8f95-5d76fdbe193d" resname="ODY·55 | Testament of Faith | Card Text | Paragraph 1">
         <source>{X}: CARDNAME becomes an X/X Wall creature with defender in addition to its other types until end of turn.</source>
-        <target state="translated">X：神迹具现成为X/X的墙生物直到回合结束。它仍然是结界。（墙不能攻击）</target>
+        <target state="translated">X：CARDNAME成为X/X的墙生物直到回合结束。它仍然是结界。（墙不能攻击）</target>
       </trans-unit>
       <trans-unit id="1d23e47a-21d5-4d7e-8aa0-3b3064da5967" resname="ODY·56 | Tireless Tribe | Card Name">
         <source>Tireless Tribe</source>
@@ -569,7 +569,7 @@
       </trans-unit>
       <trans-unit id="1d23e47a-21d5-4d7e-8aa0-3b3064da5967" resname="ODY·56 | Tireless Tribe | Card Text | Paragraph 1">
         <source>Discard a card: CARDNAME gets +0/+4 until end of turn.</source>
-        <target state="translated">从你手上弃掉一张牌：坚忍部族得+0/+4直到回合结束。</target>
+        <target state="translated">从你手上弃掉一张牌：CARDNAME得+0/+4直到回合结束。</target>
       </trans-unit>
       <trans-unit id="1fb726e8-162d-4143-9778-32476c0e1ab1" resname="ODY·57 | Wayward Angel | Card Name">
         <source>Wayward Angel</source>
@@ -577,7 +577,7 @@
       </trans-unit>
       <trans-unit id="1fb726e8-162d-4143-9778-32476c0e1ab1" resname="ODY·57 | Wayward Angel | Card Text | Paragraphs">
         <source>Flying, vigilance\nThreshold — As long as seven or more cards are in your graveyard, CARDNAME gets +3/+3, is black, has trample, and has &amp;quot;At the beginning of your upkeep, sacrifice a creature.&amp;quot;</source>
-        <target state="translated">飞行\n刚愎天使攻击时不须横置。\n门槛～刚愎天使得+3/+3，为黑色，具有践踏异能，并具有「在你的维持开始时，牺牲一个生物。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">飞行\nCARDNAME攻击时不须横置。\n门槛～CARDNAME得+3/+3，为黑色，具有践踏异能，并具有「在你的维持开始时，牺牲一个生物。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="82db4a41-03e8-4f0c-946c-a98fc5c9f7c8" resname="ODY·58 | Aboshan, Cephalid Emperor | Card Name">
         <source>Aboshan, Cephalid Emperor</source>
@@ -605,7 +605,7 @@
       </trans-unit>
       <trans-unit id="3d09ea4a-0d3a-40b8-be0f-a31693099c4f" resname="ODY·60 | Aether Burst | Card Text | Paragraph 1">
         <source>Return up to X target creatures to their owners' hands, where X is one plus the number of cards named CARDNAME in all graveyards as you cast this spell.</source>
-        <target state="translated">将至多X个目标生物移回其拥有者手上，X为所有坟墓场中乙太爆发牌的数量加一。</target>
+        <target state="translated">将至多X个目标生物移回其拥有者手上，X为所有坟墓场中CARDNAME牌的数量加一。</target>
       </trans-unit>
       <trans-unit id="8d73d1e7-79be-4b28-a480-b65b4f34f755" resname="ODY·61 | Amugaba | Card Name">
         <source>Amugaba</source>
@@ -617,7 +617,7 @@
       </trans-unit>
       <trans-unit id="8d73d1e7-79be-4b28-a480-b65b4f34f755" resname="ODY·61 | Amugaba | Card Text | Paragraph 2">
         <source>{2}{U}, Discard a card: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">2蓝，从你手上弃掉一张牌：将阿穆卡巴移回其拥有者手上。</target>
+        <target state="translated">2蓝，从你手上弃掉一张牌：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="c7553877-7df2-42f7-98a3-1a07f66a4905" resname="ODY·62 | Aura Graft | Card Name">
         <source>Aura Graft</source>
@@ -641,7 +641,7 @@
       </trans-unit>
       <trans-unit id="5b27130d-2296-4076-9829-15ab63081896" resname="ODY·63 | Aven Fisher | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you may draw a card.</source>
-        <target state="translated">当艾文渔人死去时，你可以抓一张牌。</target>
+        <target state="translated">当CARDNAME死去时，你可以抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="57f5d024-f137-4ea8-be02-7de46dee95fd" resname="ODY·64 | Aven Smokeweaver | Card Name">
@@ -673,7 +673,7 @@
       </trans-unit>
       <trans-unit id="5d977da2-4024-4c7b-b557-e89564f8d465" resname="ODY·66 | Balshan Beguiler | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, that player reveals the top two cards of their library. You choose one of those cards and put it into their graveyard.</source>
-        <target state="translated">当波珊骗徒对任一牌手造成战斗伤害时，该牌手展示他牌库顶的两张牌。你从中选择一张并将之置入他的坟墓场。</target>
+        <target state="translated">当CARDNAME对任一牌手造成战斗伤害时，该牌手展示他牌库顶的两张牌。你从中选择一张并将之置入他的坟墓场。</target>
       </trans-unit>
       <trans-unit id="529c5440-e31f-40be-9e66-699d17049fb4" resname="ODY·67 | Balshan Griffin | Card Name">
         <source>Balshan Griffin</source>
@@ -685,7 +685,7 @@
       </trans-unit>
       <trans-unit id="529c5440-e31f-40be-9e66-699d17049fb4" resname="ODY·67 | Balshan Griffin | Card Text | Paragraph 2">
         <source>{1}{U}, Discard a card: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">1蓝，从你手上弃掉一张牌：将波珊狮鹫移回其拥有者手上。</target>
+        <target state="translated">1蓝，从你手上弃掉一张牌：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="44012bb8-17b7-4b50-a796-662ef09bfc29" resname="ODY·68 | Bamboozle | Card Name">
         <source>Bamboozle</source>
@@ -777,7 +777,7 @@
       </trans-unit>
       <trans-unit id="7de76ff6-d065-4db1-b28d-4a4ccb1cc0fa" resname="ODY·77 | Cognivore | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of instant cards in all graveyards.</source>
-        <target state="translated">噬识兽的力量和防御力各等同于所有坟墓场中的瞬间牌之数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于所有坟墓场中的瞬间牌之数量。</target>
       </trans-unit>
       <trans-unit id="45f2878e-1c1c-4dd3-9687-7bb216d557c7" resname="ODY·78 | Concentrate | Card Name">
         <source>Concentrate</source>
@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="2ae3a000-478c-4185-a8c0-82f29942497b" resname="ODY·83 | Dreamwinder | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless defending player controls an Island.</source>
-        <target state="translated">除非防御牌手操控海岛，否则幻梦曲蛇不能进行攻击。</target>
+        <target state="translated">除非防御牌手操控海岛，否则CARDNAME不能进行攻击。</target>
       </trans-unit>
       <trans-unit id="2ae3a000-478c-4185-a8c0-82f29942497b" resname="ODY·83 | Dreamwinder | Card Text | Paragraph 2">
         <source>{U}, Sacrifice an Island: Target land becomes an Island until end of turn.</source>
@@ -845,11 +845,11 @@
       </trans-unit>
       <trans-unit id="7f5d0e3f-b8f1-472a-857b-5464174d243b" resname="ODY·84 | Escape Artist | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">逃脱技艺家不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="7f5d0e3f-b8f1-472a-857b-5464174d243b" resname="ODY·84 | Escape Artist | Card Text | Paragraph 2">
         <source>{U}, Discard a card: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">蓝，从你手上弃掉一张牌：将逃脱技艺家移回其拥有者手上。</target>
+        <target state="translated">蓝，从你手上弃掉一张牌：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="97f99a3d-d811-4666-aac8-5957068157dc" resname="ODY·85 | Extract | Card Name">
         <source>Extract</source>
@@ -939,7 +939,7 @@
       </trans-unit>
       <trans-unit id="9216e73b-56ef-48b9-a6a1-b370fb0d97c1" resname="ODY·93 | Phantom Whelp | Card Text | Paragraph 1">
         <source>When CARDNAME attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)</source>
-        <target state="translated">每当幽魅幼犬进行攻击或阻挡，在战斗结束时将它移回其拥有者手上。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡，在战斗结束时将它移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="04dc842c-3250-44ed-906c-38f14bf1f0e2" resname="ODY·94 | Predict | Card Name">
         <source>Predict</source>
@@ -967,7 +967,7 @@
       </trans-unit>
       <trans-unit id="d3297f28-a15d-43dd-a96e-09701d5f9aed" resname="ODY·96 | Pulsating Illusion | Card Text | Paragraph 2">
         <source>Discard a card: CARDNAME gets +4/+4 until end of turn. Activate only once each turn.</source>
-        <target state="translated">从你手上弃掉一张牌：脉动虚影得+4/+4直到回合结束。此异能每回合只能使用一次。</target>
+        <target state="translated">从你手上弃掉一张牌：CARDNAME得+4/+4直到回合结束。此异能每回合只能使用一次。</target>
       </trans-unit>
       <trans-unit id="819d5bd2-02bf-4a22-a656-764425711c29" resname="ODY·97 | Puppeteer | Card Name">
         <source>Puppeteer</source>
@@ -1001,7 +1001,7 @@
       </trans-unit>
       <trans-unit id="538ffe1e-c312-4797-99dd-9bf5f896bdc3" resname="ODY·101 | Shifty Doppelganger | Card Text | Paragraph 1">
         <source>{3}{U}, Exile CARDNAME: You may put a creature card from your hand onto the battlefield. If you do, that creature gains haste until end of turn. At the beginning of the next end step, sacrifice that creature. If you do, return CARDNAME to the battlefield.</source>
-        <target state="translated">3蓝，将变幻化妖移出对战：将你手上的一张生物牌放置进场。该生物获得敏捷异能直到回合结束。在回合结束时，牺牲该生物。若你如此做，则将变幻化妖移回场上。</target>
+        <target state="translated">3蓝，将CARDNAME移出对战：将你手上的一张生物牌放置进场。该生物获得敏捷异能直到回合结束。在回合结束时，牺牲该生物。若你如此做，则将CARDNAME移回场上。</target>
       </trans-unit>
       <trans-unit id="3ede3f6f-e642-4fe4-aa37-0f01cdf4d149" resname="ODY·102 | Standstill | Card Name">
         <source>Standstill</source>
@@ -1009,7 +1009,7 @@
       </trans-unit>
       <trans-unit id="3ede3f6f-e642-4fe4-aa37-0f01cdf4d149" resname="ODY·102 | Standstill | Card Text | Paragraph 1">
         <source>When a player casts a spell, sacrifice CARDNAME. If you do, each of that player's opponents draws three cards.</source>
-        <target state="translated">当牌手使用咒语时，牺牲滞留。若你如此做，该牌手的每位对手各抓三张牌。</target>
+        <target state="translated">当牌手使用咒语时，牺牲CARDNAME。若你如此做，该牌手的每位对手各抓三张牌。</target>
       </trans-unit>
       <trans-unit id="b7850794-4c85-4844-a461-650cd4eaec93" resname="ODY·103 | Syncopate | Card Name">
         <source>Syncopate</source>
@@ -1160,7 +1160,7 @@
       </trans-unit>
       <trans-unit id="dd1452ff-cec6-4df3-8bdc-bfb7869553a1" resname="ODY·116 | Bloodcurdler | Card Text | Paragraph 3">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1 and has &amp;quot;At the beginning of your end step, exile two cards from your graveyard.&amp;quot;</source>
-        <target state="translated">门槛～凝血兽得+1/+1并具有「在你的回合结束时，将你坟墓场中的两张牌移出对战。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1并具有「在你的回合结束时，将你坟墓场中的两张牌移出对战。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="4dcdcad5-e4fb-480e-984f-1ac5cdc986b9" resname="ODY·117 | Braids, Cabal Minion | Card Name">
         <source>Braids, Cabal Minion</source>
@@ -1228,7 +1228,7 @@
       </trans-unit>
       <trans-unit id="10c180ea-2d1e-458e-b5d4-e87975eba968" resname="ODY·123 | Childhood Horror | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +2/+2 and can't block.</source>
-        <target state="translated">门槛～幼年惊惧兽得+2/+2且不能进行阻挡。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+2/+2且不能进行阻挡。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="541e06cb-5616-40b4-9d36-89471a795ac8" resname="ODY·124 | Coffin Purge | Card Name">
         <source>Coffin Purge</source>
@@ -1249,7 +1249,7 @@
       </trans-unit>
       <trans-unit id="ca7363dc-fc0d-4fe0-a90c-6ce1782be3ae" resname="ODY·125 | Crypt Creeper | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Exile target card from a graveyard.</source>
-        <target state="translated">牺牲墓穴匐尸：将目标牌从坟墓场放逐。</target>
+        <target state="translated">牺牲CARDNAME：将目标牌从坟墓场放逐。</target>
         <note xmlns:from="developer">中文数据来自AVR（2012-05-04）；</note>
       </trans-unit>
       <trans-unit id="8de97585-3d24-4e8d-8bf9-edd75ee88443" resname="ODY·126 | Cursed Monstrosity | Card Name">
@@ -1262,7 +1262,7 @@
       </trans-unit>
       <trans-unit id="8de97585-3d24-4e8d-8bf9-edd75ee88443" resname="ODY·126 | Cursed Monstrosity | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes the target of a spell or ability, sacrifice it unless you discard a land card.</source>
-        <target state="translated">每当诅咒巨兽成为咒语或异能的目标时，除非你从手上弃掉一张地牌，否则牺牲诅咒巨兽。</target>
+        <target state="translated">每当CARDNAME成为咒语或异能的目标时，除非你从手上弃掉一张地牌，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f2bea0ec-52e0-4f45-a445-8805dc6ed596" resname="ODY·127 | Decaying Soil | Card Name">
         <source>Decaying Soil</source>
@@ -1300,11 +1300,11 @@
       </trans-unit>
       <trans-unit id="97d15534-310f-4f9d-be0d-59b0ed8a5f53" resname="ODY·130 | Dirty Wererat | Card Text | Paragraph 1">
         <source>{B}, Discard a card: Regenerate CARDNAME.</source>
-        <target state="translated">黑，从你手上弃掉一张牌：重生脏鼠人。</target>
+        <target state="translated">黑，从你手上弃掉一张牌：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="97d15534-310f-4f9d-be0d-59b0ed8a5f53" resname="ODY·130 | Dirty Wererat | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +2/+2 and can't block.</source>
-        <target state="translated">门槛～脏鼠人得+2/+2且不能进行阻挡。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+2/+2且不能进行阻挡。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="f67943c0-304a-4d04-8e26-f45b3ab27a45" resname="ODY·131 | Dusk Imp | Card Name">
         <source>Dusk Imp</source>
@@ -1347,7 +1347,7 @@
       </trans-unit>
       <trans-unit id="17542219-1165-4483-9cef-7abecaebb6a2" resname="ODY·134 | Face of Fear | Card Text | Paragraph 1">
         <source>{2}{B}, Discard a card: CARDNAME gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">2黑，从你手上弃掉一张牌：恐惧之脸本回合只能被神器和／或黑色生物阻挡。</target>
+        <target state="translated">2黑，从你手上弃掉一张牌：CARDNAME本回合只能被神器和／或黑色生物阻挡。</target>
       </trans-unit>
       <trans-unit id="e413b65a-700d-44eb-a880-5a0118d2ebac" resname="ODY·135 | Famished Ghoul | Card Name">
         <source>Famished Ghoul</source>
@@ -1355,7 +1355,7 @@
       </trans-unit>
       <trans-unit id="e413b65a-700d-44eb-a880-5a0118d2ebac" resname="ODY·135 | Famished Ghoul | Card Text | Paragraph 1">
         <source>{1}{B}, Sacrifice CARDNAME: Exile up to two target cards from a single graveyard.</source>
-        <target state="translated">1黑，牺牲饥馑食尸鬼：将至多两张目标在同一坟墓场中的牌移出对战。</target>
+        <target state="translated">1黑，牺牲CARDNAME：将至多两张目标在同一坟墓场中的牌移出对战。</target>
       </trans-unit>
       <trans-unit id="634b2b46-b213-4eb0-81d8-0e9dd161b85f" resname="ODY·136 | Filthy Cur | Card Name">
         <source>Filthy Cur</source>
@@ -1363,7 +1363,7 @@
       </trans-unit>
       <trans-unit id="634b2b46-b213-4eb0-81d8-0e9dd161b85f" resname="ODY·136 | Filthy Cur | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt damage, you lose that much life.</source>
-        <target state="translated">每当污秽野狗受到伤害时，你失去等量的生命。</target>
+        <target state="translated">每当CARDNAME受到伤害时，你失去等量的生命。</target>
       </trans-unit>
       <trans-unit id="d11770ee-dcf0-4dd4-ab43-b98f1133cec7" resname="ODY·137 | Fledgling Imp | Card Name">
         <source>Fledgling Imp</source>
@@ -1371,7 +1371,7 @@
       </trans-unit>
       <trans-unit id="d11770ee-dcf0-4dd4-ab43-b98f1133cec7" resname="ODY·137 | Fledgling Imp | Card Text | Paragraph 1">
         <source>{B}, Discard a card: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">黑，从你手上弃掉一张牌：幼小恶魔获得飞行异能直到回合结束。</target>
+        <target state="translated">黑，从你手上弃掉一张牌：CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d79129e7-6cc4-4060-8b76-3afbd2e0d456" resname="ODY·138 | Frightcrawler | Card Name">
         <source>Frightcrawler</source>
@@ -1379,11 +1379,11 @@
       </trans-unit>
       <trans-unit id="d79129e7-6cc4-4060-8b76-3afbd2e0d456" resname="ODY·138 | Frightcrawler | Card Text | Paragraph 1">
         <source>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">惊骇爬虫只能被神器生物和／或黑色生物阻挡。</target>
+        <target state="translated">CARDNAME只能被神器生物和／或黑色生物阻挡。</target>
       </trans-unit>
       <trans-unit id="d79129e7-6cc4-4060-8b76-3afbd2e0d456" resname="ODY·138 | Frightcrawler | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +2/+2 and can't block.</source>
-        <target state="translated">门槛～惊骇爬虫得+2/+2且不能进行阻挡。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+2/+2且不能进行阻挡。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="d9d2bfa3-0499-43ea-a76d-b12fddbc104e" resname="ODY·139 | Ghastly Demise | Card Name">
         <source>Ghastly Demise</source>
@@ -1427,11 +1427,11 @@
       </trans-unit>
       <trans-unit id="00615487-3526-4b4c-bb06-8f2af1f101d0" resname="ODY·144 | Infected Vermin | Card Text | Paragraph 1">
         <source>{2}{B}: CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">2黑：带菌病媒对每个生物和牌手各造成1点伤害。</target>
+        <target state="translated">2黑：CARDNAME对每个生物和牌手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="00615487-3526-4b4c-bb06-8f2af1f101d0" resname="ODY·144 | Infected Vermin | Card Text | Paragraph 2">
         <source>Threshold — {3}{B}: CARDNAME deals 3 damage to each creature and each player. Activate only if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～3黑：带菌病媒对每个生物和牌手各造成3点伤害。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
+        <target state="translated">门槛～3黑：CARDNAME对每个生物和牌手各造成3点伤害。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
       </trans-unit>
       <trans-unit id="d26af8f6-df64-4027-880c-f2fae2d8103f" resname="ODY·145 | Innocent Blood | Card Name">
         <source>Innocent Blood</source>
@@ -1465,7 +1465,7 @@
       </trans-unit>
       <trans-unit id="c07889a1-1582-4f14-8925-fa21a1a5fd65" resname="ODY·148 | Mind Burst | Card Text | Paragraph 1">
         <source>Target player discards X cards, where X is one plus the number of cards named CARDNAME in all graveyards.</source>
-        <target state="translated">目标牌手从手上弃掉X张牌，X为所有坟墓场中的心灵爆发牌之数量加一。</target>
+        <target state="translated">目标牌手从手上弃掉X张牌，X为所有坟墓场中的CARDNAME牌之数量加一。</target>
       </trans-unit>
       <trans-unit id="895b1c9b-b1a1-457b-92cd-3469a38b69a3" resname="ODY·149 | Mindslicer | Card Name">
         <source>Mindslicer</source>
@@ -1474,7 +1474,7 @@
       </trans-unit>
       <trans-unit id="895b1c9b-b1a1-457b-92cd-3469a38b69a3" resname="ODY·149 | Mindslicer | Card Text | Paragraph 1">
         <source>When CARDNAME dies, each player discards their hand.</source>
-        <target state="translated">当削心兽死去时，每位牌手各弃掉其手牌。</target>
+        <target state="translated">当CARDNAME死去时，每位牌手各弃掉其手牌。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="47a4e7d0-ff09-4e19-8456-f4845f56dc8b" resname="ODY·150 | Morbid Hunger | Card Name">
@@ -1483,7 +1483,7 @@
       </trans-unit>
       <trans-unit id="47a4e7d0-ff09-4e19-8456-f4845f56dc8b" resname="ODY·150 | Morbid Hunger | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target. You gain 3 life.</source>
-        <target state="translated">病态饥渴对目标生物或牌手造成3点伤害。你获得3点生命。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="47a4e7d0-ff09-4e19-8456-f4845f56dc8b" resname="ODY·150 | Morbid Hunger | Card Text | Paragraph 2">
         <source>Flashback {7}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -1508,12 +1508,12 @@
       </trans-unit>
       <trans-unit id="fdc0d499-4a22-4f33-83c7-4e8cdbc3ebe6" resname="ODY·152 | Mortivore | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of creature cards in all graveyards.</source>
-        <target state="translated">噬殁兽的力量与防御力各等同于所有坟墓场中的生物牌之数量。</target>
+        <target state="translated">CARDNAME的力量与防御力各等同于所有坟墓场中的生物牌之数量。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="fdc0d499-4a22-4f33-83c7-4e8cdbc3ebe6" resname="ODY·152 | Mortivore | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{B}：重生噬殁兽。 （如果此生物下一次于本回合中将被消灭，则它不会被消灭， 而是改为将它横置，移除受过的所有伤害，并将它移出战斗。）</target>
+        <target state="translated">{B}：重生CARDNAME。 （如果此生物下一次于本回合中将被消灭，则它不会被消灭， 而是改为将它横置，移除受过的所有伤害，并将它移出战斗。）</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="d90f5a4e-8c3a-4803-bb59-d3d7c23761db" resname="ODY·153 | Nefarious Lich | Card Name">
@@ -1530,7 +1530,7 @@
       </trans-unit>
       <trans-unit id="d90f5a4e-8c3a-4803-bb59-d3d7c23761db" resname="ODY·153 | Nefarious Lich | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, you lose the game.</source>
-        <target state="translated">当极恶巫妖离场时，你输掉此盘对战。</target>
+        <target state="translated">当CARDNAME离场时，你输掉此盘对战。</target>
       </trans-unit>
       <trans-unit id="8b886292-5937-44ee-bc2a-f316791c91ae" resname="ODY·154 | Overeager Apprentice | Card Name">
         <source>Overeager Apprentice</source>
@@ -1538,7 +1538,7 @@
       </trans-unit>
       <trans-unit id="8b886292-5937-44ee-bc2a-f316791c91ae" resname="ODY·154 | Overeager Apprentice | Card Text | Paragraph 1">
         <source>Discard a card, Sacrifice CARDNAME: Add {B}{B}{B}.</source>
-        <target state="translated">从你手上弃掉一张牌，牺牲躁进学徒：加黑黑黑到你的法术力池中。</target>
+        <target state="translated">从你手上弃掉一张牌，牺牲CARDNAME：加黑黑黑到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="3f993815-af2f-4fa0-8848-979fc8c72d9a" resname="ODY·155 | Painbringer | Card Name">
         <source>Painbringer</source>
@@ -1566,11 +1566,11 @@
       </trans-unit>
       <trans-unit id="2c1dbad4-1105-4426-8d4d-a30f6fa95ce8" resname="ODY·157 | Repentant Vampire | Card Text | Paragraph 2">
         <source>Whenever a creature dealt damage by CARDNAME this turn dies, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当任一生物置入坟墓场、且忏悔凡派尔于本回合中曾对此生物造成伤害时，在忏悔凡派尔上放置一个+1/+1指示物。</target>
+        <target state="translated">每当任一生物置入坟墓场、且CARDNAME于本回合中曾对此生物造成伤害时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2c1dbad4-1105-4426-8d4d-a30f6fa95ce8" resname="ODY·157 | Repentant Vampire | Card Text | Paragraph 3">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME is white and has &amp;quot;{T}: Destroy target black creature.&amp;quot;</source>
-        <target state="translated">门槛～忏悔凡派尔为白色并具有「横置：消灭目标黑色生物。」</target>
+        <target state="translated">门槛～CARDNAME为白色并具有「横置：消灭目标黑色生物。」</target>
       </trans-unit>
       <trans-unit id="0a2db4b2-6209-4a49-b868-e5d229ffcbc1" resname="ODY·158 | Rotting Giant | Card Name">
         <source>Rotting Giant</source>
@@ -1578,7 +1578,7 @@
       </trans-unit>
       <trans-unit id="0a2db4b2-6209-4a49-b868-e5d229ffcbc1" resname="ODY·158 | Rotting Giant | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks or blocks, sacrifice it unless you exile a card from your graveyard.</source>
-        <target state="translated">每当腐坏巨人进行攻击或阻挡时，除非你将你坟墓场中的一张牌移出对战，否则牺牲腐坏巨人。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，除非你将你坟墓场中的一张牌移出对战，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="98a6fba0-e5fc-4fa8-9895-8e4b8272bebe" resname="ODY·159 | Sadistic Hypnotist | Card Name">
         <source>Sadistic Hypnotist</source>
@@ -1594,7 +1594,7 @@
       </trans-unit>
       <trans-unit id="66cc53cf-13eb-4028-944d-a670ad30dbca" resname="ODY·160 | Screams of the Damned | Card Text | Paragraph 1">
         <source>{1}{B}, Exile a card from your graveyard: CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">1黑，将你坟墓场中的一张牌移出对战：厄亡者的嘶喊对每个生物和牌手各造成1点伤害。</target>
+        <target state="translated">1黑，将你坟墓场中的一张牌移出对战：CARDNAME对每个生物和牌手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="ee49bae4-b53f-4d62-9ba6-6105b0087bcf" resname="ODY·161 | Skeletal Scrying | Card Name">
         <source>Skeletal Scrying</source>
@@ -1603,7 +1603,7 @@
       </trans-unit>
       <trans-unit id="ee49bae4-b53f-4d62-9ba6-6105b0087bcf" resname="ODY·161 | Skeletal Scrying | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, exile X cards from your graveyard.</source>
-        <target state="translated">从你坟墓场中放逐X张牌，以作为施放骸骨占卜的额外费用。</target>
+        <target state="translated">从你坟墓场中放逐X张牌，以作为施放CARDNAME的额外费用。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="ee49bae4-b53f-4d62-9ba6-6105b0087bcf" resname="ODY·161 | Skeletal Scrying | Card Text | Paragraph 2">
@@ -1633,7 +1633,7 @@
       </trans-unit>
       <trans-unit id="16705695-1ba8-4169-974f-d8c683ab2652" resname="ODY·163 | Stalking Bloodsucker | Card Text | Paragraph 2">
         <source>{1}{B}, Discard a card: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">1黑，从你手上弃掉一张牌：潜行啜血鬼得+2/+2直到回合结束。</target>
+        <target state="translated">1黑，从你手上弃掉一张牌：CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c513f51b-a0db-4c08-8acc-1e91060b93b7" resname="ODY·164 | Tainted Pact | Card Name">
         <source>Tainted Pact</source>
@@ -1659,7 +1659,7 @@
       </trans-unit>
       <trans-unit id="d4b6413d-68d3-4097-9bb3-873df4900e4c" resname="ODY·166 | Traveling Plague | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of each upkeep, put a plague counter on CARDNAME.\nEnchanted creature gets -1/-1 for each plague counter on CARDNAME.\nWhen enchanted creature leaves the battlefield, that creature's controller returns CARDNAME from its owner's graveyard to the battlefield.</source>
-        <target state="translated">在每位牌手的维持开始时，在流散疫疾上放置一个疫病指示物。\n流散疫疾上每有一个疫病指示物，受此结界的生物便得-1/-1。\n当受此结界的生物离场时，该生物的操控者将流散疫疾从其拥有者的坟墓场中移回场上。</target>
+        <target state="translated">在每位牌手的维持开始时，在CARDNAME上放置一个疫病指示物。\nCARDNAME上每有一个疫病指示物，受此结界的生物便得-1/-1。\n当受此结界的生物离场时，该生物的操控者将CARDNAME从其拥有者的坟墓场中移回场上。</target>
       </trans-unit>
       <trans-unit id="5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8" resname="ODY·167 | Whispering Shade | Card Name">
         <source>Whispering Shade</source>
@@ -1671,7 +1671,7 @@
       </trans-unit>
       <trans-unit id="5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8" resname="ODY·167 | Whispering Shade | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">黑：细语阴魂得+1/+1直到回合结束。</target>
+        <target state="translated">黑：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c4649311-1300-42fb-ac10-90490756c7aa" resname="ODY·168 | Zombie Assassin | Card Name">
         <source>Zombie Assassin</source>
@@ -1679,7 +1679,7 @@
       </trans-unit>
       <trans-unit id="c4649311-1300-42fb-ac10-90490756c7aa" resname="ODY·168 | Zombie Assassin | Card Text | Paragraph 1">
         <source>{T}, Exile two cards from your graveyard and CARDNAME: Destroy target nonblack creature. It can't be regenerated.</source>
-        <target state="translated">横置，将你坟墓场中的两张牌和灵俑杀手移出对战：消灭目标非黑色的生物。它不能重生。</target>
+        <target state="translated">横置，将你坟墓场中的两张牌和CARDNAME移出对战：消灭目标非黑色的生物。它不能重生。</target>
       </trans-unit>
       <trans-unit id="5fe73ea4-caa2-41de-a065-272a4d850362" resname="ODY·169 | Zombie Cannibal | Card Name">
         <source>Zombie Cannibal</source>
@@ -1687,7 +1687,7 @@
       </trans-unit>
       <trans-unit id="5fe73ea4-caa2-41de-a065-272a4d850362" resname="ODY·169 | Zombie Cannibal | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, you may exile target card from that player's graveyard.</source>
-        <target state="translated">每当食尸灵俑对任一牌手造成战斗伤害时，你可以将目标在该牌手坟墓场中的牌移出对战。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以将目标在该牌手坟墓场中的牌移出对战。</target>
       </trans-unit>
       <trans-unit id="ccd5f98a-7ab5-44b3-850c-b50963dace66" resname="ODY·170 | Zombie Infestation | Card Name">
         <source>Zombie Infestation</source>
@@ -1715,11 +1715,11 @@
       </trans-unit>
       <trans-unit id="9082bfb8-0ab0-4378-976d-a2c9d3c35a5e" resname="ODY·172 | Acceptable Losses | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, discard a card at random.</source>
-        <target state="translated">从你手上随机弃掉一张牌，以作为使用可容许的损失之额外费用。</target>
+        <target state="translated">从你手上随机弃掉一张牌，以作为使用CARDNAME之额外费用。</target>
       </trans-unit>
       <trans-unit id="9082bfb8-0ab0-4378-976d-a2c9d3c35a5e" resname="ODY·172 | Acceptable Losses | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage to target creature.</source>
-        <target state="translated">可容许的损失对目标生物造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="ebaef0bd-8288-49ba-a889-d897a4aae64c" resname="ODY·174 | Ashen Firebeast | Card Name">
         <source>Ashen Firebeast</source>
@@ -1727,7 +1727,7 @@
       </trans-unit>
       <trans-unit id="ebaef0bd-8288-49ba-a889-d897a4aae64c" resname="ODY·174 | Ashen Firebeast | Card Text | Paragraph 1">
         <source>{1}{R}: CARDNAME deals 1 damage to each creature without flying.</source>
-        <target state="translated">1红：灰灭火焰兽对每个不具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">1红：CARDNAME对每个不具飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="6c899f9b-ebce-4424-9cd9-861a50a5f7d2" resname="ODY·175 | Barbarian Lunatic | Card Name">
         <source>Barbarian Lunatic</source>
@@ -1735,7 +1735,7 @@
       </trans-unit>
       <trans-unit id="6c899f9b-ebce-4424-9cd9-861a50a5f7d2" resname="ODY·175 | Barbarian Lunatic | Card Text | Paragraph 1">
         <source>{2}{R}, Sacrifice CARDNAME: It deals 2 damage to target creature.</source>
-        <target state="translated">2红，牺牲蛮族狂人：蛮族狂人对目标生物造成2点伤害。</target>
+        <target state="translated">2红，牺牲CARDNAME：CARDNAME对目标生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="694b24de-d7f8-49c6-8ab3-d5fab13b6a8f" resname="ODY·176 | Bash to Bits | Card Name">
         <source>Bash to Bits</source>
@@ -1755,7 +1755,7 @@
       </trans-unit>
       <trans-unit id="ee1be893-1287-40a3-81d6-271df3154b45" resname="ODY·177 | Battle Strain | Card Text | Paragraph 1">
         <source>Whenever a creature blocks, CARDNAME deals 1 damage to that creature's controller.</source>
-        <target state="translated">每当任一生物进行阻挡时，久战劳伤对该生物的操控者造成1点伤害。</target>
+        <target state="translated">每当任一生物进行阻挡时，CARDNAME对该生物的操控者造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="f7d192ef-a174-4df5-b67f-22918c32cf71" resname="ODY·178 | Blazing Salvo | Card Name">
         <source>Blazing Salvo</source>
@@ -1763,7 +1763,7 @@
       </trans-unit>
       <trans-unit id="f7d192ef-a174-4df5-b67f-22918c32cf71" resname="ODY·178 | Blazing Salvo | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature unless that creature's controller has CARDNAME deal 5 damage to them.</source>
-        <target state="translated">除非目标生物的操控者让煌炎迸散对他造成5点伤害，否则煌炎迸散对该生物造成3点伤害。</target>
+        <target state="translated">除非目标生物的操控者让CARDNAME对他造成5点伤害，否则CARDNAME对该生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="8e9535a5-29ea-4085-a36b-4905d85e97ac" resname="ODY·179 | Bomb Squad | Card Name">
         <source>Bomb Squad</source>
@@ -1795,11 +1795,11 @@
       </trans-unit>
       <trans-unit id="670a5bba-a10f-41f6-88cd-cef1dfe4bfa9" resname="ODY·181 | Chainflinger | Card Text | Paragraph 1">
         <source>{1}{R}, {T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">1红，横置：掷链兽对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">1红，横置：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="670a5bba-a10f-41f6-88cd-cef1dfe4bfa9" resname="ODY·181 | Chainflinger | Card Text | Paragraph 2">
         <source>Threshold — {2}{R}, {T}: CARDNAME deals 2 damage to any target. Activate only if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～2红，横置：掷链兽对目标生物或牌手造成2点伤害。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
+        <target state="translated">门槛～2红，横置：CARDNAME对目标生物或牌手造成2点伤害。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
       </trans-unit>
       <trans-unit id="57817159-de10-4a68-83e1-971fa9cfee2c" resname="ODY·182 | Chance Encounter | Card Name">
         <source>Chance Encounter</source>
@@ -1808,12 +1808,12 @@
       </trans-unit>
       <trans-unit id="57817159-de10-4a68-83e1-971fa9cfee2c" resname="ODY·182 | Chance Encounter | Card Text | Paragraph 1">
         <source>Whenever you win a coin flip, put a luck counter on CARDNAME.</source>
-        <target state="translated">每当你猜对一次掷硬币时，在机缘上放置一个运气指示物。</target>
+        <target state="translated">每当你猜对一次掷硬币时，在CARDNAME上放置一个运气指示物。</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
       <trans-unit id="57817159-de10-4a68-83e1-971fa9cfee2c" resname="ODY·182 | Chance Encounter | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if CARDNAME has ten or more luck counters on it, you win the game.</source>
-        <target state="translated">在你的维持开始时，若机缘上有十个或更多运气指示物，则你赢得这盘游戏。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME上有十个或更多运气指示物，则你赢得这盘游戏。</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
       <trans-unit id="9162a4df-ca6d-4f07-ae48-d333f1cb74b9" resname="ODY·183 | Demolish | Card Name">
@@ -1852,7 +1852,7 @@
       </trans-unit>
       <trans-unit id="6a15d274-85b4-4f3c-b502-f6dfe7db4d37" resname="ODY·186 | Dwarven Recruiter | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, search your library for any number of Dwarf cards, reveal them, then shuffle and put those cards on top in any order.</source>
-        <target state="translated">当矮人征兵员进场时，从你的牌库中搜寻任意数量的矮人牌，展示该些牌。将你的牌库洗牌，然后将该些牌以任意顺序置于你的牌库顶。</target>
+        <target state="translated">当CARDNAME进场时，从你的牌库中搜寻任意数量的矮人牌，展示该些牌。将你的牌库洗牌，然后将该些牌以任意顺序置于你的牌库顶。</target>
       </trans-unit>
       <trans-unit id="85197997-5e1a-46ce-8f0d-6da5ce297baf" resname="ODY·187 | Dwarven Shrine | Card Name">
         <source>Dwarven Shrine</source>
@@ -1860,7 +1860,7 @@
       </trans-unit>
       <trans-unit id="85197997-5e1a-46ce-8f0d-6da5ce297baf" resname="ODY·187 | Dwarven Shrine | Card Text | Paragraph 1">
         <source>Whenever a player casts a spell, CARDNAME deals X damage to that player, where X is twice the number of cards in all graveyards with the same name as that spell.</source>
-        <target state="translated">每当牌手使用咒语时，矮人祭祠对该牌手造成X点伤害，X为所有坟墓场中与该咒语同名的牌之数量的两倍。</target>
+        <target state="translated">每当牌手使用咒语时，CARDNAME对该牌手造成X点伤害，X为所有坟墓场中与该咒语同名的牌之数量的两倍。</target>
       </trans-unit>
       <trans-unit id="a2bc3d85-5ba1-4f2e-a676-be989bdb04f7" resname="ODY·188 | Dwarven Strike Force | Card Name">
         <source>Dwarven Strike Force</source>
@@ -1868,7 +1868,7 @@
       </trans-unit>
       <trans-unit id="a2bc3d85-5ba1-4f2e-a676-be989bdb04f7" resname="ODY·188 | Dwarven Strike Force | Card Text | Paragraph 1">
         <source>Discard a card at random: CARDNAME gains first strike and haste until end of turn.</source>
-        <target state="translated">从你手上随机弃掉一张牌：矮人特攻队获得先攻和敏捷异能直到回合结束。</target>
+        <target state="translated">从你手上随机弃掉一张牌：CARDNAME获得先攻和敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="e2e10742-77c9-4f91-81b2-37b2ac910f09" resname="ODY·189 | Earth Rift | Card Name">
         <source>Earth Rift</source>
@@ -1889,7 +1889,7 @@
       </trans-unit>
       <trans-unit id="25080720-612f-40c0-8894-cda8e3e8afb8" resname="ODY·190 | Ember Beast | Card Text | Paragraph 1">
         <source>CARDNAME can't attack or block alone.</source>
-        <target state="translated">灰烬兽不能单独进行攻击或阻挡。</target>
+        <target state="translated">CARDNAME不能单独进行攻击或阻挡。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="164a92ac-0788-4238-a2ed-1ebd3dd0dd88" resname="ODY·191 | Engulfing Flames | Card Name">
@@ -1898,7 +1898,7 @@
       </trans-unit>
       <trans-unit id="164a92ac-0788-4238-a2ed-1ebd3dd0dd88" resname="ODY·191 | Engulfing Flames | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to target creature. It can't be regenerated this turn.</source>
-        <target state="translated">噬人火焰对目标生物造成1点伤害。它本回合不能重生。</target>
+        <target state="translated">CARDNAME对目标生物造成1点伤害。它本回合不能重生。</target>
       </trans-unit>
       <trans-unit id="164a92ac-0788-4238-a2ed-1ebd3dd0dd88" resname="ODY·191 | Engulfing Flames | Card Text | Paragraph 2">
         <source>Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -1923,7 +1923,7 @@
       </trans-unit>
       <trans-unit id="d5e45005-dd81-4d80-b043-02f719aca929" resname="ODY·193 | Firebolt | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">火束对任意一个目标造成2点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="d5e45005-dd81-4d80-b043-02f719aca929" resname="ODY·193 | Firebolt | Card Text | Paragraph 2">
@@ -1937,7 +1937,7 @@
       </trans-unit>
       <trans-unit id="64bbd438-7df2-4d7b-88ad-4531ebaf3931" resname="ODY·194 | Flame Burst | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to any target, where X is 2 plus the number of cards named CARDNAME in all graveyards.</source>
-        <target state="translated">火焰爆发对目标生物或牌手造成X点伤害，X为所有坟墓场中的火焰爆发牌之数量加2。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成X点伤害，X为所有坟墓场中的CARDNAME牌之数量加2。</target>
       </trans-unit>
       <trans-unit id="0dc939cc-826a-4208-ba5b-a11e1cd47aa2" resname="ODY·195 | Frenetic Ogre | Card Name">
         <source>Frenetic Ogre</source>
@@ -1945,7 +1945,7 @@
       </trans-unit>
       <trans-unit id="0dc939cc-826a-4208-ba5b-a11e1cd47aa2" resname="ODY·195 | Frenetic Ogre | Card Text | Paragraph 1">
         <source>{R}, Discard a card at random: CARDNAME gets +3/+0 until end of turn.</source>
-        <target state="translated">红，从你手上随机弃掉一张牌：狂热食人魔得+3/+0直到回合结束。</target>
+        <target state="translated">红，从你手上随机弃掉一张牌：CARDNAME得+3/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b69dfc05-51ba-4798-ac00-1e9b8bbbf280" resname="ODY·196 | Halberdier | Card Name">
         <source>Halberdier</source>
@@ -1975,7 +1975,7 @@
       </trans-unit>
       <trans-unit id="ee88c776-85f1-4beb-a814-f706f5c4f341" resname="ODY·198 | Kamahl, Pit Fighter | Card Text | Paragraph 2">
         <source>{T}: CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">{T}：死斗战士卡马尔对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="c99e1ded-7440-40a6-846b-7450a9b7d2a8" resname="ODY·199 | Kamahl's Desire | Card Name">
@@ -1992,7 +1992,7 @@
       </trans-unit>
       <trans-unit id="cd0e9e53-2710-4c2a-a8e4-48f25375ebc7" resname="ODY·200 | Lava Blister | Card Text | Paragraph 1">
         <source>Destroy target nonbasic land unless its controller has CARDNAME deal 6 damage to them.</source>
-        <target state="translated">除非目标非基本地的操控者让熔岩泡对他造成6点伤害，否则消灭该地。</target>
+        <target state="translated">除非目标非基本地的操控者让CARDNAME对他造成6点伤害，否则消灭该地。</target>
       </trans-unit>
       <trans-unit id="8b836d4c-38f3-4661-9dc7-0c9baaa595a5" resname="ODY·201 | Liquid Fire | Card Name">
         <source>Liquid Fire</source>
@@ -2000,7 +2000,7 @@
       </trans-unit>
       <trans-unit id="8b836d4c-38f3-4661-9dc7-0c9baaa595a5" resname="ODY·201 | Liquid Fire | Card Text | Paragraphs">
         <source>As an additional cost to cast this spell, choose a number between 0 and 5.\nCARDNAME deals X damage to target creature and 5 minus X damage to that creature's controller, where X is the chosen number.</source>
-        <target state="translated">液态火对目标生物和其操控者造成共5点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对目标生物和其操控者造成共5点伤害，你可以任意分配。</target>
       </trans-unit>
       <trans-unit id="7be2da24-a0cd-4e90-bc29-4da649fa56bf" resname="ODY·202 | Mad Dog | Card Name">
         <source>Mad Dog</source>
@@ -2008,7 +2008,7 @@
       </trans-unit>
       <trans-unit id="7be2da24-a0cd-4e90-bc29-4da649fa56bf" resname="ODY·202 | Mad Dog | Card Text | Paragraph 1">
         <source>At the beginning of your end step, if CARDNAME didn't attack or come under your control this turn, sacrifice it.</source>
-        <target state="translated">在你的回合结束时，若狂犬本回合未进行攻击，并且也不是于本回合中才置入你的操控下，则牺牲狂犬。</target>
+        <target state="translated">在你的回合结束时，若CARDNAME本回合未进行攻击，并且也不是于本回合中才置入你的操控下，则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="69ed2b52-2862-423c-8ce3-6c8232d9d92c" resname="ODY·203 | Magma Vein | Card Name">
         <source>Magma Vein</source>
@@ -2016,7 +2016,7 @@
       </trans-unit>
       <trans-unit id="69ed2b52-2862-423c-8ce3-6c8232d9d92c" resname="ODY·203 | Magma Vein | Card Text | Paragraph 1">
         <source>{R}, Sacrifice a land: CARDNAME deals 1 damage to each creature without flying.</source>
-        <target state="translated">红，牺牲一个地：岩浆脉对每个不具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">红，牺牲一个地：CARDNAME对每个不具飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="200fa50d-5a54-47eb-a123-29c4fb55ebee" resname="ODY·204 | Magnivore | Card Name">
         <source>Magnivore</source>
@@ -2030,7 +2030,7 @@
       </trans-unit>
       <trans-unit id="200fa50d-5a54-47eb-a123-29c4fb55ebee" resname="ODY·204 | Magnivore | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of sorcery cards in all graveyards.</source>
-        <target state="translated">噬咒兽的力量和防御力各等同于所有坟墓场中法术牌的数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于所有坟墓场中法术牌的数量。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="497efda1-5013-45d2-b717-b0296218c42b" resname="ODY·205 | Mine Layer | Card Name">
@@ -2047,7 +2047,7 @@
       </trans-unit>
       <trans-unit id="497efda1-5013-45d2-b717-b0296218c42b" resname="ODY·205 | Mine Layer | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, remove all mine counters from all lands.</source>
-        <target state="translated">当布雷员离场时，从所有地上移去所有地雷指示物。</target>
+        <target state="translated">当CARDNAME离场时，从所有地上移去所有地雷指示物。</target>
       </trans-unit>
       <trans-unit id="55725e38-d60a-41a2-93b0-2eefe6d2cc59" resname="ODY·206 | Minotaur Explorer | Card Name">
         <source>Minotaur Explorer</source>
@@ -2055,7 +2055,7 @@
       </trans-unit>
       <trans-unit id="55725e38-d60a-41a2-93b0-2eefe6d2cc59" resname="ODY·206 | Minotaur Explorer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you discard a card at random.</source>
-        <target state="translated">当牛头怪探险家进场时，除非你从手上随机弃掉一张牌，否则牺牲牛头怪探险家。</target>
+        <target state="translated">当CARDNAME进场时，除非你从手上随机弃掉一张牌，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="4c2b326b-d177-4a03-a0a3-fe2c2d4af272" resname="ODY·207 | Molten Influence | Card Name">
         <source>Molten Influence</source>
@@ -2063,7 +2063,7 @@
       </trans-unit>
       <trans-unit id="4c2b326b-d177-4a03-a0a3-fe2c2d4af272" resname="ODY·207 | Molten Influence | Card Text | Paragraph 1">
         <source>Counter target instant or sorcery spell unless its controller has CARDNAME deal 4 damage to them.</source>
-        <target state="translated">除非目标瞬间或法术咒语的操控者让熔融威能对他造成4点伤害，否则反击该咒语。</target>
+        <target state="translated">除非目标瞬间或法术咒语的操控者让CARDNAME对他造成4点伤害，否则反击该咒语。</target>
       </trans-unit>
       <trans-unit id="993d31bc-7355-4dfc-ac4e-ababaa0dc529" resname="ODY·208 | Mudhole | Card Name">
         <source>Mudhole</source>
@@ -2099,7 +2099,7 @@
       </trans-unit>
       <trans-unit id="16858395-c742-4657-88c2-5af20c92718d" resname="ODY·211 | Pardic Firecat | Card Text | Paragraph 2">
         <source>If CARDNAME is in a graveyard, effects from spells named Flame Burst count it as a card named Flame Burst.</source>
-        <target state="translated">若帕笛可火焰猫在坟墓场中，则火焰爆发的效果将之视为一张火焰爆发。</target>
+        <target state="translated">若CARDNAME在坟墓场中，则火焰爆发的效果将之视为一张火焰爆发。</target>
       </trans-unit>
       <trans-unit id="4a734abe-7bfd-4153-be2d-1c289fb60996" resname="ODY·212 | Pardic Miner | Card Name">
         <source>Pardic Miner</source>
@@ -2107,7 +2107,7 @@
       </trans-unit>
       <trans-unit id="4a734abe-7bfd-4153-be2d-1c289fb60996" resname="ODY·212 | Pardic Miner | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Target player can't play lands this turn.</source>
-        <target state="translated">牺牲帕笛卡矿工：目标牌手本回合不能使用地。</target>
+        <target state="translated">牺牲CARDNAME：目标牌手本回合不能使用地。</target>
       </trans-unit>
       <trans-unit id="44ac622c-db04-41bf-817e-4698843e6346" resname="ODY·213 | Pardic Swordsmith | Card Name">
         <source>Pardic Swordsmith</source>
@@ -2115,7 +2115,7 @@
       </trans-unit>
       <trans-unit id="44ac622c-db04-41bf-817e-4698843e6346" resname="ODY·213 | Pardic Swordsmith | Card Text | Paragraph 1">
         <source>{R}, Discard a card at random: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">红，从你手上随机弃掉一张牌：帕笛可铸剑师得+2/+0直到回合结束。</target>
+        <target state="translated">红，从你手上随机弃掉一张牌：CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="785ccfe1-04f1-4d2e-9e30-2ae3efe7213a" resname="ODY·214 | Price of Glory | Card Name">
         <source>Price of Glory</source>
@@ -2170,11 +2170,11 @@
       </trans-unit>
       <trans-unit id="52e14dbe-4d33-405c-ab84-2fc6b1e000b8" resname="ODY·218 | Savage Firecat | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with seven +1/+1 counters on it.</source>
-        <target state="translated">蛮荒火焰猫进场时上面有七个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时上面有七个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="52e14dbe-4d33-405c-ab84-2fc6b1e000b8" resname="ODY·218 | Savage Firecat | Card Text | Paragraph 3">
         <source>Whenever you tap a land for mana, remove a +1/+1 counter from CARDNAME.</source>
-        <target state="translated">每当你横置任一地以产生法术力时，从蛮荒火焰猫上移去一个+1/+1指示物。</target>
+        <target state="translated">每当你横置任一地以产生法术力时，从CARDNAME上移去一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="0672960b-4cb5-4ed6-ba3c-6b97290e0330" resname="ODY·219 | Scorching Missile | Card Name">
         <source>Scorching Missile</source>
@@ -2182,7 +2182,7 @@
       </trans-unit>
       <trans-unit id="0672960b-4cb5-4ed6-ba3c-6b97290e0330" resname="ODY·219 | Scorching Missile | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target player or planeswalker.</source>
-        <target state="translated">炙焰飞弹对目标牌手造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="0672960b-4cb5-4ed6-ba3c-6b97290e0330" resname="ODY·219 | Scorching Missile | Card Text | Paragraph 2">
         <source>Flashback {9}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -2206,11 +2206,11 @@
       </trans-unit>
       <trans-unit id="b1e623a8-145e-4649-b2cc-d3bb8a93f0f3" resname="ODY·221 | Shower of Coals | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each of up to three targets.</source>
-        <target state="translated">煤炭雨对至多三个目标生物和／或牌手各造成2点伤害。</target>
+        <target state="translated">CARDNAME对至多三个目标生物和／或牌手各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="b1e623a8-145e-4649-b2cc-d3bb8a93f0f3" resname="ODY·221 | Shower of Coals | Card Text | Paragraph 2">
         <source>Threshold — CARDNAME deals 4 damage to each of those permanents and/or players instead if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～改为煤炭雨对该些生物和／或牌手各造成4点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～改为CARDNAME对该些生物和／或牌手各造成4点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="cff5902e-2ca1-43bb-b636-c860b3d0b3f2" resname="ODY·222 | Spark Mage | Card Name">
         <source>Spark Mage</source>
@@ -2218,7 +2218,7 @@
       </trans-unit>
       <trans-unit id="cff5902e-2ca1-43bb-b636-c860b3d0b3f2" resname="ODY·222 | Spark Mage | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, you may have CARDNAME deal 1 damage to target creature that player controls.</source>
-        <target state="translated">每当星火法师对任一牌手造成战斗伤害时，你可以让星火法师对目标由该牌手操控的生物造成1点伤害。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以让CARDNAME对目标由该牌手操控的生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="d3936053-b2ed-49b8-ab69-fe47a972cfe4" resname="ODY·223 | Steam Vines | Card Name">
         <source>Steam Vines</source>
@@ -2226,7 +2226,7 @@
       </trans-unit>
       <trans-unit id="d3936053-b2ed-49b8-ab69-fe47a972cfe4" resname="ODY·223 | Steam Vines | Card Text | Paragraphs">
         <source>Enchant land\nWhen enchanted land becomes tapped, destroy it and CARDNAME deals 1 damage to that land's controller. That player attaches CARDNAME to a land of their choice.</source>
-        <target state="translated">当受此结界的地成为横置时，消灭该地且蒸汽藤蔓对该地的操控者造成1点伤害。该牌手选择一个地，并将蒸汽藤蔓移到该地上。</target>
+        <target state="translated">当受此结界的地成为横置时，消灭该地且CARDNAME对该地的操控者造成1点伤害。该牌手选择一个地，并将CARDNAME移到该地上。</target>
       </trans-unit>
       <trans-unit id="623cc141-0f75-4e67-b852-6c144d98e619" resname="ODY·224 | Thermal Blast | Card Name">
         <source>Thermal Blast</source>
@@ -2234,11 +2234,11 @@
       </trans-unit>
       <trans-unit id="623cc141-0f75-4e67-b852-6c144d98e619" resname="ODY·224 | Thermal Blast | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature.</source>
-        <target state="translated">热能冲击波对目标生物造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="623cc141-0f75-4e67-b852-6c144d98e619" resname="ODY·224 | Thermal Blast | Card Text | Paragraph 2">
         <source>Threshold — CARDNAME deals 5 damage instead if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～改为热能冲击波对该生物造成5点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～改为CARDNAME对该生物造成5点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="7e1dc36f-3fdd-42cf-9d3a-695f4bf60c68" resname="ODY·225 | Tremble | Card Name">
         <source>Tremble</source>
@@ -2254,7 +2254,7 @@
       </trans-unit>
       <trans-unit id="97daab4b-d934-4a3f-a043-f7c9c1dd32bf" resname="ODY·226 | Volcanic Spray | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature without flying and each player.</source>
-        <target state="translated">火山喷焰对每位牌手和每个不具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每位牌手和每个不具飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="97daab4b-d934-4a3f-a043-f7c9c1dd32bf" resname="ODY·226 | Volcanic Spray | Card Text | Paragraph 2">
         <source>Flashback {1}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -2266,7 +2266,7 @@
       </trans-unit>
       <trans-unit id="4f663979-a778-4fb2-97c4-67ab82926f13" resname="ODY·227 | Volley of Boulders | Card Text | Paragraph 1">
         <source>CARDNAME deals 6 damage divided as you choose among any number of targets.</source>
-        <target state="translated">乱石轰对任意数量的目标生物和／或牌手造成共6点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对任意数量的目标生物和／或牌手造成共6点伤害，你可以任意分配。</target>
       </trans-unit>
       <trans-unit id="4f663979-a778-4fb2-97c4-67ab82926f13" resname="ODY·227 | Volley of Boulders | Card Text | Paragraph 2">
         <source>Flashback {R}{R}{R}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -2278,7 +2278,7 @@
       </trans-unit>
       <trans-unit id="3d86db25-3ec1-42f3-8b02-2729d50dd201" resname="ODY·228 | Whipkeeper | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals damage to target creature equal to the damage already dealt to it this turn.</source>
-        <target state="translated">横置：炎鞭护卫对目标生物造成与该生物本回合已受到之伤害等量的伤害。</target>
+        <target state="translated">横置：CARDNAME对目标生物造成与该生物本回合已受到之伤害等量的伤害。</target>
       </trans-unit>
       <trans-unit id="3284b61a-bd95-4846-ad3f-903cd1158867" resname="ODY·229 | Bearscape | Card Name">
         <source>Bearscape</source>
@@ -2336,11 +2336,11 @@
       </trans-unit>
       <trans-unit id="c4fd0ea3-4134-4f7d-a0c8-01c49bacfcfc" resname="ODY·234 | Chlorophant | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以在叶绿象上放置一个+1/+1指示物。</target>
+        <target state="translated">在你的维持开始时，你可以在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="c4fd0ea3-4134-4f7d-a0c8-01c49bacfcfc" resname="ODY·234 | Chlorophant | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME has &amp;quot;At the beginning of your upkeep, you may put another +1/+1 counter on CARDNAME.&amp;quot;</source>
-        <target state="translated">门槛～在你的维持开始时，你可以在叶绿象上放置另一个+1/+1指示物。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～在你的维持开始时，你可以在CARDNAME上放置另一个+1/+1指示物。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="e1f3a32a-bfd2-4c31-a349-3e62a84c20e1" resname="ODY·235 | Crashing Centaur | Card Name">
         <source>Crashing Centaur</source>
@@ -2348,11 +2348,11 @@
       </trans-unit>
       <trans-unit id="e1f3a32a-bfd2-4c31-a349-3e62a84c20e1" resname="ODY·235 | Crashing Centaur | Card Text | Paragraph 1">
         <source>{G}, Discard a card: CARDNAME gains trample until end of turn.</source>
-        <target state="translated">绿，从你手上弃掉一张牌：猛进半人马获得践踏异能直到回合结束。</target>
+        <target state="translated">绿，从你手上弃掉一张牌：CARDNAME获得践踏异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="e1f3a32a-bfd2-4c31-a349-3e62a84c20e1" resname="ODY·235 | Crashing Centaur | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +2/+2 and has shroud. (It can't be the target of spells or abilities.)</source>
-        <target state="translated">门槛～猛进半人马得+2/+2且不能成为咒语或异能的目标。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+2/+2且不能成为咒语或异能的目标。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="148ce683-3911-4b77-9e07-3985766a3777" resname="ODY·236 | Deep Reconnaissance | Card Name">
         <source>Deep Reconnaissance</source>
@@ -2372,11 +2372,11 @@
       </trans-unit>
       <trans-unit id="7bb40e09-6855-46d5-9bc9-bc6b2b0d7653" resname="ODY·237 | Diligent Farmhand | Card Text | Paragraph 1">
         <source>{1}{G}, Sacrifice CARDNAME: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">1绿，牺牲勤勉庄稼汉：从你的牌库中搜寻一张基本地牌，并将之横置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">1绿，牺牲CARDNAME：从你的牌库中搜寻一张基本地牌，并将之横置进场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="7bb40e09-6855-46d5-9bc9-bc6b2b0d7653" resname="ODY·237 | Diligent Farmhand | Card Text | Paragraph 2">
         <source>If CARDNAME is in a graveyard, effects from spells named Muscle Burst count it as a card named Muscle Burst.</source>
-        <target state="translated">若勤勉庄稼汉在坟墓场中，则肌力爆发的效果将之视为一张肌力爆发。</target>
+        <target state="translated">若CARDNAME在坟墓场中，则肌力爆发的效果将之视为一张肌力爆发。</target>
       </trans-unit>
       <trans-unit id="e9923532-bc4f-44de-b963-d6914321c49a" resname="ODY·238 | Druid Lyrist | Card Name">
         <source>Druid Lyrist</source>
@@ -2384,7 +2384,7 @@
       </trans-unit>
       <trans-unit id="e9923532-bc4f-44de-b963-d6914321c49a" resname="ODY·238 | Druid Lyrist | Card Text | Paragraph 1">
         <source>{G}, {T}, Sacrifice CARDNAME: Destroy target enchantment.</source>
-        <target state="translated">绿，横置，牺牲德鲁依特弦琴诗人：消灭目标结界。</target>
+        <target state="translated">绿，横置，牺牲CARDNAME：消灭目标结界。</target>
       </trans-unit>
       <trans-unit id="e22318a5-80c8-4fa3-ad05-8d3035caf336" resname="ODY·239 | Druid's Call | Card Name">
         <source>Druid's Call</source>
@@ -2416,7 +2416,7 @@
       </trans-unit>
       <trans-unit id="435d9562-8f2b-43fe-ba21-8f5896378280" resname="ODY·241 | Gorilla Titan | Card Text | Paragraph 2">
         <source>CARDNAME gets +4/+4 as long as there are no cards in your graveyard.</source>
-        <target state="translated">只要你的坟墓场中没有牌，雄伟大猩猩便得+4/+4。</target>
+        <target state="translated">只要你的坟墓场中没有牌，CARDNAME便得+4/+4。</target>
       </trans-unit>
       <trans-unit id="977383a8-9a31-4aad-ace2-6ed4d0dd1cbe" resname="ODY·242 | Ground Seal | Card Name">
         <source>Ground Seal</source>
@@ -2425,7 +2425,7 @@
       </trans-unit>
       <trans-unit id="977383a8-9a31-4aad-ace2-6ed4d0dd1cbe" resname="ODY·242 | Ground Seal | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当大地封印进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自WOT（2023-09-08）；</note>
       </trans-unit>
       <trans-unit id="977383a8-9a31-4aad-ace2-6ed4d0dd1cbe" resname="ODY·242 | Ground Seal | Card Text | Paragraph 2">
@@ -2447,7 +2447,7 @@
       </trans-unit>
       <trans-unit id="9917cf32-0236-4463-9b1d-e8193754ff97" resname="ODY·244 | Howling Gale | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature with flying and each player.</source>
-        <target state="translated">呼啸狂风对每位牌手和每个具有飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每位牌手和每个具有飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="9917cf32-0236-4463-9b1d-e8193754ff97" resname="ODY·244 | Howling Gale | Card Text | Paragraph 2">
         <source>Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -2460,7 +2460,7 @@
       </trans-unit>
       <trans-unit id="fc441d3a-e917-4dd6-b5f9-f99075ec398f" resname="ODY·245 | Ivy Elemental | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">长春藤元素进战场时上面有X个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自IKO（2020-04-24）；</note>
       </trans-unit>
       <trans-unit id="e188562f-8219-4fb0-ac2c-5618cfb00bca" resname="ODY·246 | Krosan Archer | Card Name">
@@ -2469,11 +2469,11 @@
       </trans-unit>
       <trans-unit id="e188562f-8219-4fb0-ac2c-5618cfb00bca" resname="ODY·246 | Krosan Archer | Card Text | Paragraph 1">
         <source>Reach (This creature can block creatures with flying.)</source>
-        <target state="translated">克洛萨箭手可以视同具有飞行异能般地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能般地进行阻挡。</target>
       </trans-unit>
       <trans-unit id="e188562f-8219-4fb0-ac2c-5618cfb00bca" resname="ODY·246 | Krosan Archer | Card Text | Paragraph 2">
         <source>{G}, Discard a card: CARDNAME gets +0/+2 until end of turn.</source>
-        <target state="translated">绿，从你手上弃掉一张牌：克洛萨箭手得+0/+2直到回合结束。</target>
+        <target state="translated">绿，从你手上弃掉一张牌：CARDNAME得+0/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="0afd6911-32b5-410a-afb0-fd3d2996fe59" resname="ODY·247 | Krosan Avenger | Card Name">
         <source>Krosan Avenger</source>
@@ -2485,7 +2485,7 @@
       </trans-unit>
       <trans-unit id="0afd6911-32b5-410a-afb0-fd3d2996fe59" resname="ODY·247 | Krosan Avenger | Card Text | Paragraph 2">
         <source>Threshold — {1}{G}: Regenerate CARDNAME. Activate only if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～1绿：重生克洛萨复仇者。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
+        <target state="translated">门槛～1绿：重生CARDNAME。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
       </trans-unit>
       <trans-unit id="af822507-fd4c-454b-ab07-106c81c535bf" resname="ODY·248 | Krosan Beast | Card Name">
         <source>Krosan Beast</source>
@@ -2493,7 +2493,7 @@
       </trans-unit>
       <trans-unit id="af822507-fd4c-454b-ab07-106c81c535bf" resname="ODY·248 | Krosan Beast | Card Text | Paragraph 1">
         <source>Threshold — CARDNAME gets +7/+7 as long as seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～克洛萨蛰兽得+7/+7。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+7/+7。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="aebab65c-7d5f-4086-8eb1-7dc445e801e9" resname="ODY·249 | Leaf Dancer | Card Name">
         <source>Leaf Dancer</source>
@@ -2509,7 +2509,7 @@
       </trans-unit>
       <trans-unit id="f47e020a-ed73-465a-b7eb-a4eeccd096cc" resname="ODY·250 | Metamorphic Wurm | Card Text | Paragraph 1">
         <source>Threshold — CARDNAME gets +4/+4 as long as seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～蜕变亚龙得+4/+4。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+4/+4。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="40ebe935-ccf9-435e-8fe8-53bcbf3526e7" resname="ODY·251 | Moment's Peace | Card Name">
         <source>Moment's Peace</source>
@@ -2529,7 +2529,7 @@
       </trans-unit>
       <trans-unit id="217dada5-7ffc-488b-8062-34c034906ea9" resname="ODY·252 | Muscle Burst | Card Text | Paragraph 1">
         <source>Target creature gets +X/+X until end of turn, where X is 3 plus the number of cards named CARDNAME in all graveyards.</source>
-        <target state="translated">目标生物得+X/+X直到回合结束，X为所有坟墓场中的肌力爆发牌之数量加3。</target>
+        <target state="translated">目标生物得+X/+X直到回合结束，X为所有坟墓场中的CARDNAME牌之数量加3。</target>
       </trans-unit>
       <trans-unit id="3f5db5e0-bd95-4c82-a12d-7288dbbbe3ba" resname="ODY·253 | Nantuko Disciple | Card Name">
         <source>Nantuko Disciple</source>
@@ -2585,7 +2585,7 @@
       </trans-unit>
       <trans-unit id="99e5ecf5-a662-4df0-a6ba-9177c62b6503" resname="ODY·258 | Nimble Mongoose | Card Text | Paragraph 2">
         <source>Threshold — CARDNAME gets +2/+2 as long as seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～只要你的坟墓场中有七张或更多牌，伶俐猫鼬便得+2/+2。</target>
+        <target state="translated">门槛～只要你的坟墓场中有七张或更多牌，CARDNAME便得+2/+2。</target>
         <note xmlns:from="developer">中文数据来自MH1（2019-06-14）；</note>
       </trans-unit>
       <trans-unit id="f4eec210-5df0-4fb8-8eb1-e616d9995acc" resname="ODY·259 | Nut Collector | Card Name">
@@ -2625,7 +2625,7 @@
       </trans-unit>
       <trans-unit id="fe394a38-ee44-4342-adcf-8c65d14f4978" resname="ODY·263 | Rabid Elephant | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.</source>
-        <target state="translated">每当躁动狂象受到阻挡时，每有一个生物阻挡它，它便得+2/+2直到回合结束。</target>
+        <target state="translated">每当CARDNAME受到阻挡时，每有一个生物阻挡它，它便得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="0084ba4e-98eb-4eb4-b23e-c5ab4d7d95cb" resname="ODY·264 | Refresh | Card Name">
         <source>Refresh</source>
@@ -2704,11 +2704,11 @@
       </trans-unit>
       <trans-unit id="f56f195e-a80c-4447-8d3f-cc1259035d1b" resname="ODY·270 | Skyshooter | Card Text | Paragraph 1">
         <source>Reach (This creature can block creatures with flying.)</source>
-        <target state="translated">穹苍射手可以视同具有飞行异能般地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能般地进行阻挡。</target>
       </trans-unit>
       <trans-unit id="f56f195e-a80c-4447-8d3f-cc1259035d1b" resname="ODY·270 | Skyshooter | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Destroy target attacking or blocking creature with flying.</source>
-        <target state="translated">横置，牺牲穹苍射手：消灭目标具有飞行异能、且进行攻击或阻挡的生物。</target>
+        <target state="translated">横置，牺牲CARDNAME：消灭目标具有飞行异能、且进行攻击或阻挡的生物。</target>
       </trans-unit>
       <trans-unit id="72194a6e-481d-4b07-922b-53f919bfa316" resname="ODY·271 | Spellbane Centaur | Card Name">
         <source>Spellbane Centaur</source>
@@ -2724,7 +2724,7 @@
       </trans-unit>
       <trans-unit id="04462629-fb03-40e8-84e6-4a66e4d5392b" resname="ODY·272 | Springing Tiger | Card Text | Paragraph 1">
         <source>Threshold — CARDNAME gets +2/+2 as long as seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～跃虎得+2/+2。（只要在你的坟墓场中有七张或更多的牌，你就达到门槛）</target>
+        <target state="translated">门槛～CARDNAME得+2/+2。（只要在你的坟墓场中有七张或更多的牌，你就达到门槛）</target>
       </trans-unit>
       <trans-unit id="181254ce-259a-4b31-8937-728564f2baf3" resname="ODY·273 | Squirrel Mob | Card Name">
         <source>Squirrel Mob</source>
@@ -2733,7 +2733,7 @@
       </trans-unit>
       <trans-unit id="181254ce-259a-4b31-8937-728564f2baf3" resname="ODY·273 | Squirrel Mob | Card Text | Paragraph 1">
         <source>CARDNAME gets +1/+1 for each other Squirrel on the battlefield.</source>
-        <target state="translated">战场上每有一个其他松鼠，松鼠暴群便得+1/+1。</target>
+        <target state="translated">战场上每有一个其他松鼠，CARDNAME便得+1/+1。</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
       <trans-unit id="22eccb27-1723-4c5a-96b8-85e6e5739c30" resname="ODY·274 | Squirrel Nest | Card Name">
@@ -2757,7 +2757,7 @@
       </trans-unit>
       <trans-unit id="12be33d7-f25e-4dbf-9706-74403103b127" resname="ODY·275 | Still Life | Card Text | Paragraph 1">
         <source>{G}{G}: CARDNAME becomes a 4/3 Centaur creature in addition to its other types until end of turn.</source>
-        <target state="translated">绿绿：静物成为4/3半人马生物直到回合结束。它仍然是结界。</target>
+        <target state="translated">绿绿：CARDNAME成为4/3半人马生物直到回合结束。它仍然是结界。</target>
       </trans-unit>
       <trans-unit id="576e3ccd-40a3-4ea9-8e76-5e70b2ef9123" resname="ODY·277 | Sylvan Might | Card Name">
         <source>Sylvan Might</source>
@@ -2786,7 +2786,7 @@
       </trans-unit>
       <trans-unit id="c39c412b-2f21-483a-b744-5d55bc007c0d" resname="ODY·278 | Terravore | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of land cards in all graveyards.</source>
-        <target state="translated">噬地兽的力量和防御力各等同于所有坟墓场中的地牌数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于所有坟墓场中的地牌数量。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="90b8ba27-c3bb-48cf-b831-518f5d255c2e" resname="ODY·279 | Twigwalker | Card Name">
@@ -2795,7 +2795,7 @@
       </trans-unit>
       <trans-unit id="90b8ba27-c3bb-48cf-b831-518f5d255c2e" resname="ODY·279 | Twigwalker | Card Text | Paragraph 1">
         <source>{1}{G}, Sacrifice CARDNAME: Two target creatures each get +2/+2 until end of turn.</source>
-        <target state="translated">1绿，牺牲枝节虫：两个目标生物各得+2/+2直到回合结束。</target>
+        <target state="translated">1绿，牺牲CARDNAME：两个目标生物各得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="bd3c78de-0c2a-441e-8912-ff920fc563ef" resname="ODY·280 | Verdant Succession | Card Name">
         <source>Verdant Succession</source>
@@ -2829,7 +2829,7 @@
       </trans-unit>
       <trans-unit id="964cf7e3-932d-432f-8ad4-9bd651aada96" resname="ODY·282 | Werebear | Card Text | Paragraph 2">
         <source>Threshold — CARDNAME gets +3/+3 as long as seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，熊人便得+3/+3。</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便得+3/+3。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="5bb8dd5c-a79a-4afc-80b2-64645bb17a34" resname="ODY·283 | Wild Mongrel | Card Name">
@@ -2838,7 +2838,7 @@
       </trans-unit>
       <trans-unit id="5bb8dd5c-a79a-4afc-80b2-64645bb17a34" resname="ODY·283 | Wild Mongrel | Card Text | Paragraph 1">
         <source>Discard a card: CARDNAME gets +1/+1 and becomes the color of your choice until end of turn.</source>
-        <target state="translated">从你手上弃掉一张牌：选择一个颜色。野杂种狗得+1/+1并成为该色直到回合结束。</target>
+        <target state="translated">从你手上弃掉一张牌：选择一个颜色。CARDNAME得+1/+1并成为该色直到回合结束。</target>
       </trans-unit>
       <trans-unit id="34e501e6-38da-44ad-abe2-53ea7f0eb4ae" resname="ODY·284 | Woodland Druid | Card Name">
         <source>Woodland Druid</source>
@@ -2858,7 +2858,7 @@
       </trans-unit>
       <trans-unit id="4a3e6eb5-6d0f-4f82-86f9-bbce8d27afbb" resname="ODY·286 | Atogatog | Card Text | Paragraph 1">
         <source>Sacrifice an Atog creature: CARDNAME gets +X/+X until end of turn, where X is the sacrificed creature's power.</source>
-        <target state="translated">牺牲一个阿托格：阿托格阿托格得+X/+X直到回合结束，X为该阿托格的力量。</target>
+        <target state="translated">牺牲一个阿托格：CARDNAME得+X/+X直到回合结束，X为该阿托格的力量。</target>
       </trans-unit>
       <trans-unit id="912c398a-e49a-4399-ac41-7b1d4328a59d" resname="ODY·287 | Decimate | Card Name">
         <source>Decimate</source>
@@ -2884,11 +2884,11 @@
       </trans-unit>
       <trans-unit id="c69742a8-cc6d-457b-8d99-81d05ab1bf0b" resname="ODY·289 | Lithatog | Card Text | Paragraph 1">
         <source>Sacrifice an artifact: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">牺牲一个神器：砾石阿托格得+1/+1直到回合结束。</target>
+        <target state="translated">牺牲一个神器：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c69742a8-cc6d-457b-8d99-81d05ab1bf0b" resname="ODY·289 | Lithatog | Card Text | Paragraph 2">
         <source>Sacrifice a land: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">牺牲一个地：砾石阿托格得+1/+1直到回合结束。</target>
+        <target state="translated">牺牲一个地：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="eb68983d-fd8c-4844-8ceb-afd3cae7e4df" resname="ODY·290 | Mystic Enforcer | Card Name">
         <source>Mystic Enforcer</source>
@@ -2902,7 +2902,7 @@
       </trans-unit>
       <trans-unit id="eb68983d-fd8c-4844-8ceb-afd3cae7e4df" resname="ODY·290 | Mystic Enforcer | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +3/+3 and has flying.</source>
-        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，秘教执法者便得+3/+3且具有飞行异能。</target>
+        <target state="translated">门槛～只要你坟墓场中有七张或更多牌，CARDNAME便得+3/+3且具有飞行异能。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="6967608d-141d-426f-a129-6f1a6a58273c" resname="ODY·291 | Phantatog | Card Name">
@@ -2911,11 +2911,11 @@
       </trans-unit>
       <trans-unit id="6967608d-141d-426f-a129-6f1a6a58273c" resname="ODY·291 | Phantatog | Card Text | Paragraph 1">
         <source>Sacrifice an enchantment: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">牺牲一个结界：幽魅阿托格得+1/+1直到回合结束。</target>
+        <target state="translated">牺牲一个结界：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6967608d-141d-426f-a129-6f1a6a58273c" resname="ODY·291 | Phantatog | Card Text | Paragraph 2">
         <source>Discard a card: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">从你手上弃掉一张牌：幽魅阿托格得+1/+1直到回合结束。</target>
+        <target state="translated">从你手上弃掉一张牌：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6757bf0e-489f-4be2-9e41-463b59f00dd1" resname="ODY·292 | Psychatog | Card Name">
         <source>Psychatog</source>
@@ -2923,11 +2923,11 @@
       </trans-unit>
       <trans-unit id="6757bf0e-489f-4be2-9e41-463b59f00dd1" resname="ODY·292 | Psychatog | Card Text | Paragraph 1">
         <source>Discard a card: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">从你手上弃掉一张牌：灵能阿托格得+1/+1直到回合结束。</target>
+        <target state="translated">从你手上弃掉一张牌：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6757bf0e-489f-4be2-9e41-463b59f00dd1" resname="ODY·292 | Psychatog | Card Text | Paragraph 2">
         <source>Exile two cards from your graveyard: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">将你坟墓场中的两张牌移出对战：灵能阿托格得+1/+1直到回合结束。</target>
+        <target state="translated">将你坟墓场中的两张牌移出对战：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="760a329c-e815-49d3-8df1-d052ce19b0c6" resname="ODY·293 | Sarcatog | Card Name">
         <source>Sarcatog</source>
@@ -2935,11 +2935,11 @@
       </trans-unit>
       <trans-unit id="760a329c-e815-49d3-8df1-d052ce19b0c6" resname="ODY·293 | Sarcatog | Card Text | Paragraph 1">
         <source>Exile two cards from your graveyard: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">将你坟墓场中的两张牌移出对战：骸骨阿托格得+1/+1直到回合结束。</target>
+        <target state="translated">将你坟墓场中的两张牌移出对战：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="760a329c-e815-49d3-8df1-d052ce19b0c6" resname="ODY·293 | Sarcatog | Card Text | Paragraph 2">
         <source>Sacrifice an artifact: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">牺牲一个神器：骸骨阿托格得+1/+1直到回合结束。</target>
+        <target state="translated">牺牲一个神器：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="932ce702-565f-4d8c-b9fc-2d7c939ef7d7" resname="ODY·294 | Shadowmage Infiltrator | Card Name">
         <source>Shadowmage Infiltrator</source>
@@ -2953,7 +2953,7 @@
       </trans-unit>
       <trans-unit id="932ce702-565f-4d8c-b9fc-2d7c939ef7d7" resname="ODY·294 | Shadowmage Infiltrator | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may draw a card.</source>
-        <target state="translated">每当渗透影法师对任一牌手造成战斗伤害时，你可以抓一张牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="aa559342-9587-4fe3-9059-3b3a08d6637a" resname="ODY·295 | Thaumatog | Card Name">
@@ -2962,11 +2962,11 @@
       </trans-unit>
       <trans-unit id="aa559342-9587-4fe3-9059-3b3a08d6637a" resname="ODY·295 | Thaumatog | Card Text | Paragraph 1">
         <source>Sacrifice a land: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">牺牲一个地：奇巧阿托格得+1/+1直到回合结束。</target>
+        <target state="translated">牺牲一个地：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="aa559342-9587-4fe3-9059-3b3a08d6637a" resname="ODY·295 | Thaumatog | Card Text | Paragraph 2">
         <source>Sacrifice an enchantment: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">牺牲一个结界：奇巧阿托格得+1/+1直到回合结束。</target>
+        <target state="translated">牺牲一个结界：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4f21d595-c248-4aae-9fd7-4e5787ab8781" resname="ODY·296 | Vampiric Dragon | Card Name">
         <source>Vampiric Dragon</source>
@@ -2980,12 +2980,12 @@
       </trans-unit>
       <trans-unit id="4f21d595-c248-4aae-9fd7-4e5787ab8781" resname="ODY·296 | Vampiric Dragon | Card Text | Paragraph 2">
         <source>Whenever a creature dealt damage by CARDNAME this turn dies, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个本回合中受过茹血巨龙伤害的生物死去时，在茹血巨龙上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个本回合中受过CARDNAME伤害的生物死去时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="4f21d595-c248-4aae-9fd7-4e5787ab8781" resname="ODY·296 | Vampiric Dragon | Card Text | Paragraph 3">
         <source>{1}{R}: CARDNAME deals 1 damage to target creature.</source>
-        <target state="translated">{1}{R}：茹血巨龙对目标生物造成1点伤害。</target>
+        <target state="translated">{1}{R}：CARDNAME对目标生物造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="aaca85d4-b4c2-4adc-a0f9-26339bacfd92" resname="ODY·297 | Catalyst Stone | Card Name">
@@ -3014,7 +3014,7 @@
       </trans-unit>
       <trans-unit id="fb988572-1e1d-4b1d-8dc7-78bda966554e" resname="ODY·299 | Darkwater Egg | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Add {U}{B}. Draw a card.</source>
-        <target state="translated">2，横置，牺牲黑水卵：加蓝黑到你的法术力池中。抓一张牌。</target>
+        <target state="translated">2，横置，牺牲CARDNAME：加蓝黑到你的法术力池中。抓一张牌。</target>
       </trans-unit>
       <trans-unit id="c9410da0-5693-456f-afa8-cb92ac176847" resname="ODY·300 | Junk Golem | Card Name">
         <source>Junk Golem</source>
@@ -3022,15 +3022,15 @@
       </trans-unit>
       <trans-unit id="c9410da0-5693-456f-afa8-cb92ac176847" resname="ODY·300 | Junk Golem | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three +1/+1 counters on it.</source>
-        <target state="translated">垃圾魔像进场时，上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时，上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="c9410da0-5693-456f-afa8-cb92ac176847" resname="ODY·300 | Junk Golem | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you remove a +1/+1 counter from it.</source>
-        <target state="translated">在你的维持开始时，除非你从垃圾魔像上移除一个+1/+1指示物，否则牺牲之。</target>
+        <target state="translated">在你的维持开始时，除非你从CARDNAME上移除一个+1/+1指示物，否则牺牲之。</target>
       </trans-unit>
       <trans-unit id="c9410da0-5693-456f-afa8-cb92ac176847" resname="ODY·300 | Junk Golem | Card Text | Paragraph 3">
         <source>{1}, Discard a card: Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">1，从你手上弃掉一张牌：在垃圾魔像上放置一个+1/+1指示物。</target>
+        <target state="translated">1，从你手上弃掉一张牌：在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="b522518c-1846-4e95-b77d-2aadac78684d" resname="ODY·301 | Limestone Golem | Card Name">
         <source>Limestone Golem</source>
@@ -3038,7 +3038,7 @@
       </trans-unit>
       <trans-unit id="b522518c-1846-4e95-b77d-2aadac78684d" resname="ODY·301 | Limestone Golem | Card Text | Paragraph 1">
         <source>{2}, Sacrifice CARDNAME: Target player draws a card.</source>
-        <target state="translated">2，牺牲石灰石魔像：目标牌手抓一张牌。</target>
+        <target state="translated">2，牺牲CARDNAME：目标牌手抓一张牌。</target>
       </trans-unit>
       <trans-unit id="0550133b-22cf-4ecd-b89a-8c2f0beeaa22" resname="ODY·302 | Millikin | Card Name">
         <source>Millikin</source>
@@ -3066,7 +3066,7 @@
       </trans-unit>
       <trans-unit id="1fd66433-b0e9-453d-9a27-ea0efb158dac" resname="ODY·304 | Mossfire Egg | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Add {R}{G}. Draw a card.</source>
-        <target state="translated">2，横置，牺牲苔炎卵：加红绿到你的法术力池中。抓一张牌。</target>
+        <target state="translated">2，横置，牺牲CARDNAME：加红绿到你的法术力池中。抓一张牌。</target>
       </trans-unit>
       <trans-unit id="752420dc-d69a-4c9d-b563-f8928a4a0920" resname="ODY·305 | Otarian Juggernaut | Card Name">
         <source>Otarian Juggernaut</source>
@@ -3074,11 +3074,11 @@
       </trans-unit>
       <trans-unit id="752420dc-d69a-4c9d-b563-f8928a4a0920" resname="ODY·305 | Otarian Juggernaut | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by Walls.</source>
-        <target state="translated">欧塔利亚攻城车不能被墙阻挡。</target>
+        <target state="translated">CARDNAME不能被墙阻挡。</target>
       </trans-unit>
       <trans-unit id="752420dc-d69a-4c9d-b563-f8928a4a0920" resname="ODY·305 | Otarian Juggernaut | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +3/+0 and attacks each combat if able.</source>
-        <target state="translated">门槛～欧塔利亚攻城车得+3/+0且每回合若能攻击则必须攻击。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+3/+0且每回合若能攻击则必须攻击。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="241ebc17-b8ae-4ca4-8413-f53501d86244" resname="ODY·307 | Sandstone Deadfall | Card Name">
         <source>Sandstone Deadfall</source>
@@ -3086,7 +3086,7 @@
       </trans-unit>
       <trans-unit id="241ebc17-b8ae-4ca4-8413-f53501d86244" resname="ODY·307 | Sandstone Deadfall | Card Text | Paragraph 1">
         <source>{T}, Sacrifice two lands and CARDNAME: Destroy target attacking creature.</source>
-        <target state="translated">横置，牺牲两个地和砂岩陷阱：消灭目标进行攻击的生物。</target>
+        <target state="translated">横置，牺牲两个地和CARDNAME：消灭目标进行攻击的生物。</target>
       </trans-unit>
       <trans-unit id="044bbf15-e71d-4f47-bac3-bba8021118bd" resname="ODY·308 | Shadowblood Egg | Card Name">
         <source>Shadowblood Egg</source>
@@ -3094,7 +3094,7 @@
       </trans-unit>
       <trans-unit id="044bbf15-e71d-4f47-bac3-bba8021118bd" resname="ODY·308 | Shadowblood Egg | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Add {B}{R}. Draw a card.</source>
-        <target state="translated">2，横置，牺牲暗血卵：加黑红到你的法术力池中。抓一张牌。</target>
+        <target state="translated">2，横置，牺牲CARDNAME：加黑红到你的法术力池中。抓一张牌。</target>
       </trans-unit>
       <trans-unit id="e588cc41-4b86-4e93-94e8-dd765b27ab63" resname="ODY·309 | Skycloud Egg | Card Name">
         <source>Skycloud Egg</source>
@@ -3102,7 +3102,7 @@
       </trans-unit>
       <trans-unit id="e588cc41-4b86-4e93-94e8-dd765b27ab63" resname="ODY·309 | Skycloud Egg | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Add {W}{U}. Draw a card.</source>
-        <target state="translated">2，横置，牺牲天云卵：加白蓝到你的法术力池中。抓一张牌。</target>
+        <target state="translated">2，横置，牺牲CARDNAME：加白蓝到你的法术力池中。抓一张牌。</target>
       </trans-unit>
       <trans-unit id="4f84a9bf-ce64-4301-8f2c-20f1b4acd3ef" resname="ODY·310 | Steamclaw | Card Name">
         <source>Steamclaw</source>
@@ -3114,7 +3114,7 @@
       </trans-unit>
       <trans-unit id="4f84a9bf-ce64-4301-8f2c-20f1b4acd3ef" resname="ODY·310 | Steamclaw | Card Text | Paragraph 2">
         <source>{1}, Sacrifice CARDNAME: Exile target card from a graveyard.</source>
-        <target state="translated">1，牺牲蒸汽爪车：将目标在任一坟墓场中的牌移出对战。</target>
+        <target state="translated">1，牺牲CARDNAME：将目标在任一坟墓场中的牌移出对战。</target>
       </trans-unit>
       <trans-unit id="70e888f9-c583-478a-9ef0-2e89db8a8dbb" resname="ODY·311 | Sungrass Egg | Card Name">
         <source>Sungrass Egg</source>
@@ -3122,7 +3122,7 @@
       </trans-unit>
       <trans-unit id="70e888f9-c583-478a-9ef0-2e89db8a8dbb" resname="ODY·311 | Sungrass Egg | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Add {G}{W}. Draw a card.</source>
-        <target state="translated">2，横置，牺牲曦草卵：加绿白到你的法术力池中。抓一张牌。</target>
+        <target state="translated">2，横置，牺牲CARDNAME：加绿白到你的法术力池中。抓一张牌。</target>
       </trans-unit>
       <trans-unit id="4945031e-1158-474c-9e50-1ec817acc767" resname="ODY·312 | Abandoned Outpost | Card Name">
         <source>Abandoned Outpost</source>
@@ -3130,7 +3130,7 @@
       </trans-unit>
       <trans-unit id="4945031e-1158-474c-9e50-1ec817acc767" resname="ODY·312 | Abandoned Outpost | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">荒废哨站须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="4945031e-1158-474c-9e50-1ec817acc767" resname="ODY·312 | Abandoned Outpost | Card Text | Paragraph 2">
         <source>{T}: Add {W}.</source>
@@ -3138,7 +3138,7 @@
       </trans-unit>
       <trans-unit id="4945031e-1158-474c-9e50-1ec817acc767" resname="ODY·312 | Abandoned Outpost | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add one mana of any color.</source>
-        <target state="translated">横置，牺牲荒废哨站：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">横置，牺牲CARDNAME：加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="1809361e-ae1a-4c47-8464-e6496e94d962" resname="ODY·313 | Barbarian Ring | Card Name">
         <source>Barbarian Ring</source>
@@ -3146,11 +3146,11 @@
       </trans-unit>
       <trans-unit id="1809361e-ae1a-4c47-8464-e6496e94d962" resname="ODY·313 | Barbarian Ring | Card Text | Paragraph 1">
         <source>{T}: Add {R}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">横置：加红到你的法术力池中。蛮族决斗擂台对你造成1点伤害。</target>
+        <target state="translated">横置：加红到你的法术力池中。CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="1809361e-ae1a-4c47-8464-e6496e94d962" resname="ODY·313 | Barbarian Ring | Card Text | Paragraph 2">
         <source>Threshold — {R}, {T}, Sacrifice CARDNAME: It deals 2 damage to any target. Activate only if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～红，横置，牺牲蛮族决斗擂台：蛮族决斗擂台对目标生物或牌手造成2点伤害。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
+        <target state="translated">门槛～红，横置，牺牲CARDNAME：CARDNAME对目标生物或牌手造成2点伤害。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
       </trans-unit>
       <trans-unit id="189b4925-b34b-43bd-869e-1b1db99450e6" resname="ODY·314 | Bog Wreckage | Card Name">
         <source>Bog Wreckage</source>
@@ -3158,7 +3158,7 @@
       </trans-unit>
       <trans-unit id="189b4925-b34b-43bd-869e-1b1db99450e6" resname="ODY·314 | Bog Wreckage | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">腐沼残迹须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="189b4925-b34b-43bd-869e-1b1db99450e6" resname="ODY·314 | Bog Wreckage | Card Text | Paragraph 2">
         <source>{T}: Add {B}.</source>
@@ -3166,7 +3166,7 @@
       </trans-unit>
       <trans-unit id="189b4925-b34b-43bd-869e-1b1db99450e6" resname="ODY·314 | Bog Wreckage | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add one mana of any color.</source>
-        <target state="translated">横置，牺牲腐沼残迹：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">横置，牺牲CARDNAME：加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="848d686a-e2f7-488d-947f-a555099b74b1" resname="ODY·315 | Cabal Pit | Card Name">
         <source>Cabal Pit</source>
@@ -3174,11 +3174,11 @@
       </trans-unit>
       <trans-unit id="848d686a-e2f7-488d-947f-a555099b74b1" resname="ODY·315 | Cabal Pit | Card Text | Paragraph 1">
         <source>{T}: Add {B}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">横置：加黑到你的法术力池中。柯帮死斗坑对你造成1点伤害。</target>
+        <target state="translated">横置：加黑到你的法术力池中。CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="848d686a-e2f7-488d-947f-a555099b74b1" resname="ODY·315 | Cabal Pit | Card Text | Paragraph 2">
         <source>Threshold — {B}, {T}, Sacrifice CARDNAME: Target creature gets -2/-2 until end of turn. Activate only if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～黑，横置，牺牲柯帮死斗坑：目标生物得-2/-2直到回合结束。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
+        <target state="translated">门槛～黑，横置，牺牲CARDNAME：目标生物得-2/-2直到回合结束。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
       </trans-unit>
       <trans-unit id="ca041d5e-c65f-4e7e-ae4f-9c748a069aa3" resname="ODY·316 | Centaur Garden | Card Name">
         <source>Centaur Garden</source>
@@ -3186,11 +3186,11 @@
       </trans-unit>
       <trans-unit id="ca041d5e-c65f-4e7e-ae4f-9c748a069aa3" resname="ODY·316 | Centaur Garden | Card Text | Paragraph 1">
         <source>{T}: Add {G}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">横置：加绿到你的法术力池中。半人马技击花园对你造成1点伤害。</target>
+        <target state="translated">横置：加绿到你的法术力池中。CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="ca041d5e-c65f-4e7e-ae4f-9c748a069aa3" resname="ODY·316 | Centaur Garden | Card Text | Paragraph 2">
         <source>Threshold — {G}, {T}, Sacrifice CARDNAME: Target creature gets +3/+3 until end of turn. Activate only if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～绿，横置，牺牲半人马技击花园：目标生物得+3/+3直到回合结束。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
+        <target state="translated">门槛～绿，横置，牺牲CARDNAME：目标生物得+3/+3直到回合结束。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
       </trans-unit>
       <trans-unit id="d5d74112-7244-4c3f-a5eb-b6be671aefe8" resname="ODY·317 | Cephalid Coliseum | Card Name">
         <source>Cephalid Coliseum</source>
@@ -3198,11 +3198,11 @@
       </trans-unit>
       <trans-unit id="d5d74112-7244-4c3f-a5eb-b6be671aefe8" resname="ODY·317 | Cephalid Coliseum | Card Text | Paragraph 1">
         <source>{T}: Add {U}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">cT：加蓝到你的法术力池中。𫠒人竞技场对你造成1点伤害。</target>
+        <target state="translated">cT：加蓝到你的法术力池中。CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="d5d74112-7244-4c3f-a5eb-b6be671aefe8" resname="ODY·317 | Cephalid Coliseum | Card Text | Paragraph 2">
         <source>Threshold — {U}, {T}, Sacrifice CARDNAME: Target player draws three cards, then discards three cards. Activate only if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～蓝，横置，牺牲𫠒人竞技场：目标牌手抓三张牌，然后从他手上弃掉三张牌。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
+        <target state="translated">门槛～蓝，横置，牺牲CARDNAME：目标牌手抓三张牌，然后从他手上弃掉三张牌。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
       </trans-unit>
       <trans-unit id="1012124a-5401-4bd1-a163-4633d934938f" resname="ODY·318 | Crystal Quarry | Card Name">
         <source>Crystal Quarry</source>
@@ -3260,11 +3260,11 @@
       </trans-unit>
       <trans-unit id="64300b71-050f-47a3-83be-f24480bdc01d" resname="ODY·322 | Nomad Stadium | Card Text | Paragraph 1">
         <source>{T}: Add {W}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">横置：加白到你的法术力池中。游牧人习武会场对你造成1点伤害。</target>
+        <target state="translated">横置：加白到你的法术力池中。CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="64300b71-050f-47a3-83be-f24480bdc01d" resname="ODY·322 | Nomad Stadium | Card Text | Paragraph 2">
         <source>Threshold — {W}, {T}, Sacrifice CARDNAME: You gain 4 life. Activate only if seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～白，横置，牺牲游牧人习武会场：你获得4点生命。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
+        <target state="translated">门槛～白，横置，牺牲CARDNAME：你获得4点生命。(你只可以于你的坟墓场中有七张或更多的牌时使用此异能。)</target>
       </trans-unit>
       <trans-unit id="eaeaf9f2-d196-4607-a704-06f2315d8cc5" resname="ODY·323 | Petrified Field | Card Name">
         <source>Petrified Field</source>
@@ -3276,7 +3276,7 @@
       </trans-unit>
       <trans-unit id="eaeaf9f2-d196-4607-a704-06f2315d8cc5" resname="ODY·323 | Petrified Field | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Return target land card from your graveyard to your hand.</source>
-        <target state="translated">横置，牺牲石化原野：将目标在你坟墓场中的地牌移回你手上。</target>
+        <target state="translated">横置，牺牲CARDNAME：将目标在你坟墓场中的地牌移回你手上。</target>
       </trans-unit>
       <trans-unit id="bb60ffc9-4919-40f2-bdd6-07eee6abf37c" resname="ODY·324 | Ravaged Highlands | Card Name">
         <source>Ravaged Highlands</source>
@@ -3284,7 +3284,7 @@
       </trans-unit>
       <trans-unit id="bb60ffc9-4919-40f2-bdd6-07eee6abf37c" resname="ODY·324 | Ravaged Highlands | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">坏灭高地须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="bb60ffc9-4919-40f2-bdd6-07eee6abf37c" resname="ODY·324 | Ravaged Highlands | Card Text | Paragraph 2">
         <source>{T}: Add {R}.</source>
@@ -3292,7 +3292,7 @@
       </trans-unit>
       <trans-unit id="bb60ffc9-4919-40f2-bdd6-07eee6abf37c" resname="ODY·324 | Ravaged Highlands | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add one mana of any color.</source>
-        <target state="translated">横置，牺牲坏灭高地：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">横置，牺牲CARDNAME：加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="9e492399-d514-485a-8cdd-a3797a05e47a" resname="ODY·325 | Seafloor Debris | Card Name">
         <source>Seafloor Debris</source>
@@ -3300,7 +3300,7 @@
       </trans-unit>
       <trans-unit id="9e492399-d514-485a-8cdd-a3797a05e47a" resname="ODY·325 | Seafloor Debris | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">海床废墟须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="9e492399-d514-485a-8cdd-a3797a05e47a" resname="ODY·325 | Seafloor Debris | Card Text | Paragraph 2">
         <source>{T}: Add {U}.</source>
@@ -3308,7 +3308,7 @@
       </trans-unit>
       <trans-unit id="9e492399-d514-485a-8cdd-a3797a05e47a" resname="ODY·325 | Seafloor Debris | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add one mana of any color.</source>
-        <target state="translated">横置，牺牲海床废墟：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">横置，牺牲CARDNAME：加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="69a5f84a-9e9b-42b6-a973-864409d6e564" resname="ODY·326 | Shadowblood Ridge | Card Name">
         <source>Shadowblood Ridge</source>
@@ -3350,7 +3350,7 @@
       </trans-unit>
       <trans-unit id="30375d24-ccfe-47a2-babd-1bda0a6298fe" resname="ODY·329 | Tarnished Citadel | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color. CARDNAME deals 3 damage to you.</source>
-        <target state="translated">横置：加一点任意颜色的法术力到你的法术力池中。黯光堡垒对你造成3点伤害。</target>
+        <target state="translated">横置：加一点任意颜色的法术力到你的法术力池中。CARDNAME对你造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="dd2e8770-c72b-439c-8f79-3aa24646cdd5" resname="ODY·330 | Timberland Ruins | Card Name">
         <source>Timberland Ruins</source>
@@ -3358,7 +3358,7 @@
       </trans-unit>
       <trans-unit id="dd2e8770-c72b-439c-8f79-3aa24646cdd5" resname="ODY·330 | Timberland Ruins | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">林场遗迹须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="dd2e8770-c72b-439c-8f79-3aa24646cdd5" resname="ODY·330 | Timberland Ruins | Card Text | Paragraph 2">
         <source>{T}: Add {G}.</source>
@@ -3366,7 +3366,7 @@
       </trans-unit>
       <trans-unit id="dd2e8770-c72b-439c-8f79-3aa24646cdd5" resname="ODY·330 | Timberland Ruins | Card Text | Paragraph 3">
         <source>{T}, Sacrifice CARDNAME: Add one mana of any color.</source>
-        <target state="translated">横置，牺牲林场遗迹：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">横置，牺牲CARDNAME：加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="8ec4eeb5-2f82-460c-8140-20587442d40b" resname="PODY·276 | Stone-Tongue Basilisk | Card Name">
         <source>Stone-Tongue Basilisk</source>
@@ -3375,12 +3375,12 @@
       </trans-unit>
       <trans-unit id="8ec4eeb5-2f82-460c-8140-20587442d40b" resname="PODY·276 | Stone-Tongue Basilisk | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a creature, destroy that creature at end of combat.</source>
-        <target state="translated">每当岩舌蜥怪对任何生物造成战斗伤害，在战斗结束时消灭该生物。</target>
+        <target state="translated">每当CARDNAME对任何生物造成战斗伤害，在战斗结束时消灭该生物。</target>
         <note xmlns:from="developer">中文数据来自ODY（2001-10-01）；</note>
       </trans-unit>
       <trans-unit id="8ec4eeb5-2f82-460c-8140-20587442d40b" resname="PODY·276 | Stone-Tongue Basilisk | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, all creatures able to block CARDNAME do so.</source>
-        <target state="translated">门槛～所有能够阻挡岩舌蜥怪的生物皆须阻挡之。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～所有能够阻挡CARDNAME的生物皆须阻挡之。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
         <note xmlns:from="developer">中文数据来自ODY（2001-10-01）；</note>
       </trans-unit>
     </body>

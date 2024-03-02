@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="3741e62a-4b86-46ff-a7df-a8ceaf3b9a0c" resname="BFZ·1 | Bane of Bala Ged | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, defending player exiles two permanents they control.</source>
-        <target state="translated">每当巴勒格灾祸攻击时，防御牌手放逐两个由他操控的永久物。</target>
+        <target state="translated">每当CARDNAME攻击时，防御牌手放逐两个由他操控的永久物。</target>
       </trans-unit>
       <trans-unit id="478c3a74-ff78-4041-8137-93356d370ece" resname="BFZ·2 | Blight Herder | Card Name">
         <source>Blight Herder</source>
@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="478c3a74-ff78-4041-8137-93356d370ece" resname="BFZ·2 | Blight Herder | Card Text | Paragraph 1">
         <source>When you cast this spell, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">当你施放枯萎牧体时，你可以将两张由对手拥有的牌从放逐区置入其拥有者的坟墓场。若你如此作，则将三个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{1}到你的法术力池中。」</target>
+        <target state="translated">当你施放CARDNAME时，你可以将两张由对手拥有的牌从放逐区置入其拥有者的坟墓场。若你如此作，则将三个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{1}到你的法术力池中。」</target>
       </trans-unit>
       <trans-unit id="784e843e-7010-466d-adbd-1dd1595aead1" resname="BFZ·3 | Breaker of Armies | Card Name">
         <source>Breaker of Armies</source>
@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="784e843e-7010-466d-adbd-1dd1595aead1" resname="BFZ·3 | Breaker of Armies | Card Text | Paragraph 1">
         <source>All creatures able to block CARDNAME do so.</source>
-        <target state="translated">所有能够阻挡灭军恶体的生物皆须阻挡之。</target>
+        <target state="translated">所有能够阻挡CARDNAME的生物皆须阻挡之。</target>
       </trans-unit>
       <trans-unit id="4bc855d3-817c-4748-a7f5-1533d8b0e930" resname="BFZ·4 | Conduit of Ruin | Card Name">
         <source>Conduit of Ruin</source>
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="4bc855d3-817c-4748-a7f5-1533d8b0e930" resname="BFZ·4 | Conduit of Ruin | Card Text | Paragraphs">
         <source>When you cast this spell, you may search your library for a colorless creature card with mana value 7 or greater, reveal it, then shuffle and put that card on top.\nThe first creature spell you cast each turn costs {2} less to cast.</source>
-        <target state="translated">当你施放崩毁恶体时，你可以从你的牌库中搜寻一张总法术力费用等于或大于7的无色生物牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上 。你每回合中第一个施放的生物咒语减少{2}来施放。</target>
+        <target state="translated">当你施放CARDNAME时，你可以从你的牌库中搜寻一张总法术力费用等于或大于7的无色生物牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上 。你每回合中第一个施放的生物咒语减少{2}来施放。</target>
       </trans-unit>
       <trans-unit id="0d98f1df-f99a-43c5-81cd-9d333226857a" resname="BFZ·5 | Deathless Behemoth | Card Name">
         <source>Deathless Behemoth</source>
@@ -40,7 +40,7 @@
       </trans-unit>
       <trans-unit id="0d98f1df-f99a-43c5-81cd-9d333226857a" resname="BFZ·5 | Deathless Behemoth | Card Text | Paragraphs">
         <source>Vigilance\nSacrifice two Eldrazi Scions: Return CARDNAME from your graveyard to your hand. Activate only as a sorcery.</source>
-        <target state="translated">警戒牺牲两个同时为奥札奇与孽裔的永久物：将不亡贝西摩斯从你的坟墓场移回你手上。只可以于你能施放法术的时机下起动此异能。</target>
+        <target state="translated">警戒牺牲两个同时为奥札奇与孽裔的永久物：将CARDNAME从你的坟墓场移回你手上。只可以于你能施放法术的时机下起动此异能。</target>
       </trans-unit>
       <trans-unit id="4d229d8d-5e64-4403-a4ae-a0a186a83935" resname="BFZ·6 | Desolation Twin | Card Name">
         <source>Desolation Twin</source>
@@ -66,7 +66,7 @@
       </trans-unit>
       <trans-unit id="64820f4f-1f78-4338-beb8-5ed5a447cfe4" resname="BFZ·8 | Endless One | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">无尽巨物进战场时上面有X个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="3d3e464c-3032-4579-8840-4fe75474e3fb" resname="BFZ·9 | Gruesome Slaughter | Card Name">
         <source>Gruesome Slaughter</source>
@@ -90,7 +90,7 @@
       </trans-unit>
       <trans-unit id="d997088b-f8f9-4e4c-ba64-aa7f43cc7505" resname="BFZ·12 | Ruin Processor | Card Text | Paragraph 1">
         <source>When you cast this spell, you may put a card an opponent owns from exile into that player's graveyard. If you do, you gain 5 life.</source>
-        <target state="translated">当你施放遗迹噬体时，你可以将一张由对手拥有的牌从放逐区置入该牌手的坟墓场。若你如此作，你获得5点生命。</target>
+        <target state="translated">当你施放CARDNAME时，你可以将一张由对手拥有的牌从放逐区置入该牌手的坟墓场。若你如此作，你获得5点生命。</target>
       </trans-unit>
       <trans-unit id="6e47edb2-e43d-479f-a911-e72b67a06c3b" resname="BFZ·13 | Scour from Existence | Card Name">
         <source>Scour from Existence</source>
@@ -132,7 +132,7 @@
       </trans-unit>
       <trans-unit id="1192f7a9-102e-4b3a-b154-18c8eb332217" resname="BFZ·15 | Ulamog, the Ceaseless Hunger | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, defending player exiles the top twenty cards of their library.</source>
-        <target state="translated">每当不休饥渴钨拉莫攻击时，防御牌手放逐其牌库顶的二十张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，防御牌手放逐其牌库顶的二十张牌。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="55b6b7f0-d7fc-46b6-99ff-ba8206ecd628" resname="BFZ·16 | Ulamog's Despoiler | Card Name">
@@ -141,7 +141,7 @@
       </trans-unit>
       <trans-unit id="55b6b7f0-d7fc-46b6-99ff-ba8206ecd628" resname="BFZ·16 | Ulamog's Despoiler | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, CARDNAME enters the battlefield with four +1/+1 counters on it.</source>
-        <target state="translated">于钨拉莫掠夺体进战场时，你可以将两张由对手拥有的牌从放逐区置入其拥有者的坟墓场。若你如此作，则钨拉莫掠夺体进场时上面有四个+1/+1指示物。</target>
+        <target state="translated">于CARDNAME进战场时，你可以将两张由对手拥有的牌从放逐区置入其拥有者的坟墓场。若你如此作，则CARDNAME进场时上面有四个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="8cbedb0a-34ca-4d42-bb43-cbea0f3c6d02" resname="BFZ·17 | Void Winnower | Card Name">
         <source>Void Winnower</source>
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="0f882ac2-3cbc-4548-8c83-d2a7443991df" resname="BFZ·18 | Angel of Renewal | Card Text | Paragraphs">
         <source>Flying\nWhen CARDNAME enters the battlefield, you gain 1 life for each creature you control.</source>
-        <target state="translated">飞行当新机天使进战场时，你每操控一个生物，便获得1点生命。</target>
+        <target state="translated">飞行当CARDNAME进战场时，你每操控一个生物，便获得1点生命。</target>
       </trans-unit>
       <trans-unit id="4941246b-7d6a-4b2d-8144-f36ac890a389" resname="BFZ·19 | Angelic Gift | Card Name">
         <source>Angelic Gift</source>
@@ -171,7 +171,7 @@
       </trans-unit>
       <trans-unit id="4941246b-7d6a-4b2d-8144-f36ac890a389" resname="BFZ·19 | Angelic Gift | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当天使赋礼进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自AFC（2021-07-23）；</note>
       </trans-unit>
       <trans-unit id="4941246b-7d6a-4b2d-8144-f36ac890a389" resname="BFZ·19 | Angelic Gift | Card Text | Paragraph 3">
@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="4d3afc71-f5db-45c3-96b2-8454b7f33542" resname="BFZ·21 | Courier Griffin | Card Text | Paragraphs">
         <source>Flying\nWhen CARDNAME enters the battlefield, you gain 2 life.</source>
-        <target state="translated">飞行当讯使狮鹫进战场时，你获得2点生命。</target>
+        <target state="translated">飞行当CARDNAME进战场时，你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="7c366f25-93c7-4088-88a4-64d3ee18a89a" resname="BFZ·22 | Emeria Shepherd | Card Name">
         <source>Emeria Shepherd</source>
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="ea76a183-e15c-4968-b29d-91c074aa8681" resname="BFZ·25 | Felidar Cub | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Destroy target enchantment.</source>
-        <target state="translated">牺牲晶角幼兽：消灭目标结界。</target>
+        <target state="translated">牺牲CARDNAME：消灭目标结界。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="5095e2ab-a7f5-45bc-8b2f-31198ea27bba" resname="BFZ·27 | Fortified Rampart | Card Name">
@@ -254,7 +254,7 @@
       </trans-unit>
       <trans-unit id="187e887c-c39d-4d25-a506-cdc95fc70316" resname="BFZ·29 | Gideon, Ally of Zendikar | Card Text | Paragraphs">
         <source>[+1]: Until end of turn, CARDNAME becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.\n[0]: Create a 2/2 white Knight Ally creature token.\n[−4]: You get an emblem with &amp;quot;Creatures you control get +1/+1.&amp;quot;</source>
-        <target state="translated">+1：直到回合结束，赞迪卡伙伴基定成为5/5，具不灭异能的人类／士兵／伙伴生物，且仍然是鹏洛客。防止本回合中将对他造成的所有伤害。0：将一个2/2白色骑士／伙伴衍生生物放进战场。−4：你获得具有「由你操控的生物得+1/+1」的徽记。</target>
+        <target state="translated">+1：直到回合结束，CARDNAME成为5/5，具不灭异能的人类／士兵／伙伴生物，且仍然是鹏洛客。防止本回合中将对他造成的所有伤害。0：将一个2/2白色骑士／伙伴衍生生物放进战场。−4：你获得具有「由你操控的生物得+1/+1」的徽记。</target>
       </trans-unit>
       <trans-unit id="453d8ec3-15ae-4851-9efb-161ca2ee6019" resname="BFZ·30 | Gideon's Reproach | Card Name">
         <source>Gideon's Reproach</source>
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="453d8ec3-15ae-4851-9efb-161ca2ee6019" resname="BFZ·30 | Gideon's Reproach | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target attacking or blocking creature.</source>
-        <target state="translated">基定的怒责对目标进行攻击或阻挡的生物造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标进行攻击或阻挡的生物造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自DOM（2018-04-27）；</note>
       </trans-unit>
       <trans-unit id="4ca3400c-0687-4a92-9236-f5a0d7eae337" resname="BFZ·31 | Hero of Goma Fada | Card Name">
@@ -272,7 +272,7 @@
       </trans-unit>
       <trans-unit id="4ca3400c-0687-4a92-9236-f5a0d7eae337" resname="BFZ·31 | Hero of Goma Fada | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, creatures you control gain indestructible until end of turn.</source>
-        <target state="translated">奋扬～每当哥马法达勇士或另一个伙伴在你的操控下进战场时，由你操控的生物获得不灭异能直到回合结束。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，由你操控的生物获得不灭异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="68a07aad-4ed5-47ae-b04c-9b9919000f6c" resname="BFZ·33 | Kitesail Scout | Card Name">
         <source>Kitesail Scout</source>
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="e31b12c7-df11-4450-95e1-b9a5aa97af0e" resname="BFZ·34 | Kor Bladewhirl | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, creatures you control gain first strike until end of turn.</source>
-        <target state="translated">奋扬～每当旋刃寇族或另一个伙伴在你的操控下进战场时，由你操控的生物获得先攻异能直到回合结束。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，由你操控的生物获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f4db2f0e-d7d4-417b-9b94-5ade727907e9" resname="BFZ·35 | Kor Castigator | Card Name">
         <source>Kor Castigator</source>
@@ -296,7 +296,7 @@
       </trans-unit>
       <trans-unit id="f4db2f0e-d7d4-417b-9b94-5ade727907e9" resname="BFZ·35 | Kor Castigator | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by Eldrazi Scions.</source>
-        <target state="translated">惩恶寇族不能被同时为奥札奇与孽裔之生物阻挡。</target>
+        <target state="translated">CARDNAME不能被同时为奥札奇与孽裔之生物阻挡。</target>
       </trans-unit>
       <trans-unit id="0039ead5-2afa-49d6-ae4a-45ae2118188a" resname="BFZ·36 | Kor Entanglers | Card Name">
         <source>Kor Entanglers</source>
@@ -304,7 +304,7 @@
       </trans-unit>
       <trans-unit id="0039ead5-2afa-49d6-ae4a-45ae2118188a" resname="BFZ·36 | Kor Entanglers | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, tap target creature an opponent controls.</source>
-        <target state="translated">奋扬～每当缠绳寇族或另一个伙伴在你的操控下进战场时，横置目标由对手操控的生物。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，横置目标由对手操控的生物。</target>
       </trans-unit>
       <trans-unit id="fea3b271-226d-4223-8be8-51b5b2b7cae8" resname="BFZ·37 | Lantern Scout | Card Name">
         <source>Lantern Scout</source>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="fea3b271-226d-4223-8be8-51b5b2b7cae8" resname="BFZ·37 | Lantern Scout | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, creatures you control gain lifelink until end of turn.</source>
-        <target state="translated">奋扬～每当明灯斥候或另一个伙伴在你的操控下进战场时，由你操控的生物获得系命异能直到回合结束。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，由你操控的生物获得系命异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="dd5a1376-88b3-4bdc-9ce9-e90617e6c55e" resname="BFZ·38 | Lithomancer's Focus | Card Name">
         <source>Lithomancer's Focus</source>
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="ae03f018-3062-4b1c-99b8-13fcffd70b49" resname="BFZ·39 | Makindi Patrol | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, creatures you control gain vigilance until end of turn.</source>
-        <target state="translated">奋扬～每当马钦迪巡侦员或另一个伙伴在你的操控下进战场时，由你操控的生物获得警戒异能直到回合结束。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，由你操控的生物获得警戒异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="95d9668e-05dc-41c4-9326-ef4c0e15dd80" resname="BFZ·40 | Ondu Greathorn | Card Name">
         <source>Ondu Greathorn</source>
@@ -336,7 +336,7 @@
       </trans-unit>
       <trans-unit id="95d9668e-05dc-41c4-9326-ef4c0e15dd80" resname="BFZ·40 | Ondu Greathorn | Card Text | Paragraphs">
         <source>First strike\nLandfall — Whenever a land enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">先攻地落～每当一个地在你的操控下进战场时，昂度巨角兽得+2/+2直到回合结束。</target>
+        <target state="translated">先攻地落～每当一个地在你的操控下进战场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="07cb9f87-7ba4-408c-952d-fc9a7611df42" resname="BFZ·41 | Ondu Rising | Card Name">
         <source>Ondu Rising</source>
@@ -367,7 +367,7 @@
       </trans-unit>
       <trans-unit id="30c525ab-08d5-4d29-aef1-01b0c75ee8d9" resname="BFZ·43 | Quarantine Field | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield with X isolation counters on it.\nWhen CARDNAME enters the battlefield, for each isolation counter on it, exile up to one target nonland permanent an opponent controls until CARDNAME leaves the battlefield.</source>
-        <target state="translated">隔绝力场进战场时上面有X个隔离指示物。当隔绝力场进战场时，选择至多等同于其上隔离指示物数量之目标由对手操控的非地永久物。放逐这些永久物，直到隔绝力场离开战场为止。</target>
+        <target state="translated">CARDNAME进战场时上面有X个隔离指示物。当CARDNAME进战场时，选择至多等同于其上隔离指示物数量之目标由对手操控的非地永久物。放逐这些永久物，直到CARDNAME离开战场为止。</target>
       </trans-unit>
       <trans-unit id="4b65101f-808a-40b8-8864-ee84c00d2496" resname="BFZ·44 | Retreat to Emeria | Card Name">
         <source>Retreat to Emeria</source>
@@ -395,7 +395,7 @@
       </trans-unit>
       <trans-unit id="c0de575e-d955-48da-8fc8-05d7398bd261" resname="BFZ·45 | Roil's Retribution | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage divided as you choose among any number of target attacking or blocking creatures.</source>
-        <target state="translated">狂搅应报对任意数量目标进行攻击或阻挡的生物造成共5点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对任意数量目标进行攻击或阻挡的生物造成共5点伤害，你可以任意分配。</target>
       </trans-unit>
       <trans-unit id="702f5dd4-4dc7-4e2c-a30b-9286499433d8" resname="BFZ·46 | Serene Steward | Card Name">
         <source>Serene Steward</source>
@@ -421,7 +421,7 @@
       </trans-unit>
       <trans-unit id="ff820544-f4a3-40c4-a48e-84b5e2d06caa" resname="BFZ·50 | Stasis Snare | Card Text | Paragraphs">
         <source>Flash (You may cast this spell any time you could cast an instant.)\nWhen CARDNAME enters the battlefield, exile target creature an opponent controls until CARDNAME leaves the battlefield. (That creature returns under its owner's control.)</source>
-        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）当静态圈套进战场时，放逐目标由对手操控的生物，直到静态圈套离开战场为止。（该生物会在其拥有者的操控下移回。）</target>
+        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）当CARDNAME进战场时，放逐目标由对手操控的生物，直到CARDNAME离开战场为止。（该生物会在其拥有者的操控下移回。）</target>
       </trans-unit>
       <trans-unit id="3956563b-bde3-4aec-93fe-e03bade49458" resname="BFZ·51 | Stone Haven Medic | Card Name">
         <source>Stone Haven Medic</source>
@@ -447,7 +447,7 @@
       </trans-unit>
       <trans-unit id="53472387-6909-462e-8183-02fd1d45126e" resname="BFZ·53 | Unified Front | Card Text | Paragraph 1">
         <source>Converge — Create a 1/1 white Kor Ally creature token for each color of mana spent to cast this spell.</source>
-        <target state="translated">聚辉～施放联合阵线时用来支付费用的法术力中每有一种颜色，便将一个1/1白色寇族／伙伴衍生生物放进战场。</target>
+        <target state="translated">聚辉～施放CARDNAME时用来支付费用的法术力中每有一种颜色，便将一个1/1白色寇族／伙伴衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="03d86e0b-294f-41b8-a5cd-d3144a019334" resname="BFZ·54 | Adverse Conditions | Card Name">
         <source>Adverse Conditions</source>
@@ -463,7 +463,7 @@
       </trans-unit>
       <trans-unit id="f380ae58-08cc-42df-ac74-3c6890a62463" resname="BFZ·55 | Benthic Infiltrator | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\nCARDNAME can't be blocked.</source>
-        <target state="translated">虚色（此牌没有颜色。）摄食（每当此生物对任一牌手造成战斗伤害时，该牌手放逐其牌库顶牌。）深海渗透体不能被阻挡。</target>
+        <target state="translated">虚色（此牌没有颜色。）摄食（每当此生物对任一牌手造成战斗伤害时，该牌手放逐其牌库顶牌。）CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="ff2061f7-5e51-4862-9650-0005002d04b6" resname="BFZ·56 | Cryptic Cruiser | Card Name">
         <source>Cryptic Cruiser</source>
@@ -479,7 +479,7 @@
       </trans-unit>
       <trans-unit id="0fd5b48c-6850-47d4-8106-297be6c8f708" resname="BFZ·57 | Drowner of Hope | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhen CARDNAME enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;\nSacrifice an Eldrazi Scion: Tap target creature.</source>
-        <target state="translated">虚色（此牌没有颜色。）当绝望恶体进战场时，将两个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{1}到你的法术力池中。」牺牲一个同时为奥札奇与孽裔的永久物：横置目标生物。</target>
+        <target state="translated">虚色（此牌没有颜色。）当CARDNAME进战场时，将两个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{1}到你的法术力池中。」牺牲一个同时为奥札奇与孽裔的永久物：横置目标生物。</target>
       </trans-unit>
       <trans-unit id="9c9c1a10-446e-492a-95cc-a459dc6c08a0" resname="BFZ·58 | Eldrazi Skyspawner | Card Name">
         <source>Eldrazi Skyspawner</source>
@@ -487,7 +487,7 @@
       </trans-unit>
       <trans-unit id="9c9c1a10-446e-492a-95cc-a459dc6c08a0" resname="BFZ·58 | Eldrazi Skyspawner | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nFlying\nWhen CARDNAME enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">虚色（此牌没有颜色。）飞行当空孳奥札奇进战场时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」</target>
+        <target state="translated">虚色（此牌没有颜色。）飞行当CARDNAME进战场时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」</target>
       </trans-unit>
       <trans-unit id="4cd05532-686e-40dc-858b-8a77a3628c99" resname="BFZ·59 | Horribly Awry | Card Name">
         <source>Horribly Awry</source>
@@ -503,7 +503,7 @@
       </trans-unit>
       <trans-unit id="e0855762-7068-4111-a6bf-fe6d5b092c74" resname="BFZ·60 | Incubator Drone | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhen CARDNAME enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">虚色（此牌没有颜色。）当抚育奴兽进战场时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」</target>
+        <target state="translated">虚色（此牌没有颜色。）当CARDNAME进战场时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」</target>
       </trans-unit>
       <trans-unit id="f8c2e662-d8c3-44d4-b666-fe0d4a046271" resname="BFZ·61 | Mist Intruder | Card Name">
         <source>Mist Intruder</source>
@@ -519,7 +519,7 @@
       </trans-unit>
       <trans-unit id="130849ba-3893-490d-bfb0-51c76e53cf62" resname="BFZ·62 | Murk Strider | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhen CARDNAME enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target creature to its owner's hand.</source>
-        <target state="translated">虚色（此牌没有颜色。）当暗沼神行体进战场时，你可以将一张由对手拥有的牌从放逐区置入该玩家的坟墓场。若你如此作，则将目标生物移回其拥有者手上。</target>
+        <target state="translated">虚色（此牌没有颜色。）当CARDNAME进战场时，你可以将一张由对手拥有的牌从放逐区置入该玩家的坟墓场。若你如此作，则将目标生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="2c121d73-0c87-4a3f-b013-4f9314e22606" resname="BFZ·63 | Oracle of Dust | Card Name">
         <source>Oracle of Dust</source>
@@ -543,7 +543,7 @@
       </trans-unit>
       <trans-unit id="4b8ce2a9-9d8e-442b-bc12-74545ceb65bd" resname="BFZ·65 | Salvage Drone | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\nWhen CARDNAME dies, you may draw a card. If you do, discard a card.</source>
-        <target state="translated">虚色（此牌没有颜色。）摄食（每当此生物对任一牌手造成战斗伤害时，该牌手放逐其牌库顶牌。）当回收奴兽死去时，你可以抓一张牌。若你如此作，则弃一张牌。</target>
+        <target state="translated">虚色（此牌没有颜色。）摄食（每当此生物对任一牌手造成战斗伤害时，该牌手放逐其牌库顶牌。）当CARDNAME死去时，你可以抓一张牌。若你如此作，则弃一张牌。</target>
       </trans-unit>
       <trans-unit id="efa110cb-f091-48f0-bc62-80f5f18568e8" resname="BFZ·66 | Spell Shrivel | Card Name">
         <source>Spell Shrivel</source>
@@ -567,7 +567,7 @@
       </trans-unit>
       <trans-unit id="29a237a6-0e72-47ce-b28d-a0260963f406" resname="BFZ·68 | Ulamog's Reclaimer | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhen CARDNAME enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target instant or sorcery card from your graveyard to your hand.</source>
-        <target state="translated">虚色（此牌没有颜色。）当钨拉莫回收体进战场时，你可以将一张由对手拥有的牌从放逐区置入该牌手的坟墓场。若你如此作，则将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
+        <target state="translated">虚色（此牌没有颜色。）当CARDNAME进战场时，你可以将一张由对手拥有的牌从放逐区置入该牌手的坟墓场。若你如此作，则将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="1fc4013b-fb4f-4bbe-a15c-488f89545695" resname="BFZ·70 | Brilliant Spectrum | Card Name">
         <source>Brilliant Spectrum</source>
@@ -625,7 +625,7 @@
       </trans-unit>
       <trans-unit id="c35e9d13-ee4b-42f1-a154-18ab32947ad3" resname="BFZ·77 | Exert Influence | Card Text | Paragraph 1">
         <source>Converge — Gain control of target creature if its power is less than or equal to the number of colors of mana spent to cast this spell.</source>
-        <target state="translated">聚辉～如果目标生物的力量等于或小于施放加以感化时用来支付费用的法术力颜色数量，则获得该生物的操控权。</target>
+        <target state="translated">聚辉～如果目标生物的力量等于或小于施放CARDNAME时用来支付费用的法术力颜色数量，则获得该生物的操控权。</target>
       </trans-unit>
       <trans-unit id="5b55cf5e-4499-4e3a-9748-7b1568286b5a" resname="BFZ·78 | Guardian of Tazeem | Card Name">
         <source>Guardian of Tazeem</source>
@@ -641,7 +641,7 @@
       </trans-unit>
       <trans-unit id="dc3e3b18-bf00-4f1a-9918-9a0e9d75b747" resname="BFZ·79 | Halimar Tidecaller | Card Text | Paragraphs">
         <source>When CARDNAME enters the battlefield, you may return target card with awaken from your graveyard to your hand.\nLand creatures you control have flying.</source>
-        <target state="translated">当哈利玛唤潮师进战场时，你可以将目标具醒转异能的牌从你的坟墓场移回你手上。由你操控的地生物具有飞行异能。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标具醒转异能的牌从你的坟墓场移回你手上。由你操控的地生物具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="83fe992f-0441-42be-89f9-2387b4bc24ce" resname="BFZ·80 | Part the Waterveil | Card Name">
         <source>Part the Waterveil</source>
@@ -649,7 +649,7 @@
       </trans-unit>
       <trans-unit id="83fe992f-0441-42be-89f9-2387b4bc24ce" resname="BFZ·80 | Part the Waterveil | Card Text | Paragraphs">
         <source>Take an extra turn after this one. Exile CARDNAME.\nAwaken 6—{6}{U}{U}{U} (If you cast this spell for {6}{U}{U}{U}, also put six +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)</source>
-        <target state="translated">于本回合后进行额外的一个回合。放逐分开水帘。醒转6～{6}{U}{U}{U}（如果你支付{6}{U}{U}{U}来施放此咒语，则另在目标由你操控的地上放置六个+1/+1指示物，且它成为0/0，具敏捷异能的元素生物。它仍然是地。）</target>
+        <target state="translated">于本回合后进行额外的一个回合。放逐CARDNAME。醒转6～{6}{U}{U}{U}（如果你支付{6}{U}{U}{U}来施放此咒语，则另在目标由你操控的地上放置六个+1/+1指示物，且它成为0/0，具敏捷异能的元素生物。它仍然是地。）</target>
       </trans-unit>
       <trans-unit id="6e18c46d-dd6b-4feb-9eb3-3d52985ce6e1" resname="BFZ·81 | Prism Array | Card Name">
         <source>Prism Array</source>
@@ -657,7 +657,7 @@
       </trans-unit>
       <trans-unit id="6e18c46d-dd6b-4feb-9eb3-3d52985ce6e1" resname="BFZ·81 | Prism Array | Card Text | Paragraphs">
         <source>Converge — CARDNAME enters the battlefield with a crystal counter on it for each color of mana spent to cast it.\nRemove a crystal counter from CARDNAME: Tap target creature.\n{W}{U}{B}{R}{G}: Scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</source>
-        <target state="translated">聚辉～棱镜阵列进战场时上面有数个晶体指示物，其数量等同于施放棱镜阵列时用来支付费用的法术力颜色数量。从棱镜阵列上移去一个晶体指示物：横置目标生物。{W}{U}{B}{R}{G}：占卜3。（检视你牌库顶的三张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
+        <target state="translated">聚辉～CARDNAME进战场时上面有数个晶体指示物，其数量等同于施放CARDNAME时用来支付费用的法术力颜色数量。从CARDNAME上移去一个晶体指示物：横置目标生物。{W}{U}{B}{R}{G}：占卜3。（检视你牌库顶的三张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
       </trans-unit>
       <trans-unit id="68684c8e-dc19-4a56-b511-4e21140b137f" resname="BFZ·82 | Retreat to Coralhelm | Card Name">
         <source>Retreat to Coralhelm</source>
@@ -673,7 +673,7 @@
       </trans-unit>
       <trans-unit id="d2194713-c08c-4fba-8e31-bb67c9932173" resname="BFZ·83 | Roilmage's Trick | Card Text | Paragraphs">
         <source>Converge — Creatures your opponents control get -X/-0 until end of turn, where X is the number of colors of mana spent to cast this spell.\nDraw a card.</source>
-        <target state="translated">聚辉～由对手操控的生物得-X/-0直到回合结束，X为施放狂搅法师的巧计时用来支付费用的法术力颜色数量。抓一张牌。</target>
+        <target state="translated">聚辉～由对手操控的生物得-X/-0直到回合结束，X为施放CARDNAME时用来支付费用的法术力颜色数量。抓一张牌。</target>
       </trans-unit>
       <trans-unit id="f9ae6f63-d1b2-4bf9-a423-ed6fbb540d4b" resname="BFZ·84 | Rush of Ice | Card Name">
         <source>Rush of Ice</source>
@@ -713,7 +713,7 @@
       </trans-unit>
       <trans-unit id="11b45809-87fc-409d-942a-1f31f68d27ac" resname="BFZ·88 | Wave-Wing Elemental | Card Text | Paragraphs">
         <source>Flying\nLandfall — Whenever a land enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">飞行地落～每当一个地在你的操控下进战场时，浪翼元素得+2/+2直到回合结束。</target>
+        <target state="translated">飞行地落～每当一个地在你的操控下进战场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4ac7b904-7658-4248-a75c-b3a862bde196" resname="BFZ·89 | Windrider Patrol | Card Name">
         <source>Windrider Patrol</source>
@@ -727,7 +727,7 @@
       </trans-unit>
       <trans-unit id="4ac7b904-7658-4248-a75c-b3a862bde196" resname="BFZ·89 | Windrider Patrol | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</source>
-        <target state="translated">每当御风巡卫对任一牌手造成战斗伤害时，占卜2。（检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，占卜2。（检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="7d94e878-6c49-4420-9d34-f9ee64e811ba" resname="BFZ·90 | Complete Disregard | Card Name">
@@ -768,7 +768,7 @@
       </trans-unit>
       <trans-unit id="a4d07fea-e16a-45e3-a172-9d726cd42769" resname="BFZ·95 | Mind Raker | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhen CARDNAME enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, each opponent discards a card.</source>
-        <target state="translated">虚色（此牌没有颜色。）当掠灵恶体进战场时，你可以将一张由对手拥有的牌从放逐区置入该牌手的坟墓场。若你如此作，则每位对手各弃一张牌。</target>
+        <target state="translated">虚色（此牌没有颜色。）当CARDNAME进战场时，你可以将一张由对手拥有的牌从放逐区置入该牌手的坟墓场。若你如此作，则每位对手各弃一张牌。</target>
       </trans-unit>
       <trans-unit id="9b715fc0-9c36-4619-8d65-6d1064ed8a32" resname="BFZ·96 | Silent Skimmer | Card Name">
         <source>Silent Skimmer</source>
@@ -776,7 +776,7 @@
       </trans-unit>
       <trans-unit id="9b715fc0-9c36-4619-8d65-6d1064ed8a32" resname="BFZ·96 | Silent Skimmer | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nFlying\nWhenever CARDNAME attacks, defending player loses 2 life.</source>
-        <target state="translated">虚色（此牌没有颜色。）飞行每当寂静飞掠体攻击时，防御牌手失去2点生命。</target>
+        <target state="translated">虚色（此牌没有颜色。）飞行每当CARDNAME攻击时，防御牌手失去2点生命。</target>
       </trans-unit>
       <trans-unit id="e3cbecdc-bc30-4797-bf6f-a7a61db05b48" resname="BFZ·97 | Skitterskin | Card Name">
         <source>Skitterskin</source>
@@ -784,7 +784,7 @@
       </trans-unit>
       <trans-unit id="e3cbecdc-bc30-4797-bf6f-a7a61db05b48" resname="BFZ·97 | Skitterskin | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nCARDNAME can't block.\n{1}{B}: Regenerate CARDNAME. Activate only if you control another colorless creature.</source>
-        <target state="translated">虚色（此牌没有颜色。）掠皮恶体不能进行阻挡。{1}{B}：重生掠皮恶体。只能于你操控另一个无色生物时起动此异能。</target>
+        <target state="translated">虚色（此牌没有颜色。）CARDNAME不能进行阻挡。{1}{B}：重生CARDNAME。只能于你操控另一个无色生物时起动此异能。</target>
       </trans-unit>
       <trans-unit id="9782b463-0677-40f4-ab2c-4c3ff19f1168" resname="BFZ·98 | Sludge Crawler | Card Name">
         <source>Sludge Crawler</source>
@@ -792,7 +792,7 @@
       </trans-unit>
       <trans-unit id="9782b463-0677-40f4-ab2c-4c3ff19f1168" resname="BFZ·98 | Sludge Crawler | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)\n{2}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">虚色（此牌没有颜色。）摄食（每当此生物对任一牌手造成战斗伤害时，该牌手放逐其牌库顶牌。）{2}：泥泞匍体得+1/+1直到回合结束。</target>
+        <target state="translated">虚色（此牌没有颜色。）摄食（每当此生物对任一牌手造成战斗伤害时，该牌手放逐其牌库顶牌。）{2}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="cd81d0de-01a3-4f28-8a2b-c2e6f36a03c4" resname="BFZ·99 | Smothering Abomination | Card Name">
         <source>Smothering Abomination</source>
@@ -824,7 +824,7 @@
       </trans-unit>
       <trans-unit id="5e215ab0-efd6-4ea2-8bd2-0a93865e1e3c" resname="BFZ·102 | Wasteland Strangler | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhen CARDNAME enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, target creature gets -3/-3 until end of turn.</source>
-        <target state="translated">虚色（此牌没有颜色。）当荒原绞杀体进战场时，你可以将一张由对手拥有的牌从放逐区置入该牌手的坟墓场。若你如此作，则目标生物得-3/-3直到回合结束。</target>
+        <target state="translated">虚色（此牌没有颜色。）当CARDNAME进战场时，你可以将一张由对手拥有的牌从放逐区置入该牌手的坟墓场。若你如此作，则目标生物得-3/-3直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ca31ce70-24c5-4fb2-8d88-c9ffa8474c8f" resname="BFZ·104 | Bloodbond Vampire | Card Name">
         <source>Bloodbond Vampire</source>
@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="ca31ce70-24c5-4fb2-8d88-c9ffa8474c8f" resname="BFZ·104 | Bloodbond Vampire | Card Text | Paragraph 1">
         <source>Whenever you gain life, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你获得生命时，在生脉吸血鬼上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你获得生命时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="bd2ab895-9225-4eba-90c3-4023db4f8b70" resname="BFZ·106 | Carrier Thrall | Card Name">
@@ -843,7 +843,7 @@
       </trans-unit>
       <trans-unit id="bd2ab895-9225-4eba-90c3-4023db4f8b70" resname="BFZ·106 | Carrier Thrall | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a 1/1 colorless Eldrazi Scion creature token. It has &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">当带原鬼卒死去时，派出一个1/1无色奥札奇／孽裔衍生生物。它具有「牺牲此生物：加{C}。」</target>
+        <target state="translated">当CARDNAME死去时，派出一个1/1无色奥札奇／孽裔衍生生物。它具有「牺牲此生物：加{C}。」</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="a4b5dd64-9e58-4f22-9d86-7a518d976037" resname="BFZ·107 | Defiant Bloodlord | Card Name">
@@ -883,7 +883,7 @@
       </trans-unit>
       <trans-unit id="d3f6ed18-eb6f-4d07-8660-cf7c074c87cd" resname="BFZ·109 | Drana, Liberator of Malakir | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, put a +1/+1 counter on each attacking creature you control.</source>
-        <target state="translated">每当马拉奇解放者哲娜对任一牌手造成战斗伤害时，在每个由你操控且正进行攻击的生物上各放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，在每个由你操控且正进行攻击的生物上各放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="d4d1e1e1-fa24-4e78-a77c-4d41a58b8aa0" resname="BFZ·111 | Geyserfield Stalker | Card Name">
@@ -892,7 +892,7 @@
       </trans-unit>
       <trans-unit id="d4d1e1e1-fa24-4e78-a77c-4d41a58b8aa0" resname="BFZ·111 | Geyserfield Stalker | Card Text | Paragraphs">
         <source>Menace (This creature can't be blocked except by two or more creatures.)\nLandfall — Whenever a land enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">威慑（此生物只能被两个或更多生物阻挡。）地落～每当一个地在你的操控下进战场时，热泉原伏击客得+2/+2直到回合结束。</target>
+        <target state="translated">威慑（此生物只能被两个或更多生物阻挡。）地落～每当一个地在你的操控下进战场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="793bb4e0-8fdd-440e-9e6e-92a899794cae" resname="BFZ·112 | Guul Draz Overseer | Card Name">
         <source>Guul Draz Overseer</source>
@@ -916,7 +916,7 @@
       </trans-unit>
       <trans-unit id="42c21cb3-21f4-4a8d-8068-52649f2a1846" resname="BFZ·114 | Kalastria Healer | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.</source>
-        <target state="translated">奋扬～每当卡列奇治疗师或另一个伙伴在你的操控下进战场时，每位对手各失去1点生命且你获得1点生命。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，每位对手各失去1点生命且你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="13989bf2-fd02-4702-9170-4b066837de65" resname="BFZ·115 | Kalastria Nightwatch | Card Name">
         <source>Kalastria Nightwatch</source>
@@ -925,7 +925,7 @@
       </trans-unit>
       <trans-unit id="13989bf2-fd02-4702-9170-4b066837de65" resname="BFZ·115 | Kalastria Nightwatch | Card Text | Paragraph 1">
         <source>Whenever you gain life, CARDNAME gains flying until end of turn.</source>
-        <target state="translated">每当你获得生命时，卡列奇夜巡卫获得飞行异能直到回合结束。</target>
+        <target state="translated">每当你获得生命时，CARDNAME获得飞行异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="4f03b00a-f6d0-419a-abfd-fa8bc63226db" resname="BFZ·116 | Malakir Familiar | Card Name">
@@ -934,7 +934,7 @@
       </trans-unit>
       <trans-unit id="4f03b00a-f6d0-419a-abfd-fa8bc63226db" resname="BFZ·116 | Malakir Familiar | Card Text | Paragraphs">
         <source>Flying, deathtouch\nWhenever you gain life, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">飞行，死触每当你获得生命时，马拉奇佣兽得+1/+1直到回合结束。</target>
+        <target state="translated">飞行，死触每当你获得生命时，CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c2d737fb-fd09-4483-8128-8897cbcdc4f5" resname="BFZ·117 | Mire's Malice | Card Name">
         <source>Mire's Malice</source>
@@ -951,7 +951,7 @@
       </trans-unit>
       <trans-unit id="2ca43ea1-ba7b-4dc7-b6f6-a0c92321ebe1" resname="BFZ·118 | Nirkana Assassin | Card Text | Paragraph 1">
         <source>Whenever you gain life, CARDNAME gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)</source>
-        <target state="translated">每当你获得生命时，涅卡那杀手获得死触异能直到回合结束。</target>
+        <target state="translated">每当你获得生命时，CARDNAME获得死触异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="53b2d6e9-2a43-4ebe-9ae8-944375b46cce" resname="BFZ·119 | Ob Nixilis Reignited | Card Name">
@@ -1024,7 +1024,7 @@
       </trans-unit>
       <trans-unit id="74364056-f4ee-46d3-834d-a5157ec312b9" resname="BFZ·125 | Voracious Null | Card Text | Paragraph 1">
         <source>{1}{B}, Sacrifice another creature: Put two +1/+1 counters on CARDNAME. Activate only as a sorcery.</source>
-        <target state="translated">{1}{B}，牺牲另一个生物：在贪餍躯壳上放置两个+1/+1指示物。只可以于你能施放法术的时机下起动此异能。</target>
+        <target state="translated">{1}{B}，牺牲另一个生物：在CARDNAME上放置两个+1/+1指示物。只可以于你能施放法术的时机下起动此异能。</target>
       </trans-unit>
       <trans-unit id="5c963d97-c948-45d9-84cc-58e246d35970" resname="BFZ·126 | Zulaport Cutthroat | Card Name">
         <source>Zulaport Cutthroat</source>
@@ -1033,7 +1033,7 @@
       </trans-unit>
       <trans-unit id="5c963d97-c948-45d9-84cc-58e246d35970" resname="BFZ·126 | Zulaport Cutthroat | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another creature you control dies, each opponent loses 1 life and you gain 1 life.</source>
-        <target state="translated">每当筑拉波割喉客或另一个由你操控的生物死去时，每位对手各失去1点生命，且你获得1点生命。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的生物死去时，每位对手各失去1点生命，且你获得1点生命。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="08a83120-c0c5-4277-acae-6ecb6f6bf3e1" resname="BFZ·127 | Barrage Tyrant | Card Name">
@@ -1042,7 +1042,7 @@
       </trans-unit>
       <trans-unit id="08a83120-c0c5-4277-acae-6ecb6f6bf3e1" resname="BFZ·127 | Barrage Tyrant | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\n{2}{R}, Sacrifice another colorless creature: CARDNAME deals damage equal to the sacrificed creature's power to any target.</source>
-        <target state="translated">虚色（此牌没有颜色。）{2}{R}，牺牲另一个无色生物：猛掷暴君对目标生物或牌手造成伤害，其数量等同于所牺牲之生物的力量。</target>
+        <target state="translated">虚色（此牌没有颜色。）{2}{R}，牺牲另一个无色生物：CARDNAME对目标生物或牌手造成伤害，其数量等同于所牺牲之生物的力量。</target>
       </trans-unit>
       <trans-unit id="63352c11-807d-4878-a975-02ef451c3184" resname="BFZ·128 | Crumble to Dust | Card Name">
         <source>Crumble to Dust</source>
@@ -1058,7 +1058,7 @@
       </trans-unit>
       <trans-unit id="786c6a0f-3f75-45ff-aae9-5c866be279d0" resname="BFZ·129 | Kozilek's Sentinel | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhenever you cast a colorless spell, CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">虚色（此牌没有颜色。）每当你施放无色咒语时，寇基雷哨兵得+1/+0直到回合结束。</target>
+        <target state="translated">虚色（此牌没有颜色。）每当你施放无色咒语时，CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="3db8aaf5-e2bf-40ea-bd5d-663017cfd4a6" resname="BFZ·130 | Molten Nursery | Card Name">
         <source>Molten Nursery</source>
@@ -1066,7 +1066,7 @@
       </trans-unit>
       <trans-unit id="3db8aaf5-e2bf-40ea-bd5d-663017cfd4a6" resname="BFZ·130 | Molten Nursery | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhenever you cast a colorless spell, CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">虚色（此牌没有颜色。）每当你施放无色咒语时，热融滋生对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">虚色（此牌没有颜色。）每当你施放无色咒语时，CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="e633833a-cc4b-4c8c-a0d3-cd263e09df81" resname="BFZ·131 | Nettle Drone | Card Name">
         <source>Nettle Drone</source>
@@ -1074,7 +1074,7 @@
       </trans-unit>
       <trans-unit id="e633833a-cc4b-4c8c-a0d3-cd263e09df81" resname="BFZ·131 | Nettle Drone | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\n{T}: CARDNAME deals 1 damage to each opponent.\nWhenever you cast a colorless spell, untap CARDNAME.</source>
-        <target state="translated">虚色（此牌没有颜色。）{T}：荨麻奴兽向每位对手各造成1点伤害。每当你施放无色咒语时，重置荨麻奴兽。</target>
+        <target state="translated">虚色（此牌没有颜色。）{T}：CARDNAME向每位对手各造成1点伤害。每当你施放无色咒语时，重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="5a689975-d27b-4b8f-8d46-6e97c754ae81" resname="BFZ·132 | Processor Assault | Card Name">
         <source>Processor Assault</source>
@@ -1082,7 +1082,7 @@
       </trans-unit>
       <trans-unit id="5a689975-d27b-4b8f-8d46-6e97c754ae81" resname="BFZ·132 | Processor Assault | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nAs an additional cost to cast this spell, put a card an opponent owns from exile into that player's graveyard.\nCARDNAME deals 5 damage to target creature.</source>
-        <target state="translated">虚色（此牌没有颜色。）将一张由对手拥有的牌从放逐区置入该牌手的坟墓场，以作为施放噬体突袭的额外费用。噬体突袭对目标生物造成5点伤害。</target>
+        <target state="translated">虚色（此牌没有颜色。）将一张由对手拥有的牌从放逐区置入该牌手的坟墓场，以作为施放CARDNAME的额外费用。CARDNAME对目标生物造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="53222f33-6d18-4008-a38d-6f7995691260" resname="BFZ·133 | Serpentine Spike | Card Name">
         <source>Serpentine Spike</source>
@@ -1090,7 +1090,7 @@
       </trans-unit>
       <trans-unit id="53222f33-6d18-4008-a38d-6f7995691260" resname="BFZ·133 | Serpentine Spike | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nCARDNAME deals 2 damage to target creature, 3 damage to another target creature, and 4 damage to a third target creature. If a creature dealt damage this way would die this turn, exile it instead.</source>
-        <target state="translated">虚色（此牌没有颜色。）盘曲穿刺对目标生物造成2点伤害，对另一个目标生物造成3点伤害，对第三个目标生物造成4点伤害。如果本回合中曾以此法受到伤害的生物将死去，则改为将它放逐。</target>
+        <target state="translated">虚色（此牌没有颜色。）CARDNAME对目标生物造成2点伤害，对另一个目标生物造成3点伤害，对第三个目标生物造成4点伤害。如果本回合中曾以此法受到伤害的生物将死去，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="006ead4a-dc57-4856-8e13-235ba55483e6" resname="BFZ·134 | Touch of the Void | Card Name">
         <source>Touch of the Void</source>
@@ -1098,7 +1098,7 @@
       </trans-unit>
       <trans-unit id="006ead4a-dc57-4856-8e13-235ba55483e6" resname="BFZ·134 | Touch of the Void | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nCARDNAME deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.</source>
-        <target state="translated">虚色（此牌没有颜色。）虚空之触对目标生物或牌手造成3点伤害。如果本回合中曾以此法受到伤害的生物将死去，则改为将它放逐。</target>
+        <target state="translated">虚色（此牌没有颜色。）CARDNAME对目标生物或牌手造成3点伤害。如果本回合中曾以此法受到伤害的生物将死去，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="4de8ef35-f141-4bc6-8ea1-f87aa6f5ecd7" resname="BFZ·135 | Turn Against | Card Name">
         <source>Turn Against</source>
@@ -1122,7 +1122,7 @@
       </trans-unit>
       <trans-unit id="1ec66525-a7e9-450f-83df-03d9957837d5" resname="BFZ·137 | Vile Aggregate | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nCARDNAME's power is equal to the number of colorless creatures you control.\nTrample\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)</source>
-        <target state="translated">虚色（此牌没有颜色。）猛恶聚群体的力量等同于由你操控的无色生物数量。践踏摄食（每当此生物对任一牌手造成战斗伤害时，该牌手放逐其牌库顶牌。）</target>
+        <target state="translated">虚色（此牌没有颜色。）CARDNAME的力量等同于由你操控的无色生物数量。践踏摄食（每当此生物对任一牌手造成战斗伤害时，该牌手放逐其牌库顶牌。）</target>
       </trans-unit>
       <trans-unit id="304a2e4c-da2c-43fb-b44d-9db55ff94f04" resname="BFZ·138 | Akoum Firebird | Card Name">
         <source>Akoum Firebird</source>
@@ -1130,7 +1130,7 @@
       </trans-unit>
       <trans-unit id="304a2e4c-da2c-43fb-b44d-9db55ff94f04" resname="BFZ·138 | Akoum Firebird | Card Text | Paragraphs">
         <source>Flying, haste\nCARDNAME attacks each combat if able.\nLandfall — Whenever a land enters the battlefield under your control, you may pay {4}{R}{R}. If you do, return CARDNAME from your graveyard to the battlefield.</source>
-        <target state="translated">飞行，敏捷阿库姆火鸟每回合若能攻击，则必须攻击。地落～每当一个地在你的操控下进战场时，你可以支付{4}{R}{R}。若你如此作，则将阿库姆火鸟从你的坟墓场移回战场。</target>
+        <target state="translated">飞行，敏捷CARDNAME每回合若能攻击，则必须攻击。地落～每当一个地在你的操控下进战场时，你可以支付{4}{R}{R}。若你如此作，则将CARDNAME从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="ce837a65-a588-4b50-b298-f4ca37dbd06d" resname="BFZ·139 | Akoum Hellkite | Card Name">
         <source>Akoum Hellkite</source>
@@ -1138,7 +1138,7 @@
       </trans-unit>
       <trans-unit id="ce837a65-a588-4b50-b298-f4ca37dbd06d" resname="BFZ·139 | Akoum Hellkite | Card Text | Paragraphs">
         <source>Flying\nLandfall — Whenever a land enters the battlefield under your control, CARDNAME deals 1 damage to any target. If that land is a Mountain, CARDNAME deals 2 damage instead.</source>
-        <target state="translated">飞行地落～每当一个地在你的操控下进战场时，阿库姆残虐者对目标生物或牌手造成1点伤害。若该地是山脉，则改为阿库姆残虐者对该生物或牌手造成2点伤害。</target>
+        <target state="translated">飞行地落～每当一个地在你的操控下进战场时，CARDNAME对目标生物或牌手造成1点伤害。若该地是山脉，则改为CARDNAME对该生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="c92ab7b5-6a29-463e-b294-3cb0efaccddb" resname="BFZ·140 | Akoum Stonewaker | Card Name">
         <source>Akoum Stonewaker</source>
@@ -1154,7 +1154,7 @@
       </trans-unit>
       <trans-unit id="a5b5b7d2-acb8-4aca-b9e7-67e59aeb384b" resname="BFZ·141 | Belligerent Whiptail | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gains first strike until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，好斗鞭尾亚龙获得先攻异能直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="cdaab44c-4ce1-43fb-915c-c687fe8559ce" resname="BFZ·142 | Boiling Earth | Card Name">
         <source>Boiling Earth</source>
@@ -1162,7 +1162,7 @@
       </trans-unit>
       <trans-unit id="cdaab44c-4ce1-43fb-915c-c687fe8559ce" resname="BFZ·142 | Boiling Earth | Card Text | Paragraphs">
         <source>CARDNAME deals 1 damage to each creature your opponents control.\nAwaken 4—{6}{R} (If you cast this spell for {6}{R}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)</source>
-        <target state="translated">沸腾大地向由对手操控的每个生物各造成1点伤害。醒转4～{6}{R}（如果你支付{6}{R}来施放此咒语，则另在目标由你操控的地上放置四个+1/+1指示物，且它成为0/0，具敏捷异能的元素生物。它仍然是地。）</target>
+        <target state="translated">CARDNAME向由对手操控的每个生物各造成1点伤害。醒转4～{6}{R}（如果你支付{6}{R}来施放此咒语，则另在目标由你操控的地上放置四个+1/+1指示物，且它成为0/0，具敏捷异能的元素生物。它仍然是地。）</target>
       </trans-unit>
       <trans-unit id="fbd0fad7-264d-40fc-a616-a88dc94fa4d7" resname="BFZ·143 | Chasm Guide | Card Name">
         <source>Chasm Guide</source>
@@ -1170,7 +1170,7 @@
       </trans-unit>
       <trans-unit id="fbd0fad7-264d-40fc-a616-a88dc94fa4d7" resname="BFZ·143 | Chasm Guide | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, creatures you control gain haste until end of turn.</source>
-        <target state="translated">奋扬～每当深峡向导或另一个伙伴在你的操控下进战场时，由你操控的生物获得敏捷异能直到回合结束。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，由你操控的生物获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="197411bf-3307-4056-a7d4-31db0d4b8f9a" resname="BFZ·145 | Firemantle Mage | Card Name">
         <source>Firemantle Mage</source>
@@ -1178,7 +1178,7 @@
       </trans-unit>
       <trans-unit id="197411bf-3307-4056-a7d4-31db0d4b8f9a" resname="BFZ·145 | Firemantle Mage | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)</source>
-        <target state="translated">奋扬～每当焰篷法师或另一个伙伴在你的操控下进战场时，由你操控的生物获得威慑异能直到回合结束。（具威慑异能的生物只能被两个或更多生物阻挡。）</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，由你操控的生物获得威慑异能直到回合结束。（具威慑异能的生物只能被两个或更多生物阻挡。）</target>
       </trans-unit>
       <trans-unit id="2428f13f-c445-4eb4-bab1-309f27cab208" resname="BFZ·147 | Lavastep Raider | Card Name">
         <source>Lavastep Raider</source>
@@ -1187,7 +1187,7 @@
       </trans-unit>
       <trans-unit id="2428f13f-c445-4eb4-bab1-309f27cab208" resname="BFZ·147 | Lavastep Raider | Card Text | Paragraph 1">
         <source>{2}{R}: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">{2}{R}：熔足突击队得+2/+0直到回合结束。</target>
+        <target state="translated">{2}{R}：CARDNAME得+2/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="9e6da400-ee4e-44d1-887d-1e2fb59b9322" resname="BFZ·148 | Makindi Sliderunner | Card Name">
@@ -1196,7 +1196,7 @@
       </trans-unit>
       <trans-unit id="9e6da400-ee4e-44d1-887d-1e2fb59b9322" resname="BFZ·148 | Makindi Sliderunner | Card Text | Paragraphs">
         <source>Trample\nLandfall — Whenever a land enters the battlefield under your control, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">践踏地落～每当一个地在你的操控下进战场时，马钦迪崩袭兽得+1/+1直到回合结束。</target>
+        <target state="translated">践踏地落～每当一个地在你的操控下进战场时，CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="708e1979-902b-410a-ae46-3fd1d2acc31d" resname="BFZ·149 | Ondu Champion | Card Name">
         <source>Ondu Champion</source>
@@ -1204,7 +1204,7 @@
       </trans-unit>
       <trans-unit id="708e1979-902b-410a-ae46-3fd1d2acc31d" resname="BFZ·149 | Ondu Champion | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, creatures you control gain trample until end of turn.</source>
-        <target state="translated">奋扬～每当昂度斗士或另一个伙伴在你的操控下进战场时，由你操控的生物获得践踏异能直到回合结束。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，由你操控的生物获得践踏异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b3373281-7319-4320-8afb-4546fb55ab4c" resname="BFZ·150 | Outnumber | Card Name">
         <source>Outnumber</source>
@@ -1213,7 +1213,7 @@
       </trans-unit>
       <trans-unit id="b3373281-7319-4320-8afb-4546fb55ab4c" resname="BFZ·150 | Outnumber | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target creature equal to the number of creatures you control.</source>
-        <target state="translated">以量取胜对目标生物造成伤害，其数量等同于由你操控的生物数量。</target>
+        <target state="translated">CARDNAME对目标生物造成伤害，其数量等同于由你操控的生物数量。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="70f4fe69-c541-4320-9074-9c6a3bc70ea3" resname="BFZ·151 | Radiant Flames | Card Name">
@@ -1223,7 +1223,7 @@
       </trans-unit>
       <trans-unit id="70f4fe69-c541-4320-9074-9c6a3bc70ea3" resname="BFZ·151 | Radiant Flames | Card Text | Paragraph 1">
         <source>Converge — CARDNAME deals X damage to each creature, where X is the number of colors of mana spent to cast this spell.</source>
-        <target state="translated">聚辉～辉光火焰对每个生物各造成X点伤害，X为施放此咒语时用来支付费用的法术力颜色数量。</target>
+        <target state="translated">聚辉～CARDNAME对每个生物各造成X点伤害，X为施放此咒语时用来支付费用的法术力颜色数量。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="77a4cdec-e5fc-4ea8-a7bc-f1109fadae3c" resname="BFZ·152 | Reckless Cohort | Card Name">
@@ -1232,7 +1232,7 @@
       </trans-unit>
       <trans-unit id="77a4cdec-e5fc-4ea8-a7bc-f1109fadae3c" resname="BFZ·152 | Reckless Cohort | Card Text | Paragraph 1">
         <source>CARDNAME attacks each combat if able unless you control another Ally.</source>
-        <target state="translated">除非你操控另一个伙伴，否则鲁莽助拳人每次战斗若能攻击，则必须攻击。</target>
+        <target state="translated">除非你操控另一个伙伴，否则CARDNAME每次战斗若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="f7a9ce97-ef6d-468c-b389-8d19c76174c2" resname="BFZ·153 | Retreat to Valakut | Card Name">
         <source>Retreat to Valakut</source>
@@ -1257,7 +1257,7 @@
       </trans-unit>
       <trans-unit id="6aa37f74-50dd-4013-b48a-c33f1dbfb3e1" resname="BFZ·156 | Stonefury | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target creature equal to the number of lands you control.</source>
-        <target state="translated">岩石暴怒对目标生物造成伤害，其数量等同于由你操控的地之数量。</target>
+        <target state="translated">CARDNAME对目标生物造成伤害，其数量等同于由你操控的地之数量。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="074dd176-4608-42ca-8fc3-c7040cd7b32e" resname="BFZ·157 | Sure Strike | Card Name">
@@ -1276,7 +1276,7 @@
       </trans-unit>
       <trans-unit id="d4071152-5e64-4133-88a2-8fa5cb0eeb6c" resname="BFZ·158 | Tunneling Geopede | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME deals 1 damage to each opponent.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，掘隧地蜈蚣向每位对手各造成1点伤害。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME向每位对手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="178c66b8-c577-49c6-9efc-7bab740e66b6" resname="BFZ·159 | Valakut Invoker | Card Name">
         <source>Valakut Invoker</source>
@@ -1285,7 +1285,7 @@
       </trans-unit>
       <trans-unit id="178c66b8-c577-49c6-9efc-7bab740e66b6" resname="BFZ·159 | Valakut Invoker | Card Text | Paragraph 1">
         <source>{8}: CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">{8}：瓦拉库召现师对任意一个目标造成3点伤害。</target>
+        <target state="translated">{8}：CARDNAME对任意一个目标造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="88318272-8192-4d6d-a22a-eca87abb480d" resname="BFZ·160 | Valakut Predator | Card Name">
@@ -1294,7 +1294,7 @@
       </trans-unit>
       <trans-unit id="88318272-8192-4d6d-a22a-eca87abb480d" resname="BFZ·160 | Valakut Predator | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，瓦拉库掠食者得+2/+2直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8d90bd68-0521-4db3-b590-a4e007da9f2e" resname="BFZ·161 | Volcanic Upheaval | Card Name">
         <source>Volcanic Upheaval</source>
@@ -1311,7 +1311,7 @@
       </trans-unit>
       <trans-unit id="fc0969f1-92a0-47c3-8eff-d106fbef2f7e" resname="BFZ·162 | Zada, Hedron Grinder | Card Text | Paragraph 1">
         <source>Whenever you cast an instant or sorcery spell that targets only CARDNAME, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures.</source>
-        <target state="translated">每当你施放仅以晶石磨工查妲为目标的瞬间或法术咒语时，该咒语每能以一个由你操控的其他生物为目标，便将该咒语复制一次。每个复制品都要以这些生物之一为目标，且不能重复选择。</target>
+        <target state="translated">每当你施放仅以CARDNAME为目标的瞬间或法术咒语时，该咒语每能以一个由你操控的其他生物为目标，便将该咒语复制一次。每个复制品都要以这些生物之一为目标，且不能重复选择。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="e16f1803-634a-41b0-ae21-484d6f914a0d" resname="BFZ·163 | Blisterpod | Card Name">
@@ -1326,7 +1326,7 @@
       </trans-unit>
       <trans-unit id="e16f1803-634a-41b0-ae21-484d6f914a0d" resname="BFZ·163 | Blisterpod | Card Text | Paragraph 2">
         <source>When CARDNAME dies, create a 1/1 colorless Eldrazi Scion creature token. It has &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">当迅孳种死去时，派出一个1/1无色奥札奇／孽裔衍生生物。它具有「牺牲此生物：加{C}。」</target>
+        <target state="translated">当CARDNAME死去时，派出一个1/1无色奥札奇／孽裔衍生生物。它具有「牺牲此生物：加{C}。」</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="ea7d4a49-8681-4f95-8718-96648bf73c39" resname="BFZ·164 | Brood Monitor | Card Name">
@@ -1341,7 +1341,7 @@
       </trans-unit>
       <trans-unit id="ea7d4a49-8681-4f95-8718-96648bf73c39" resname="BFZ·164 | Brood Monitor | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create three 1/1 colorless Eldrazi Scion creature tokens. They have &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">当孳巢监卫进战场时，派出三个1/1无色奥札奇／孽裔衍生生物。它们具有「牺牲此生物：加{C}。」</target>
+        <target state="translated">当CARDNAME进战场时，派出三个1/1无色奥札奇／孽裔衍生生物。它们具有「牺牲此生物：加{C}。」</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="5d248ed0-c2b4-4558-9a09-ace8fd4b0599" resname="BFZ·165 | Call the Scions | Card Name">
@@ -1358,7 +1358,7 @@
       </trans-unit>
       <trans-unit id="4d949d0e-baf7-4573-bb15-7e30e3e9b202" resname="BFZ·166 | Eyeless Watcher | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhen CARDNAME enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">虚色（此牌没有颜色。）当无目看守进战场时，将两个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{1}到你的法术力池中。」</target>
+        <target state="translated">虚色（此牌没有颜色。）当CARDNAME进战场时，将两个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{1}到你的法术力池中。」</target>
       </trans-unit>
       <trans-unit id="f5559960-e306-4992-b607-9654327c4507" resname="BFZ·167 | From Beyond | Card Name">
         <source>From Beyond</source>
@@ -1366,7 +1366,7 @@
       </trans-unit>
       <trans-unit id="f5559960-e306-4992-b607-9654327c4507" resname="BFZ·167 | From Beyond | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nAt the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion creature token. It has &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;\n{1}{G}, Sacrifice CARDNAME: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">虚色（此牌没有颜色。）在你的维持开始时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」{1}{G}，牺牲异境造物：从你的牌库中搜寻一张奥札奇牌，展示该牌，并将它置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">虚色（此牌没有颜色。）在你的维持开始时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」{1}{G}，牺牲CARDNAME：从你的牌库中搜寻一张奥札奇牌，展示该牌，并将它置于你手上，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="8293c66d-9a9b-4817-9bc3-ffd57fda290c" resname="BFZ·168 | Unnatural Aggression | Card Name">
         <source>Unnatural Aggression</source>
@@ -1418,12 +1418,12 @@
       </trans-unit>
       <trans-unit id="5b03132c-0bb7-48f9-babd-6e106d8f202c" resname="BFZ·174 | Greenwarden of Murasa | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may return target card from your graveyard to your hand.</source>
-        <target state="translated">当姆拉撒育碧灵进战场时，你可以将目标牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标牌从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="5b03132c-0bb7-48f9-babd-6e106d8f202c" resname="BFZ·174 | Greenwarden of Murasa | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you may exile it. If you do, return target card from your graveyard to your hand.</source>
-        <target state="translated">当姆拉撒育碧灵死去时，你可以将它放逐。若你如此作，则将目标牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME死去时，你可以将它放逐。若你如此作，则将目标牌从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="0ec25fe4-7967-42e2-8790-593738991eaa" resname="BFZ·175 | Infuse with the Elements | Card Name">
@@ -1432,7 +1432,7 @@
       </trans-unit>
       <trans-unit id="0ec25fe4-7967-42e2-8790-593738991eaa" resname="BFZ·175 | Infuse with the Elements | Card Text | Paragraph 1">
         <source>Converge — Put X +1/+1 counters on target creature, where X is the number of colors of mana spent to cast this spell. That creature gains trample until end of turn.</source>
-        <target state="translated">聚辉～在目标生物上放置X个+1/+1指示物，X为施放元素注入时用来支付费用的法术力颜色数量。该生物获得践踏异能直到回合结束。</target>
+        <target state="translated">聚辉～在目标生物上放置X个+1/+1指示物，X为施放CARDNAME时用来支付费用的法术力颜色数量。该生物获得践踏异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="aca704d5-b6e0-4726-8856-0b3a6732bbd8" resname="BFZ·176 | Jaddi Offshoot | Card Name">
         <source>Jaddi Offshoot</source>
@@ -1463,7 +1463,7 @@
       </trans-unit>
       <trans-unit id="c4a3c02b-b576-4099-9016-15449f93bb09" resname="BFZ·178 | Murasa Ranger | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, you may pay {3}{G}. If you do, put two +1/+1 counters on CARDNAME.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以支付 {3}{G}。若你如此作，则在姆拉撒巡林客上放置两个+1/+1指示物。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，你可以支付 {3}{G}。若你如此作，则在CARDNAME上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="9e11cd83-5930-4cff-8f9b-55337ed263b7" resname="BFZ·179 | Natural Connection | Card Name">
         <source>Natural Connection</source>
@@ -1489,7 +1489,7 @@
       </trans-unit>
       <trans-unit id="74c3276b-2cbc-4266-b16a-bf72c044d95b" resname="BFZ·181 | Oran-Rief Hydra | Card Text | Paragraphs">
         <source>Trample\nLandfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on CARDNAME. If that land is a Forest, put two +1/+1 counters on CARDNAME instead.</source>
-        <target state="translated">践踏地落～每当一个地在你的操控下进战场时，在欧兰黎多头龙上放置一个+1/+1指示物。若该地是树林，则改为在欧兰黎多头龙上放置两个+1/+1指示物。</target>
+        <target state="translated">践踏地落～每当一个地在你的操控下进战场时，在CARDNAME上放置一个+1/+1指示物。若该地是树林，则改为在CARDNAME上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="0957875c-e1a2-4d14-8b61-c806903fc760" resname="BFZ·182 | Oran-Rief Invoker | Card Name">
         <source>Oran-Rief Invoker</source>
@@ -1497,7 +1497,7 @@
       </trans-unit>
       <trans-unit id="0957875c-e1a2-4d14-8b61-c806903fc760" resname="BFZ·182 | Oran-Rief Invoker | Card Text | Paragraph 1">
         <source>{8}: CARDNAME gets +5/+5 and gains trample until end of turn.</source>
-        <target state="translated">{8}：直到回合结束，欧兰黎召现师得+5/+5且获得践踏异能。</target>
+        <target state="translated">{8}：直到回合结束，CARDNAME得+5/+5且获得践踏异能。</target>
       </trans-unit>
       <trans-unit id="cd68e01c-4a09-450b-bfa0-8fbac8721764" resname="BFZ·183 | Plated Crusher | Card Name">
         <source>Plated Crusher</source>
@@ -1529,7 +1529,7 @@
       </trans-unit>
       <trans-unit id="1a403b28-f91a-4637-af72-d6fc86c3bb9a" resname="BFZ·187 | Rot Shambler | Card Text | Paragraph 1">
         <source>Whenever another creature you control dies, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当另一个由你操控的生物死去时，在腐臭跛行兽上放置一个+1/+1指示物。</target>
+        <target state="translated">每当另一个由你操控的生物死去时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="89ef0054-a290-4c41-846d-12f8119c52ae" resname="BFZ·188 | Scythe Leopard | Card Name">
@@ -1538,7 +1538,7 @@
       </trans-unit>
       <trans-unit id="89ef0054-a290-4c41-846d-12f8119c52ae" resname="BFZ·188 | Scythe Leopard | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，镰刃豹得+1/+1直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="824f44fe-ee16-4b15-a308-5c620cfd3d93" resname="BFZ·189 | Seek the Wilds | Card Name">
         <source>Seek the Wilds</source>
@@ -1555,7 +1555,7 @@
       </trans-unit>
       <trans-unit id="834409e3-134e-4a34-89cb-53e2a039e980" resname="BFZ·190 | Snapping Gnarlid | Card Text | Paragraph 1">
         <source>Landfall — Whenever a land enters the battlefield under your control, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">地落～每当一个地在你的操控下进战场时，急攫糙节兽得+1/+1直到回合结束。</target>
+        <target state="translated">地落～每当一个地在你的操控下进战场时，CARDNAME得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="b06da6fe-57bf-437e-8589-7e57a5881801" resname="BFZ·191 | Swell of Growth | Card Name">
@@ -1572,7 +1572,7 @@
       </trans-unit>
       <trans-unit id="3447b4af-2eb2-48ae-a12e-2fdf83d4cb70" resname="BFZ·193 | Tajuru Beastmaster | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, creatures you control get +1/+1 until end of turn.</source>
-        <target state="translated">奋扬～每当特裘如驯兽师或另一个伙伴在你的操控下进战场时，由你操控的生物得+1/+1直到回合结束。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，由你操控的生物得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f916220b-a942-41af-8949-aa384fa7857d" resname="BFZ·194 | Tajuru Stalwart | Card Name">
         <source>Tajuru Stalwart</source>
@@ -1580,7 +1580,7 @@
       </trans-unit>
       <trans-unit id="f916220b-a942-41af-8949-aa384fa7857d" resname="BFZ·194 | Tajuru Stalwart | Card Text | Paragraph 1">
         <source>Converge — CARDNAME enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.</source>
-        <target state="translated">聚辉～特裘如坚兵进战场时上面有数个+1/+1指示物，其数量为施放它时用来支付费用的法术力颜色数量。</target>
+        <target state="translated">聚辉～CARDNAME进战场时上面有数个+1/+1指示物，其数量为施放它时用来支付费用的法术力颜色数量。</target>
       </trans-unit>
       <trans-unit id="762501fe-5102-4c21-8ad5-430590a59830" resname="BFZ·195 | Tajuru Warcaller | Card Name">
         <source>Tajuru Warcaller</source>
@@ -1588,7 +1588,7 @@
       </trans-unit>
       <trans-unit id="762501fe-5102-4c21-8ad5-430590a59830" resname="BFZ·195 | Tajuru Warcaller | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, creatures you control get +2/+2 until end of turn.</source>
-        <target state="translated">奋扬～每当特裘如战呼人或另一个伙伴在你的操控下进战场时，由你操控的生物得+2/+2直到回合结束。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，由你操控的生物得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d53104d8-5b9a-45b6-a2f9-b2c5d231a03d" resname="BFZ·197 | Undergrowth Champion | Card Name">
         <source>Undergrowth Champion</source>
@@ -1596,7 +1596,7 @@
       </trans-unit>
       <trans-unit id="d53104d8-5b9a-45b6-a2f9-b2c5d231a03d" resname="BFZ·197 | Undergrowth Champion | Card Text | Paragraphs">
         <source>If damage would be dealt to CARDNAME while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from CARDNAME.\nLandfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">如果矮丛斗士于其上有+1/+1指示物时将受到伤害，则防止该伤害，并从矮丛斗士上移去一个+1/+1指示物。地落～每当一个地在你的操控下进战场时，在矮丛斗士上放置一个+1/+1指示物。</target>
+        <target state="translated">如果CARDNAME于其上有+1/+1指示物时将受到伤害，则防止该伤害，并从CARDNAME上移去一个+1/+1指示物。地落～每当一个地在你的操控下进战场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="cc1e6db8-5093-44e4-95d7-3fdf8c55c1dd" resname="BFZ·198 | Woodland Wanderer | Card Name">
         <source>Woodland Wanderer</source>
@@ -1604,7 +1604,7 @@
       </trans-unit>
       <trans-unit id="cc1e6db8-5093-44e4-95d7-3fdf8c55c1dd" resname="BFZ·198 | Woodland Wanderer | Card Text | Paragraphs">
         <source>Vigilance, trample\nConverge — CARDNAME enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.</source>
-        <target state="translated">警戒，践踏聚辉～林地漫游灵进战场时上面有数个+1/+1指示物，其数量为施放它时用来支付费用的法术力颜色数量。</target>
+        <target state="translated">警戒，践踏聚辉～CARDNAME进战场时上面有数个+1/+1指示物，其数量为施放它时用来支付费用的法术力颜色数量。</target>
       </trans-unit>
       <trans-unit id="2f60fdd6-bc18-4c04-83d8-c204f2b35ff1" resname="BFZ·199 | Brood Butcher | Card Name">
         <source>Brood Butcher</source>
@@ -1612,7 +1612,7 @@
       </trans-unit>
       <trans-unit id="2f60fdd6-bc18-4c04-83d8-c204f2b35ff1" resname="BFZ·199 | Brood Butcher | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhen CARDNAME enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;\n{B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.</source>
-        <target state="translated">虚色（此牌没有颜色。）当孳巢屠夫进战场时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」{B}{G}，牺牲一个生物：目标生物得-2/-2直到回合结束。</target>
+        <target state="translated">虚色（此牌没有颜色。）当CARDNAME进战场时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」{B}{G}，牺牲一个生物：目标生物得-2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8b0eb64b-a463-4f25-9278-340051139f0e" resname="BFZ·200 | Brutal Expulsion | Card Name">
         <source>Brutal Expulsion</source>
@@ -1620,7 +1620,7 @@
       </trans-unit>
       <trans-unit id="8b0eb64b-a463-4f25-9278-340051139f0e" resname="BFZ·200 | Brutal Expulsion | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nChoose one or both —\n• Return target spell or creature to its owner's hand.\n• CARDNAME deals 2 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</source>
-        <target state="translated">虚色（此牌没有颜色。）选择一项或都选～• 将目标咒语或生物移回其拥有者手上。• 野蛮驱逐对目标生物或鹏洛客造成2点伤害。如果本回合中该永久物将被置入坟墓场，则改为将其放逐。</target>
+        <target state="translated">虚色（此牌没有颜色。）选择一项或都选～• 将目标咒语或生物移回其拥有者手上。• CARDNAME对目标生物或鹏洛客造成2点伤害。如果本回合中该永久物将被置入坟墓场，则改为将其放逐。</target>
       </trans-unit>
       <trans-unit id="6c3b220b-e699-45b0-8ec1-1022c1f50329" resname="BFZ·201 | Catacomb Sifter | Card Name">
         <source>Catacomb Sifter</source>
@@ -1628,7 +1628,7 @@
       </trans-unit>
       <trans-unit id="6c3b220b-e699-45b0-8ec1-1022c1f50329" resname="BFZ·201 | Catacomb Sifter | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nWhen CARDNAME enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;\nWhenever another creature you control dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</source>
-        <target state="translated">虚色（此牌没有颜色。）当筛坟恶体进战场时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」每当另一个由你操控的生物死去时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">虚色（此牌没有颜色。）当CARDNAME进战场时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{1}到你的法术力池中。」每当另一个由你操控的生物死去时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="2322e8c3-a983-4b3d-b6fa-f6b67f6fa8cc" resname="BFZ·202 | Dust Stalker | Card Name">
         <source>Dust Stalker</source>
@@ -1636,7 +1636,7 @@
       </trans-unit>
       <trans-unit id="2322e8c3-a983-4b3d-b6fa-f6b67f6fa8cc" resname="BFZ·202 | Dust Stalker | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nHaste\nAt the beginning of each end step, if you control no other colorless creatures, return CARDNAME to its owner's hand.</source>
-        <target state="translated">虚色（此牌没有颜色。）敏捷在每个结束步骤开始时，若你未操控其他无色生物，则将尘土潜影移回其拥有者手上。</target>
+        <target state="translated">虚色（此牌没有颜色。）敏捷在每个结束步骤开始时，若你未操控其他无色生物，则将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="b080ed31-db68-4e3c-8bf6-48b53d3ba622" resname="BFZ·203 | Fathom Feeder | Card Name">
         <source>Fathom Feeder</source>
@@ -1668,7 +1668,7 @@
       </trans-unit>
       <trans-unit id="acd482ad-ca4a-470f-8a76-14ec7b58316a" resname="BFZ·207 | Ulamog's Nullifier | Card Text | Paragraphs">
         <source>Devoid (This card has no color.)\nFlash\nFlying\nWhen CARDNAME enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell.</source>
-        <target state="translated">虚色（此牌没有颜色。）闪现飞行当钨拉莫废除体进战场时，你可以将两张由对手拥有的牌从放逐区置入其拥有者的坟墓场。若你如此作，则反击目标咒语。</target>
+        <target state="translated">虚色（此牌没有颜色。）闪现飞行当CARDNAME进战场时，你可以将两张由对手拥有的牌从放逐区置入其拥有者的坟墓场。若你如此作，则反击目标咒语。</target>
       </trans-unit>
       <trans-unit id="ef0baf56-816a-4e0a-beb3-73b51487ff00" resname="BFZ·208 | Angelic Captain | Card Name">
         <source>Angelic Captain</source>
@@ -1676,7 +1676,7 @@
       </trans-unit>
       <trans-unit id="ef0baf56-816a-4e0a-beb3-73b51487ff00" resname="BFZ·208 | Angelic Captain | Card Text | Paragraphs">
         <source>Flying\nWhenever CARDNAME attacks, it gets +1/+1 until end of turn for each other attacking Ally.</source>
-        <target state="translated">飞行每当天使队长攻击时，每有一个进行攻击的其他伙伴，它便得+1/+1直到回合结束。</target>
+        <target state="translated">飞行每当CARDNAME攻击时，每有一个进行攻击的其他伙伴，它便得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d25b13a4-6282-4426-8b01-9550f7d52d16" resname="BFZ·209 | Bring to Light | Card Name">
         <source>Bring to Light</source>
@@ -1702,7 +1702,7 @@
       </trans-unit>
       <trans-unit id="012b8eff-cdf3-423e-ae17-72a909e7ebd3" resname="BFZ·211 | Grove Rumbler | Card Text | Paragraphs">
         <source>Trample\nLandfall — Whenever a land enters the battlefield under your control, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">践踏地落～每当一个地在你的操控下进战场时，林地隆响灵得+2/+2直到回合结束。</target>
+        <target state="translated">践踏地落～每当一个地在你的操控下进战场时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5c2fd3a4-e09a-4fe5-93eb-2276a65c4911" resname="BFZ·212 | Grovetender Druids | Card Name">
         <source>Grovetender Druids</source>
@@ -1710,7 +1710,7 @@
       </trans-unit>
       <trans-unit id="5c2fd3a4-e09a-4fe5-93eb-2276a65c4911" resname="BFZ·212 | Grovetender Druids | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, you may pay {1}. If you do, create a 1/1 green Plant creature token.</source>
-        <target state="translated">奋扬～每当育林德鲁伊或另一个伙伴在你的操控下进战场时，你可以支付{1}。若你如此作，则将一个1/1绿色植物衍生生物放进战场。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以支付{1}。若你如此作，则将一个1/1绿色植物衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="4b63c228-3265-4029-9bc0-36b3e31dfb53" resname="BFZ·213 | Kiora, Master of the Depths | Card Name">
         <source>Kiora, Master of the Depths</source>
@@ -1734,7 +1734,7 @@
       </trans-unit>
       <trans-unit id="d8ee09fe-46d7-492b-a2f3-3fb0c3f83f07" resname="BFZ·215 | Munda, Ambush Leader | Card Text | Paragraphs">
         <source>Haste\nRally — Whenever CARDNAME or another Ally enters the battlefield under your control, you may look at the top four cards of your library. If you do, reveal any number of Ally cards from among them, then put those cards on top of your library in any order and the rest on the bottom in any order.</source>
-        <target state="translated">敏捷奋扬～每当伏击领袖蒙达或另一个伙伴在你的操控下进战场时，你可以检视你牌库顶的四张牌。若你如此作，展示其中任意数量的伙伴牌，然后将这些牌以任意顺序置于你牌库顶，其余则以任意顺序置于你牌库底。</target>
+        <target state="translated">敏捷奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，你可以检视你牌库顶的四张牌。若你如此作，展示其中任意数量的伙伴牌，然后将这些牌以任意顺序置于你牌库顶，其余则以任意顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="018a66fc-e7aa-42df-a622-50743cb20183" resname="BFZ·216 | Noyan Dar, Roil Shaper | Card Name">
         <source>Noyan Dar, Roil Shaper</source>
@@ -1756,7 +1756,7 @@
       </trans-unit>
       <trans-unit id="58f311e7-7ebf-4428-b5a3-154255eb3ba1" resname="BFZ·217 | Omnath, Locus of Rage | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another Elemental you control dies, Omnath deals 3 damage to any target.</source>
-        <target state="translated">每当怒火核欧那斯或另一个由你操控的元素死去时，欧那斯对任意一个目标造成3点伤害。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的元素死去时，欧那斯对任意一个目标造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自ZNC（2020-09-25）；</note>
       </trans-unit>
       <trans-unit id="bea96f8d-0c57-448d-8145-51f9cca04432" resname="BFZ·218 | Resolute Blademaster | Card Name">
@@ -1765,7 +1765,7 @@
       </trans-unit>
       <trans-unit id="bea96f8d-0c57-448d-8145-51f9cca04432" resname="BFZ·218 | Resolute Blademaster | Card Text | Paragraph 1">
         <source>Rally — Whenever CARDNAME or another Ally enters the battlefield under your control, creatures you control gain double strike until end of turn.</source>
-        <target state="translated">奋扬～每当坚毅大剑师或另一个伙伴在你的操控下进战场时，由你操控的生物获得连击异能直到回合结束。</target>
+        <target state="translated">奋扬～每当CARDNAME或另一个伙伴在你的操控下进战场时，由你操控的生物获得连击异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ee9fdecc-ba16-4aa2-9c20-7c2942ec143e" resname="BFZ·219 | Roil Spout | Card Name">
         <source>Roil Spout</source>
@@ -1781,7 +1781,7 @@
       </trans-unit>
       <trans-unit id="477eb787-aec7-43fd-9813-184111d9dcc5" resname="BFZ·220 | Skyrider Elf | Card Text | Paragraphs">
         <source>Flying\nConverge — CARDNAME enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.</source>
-        <target state="translated">飞行聚辉～驭空妖精进战场时上面有数个+1/+1指示物，其数量为施放它时用来支付费用的法术力颜色数量。</target>
+        <target state="translated">飞行聚辉～CARDNAME进战场时上面有数个+1/+1指示物，其数量为施放它时用来支付费用的法术力颜色数量。</target>
       </trans-unit>
       <trans-unit id="c0ef436b-e82e-4e1f-9da0-5e35f0c37bde" resname="BFZ·222 | Aligned Hedron Network | Card Name">
         <source>Aligned Hedron Network</source>
@@ -1789,7 +1789,7 @@
       </trans-unit>
       <trans-unit id="c0ef436b-e82e-4e1f-9da0-5e35f0c37bde" resname="BFZ·222 | Aligned Hedron Network | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile all creatures with power 5 or greater until CARDNAME leaves the battlefield. (Those creatures return under their owners' control.)</source>
-        <target state="translated">当晶石网阵进战场时，放逐所有力量等于或大于5的生物，直到晶石网阵离开战场为止。（这些生物会在其拥有者的操控下移回。）</target>
+        <target state="translated">当CARDNAME进战场时，放逐所有力量等于或大于5的生物，直到CARDNAME离开战场为止。（这些生物会在其拥有者的操控下移回。）</target>
       </trans-unit>
       <trans-unit id="2519149c-f8a3-413f-b7b2-cd596970be4c" resname="BFZ·223 | Hedron Archive | Card Name">
         <source>Hedron Archive</source>
@@ -1803,7 +1803,7 @@
       </trans-unit>
       <trans-unit id="2519149c-f8a3-413f-b7b2-cd596970be4c" resname="BFZ·223 | Hedron Archive | Card Text | Paragraph 2">
         <source>{2}, {T}, Sacrifice CARDNAME: Draw two cards.</source>
-        <target state="translated">{2}，{T}，牺牲晶石档案：抓两张牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：抓两张牌。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="87242e1d-babe-4b0d-aa1f-ab62e0bc4ab7" resname="BFZ·224 | Hedron Blade | Card Name">
@@ -1836,7 +1836,7 @@
       </trans-unit>
       <trans-unit id="bcb7124c-ba69-4da8-ad81-58f00fd0181d" resname="BFZ·228 | Ally Encampment | Card Text | Paragraphs">
         <source>{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast an Ally spell.\n{1}, {T}, Sacrifice CARDNAME: Return target Ally you control to its owner's hand.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。{T}：加一点任意颜色的法术力到你的法术力池中。此法术力只能用来施放伙伴咒语。{1}，{T}，牺牲伙伴营地：将目标由你操控的伙伴移回其拥有者手上。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。{T}：加一点任意颜色的法术力到你的法术力池中。此法术力只能用来施放伙伴咒语。{1}，{T}，牺牲CARDNAME：将目标由你操控的伙伴移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="8908b6b0-a488-426c-954d-458456be0651" resname="BFZ·229 | Blighted Cataract | Card Name">
         <source>Blighted Cataract</source>
@@ -1850,7 +1850,7 @@
       </trans-unit>
       <trans-unit id="8908b6b0-a488-426c-954d-458456be0651" resname="BFZ·229 | Blighted Cataract | Card Text | Paragraph 2">
         <source>{5}{U}, {T}, Sacrifice CARDNAME: Draw two cards.</source>
-        <target state="translated">{5}{U}，{T}，牺牲枯萎巨瀑：抓两张牌。</target>
+        <target state="translated">{5}{U}，{T}，牺牲CARDNAME：抓两张牌。</target>
         <note xmlns:from="developer">中文数据来自C21（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="29d02950-cd50-4662-97af-3106598dc3c4" resname="BFZ·230 | Blighted Fen | Card Name">
@@ -1865,7 +1865,7 @@
       </trans-unit>
       <trans-unit id="29d02950-cd50-4662-97af-3106598dc3c4" resname="BFZ·230 | Blighted Fen | Card Text | Paragraph 2">
         <source>{4}{B}, {T}, Sacrifice CARDNAME: Target opponent sacrifices a creature.</source>
-        <target state="translated">{4}{B}，{T}，牺牲枯萎泽地：目标对手牺牲一个生物。</target>
+        <target state="translated">{4}{B}，{T}，牺牲CARDNAME：目标对手牺牲一个生物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="88cbfe5d-79b7-45db-b3cd-4ae7a9964a37" resname="BFZ·231 | Blighted Gorge | Card Name">
@@ -1874,7 +1874,7 @@
       </trans-unit>
       <trans-unit id="88cbfe5d-79b7-45db-b3cd-4ae7a9964a37" resname="BFZ·231 | Blighted Gorge | Card Text | Paragraphs">
         <source>{T}: Add {C}.\n{4}{R}, {T}, Sacrifice CARDNAME: It deals 2 damage to any target.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。{4}{R}，{T}，牺牲枯萎峡谷：枯萎峡谷对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。{4}{R}，{T}，牺牲CARDNAME：CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="f43df8ee-d3e4-419e-aed0-1059d95f9cab" resname="BFZ·232 | Blighted Steppe | Card Name">
         <source>Blighted Steppe</source>
@@ -1882,7 +1882,7 @@
       </trans-unit>
       <trans-unit id="f43df8ee-d3e4-419e-aed0-1059d95f9cab" resname="BFZ·232 | Blighted Steppe | Card Text | Paragraphs">
         <source>{T}: Add {C}.\n{3}{W}, {T}, Sacrifice CARDNAME: You gain 2 life for each creature you control.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。{3}{W}，{T}，牺牲枯萎草原：你每操控一个生物，便获得2点生命。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。{3}{W}，{T}，牺牲CARDNAME：你每操控一个生物，便获得2点生命。</target>
       </trans-unit>
       <trans-unit id="7508d531-da52-41fb-a729-3f5704c9a194" resname="BFZ·233 | Blighted Woodland | Card Name">
         <source>Blighted Woodland</source>
@@ -1896,7 +1896,7 @@
       </trans-unit>
       <trans-unit id="7508d531-da52-41fb-a729-3f5704c9a194" resname="BFZ·233 | Blighted Woodland | Card Text | Paragraph 2">
         <source>{3}{G}, {T}, Sacrifice CARDNAME: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">{3}{G}，{T}，牺牲枯萎林地：从你牌库中搜寻至多两张基本地牌，将它们横置放进战场，然后洗牌。</target>
+        <target state="translated">{3}{G}，{T}，牺牲CARDNAME：从你牌库中搜寻至多两张基本地牌，将它们横置放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="15231a9b-1956-4ff6-b637-942444d3349f" resname="BFZ·237 | Fertile Thicket | Card Name">
@@ -1905,7 +1905,7 @@
       </trans-unit>
       <trans-unit id="15231a9b-1956-4ff6-b637-942444d3349f" resname="BFZ·237 | Fertile Thicket | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\nWhen CARDNAME enters the battlefield, you may look at the top five cards of your library. If you do, reveal up to one basic land card from among them, then put that card on top of your library and the rest on the bottom in any order.\n{T}: Add {G}.</source>
-        <target state="translated">茂密灌丛须横置进战场。当茂密灌丛进战场时，你可以检视你牌库顶的五张牌。若你如此作，则展示其中至多一张基本地牌，然后将该牌置于你的牌库顶，其余则以任意顺序置于你牌库底。{T}：加{G}到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进战场。当CARDNAME进战场时，你可以检视你牌库顶的五张牌。若你如此作，则展示其中至多一张基本地牌，然后将该牌置于你的牌库顶，其余则以任意顺序置于你牌库底。{T}：加{G}到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="b88177a2-de41-417d-a8f1-07edf005b453" resname="BFZ·238 | Looming Spires | Card Name">
         <source>Looming Spires</source>
@@ -1913,7 +1913,7 @@
       </trans-unit>
       <trans-unit id="b88177a2-de41-417d-a8f1-07edf005b453" resname="BFZ·238 | Looming Spires | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\nWhen CARDNAME enters the battlefield, target creature gets +1/+1 and gains first strike until end of turn.\n{T}: Add {R}.</source>
-        <target state="translated">掷影尖峰须横置进战场。当掷影尖峰进战场时，直到回合结束，目标生物得+1/+1且获得先攻异能。{T}：加{R}到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进战场。当CARDNAME进战场时，直到回合结束，目标生物得+1/+1且获得先攻异能。{T}：加{R}到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="f0d8d2e4-3ebe-4311-b99e-dea9fb0b20ac" resname="BFZ·239 | Lumbering Falls | Card Name">
         <source>Lumbering Falls</source>
@@ -1922,7 +1922,7 @@
       </trans-unit>
       <trans-unit id="f0d8d2e4-3ebe-4311-b99e-dea9fb0b20ac" resname="BFZ·239 | Lumbering Falls | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">林木瀑布须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自AFC（2021-07-23）；</note>
       </trans-unit>
       <trans-unit id="f0d8d2e4-3ebe-4311-b99e-dea9fb0b20ac" resname="BFZ·239 | Lumbering Falls | Card Text | Paragraph 2">
@@ -1932,7 +1932,7 @@
       </trans-unit>
       <trans-unit id="f0d8d2e4-3ebe-4311-b99e-dea9fb0b20ac" resname="BFZ·239 | Lumbering Falls | Card Text | Paragraph 3">
         <source>{2}{G}{U}: CARDNAME becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It's still a land.</source>
-        <target state="translated">{2}{G}{U}：林木瀑布成为3/3，绿蓝双色，具辟邪异能的元素生物直到回合结束。它仍然是地。</target>
+        <target state="translated">{2}{G}{U}：CARDNAME成为3/3，绿蓝双色，具辟邪异能的元素生物直到回合结束。它仍然是地。</target>
         <note xmlns:from="developer">中文数据来自AFC（2021-07-23）；</note>
       </trans-unit>
       <trans-unit id="c6b31722-9626-4fea-9971-54c9aa8238e8" resname="BFZ·240 | Mortuary Mire | Card Name">
@@ -1942,12 +1942,12 @@
       </trans-unit>
       <trans-unit id="c6b31722-9626-4fea-9971-54c9aa8238e8" resname="BFZ·240 | Mortuary Mire | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">丧葬泥沼须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="c6b31722-9626-4fea-9971-54c9aa8238e8" resname="BFZ·240 | Mortuary Mire | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may put target creature card from your graveyard on top of your library.</source>
-        <target state="translated">当丧葬泥沼进战场时，你可以将目标生物牌从你的坟墓场置于你的牌库顶。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标生物牌从你的坟墓场置于你的牌库顶。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="c6b31722-9626-4fea-9971-54c9aa8238e8" resname="BFZ·240 | Mortuary Mire | Card Text | Paragraph 3">
@@ -1961,7 +1961,7 @@
       </trans-unit>
       <trans-unit id="86798d03-9f2d-46bd-a660-13c8dd5535ce" resname="BFZ·242 | Sanctum of Ugin | Card Text | Paragraphs">
         <source>{T}: Add {C}.\nWhenever you cast a colorless spell with mana value 7 or greater, you may sacrifice CARDNAME. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。每当你施放总法术力费用等于或大于7的无色咒语时，你可以牺牲乌金圣所。若你如此作，则从你的牌库中搜寻一张无色生物牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。每当你施放总法术力费用等于或大于7的无色咒语时，你可以牺牲CARDNAME。若你如此作，则从你的牌库中搜寻一张无色生物牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="c781e932-4605-47aa-add1-4ee62f4e7ead" resname="BFZ·243 | Sandstone Bridge | Card Name">
         <source>Sandstone Bridge</source>
@@ -1970,12 +1970,12 @@
       </trans-unit>
       <trans-unit id="c781e932-4605-47aa-add1-4ee62f4e7ead" resname="BFZ·243 | Sandstone Bridge | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">砂岩桥须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="c781e932-4605-47aa-add1-4ee62f4e7ead" resname="BFZ·243 | Sandstone Bridge | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gets +1/+1 and gains vigilance until end of turn.</source>
-        <target state="translated">当砂岩桥进战场时，直到回合结束，目标生物得+1/+1且获得警戒异能。</target>
+        <target state="translated">当CARDNAME进战场时，直到回合结束，目标生物得+1/+1且获得警戒异能。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="c781e932-4605-47aa-add1-4ee62f4e7ead" resname="BFZ·243 | Sandstone Bridge | Card Text | Paragraph 3">
@@ -1990,7 +1990,7 @@
       </trans-unit>
       <trans-unit id="30a73816-1f33-4798-a9d6-5f0410d19625" resname="BFZ·244 | Shambling Vent | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">跛行喷发口须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="30a73816-1f33-4798-a9d6-5f0410d19625" resname="BFZ·244 | Shambling Vent | Card Text | Paragraph 2">
@@ -2000,7 +2000,7 @@
       </trans-unit>
       <trans-unit id="30a73816-1f33-4798-a9d6-5f0410d19625" resname="BFZ·244 | Shambling Vent | Card Text | Paragraph 3">
         <source>{1}{W}{B}: CARDNAME becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.</source>
-        <target state="translated">{1}{W}{B}：跛行喷发口成为2/3，白黑双色，具系命异能的元素生物直到回合结束。它仍然是地。</target>
+        <target state="translated">{1}{W}{B}：CARDNAME成为2/3，白黑双色，具系命异能的元素生物直到回合结束。它仍然是地。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="9da2af9a-28c4-4edd-95c4-cc09c2de4adc" resname="BFZ·245 | Shrine of the Forsaken Gods | Card Name">
@@ -2017,7 +2017,7 @@
       </trans-unit>
       <trans-unit id="29b0027d-c232-4cdd-89c4-75947687aa71" resname="BFZ·246 | Skyline Cascade | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\nWhen CARDNAME enters the battlefield, target creature an opponent controls doesn't untap during its controller's next untap step.\n{T}: Add {U}.</source>
-        <target state="translated">天际瀑布须横置进战场。当天际瀑布进战场时，目标由对手操控的生物于其操控者的下一个重置步骤中不能重置。{T}：加{U}到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进战场。当CARDNAME进战场时，目标由对手操控的生物于其操控者的下一个重置步骤中不能重置。{T}：加{U}到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="e3a532b2-de88-40af-8961-b01eada05bd3" resname="BFZ·248 | Spawning Bed | Card Name">
         <source>Spawning Bed</source>
@@ -2025,7 +2025,7 @@
       </trans-unit>
       <trans-unit id="e3a532b2-de88-40af-8961-b01eada05bd3" resname="BFZ·248 | Spawning Bed | Card Text | Paragraphs">
         <source>{T}: Add {C}.\n{6}, {T}, Sacrifice CARDNAME: Create three 1/1 colorless Eldrazi Scion creature tokens. They have &amp;quot;Sacrifice this creature: Add {C}.&amp;quot;</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。{6}，{T}，牺牲孳息温床：将三个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{1}到你的法术力池中。」</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。{6}，{T}，牺牲CARDNAME：将三个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{1}到你的法术力池中。」</target>
       </trans-unit>
       <trans-unit id="c6bc665f-fb17-43e1-b93b-6a7b168759eb" resname="EXP·1 | Prairie Stream | Card Name">
         <source>Prairie Stream</source>
@@ -2039,7 +2039,7 @@
       </trans-unit>
       <trans-unit id="c6bc665f-fb17-43e1-b93b-6a7b168759eb" resname="EXP·1 | Prairie Stream | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped unless you control two or more basic lands.</source>
-        <target state="translated">除非你操控两个或更多基本地，否则沃原溪流须横置进战场。</target>
+        <target state="translated">除非你操控两个或更多基本地，否则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="6d93da43-cc05-4542-b4cb-d27ebcb79012" resname="EXP·2 | Sunken Hollow | Card Name">
@@ -2054,7 +2054,7 @@
       </trans-unit>
       <trans-unit id="6d93da43-cc05-4542-b4cb-d27ebcb79012" resname="EXP·2 | Sunken Hollow | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped unless you control two or more basic lands.</source>
-        <target state="translated">除非你操控两个或更多基本地，否则沉落幽谷须横置进战场。</target>
+        <target state="translated">除非你操控两个或更多基本地，否则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="2c9814b3-d4fe-4823-b310-ab284dc9b9be" resname="EXP·3 | Smoldering Marsh | Card Name">
@@ -2069,7 +2069,7 @@
       </trans-unit>
       <trans-unit id="2c9814b3-d4fe-4823-b310-ab284dc9b9be" resname="EXP·3 | Smoldering Marsh | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped unless you control two or more basic lands.</source>
-        <target state="translated">除非你操控两个或更多基本地，否则闷燃沼地须横置进战场。</target>
+        <target state="translated">除非你操控两个或更多基本地，否则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="1b5d2e9c-dd93-49ae-9a03-77c13c5ec298" resname="EXP·4 | Cinder Glade | Card Name">
@@ -2084,7 +2084,7 @@
       </trans-unit>
       <trans-unit id="1b5d2e9c-dd93-49ae-9a03-77c13c5ec298" resname="EXP·4 | Cinder Glade | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped unless you control two or more basic lands.</source>
-        <target state="translated">除非你操控两个或更多基本地，否则烬火林地须横置进战场。</target>
+        <target state="translated">除非你操控两个或更多基本地，否则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="3125bf61-f1b8-4b97-96bc-2d2a3a32adbd" resname="EXP·5 | Canopy Vista | Card Name">
@@ -2099,7 +2099,7 @@
       </trans-unit>
       <trans-unit id="3125bf61-f1b8-4b97-96bc-2d2a3a32adbd" resname="EXP·5 | Canopy Vista | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped unless you control two or more basic lands.</source>
-        <target state="translated">除非你操控两个或更多基本地，否则林冠远景须横置进战场。</target>
+        <target state="translated">除非你操控两个或更多基本地，否则CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
     </body>

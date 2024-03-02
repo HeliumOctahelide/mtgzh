@@ -46,7 +46,7 @@
       </trans-unit>
       <trans-unit id="30d51d84-23d2-41ff-ab68-a633beddba06" resname="MMQ·5 | Ballista Squad | Card Text | Paragraph 1">
         <source>{X}{W}, {T}: CARDNAME deals X damage to target attacking or blocking creature.</source>
-        <target state="translated">{X}{W}，{T}：巨弩小队对目标进行攻击或阻挡的生物造成X点伤害。</target>
+        <target state="translated">{X}{W}，{T}：CARDNAME对目标进行攻击或阻挡的生物造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="082e6ee3-cc1f-46c7-9d82-56751478b3cf" resname="MMQ·6 | Charm Peddler | Card Name">
@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="66d36960-3c78-4032-9325-8002b2a48503" resname="MMQ·7 | Charmed Griffin | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, each other player may put an artifact or enchantment card onto the battlefield from their hand.</source>
-        <target state="translated">当受惑的狮鹫进场时，每个其他玩家都可以从他手上放置一张神器或结界牌进场。</target>
+        <target state="translated">当CARDNAME进场时，每个其他玩家都可以从他手上放置一张神器或结界牌进场。</target>
       </trans-unit>
       <trans-unit id="42c9d49d-61eb-4f33-b06b-03bdd990efd0" resname="MMQ·8 | Cho-Arrim Alchemist | Card Name">
         <source>Cho-Arrim Alchemist</source>
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="26e98f06-ad8d-4a93-8ae6-3da42b63b5b5" resname="MMQ·9 | Cho-Arrim Bruiser | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may tap up to two target creatures.</source>
-        <target state="translated">每当柯‧尔林巨汉攻击时，你可以横置最多两个目标生物。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以横置最多两个目标生物。</target>
       </trans-unit>
       <trans-unit id="1427a3a1-24e1-4697-b5eb-1c0a24f89e75" resname="MMQ·10 | Cho-Arrim Legate | Card Name">
         <source>Cho-Arrim Legate</source>
@@ -95,7 +95,7 @@
       </trans-unit>
       <trans-unit id="1427a3a1-24e1-4697-b5eb-1c0a24f89e75" resname="MMQ·10 | Cho-Arrim Legate | Card Text | Paragraph 2">
         <source>Protection from black</source>
-        <target state="translated">若任一对手操控沼泽，并且你操控平原，则你不需支付其魔法力费用，便可以使用柯‧尔林特使。</target>
+        <target state="translated">若任一对手操控沼泽，并且你操控平原，则你不需支付其魔法力费用，便可以使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="3dc51393-de63-4ce3-ab02-c695e4448018" resname="MMQ·11 | Cho-Manno, Revolutionary | Card Name">
         <source>Cho-Manno, Revolutionary</source>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="3dc51393-de63-4ce3-ab02-c695e4448018" resname="MMQ·11 | Cho-Manno, Revolutionary | Card Text | Paragraph 1">
         <source>Prevent all damage that would be dealt to CARDNAME.</source>
-        <target state="translated">防止将对革命家柯·曼诺造成的所有伤害。</target>
+        <target state="translated">防止将对CARDNAME造成的所有伤害。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="5c9f33c6-5294-4584-854d-c8c0f847aba8" resname="MMQ·12 | Cho-Manno's Blessing | Card Name">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="5c9f33c6-5294-4584-854d-c8c0f847aba8" resname="MMQ·12 | Cho-Manno's Blessing | Card Text | Paragraphs">
         <source>Flash\nEnchant creature\nAs CARDNAME enters the battlefield, choose a color.\nEnchanted creature has protection from the chosen color. This effect doesn't remove CARDNAME.</source>
-        <target state="translated">你可以在任何能够使用瞬间的时机下，使用柯‧曼诺的祝福。\n在柯‧曼诺的祝福进场时，选择一个颜色。\n受此结界的生物获得反该色之保护。此效应不会移除柯‧曼诺的祝福。</target>
+        <target state="translated">你可以在任何能够使用瞬间的时机下，使用CARDNAME。\n在CARDNAME进场时，选择一个颜色。\n受此结界的生物获得反该色之保护。此效应不会移除CARDNAME。</target>
       </trans-unit>
       <trans-unit id="eae4c25f-2005-4ac0-a5f0-2fc250520995" resname="MMQ·13 | Common Cause | Card Name">
         <source>Common Cause</source>
@@ -146,7 +146,7 @@
       </trans-unit>
       <trans-unit id="744c2177-3140-48a1-95a4-2f0a27ca5b2f" resname="MMQ·16 | Crossbow Infantry | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 1 damage to target attacking or blocking creature.</source>
-        <target state="translated">{T}：十字弓步兵对目标进行攻击或阻挡的生物造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标进行攻击或阻挡的生物造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="48ca7aeb-09db-4409-9ba2-c5c5500ad72f" resname="MMQ·17 | Devout Witness | Card Name">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="676a2506-17f8-4b8e-be0c-eacc0fe972f6" resname="MMQ·22 | Ignoble Soldier | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, prevent all combat damage that would be dealt by it this turn.</source>
-        <target state="translated">每当卑劣的士兵被阻挡时，防止它在本回合中将要造成的所有战斗伤害。</target>
+        <target state="translated">每当CARDNAME被阻挡时，防止它在本回合中将要造成的所有战斗伤害。</target>
       </trans-unit>
       <trans-unit id="9ece8504-389a-43e3-b178-7067722c4b75" resname="MMQ·23 | Inviolability | Card Name">
         <source>Inviolability</source>
@@ -209,7 +209,7 @@
       </trans-unit>
       <trans-unit id="b8eb55cc-ddde-4f15-9262-b9aee28059d3" resname="MMQ·25 | Jhovall Queen | Card Text | Paragraph 1">
         <source>Vigilance</source>
-        <target state="translated">六足豹后攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
       </trans-unit>
       <trans-unit id="7e1f7c51-0011-4ea5-b123-3c26293f5dab" resname="MMQ·26 | Jhovall Rider | Card Name">
         <source>Jhovall Rider</source>
@@ -277,7 +277,7 @@
       </trans-unit>
       <trans-unit id="754ae359-363b-456a-bbca-52fbfbaa86b8" resname="MMQ·33 | Orim's Cure | Card Text | Paragraph 1">
         <source>If you control a Plains, you may tap an untapped creature you control rather than pay this spell's mana cost.</source>
-        <target state="translated">若你操控平原，你可改为横置一个你操控的未横置生物，以代替支付欧琳的医治之魔法力费用。</target>
+        <target state="translated">若你操控平原，你可改为横置一个你操控的未横置生物，以代替支付CARDNAME之魔法力费用。</target>
       </trans-unit>
       <trans-unit id="754ae359-363b-456a-bbca-52fbfbaa86b8" resname="MMQ·33 | Orim's Cure | Card Text | Paragraph 2">
         <source>Prevent the next 4 damage that would be dealt to any target this turn.</source>
@@ -289,7 +289,7 @@
       </trans-unit>
       <trans-unit id="bc20c1f0-9883-484c-88d8-1cab08d0b210" resname="MMQ·34 | Pious Warrior | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt combat damage, you gain that much life.</source>
-        <target state="translated">每当虔诚的战士受到战斗伤害时，你获得与其等量的生命。</target>
+        <target state="translated">每当CARDNAME受到战斗伤害时，你获得与其等量的生命。</target>
       </trans-unit>
       <trans-unit id="0e9d2e2a-c608-4787-bbd9-e1871f681b58" resname="MMQ·35 | Ramosian Captain | Card Name">
         <source>Ramosian Captain</source>
@@ -325,7 +325,7 @@
       </trans-unit>
       <trans-unit id="7fc0ff04-43e7-4a0d-b7e2-8bab72cc6cc0" resname="MMQ·38 | Ramosian Rally | Card Text | Paragraph 1">
         <source>If you control a Plains, you may tap an untapped creature you control rather than pay this spell's mana cost.</source>
-        <target state="translated">若你操控平原，你可改为横置一个你操控的未横置生物，以代替支付瑞莫斯式动员之魔法力费用。</target>
+        <target state="translated">若你操控平原，你可改为横置一个你操控的未横置生物，以代替支付CARDNAME之魔法力费用。</target>
       </trans-unit>
       <trans-unit id="7fc0ff04-43e7-4a0d-b7e2-8bab72cc6cc0" resname="MMQ·38 | Ramosian Rally | Card Text | Paragraph 2">
         <source>Creatures you control get +1/+1 until end of turn.</source>
@@ -361,7 +361,7 @@
       </trans-unit>
       <trans-unit id="113b8366-e6d0-423e-af4b-52c1e08ed446" resname="MMQ·41 | Rappelling Scouts | Card Text | Paragraph 2">
         <source>{2}{W}: CARDNAME gains protection from the color of your choice until end of turn.</source>
-        <target state="translated">2白：缍降斥候获得你所选择颜色之反色保护，直到回合结束。</target>
+        <target state="translated">2白：CARDNAME获得你所选择颜色之反色保护，直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8bb2bfb9-cc4a-4d33-99f9-17db4d9fc718" resname="MMQ·42 | Renounce | Card Name">
         <source>Renounce</source>
@@ -377,7 +377,7 @@
       </trans-unit>
       <trans-unit id="b0793175-e56b-4ff8-9e22-3a96a698068c" resname="MMQ·43 | Revered Elder | Card Text | Paragraph 1">
         <source>{1}: Prevent the next 1 damage that would be dealt to CARDNAME this turn.</source>
-        <target state="translated">1：在本回合中对尊贵长者防止接下来的1点伤害。</target>
+        <target state="translated">1：在本回合中对CARDNAME防止接下来的1点伤害。</target>
       </trans-unit>
       <trans-unit id="48364e19-a3ea-4980-925f-7918e57315f1" resname="MMQ·44 | Reverent Mantra | Card Name">
         <source>Reverent Mantra</source>
@@ -385,7 +385,7 @@
       </trans-unit>
       <trans-unit id="48364e19-a3ea-4980-925f-7918e57315f1" resname="MMQ·44 | Reverent Mantra | Card Text | Paragraph 1">
         <source>You may exile a white card from your hand rather than pay this spell's mana cost.</source>
-        <target state="translated">你可改为将你手上的一张白色牌移出游戏，以代替支付虔敬的祈祷文之魔法力费用。</target>
+        <target state="translated">你可改为将你手上的一张白色牌移出游戏，以代替支付CARDNAME之魔法力费用。</target>
       </trans-unit>
       <trans-unit id="48364e19-a3ea-4980-925f-7918e57315f1" resname="MMQ·44 | Reverent Mantra | Card Text | Paragraph 2">
         <source>Choose a color. All creatures gain protection from the chosen color until end of turn.</source>
@@ -440,7 +440,7 @@
       </trans-unit>
       <trans-unit id="675378bb-7dc1-4bc8-b026-27e6e8e72e18" resname="MMQ·51 | Story Circle | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于诵传仪典进场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进场时，选择一种颜色。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="675378bb-7dc1-4bc8-b026-27e6e8e72e18" resname="MMQ·51 | Story Circle | Card Text | Paragraph 2">
@@ -455,7 +455,7 @@
       </trans-unit>
       <trans-unit id="17a58c5b-28c2-4261-992c-2ecadb721880" resname="MMQ·52 | Task Force | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes the target of a spell or ability, it gets +0/+3 until end of turn.</source>
-        <target state="translated">每当特遣部队成为咒语或异能的目标时，它得+0/+3直到回合结束。</target>
+        <target state="translated">每当CARDNAME成为咒语或异能的目标时，它得+0/+3直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="fd909c26-930d-4af0-b19a-c899847338b4" resname="MMQ·53 | Thermal Glider | Card Name">
@@ -526,7 +526,7 @@
       </trans-unit>
       <trans-unit id="59e483df-b58a-401e-85bc-0afda4bf7cac" resname="MMQ·60 | Blockade Runner | Card Text | Paragraph 1">
         <source>{U}: CARDNAME can't be blocked this turn.</source>
-        <target state="translated">蓝：封锁线奔越者此回合不能被阻挡。</target>
+        <target state="translated">蓝：CARDNAME此回合不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="dfc0ea8a-62f6-49e8-8eec-9748870bc596" resname="MMQ·62 | Bribery | Card Name">
         <source>Bribery</source>
@@ -544,7 +544,7 @@
       </trans-unit>
       <trans-unit id="b208dad2-a412-45fd-b19a-d370426ef5b8" resname="MMQ·63 | Buoyancy | Card Text | Paragraphs">
         <source>Flash\nEnchant creature\nEnchanted creature has flying.</source>
-        <target state="translated">你可以在任何能够使用瞬间的时机下，使用浮力。\n受此结界之生物获得飞行异能。</target>
+        <target state="translated">你可以在任何能够使用瞬间的时机下，使用CARDNAME。\n受此结界之生物获得飞行异能。</target>
       </trans-unit>
       <trans-unit id="860c613d-d031-4c2a-922b-39f4eec04e18" resname="MMQ·64 | Chambered Nautilus | Card Name">
         <source>Chambered Nautilus</source>
@@ -552,7 +552,7 @@
       </trans-unit>
       <trans-unit id="860c613d-d031-4c2a-922b-39f4eec04e18" resname="MMQ·64 | Chambered Nautilus | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, you may draw a card.</source>
-        <target state="translated">当鹦鹂螺被阻挡时，你可以抽一张牌。</target>
+        <target state="translated">当CARDNAME被阻挡时，你可以抽一张牌。</target>
       </trans-unit>
       <trans-unit id="05972ea2-b0bc-40fd-bce4-07eebdb150d5" resname="MMQ·65 | Chameleon Spirit | Card Name">
         <source>Chameleon Spirit</source>
@@ -560,11 +560,11 @@
       </trans-unit>
       <trans-unit id="05972ea2-b0bc-40fd-bce4-07eebdb150d5" resname="MMQ·65 | Chameleon Spirit | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">在变色精灵进场时，选择一个颜色。</target>
+        <target state="translated">在CARDNAME进场时，选择一个颜色。</target>
       </trans-unit>
       <trans-unit id="05972ea2-b0bc-40fd-bce4-07eebdb150d5" resname="MMQ·65 | Chameleon Spirit | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of permanents of the chosen color your opponents control.</source>
-        <target state="translated">变色精灵的力量与防御力，等同于所有对手操控之该色永久物的数量。</target>
+        <target state="translated">CARDNAME的力量与防御力，等同于所有对手操控之该色永久物的数量。</target>
       </trans-unit>
       <trans-unit id="63565b03-28e9-4534-b085-d5803e2623bb" resname="MMQ·66 | Charisma | Card Name">
         <source>Charisma</source>
@@ -572,7 +572,7 @@
       </trans-unit>
       <trans-unit id="63565b03-28e9-4534-b085-d5803e2623bb" resname="MMQ·66 | Charisma | Card Text | Paragraphs">
         <source>Enchant creature\nWhenever enchanted creature deals damage to a creature, gain control of the other creature for as long as CARDNAME remains on the battlefield.</source>
-        <target state="translated">每当受此结界的生物对任何生物造成伤害时，只要领袖魅力持续在场，你便操控该生物。</target>
+        <target state="translated">每当受此结界的生物对任何生物造成伤害时，只要CARDNAME持续在场，你便操控该生物。</target>
       </trans-unit>
       <trans-unit id="3d14352c-ac8c-45b5-b930-63822408ba3d" resname="MMQ·67 | Cloud Sprite | Card Name">
         <source>Cloud Sprite</source>
@@ -586,7 +586,7 @@
       </trans-unit>
       <trans-unit id="3d14352c-ac8c-45b5-b930-63822408ba3d" resname="MMQ·67 | Cloud Sprite | Card Text | Paragraph 2">
         <source>CARDNAME can block only creatures with flying.</source>
-        <target state="translated">云仙子只能阻挡具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能阻挡具飞行异能的生物。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="179d1f76-6f4c-4a77-815a-aae7a933c9ad" resname="MMQ·68 | Coastal Piracy | Card Name">
@@ -623,7 +623,7 @@
       </trans-unit>
       <trans-unit id="438e15f7-59bb-4047-af1f-ef92cc1866b8" resname="MMQ·72 | Darting Merfolk | Card Text | Paragraph 1">
         <source>{U}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">蓝：将急冲人鱼移回其拥有者手上。</target>
+        <target state="translated">蓝：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="2c9e4043-e7a6-4c68-aa03-ef2f88e46451" resname="MMQ·73 | Dehydration | Card Name">
         <source>Dehydration</source>
@@ -654,7 +654,7 @@
       </trans-unit>
       <trans-unit id="fb1e610e-a4a2-460b-8e4c-13674badbce3" resname="MMQ·75 | Diplomatic Immunity | Card Text | Paragraphs">
         <source>Enchant creature\nShroud (A permanent with shroud can't be the target of spells or abilities.)\nEnchanted creature has shroud.</source>
-        <target state="translated">受此结界的生物不能成为咒语或异能的目标。\n外交豁免权不能成为咒语或异能的目标。</target>
+        <target state="translated">受此结界的生物不能成为咒语或异能的目标。\nCARDNAME不能成为咒语或异能的目标。</target>
       </trans-unit>
       <trans-unit id="64ee32f9-6120-4f15-a692-89a4cd8167c6" resname="MMQ·76 | Drake Hatchling | Card Name">
         <source>Drake Hatchling</source>
@@ -666,7 +666,7 @@
       </trans-unit>
       <trans-unit id="64ee32f9-6120-4f15-a692-89a4cd8167c6" resname="MMQ·76 | Drake Hatchling | Card Text | Paragraph 2">
         <source>{U}: CARDNAME gets +1/+0 until end of turn. Activate only once each turn.</source>
-        <target state="translated">蓝：龙兽幼雏得+1/+0直到回合结束。此异能每回合只能使用一次。</target>
+        <target state="translated">蓝：CARDNAME得+1/+0直到回合结束。此异能每回合只能使用一次。</target>
       </trans-unit>
       <trans-unit id="3fca3c65-f20e-4978-bfbb-ee7f9e1d829f" resname="MMQ·77 | Embargo | Card Name">
         <source>Embargo</source>
@@ -686,7 +686,7 @@
       </trans-unit>
       <trans-unit id="99243564-9dbd-420c-922d-c17854c99d2a" resname="MMQ·79 | Extravagant Spirit | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {1} for each card in your hand.</source>
-        <target state="translated">在你的维持开始时，除非你为每张手牌支付1，否则牺牲奢豪精灵。</target>
+        <target state="translated">在你的维持开始时，除非你为每张手牌支付1，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="708593e6-787b-4f76-a86c-1d52857493ea" resname="MMQ·81 | Glowing Anemone | Card Name">
         <source>Glowing Anemone</source>
@@ -694,7 +694,7 @@
       </trans-unit>
       <trans-unit id="708593e6-787b-4f76-a86c-1d52857493ea" resname="MMQ·81 | Glowing Anemone | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may return target land to its owner's hand.</source>
-        <target state="translated">当发光海葵进场时，你可将目标地移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进场时，你可将目标地移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="e755bbef-bf34-49c0-ae72-d70e3599de52" resname="MMQ·82 | Gush | Card Name">
         <source>Gush</source>
@@ -702,7 +702,7 @@
       </trans-unit>
       <trans-unit id="e755bbef-bf34-49c0-ae72-d70e3599de52" resname="MMQ·82 | Gush | Card Text | Paragraph 1">
         <source>You may return two Islands you control to their owner's hand rather than pay this spell's mana cost.</source>
-        <target state="translated">你可改为将你操控的两张海岛移回其拥有者手上，以代替支付宣泄的魔法力费用。</target>
+        <target state="translated">你可改为将你操控的两张海岛移回其拥有者手上，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="e755bbef-bf34-49c0-ae72-d70e3599de52" resname="MMQ·82 | Gush | Card Text | Paragraph 2">
         <source>Draw two cards.</source>
@@ -734,7 +734,7 @@
       </trans-unit>
       <trans-unit id="dae62ce7-852b-42c6-9cbe-4807d8bf5740" resname="MMQ·85 | Indentured Djinn | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, each other player may draw up to three cards.</source>
-        <target state="translated">当契约巨灵进场时，每个其他玩家可抽最多三张牌。</target>
+        <target state="translated">当CARDNAME进场时，每个其他玩家可抽最多三张牌。</target>
       </trans-unit>
       <trans-unit id="07845861-f974-43b7-829c-79a4a41ac3e3" resname="MMQ·86 | Karn's Touch | Card Name">
         <source>Karn's Touch</source>
@@ -751,7 +751,7 @@
       </trans-unit>
       <trans-unit id="581ad59c-29e9-4498-a6fd-33bf21e8e7c4" resname="MMQ·87 | Misdirection | Card Text | Paragraph 1">
         <source>You may exile a blue card from your hand rather than pay this spell's mana cost.</source>
-        <target state="translated">你可以从你手上放逐一张蓝色牌，而不支付方向错误的法术力费用。</target>
+        <target state="translated">你可以从你手上放逐一张蓝色牌，而不支付CARDNAME的法术力费用。</target>
         <note xmlns:from="developer">中文数据来自CNS（2014-06-06）；</note>
       </trans-unit>
       <trans-unit id="581ad59c-29e9-4498-a6fd-33bf21e8e7c4" resname="MMQ·87 | Misdirection | Card Text | Paragraph 2">
@@ -773,7 +773,7 @@
       </trans-unit>
       <trans-unit id="ef25d969-68d9-4580-bb29-f72bd5646a3d" resname="MMQ·90 | Port Inspector | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, you may look at defending player's hand.</source>
-        <target state="translated">当港口巡检官被阻挡时，你可检视防御玩家的手牌。</target>
+        <target state="translated">当CARDNAME被阻挡时，你可检视防御玩家的手牌。</target>
       </trans-unit>
       <trans-unit id="5d8e596b-f5ef-405a-8910-c5d0b5c8c0fc" resname="MMQ·91 | Rishadan Airship | Card Name">
         <source>Rishadan Airship</source>
@@ -785,7 +785,7 @@
       </trans-unit>
       <trans-unit id="5d8e596b-f5ef-405a-8910-c5d0b5c8c0fc" resname="MMQ·91 | Rishadan Airship | Card Text | Paragraph 2">
         <source>CARDNAME can block only creatures with flying.</source>
-        <target state="translated">力夏达飞船只能阻挡具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能阻挡具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="a6efb653-97d8-4bc7-af8f-0b09fda655ff" resname="MMQ·92 | Rishadan Brigand | Card Name">
         <source>Rishadan Brigand</source>
@@ -797,11 +797,11 @@
       </trans-unit>
       <trans-unit id="a6efb653-97d8-4bc7-af8f-0b09fda655ff" resname="MMQ·92 | Rishadan Brigand | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, each opponent sacrifices a permanent unless they pay {3}.</source>
-        <target state="translated">当力夏达飞盗进场时，每个对手须支付3，否则该玩家牺牲一个永久物。</target>
+        <target state="translated">当CARDNAME进场时，每个对手须支付3，否则该玩家牺牲一个永久物。</target>
       </trans-unit>
       <trans-unit id="a6efb653-97d8-4bc7-af8f-0b09fda655ff" resname="MMQ·92 | Rishadan Brigand | Card Text | Paragraph 3">
         <source>CARDNAME can block only creatures with flying.</source>
-        <target state="translated">力夏达飞盗只能阻挡具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能阻挡具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="947fc270-11e3-46cd-9086-e880a5845c79" resname="MMQ·93 | Rishadan Cutpurse | Card Name">
         <source>Rishadan Cutpurse</source>
@@ -809,7 +809,7 @@
       </trans-unit>
       <trans-unit id="947fc270-11e3-46cd-9086-e880a5845c79" resname="MMQ·93 | Rishadan Cutpurse | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each opponent sacrifices a permanent unless they pay {1}.</source>
-        <target state="translated">当力夏达扒手进场时，每个对手须支付1，否则该玩家牺牲一个永久物。</target>
+        <target state="translated">当CARDNAME进场时，每个对手须支付1，否则该玩家牺牲一个永久物。</target>
       </trans-unit>
       <trans-unit id="493ee964-1a44-46a1-8606-90e215805483" resname="MMQ·94 | Rishadan Footpad | Card Name">
         <source>Rishadan Footpad</source>
@@ -817,7 +817,7 @@
       </trans-unit>
       <trans-unit id="493ee964-1a44-46a1-8606-90e215805483" resname="MMQ·94 | Rishadan Footpad | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each opponent sacrifices a permanent unless they pay {2}.</source>
-        <target state="translated">当力夏达拦路贼进场时，每个对手须支付2，否则该玩家牺牲一个永久物。</target>
+        <target state="translated">当CARDNAME进场时，每个对手须支付2，否则该玩家牺牲一个永久物。</target>
       </trans-unit>
       <trans-unit id="142479d8-8956-44a2-8c54-9dd6dc1774c0" resname="MMQ·95 | Sailmonger | Card Name">
         <source>Sailmonger</source>
@@ -837,11 +837,11 @@
       </trans-unit>
       <trans-unit id="4efd7ce9-b920-409d-a4d2-a07fff280712" resname="MMQ·96 | Sand Squid | Card Text | Paragraph 2">
         <source>You may choose not to untap CARDNAME during your untap step.</source>
-        <target state="translated">在你的重置步骤中，你可以选择不重置沙乌贼。</target>
+        <target state="translated">在你的重置步骤中，你可以选择不重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="4efd7ce9-b920-409d-a4d2-a07fff280712" resname="MMQ·96 | Sand Squid | Card Text | Paragraph 3">
         <source>{T}: Tap target creature. That creature doesn't untap during its controller's untap step for as long as CARDNAME remains tapped.</source>
-        <target state="translated">横置：横置目标生物。只要沙乌贼持续被横置，该生物便不能在其操控者的重置步骤中被重置。</target>
+        <target state="translated">横置：横置目标生物。只要CARDNAME持续被横置，该生物便不能在其操控者的重置步骤中被重置。</target>
       </trans-unit>
       <trans-unit id="a9f50964-1b57-426a-ac46-c90c045c7e40" resname="MMQ·97 | Saprazzan Bailiff | Card Name">
         <source>Saprazzan Bailiff</source>
@@ -849,11 +849,11 @@
       </trans-unit>
       <trans-unit id="a9f50964-1b57-426a-ac46-c90c045c7e40" resname="MMQ·97 | Saprazzan Bailiff | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile all artifact and enchantment cards from all graveyards.</source>
-        <target state="translated">当萨帕佐法警进场时，将所有坟墓场中所有神器及结界牌移出游戏。</target>
+        <target state="translated">当CARDNAME进场时，将所有坟墓场中所有神器及结界牌移出游戏。</target>
       </trans-unit>
       <trans-unit id="a9f50964-1b57-426a-ac46-c90c045c7e40" resname="MMQ·97 | Saprazzan Bailiff | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return all artifact and enchantment cards from all graveyards to their owners' hands.</source>
-        <target state="translated">当萨帕佐法警离场时，将所有坟墓场中所有神器及结界牌移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME离场时，将所有坟墓场中所有神器及结界牌移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="2de7bf0f-5ad5-467b-ad80-28517951bbe1" resname="MMQ·98 | Saprazzan Breaker | Card Name">
         <source>Saprazzan Breaker</source>
@@ -861,7 +861,7 @@
       </trans-unit>
       <trans-unit id="2de7bf0f-5ad5-467b-ad80-28517951bbe1" resname="MMQ·98 | Saprazzan Breaker | Card Text | Paragraph 1">
         <source>{U}: Mill a card. If a land card was milled this way, CARDNAME can't be blocked this turn.</source>
-        <target state="translated">蓝：将你牌库顶的牌置于你的坟墓场中。若此牌为地牌，萨帕佐破浪兽本回合不可被阻挡。</target>
+        <target state="translated">蓝：将你牌库顶的牌置于你的坟墓场中。若此牌为地牌，CARDNAME本回合不可被阻挡。</target>
       </trans-unit>
       <trans-unit id="0e3d913d-2dcf-4747-8169-0c44ec895864" resname="MMQ·99 | Saprazzan Heir | Card Name">
         <source>Saprazzan Heir</source>
@@ -869,7 +869,7 @@
       </trans-unit>
       <trans-unit id="0e3d913d-2dcf-4747-8169-0c44ec895864" resname="MMQ·99 | Saprazzan Heir | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, you may draw three cards.</source>
-        <target state="translated">当萨帕佐传人被阻挡时，你可以抽三张牌。</target>
+        <target state="translated">当CARDNAME被阻挡时，你可以抽三张牌。</target>
       </trans-unit>
       <trans-unit id="db9adf84-ee7e-472b-bd96-9abf853afa83" resname="MMQ·100 | Saprazzan Legate | Card Name">
         <source>Saprazzan Legate</source>
@@ -881,7 +881,7 @@
       </trans-unit>
       <trans-unit id="db9adf84-ee7e-472b-bd96-9abf853afa83" resname="MMQ·100 | Saprazzan Legate | Card Text | Paragraph 2">
         <source>Flying</source>
-        <target state="translated">若任一对手操控山脉，并且你操控海岛，则你不需支付其魔法力费用，便可以使用萨帕佐特使。</target>
+        <target state="translated">若任一对手操控山脉，并且你操控海岛，则你不需支付其魔法力费用，便可以使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b28048f1-4cf5-4389-9e69-9b5e1bc95396" resname="MMQ·101 | Saprazzan Outrigger | Card Name">
         <source>Saprazzan Outrigger</source>
@@ -889,7 +889,7 @@
       </trans-unit>
       <trans-unit id="b28048f1-4cf5-4389-9e69-9b5e1bc95396" resname="MMQ·101 | Saprazzan Outrigger | Card Text | Paragraph 1">
         <source>When CARDNAME attacks or blocks, put it on top of its owner's library at end of combat.</source>
-        <target state="translated">当萨帕佐浮艇进行攻击或阻挡时，在战斗结束时将它置于其拥有者的牌库顶。</target>
+        <target state="translated">当CARDNAME进行攻击或阻挡时，在战斗结束时将它置于其拥有者的牌库顶。</target>
       </trans-unit>
       <trans-unit id="62493f34-cea8-4d9f-8781-005947b69c9d" resname="MMQ·102 | Saprazzan Raider | Card Name">
         <source>Saprazzan Raider</source>
@@ -897,7 +897,7 @@
       </trans-unit>
       <trans-unit id="62493f34-cea8-4d9f-8781-005947b69c9d" resname="MMQ·102 | Saprazzan Raider | Card Text | Paragraph 1">
         <source>When CARDNAME becomes blocked, return it to its owner's hand.</source>
-        <target state="translated">当萨帕佐突击队被阻挡时，将它移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME被阻挡时，将它移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="aa9f4787-9b29-4f57-b105-1f9eb4bb8861" resname="MMQ·103 | Shoving Match | Card Name">
         <source>Shoving Match</source>
@@ -945,7 +945,7 @@
       </trans-unit>
       <trans-unit id="ca7f7cd5-4e91-474a-9f60-a66f3f462b1c" resname="MMQ·107 | Stinging Barrier | Card Text | Paragraph 2">
         <source>{U}, {T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">蓝，横置：刺针屏障对目标生物或玩家造成1点伤害。</target>
+        <target state="translated">蓝，横置：CARDNAME对目标生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="c12a0717-e9ea-4be3-a29f-179671ed4489" resname="MMQ·108 | Thwart | Card Name">
         <source>Thwart</source>
@@ -953,7 +953,7 @@
       </trans-unit>
       <trans-unit id="c12a0717-e9ea-4be3-a29f-179671ed4489" resname="MMQ·108 | Thwart | Card Text | Paragraph 1">
         <source>You may return three Islands you control to their owner's hand rather than pay this spell's mana cost.</source>
-        <target state="translated">你可改为将你所控制的三张海岛移回其拥有者手上，以代替支付横阻的魔法力费用。</target>
+        <target state="translated">你可改为将你所控制的三张海岛移回其拥有者手上，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="c12a0717-e9ea-4be3-a29f-179671ed4489" resname="MMQ·108 | Thwart | Card Text | Paragraph 2">
         <source>Counter target spell.</source>
@@ -965,7 +965,7 @@
       </trans-unit>
       <trans-unit id="f68fd547-59fb-41e6-be55-1ec17fe2840b" resname="MMQ·109 | Tidal Bore | Card Text | Paragraph 1">
         <source>You may return an Island you control to its owner's hand rather than pay this spell's mana cost.</source>
-        <target state="translated">你可改为将你操控的一张海岛移回其拥有者手上，以代替支付汹涌洪流的魔法力费用。</target>
+        <target state="translated">你可改为将你操控的一张海岛移回其拥有者手上，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="f68fd547-59fb-41e6-be55-1ec17fe2840b" resname="MMQ·109 | Tidal Bore | Card Text | Paragraph 2">
         <source>You may tap or untap target creature.</source>
@@ -978,7 +978,7 @@
       </trans-unit>
       <trans-unit id="356a9dcd-1a4b-4371-8f1d-aa7cb65e97e8" resname="MMQ·110 | Tidal Kraken | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">潮汐巨怪不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="eeaba189-b215-4d1c-9135-a86ce5ec955d" resname="MMQ·112 | Trade Routes | Card Name">
@@ -1018,7 +1018,7 @@
       </trans-unit>
       <trans-unit id="cfb648e3-f5ad-4b33-afa3-d4cda0d369a1" resname="MMQ·115 | Alley Grifters | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, defending player discards a card.</source>
-        <target state="translated">每当暗巷骗徒被阻挡时，防御玩家便从手上弃掉一张牌。</target>
+        <target state="translated">每当CARDNAME被阻挡时，防御玩家便从手上弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="05976e5c-b46c-431e-9dbd-1dc5fad3536c" resname="MMQ·116 | Black Market | Card Name">
         <source>Black Market</source>
@@ -1027,12 +1027,12 @@
       </trans-unit>
       <trans-unit id="05976e5c-b46c-431e-9dbd-1dc5fad3536c" resname="MMQ·116 | Black Market | Card Text | Paragraph 1">
         <source>Whenever a creature dies, put a charge counter on CARDNAME.</source>
-        <target state="translated">每当一个生物死去时，在黑市上放置一个充电指示物。</target>
+        <target state="translated">每当一个生物死去时，在CARDNAME上放置一个充电指示物。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="05976e5c-b46c-431e-9dbd-1dc5fad3536c" resname="MMQ·116 | Black Market | Card Text | Paragraph 2">
         <source>At the beginning of your precombat main phase, add {B} for each charge counter on CARDNAME.</source>
-        <target state="translated">在你战斗前的行动阶段开始时，黑市上每有一个充电指示物，便加{B}。</target>
+        <target state="translated">在你战斗前的行动阶段开始时，CARDNAME上每有一个充电指示物，便加{B}。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="c2103a44-87e5-40cd-a0de-cd19456a8366" resname="MMQ·117 | Bog Smugglers | Card Name">
@@ -1073,7 +1073,7 @@
       </trans-unit>
       <trans-unit id="9e9b6da8-39da-4fce-89cf-ea972f981331" resname="MMQ·121 | Cateran Enforcer | Card Text | Paragraph 1">
         <source>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">卡特蓝强胁者只能被神器生物或黑色生物阻挡。</target>
+        <target state="translated">CARDNAME只能被神器生物或黑色生物阻挡。</target>
       </trans-unit>
       <trans-unit id="9e9b6da8-39da-4fce-89cf-ea972f981331" resname="MMQ·121 | Cateran Enforcer | Card Text | Paragraph 2">
         <source>{4}, {T}: Search your library for a Mercenary permanent card with mana value 4 or less, put it onto the battlefield, then shuffle.</source>
@@ -1093,7 +1093,7 @@
       </trans-unit>
       <trans-unit id="e8a1ffcb-40a7-423f-b28a-b5b4c1c9ffd0" resname="MMQ·123 | Cateran Overlord | Card Text | Paragraph 1">
         <source>Sacrifice a creature: Regenerate CARDNAME.</source>
-        <target state="translated">牺牲一个生物：重生卡特蓝大王</target>
+        <target state="translated">牺牲一个生物：重生CARDNAME</target>
       </trans-unit>
       <trans-unit id="e8a1ffcb-40a7-423f-b28a-b5b4c1c9ffd0" resname="MMQ·123 | Cateran Overlord | Card Text | Paragraph 2">
         <source>{6}, {T}: Search your library for a Mercenary permanent card with mana value 6 or less, put it onto the battlefield, then shuffle.</source>
@@ -1134,7 +1134,7 @@
       </trans-unit>
       <trans-unit id="411c9f22-2df0-4a63-b2be-fa02612a6ef8" resname="MMQ·127 | Conspiracy | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于同谋进场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进场时，选择一种生物类别。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="411c9f22-2df0-4a63-b2be-fa02612a6ef8" resname="MMQ·127 | Conspiracy | Card Text | Paragraph 2">
@@ -1148,11 +1148,11 @@
       </trans-unit>
       <trans-unit id="5cb652fc-5a21-4e02-a776-a38fb41ad18c" resname="MMQ·128 | Corrupt Official | Card Text | Paragraph 1">
         <source>{2}{B}: Regenerate CARDNAME.</source>
-        <target state="translated">2黑：重生贪污的官僚。</target>
+        <target state="translated">2黑：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="5cb652fc-5a21-4e02-a776-a38fb41ad18c" resname="MMQ·128 | Corrupt Official | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes blocked, defending player discards a card at random.</source>
-        <target state="translated">每当贪污的官僚被阻挡时，防御玩家从手上随机弃掉一张牌。</target>
+        <target state="translated">每当CARDNAME被阻挡时，防御玩家从手上随机弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="d0fff328-704e-462d-9613-82d05371f544" resname="MMQ·130 | Deathgazer | Card Name">
         <source>Deathgazer</source>
@@ -1161,7 +1161,7 @@
       </trans-unit>
       <trans-unit id="d0fff328-704e-462d-9613-82d05371f544" resname="MMQ·130 | Deathgazer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.</source>
-        <target state="translated">每当致命妖瞳阻挡非黑色生物或被非黑色生物阻挡，在战斗结束时消灭该生物。</target>
+        <target state="translated">每当CARDNAME阻挡非黑色生物或被非黑色生物阻挡，在战斗结束时消灭该生物。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="29cd6685-37ca-47c7-8f64-1fb86e9610ca" resname="MMQ·131 | Deepwood Ghoul | Card Name">
@@ -1171,7 +1171,7 @@
       </trans-unit>
       <trans-unit id="29cd6685-37ca-47c7-8f64-1fb86e9610ca" resname="MMQ·131 | Deepwood Ghoul | Card Text | Paragraph 1">
         <source>Pay 2 life: Regenerate CARDNAME.</source>
-        <target state="translated">支付2点生命：重生深邃林食尸鬼。</target>
+        <target state="translated">支付2点生命：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="54f01925-7fd0-472d-91a4-3309e615f22f" resname="MMQ·132 | Deepwood Legate | Card Name">
@@ -1180,11 +1180,11 @@
       </trans-unit>
       <trans-unit id="54f01925-7fd0-472d-91a4-3309e615f22f" resname="MMQ·132 | Deepwood Legate | Card Text | Paragraph 1">
         <source>If an opponent controls a Forest and you control a Swamp, you may cast this spell without paying its mana cost.</source>
-        <target state="translated">若任一对手操控森林，并且你操控沼泽，则你不需支付其魔法力费用，便可以使用深邃林特使。</target>
+        <target state="translated">若任一对手操控森林，并且你操控沼泽，则你不需支付其魔法力费用，便可以使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="54f01925-7fd0-472d-91a4-3309e615f22f" resname="MMQ·132 | Deepwood Legate | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">黑：深邃林特使得+1/+1直到回合结束。</target>
+        <target state="translated">黑：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="da64094f-df6e-4c43-b4ae-03aab6b92816" resname="MMQ·133 | Delraich | Card Name">
         <source>Delraich</source>
@@ -1196,7 +1196,7 @@
       </trans-unit>
       <trans-unit id="da64094f-df6e-4c43-b4ae-03aab6b92816" resname="MMQ·133 | Delraich | Card Text | Paragraph 2">
         <source>Trample</source>
-        <target state="translated">你可改为牺牲三个黑色生物，以代替支付迪锐奇的魔法力费用。</target>
+        <target state="translated">你可改为牺牲三个黑色生物，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="dffca723-360d-48de-a0a8-32288627f3df" resname="MMQ·134 | Enslaved Horror | Card Name">
         <source>Enslaved Horror</source>
@@ -1204,7 +1204,7 @@
       </trans-unit>
       <trans-unit id="dffca723-360d-48de-a0a8-32288627f3df" resname="MMQ·134 | Enslaved Horror | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each other player may return a creature card from their graveyard to the battlefield.</source>
-        <target state="translated">当豢奴惊惧兽进场时，每个其他玩家都可以从自己的坟墓场中将一张生物牌移回场上。</target>
+        <target state="translated">当CARDNAME进场时，每个其他玩家都可以从自己的坟墓场中将一张生物牌移回场上。</target>
       </trans-unit>
       <trans-unit id="a66742db-4750-49ce-ad05-b825af7222c4" resname="MMQ·135 | Extortion | Card Name">
         <source>Extortion</source>
@@ -1247,7 +1247,7 @@
       </trans-unit>
       <trans-unit id="fc826c88-fe3c-4004-8283-27910c550fae" resname="MMQ·139 | Highway Robber | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent loses 2 life and you gain 2 life.</source>
-        <target state="translated">当大道抢匪进场时，你获得2点生命且目标对手失去2点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得2点生命且目标对手失去2点生命。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="2e3f57af-17d4-4a4c-ae46-fe37f97466fa" resname="MMQ·140 | Instigator | Card Name">
@@ -1264,7 +1264,7 @@
       </trans-unit>
       <trans-unit id="d2544c9d-adc2-4d67-8850-9af38e73ea1e" resname="MMQ·141 | Insubordination | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of the end step of enchanted creature's controller, CARDNAME deals 2 damage to that player unless that creature attacked this turn.</source>
-        <target state="translated">在受此结界生物之操控者的回合结束时，除非受此结界的生物在该回合中曾进行攻击，否则以下犯上对该玩家造成2点伤害。</target>
+        <target state="translated">在受此结界生物之操控者的回合结束时，除非受此结界的生物在该回合中曾进行攻击，否则CARDNAME对该玩家造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="1b9e1724-91cf-422e-909b-ddb69a6f9f76" resname="MMQ·142 | Intimidation | Card Name">
         <source>Intimidation</source>
@@ -1298,7 +1298,7 @@
       </trans-unit>
       <trans-unit id="6ab963aa-2304-4ee6-a8c7-c485c5133b40" resname="MMQ·145 | Maggot Therapy | Card Text | Paragraphs">
         <source>Flash\nEnchant creature\nEnchanted creature gets +2/-2.</source>
-        <target state="translated">你可以在任何能够使用瞬间的时机下，使用蛆虫疗法。\n受此结界的生物得+2/-2。</target>
+        <target state="translated">你可以在任何能够使用瞬间的时机下，使用CARDNAME。\n受此结界的生物得+2/-2。</target>
       </trans-unit>
       <trans-unit id="0e98c4f7-b0f4-48c6-b502-3dc5802d827f" resname="MMQ·146 | Midnight Ritual | Card Name">
         <source>Midnight Ritual</source>
@@ -1328,7 +1328,7 @@
       </trans-unit>
       <trans-unit id="ddfe33fb-71d5-4552-bcd3-f07e4e3847e1" resname="MMQ·148 | Molting Harpy | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {2}.</source>
-        <target state="translated">在你的维持开始时，除非你支付2，否则牺牲换毛哈痞。</target>
+        <target state="translated">在你的维持开始时，除非你支付2，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="220217c5-408c-40df-8133-da16b13d4f21" resname="MMQ·149 | Nether Spirit | Card Name">
         <source>Nether Spirit</source>
@@ -1337,7 +1337,7 @@
       </trans-unit>
       <trans-unit id="220217c5-408c-40df-8133-da16b13d4f21" resname="MMQ·149 | Nether Spirit | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, if CARDNAME is the only creature card in your graveyard, you may return CARDNAME to the battlefield.</source>
-        <target state="translated">在你的维持开始时，若冥府精怪是你坟墓场中唯一的生物牌，则你可以将冥府精怪移回战场。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME是你坟墓场中唯一的生物牌，则你可以将CARDNAME移回战场。</target>
         <note xmlns:from="developer">中文数据来自MH1（2019-06-14）；</note>
       </trans-unit>
       <trans-unit id="239e48d8-e2ba-4e25-88ef-301420c796b4" resname="MMQ·150 | Notorious Assassin | Card Name">
@@ -1363,7 +1363,7 @@
       </trans-unit>
       <trans-unit id="5d6ed1fb-2f7d-4a21-bbf3-660cad631975" resname="MMQ·152 | Primeval Shambler | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：野地跛行兽得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="65104b23-58a6-41c0-b887-90a3fb959289" resname="MMQ·153 | Putrefaction | Card Name">
@@ -1380,7 +1380,7 @@
       </trans-unit>
       <trans-unit id="3c91c44e-6bfc-4595-9cdb-17d73f912c09" resname="MMQ·154 | Quagmire Lamprey | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked by a creature, put a -1/-1 counter on that creature.</source>
-        <target state="translated">每当湿沼八目鳗被生物阻挡时，在该生物上放置一个-1/-1指示物。</target>
+        <target state="translated">每当CARDNAME被生物阻挡时，在该生物上放置一个-1/-1指示物。</target>
       </trans-unit>
       <trans-unit id="8b60f86f-c78a-4dfb-bb18-e9bcf21b26c4" resname="MMQ·156 | Rampart Crawler | Card Name">
         <source>Rampart Crawler</source>
@@ -1388,7 +1388,7 @@
       </trans-unit>
       <trans-unit id="8b60f86f-c78a-4dfb-bb18-e9bcf21b26c4" resname="MMQ·156 | Rampart Crawler | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by Walls.</source>
-        <target state="translated">壁垒爬虫不可被墙阻挡。</target>
+        <target state="translated">CARDNAME不可被墙阻挡。</target>
       </trans-unit>
       <trans-unit id="ad01a8e2-5dc5-49a3-ad1c-7d5bf006b774" resname="MMQ·157 | Rouse | Card Name">
         <source>Rouse</source>
@@ -1396,7 +1396,7 @@
       </trans-unit>
       <trans-unit id="ad01a8e2-5dc5-49a3-ad1c-7d5bf006b774" resname="MMQ·157 | Rouse | Card Text | Paragraph 1">
         <source>If you control a Swamp, you may pay 2 life rather than pay this spell's mana cost.</source>
-        <target state="translated">如果你操控沼泽，你可改为支付2点生命，以代替支付惊起的魔法力费用。</target>
+        <target state="translated">如果你操控沼泽，你可改为支付2点生命，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="ad01a8e2-5dc5-49a3-ad1c-7d5bf006b774" resname="MMQ·157 | Rouse | Card Text | Paragraph 2">
         <source>Target creature gets +2/+0 until end of turn.</source>
@@ -1434,7 +1434,7 @@
       </trans-unit>
       <trans-unit id="175ed19c-9635-45ee-bb2c-32b96270a246" resname="MMQ·161 | Skulking Fugitive | Card Text | Paragraph 1">
         <source>When CARDNAME becomes the target of a spell or ability, sacrifice it.</source>
-        <target state="translated">当隐匿的逃犯成为咒语或异能的目标时，牺牲隐匿的逃犯。</target>
+        <target state="translated">当CARDNAME成为咒语或异能的目标时，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="18a3cca1-e50e-49b6-9e1a-f86640e3b177" resname="MMQ·162 | Snuff Out | Card Name">
         <source>Snuff Out</source>
@@ -1442,7 +1442,7 @@
       </trans-unit>
       <trans-unit id="18a3cca1-e50e-49b6-9e1a-f86640e3b177" resname="MMQ·162 | Snuff Out | Card Text | Paragraph 1">
         <source>If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.</source>
-        <target state="translated">如果你操控沼泽，你可改为支付4点生命，以代替支付除灭的魔法力费用。</target>
+        <target state="translated">如果你操控沼泽，你可改为支付4点生命，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="18a3cca1-e50e-49b6-9e1a-f86640e3b177" resname="MMQ·162 | Snuff Out | Card Text | Paragraph 2">
         <source>Destroy target nonblack creature. It can't be regenerated.</source>
@@ -1470,7 +1470,7 @@
       </trans-unit>
       <trans-unit id="20aa9108-470c-484d-908a-c31cf6935765" resname="MMQ·165 | Strongarm Thug | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may return target Mercenary card from your graveyard to your hand.</source>
-        <target state="translated">当强臂刺客进场时，你可以从你的坟墓场中将一张佣兵牌移回手上。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你的坟墓场中将一张佣兵牌移回手上。</target>
       </trans-unit>
       <trans-unit id="86bc07c6-2ba7-41f8-90ab-f9bbac86dd08" resname="MMQ·166 | Thrashing Wumpus | Card Name">
         <source>Thrashing Wumpus</source>
@@ -1478,7 +1478,7 @@
       </trans-unit>
       <trans-unit id="86bc07c6-2ba7-41f8-90ab-f9bbac86dd08" resname="MMQ·166 | Thrashing Wumpus | Card Text | Paragraph 1">
         <source>{B}: CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">黑：鞭笞狮头象对每个生物和玩家造成1点伤害。</target>
+        <target state="translated">黑：CARDNAME对每个生物和玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="f615f531-e8af-4f7b-a4ea-fb962149093f" resname="MMQ·167 | Undertaker | Card Name">
         <source>Undertaker</source>
@@ -1496,7 +1496,7 @@
       </trans-unit>
       <trans-unit id="2db7a0e6-eea5-4fa6-ac14-401411b106cc" resname="MMQ·168 | Unmask | Card Text | Paragraph 1">
         <source>You may exile a black card from your hand rather than pay this spell's mana cost.</source>
-        <target state="translated">你可改为从手上将一张黑色牌移出游戏，以代替支付揭开真相的魔法力费用。</target>
+        <target state="translated">你可改为从手上将一张黑色牌移出游戏，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="2db7a0e6-eea5-4fa6-ac14-401411b106cc" resname="MMQ·168 | Unmask | Card Text | Paragraph 2">
         <source>Target player reveals their hand. You choose a nonland card from it. That player discards that card.</source>
@@ -1508,7 +1508,7 @@
       </trans-unit>
       <trans-unit id="3985f240-4289-4d48-978c-bb2ce2b54c36" resname="MMQ·169 | Unnatural Hunger | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, CARDNAME deals damage equal to that creature's power to that player unless they sacrifice another creature.</source>
-        <target state="translated">在受此结界生物之操控者的维持开始时，除非该玩家牺牲另一个生物，否则异常饥饿对该玩家造成等同于受此结界生物之力量的伤害。</target>
+        <target state="translated">在受此结界生物之操控者的维持开始时，除非该玩家牺牲另一个生物，否则CARDNAME对该玩家造成等同于受此结界生物之力量的伤害。</target>
       </trans-unit>
       <trans-unit id="67ced38e-0f33-4bda-8e18-09f6ac03a3d7" resname="MMQ·170 | Vendetta | Card Name">
         <source>Vendetta</source>
@@ -1539,7 +1539,7 @@
       </trans-unit>
       <trans-unit id="dafea45d-be00-428d-a127-70e6a14efe3f" resname="MMQ·172 | Arms Dealer | Card Text | Paragraph 1">
         <source>{1}{R}, Sacrifice a Goblin: CARDNAME deals 4 damage to target creature.</source>
-        <target state="translated">{1}{R}，牺牲一个鬼怪：军火商对目标生物造成4点伤害。</target>
+        <target state="translated">{1}{R}，牺牲一个鬼怪：CARDNAME对目标生物造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="f27f6658-0f00-4934-8d12-cd0dda3958c9" resname="MMQ·173 | Battle Rampart | Card Name">
@@ -1569,7 +1569,7 @@
       </trans-unit>
       <trans-unit id="37d55504-ee04-4a5a-a952-9ec5dc2db413" resname="MMQ·174 | Battle Squadron | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of creatures you control.</source>
-        <target state="translated">战斗航空队的力量和防御力各等同于由你操控的生物数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控的生物数量。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="801b0fd1-bbb2-47c0-a4c3-4129a67473b9" resname="MMQ·175 | Blaster Mage | Card Name">
@@ -1586,11 +1586,11 @@
       </trans-unit>
       <trans-unit id="baa1e796-809c-49af-a84e-ec088f7f48f8" resname="MMQ·176 | Blood Hound | Card Text | Paragraph 1">
         <source>Whenever you're dealt damage, you may put that many +1/+1 counters on CARDNAME.</source>
-        <target state="translated">每当你受到伤害时，你可以在血腥猎犬上放置等量的+1/+1指示物。</target>
+        <target state="translated">每当你受到伤害时，你可以在CARDNAME上放置等量的+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="baa1e796-809c-49af-a84e-ec088f7f48f8" resname="MMQ·176 | Blood Hound | Card Text | Paragraph 2">
         <source>At the beginning of your end step, remove all +1/+1 counters from CARDNAME.</source>
-        <target state="translated">在你的回合结束时，将血腥猎犬上的所有+1/+1指示物移除。</target>
+        <target state="translated">在你的回合结束时，将CARDNAME上的所有+1/+1指示物移除。</target>
       </trans-unit>
       <trans-unit id="f1556a12-ff45-4a12-988a-63615b3799a9" resname="MMQ·177 | Blood Oath | Card Name">
         <source>Blood Oath</source>
@@ -1598,7 +1598,7 @@
       </trans-unit>
       <trans-unit id="f1556a12-ff45-4a12-988a-63615b3799a9" resname="MMQ·177 | Blood Oath | Card Text | Paragraph 1">
         <source>Choose a card type. Target opponent reveals their hand. CARDNAME deals 3 damage to that player for each card of the chosen type revealed this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)</source>
-        <target state="translated">选择一个牌的类别。目标对手展示其手牌。该玩家手上每有一张该类别的牌，血誓便对他造成3点伤害。（牌的类别包括神器、生物、结界、瞬间、地和巫术）</target>
+        <target state="translated">选择一个牌的类别。目标对手展示其手牌。该玩家手上每有一张该类别的牌，CARDNAME便对他造成3点伤害。（牌的类别包括神器、生物、结界、瞬间、地和巫术）</target>
       </trans-unit>
       <trans-unit id="3f4e783c-0717-4127-bd7b-885ca617ca29" resname="MMQ·178 | Brawl | Card Name">
         <source>Brawl</source>
@@ -1622,11 +1622,11 @@
       </trans-unit>
       <trans-unit id="440d9d26-f304-467d-af79-914cc65f082e" resname="MMQ·180 | Cave-In | Card Text | Paragraph 1">
         <source>You may exile a red card from your hand rather than pay this spell's mana cost.</source>
-        <target state="translated">你可改为将一张红色牌从手上移出游戏，以代替支付塌陷的魔法力费用。</target>
+        <target state="translated">你可改为将一张红色牌从手上移出游戏，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="440d9d26-f304-467d-af79-914cc65f082e" resname="MMQ·180 | Cave-In | Card Text | Paragraph 2">
         <source>CARDNAME deals 2 damage to each creature and each player.</source>
-        <target state="translated">塌陷对每个生物和玩家造成2点伤害。</target>
+        <target state="translated">CARDNAME对每个生物和玩家造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="bd0a8af9-2e86-4639-a6c9-209f115e95f8" resname="MMQ·181 | Cavern Crawler | Card Name">
         <source>Cavern Crawler</source>
@@ -1638,7 +1638,7 @@
       </trans-unit>
       <trans-unit id="bd0a8af9-2e86-4639-a6c9-209f115e95f8" resname="MMQ·181 | Cavern Crawler | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/-1 until end of turn.</source>
-        <target state="translated">红：巨穴爬虫得+1/-1直到回合结束。</target>
+        <target state="translated">红：CARDNAME得+1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4a6c69d1-5295-419f-bb8f-af826bf92cb3" resname="MMQ·182 | Ceremonial Guard | Card Name">
         <source>Ceremonial Guard</source>
@@ -1646,7 +1646,7 @@
       </trans-unit>
       <trans-unit id="4a6c69d1-5295-419f-bb8f-af826bf92cb3" resname="MMQ·182 | Ceremonial Guard | Card Text | Paragraph 1">
         <source>When CARDNAME attacks or blocks, destroy it at end of combat.</source>
-        <target state="translated">当仪典卫兵进行攻击或阻挡，在战斗结束时将其消灭。</target>
+        <target state="translated">当CARDNAME进行攻击或阻挡，在战斗结束时将其消灭。</target>
       </trans-unit>
       <trans-unit id="80b39056-2ee8-4cfd-acbd-ba99f74e788d" resname="MMQ·183 | Cinder Elemental | Card Name">
         <source>Cinder Elemental</source>
@@ -1655,7 +1655,7 @@
       </trans-unit>
       <trans-unit id="80b39056-2ee8-4cfd-acbd-ba99f74e788d" resname="MMQ·183 | Cinder Elemental | Card Text | Paragraph 1">
         <source>{X}{R}, {T}, Sacrifice CARDNAME: It deals X damage to any target.</source>
-        <target state="translated">{X}{R}，{T}，牺牲煤渣元素：煤渣元素对目标生物或牌手造成X点伤害。</target>
+        <target state="translated">{X}{R}，{T}，牺牲CARDNAME：CARDNAME对目标生物或牌手造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自GTC（2013-02-01）；</note>
       </trans-unit>
       <trans-unit id="1b9131c7-4e46-4c01-80b3-a6b055439346" resname="MMQ·184 | Close Quarters | Card Name">
@@ -1664,7 +1664,7 @@
       </trans-unit>
       <trans-unit id="1b9131c7-4e46-4c01-80b3-a6b055439346" resname="MMQ·184 | Close Quarters | Card Text | Paragraph 1">
         <source>Whenever a creature you control becomes blocked, CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">每当一个你操控的生物被阻挡时，近身战对目标生物或玩家造成1点伤害。</target>
+        <target state="translated">每当一个你操控的生物被阻挡时，CARDNAME对目标生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="1f0907a5-938e-4ef4-aa85-e7c1ae4317a6" resname="MMQ·185 | Crag Saurian | Card Name">
         <source>Crag Saurian</source>
@@ -1672,7 +1672,7 @@
       </trans-unit>
       <trans-unit id="1f0907a5-938e-4ef4-aa85-e7c1ae4317a6" resname="MMQ·185 | Crag Saurian | Card Text | Paragraph 1">
         <source>Whenever a source deals damage to CARDNAME, that source's controller gains control of CARDNAME.</source>
-        <target state="translated">每当峭壁蜥受到伤害时，该伤害来源的操控者获得峭壁蜥的操控权。</target>
+        <target state="translated">每当CARDNAME受到伤害时，该伤害来源的操控者获得CARDNAME的操控权。</target>
       </trans-unit>
       <trans-unit id="7a26bde3-8392-4476-b347-f223d52554a6" resname="MMQ·186 | Crash | Card Name">
         <source>Crash</source>
@@ -1680,7 +1680,7 @@
       </trans-unit>
       <trans-unit id="7a26bde3-8392-4476-b347-f223d52554a6" resname="MMQ·186 | Crash | Card Text | Paragraph 1">
         <source>You may sacrifice a Mountain rather than pay this spell's mana cost.</source>
-        <target state="translated">你可改为牺牲一张山脉，以代替支付冲撞的魔法力费用。</target>
+        <target state="translated">你可改为牺牲一张山脉，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="7a26bde3-8392-4476-b347-f223d52554a6" resname="MMQ·186 | Crash | Card Text | Paragraph 2">
         <source>Destroy target artifact.</source>
@@ -1696,11 +1696,11 @@
       </trans-unit>
       <trans-unit id="6eee8c2e-bda7-4bf9-80fe-87d96024ca8b" resname="MMQ·187 | Flailing Manticore | Card Text | Paragraph 2">
         <source>{1}: CARDNAME gets +1/+1 until end of turn. Any player may activate this ability.</source>
-        <target state="translated">1：连枷翼狮得+1/+1直到回合结束。任何玩家都可使用此异能。</target>
+        <target state="translated">1：CARDNAME得+1/+1直到回合结束。任何玩家都可使用此异能。</target>
       </trans-unit>
       <trans-unit id="6eee8c2e-bda7-4bf9-80fe-87d96024ca8b" resname="MMQ·187 | Flailing Manticore | Card Text | Paragraph 3">
         <source>{1}: CARDNAME gets -1/-1 until end of turn. Any player may activate this ability.</source>
-        <target state="translated">1：连枷翼狮得-1/-1直到回合结束。任何玩家都可使用此异能。</target>
+        <target state="translated">1：CARDNAME得-1/-1直到回合结束。任何玩家都可使用此异能。</target>
       </trans-unit>
       <trans-unit id="e400e520-b2b8-4c13-a4ea-f8810c927bf7" resname="MMQ·188 | Flailing Ogre | Card Name">
         <source>Flailing Ogre</source>
@@ -1708,11 +1708,11 @@
       </trans-unit>
       <trans-unit id="e400e520-b2b8-4c13-a4ea-f8810c927bf7" resname="MMQ·188 | Flailing Ogre | Card Text | Paragraph 1">
         <source>{1}: CARDNAME gets +1/+1 until end of turn. Any player may activate this ability.</source>
-        <target state="translated">1：连枷食人魔得+1/+1直到回合结束。任何玩家都可使用此异能。</target>
+        <target state="translated">1：CARDNAME得+1/+1直到回合结束。任何玩家都可使用此异能。</target>
       </trans-unit>
       <trans-unit id="e400e520-b2b8-4c13-a4ea-f8810c927bf7" resname="MMQ·188 | Flailing Ogre | Card Text | Paragraph 2">
         <source>{1}: CARDNAME gets -1/-1 until end of turn. Any player may activate this ability.</source>
-        <target state="translated">1：连枷食人魔得-1/-1直到回合结束。任何玩家都可使用此异能。</target>
+        <target state="translated">1：CARDNAME得-1/-1直到回合结束。任何玩家都可使用此异能。</target>
       </trans-unit>
       <trans-unit id="fb44b0f6-0608-40d6-9eaa-48e5a834701f" resname="MMQ·189 | Flailing Soldier | Card Name">
         <source>Flailing Soldier</source>
@@ -1720,11 +1720,11 @@
       </trans-unit>
       <trans-unit id="fb44b0f6-0608-40d6-9eaa-48e5a834701f" resname="MMQ·189 | Flailing Soldier | Card Text | Paragraph 1">
         <source>{1}: CARDNAME gets +1/+1 until end of turn. Any player may activate this ability.</source>
-        <target state="translated">1：连枷士兵得+1/+1直到回合结束。任何玩家都可使用此异能。</target>
+        <target state="translated">1：CARDNAME得+1/+1直到回合结束。任何玩家都可使用此异能。</target>
       </trans-unit>
       <trans-unit id="fb44b0f6-0608-40d6-9eaa-48e5a834701f" resname="MMQ·189 | Flailing Soldier | Card Text | Paragraph 2">
         <source>{1}: CARDNAME gets -1/-1 until end of turn. Any player may activate this ability.</source>
-        <target state="translated">1：连枷士兵得-1/-1直到回合结束。任何玩家都可使用此异能。</target>
+        <target state="translated">1：CARDNAME得-1/-1直到回合结束。任何玩家都可使用此异能。</target>
       </trans-unit>
       <trans-unit id="17ecd9ff-8c30-4e17-8cff-dd40d653c4af" resname="MMQ·190 | Flaming Sword | Card Name">
         <source>Flaming Sword</source>
@@ -1732,7 +1732,7 @@
       </trans-unit>
       <trans-unit id="17ecd9ff-8c30-4e17-8cff-dd40d653c4af" resname="MMQ·190 | Flaming Sword | Card Text | Paragraphs">
         <source>Flash\nEnchant creature\nEnchanted creature gets +1/+0 and has first strike.</source>
-        <target state="translated">你可以在任何能够使用瞬间的时机下，使用火焰剑。\n目标生物得+1/+0并获得先攻异能。</target>
+        <target state="translated">你可以在任何能够使用瞬间的时机下，使用CARDNAME。\n目标生物得+1/+0并获得先攻异能。</target>
       </trans-unit>
       <trans-unit id="27a07fae-0f34-45e7-b22d-97eea9031022" resname="MMQ·191 | Furious Assault | Card Name">
         <source>Furious Assault</source>
@@ -1740,7 +1740,7 @@
       </trans-unit>
       <trans-unit id="27a07fae-0f34-45e7-b22d-97eea9031022" resname="MMQ·191 | Furious Assault | Card Text | Paragraph 1">
         <source>Whenever you cast a creature spell, CARDNAME deals 1 damage to target player or planeswalker.</source>
-        <target state="translated">每当你使用生物咒语时，狂怒的突袭对目标玩家造成1点伤害。</target>
+        <target state="translated">每当你使用生物咒语时，CARDNAME对目标玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="8a88f507-3d78-4f7f-a91f-8489ad9250f2" resname="MMQ·192 | Gerrard's Irregulars | Card Name">
         <source>Gerrard's Irregulars</source>
@@ -1764,7 +1764,7 @@
       </trans-unit>
       <trans-unit id="dc33920a-f05c-46fa-b94b-278af0022b78" resname="MMQ·194 | Hired Giant | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each other player may search their library for a land card and put that card onto the battlefield. Then each player who searched their library this way shuffles.</source>
-        <target state="translated">当雇佣巨人进场时，每个其他玩家都可以从自己的牌库中搜寻一张地牌，将该牌放置进场，然后将牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，每个其他玩家都可以从自己的牌库中搜寻一张地牌，将该牌放置进场，然后将牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="4389fbcd-182a-4cac-b14f-aa971948cf8e" resname="MMQ·195 | Kris Mage | Card Name">
         <source>Kris Mage</source>
@@ -1772,7 +1772,7 @@
       </trans-unit>
       <trans-unit id="4389fbcd-182a-4cac-b14f-aa971948cf8e" resname="MMQ·195 | Kris Mage | Card Text | Paragraph 1">
         <source>{R}, {T}, Discard a card: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">红，横置，从你手上弃掉一张牌：克利斯刀法师对目标生物或玩家造成1点伤害。</target>
+        <target state="translated">红，横置，从你手上弃掉一张牌：CARDNAME对目标生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="0bc55e01-342e-4856-937e-14561b8d165b" resname="MMQ·196 | Kyren Glider | Card Name">
         <source>Kyren Glider</source>
@@ -1784,7 +1784,7 @@
       </trans-unit>
       <trans-unit id="0bc55e01-342e-4856-937e-14561b8d165b" resname="MMQ·196 | Kyren Glider | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">凯壬滑翔翼不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="6f0e9806-be8c-4b88-a4be-0111d1be81d9" resname="MMQ·197 | Kyren Legate | Card Name">
         <source>Kyren Legate</source>
@@ -1792,7 +1792,7 @@
       </trans-unit>
       <trans-unit id="6f0e9806-be8c-4b88-a4be-0111d1be81d9" resname="MMQ·197 | Kyren Legate | Card Text | Paragraph 1">
         <source>If an opponent controls a Plains and you control a Mountain, you may cast this spell without paying its mana cost.</source>
-        <target state="translated">若任何对手操控平原，并且你操控任何山脉，则你不需支付其魔法力费用，便可以使用凯壬特使。</target>
+        <target state="translated">若任何对手操控平原，并且你操控任何山脉，则你不需支付其魔法力费用，便可以使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="6f0e9806-be8c-4b88-a4be-0111d1be81d9" resname="MMQ·197 | Kyren Legate | Card Text | Paragraph 2">
         <source>Haste</source>
@@ -1812,7 +1812,7 @@
       </trans-unit>
       <trans-unit id="4df99e19-0b1e-48ec-a146-38cf147eab61" resname="MMQ·199 | Kyren Sniper | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, you may have CARDNAME deal 1 damage to target player or planeswalker.</source>
-        <target state="translated">在你的维持开始时，你可以让凯壬狙击手对目标玩家造成1点伤害。</target>
+        <target state="translated">在你的维持开始时，你可以让CARDNAME对目标玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="09d0fbe6-6ce1-4b95-afb7-a7386b5033cf" resname="MMQ·200 | Lava Runner | Card Name">
         <source>Lava Runner</source>
@@ -1824,7 +1824,7 @@
       </trans-unit>
       <trans-unit id="09d0fbe6-6ce1-4b95-afb7-a7386b5033cf" resname="MMQ·200 | Lava Runner | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes the target of a spell or ability, that spell or ability's controller sacrifices a land.</source>
-        <target state="translated">每当熔岩奔越者成为咒语或异能的目标时，该咒语或异能的操控者就牺牲一张地。</target>
+        <target state="translated">每当CARDNAME成为咒语或异能的目标时，该咒语或异能的操控者就牺牲一张地。</target>
       </trans-unit>
       <trans-unit id="38c82a1d-5db1-4090-b446-cc5bc6dc811d" resname="MMQ·201 | Lightning Hounds | Card Name">
         <source>Lightning Hounds</source>
@@ -1840,7 +1840,7 @@
       </trans-unit>
       <trans-unit id="98ee0f17-de64-4abb-afad-4005275f1a3c" resname="MMQ·202 | Lithophage | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you sacrifice a Mountain.</source>
-        <target state="translated">在你的维持开始时，除非你牺牲一个山脉，否则牺牲砾食非。</target>
+        <target state="translated">在你的维持开始时，除非你牺牲一个山脉，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="e9e43349-429c-43f7-b808-c4bf37370a9f" resname="MMQ·203 | Lunge | Card Name">
         <source>Lunge</source>
@@ -1848,7 +1848,7 @@
       </trans-unit>
       <trans-unit id="e9e43349-429c-43f7-b808-c4bf37370a9f" resname="MMQ·203 | Lunge | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature and 2 damage to target player or planeswalker.</source>
-        <target state="translated">突刺对目标生物造成2点伤害，并且对目标玩家造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成2点伤害，并且对目标玩家造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="2f83d39e-bf49-4968-829e-c0e9abf2fb86" resname="MMQ·204 | Magistrate's Veto | Card Name">
         <source>Magistrate's Veto</source>
@@ -1872,7 +1872,7 @@
       </trans-unit>
       <trans-unit id="afbbc44d-60fb-45fc-a588-14aab0340134" resname="MMQ·207 | Pulverize | Card Text | Paragraph 1">
         <source>You may sacrifice two Mountains rather than pay this spell's mana cost.</source>
-        <target state="translated">你可改为牺牲两张山脉，以代替支付捣碎的魔法力费用。</target>
+        <target state="translated">你可改为牺牲两张山脉，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="afbbc44d-60fb-45fc-a588-14aab0340134" resname="MMQ·207 | Pulverize | Card Text | Paragraph 2">
         <source>Destroy all artifacts.</source>
@@ -1896,7 +1896,7 @@
       </trans-unit>
       <trans-unit id="7d5cf073-2ba0-463e-bcd4-979ad18e28fc" resname="MMQ·209 | Robber Fly | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes blocked, defending player discards all the cards in their hand, then draws that many cards.</source>
-        <target state="translated">每当强盗苍蝇被阻挡时，防御玩家弃掉手牌，然后抽等量的牌。</target>
+        <target state="translated">每当CARDNAME被阻挡时，防御玩家弃掉手牌，然后抽等量的牌。</target>
       </trans-unit>
       <trans-unit id="dff05df8-76f5-48c6-ac96-7b4e6a7050f6" resname="MMQ·210 | Rock Badger | Card Name">
         <source>Rock Badger</source>
@@ -1923,7 +1923,7 @@
       </trans-unit>
       <trans-unit id="e7a918ca-3e60-46de-9f29-56bdc6430a77" resname="MMQ·212 | Shock Troops | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: It deals 2 damage to any target.</source>
-        <target state="translated">牺牲震撼部队：震撼部队对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">牺牲CARDNAME：CARDNAME对目标生物或牌手造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="f1ca1eee-d97d-48c6-84f1-7d1f972c3ca9" resname="MMQ·213 | Sizzle | Card Name">
@@ -1933,7 +1933,7 @@
       </trans-unit>
       <trans-unit id="f1ca1eee-d97d-48c6-84f1-7d1f972c3ca9" resname="MMQ·213 | Sizzle | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to each opponent.</source>
-        <target state="translated">嘶爆对每位对手各造成3点伤害。</target>
+        <target state="translated">CARDNAME对每位对手各造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="4ba8325a-1203-4125-9111-94d9e2b1f14b" resname="MMQ·214 | Squee, Goblin Nabob | Card Name">
@@ -1943,7 +1943,7 @@
       </trans-unit>
       <trans-unit id="4ba8325a-1203-4125-9111-94d9e2b1f14b" resname="MMQ·214 | Squee, Goblin Nabob | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, you may return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">在你的维持开始时，你可以将鬼怪总督斯奎从你的坟墓场移回你手上。</target>
+        <target state="translated">在你的维持开始时，你可以将CARDNAME从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="9de0ee5d-10f6-4152-8416-1f2b749b439d" resname="MMQ·216 | Tectonic Break | Card Name">
@@ -1964,7 +1964,7 @@
       </trans-unit>
       <trans-unit id="4fa8a13a-f09f-4b10-8fab-3ea4fdc643d1" resname="MMQ·217 | Territorial Dispute | Card Text | Paragraph 2">
         <source>Players can't play lands.</source>
-        <target state="translated">在你的维持开始时，除非你牺牲一张地，否则牺牲领土争夺。</target>
+        <target state="translated">在你的维持开始时，除非你牺牲一张地，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b5708c87-108d-4ba1-a1e9-e83cb9b16b6c" resname="MMQ·218 | Thieves' Auction | Card Name">
         <source>Thieves' Auction</source>
@@ -1982,11 +1982,11 @@
       </trans-unit>
       <trans-unit id="b3f8c5ee-2179-4c05-adc9-0b66d02b59ad" resname="MMQ·219 | Thunderclap | Card Text | Paragraph 1">
         <source>You may sacrifice a Mountain rather than pay this spell's mana cost.</source>
-        <target state="translated">你可改为牺牲一张山脉，以代替支付晴天霹雳的魔法力费用。</target>
+        <target state="translated">你可改为牺牲一张山脉，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="b3f8c5ee-2179-4c05-adc9-0b66d02b59ad" resname="MMQ·219 | Thunderclap | Card Text | Paragraph 2">
         <source>CARDNAME deals 3 damage to target creature.</source>
-        <target state="translated">晴天霹雳对目标生物造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="40fed2c7-c922-41c3-b86b-a8ed41a1308d" resname="MMQ·221 | Two-Headed Dragon | Card Name">
         <source>Two-Headed Dragon</source>
@@ -2000,17 +2000,17 @@
       </trans-unit>
       <trans-unit id="40fed2c7-c922-41c3-b86b-a8ed41a1308d" resname="MMQ·221 | Two-Headed Dragon | Card Text | Paragraph 2">
         <source>Menace (This creature can't be blocked except by two or more creatures.)</source>
-        <target state="translated">{1}{R}：双头龙得+2/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+2/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="40fed2c7-c922-41c3-b86b-a8ed41a1308d" resname="MMQ·221 | Two-Headed Dragon | Card Text | Paragraph 3">
         <source>CARDNAME can block an additional creature each combat.</source>
-        <target state="translated">双头龙只能被两个或两个以上的生物阻挡。</target>
+        <target state="translated">CARDNAME只能被两个或两个以上的生物阻挡。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="40fed2c7-c922-41c3-b86b-a8ed41a1308d" resname="MMQ·221 | Two-Headed Dragon | Card Text | Paragraph 4">
         <source>{1}{R}: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">双头龙可以额外多阻挡一个生物。</target>
+        <target state="translated">CARDNAME可以额外多阻挡一个生物。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="73fa3455-3ba0-41ad-aefd-40f183aed2a6" resname="MMQ·222 | Uphill Battle | Card Name">
@@ -2027,7 +2027,7 @@
       </trans-unit>
       <trans-unit id="3c69dd00-46ce-42b2-a2ed-43b4cf04a975" resname="MMQ·223 | Volcanic Wind | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage divided as you choose among any number of target creatures, where X is the number of creatures on the battlefield as you cast this spell.</source>
-        <target state="translated">火山风造成X点伤害，你可以将这些伤害分配到任意数量的目标生物上，X等同于场上生物的数量。</target>
+        <target state="translated">CARDNAME造成X点伤害，你可以将这些伤害分配到任意数量的目标生物上，X等同于场上生物的数量。</target>
       </trans-unit>
       <trans-unit id="e030d2eb-70c5-4ff7-8f03-ad5495cf9c69" resname="MMQ·224 | War Cadence | Card Name">
         <source>War Cadence</source>
@@ -2043,7 +2043,7 @@
       </trans-unit>
       <trans-unit id="e031c819-1237-4911-8a1d-87d6095a5faa" resname="MMQ·226 | Warpath | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to each blocking creature and each blocked creature.</source>
-        <target state="translated">征途对每个进行阻挡的生物以及被阻挡的生物造成3点伤害。</target>
+        <target state="translated">CARDNAME对每个进行阻挡的生物以及被阻挡的生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="64bcc06a-de86-4387-882d-ead33e9c9e01" resname="MMQ·227 | Wild Jhovall | Card Name">
         <source>Wild Jhovall</source>
@@ -2078,7 +2078,7 @@
       </trans-unit>
       <trans-unit id="f7369cbf-6986-4a39-b07c-a283b40aee40" resname="MMQ·231 | Boa Constrictor | Card Text | Paragraph 1">
         <source>{T}: CARDNAME gets +3/+3 until end of turn.</source>
-        <target state="translated">横置：绕缠蟒蛇得+3/+3直到回合结束。</target>
+        <target state="translated">横置：CARDNAME得+3/+3直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b5913fc6-eeb0-411b-9264-1e75bea8489b" resname="MMQ·232 | Briar Patch | Card Name">
         <source>Briar Patch</source>
@@ -2094,11 +2094,11 @@
       </trans-unit>
       <trans-unit id="c0e8e1cf-0a47-4ce4-889a-091229d0e466" resname="MMQ·233 | Caller of the Hunt | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, choose a creature type.</source>
-        <target state="translated">在狩猎召集人进场时，选择一个生物类别。</target>
+        <target state="translated">在CARDNAME进场时，选择一个生物类别。</target>
       </trans-unit>
       <trans-unit id="c0e8e1cf-0a47-4ce4-889a-091229d0e466" resname="MMQ·233 | Caller of the Hunt | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of creatures of the chosen type on the battlefield.</source>
-        <target state="translated">狩猎召集人的力量与防御力，各等同于在场所选生物类别之数量。</target>
+        <target state="translated">CARDNAME的力量与防御力，各等同于在场所选生物类别之数量。</target>
       </trans-unit>
       <trans-unit id="59a46e20-2910-4287-a5e0-bccac8cbabcd" resname="MMQ·234 | Caustic Wasps | Card Name">
         <source>Caustic Wasps</source>
@@ -2110,7 +2110,7 @@
       </trans-unit>
       <trans-unit id="59a46e20-2910-4287-a5e0-bccac8cbabcd" resname="MMQ·234 | Caustic Wasps | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may destroy target artifact that player controls.</source>
-        <target state="translated">每当腐蚀黄蜂对任一玩家造成战斗伤害时，你可消灭该玩家所操控之目标神器。</target>
+        <target state="translated">每当CARDNAME对任一玩家造成战斗伤害时，你可消灭该玩家所操控之目标神器。</target>
       </trans-unit>
       <trans-unit id="b87f3579-f314-4207-a02c-14e9cb269b47" resname="MMQ·235 | Clear the Land | Card Name">
         <source>Clear the Land</source>
@@ -2160,7 +2160,7 @@
       </trans-unit>
       <trans-unit id="bfa2028e-4e73-4ff2-a9e2-9ac347d67893" resname="MMQ·241 | Deepwood Tantiv | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, you gain 2 life.</source>
-        <target state="translated">每当深邃林巨麋兽被阻挡时，你获得2点生命。</target>
+        <target state="translated">每当CARDNAME被阻挡时，你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="db9a9a76-741a-4ba3-bd4b-0eb87d678253" resname="MMQ·242 | Deepwood Wolverine | Card Name">
         <source>Deepwood Wolverine</source>
@@ -2168,7 +2168,7 @@
       </trans-unit>
       <trans-unit id="db9a9a76-741a-4ba3-bd4b-0eb87d678253" resname="MMQ·242 | Deepwood Wolverine | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, it gets +2/+0 until end of turn.</source>
-        <target state="translated">每当深邃林狼獾被阻挡时，它得+2/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME被阻挡时，它得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ec4ea4e2-2102-4b99-bea5-6fc4203f2b26" resname="MMQ·244 | Erithizon | Card Name">
         <source>Erithizon</source>
@@ -2176,7 +2176,7 @@
       </trans-unit>
       <trans-unit id="ec4ea4e2-2102-4b99-bea5-6fc4203f2b26" resname="MMQ·244 | Erithizon | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, put a +1/+1 counter on target creature of defending player's choice.</source>
-        <target state="translated">每当刺毛兽攻击时，放置一个+1/+1指示物在防御玩家所选择的目标生物上。</target>
+        <target state="translated">每当CARDNAME攻击时，放置一个+1/+1指示物在防御玩家所选择的目标生物上。</target>
       </trans-unit>
       <trans-unit id="4afda489-8397-4ad4-89dc-e8bad92db133" resname="MMQ·245 | Ferocity | Card Name">
         <source>Ferocity</source>
@@ -2229,7 +2229,7 @@
       </trans-unit>
       <trans-unit id="7f2a6d10-054e-4d6f-aeb7-4204f02490c7" resname="MMQ·251 | Horned Troll | Card Text | Paragraph 1">
         <source>{G}: Regenerate CARDNAME.</source>
-        <target state="translated">{G}：重生角巨魔。</target>
+        <target state="translated">{G}：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="7416c68a-5a6a-4d51-8dc7-5c62da81ec77" resname="MMQ·252 | Howling Wolf | Card Name">
@@ -2239,7 +2239,7 @@
       </trans-unit>
       <trans-unit id="7416c68a-5a6a-4d51-8dc7-5c62da81ec77" resname="MMQ·252 | Howling Wolf | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for up to three cards named CARDNAME, reveal them, put them into your hand, then shuffle.</source>
-        <target state="translated">当嚎叫野狼进战场时，你可以从你牌库中搜寻至多三张名称为嚎叫野狼的牌，展示这些牌，并将它们置于你手上。若你如此作，则将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻至多三张名称为CARDNAME的牌，展示这些牌，并将它们置于你手上。若你如此作，则将你的牌库洗牌。</target>
         <note xmlns:from="developer">中文数据来自CNS（2014-06-06）；</note>
       </trans-unit>
       <trans-unit id="b21c8b2d-ef0f-4839-acfc-20fd248c62cf" resname="MMQ·253 | Hunted Wumpus | Card Name">
@@ -2249,7 +2249,7 @@
       </trans-unit>
       <trans-unit id="b21c8b2d-ef0f-4839-acfc-20fd248c62cf" resname="MMQ·253 | Hunted Wumpus | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each other player may put a creature card from their hand onto the battlefield.</source>
-        <target state="translated">当捕获的狮头象进战场时，每位其他牌手各可以将一张生物牌从其手上放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，每位其他牌手各可以将一张生物牌从其手上放进战场。</target>
         <note xmlns:from="developer">中文数据来自BBD（2018-06-08）；</note>
       </trans-unit>
       <trans-unit id="406b343c-90b5-4a4d-91c3-2fddcc9a0e05" resname="MMQ·254 | Invigorate | Card Name">
@@ -2273,7 +2273,7 @@
       </trans-unit>
       <trans-unit id="d6862005-32d1-473e-a28b-5dfc4b7782cd" resname="MMQ·255 | Land Grant | Card Text | Paragraph 1">
         <source>If you have no land cards in hand, you may reveal your hand rather than pay this spell's mana cost.</source>
-        <target state="translated">若你手上没有地牌，你可改为展示你的手牌，以代替支付授地的魔法力费用。</target>
+        <target state="translated">若你手上没有地牌，你可改为展示你的手牌，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="d6862005-32d1-473e-a28b-5dfc4b7782cd" resname="MMQ·255 | Land Grant | Card Text | Paragraph 2">
         <source>Search your library for a Forest card, reveal that card, put it into your hand, then shuffle.</source>
@@ -2305,7 +2305,7 @@
       </trans-unit>
       <trans-unit id="c58a1e43-a173-45d6-ac55-363664bf6e1b" resname="MMQ·259 | Megatherium | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you pay {1} for each card in your hand.</source>
-        <target state="translated">当大地懒兽进场时，你手上每有一张牌，则支付1，否则牺牲大地懒兽。</target>
+        <target state="translated">当CARDNAME进场时，你手上每有一张牌，则支付1，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="69c6f647-f71b-4f61-9b16-774884ed52e2" resname="MMQ·260 | Natural Affinity | Card Name">
         <source>Natural Affinity</source>
@@ -2323,7 +2323,7 @@
       </trans-unit>
       <trans-unit id="0335d282-cd1a-4be3-8eb2-82aaee91401a" resname="MMQ·261 | Pangosaur | Card Text | Paragraph 1">
         <source>Whenever a player plays a land, return CARDNAME to its owner's hand.</source>
-        <target state="translated">每当任一玩家使用地时，将鲮鲤恐龙移回其拥有者手上。</target>
+        <target state="translated">每当任一玩家使用地时，将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="7b19b453-8393-424d-9578-3ab568c92882" resname="MMQ·262 | Revive | Card Name">
         <source>Revive</source>
@@ -2355,7 +2355,7 @@
       </trans-unit>
       <trans-unit id="52128694-d9f5-4acb-b684-bb02a4e766b8" resname="MMQ·264 | Rushwood Elemental | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, you may put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以放置一个+1/+1指示物在银叶林元素上。</target>
+        <target state="translated">在你的维持开始时，你可以放置一个+1/+1指示物在CARDNAME上。</target>
       </trans-unit>
       <trans-unit id="9afde98f-a429-4eff-9d06-8582267ac74b" resname="MMQ·265 | Rushwood Herbalist | Card Name">
         <source>Rushwood Herbalist</source>
@@ -2371,7 +2371,7 @@
       </trans-unit>
       <trans-unit id="827b9c99-87d7-493c-9dc3-0c6aa4a61b49" resname="MMQ·266 | Rushwood Legate | Card Text | Paragraph 1">
         <source>If an opponent controls an Island and you control a Forest, you may cast this spell without paying its mana cost.</source>
-        <target state="translated">若任一对手操控海岛，并且你操控树林，则你不需支付其魔法力费用，便可以使用银叶林特使。</target>
+        <target state="translated">若任一对手操控海岛，并且你操控树林，则你不需支付其魔法力费用，便可以使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="e9269f52-1002-475d-a0f3-d652630591ca" resname="MMQ·267 | Saber Ants | Card Name">
         <source>Saber Ants</source>
@@ -2379,7 +2379,7 @@
       </trans-unit>
       <trans-unit id="e9269f52-1002-475d-a0f3-d652630591ca" resname="MMQ·267 | Saber Ants | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt damage, you may create that many 1/1 green Insect creature tokens.</source>
-        <target state="translated">每当剑齿蚁受到伤害时，你可放置与伤害等量的1/1绿色昆虫衍生物进场。</target>
+        <target state="translated">每当CARDNAME受到伤害时，你可放置与伤害等量的1/1绿色昆虫衍生物进场。</target>
       </trans-unit>
       <trans-unit id="e965d32c-3151-48e8-b256-0b7fa8a8a211" resname="MMQ·268 | Sacred Prey | Card Name">
         <source>Sacred Prey</source>
@@ -2387,7 +2387,7 @@
       </trans-unit>
       <trans-unit id="e965d32c-3151-48e8-b256-0b7fa8a8a211" resname="MMQ·268 | Sacred Prey | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, you gain 1 life.</source>
-        <target state="translated">当圣祥猎物被阻挡时，你得到1点生命。</target>
+        <target state="translated">当CARDNAME被阻挡时，你得到1点生命。</target>
       </trans-unit>
       <trans-unit id="f222fe90-ac92-4ba9-b060-9b64075bf139" resname="MMQ·269 | Silverglade Elemental | Card Name">
         <source>Silverglade Elemental</source>
@@ -2395,7 +2395,7 @@
       </trans-unit>
       <trans-unit id="f222fe90-ac92-4ba9-b060-9b64075bf139" resname="MMQ·269 | Silverglade Elemental | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a Forest card, put that card onto the battlefield, then shuffle.</source>
-        <target state="translated">当银镜谷元素进场时，你可从你的牌库中搜寻一张树林，并将该牌放置进场。若你如此做，将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，你可从你的牌库中搜寻一张树林，并将该牌放置进场。若你如此做，将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="9bc99b33-ce06-4a44-8b23-300b41b2b2fe" resname="MMQ·270 | Silverglade Pathfinder | Card Name">
         <source>Silverglade Pathfinder</source>
@@ -2419,7 +2419,7 @@
       </trans-unit>
       <trans-unit id="e568503e-a886-4c8b-9d46-8520c2cdda48" resname="MMQ·272 | Snorting Gahr | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, it gets +2/+2 until end of turn.</source>
-        <target state="translated">每当喷息森林犀牛被阻挡时，它得+2/+2直到回合结束。</target>
+        <target state="translated">每当CARDNAME被阻挡时，它得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9eb7694f-af4c-4152-b868-528257d05154" resname="MMQ·273 | Spidersilk Armor | Card Name">
         <source>Spidersilk Armor</source>
@@ -2443,7 +2443,7 @@
       </trans-unit>
       <trans-unit id="c845e1b8-6a39-456c-aa67-d180ae63e200" resname="MMQ·276 | Squallmonger | Card Text | Paragraph 1">
         <source>{2}: CARDNAME deals 1 damage to each creature with flying and each player. Any player may activate this ability.</source>
-        <target state="translated">2：疾风贩子对每个具飞行异能的生物及每位玩家造成1点伤害。任何玩家都可使用此异能。</target>
+        <target state="translated">2：CARDNAME对每个具飞行异能的生物及每位玩家造成1点伤害。任何玩家都可使用此异能。</target>
       </trans-unit>
       <trans-unit id="ed8abca3-6e31-49cd-b9bf-86ad68e1cc83" resname="MMQ·277 | Stamina | Card Name">
         <source>Stamina</source>
@@ -2451,7 +2451,7 @@
       </trans-unit>
       <trans-unit id="ed8abca3-6e31-49cd-b9bf-86ad68e1cc83" resname="MMQ·277 | Stamina | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature has vigilance.\nSacrifice CARDNAME: Regenerate enchanted creature.</source>
-        <target state="translated">受此结界的生物攻击时不须横置。\n牺牲持久力：重生受此结界的生物。</target>
+        <target state="translated">受此结界的生物攻击时不须横置。\n牺牲CARDNAME：重生受此结界的生物。</target>
       </trans-unit>
       <trans-unit id="5a61db44-80dc-4058-9c9d-65cd18e63fd4" resname="MMQ·278 | Sustenance | Card Name">
         <source>Sustenance</source>
@@ -2467,7 +2467,7 @@
       </trans-unit>
       <trans-unit id="0146a689-4817-4849-a90d-4cc64566960d" resname="MMQ·279 | Tiger Claws | Card Text | Paragraphs">
         <source>Flash\nEnchant creature\nEnchanted creature gets +1/+1 and has trample.</source>
-        <target state="translated">你可在任何能够使用瞬间的时机下，使用虎爪。\n受此结界的生物得+1/+1，并获得践踏异能。</target>
+        <target state="translated">你可在任何能够使用瞬间的时机下，使用CARDNAME。\n受此结界的生物得+1/+1，并获得践踏异能。</target>
       </trans-unit>
       <trans-unit id="479fc902-ce94-4a6b-af87-4645387a46c6" resname="MMQ·282 | Venomous Dragonfly | Card Name">
         <source>Venomous Dragonfly</source>
@@ -2479,7 +2479,7 @@
       </trans-unit>
       <trans-unit id="479fc902-ce94-4a6b-af87-4645387a46c6" resname="MMQ·282 | Venomous Dragonfly | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks or becomes blocked by a creature, destroy that creature at end of combat.</source>
-        <target state="translated">每当剧毒蜻蜓阻挡生物或被生物阻挡时，在战斗结束时消灭该生物。</target>
+        <target state="translated">每当CARDNAME阻挡生物或被生物阻挡时，在战斗结束时消灭该生物。</target>
       </trans-unit>
       <trans-unit id="3bed69d2-f5fb-4173-b939-5abdb48b82b4" resname="MMQ·283 | Vernal Equinox | Card Name">
         <source>Vernal Equinox</source>
@@ -2499,11 +2499,11 @@
       </trans-unit>
       <trans-unit id="fc9c9158-faed-42ae-9f6b-71dee49ff79f" resname="MMQ·284 | Vine Dryad | Card Text | Paragraph 2">
         <source>Flash</source>
-        <target state="translated">你可在任何能够使用瞬间的时机下，使用藤蔓树灵。</target>
+        <target state="translated">你可在任何能够使用瞬间的时机下，使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="fc9c9158-faed-42ae-9f6b-71dee49ff79f" resname="MMQ·284 | Vine Dryad | Card Text | Paragraph 3">
         <source>Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)</source>
-        <target state="translated">你可改为将手上一张绿色牌移出游戏，以代替支付藤蔓树灵的魔法力费用。</target>
+        <target state="translated">你可改为将手上一张绿色牌移出游戏，以代替支付CARDNAME的魔法力费用。</target>
       </trans-unit>
       <trans-unit id="e660241f-0976-4206-8149-7dac8466a2a3" resname="MMQ·285 | Vine Trellis | Card Name">
         <source>Vine Trellis</source>
@@ -2534,11 +2534,11 @@
       </trans-unit>
       <trans-unit id="be9e2e59-1527-4c61-9cc9-dcaf1181bd43" resname="MMQ·287 | Barbed Wire | Card Text | Paragraph 1">
         <source>At the beginning of each player's upkeep, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">在每位玩家的维持开始时，刺铁丝对该玩家造成1点伤害。</target>
+        <target state="translated">在每位玩家的维持开始时，CARDNAME对该玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="be9e2e59-1527-4c61-9cc9-dcaf1181bd43" resname="MMQ·287 | Barbed Wire | Card Text | Paragraph 2">
         <source>{2}: Prevent the next 1 damage that would be dealt by CARDNAME this turn.</source>
-        <target state="translated">2：在本回合中，防止接下来由刺铁丝造成的1点伤害。</target>
+        <target state="translated">2：在本回合中，防止接下来由CARDNAME造成的1点伤害。</target>
       </trans-unit>
       <trans-unit id="85da9395-42e9-4408-832d-74ea4b01256b" resname="MMQ·288 | Bargaining Table | Card Name">
         <source>Bargaining Table</source>
@@ -2554,7 +2554,7 @@
       </trans-unit>
       <trans-unit id="1ab65242-17ad-4c22-9c70-aac8076d1b4c" resname="MMQ·289 | Credit Voucher | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Shuffle any number of cards from your hand into your library, then draw that many cards.</source>
-        <target state="translated">2，横置，牺牲信用状：将任意数量的手牌洗入你的牌库中，然后抽等量的牌。</target>
+        <target state="translated">2，横置，牺牲CARDNAME：将任意数量的手牌洗入你的牌库中，然后抽等量的牌。</target>
       </trans-unit>
       <trans-unit id="d85ad08d-1120-411a-8bbe-ac93a56476bd" resname="MMQ·290 | Crenellated Wall | Card Name">
         <source>Crenellated Wall</source>
@@ -2604,7 +2604,7 @@
       </trans-unit>
       <trans-unit id="78d22400-39f6-444d-b508-783a7df7e945" resname="MMQ·294 | Eye of Ramos | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Add {U}.</source>
-        <target state="translated">牺牲瑞莫斯之眼：加一点蓝色魔法力到你的魔法力池中。</target>
+        <target state="translated">牺牲CARDNAME：加一点蓝色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="fb99d982-8ab1-4d6a-ba24-58ac23a9b9e7" resname="MMQ·295 | General's Regalia | Card Name">
         <source>General's Regalia</source>
@@ -2624,7 +2624,7 @@
       </trans-unit>
       <trans-unit id="a0046226-7563-4345-aa4b-a2c732c2780a" resname="MMQ·296 | Heart of Ramos | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Add {R}.</source>
-        <target state="translated">牺牲瑞莫斯之心：加一点红色魔法力到你的魔法力池中。</target>
+        <target state="translated">牺牲CARDNAME：加一点红色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="028e5e18-b639-4461-87e4-5306371440b5" resname="MMQ·297 | Henge Guardian | Card Name">
         <source>Henge Guardian</source>
@@ -2632,7 +2632,7 @@
       </trans-unit>
       <trans-unit id="028e5e18-b639-4461-87e4-5306371440b5" resname="MMQ·297 | Henge Guardian | Card Text | Paragraph 1">
         <source>{2}: CARDNAME gains trample until end of turn.</source>
-        <target state="translated">2：巨石阵守护者获得践踏异能直到回合结束。</target>
+        <target state="translated">2：CARDNAME获得践踏异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d5e04462-1d10-47df-b456-211dd0a87891" resname="MMQ·298 | Horn of Plenty | Card Name">
         <source>Horn of Plenty</source>
@@ -2652,7 +2652,7 @@
       </trans-unit>
       <trans-unit id="6b17f541-8e9d-43b0-b688-e3f2e7fa55c8" resname="MMQ·299 | Horn of Ramos | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Add {G}.</source>
-        <target state="translated">牺牲瑞莫斯之角：加一点绿色魔法力到你的魔法力池中。</target>
+        <target state="translated">牺牲CARDNAME：加一点绿色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="41f7d212-faf2-4a6f-a338-d9e5014b56d5" resname="MMQ·300 | Iron Lance | Card Name">
         <source>Iron Lance</source>
@@ -2668,7 +2668,7 @@
       </trans-unit>
       <trans-unit id="eab076bc-e4c3-42a1-b701-9bc49bcc3cdd" resname="MMQ·301 | Jeweled Torque | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">在宝石领圈进场时，选择一个颜色。</target>
+        <target state="translated">在CARDNAME进场时，选择一个颜色。</target>
       </trans-unit>
       <trans-unit id="eab076bc-e4c3-42a1-b701-9bc49bcc3cdd" resname="MMQ·301 | Jeweled Torque | Card Text | Paragraph 2">
         <source>Whenever a player casts a spell of the chosen color, you may pay {2}. If you do, you gain 2 life.</source>
@@ -2684,7 +2684,7 @@
       </trans-unit>
       <trans-unit id="5e65a06a-e7af-422a-9481-446731009935" resname="MMQ·302 | Kyren Archive | Card Text | Paragraph 2">
         <source>{5}, Discard your hand, Sacrifice CARDNAME: Put all cards exiled with CARDNAME into their owner's hand.</source>
-        <target state="translated">5，弃掉你的手牌，牺牲凯壬档案库：将所有以此法移出游戏的牌，移回其拥有者的手上。</target>
+        <target state="translated">5，弃掉你的手牌，牺牲CARDNAME：将所有以此法移出游戏的牌，移回其拥有者的手上。</target>
       </trans-unit>
       <trans-unit id="7a8318bb-bc3c-45e9-bd57-60ae72b6f8b0" resname="MMQ·303 | Kyren Toy | Card Name">
         <source>Kyren Toy</source>
@@ -2692,11 +2692,11 @@
       </trans-unit>
       <trans-unit id="7a8318bb-bc3c-45e9-bd57-60ae72b6f8b0" resname="MMQ·303 | Kyren Toy | Card Text | Paragraph 1">
         <source>{1}, {T}: Put a charge counter on CARDNAME.</source>
-        <target state="translated">1，横置：在凯壬玩具上放置一个充电指示物。</target>
+        <target state="translated">1，横置：在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="7a8318bb-bc3c-45e9-bd57-60ae72b6f8b0" resname="MMQ·303 | Kyren Toy | Card Text | Paragraph 2">
         <source>{T}, Remove X charge counters from CARDNAME: Add an amount of {C} equal to X plus one.</source>
-        <target state="translated">横置，自凯壬玩具上移去X个充电指示物：加X点以及另一点无色魔法力到你的魔法力池中。</target>
+        <target state="translated">横置，自CARDNAME上移去X个充电指示物：加X点以及另一点无色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="d4785ed7-c948-4ad2-b24d-2f45806d9fcc" resname="MMQ·304 | Magistrate's Scepter | Card Name">
         <source>Magistrate's Scepter</source>
@@ -2705,12 +2705,12 @@
       </trans-unit>
       <trans-unit id="d4785ed7-c948-4ad2-b24d-2f45806d9fcc" resname="MMQ·304 | Magistrate's Scepter | Card Text | Paragraph 1">
         <source>{4}, {T}: Put a charge counter on CARDNAME.</source>
-        <target state="translated">{4}，{T}：在执政官的权杖上放置一个充电指示物。</target>
+        <target state="translated">{4}，{T}：在CARDNAME上放置一个充电指示物。</target>
         <note xmlns:from="developer">中文数据来自M19（2018-07-13）；</note>
       </trans-unit>
       <trans-unit id="d4785ed7-c948-4ad2-b24d-2f45806d9fcc" resname="MMQ·304 | Magistrate's Scepter | Card Text | Paragraph 2">
         <source>{T}, Remove three charge counters from CARDNAME: Take an extra turn after this one.</source>
-        <target state="translated">{T}，从执政官的权杖上移去三个充电指示物：于本回合后进行额外的一个回合。</target>
+        <target state="translated">{T}，从CARDNAME上移去三个充电指示物：于本回合后进行额外的一个回合。</target>
         <note xmlns:from="developer">中文数据来自M19（2018-07-13）；</note>
       </trans-unit>
       <trans-unit id="00ad3531-399c-4897-b0ee-ad2a26445a17" resname="MMQ·305 | Mercadian Atlas | Card Name">
@@ -2727,11 +2727,11 @@
       </trans-unit>
       <trans-unit id="395a1a8a-785f-442b-8e95-8b4ca44af2a3" resname="MMQ·306 | Mercadian Lift | Card Text | Paragraph 1">
         <source>{1}, {T}: Put a winch counter on CARDNAME.</source>
-        <target state="translated">1，横置：在玛凯迪亚升降机上放置一个绞盘指示物。</target>
+        <target state="translated">1，横置：在CARDNAME上放置一个绞盘指示物。</target>
       </trans-unit>
       <trans-unit id="395a1a8a-785f-442b-8e95-8b4ca44af2a3" resname="MMQ·306 | Mercadian Lift | Card Text | Paragraph 2">
         <source>{T}, Remove X winch counters from CARDNAME: You may put a creature card with mana value X from your hand onto the battlefield.</source>
-        <target state="translated">横置，自玛凯迪亚升降机上移去X个绞盘指示物：将总魔法力费用为X的生物从你的手上放置进场。</target>
+        <target state="translated">横置，自CARDNAME上移去X个绞盘指示物：将总魔法力费用为X的生物从你的手上放置进场。</target>
       </trans-unit>
       <trans-unit id="07f6be53-7a20-4e6b-a6ce-11cba06af8cb" resname="MMQ·307 | Monkey Cage | Card Name">
         <source>Monkey Cage</source>
@@ -2740,7 +2740,7 @@
       </trans-unit>
       <trans-unit id="07f6be53-7a20-4e6b-a6ce-11cba06af8cb" resname="MMQ·307 | Monkey Cage | Card Text | Paragraph 1">
         <source>When a creature enters the battlefield, sacrifice CARDNAME and create X 2/2 green Monkey creature tokens, where X is that creature's mana value.</source>
-        <target state="translated">当一个生物进战场时，牺牲猴槛并派出X个2/2绿色的猴衍生生物，X为该生物的法术力值。</target>
+        <target state="translated">当一个生物进战场时，牺牲CARDNAME并派出X个2/2绿色的猴衍生生物，X为该生物的法术力值。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="89414770-2a19-4baf-9b18-76104b7b0b9a" resname="MMQ·308 | Panacea | Card Name">
@@ -2785,7 +2785,7 @@
       </trans-unit>
       <trans-unit id="f071957c-9bea-4d00-9ffd-30f98d57b8d2" resname="MMQ·312 | Skull of Ramos | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Add {B}.</source>
-        <target state="translated">牺牲瑞莫斯之骨：加一点黑色魔法力到你的魔法力池中。</target>
+        <target state="translated">牺牲CARDNAME：加一点黑色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="9a3b999d-8e63-4647-a921-15e169022096" resname="MMQ·313 | Tooth of Ramos | Card Name">
         <source>Tooth of Ramos</source>
@@ -2797,7 +2797,7 @@
       </trans-unit>
       <trans-unit id="9a3b999d-8e63-4647-a921-15e169022096" resname="MMQ·313 | Tooth of Ramos | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Add {W}.</source>
-        <target state="translated">牺牲瑞莫斯之牙：加一点白色魔法力到你的魔法力池中。</target>
+        <target state="translated">牺牲CARDNAME：加一点白色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="76f3992a-553c-4032-b144-55aad2f909f1" resname="MMQ·314 | Toymaker | Card Name">
         <source>Toymaker</source>
@@ -2833,15 +2833,15 @@
       </trans-unit>
       <trans-unit id="41f352c3-4b63-4174-b2b4-6c19fb8c06ff" resname="MMQ·317 | Fountain of Cho | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">柯族圣泉须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="41f352c3-4b63-4174-b2b4-6c19fb8c06ff" resname="MMQ·317 | Fountain of Cho | Card Text | Paragraph 2">
         <source>{T}: Put a storage counter on CARDNAME.</source>
-        <target state="translated">横置：在柯族圣泉上面放置一个储藏指示物。</target>
+        <target state="translated">横置：在CARDNAME上面放置一个储藏指示物。</target>
       </trans-unit>
       <trans-unit id="41f352c3-4b63-4174-b2b4-6c19fb8c06ff" resname="MMQ·317 | Fountain of Cho | Card Text | Paragraph 3">
         <source>{T}, Remove any number of storage counters from CARDNAME: Add {W} for each storage counter removed this way.</source>
-        <target state="translated">横置，自柯族圣泉上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加一点白色魔法力到你的魔法力池中。</target>
+        <target state="translated">横置，自CARDNAME上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加一点白色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="0582b42f-5ae5-4be2-ba2d-ed62b3cb20c5" resname="MMQ·318 | Henge of Ramos | Card Name">
         <source>Henge of Ramos</source>
@@ -2861,11 +2861,11 @@
       </trans-unit>
       <trans-unit id="af7aafb7-6870-4d09-a191-70786766c459" resname="MMQ·319 | Hickory Woodlot | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped with two depletion counters on it.</source>
-        <target state="translated">山胡桃植林地须横置进场，且上面有两个消耗指示物。</target>
+        <target state="translated">CARDNAME须横置进场，且上面有两个消耗指示物。</target>
       </trans-unit>
       <trans-unit id="af7aafb7-6870-4d09-a191-70786766c459" resname="MMQ·319 | Hickory Woodlot | Card Text | Paragraph 2">
         <source>{T}, Remove a depletion counter from CARDNAME: Add {G}{G}. If there are no depletion counters on CARDNAME, sacrifice it.</source>
-        <target state="translated">横置，自山胡桃植林地上移去一个消耗指示物：加两点绿色魔法力到你的魔法力池中。若山胡桃植林地上没有消耗指示物，则牺牲之。</target>
+        <target state="translated">横置，自CARDNAME上移去一个消耗指示物：加两点绿色魔法力到你的魔法力池中。若CARDNAME上没有消耗指示物，则牺牲之。</target>
       </trans-unit>
       <trans-unit id="f4c58683-65a6-4df9-8952-458e397b1374" resname="MMQ·320 | High Market | Card Name">
         <source>High Market</source>
@@ -2888,15 +2888,15 @@
       </trans-unit>
       <trans-unit id="6f787cb6-78cb-4baa-a9cf-cee8b7d8d6b1" resname="MMQ·321 | Mercadian Bazaar | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">玛凯迪安市集须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="6f787cb6-78cb-4baa-a9cf-cee8b7d8d6b1" resname="MMQ·321 | Mercadian Bazaar | Card Text | Paragraph 2">
         <source>{T}: Put a storage counter on CARDNAME.</source>
-        <target state="translated">横置：在玛凯迪安市集上面放置一个储藏指示物。</target>
+        <target state="translated">横置：在CARDNAME上面放置一个储藏指示物。</target>
       </trans-unit>
       <trans-unit id="6f787cb6-78cb-4baa-a9cf-cee8b7d8d6b1" resname="MMQ·321 | Mercadian Bazaar | Card Text | Paragraph 3">
         <source>{T}, Remove any number of storage counters from CARDNAME: Add {R} for each storage counter removed this way.</source>
-        <target state="translated">横置，自玛凯迪安市集上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加一点红色魔法力到你的魔法力池中。</target>
+        <target state="translated">横置，自CARDNAME上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加一点红色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="bcc9d1e0-c8f4-4bac-90d4-8167f7a1515a" resname="MMQ·322 | Peat Bog | Card Name">
         <source>Peat Bog</source>
@@ -2904,11 +2904,11 @@
       </trans-unit>
       <trans-unit id="bcc9d1e0-c8f4-4bac-90d4-8167f7a1515a" resname="MMQ·322 | Peat Bog | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped with two depletion counters on it.</source>
-        <target state="translated">泥煤沼须横置进场，且上面有两个消耗指示物。</target>
+        <target state="translated">CARDNAME须横置进场，且上面有两个消耗指示物。</target>
       </trans-unit>
       <trans-unit id="bcc9d1e0-c8f4-4bac-90d4-8167f7a1515a" resname="MMQ·322 | Peat Bog | Card Text | Paragraph 2">
         <source>{T}, Remove a depletion counter from CARDNAME: Add {B}{B}. If there are no depletion counters on CARDNAME, sacrifice it.</source>
-        <target state="translated">横置，自泥煤沼上移去一个消耗指示物：加两点黑色魔法力到你的魔法力池中。若泥煤沼上没有消耗指示物，则牺牲之。</target>
+        <target state="translated">横置，自CARDNAME上移去一个消耗指示物：加两点黑色魔法力到你的魔法力池中。若CARDNAME上没有消耗指示物，则牺牲之。</target>
       </trans-unit>
       <trans-unit id="115cab84-60d7-4bf2-9beb-b4ed7b5ceaf4" resname="MMQ·323 | Remote Farm | Card Name">
         <source>Remote Farm</source>
@@ -2916,11 +2916,11 @@
       </trans-unit>
       <trans-unit id="115cab84-60d7-4bf2-9beb-b4ed7b5ceaf4" resname="MMQ·323 | Remote Farm | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped with two depletion counters on it.</source>
-        <target state="translated">偏远农场须横置进场，且上面有两个消耗指示物。</target>
+        <target state="translated">CARDNAME须横置进场，且上面有两个消耗指示物。</target>
       </trans-unit>
       <trans-unit id="115cab84-60d7-4bf2-9beb-b4ed7b5ceaf4" resname="MMQ·323 | Remote Farm | Card Text | Paragraph 2">
         <source>{T}, Remove a depletion counter from CARDNAME: Add {W}{W}. If there are no depletion counters on CARDNAME, sacrifice it.</source>
-        <target state="translated">横置，自偏远农场上移去一个消耗指示物：加两点白色魔法力到你的魔法力池中。若偏远的农场上没有消耗指示物，则牺牲之。</target>
+        <target state="translated">横置，自CARDNAME上移去一个消耗指示物：加两点白色魔法力到你的魔法力池中。若偏远的农场上没有消耗指示物，则牺牲之。</target>
       </trans-unit>
       <trans-unit id="477a1f53-5cdf-4b45-b584-2e36b31a3fdb" resname="MMQ·324 | Rishadan Port | Card Name">
         <source>Rishadan Port</source>
@@ -2943,15 +2943,15 @@
       </trans-unit>
       <trans-unit id="c315c72c-3e2f-4aff-b7d7-2f709ccec332" resname="MMQ·325 | Rushwood Grove | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">银叶林树丛须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="c315c72c-3e2f-4aff-b7d7-2f709ccec332" resname="MMQ·325 | Rushwood Grove | Card Text | Paragraph 2">
         <source>{T}: Put a storage counter on CARDNAME.</source>
-        <target state="translated">横置：在银叶林树丛上面放置一个储藏指示物。</target>
+        <target state="translated">横置：在CARDNAME上面放置一个储藏指示物。</target>
       </trans-unit>
       <trans-unit id="c315c72c-3e2f-4aff-b7d7-2f709ccec332" resname="MMQ·325 | Rushwood Grove | Card Text | Paragraph 3">
         <source>{T}, Remove any number of storage counters from CARDNAME: Add {G} for each storage counter removed this way.</source>
-        <target state="translated">横置，自银叶林树丛上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加一点绿色魔法力到你的魔法力池中。</target>
+        <target state="translated">横置，自CARDNAME上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加一点绿色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="82bc7c6b-2e3d-42d1-b2bb-b37b6f34d33b" resname="MMQ·326 | Sandstone Needle | Card Name">
         <source>Sandstone Needle</source>
@@ -2959,11 +2959,11 @@
       </trans-unit>
       <trans-unit id="82bc7c6b-2e3d-42d1-b2bb-b37b6f34d33b" resname="MMQ·326 | Sandstone Needle | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped with two depletion counters on it.</source>
-        <target state="translated">砂岩尖峰须横置进场，且上面有两个消耗指示物。</target>
+        <target state="translated">CARDNAME须横置进场，且上面有两个消耗指示物。</target>
       </trans-unit>
       <trans-unit id="82bc7c6b-2e3d-42d1-b2bb-b37b6f34d33b" resname="MMQ·326 | Sandstone Needle | Card Text | Paragraph 2">
         <source>{T}, Remove a depletion counter from CARDNAME: Add {R}{R}. If there are no depletion counters on CARDNAME, sacrifice it.</source>
-        <target state="translated">横置，自砂岩尖峰上移去一个消耗指示物：加两点红色魔法力到你的魔法力池中。若砂岩尖峰上没有消耗指示物，则牺牲之。</target>
+        <target state="translated">横置，自CARDNAME上移去一个消耗指示物：加两点红色魔法力到你的魔法力池中。若CARDNAME上没有消耗指示物，则牺牲之。</target>
       </trans-unit>
       <trans-unit id="52a69122-19c0-47ec-8bea-478511ba88e6" resname="MMQ·327 | Saprazzan Cove | Card Name">
         <source>Saprazzan Cove</source>
@@ -2971,15 +2971,15 @@
       </trans-unit>
       <trans-unit id="52a69122-19c0-47ec-8bea-478511ba88e6" resname="MMQ·327 | Saprazzan Cove | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">萨帕佐海湾须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="52a69122-19c0-47ec-8bea-478511ba88e6" resname="MMQ·327 | Saprazzan Cove | Card Text | Paragraph 2">
         <source>{T}: Put a storage counter on CARDNAME.</source>
-        <target state="translated">横置：在萨帕佐海湾上面放置一个储藏指示物。</target>
+        <target state="translated">横置：在CARDNAME上面放置一个储藏指示物。</target>
       </trans-unit>
       <trans-unit id="52a69122-19c0-47ec-8bea-478511ba88e6" resname="MMQ·327 | Saprazzan Cove | Card Text | Paragraph 3">
         <source>{T}, Remove any number of storage counters from CARDNAME: Add {U} for each storage counter removed this way.</source>
-        <target state="translated">横置，自萨帕佐海湾上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加一点蓝色魔法力到你的魔法力池中。</target>
+        <target state="translated">横置，自CARDNAME上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加一点蓝色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="006871fd-2641-42cb-a2ac-a33d05fc5a35" resname="MMQ·328 | Saprazzan Skerry | Card Name">
         <source>Saprazzan Skerry</source>
@@ -2987,11 +2987,11 @@
       </trans-unit>
       <trans-unit id="006871fd-2641-42cb-a2ac-a33d05fc5a35" resname="MMQ·328 | Saprazzan Skerry | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped with two depletion counters on it.</source>
-        <target state="translated">萨帕佐岩岛须横置进场，且上面有两个消耗指示物。</target>
+        <target state="translated">CARDNAME须横置进场，且上面有两个消耗指示物。</target>
       </trans-unit>
       <trans-unit id="006871fd-2641-42cb-a2ac-a33d05fc5a35" resname="MMQ·328 | Saprazzan Skerry | Card Text | Paragraph 2">
         <source>{T}, Remove a depletion counter from CARDNAME: Add {U}{U}. If there are no depletion counters on CARDNAME, sacrifice it.</source>
-        <target state="translated">横置，自萨帕佐岩岛上移去一个消耗指示物：加两点蓝色魔法力到你的魔法力池中。若萨帕佐岩岛上没有消耗指示物，则牺牲之。</target>
+        <target state="translated">横置，自CARDNAME上移去一个消耗指示物：加两点蓝色魔法力到你的魔法力池中。若CARDNAME上没有消耗指示物，则牺牲之。</target>
       </trans-unit>
       <trans-unit id="edc199d1-970b-489f-b713-8285151f16ae" resname="MMQ·329 | Subterranean Hangar | Card Name">
         <source>Subterranean Hangar</source>
@@ -2999,15 +2999,15 @@
       </trans-unit>
       <trans-unit id="edc199d1-970b-489f-b713-8285151f16ae" resname="MMQ·329 | Subterranean Hangar | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">地底机棚须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="edc199d1-970b-489f-b713-8285151f16ae" resname="MMQ·329 | Subterranean Hangar | Card Text | Paragraph 2">
         <source>{T}: Put a storage counter on CARDNAME.</source>
-        <target state="translated">横置：在地底机棚上面放置一个储藏指示物。</target>
+        <target state="translated">横置：在CARDNAME上面放置一个储藏指示物。</target>
       </trans-unit>
       <trans-unit id="edc199d1-970b-489f-b713-8285151f16ae" resname="MMQ·329 | Subterranean Hangar | Card Text | Paragraph 3">
         <source>{T}, Remove any number of storage counters from CARDNAME: Add {B} for each storage counter removed this way.</source>
-        <target state="translated">横置，自地底机棚上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加一点黑色魔法力到你的魔法力池中。</target>
+        <target state="translated">横置，自CARDNAME上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加一点黑色魔法力到你的魔法力池中。</target>
       </trans-unit>
       <trans-unit id="ee0481db-15ae-46b4-89a3-01c95a9626c7" resname="MMQ·330 | Tower of the Magistrate | Card Name">
         <source>Tower of the Magistrate</source>

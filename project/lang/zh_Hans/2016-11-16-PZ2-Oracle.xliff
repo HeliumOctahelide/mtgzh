@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="84da73cd-59f1-4e9c-9c60-d03c8b046a47" resname="PZ2·65669 | Hammer of Nazahn | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Equipment enters the battlefield under your control, you may attach that Equipment to target creature you control.</source>
-        <target state="translated">每当纳札之锤或另一个武具在你的操控下进战场时，你可以将该武具贴附在目标由你操控的生物上。</target>
+        <target state="translated">每当CARDNAME或另一个武具在你的操控下进战场时，你可以将该武具贴附在目标由你操控的生物上。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="84da73cd-59f1-4e9c-9c60-d03c8b046a47" resname="PZ2·65669 | Hammer of Nazahn | Card Text | Paragraph 2">
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="51f538ae-0ee3-4726-a888-ed9df521f322" resname="PZ2·65675 | The Ur-Dragon | Card Text | Paragraph 1">
         <source>Eminence — As long as CARDNAME is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast.</source>
-        <target state="translated">威仪～只要太初龙在统帅区中或战场上，你施放的其他龙咒语便减少{1}来施放。</target>
+        <target state="translated">威仪～只要CARDNAME在统帅区中或战场上，你施放的其他龙咒语便减少{1}来施放。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="51f538ae-0ee3-4726-a888-ed9df521f322" resname="PZ2·65675 | The Ur-Dragon | Card Text | Paragraph 2">
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="88b9476e-3556-4229-a4fe-84e527894b41" resname="PZ2·65679 | Path of Ancestry | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">祖灵径道须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="88b9476e-3556-4229-a4fe-84e527894b41" resname="PZ2·65679 | Path of Ancestry | Card Text | Paragraph 2">
@@ -139,7 +139,7 @@
       </trans-unit>
       <trans-unit id="fa2c1779-145f-4315-91ec-726ed43daa07" resname="PZ2·65691 | Territorial Hellkite | Card Text | Paragraph 2">
         <source>At the beginning of combat on your turn, choose an opponent at random that CARDNAME didn't attack during your last combat. CARDNAME attacks that player this combat if able. If you can't choose an opponent this way, tap CARDNAME.</source>
-        <target state="translated">在你回合的战斗开始时，从你上次战斗中据地残虐者未攻击过的对手里随机选择一位。据地残虐者本次战斗若能攻击该牌手，则必须如此作。如果没有能以此法选择的对手，则横置据地残虐者。</target>
+        <target state="translated">在你回合的战斗开始时，从你上次战斗中CARDNAME未攻击过的对手里随机选择一位。CARDNAME本次战斗若能攻击该牌手，则必须如此作。如果没有能以此法选择的对手，则横置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="a365937a-a2c8-4522-aa2e-4b471af5ab93" resname="PZ2·65693 | Edgar Markov | Card Name">
@@ -169,7 +169,7 @@
       </trans-unit>
       <trans-unit id="fd337666-8bbb-41f8-aabe-87743b7b3973" resname="PZ2·65697 | Crimson Honor Guard | Card Text | Paragraph 2">
         <source>At the beginning of each player's end step, CARDNAME deals 4 damage to that player unless they control a commander.</source>
-        <target state="translated">在每位牌手的结束步骤开始时，除非该牌手操控指挥官，否则绯红仪队兵对他造成4点伤害。</target>
+        <target state="translated">在每位牌手的结束步骤开始时，除非该牌手操控指挥官，否则CARDNAME对他造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="92282279-075f-4169-8f2f-af7bc2d388f0" resname="PZ2·65699 | Bloodsworn Steward | Card Name">
@@ -199,7 +199,7 @@
       </trans-unit>
       <trans-unit id="38bf26ad-8031-41e3-902f-675682807d71" resname="PZ2·65701 | Teferi's Protection | Card Text | Paragraph 2">
         <source>Exile CARDNAME.</source>
-        <target state="translated">放逐泰菲力的庇护。</target>
+        <target state="translated">放逐CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="802211eb-f9d5-484c-952f-be73ba0b9191" resname="PZ2·65703 | Shifting Shadow | Card Name">
@@ -214,7 +214,7 @@
       </trans-unit>
       <trans-unit id="802211eb-f9d5-484c-952f-be73ba0b9191" resname="PZ2·65703 | Shifting Shadow | Card Text | Paragraph 2">
         <source>Enchanted creature has haste and &amp;quot;At the beginning of your upkeep, destroy this creature. Reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and attach CARDNAME to it, then put all other cards revealed this way on the bottom of your library in a random order.&amp;quot;</source>
-        <target state="translated">所结附的生物具有敏捷与「在你的维持开始时，消灭此生物。从你的牌库顶开始展示牌，直到展示出一张生物牌为止。将该牌放进战场，并将幻变阴影贴附于其上，然后将所有其他以此法展示的牌以随机顺序置于你的牌库底。」</target>
+        <target state="translated">所结附的生物具有敏捷与「在你的维持开始时，消灭此生物。从你的牌库顶开始展示牌，直到展示出一张生物牌为止。将该牌放进战场，并将CARDNAME贴附于其上，然后将所有其他以此法展示的牌以随机顺序置于你的牌库底。」</target>
         <note xmlns:from="developer">中文数据来自NEC（2022-02-18）；</note>
       </trans-unit>
       <trans-unit id="0f680395-8e4f-49e9-8259-1c3ae56c8c2e" resname="PZ2·65705 | Wasitora, Nekoru Queen | Card Name">
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="0f680395-8e4f-49e9-8259-1c3ae56c8c2e" resname="PZ2·65705 | Wasitora, Nekoru Queen | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, that player sacrifices a creature. If the player can't, you create a 3/3 black, red, and green Cat Dragon creature token with flying.</source>
-        <target state="translated">每当猫龙后鹫虎对任一牌手造成战斗伤害时，该牌手牺牲一个生物。若该牌手无法如此作，则你派出一个3/3，黑红绿三色，具飞行异能的猫／龙衍生生物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，该牌手牺牲一个生物。若该牌手无法如此作，则你派出一个3/3，黑红绿三色，具飞行异能的猫／龙衍生生物。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="045c222d-bcd8-46dd-b854-080deb266f7c" resname="PZ2·65707 | Mirri, Weatherlight Duelist | Card Name">
@@ -244,12 +244,12 @@
       </trans-unit>
       <trans-unit id="045c222d-bcd8-46dd-b854-080deb266f7c" resname="PZ2·65707 | Mirri, Weatherlight Duelist | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, each opponent can't block with more than one creature this combat.</source>
-        <target state="translated">每当晴空号斗士米丽攻击时，本次战斗中每位对手均不能以多于一个生物进行阻挡。</target>
+        <target state="translated">每当CARDNAME攻击时，本次战斗中每位对手均不能以多于一个生物进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自SPG（2023-11-17）；</note>
       </trans-unit>
       <trans-unit id="045c222d-bcd8-46dd-b854-080deb266f7c" resname="PZ2·65707 | Mirri, Weatherlight Duelist | Card Text | Paragraph 3">
         <source>As long as CARDNAME is tapped, no more than one creature can attack you each combat.</source>
-        <target state="translated">只要晴空号斗士米丽已横置，每次战斗攻击你的生物便不能多于一个。</target>
+        <target state="translated">只要CARDNAME已横置，每次战斗攻击你的生物便不能多于一个。</target>
         <note xmlns:from="developer">中文数据来自SPG（2023-11-17）；</note>
       </trans-unit>
       <trans-unit id="5a7d0d6c-9e8a-4695-8759-6c0ff056aef4" resname="PZ2·65709 | Qasali Slingers | Card Name">
@@ -274,7 +274,7 @@
       </trans-unit>
       <trans-unit id="d9a5219e-f0f3-4fbe-b162-9a03c7019056" resname="PZ2·65713 | Bloodforged Battle-Axe | Card Text | Paragraph 2">
         <source>Whenever equipped creature deals combat damage to a player, create a token that's a copy of CARDNAME.</source>
-        <target state="translated">每当佩带此武具的生物对任一牌手造成战斗伤害时，派出一个衍生物，此衍生物为淬血战斧的复制品。</target>
+        <target state="translated">每当佩带此武具的生物对任一牌手造成战斗伤害时，派出一个衍生物，此衍生物为CARDNAME的复制品。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="d9a5219e-f0f3-4fbe-b162-9a03c7019056" resname="PZ2·65713 | Bloodforged Battle-Axe | Card Text | Paragraph 3">
@@ -339,7 +339,7 @@
       </trans-unit>
       <trans-unit id="e0d80c4e-ab81-4aa4-9b89-791675afd615" resname="PZ2·65725 | Kindred Discovery | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于同族发现进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
         <note xmlns:from="developer">中文数据来自WOT（2023-09-08）；</note>
       </trans-unit>
       <trans-unit id="e0d80c4e-ab81-4aa4-9b89-791675afd615" resname="PZ2·65725 | Kindred Discovery | Card Text | Paragraph 2">
@@ -359,7 +359,7 @@
       </trans-unit>
       <trans-unit id="9b83c81d-b10e-47a3-a1b9-4582f3205fca" resname="PZ2·65727 | Patron of the Vein | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target creature an opponent controls.</source>
-        <target state="translated">当脉系守护者进战场时，消灭目标由对手操控的生物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标由对手操控的生物。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="9b83c81d-b10e-47a3-a1b9-4582f3205fca" resname="PZ2·65727 | Patron of the Vein | Card Text | Paragraph 3">
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="fe32b849-2ec4-43ef-b79f-8a46c4d12f29" resname="PZ2·65731 | Herald's Horn | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于传令号角进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="fe32b849-2ec4-43ef-b79f-8a46c4d12f29" resname="PZ2·65731 | Herald's Horn | Card Text | Paragraph 2">
@@ -404,7 +404,7 @@
       </trans-unit>
       <trans-unit id="a2344ff3-554c-406a-9f86-c040729f6c8e" resname="PZ2·65733 | O-Kagachi, Vengeful Kami | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, if that player attacked you during their last turn, exile target nonland permanent that player controls.</source>
-        <target state="translated">每当复仇主神大口绳对任一牌手造成战斗伤害时，若该牌手于其上回合攻击过你，则放逐目标由该牌手操控的非地永久物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，若该牌手于其上回合攻击过你，则放逐目标由该牌手操控的非地永久物。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="a0a41876-5f70-48e8-b311-e171bba11c74" resname="PZ2·65735 | Arahbo, Roar of the World | Card Name">
@@ -429,7 +429,7 @@
       </trans-unit>
       <trans-unit id="6c6490a2-006e-4c1a-8896-6b5733a3feaa" resname="PZ2·65739 | Taigam, Ojutai Master | Card Text | Paragraph 2">
         <source>Whenever you cast an instant or sorcery spell from your hand, if CARDNAME attacked this turn, that spell gains rebound. (Exile the spell as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)</source>
-        <target state="translated">每当你从你手上施放瞬间或法术咒语时，若欧祝泰族宗师泰伽姆本回合中攻击过，则该咒语获得弹回异能。（于该咒语结算时将之放逐。在你下一个维持开始时，你可以从放逐区施放该牌，且不须支付其法术力费用。）</target>
+        <target state="translated">每当你从你手上施放瞬间或法术咒语时，若CARDNAME本回合中攻击过，则该咒语获得弹回异能。（于该咒语结算时将之放逐。在你下一个维持开始时，你可以从放逐区施放该牌，且不须支付其法术力费用。）</target>
         <note xmlns:from="developer">中文数据来自MUL（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="881a3ee1-a559-44c8-ae0e-656a2710d040" resname="PZ2·65741 | Izzet Chemister | Card Name">
@@ -449,7 +449,7 @@
       </trans-unit>
       <trans-unit id="881a3ee1-a559-44c8-ae0e-656a2710d040" resname="PZ2·65741 | Izzet Chemister | Card Text | Paragraph 3">
         <source>{1}{R}, {T}, Sacrifice CARDNAME: Cast any number of cards exiled with CARDNAME without paying their mana costs.</source>
-        <target state="translated">{1}{R}，{T}，牺牲伊捷化学师：施放任意数量以伊捷化学师放逐的牌，且不需支付其法术力费用。</target>
+        <target state="translated">{1}{R}，{T}，牺牲CARDNAME：施放任意数量以CARDNAME放逐的牌，且不需支付其法术力费用。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="8d75f383-08cf-440d-b46f-6a6e4d69d09d" resname="PZ2·65743 | Curse of Disturbance | Card Name">
@@ -499,7 +499,7 @@
       </trans-unit>
       <trans-unit id="cba697aa-9f33-4048-98a6-45175c4ed95d" resname="PZ2·65749 | Ramos, Dragon Engine | Card Text | Paragraph 2">
         <source>Whenever you cast a spell, put a +1/+1 counter on CARDNAME for each of that spell's colors.</source>
-        <target state="translated">每当你施放咒语时，该咒语每有一种颜色，便在龙形引擎瑞莫斯上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你施放咒语时，该咒语每有一种颜色，便在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自BRR（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="cba697aa-9f33-4048-98a6-45175c4ed95d" resname="PZ2·65749 | Ramos, Dragon Engine | Card Text | Paragraph 3">
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="bdebe386-d297-4911-ac9c-1b53dad33acf" resname="PZ2·65753 | Bloodline Necromancer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may return target Vampire or Wizard creature card from your graveyard to the battlefield.</source>
-        <target state="translated">当血脉死灵术士进战场时，你可以将目标吸血鬼或法术师生物牌从你的坟墓场移回战场。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标吸血鬼或法术师生物牌从你的坟墓场移回战场。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="fcf52748-a7cc-467a-ad7c-a049dd401397" resname="PZ2·65755 | Galecaster Colossus | Card Name">
@@ -544,7 +544,7 @@
       </trans-unit>
       <trans-unit id="70b202fc-3846-4585-a68a-74492e2ce9fb" resname="PZ2·65757 | Balan, Wandering Knight | Card Text | Paragraph 2">
         <source>CARDNAME has double strike as long as two or more Equipment are attached to it.</source>
-        <target state="translated">只要漂浪骑士芭澜上贴附有两个或更多武具，它便具有连击异能。</target>
+        <target state="translated">只要CARDNAME上贴附有两个或更多武具，它便具有连击异能。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="70b202fc-3846-4585-a68a-74492e2ce9fb" resname="PZ2·65757 | Balan, Wandering Knight | Card Text | Paragraph 3">
@@ -614,7 +614,7 @@
       </trans-unit>
       <trans-unit id="9194919e-0876-4824-9ea7-de9b97f0e75d" resname="PZ2·65769 | Stalking Leonin | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, secretly choose an opponent.</source>
-        <target state="translated">当潜行狮族进战场时，私下选择一位对手。</target>
+        <target state="translated">当CARDNAME进战场时，私下选择一位对手。</target>
         <note xmlns:from="developer">中文数据来自C21（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="9194919e-0876-4824-9ea7-de9b97f0e75d" resname="PZ2·65769 | Stalking Leonin | Card Text | Paragraph 2">

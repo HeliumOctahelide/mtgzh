@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="93d9e9ea-9f88-4206-8960-b5ebe839ee16" resname="ONS·6 | Aurification | Card Text | Paragraph 3">
         <source>When CARDNAME leaves play, remove all gold counters from all creatures.</source>
-        <target state="translated">当点金术离场时，从所有生物上移去所有黄金指示物。</target>
+        <target state="translated">当CARDNAME离场时，从所有生物上移去所有黄金指示物。</target>
       </trans-unit>
       <trans-unit id="da24ef56-8d54-4146-97e9-4abded807545" resname="ONS·7 | Aven Brigadier | Card Name">
         <source>Aven Brigadier</source>
@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="75a71d29-29eb-43c4-b0f3-457435e8f629" resname="ONS·11 | Catapult Squad | Card Text | Paragraph 1">
         <source>Tap two untapped Soldiers you control: CARDNAME deals 2 damage to target attacking or blocking creature.</source>
-        <target state="translated">横置两个由你操控且未横置的士兵：石弩小队对目标进行攻击或阻挡的生物造成2点伤害。</target>
+        <target state="translated">横置两个由你操控且未横置的士兵：CARDNAME对目标进行攻击或阻挡的生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="9a60ac8e-11eb-433f-86f9-8e593b38c617" resname="ONS·12 | Chain of Silence | Card Name">
         <source>Chain of Silence</source>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="07f567dc-8a60-40e1-b947-199872d8df08" resname="ONS·13 | Circle of Solace | Card Text | Paragraphs">
         <source>As CARDNAME comes into play, choose a creature type.\no1o\nW: The next time a creature of the chosen type would deal damage to you this turn, prevent that damage.</source>
-        <target state="translated">于抚慰护圈进场时，选择一种生物类别。\n{1}{W}：于本回合中，当该类别的生物下一次将对你造成伤害时，防止该些伤害。</target>
+        <target state="translated">于CARDNAME进场时，选择一种生物类别。\n{1}{W}：于本回合中，当该类别的生物下一次将对你造成伤害时，防止该些伤害。</target>
       </trans-unit>
       <trans-unit id="48f3ad80-d000-496a-b704-d09e07981b6e" resname="ONS·14 | Convalescent Care | Card Name">
         <source>Convalescent Care</source>
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="1038436d-aea5-4508-8b37-c2cfa32c2771" resname="ONS·15 | Crowd Favorites | Card Text | Paragraphs">
         <source>o3o\nW: Tap target creature.\no3o\nW: CARDNAME gets +0/+5 until end of turn.</source>
-        <target state="translated">{3}{W}：横置目标生物。\n{3}{W}：斗场明星得+0/+5直到回合结束。</target>
+        <target state="translated">{3}{W}：横置目标生物。\n{3}{W}：CARDNAME得+0/+5直到回合结束。</target>
       </trans-unit>
       <trans-unit id="aeaea4bc-dcea-4340-a039-ebc97b944673" resname="ONS·16 | Crown of Awe | Card Name">
         <source>Crown of Awe</source>
@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="aeaea4bc-dcea-4340-a039-ebc97b944673" resname="ONS·16 | Crown of Awe | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Enchanted creature and other creatures that share a creature type with it gain protection from black and from red until end of turn.</source>
-        <target state="translated">牺牲敬畏冠冕：受此结界的生物，及与其有共通生物类别的生物均获得反黑保护与反红保护异能直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME：受此结界的生物，及与其有共通生物类别的生物均获得反黑保护与反红保护异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="af5d1be2-d6ae-4820-aa01-62f261b0f110" resname="ONS·17 | Crude Rampart | Card Name">
         <source>Crude Rampart</source>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="eb2e9b7e-434e-477f-b3e8-e85ceb913650" resname="ONS·18 | Daru Cavalier | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, you may search your library for a card named CARDNAME, reveal it, and put it into your hand. If you do, shuffle your library.</source>
-        <target state="translated">当靼鲁武士进场时，你可从你的牌库中搜寻一张名为靼鲁武士的牌，展示该牌，并置于你手上。若你如此作，将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，你可从你的牌库中搜寻一张名为CARDNAME的牌，展示该牌，并置于你手上。若你如此作，将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="0e4f3eff-ac99-41e2-9003-9630cdb3ae23" resname="ONS·19 | Daru Healer | Card Name">
         <source>Daru Healer</source>
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="b8cb25b0-e4c3-4a4e-b722-ea30e695f917" resname="ONS·22 | Dawning Purist | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals combat damage to a player, you may destroy target enchantment that player controls.\nMorph o1o\nW (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当黎明净化师对任一牌手造成战斗伤害时，你可以消灭目标由该牌手操控的结界。\n变身{1}{W}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以消灭目标由该牌手操控的结界。\n变身{1}{W}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="58f9eb25-4140-4ecf-bcaa-1b193d884007" resname="ONS·23 | Defensive Maneuvers | Card Name">
         <source>Defensive Maneuvers</source>
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="65162b24-8a3b-4b92-a831-6f23f809c76f" resname="ONS·26 | Dive Bomber | Card Text | Paragraphs">
         <source>Flying\noc\nT, Sacrifice CARDNAME: CARDNAME deals 2 damage to target attacking or blocking creature.</source>
-        <target state="translated">飞行\n横置，牺牲俯冲爆击手：俯冲爆击手对目标进行攻击或阻挡的生物造成2点伤害。</target>
+        <target state="translated">飞行\n横置，牺牲CARDNAME：CARDNAME对目标进行攻击或阻挡的生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="0dedef8a-5527-40dc-9ad9-bcee4cf30a76" resname="ONS·27 | Doubtless One | Card Name">
         <source>Doubtless One</source>
@@ -252,11 +252,11 @@
       </trans-unit>
       <trans-unit id="0dedef8a-5527-40dc-9ad9-bcee4cf30a76" resname="ONS·27 | Doubtless One | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of Clerics in play.</source>
-        <target state="translated">无疑尊者的力量和防御力各等同于场上僧侣的数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于场上僧侣的数量。</target>
       </trans-unit>
       <trans-unit id="0dedef8a-5527-40dc-9ad9-bcee4cf30a76" resname="ONS·27 | Doubtless One | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage, you gain that much life.</source>
-        <target state="translated">每当无疑尊者造成伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME造成伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="c2213eac-cea4-4dfd-90c4-c1f466967e2e" resname="ONS·28 | Exalted Angel | Card Name">
         <source>Exalted Angel</source>
@@ -264,7 +264,7 @@
       </trans-unit>
       <trans-unit id="c2213eac-cea4-4dfd-90c4-c1f466967e2e" resname="ONS·28 | Exalted Angel | Card Text | Paragraphs">
         <source>Flying\nWhenever CARDNAME deals damage, you gain that much life.\nMorph o2o\nWo\nW (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">飞行\n每当昂扬天使造成伤害时，你获得等量的生命。\n变身{2}{W}{W}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">飞行\n每当CARDNAME造成伤害时，你获得等量的生命。\n变身{2}{W}{W}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="409adb7b-6dcb-4e7f-a5dd-c0adf12140a4" resname="ONS·29 | Foothill Guide | Card Name">
         <source>Foothill Guide</source>
@@ -280,7 +280,7 @@
       </trans-unit>
       <trans-unit id="7e505e8e-51aa-4415-81e6-cf022279edb0" resname="ONS·30 | Glarecaster | Card Text | Paragraphs">
         <source>Flying\no5o\nW: The next time damage would be dealt to CARDNAME or you this turn, that damage is dealt to target creature or player instead.</source>
-        <target state="translated">飞行\n{5}{W}：于本回合中，下一次镜芒术士或你将受到伤害时，该伤害改为对目标生物或牌手造成之。</target>
+        <target state="translated">飞行\n{5}{W}：于本回合中，下一次CARDNAME或你将受到伤害时，该伤害改为对目标生物或牌手造成之。</target>
       </trans-unit>
       <trans-unit id="9047075e-9fca-484d-bb79-32c0d6821281" resname="ONS·31 | Glory Seeker | Card Name">
         <source>Glory Seeker</source>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit id="87551307-6b5f-4f12-aa1f-4beebefad3b3" resname="ONS·33 | Gravel Slinger | Card Text | Paragraphs">
         <source>oc\nT: CARDNAME deals 1 damage to target attacking or blocking creature.\nMorph o1o\nW (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">横置：碎石投掷手对目标进行攻击或阻挡的生物造成1点伤害。\n变身{1}{W}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">横置：CARDNAME对目标进行攻击或阻挡的生物造成1点伤害。\n变身{1}{W}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="b5ff5c7d-7823-4d1e-8abb-77e2d8126996" resname="ONS·34 | Gustcloak Harrier | Card Name">
         <source>Gustcloak Harrier</source>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="b5ff5c7d-7823-4d1e-8abb-77e2d8126996" resname="ONS·34 | Gustcloak Harrier | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes blocked, you may untap it and remove it from combat.</source>
-        <target state="translated">每当风氅鹞鹰受到阻挡时，你可将其重置并移出战斗。</target>
+        <target state="translated">每当CARDNAME受到阻挡时，你可将其重置并移出战斗。</target>
       </trans-unit>
       <trans-unit id="eb227f65-9189-41ed-94a0-2aa21cad26f5" resname="ONS·35 | Gustcloak Runner | Card Name">
         <source>Gustcloak Runner</source>
@@ -320,7 +320,7 @@
       </trans-unit>
       <trans-unit id="eb227f65-9189-41ed-94a0-2aa21cad26f5" resname="ONS·35 | Gustcloak Runner | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, you may untap it and remove it from combat.</source>
-        <target state="translated">每当风氅奔越者受到阻挡时，你可将其重置并移出战斗。</target>
+        <target state="translated">每当CARDNAME受到阻挡时，你可将其重置并移出战斗。</target>
       </trans-unit>
       <trans-unit id="0e9d6e81-1869-4ab7-8a4e-477d5c4aed6b" resname="ONS·36 | Gustcloak Savior | Card Name">
         <source>Gustcloak Savior</source>
@@ -340,7 +340,7 @@
       </trans-unit>
       <trans-unit id="b90da5c3-fd8f-445d-809f-e129870d7449" resname="ONS·37 | Gustcloak Sentinel | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, you may untap it and remove it from combat.</source>
-        <target state="translated">每当风氅哨兵受到阻挡时，你可将其重置并移出战斗。</target>
+        <target state="translated">每当CARDNAME受到阻挡时，你可将其重置并移出战斗。</target>
       </trans-unit>
       <trans-unit id="cbbff06c-5f92-4320-8b70-df3c8344f600" resname="ONS·38 | Gustcloak Skirmisher | Card Name">
         <source>Gustcloak Skirmisher</source>
@@ -352,7 +352,7 @@
       </trans-unit>
       <trans-unit id="cbbff06c-5f92-4320-8b70-df3c8344f600" resname="ONS·38 | Gustcloak Skirmisher | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes blocked, you may untap it and remove it from combat.</source>
-        <target state="translated">每当风氅侦矛兵受到阻挡时，你可将其重置并移出战斗。</target>
+        <target state="translated">每当CARDNAME受到阻挡时，你可将其重置并移出战斗。</target>
       </trans-unit>
       <trans-unit id="b6473b4d-1f59-4216-ace9-f3e5306266fb" resname="ONS·39 | Harsh Mercy | Card Name">
         <source>Harsh Mercy</source>
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="c7284e32-de54-4c83-a7de-7b249c47319a" resname="ONS·42 | Ironfist Crusher | Card Text | Paragraphs">
         <source>CARDNAME may block any number of creatures.\nMorph o3o\nW (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">冷面猛击手可阻挡任意数量的生物。\n变身{3}{W}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">CARDNAME可阻挡任意数量的生物。\n变身{3}{W}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="65dd1364-ff36-4cb9-ad93-e6fcbcb942cf" resname="ONS·43 | Jareth, Leonine Titan | Card Name">
         <source>Jareth, Leonine Titan</source>
@@ -396,7 +396,7 @@
       </trans-unit>
       <trans-unit id="65dd1364-ff36-4cb9-ad93-e6fcbcb942cf" resname="ONS·43 | Jareth, Leonine Titan | Card Text | Paragraphs">
         <source>Whenever CARDNAME blocks, it gets +7/+7 until end of turn.\no\nW: Jareth gains protection from the color of your choice until end of turn.</source>
-        <target state="translated">每当狮面泰坦贾瑞司进行阻挡时，它得+7/+7直到回合结束。\n{W}：选择一种颜色，贾瑞司获得该色之反色保护异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME进行阻挡时，它得+7/+7直到回合结束。\n{W}：选择一种颜色，贾瑞司获得该色之反色保护异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="653cc07b-0f53-4b5b-9c5f-885b8b4a6e5f" resname="ONS·44 | Mobilization | Card Name">
         <source>Mobilization</source>
@@ -412,7 +412,7 @@
       </trans-unit>
       <trans-unit id="b2048d84-b5e6-405c-9091-1997a0c4e1a5" resname="ONS·45 | Nova Cleric | Card Text | Paragraphs">
         <source>o2o\nW, oc\nT, Sacrifice CARDNAME: Destroy all enchantments.</source>
-        <target state="translated">{2}{W}，横置，牺牲昙华僧侣：消灭所有结界。</target>
+        <target state="translated">{2}{W}，横置，牺牲CARDNAME：消灭所有结界。</target>
       </trans-unit>
       <trans-unit id="58561356-4a97-467b-88e5-412e633715fb" resname="ONS·46 | Oblation | Card Name">
         <source>Oblation</source>
@@ -436,7 +436,7 @@
       </trans-unit>
       <trans-unit id="a1ea7219-6ab6-471a-afe7-d7da1df434c7" resname="ONS·48 | Pearlspear Courier | Card Text | Paragraphs">
         <source>You may choose not to untap CARDNAME during your untap step.\no2o\nW, oc\nT: As long as CARDNAME remains tapped, target Soldier gets +2/+2 and has &amp;quot;Attacking doesn't cause this creature to tap.&amp;quot;</source>
-        <target state="translated">你可选择于重置步骤中不重置珍珠矛讯使。\n{2}{W}，横置：只要珍珠矛讯使保持横置，目标士兵便得+2/+2并具有「此生物攻击时不需横置。」</target>
+        <target state="translated">你可选择于重置步骤中不重置CARDNAME。\n{2}{W}，横置：只要CARDNAME保持横置，目标士兵便得+2/+2并具有「此生物攻击时不需横置。」</target>
       </trans-unit>
       <trans-unit id="1bc2da43-c0e1-4fbf-b309-a75e105c29c1" resname="ONS·49 | Piety Charm | Card Name">
         <source>Piety Charm</source>
@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="1ea572b5-ff68-45aa-8200-78ee7f64a0ce" resname="ONS·50 | Renewed Faith | Card Text | Paragraphs">
         <source>You gain 6 life.\nCycling o1o\nW (o1o\nW, Discard this card from your hand: Draw a card.)\nWhen you cycle CARDNAME, you may gain 2 life.</source>
-        <target state="translated">你获得6点生命。\n循环{1}{W}（{1}{W}，从你手上弃掉此牌：抓一张牌。）\n当你循环重拾信念时，你可以获得2点生命。</target>
+        <target state="translated">你获得6点生命。\n循环{1}{W}（{1}{W}，从你手上弃掉此牌：抓一张牌。）\n当你循环CARDNAME时，你可以获得2点生命。</target>
       </trans-unit>
       <trans-unit id="b83c6245-4b37-430d-af10-2581804fff08" resname="ONS·51 | Righteous Cause | Card Name">
         <source>Righteous Cause</source>
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit id="0d07ebe6-76cf-4345-b59b-9954496c44d0" resname="ONS·53 | Shared Triumph | Card Text | Paragraph 1">
         <source>As CARDNAME comes into play, choose a creature type.</source>
-        <target state="translated">于共享胜果进场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="0d07ebe6-76cf-4345-b59b-9954496c44d0" resname="ONS·53 | Shared Triumph | Card Text | Paragraph 2">
         <source>Creatures of the chosen type get +1/+1.</source>
@@ -508,7 +508,7 @@
       </trans-unit>
       <trans-unit id="0d563ebb-ecd1-406c-9d69-c101acdeced7" resname="ONS·56 | Sunfire Balm | Card Text | Paragraphs">
         <source>Prevent the next 4 damage that would be dealt to target creature or player this turn.\nCycling o1o\nW (o1o\nW, Discard this card from your hand: Draw a card.)\nWhen you cycle CARDNAME, you may prevent the next 1 damage that would be dealt to target creature or player this turn.</source>
-        <target state="translated">于本回合中，防止接下来将对目标生物或牌手造成的4点伤害。\n循环{1}{W}（{1}{W}，从你手上弃掉此牌：抓一张牌。）\n当你循环阳焰香膏时，你可以于本回合中为目标生物或牌手防止接下来的1点伤害。</target>
+        <target state="translated">于本回合中，防止接下来将对目标生物或牌手造成的4点伤害。\n循环{1}{W}（{1}{W}，从你手上弃掉此牌：抓一张牌。）\n当你循环CARDNAME时，你可以于本回合中为目标生物或牌手防止接下来的1点伤害。</target>
       </trans-unit>
       <trans-unit id="4289bdcb-6eea-458f-a4eb-89e26264673a" resname="ONS·57 | True Believer | Card Name">
         <source>True Believer</source>
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="90865f52-c062-4505-a204-b4d7d4b3fc4c" resname="ONS·66 | Arcanis the Omnipotent | Card Text | Paragraphs">
         <source>oc\nT: Draw three cards.\no2o\nUo\nU: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">横置：抓三张牌。\n{2}{U}{U}：将全能的阿卡尼思移回其拥有者手上。</target>
+        <target state="translated">横置：抓三张牌。\n{2}{U}{U}：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="f46894d1-2503-43fa-938e-7bbf19101d13" resname="ONS·67 | Artificial Evolution | Card Name">
         <source>Artificial Evolution</source>
@@ -604,7 +604,7 @@
       </trans-unit>
       <trans-unit id="bd8b17df-615c-4cc1-af1a-2fc35a985af9" resname="ONS·68 | Ascending Aven | Card Text | Paragraphs">
         <source>Flying\nCARDNAME may block only creatures with flying.\nMorph o2o\nU (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">飞行\n扬升艾文只能阻挡具飞行异能的生物。\n变身{2}{U}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">飞行\nCARDNAME只能阻挡具飞行异能的生物。\n变身{2}{U}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="7a4b41c4-0d14-4b9c-8e0c-a626ba6b104d" resname="ONS·69 | Aven Fateshaper | Card Name">
         <source>Aven Fateshaper</source>
@@ -612,7 +612,7 @@
       </trans-unit>
       <trans-unit id="7a4b41c4-0d14-4b9c-8e0c-a626ba6b104d" resname="ONS·69 | Aven Fateshaper | Card Text | Paragraphs">
         <source>Flying\nWhen CARDNAME comes into play, look at the top four cards of your library, then put them back in any order.\no4o\nU: Look at the top four cards of your library, then put them back in any order.</source>
-        <target state="translated">飞行\n当造命艾文进场时，检视你牌库顶的四张牌，再将它们以任意顺序放回。\n{4}{U}：检视你牌库顶的四张牌，再将它们以任意顺序放回。</target>
+        <target state="translated">飞行\n当CARDNAME进场时，检视你牌库顶的四张牌，再将它们以任意顺序放回。\n{4}{U}：检视你牌库顶的四张牌，再将它们以任意顺序放回。</target>
       </trans-unit>
       <trans-unit id="47c40269-80a5-454f-83dd-dae1c11500c0" resname="ONS·70 | Backslide | Card Name">
         <source>Backslide</source>
@@ -636,7 +636,7 @@
       </trans-unit>
       <trans-unit id="b3dd3ce7-e0e3-4412-9983-ff933584f59b" resname="ONS·72 | Callous Oppressor | Card Text | Paragraphs">
         <source>You may choose not to untap CARDNAME during your untap step.\nAs CARDNAME comes into play, an opponent chooses a creature type.\noc\nT: Gain control of target creature that isn't of the chosen type as long as CARDNAME remains tapped.</source>
-        <target state="translated">你可选择于重置步骤中不重置无情压制者。\n于无情压制者进场时，由一位对手选择一种生物类别。\n横置：只要无情压制者持续被横置，且目标生物并非所选择的生物类别，你便获得该生物的操控权。</target>
+        <target state="translated">你可选择于重置步骤中不重置CARDNAME。\n于CARDNAME进场时，由一位对手选择一种生物类别。\n横置：只要CARDNAME持续被横置，且目标生物并非所选择的生物类别，你便获得该生物的操控权。</target>
       </trans-unit>
       <trans-unit id="30f6b4a2-5780-46e9-b239-459d2cf37743" resname="ONS·73 | Chain of Vapor | Card Name">
         <source>Chain of Vapor</source>
@@ -652,7 +652,7 @@
       </trans-unit>
       <trans-unit id="d4de14d1-441f-4d65-bd12-df0506530015" resname="ONS·74 | Choking Tethers | Card Text | Paragraphs">
         <source>Tap up to four target creatures.\nCycling o1o\nU (o1o\nU, Discard this card from your hand: Draw a card.)\nWhen you cycle CARDNAME, you may tap target creature.</source>
-        <target state="translated">横置至多四个目标生物。\n循环{1}{U}（{1}{U}，从你手上弃掉此牌：抓一张牌。）\n当你循环窒息栓炼时，你可以横置目标生物。</target>
+        <target state="translated">横置至多四个目标生物。\n循环{1}{U}（{1}{U}，从你手上弃掉此牌：抓一张牌。）\n当你循环CARDNAME时，你可以横置目标生物。</target>
       </trans-unit>
       <trans-unit id="1d513dde-7c5f-46f1-b871-5290595bdbbe" resname="ONS·75 | Clone | Card Name">
         <source>Clone</source>
@@ -660,7 +660,7 @@
       </trans-unit>
       <trans-unit id="1d513dde-7c5f-46f1-b871-5290595bdbbe" resname="ONS·75 | Clone | Card Text | Paragraph 1">
         <source>As CARDNAME comes into play, you may choose a creature in play. If you do, CARDNAME comes into play as a copy of that creature.</source>
-        <target state="translated">于仿生妖进场时，你可以选择场上的一个生物。若你如此作，则仿生妖进场时为该生物的复制。</target>
+        <target state="translated">于CARDNAME进场时，你可以选择场上的一个生物。若你如此作，则CARDNAME进场时为该生物的复制。</target>
       </trans-unit>
       <trans-unit id="33f69670-e494-42b8-9148-fe105ec61aa0" resname="ONS·76 | Complicate | Card Name">
         <source>Complicate</source>
@@ -668,7 +668,7 @@
       </trans-unit>
       <trans-unit id="33f69670-e494-42b8-9148-fe105ec61aa0" resname="ONS·76 | Complicate | Card Text | Paragraphs">
         <source>Counter target spell unless its controller pays o3.\nCycling o2o\nU (o2o\nU, Discard this card from your hand: Draw a card.)\nWhen you cycle CARDNAME, you may counter target spell unless its controller pays o1.</source>
-        <target state="translated">除非目标咒语的操控者支付{3}，否则反击目标咒语。\n循环{2}{U}（{2}{U}，从你手上弃掉此牌：抓一张牌。）\n当你循环混杂情势时，除非目标咒语的操控者支付{1}，否则你可以反击之。</target>
+        <target state="translated">除非目标咒语的操控者支付{3}，否则反击目标咒语。\n循环{2}{U}（{2}{U}，从你手上弃掉此牌：抓一张牌。）\n当你循环CARDNAME时，除非目标咒语的操控者支付{1}，否则你可以反击之。</target>
       </trans-unit>
       <trans-unit id="c5d91378-f831-40ef-a79b-b044af1470e0" resname="ONS·77 | Crafty Pathmage | Card Name">
         <source>Crafty Pathmage</source>
@@ -688,7 +688,7 @@
       </trans-unit>
       <trans-unit id="2fe86733-7851-4c2a-8d94-dba6f071b94d" resname="ONS·78 | Crown of Ascension | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Enchanted creature and other creatures that share a creature type with it gain flying until end of turn.</source>
-        <target state="translated">牺牲飞升冠冕：受此结界的生物，及与其有共通生物类别的生物均获得飞行异能直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME：受此结界的生物，及与其有共通生物类别的生物均获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="cef584c5-6e2d-419b-9c11-a1b6c9c9ab2a" resname="ONS·79 | Discombobulate | Card Name">
         <source>Discombobulate</source>
@@ -732,7 +732,7 @@
       </trans-unit>
       <trans-unit id="246a2758-0096-43b9-8193-d6ae5b41b6e6" resname="ONS·83 | Fleeting Aven | Card Text | Paragraph 2">
         <source>Whenever a player cycles a card, return CARDNAME to its owner's hand.</source>
-        <target state="translated">每当任一牌手循环一张牌时，将飞逝艾文移回其拥有者手上。</target>
+        <target state="translated">每当任一牌手循环一张牌时，将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="688bd665-4948-4961-aec5-f17782257f9b" resname="ONS·84 | Future Sight | Card Name">
         <source>Future Sight</source>
@@ -752,7 +752,7 @@
       </trans-unit>
       <trans-unit id="cd6cc30a-9ed4-4f36-95cb-6f0a2b8dce02" resname="ONS·85 | Ghosthelm Courier | Card Text | Paragraphs">
         <source>You may choose not to untap CARDNAME during your untap step.\no2o\nU, oc\nT: As long as CARDNAME remains tapped, target Wizard gets +2/+2 and can't be the target of spells or abilities.</source>
-        <target state="translated">你可选择于重置步骤中不重置鬼影盔讯使。\n{2}{U}，横置：只要鬼影盔讯使保持横置，目标法术师便得+2/+2且不能成为咒语或异能的目标。</target>
+        <target state="translated">你可选择于重置步骤中不重置CARDNAME。\n{2}{U}，横置：只要CARDNAME保持横置，目标法术师便得+2/+2且不能成为咒语或异能的目标。</target>
       </trans-unit>
       <trans-unit id="0c16e565-0b7f-46b1-a091-64c47c923a9f" resname="ONS·86 | Graxiplon | Card Name">
         <source>Graxiplon</source>
@@ -760,7 +760,7 @@
       </trans-unit>
       <trans-unit id="0c16e565-0b7f-46b1-a091-64c47c923a9f" resname="ONS·86 | Graxiplon | Card Text | Paragraph 1">
         <source>CARDNAME is unblockable unless defending player controls three or more creatures that share a creature type.</source>
-        <target state="translated">除非由防御牌手所操控的生物中，有三个或更多生物具有共通的生物类别，否则快吉普便不能被阻挡。</target>
+        <target state="translated">除非由防御牌手所操控的生物中，有三个或更多生物具有共通的生物类别，否则CARDNAME便不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="91be6441-8a45-43e4-8d12-a886dcaadbd3" resname="ONS·87 | Imagecrafter | Card Name">
         <source>Imagecrafter</source>
@@ -820,7 +820,7 @@
       </trans-unit>
       <trans-unit id="ff34e303-c94a-4f5f-b9f6-8d48e6aac383" resname="ONS·93 | Mistform Dreamer | Card Text | Paragraph 2">
         <source>o1: CARDNAME's type becomes the creature type of your choice until end of turn.</source>
-        <target state="translated">{1}：选择一种生物类别，雾幻梦影成为该类别直到回合结束。</target>
+        <target state="translated">{1}：选择一种生物类别，CARDNAME成为该类别直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7fbbb075-5795-425f-9e33-70cb922eea16" resname="ONS·94 | Mistform Mask | Card Name">
         <source>Mistform Mask</source>
@@ -844,7 +844,7 @@
       </trans-unit>
       <trans-unit id="1082eea2-5e83-48d4-b02b-a22e7cbe2054" resname="ONS·96 | Mistform Shrieker | Card Text | Paragraphs">
         <source>Flying\no1: CARDNAME's type becomes the creature type of your choice until end of turn.\nMorph o3o\nUo\nU (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">飞行\n{1}：选择一种生物类别，雾幻鸣影成为该类别直到回合结束。\n变身{3}{U}{U}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">飞行\n{1}：选择一种生物类别，CARDNAME成为该类别直到回合结束。\n变身{3}{U}{U}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="e394e096-ea70-4813-9039-e4bd065d0a17" resname="ONS·97 | Mistform Skyreaver | Card Name">
         <source>Mistform Skyreaver</source>
@@ -856,7 +856,7 @@
       </trans-unit>
       <trans-unit id="e394e096-ea70-4813-9039-e4bd065d0a17" resname="ONS·97 | Mistform Skyreaver | Card Text | Paragraph 2">
         <source>o1: CARDNAME's type becomes the creature type of your choice until end of turn.</source>
-        <target state="translated">{1}：选择一种生物类别，雾幻掠影成为该类别直到回合结束。</target>
+        <target state="translated">{1}：选择一种生物类别，CARDNAME成为该类别直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9e80d109-b73f-4b5d-b9e4-534e8d69633f" resname="ONS·98 | Mistform Stalker | Card Name">
         <source>Mistform Stalker</source>
@@ -864,7 +864,7 @@
       </trans-unit>
       <trans-unit id="9e80d109-b73f-4b5d-b9e4-534e8d69633f" resname="ONS·98 | Mistform Stalker | Card Text | Paragraphs">
         <source>o1: CARDNAME's type becomes the creature type of your choice until end of turn.\no2o\nUo\nU: CARDNAME gets +2/+2 and gains flying until end of turn.</source>
-        <target state="translated">{1}：选择一种生物类别，雾幻潜影成为该类别直到回合结束。\n{2}{U}{U}：雾幻潜影得+2/+2并获得飞行异能直到回合结束。</target>
+        <target state="translated">{1}：选择一种生物类别，CARDNAME成为该类别直到回合结束。\n{2}{U}{U}：CARDNAME得+2/+2并获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ebaa7a26-8516-4d71-a524-77b2d3f030d5" resname="ONS·99 | Mistform Wall | Card Name">
         <source>Mistform Wall</source>
@@ -876,7 +876,7 @@
       </trans-unit>
       <trans-unit id="ebaa7a26-8516-4d71-a524-77b2d3f030d5" resname="ONS·99 | Mistform Wall | Card Text | Paragraph 2">
         <source>o1: CARDNAME's type becomes the creature type of your choice until end of turn.</source>
-        <target state="translated">{1}：选择一种生物类别，雾幻墙成为该类别直到回合结束。</target>
+        <target state="translated">{1}：选择一种生物类别，CARDNAME成为该类别直到回合结束。</target>
       </trans-unit>
       <trans-unit id="79cf3535-3f80-4b76-aad3-dd851e6885a6" resname="ONS·100 | Nameless One | Card Name">
         <source>Nameless One</source>
@@ -884,7 +884,7 @@
       </trans-unit>
       <trans-unit id="79cf3535-3f80-4b76-aad3-dd851e6885a6" resname="ONS·100 | Nameless One | Card Text | Paragraphs">
         <source>CARDNAME's power and toughness are each equal to the number of Wizards in play.\nMorph o2o\nU (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">无名尊者的力量和防御力各等同于场上法术师的数量。\n变身{2}{U}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于场上法术师的数量。\n变身{2}{U}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="be0110ba-49e4-4729-8a84-4d408b20df53" resname="ONS·101 | Peer Pressure | Card Name">
         <source>Peer Pressure</source>
@@ -908,7 +908,7 @@
       </trans-unit>
       <trans-unit id="e93577bd-2711-443c-aa88-a235345d7800" resname="ONS·103 | Quicksilver Dragon | Card Text | Paragraphs">
         <source>Flying\no\nU: If target spell has only one target and that target is CARDNAME, change that spell's target to another creature.\nMorph o4o\nU (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">飞行\n{U}：若目标咒语仅指定单一目标，且该目标为水银巨龙，则你以另一生物作为该咒语的目标。\n变身{4}{U}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">飞行\n{U}：若目标咒语仅指定单一目标，且该目标为CARDNAME，则你以另一生物作为该咒语的目标。\n变身{4}{U}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="bc148c21-cbe6-4cea-899b-e62501b59a00" resname="ONS·104 | Read the Runes | Card Name">
         <source>Read the Runes</source>
@@ -940,7 +940,7 @@
       </trans-unit>
       <trans-unit id="3767f568-36b1-4064-835e-4dd7576b7b8b" resname="ONS·107 | Riptide Chronologist | Card Text | Paragraphs">
         <source>o\nU, Sacrifice CARDNAME: Untap all creatures of the type of your choice.</source>
-        <target state="translated">{U}，牺牲激流编年学者：选择一种生物类别，重置所有该类别的生物。</target>
+        <target state="translated">{U}，牺牲CARDNAME：选择一种生物类别，重置所有该类别的生物。</target>
       </trans-unit>
       <trans-unit id="2cd9abc9-f289-4294-bc0f-4addc8b92a4e" resname="ONS·108 | Riptide Entrancer | Card Name">
         <source>Riptide Entrancer</source>
@@ -948,7 +948,7 @@
       </trans-unit>
       <trans-unit id="2cd9abc9-f289-4294-bc0f-4addc8b92a4e" resname="ONS·108 | Riptide Entrancer | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals combat damage to a player, you may sacrifice it. If you do, gain control of target creature that player controls. (This effect doesn't end at end of turn.)\nMorph o\nUo\nU (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当激流迷幻术士对任一牌手造成战斗伤害时，你可牺牲之。若你如此作，则你获得目标由该牌手操控的生物之操控权。（此效应不因回合结束而终止）\n变身{U}{U}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可牺牲之。若你如此作，则你获得目标由该牌手操控的生物之操控权。（此效应不因回合结束而终止）\n变身{U}{U}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="85be34ac-7bc2-4da2-8d9c-2412b9946073" resname="ONS·109 | Riptide Shapeshifter | Card Name">
         <source>Riptide Shapeshifter</source>
@@ -956,7 +956,7 @@
       </trans-unit>
       <trans-unit id="85be34ac-7bc2-4da2-8d9c-2412b9946073" resname="ONS·109 | Riptide Shapeshifter | Card Text | Paragraphs">
         <source>o2o\nUo\nU, Sacrifice CARDNAME: Choose a creature type. Reveal cards from the top of your library until you reveal a creature card of that type. Put that card into play and shuffle the rest into your library.</source>
-        <target state="translated">{2}{U}{U}，牺牲激流变形兽：选择一种生物类别。从你牌库顶开始展示牌，直到你展示出一张该类别的牌。将该牌放置进场，并将其余的牌洗入你的牌库。</target>
+        <target state="translated">{2}{U}{U}，牺牲CARDNAME：选择一种生物类别。从你牌库顶开始展示牌，直到你展示出一张该类别的牌。将该牌放置进场，并将其余的牌洗入你的牌库。</target>
       </trans-unit>
       <trans-unit id="ad96e158-bf2b-4f3e-9692-0f79efdd94f5" resname="ONS·110 | Rummaging Wizard | Card Name">
         <source>Rummaging Wizard</source>
@@ -976,7 +976,7 @@
       </trans-unit>
       <trans-unit id="4c03afc5-7ca3-4ac6-a06e-091e2cce13a0" resname="ONS·111 | Sage Aven | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, look at the top four cards of your library, then put them back in any order.</source>
-        <target state="translated">当艾文智者进场时，检视你牌库顶的四张牌，再将它们以任意顺序放回。</target>
+        <target state="translated">当CARDNAME进场时，检视你牌库顶的四张牌，再将它们以任意顺序放回。</target>
       </trans-unit>
       <trans-unit id="cc5856ac-e710-44ee-8516-6070f4f31ce5" resname="ONS·112 | Screaming Seahawk | Card Name">
         <source>Screaming Seahawk</source>
@@ -988,7 +988,7 @@
       </trans-unit>
       <trans-unit id="cc5856ac-e710-44ee-8516-6070f4f31ce5" resname="ONS·112 | Screaming Seahawk | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, you may search your library for a card named CARDNAME, reveal it, and put it into your hand. If you do, shuffle your library.</source>
-        <target state="translated">当尖鸣海鹰进场时，你可从你的牌库中搜寻一张名为尖鸣海鹰的牌，展示该牌，并置于你手上。若你如此作，将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，你可从你的牌库中搜寻一张名为CARDNAME的牌，展示该牌，并置于你手上。若你如此作，将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="fb652a5c-464e-4ba4-a4ab-1181be70cf7a" resname="ONS·113 | Sea's Claim | Card Name">
         <source>Sea's Claim</source>
@@ -1004,7 +1004,7 @@
       </trans-unit>
       <trans-unit id="e9d06a1f-00b7-440d-849d-efc466d73f29" resname="ONS·114 | Slipstream Eel | Card Text | Paragraphs">
         <source>CARDNAME can't attack unless defending player controls an island.\nCycling o1o\nU (o1o\nU, Discard this card from your hand: Draw a card.)</source>
-        <target state="translated">除非防御牌手操控海岛，否则滑流鳗不能进行攻击。\n循环{1}{U}（{1}{U}，从你手上弃掉此牌：抓一张牌。）</target>
+        <target state="translated">除非防御牌手操控海岛，否则CARDNAME不能进行攻击。\n循环{1}{U}（{1}{U}，从你手上弃掉此牌：抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="8a4bed3f-845c-4822-b8af-8b511dce6fe2" resname="ONS·115 | Spy Network | Card Name">
         <source>Spy Network</source>
@@ -1080,7 +1080,7 @@
       </trans-unit>
       <trans-unit id="894556d8-6d5c-431b-a45d-26cd37c5f456" resname="ONS·123 | Accursed Centaur | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, sacrifice a creature.</source>
-        <target state="translated">当受诅的半人马进场时，牺牲一个生物。</target>
+        <target state="translated">当CARDNAME进场时，牺牲一个生物。</target>
       </trans-unit>
       <trans-unit id="9e43d62c-488a-4c8d-b193-bacbf8037761" resname="ONS·124 | Anurid Murkdiver | Card Name">
         <source>Anurid Murkdiver</source>
@@ -1108,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="107492b9-03a8-4d53-a0cf-4814ffbec409" resname="ONS·126 | Aphetto Vulture | Card Text | Paragraph 2">
         <source>When CARDNAME is put into a graveyard from play, you may put target Zombie card from your graveyard on top of your library.</source>
-        <target state="translated">当艾非托兀鹰从场上进入坟墓场时，你可以将目标在你坟墓场中的灵俑牌置于你的牌库顶。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，你可以将目标在你坟墓场中的灵俑牌置于你的牌库顶。</target>
       </trans-unit>
       <trans-unit id="9b40f6eb-e2a4-46d2-8822-b0f3dc508b73" resname="ONS·127 | Blackmail | Card Name">
         <source>Blackmail</source>
@@ -1140,7 +1140,7 @@
       </trans-unit>
       <trans-unit id="cd7727a7-0cdf-4fd5-82b4-e6587c10ca80" resname="ONS·130 | Cabal Executioner | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals combat damage to a player, that player sacrifices a creature.\nMorph o3o\nBo\nB (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当柯帮行刑人对任一牌手造成战斗伤害时，该牌手牺牲一个生物。\n变身{3}{B}{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，该牌手牺牲一个生物。\n变身{3}{B}{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="b9c04fd3-021a-4011-be9b-0d268557aa06" resname="ONS·131 | Cabal Slaver | Card Name">
         <source>Cabal Slaver</source>
@@ -1164,7 +1164,7 @@
       </trans-unit>
       <trans-unit id="0d6d7d88-d82b-40f4-bf57-ec5d7c480689" resname="ONS·133 | Cover of Darkness | Card Text | Paragraph 1">
         <source>As CARDNAME comes into play, choose a creature type.</source>
-        <target state="translated">于夜色掩护进场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="0d6d7d88-d82b-40f4-bf57-ec5d7c480689" resname="ONS·133 | Cover of Darkness | Card Text | Paragraph 2">
         <source>Creatures of the chosen type have fear. (They can't be blocked except by artifact creatures and/or black creatures.)</source>
@@ -1180,7 +1180,7 @@
       </trans-unit>
       <trans-unit id="8953e11b-cc3a-4c8d-9d7e-04bf90c77027" resname="ONS·134 | Crown of Suspicion | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Enchanted creature and other creatures that share a creature type with it get +2/-1 until end of turn.</source>
-        <target state="translated">牺牲疑心冠冕：受此结界的生物，及与其有共通生物类别的生物均得+2/-1直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME：受此结界的生物，及与其有共通生物类别的生物均得+2/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="245aba23-2abb-4084-b4cb-d06e46de2108" resname="ONS·135 | Cruel Revival | Card Name">
         <source>Cruel Revival</source>
@@ -1204,7 +1204,7 @@
       </trans-unit>
       <trans-unit id="524fd470-e535-47ea-98a0-6187e429dfe1" resname="ONS·137 | Death Pulse | Card Text | Paragraphs">
         <source>Target creature gets -4/-4 until end of turn.\nCycling o1o\nBo\nB (o1o\nBo\nB, Discard this card from your hand: Draw a card.)\nWhen you cycle CARDNAME, you may have target creature get -1/-1 until end of turn.</source>
-        <target state="translated">目标生物得-4/-4直到回合结束。\n循环{1}{B}{B}（{1}{B}{B}，从你手上弃掉此牌：抓一张牌。）\n当你循环死亡脉动时，你可以使目标生物得-1/-1直到回合结束。</target>
+        <target state="translated">目标生物得-4/-4直到回合结束。\n循环{1}{B}{B}（{1}{B}{B}，从你手上弃掉此牌：抓一张牌。）\n当你循环CARDNAME时，你可以使目标生物得-1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8496e9c2-4c13-4307-bda7-b88512a21a6a" resname="ONS·138 | Dirge of Dread | Card Name">
         <source>Dirge of Dread</source>
@@ -1212,7 +1212,7 @@
       </trans-unit>
       <trans-unit id="8496e9c2-4c13-4307-bda7-b88512a21a6a" resname="ONS·138 | Dirge of Dread | Card Text | Paragraphs">
         <source>All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)\nCycling o1o\nB (o1o\nB, Discard this card from your hand: Draw a card.)\nWhen you cycle CARDNAME, you may have target creature gain fear until end of turn.</source>
-        <target state="translated">所有生物获得恐惧异能直到回合结束。（这些生物只能被神器和／或黑色生物阻挡。）\n循环{1}{B}（{1}{B}，从你手上弃掉此牌：抓一张牌。）\n当你循环慑魂挽歌时，你可以使目标生物获得恐惧异能直到回合结束。</target>
+        <target state="translated">所有生物获得恐惧异能直到回合结束。（这些生物只能被神器和／或黑色生物阻挡。）\n循环{1}{B}（{1}{B}，从你手上弃掉此牌：抓一张牌。）\n当你循环CARDNAME时，你可以使目标生物获得恐惧异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="74cc7ab0-a5db-4ae9-af9a-89fd5aaaab57" resname="ONS·139 | Disciple of Malice | Card Name">
         <source>Disciple of Malice</source>
@@ -1232,7 +1232,7 @@
       </trans-unit>
       <trans-unit id="3ca3e348-47cc-41d6-999a-60d1206aaf06" resname="ONS·140 | Doomed Necromancer | Card Text | Paragraphs">
         <source>o\nB, oc\nT, Sacrifice CARDNAME: Return target creature card from your graveyard to play.</source>
-        <target state="translated">{B}，横置，牺牲败亡死灵术士：将目标在你坟墓场中的生物牌移回场上。</target>
+        <target state="translated">{B}，横置，牺牲CARDNAME：将目标在你坟墓场中的生物牌移回场上。</target>
       </trans-unit>
       <trans-unit id="16ebef2c-8bb2-4816-a628-0062f95e512e" resname="ONS·141 | Ebonblade Reaper | Card Name">
         <source>Ebonblade Reaper</source>
@@ -1240,7 +1240,7 @@
       </trans-unit>
       <trans-unit id="16ebef2c-8bb2-4816-a628-0062f95e512e" resname="ONS·141 | Ebonblade Reaper | Card Text | Paragraphs">
         <source>Whenever CARDNAME attacks, you lose half your life, rounded up.\nWhenever CARDNAME deals combat damage to a player, that player loses half his or her life, rounded up.\nMorph o3o\nBo\nB (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当黑锋镰刀手攻击时，你失去一半生命，小数点后进位。\n每当黑锋镰刀手对任一牌手造成战斗伤害时，该牌手失去一半生命，小数点后进位。\n变身{3}{B}{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME攻击时，你失去一半生命，小数点后进位。\n每当CARDNAME对任一牌手造成战斗伤害时，该牌手失去一半生命，小数点后进位。\n变身{3}{B}{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="15326971-a53b-45f2-8f1d-1b82935286e1" resname="ONS·142 | Endemic Plague | Card Name">
         <source>Endemic Plague</source>
@@ -1248,7 +1248,7 @@
       </trans-unit>
       <trans-unit id="15326971-a53b-45f2-8f1d-1b82935286e1" resname="ONS·142 | Endemic Plague | Card Text | Paragraph 1">
         <source>As an additional cost to play CARDNAME, sacrifice a creature.</source>
-        <target state="translated">牺牲一个生物，以作为使用风土病的额外费用。</target>
+        <target state="translated">牺牲一个生物，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="15326971-a53b-45f2-8f1d-1b82935286e1" resname="ONS·142 | Endemic Plague | Card Text | Paragraph 2">
         <source>Destroy all creatures that share a creature type with the sacrificed creature. They can't be regenerated.</source>
@@ -1260,7 +1260,7 @@
       </trans-unit>
       <trans-unit id="cdddab92-3e1f-49dc-afd0-8c84d0d952c2" resname="ONS·143 | Entrails Feaster | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, you may remove a creature card in a graveyard from the game. If you do, put a +1/+1 counter on CARDNAME. If you don't, tap CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以从任一坟墓场中将一张生物牌移出对战。若你如此作，则在脏腑妖猫上放置一个+1/+1指示物。若你未如此做，则横置脏腑妖猫。</target>
+        <target state="translated">在你的维持开始时，你可以从任一坟墓场中将一张生物牌移出对战。若你如此作，则在CARDNAME上放置一个+1/+1指示物。若你未如此做，则横置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="56b34afa-0183-49aa-aa5f-03e070020136" resname="ONS·144 | Fade from Memory | Card Name">
         <source>Fade from Memory</source>
@@ -1300,7 +1300,7 @@
       </trans-unit>
       <trans-unit id="e7209cc8-b519-4f27-87d8-b12e239a121f" resname="ONS·148 | Festering Goblin | Card Text | Paragraph 1">
         <source>When CARDNAME is put into a graveyard from play, target creature gets -1/-1 until end of turn.</source>
-        <target state="translated">当溃伤精灵从场上进入坟墓场时，目标生物得-1/-1直到回合结束。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，目标生物得-1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4a0fa75a-a82b-44cd-965f-07e0fe7a111a" resname="ONS·149 | Frightshroud Courier | Card Name">
         <source>Frightshroud Courier</source>
@@ -1308,7 +1308,7 @@
       </trans-unit>
       <trans-unit id="4a0fa75a-a82b-44cd-965f-07e0fe7a111a" resname="ONS·149 | Frightshroud Courier | Card Text | Paragraphs">
         <source>You may choose not to untap CARDNAME during your untap step.\no2o\nB, oc\nT: As long as CARDNAME remains tapped, target Zombie gets +2/+2 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">你可选择于重置步骤中不重置骇栗篷讯使。\n{2}{B}，横置：只要骇栗篷讯使保持横置，则目标灵俑得+2/+2并具有恐惧异能。（此生物只能被神器和／或黑色生物阻挡。）</target>
+        <target state="translated">你可选择于重置步骤中不重置CARDNAME。\n{2}{B}，横置：只要CARDNAME保持横置，则目标灵俑得+2/+2并具有恐惧异能。（此生物只能被神器和／或黑色生物阻挡。）</target>
       </trans-unit>
       <trans-unit id="69b58b6b-24cd-4440-b99c-d88d44b3c41c" resname="ONS·150 | Gangrenous Goliath | Card Name">
         <source>Gangrenous Goliath</source>
@@ -1316,7 +1316,7 @@
       </trans-unit>
       <trans-unit id="69b58b6b-24cd-4440-b99c-d88d44b3c41c" resname="ONS·150 | Gangrenous Goliath | Card Text | Paragraph 1">
         <source>Tap three untapped Clerics you control: Return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">横置三个由你操控且未横置的僧侣：将坏疽巨人从你的坟墓场移回你的手上。</target>
+        <target state="translated">横置三个由你操控且未横置的僧侣：将CARDNAME从你的坟墓场移回你的手上。</target>
       </trans-unit>
       <trans-unit id="db909e95-7979-41f0-b17a-874c4137fcc1" resname="ONS·151 | Gluttonous Zombie | Card Name">
         <source>Gluttonous Zombie</source>
@@ -1348,7 +1348,7 @@
       </trans-unit>
       <trans-unit id="a164420c-3619-4f5e-81cf-2aa5a4553bc3" resname="ONS·154 | Haunted Cadaver | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals combat damage to a player, you may sacrifice it. If you do, that player discards three cards from his or her hand.\nMorph o1o\nB (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当作祟剖尸对任一牌手造成战斗伤害时，你可牺牲之。若你如此作，该牌手从手上弃掉三张牌。\n变身{1}{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可牺牲之。若你如此作，该牌手从手上弃掉三张牌。\n变身{1}{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="86ecc098-aa2b-4bae-80d5-4d02128ef837" resname="ONS·155 | Head Games | Card Name">
         <source>Head Games</source>
@@ -1364,7 +1364,7 @@
       </trans-unit>
       <trans-unit id="3cbd82d5-d64f-4833-b1a9-9652fcfa1578" resname="ONS·156 | Headhunter | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals combat damage to a player, that player discards a card from his or her hand.\nMorph o\nB (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当割头人对任一牌手造成战斗伤害时，该牌手从手上弃掉一张牌。\n变身{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，该牌手从手上弃掉一张牌。\n变身{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="b7890ba2-aa42-4c8d-bbc1-94fb1d4150fc" resname="ONS·157 | Infest | Card Name">
         <source>Infest</source>
@@ -1388,7 +1388,7 @@
       </trans-unit>
       <trans-unit id="1ff31ece-f132-4107-9415-fcf30e251167" resname="ONS·159 | Nantuko Husk | Card Text | Paragraph 1">
         <source>Sacrifice a creature: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">牺牲一个生物：空壳螳人得+2/+2直到回合结束。</target>
+        <target state="translated">牺牲一个生物：CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="3bbfd715-0772-4516-8cd8-89495dbccf4a" resname="ONS·160 | Oversold Cemetery | Card Name">
         <source>Oversold Cemetery</source>
@@ -1412,7 +1412,7 @@
       </trans-unit>
       <trans-unit id="bc8320ef-af97-4cf6-9aaf-17818174d842" resname="ONS·162 | Profane Prayers | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to target creature or player and you gain X life, where X is the number of Clerics in play.</source>
-        <target state="translated">异端祷告对目标生物或牌手造成X点伤害且你获得X点生命，X为场上僧侣的数量。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成X点伤害且你获得X点生命，X为场上僧侣的数量。</target>
       </trans-unit>
       <trans-unit id="0f037e99-75fb-4a2a-b4c6-448ef21b16a3" resname="ONS·163 | Prowling Pangolin | Card Name">
         <source>Prowling Pangolin</source>
@@ -1420,7 +1420,7 @@
       </trans-unit>
       <trans-unit id="0f037e99-75fb-4a2a-b4c6-448ef21b16a3" resname="ONS·163 | Prowling Pangolin | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, any player may sacrifice two creatures. If a player does, sacrifice CARDNAME.</source>
-        <target state="translated">当潜行穿山甲进场时，任一牌手可牺牲两个生物。若有牌手如此做，则牺牲潜行穿山甲。</target>
+        <target state="translated">当CARDNAME进场时，任一牌手可牺牲两个生物。若有牌手如此做，则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="87b29d1e-9c06-4ad1-8178-b3eaa212f6f1" resname="ONS·164 | Rotlung Reanimator | Card Name">
         <source>Rotlung Reanimator</source>
@@ -1428,7 +1428,7 @@
       </trans-unit>
       <trans-unit id="87b29d1e-9c06-4ad1-8178-b3eaa212f6f1" resname="ONS·164 | Rotlung Reanimator | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Cleric is put into a graveyard from play, put a 2/2 black Zombie creature token into play.</source>
-        <target state="translated">每当痨病尸偶术士或另一个僧侣从场上进入坟墓场时，将一个2/2黑色灵俑衍生物放置进场。</target>
+        <target state="translated">每当CARDNAME或另一个僧侣从场上进入坟墓场时，将一个2/2黑色灵俑衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="1d4b887a-d928-4f6c-aa37-a0b09e87b91e" resname="ONS·165 | Screeching Buzzard | Card Name">
         <source>Screeching Buzzard</source>
@@ -1440,7 +1440,7 @@
       </trans-unit>
       <trans-unit id="1d4b887a-d928-4f6c-aa37-a0b09e87b91e" resname="ONS·165 | Screeching Buzzard | Card Text | Paragraph 2">
         <source>When CARDNAME is put into a graveyard from play, each opponent discards a card from his or her hand.</source>
-        <target state="translated">当尖响兀鹰从场上进入坟墓场时，每位对手从手上弃掉一张牌。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，每位对手从手上弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="efe12afd-da41-436e-af84-fa3b36a58030" resname="ONS·166 | Severed Legion | Card Name">
         <source>Severed Legion</source>
@@ -1472,7 +1472,7 @@
       </trans-unit>
       <trans-unit id="bfd891ba-cf6a-4b83-a421-3a7c346ada31" resname="ONS·169 | Silent Specter | Card Text | Paragraphs">
         <source>Flying\nWhenever CARDNAME deals combat damage to a player, that player discards two cards from his or her hand.\nMorph o3o\nBo\nB (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">飞行\n每当寂静幽灵对任一牌手造成战斗伤害时，该牌手从手上弃掉两张牌。\n变身{3}{B}{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">飞行\n每当CARDNAME对任一牌手造成战斗伤害时，该牌手从手上弃掉两张牌。\n变身{3}{B}{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="9a8321af-d667-44e7-8c03-3957286604b9" resname="ONS·170 | Smother | Card Name">
         <source>Smother</source>
@@ -1488,7 +1488,7 @@
       </trans-unit>
       <trans-unit id="c826d786-0d96-4f77-94ae-6907fbce51e0" resname="ONS·171 | Soulless One | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of Zombies in play plus the number of Zombie cards in all graveyards.</source>
-        <target state="translated">无情尊者的力量和防御力等同于场上灵俑数量与所有坟墓场中灵俑牌数量的总和。</target>
+        <target state="translated">CARDNAME的力量和防御力等同于场上灵俑数量与所有坟墓场中灵俑牌数量的总和。</target>
       </trans-unit>
       <trans-unit id="4d0d666a-8e31-466c-937f-54df910f664e" resname="ONS·172 | Spined Basher | Card Name">
         <source>Spined Basher</source>
@@ -1532,7 +1532,7 @@
       </trans-unit>
       <trans-unit id="3bdaef0f-9965-463b-902d-72ec24b2db7b" resname="ONS·176 | Syphon Soul | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each other player. You gain life equal to the damage dealt this way.</source>
-        <target state="translated">吸魂对每个其他牌手各造成2点伤害。你获得等同于此法造成之伤害数量的生命。</target>
+        <target state="translated">CARDNAME对每个其他牌手各造成2点伤害。你获得等同于此法造成之伤害数量的生命。</target>
       </trans-unit>
       <trans-unit id="da84de0e-a4cd-4dff-8ee3-87c9debf0969" resname="ONS·177 | Thrashing Mudspawn | Card Name">
         <source>Thrashing Mudspawn</source>
@@ -1540,7 +1540,7 @@
       </trans-unit>
       <trans-unit id="da84de0e-a4cd-4dff-8ee3-87c9debf0969" resname="ONS·177 | Thrashing Mudspawn | Card Text | Paragraphs">
         <source>Whenever CARDNAME is dealt damage, you lose that much life.\nMorph o1o\nBo\nB (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当鞭笞泥孳兽受到伤害时，你失去等量的生命。\n变身{1}{B}{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME受到伤害时，你失去等量的生命。\n变身{1}{B}{B}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="bbc779d9-3200-4369-9289-1a8e90e243b9" resname="ONS·178 | Undead Gladiator | Card Name">
         <source>Undead Gladiator</source>
@@ -1548,7 +1548,7 @@
       </trans-unit>
       <trans-unit id="bbc779d9-3200-4369-9289-1a8e90e243b9" resname="ONS·178 | Undead Gladiator | Card Text | Paragraphs">
         <source>o1o\nB, Discard a card from your hand: Return CARDNAME from your graveyard to your hand. Play this ability only during your upkeep.\nCycling o1o\nB (o1o\nB, Discard this card from your hand: Draw a card.)</source>
-        <target state="translated">{1}{B}，从你手上弃掉一张牌：将不死剑斗士从你的坟墓场中移回你手上。你只能在你的维持中使用此异能。\n循环{1}{B}（{1}{B}，从你手上弃掉此牌：抓一张牌。）</target>
+        <target state="translated">{1}{B}，从你手上弃掉一张牌：将CARDNAME从你的坟墓场中移回你手上。你只能在你的维持中使用此异能。\n循环{1}{B}（{1}{B}，从你手上弃掉此牌：抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="ce6adcfe-b0f7-4a96-bab2-f76c84ef5ca6" resname="ONS·179 | Visara the Dreadful | Card Name">
         <source>Visara the Dreadful</source>
@@ -1572,11 +1572,11 @@
       </trans-unit>
       <trans-unit id="9ce4be1e-97dd-45ec-89e5-2fb56145c098" resname="ONS·181 | Withering Hex | Card Text | Paragraph 1">
         <source>Whenever a player cycles a card, put a plague counter on CARDNAME.</source>
-        <target state="translated">每当任一牌手循环一张牌时，在凋萎巫蛊上放置一个疫病指示物。</target>
+        <target state="translated">每当任一牌手循环一张牌时，在CARDNAME上放置一个疫病指示物。</target>
       </trans-unit>
       <trans-unit id="9ce4be1e-97dd-45ec-89e5-2fb56145c098" resname="ONS·181 | Withering Hex | Card Text | Paragraph 2">
         <source>Enchanted creature gets -1/-1 for each plague counter on CARDNAME.</source>
-        <target state="translated">凋萎巫蛊上每有一个疫病指示物，受此结界的生物便得-1/-1。</target>
+        <target state="translated">CARDNAME上每有一个疫病指示物，受此结界的生物便得-1/-1。</target>
       </trans-unit>
       <trans-unit id="d2dcb8ed-23e7-4cee-9f43-042232c6035a" resname="ONS·182 | Words of Waste | Card Name">
         <source>Words of Waste</source>
@@ -1616,7 +1616,7 @@
       </trans-unit>
       <trans-unit id="ec9796ac-11e2-4295-bf00-f684d0111970" resname="ONS·186 | Airdrop Condor | Card Text | Paragraphs">
         <source>Flying\no1o\nR, Sacrifice a Goblin: CARDNAME deals damage equal to the sacrificed Goblin's power to target creature or player.</source>
-        <target state="translated">飞行\n{1}{R}，牺牲一个精灵：空投秃鹰对目标生物或牌手造成伤害，其数量等同于所牺牲精灵的力量。</target>
+        <target state="translated">飞行\n{1}{R}，牺牲一个精灵：CARDNAME对目标生物或牌手造成伤害，其数量等同于所牺牲精灵的力量。</target>
       </trans-unit>
       <trans-unit id="ae76705f-ec95-48b0-9e26-84ce40c9514b" resname="ONS·187 | Avarax | Card Name">
         <source>Avarax</source>
@@ -1624,7 +1624,7 @@
       </trans-unit>
       <trans-unit id="ae76705f-ec95-48b0-9e26-84ce40c9514b" resname="ONS·187 | Avarax | Card Text | Paragraphs">
         <source>Haste\nWhen CARDNAME comes into play, you may search your library for a card named CARDNAME, reveal it, and put it into your hand. If you do, shuffle your library.\no1o\nR: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">敏捷\n当阿帕垒兽进场时，你可从你的牌库中搜寻一张名为阿帕垒兽的牌，展示该牌，并置于你手上。若你如此作，将你的牌库洗牌。\n{1}{R}：阿帕垒兽得+1/+0直到回合结束。</target>
+        <target state="translated">敏捷\n当CARDNAME进场时，你可从你的牌库中搜寻一张名为CARDNAME的牌，展示该牌，并置于你手上。若你如此作，将你的牌库洗牌。\n{1}{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9ef71f42-87e5-4b1d-aac1-3752b81cee7c" resname="ONS·188 | Battering Craghorn | Card Name">
         <source>Battering Craghorn</source>
@@ -1640,7 +1640,7 @@
       </trans-unit>
       <trans-unit id="e0ddcf4a-1943-49dd-a02c-75804ce4bc3e" resname="ONS·189 | Blistering Firecat | Card Text | Paragraphs">
         <source>Trample, haste\nAt end of turn, sacrifice CARDNAME.\nMorph o\nRo\nR (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">践踏，敏捷\n在回合结束时，牺牲迅猛火焰猫。\n变身{R}{R}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">践踏，敏捷\n在回合结束时，牺牲CARDNAME。\n变身{R}{R}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="a5ae8050-b644-41db-b1e9-d9bad2173485" resname="ONS·190 | Break Open | Card Name">
         <source>Break Open</source>
@@ -1664,7 +1664,7 @@
       </trans-unit>
       <trans-unit id="7f2a29cf-4b2e-44c0-af73-512d6fed0dae" resname="ONS·192 | Butcher Orgg | Card Text | Paragraph 1">
         <source>You may divide CARDNAME's combat damage as you choose among defending player and/or any number of creatures he or she controls.</source>
-        <target state="translated">你可以将屠夫欧格的战斗伤害任意分配至防御牌手和／或任意数量由该牌手所操控的生物间。</target>
+        <target state="translated">你可以将CARDNAME的战斗伤害任意分配至防御牌手和／或任意数量由该牌手所操控的生物间。</target>
       </trans-unit>
       <trans-unit id="f94aa774-9036-4016-8880-4bde2710cb90" resname="ONS·193 | Chain of Plasma | Card Name">
         <source>Chain of Plasma</source>
@@ -1672,7 +1672,7 @@
       </trans-unit>
       <trans-unit id="f94aa774-9036-4016-8880-4bde2710cb90" resname="ONS·193 | Chain of Plasma | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature or player. Then that player or that creature's controller may discard a card from his or her hand. If the player does, he or she may copy this spell and may choose a new target for that copy.</source>
-        <target state="translated">连锁电浆对目标生物或牌手造成3点伤害。然后该牌手或该生物的操控者可以从他手上弃掉一张牌。若该牌手如此做，则他可以复制此咒语，并可以为其选择一个新目标。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。然后该牌手或该生物的操控者可以从他手上弃掉一张牌。若该牌手如此做，则他可以复制此咒语，并可以为其选择一个新目标。</target>
       </trans-unit>
       <trans-unit id="d2cfff37-655f-4107-abf3-e6f63d0e4de2" resname="ONS·194 | Charging Slateback | Card Name">
         <source>Charging Slateback</source>
@@ -1680,7 +1680,7 @@
       </trans-unit>
       <trans-unit id="d2cfff37-655f-4107-abf3-e6f63d0e4de2" resname="ONS·194 | Charging Slateback | Card Text | Paragraphs">
         <source>CARDNAME can't block.\nMorph o4o\nR (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">冲锋瓦背兽不能进行阻挡。\n变身{4}{R}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">CARDNAME不能进行阻挡。\n变身{4}{R}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="bb237330-ac2e-411d-836c-6628f96f3262" resname="ONS·195 | Commando Raid | Card Name">
         <source>Commando Raid</source>
@@ -1700,7 +1700,7 @@
       </trans-unit>
       <trans-unit id="6caae974-f531-469d-8c6a-2077c4f3294a" resname="ONS·196 | Crown of Fury | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Enchanted creature and other creatures that share a creature type with it get +1/+0 and gain first strike until end of turn.</source>
-        <target state="translated">牺牲怒火冠冕：受此结界的生物，及与其有共通生物类别的生物均得+1/+0并获得先攻异能直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME：受此结界的生物，及与其有共通生物类别的生物均得+1/+0并获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b72257f5-0cf9-45ca-8dc7-a1a93bd7dd1e" resname="ONS·197 | Custody Battle | Card Name">
         <source>Custody Battle</source>
@@ -1732,7 +1732,7 @@
       </trans-unit>
       <trans-unit id="f50f60a8-e99a-4891-b474-a21abee38970" resname="ONS·200 | Embermage Goblin | Card Text | Paragraphs">
         <source>When CARDNAME comes into play, you may search your library for a card named CARDNAME, reveal it, and put it into your hand. If you do, shuffle your library.\noc\nT: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">当精灵烬法师进场时，你可从你的牌库中搜寻一张名为精灵烬法师的牌，展示该牌，并置于你手上。若你如此作，将你的牌库洗牌。\n横置：精灵烬法师对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">当CARDNAME进场时，你可从你的牌库中搜寻一张名为CARDNAME的牌，展示该牌，并置于你手上。若你如此作，将你的牌库洗牌。\n横置：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="9f608a7e-5555-4554-a6e7-fe00e0bbe753" resname="ONS·201 | Erratic Explosion | Card Name">
         <source>Erratic Explosion</source>
@@ -1740,7 +1740,7 @@
       </trans-unit>
       <trans-unit id="9f608a7e-5555-4554-a6e7-fe00e0bbe753" resname="ONS·201 | Erratic Explosion | Card Text | Paragraph 1">
         <source>Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. CARDNAME deals damage equal to that card's converted mana cost to that creature or player. Put the revealed cards on the bottom of your library in any order.</source>
-        <target state="translated">选择目标生物或牌手。展示你的牌库顶牌直到展示出一张非地的牌为止；不稳定爆炸对该生物或牌手造成伤害，其数量等同于该牌的总法术力费用，然后你将以此法展示的牌依任意顺序置于你牌库底。</target>
+        <target state="translated">选择目标生物或牌手。展示你的牌库顶牌直到展示出一张非地的牌为止；CARDNAME对该生物或牌手造成伤害，其数量等同于该牌的总法术力费用，然后你将以此法展示的牌依任意顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="830d1980-f460-4be2-9379-c3f74c8318f3" resname="ONS·202 | Fever Charm | Card Name">
         <source>Fever Charm</source>
@@ -1748,7 +1748,7 @@
       </trans-unit>
       <trans-unit id="830d1980-f460-4be2-9379-c3f74c8318f3" resname="ONS·202 | Fever Charm | Card Text | Paragraph 1">
         <source>Choose one Target creature gains haste until end of turn; or target creature gets +2/+0 until end of turn; or CARDNAME deals 3 damage to target Wizard.</source>
-        <target state="translated">选择一项～目标生物获得敏捷异能直到回合结束；或者目标生物得+2/+0直到回合结束；或者激昂护符对目标法术师造成3点伤害。</target>
+        <target state="translated">选择一项～目标生物获得敏捷异能直到回合结束；或者目标生物得+2/+0直到回合结束；或者CARDNAME对目标法术师造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="e822161d-0434-4578-aecd-c9ef0b84bd4e" resname="ONS·203 | Flamestick Courier | Card Name">
         <source>Flamestick Courier</source>
@@ -1756,7 +1756,7 @@
       </trans-unit>
       <trans-unit id="e822161d-0434-4578-aecd-c9ef0b84bd4e" resname="ONS·203 | Flamestick Courier | Card Text | Paragraphs">
         <source>You may choose not to untap CARDNAME during your untap step.\no2o\nR, oc\nT: As long as CARDNAME remains tapped, target Goblin gets +2/+2 and has haste.</source>
-        <target state="translated">你可选择于重置步骤中不重置燃焰棍讯使。\n{2}{R}，横置：只要燃焰棍讯使保持横置，则目标精灵得+2/+2并具有敏捷异能。</target>
+        <target state="translated">你可选择于重置步骤中不重置CARDNAME。\n{2}{R}，横置：只要CARDNAME保持横置，则目标精灵得+2/+2并具有敏捷异能。</target>
       </trans-unit>
       <trans-unit id="5874e312-1010-43f2-b330-82bc9fcc9f53" resname="ONS·204 | Goblin Machinist | Card Name">
         <source>Goblin Machinist</source>
@@ -1764,7 +1764,7 @@
       </trans-unit>
       <trans-unit id="5874e312-1010-43f2-b330-82bc9fcc9f53" resname="ONS·204 | Goblin Machinist | Card Text | Paragraphs">
         <source>o2o\nR: Reveal cards from the top of your library until you reveal a nonland card. CARDNAME gets +X/+0 until end of turn, where X is that card's converted mana cost. Put the revealed cards on the bottom of your library in any order.</source>
-        <target state="translated">{2}{R}：从你牌库顶开始展示牌，直到你展示出一张非地的牌。精灵机械技师得+X/+0直到回合结束，X为该牌的总法术力费用。将以此法展示的牌依任意顺序置于你牌库底。</target>
+        <target state="translated">{2}{R}：从你牌库顶开始展示牌，直到你展示出一张非地的牌。CARDNAME得+X/+0直到回合结束，X为该牌的总法术力费用。将以此法展示的牌依任意顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="f6c4df1f-f148-42ec-8e22-e7114216927d" resname="ONS·205 | Goblin Piledriver | Card Name">
         <source>Goblin Piledriver</source>
@@ -1776,7 +1776,7 @@
       </trans-unit>
       <trans-unit id="f6c4df1f-f148-42ec-8e22-e7114216927d" resname="ONS·205 | Goblin Piledriver | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, it gets +2/+0 until end of turn for each other attacking Goblin.</source>
-        <target state="translated">每当监军精灵攻击时，每有一个其他的精灵进行攻击，它便得+2/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，每有一个其他的精灵进行攻击，它便得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="bb4815b7-fc20-44a4-ad1c-66d92993557f" resname="ONS·206 | Goblin Pyromancer | Card Name">
         <source>Goblin Pyromancer</source>
@@ -1784,7 +1784,7 @@
       </trans-unit>
       <trans-unit id="bb4815b7-fc20-44a4-ad1c-66d92993557f" resname="ONS·206 | Goblin Pyromancer | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, all Goblins get +3/+0 until end of turn.</source>
-        <target state="translated">当精灵烈焰术士进场时，所有精灵得+3/+0直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，所有精灵得+3/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="bb4815b7-fc20-44a4-ad1c-66d92993557f" resname="ONS·206 | Goblin Pyromancer | Card Text | Paragraph 2">
         <source>At end of turn, destroy all Goblins.</source>
@@ -1796,7 +1796,7 @@
       </trans-unit>
       <trans-unit id="7e689df7-b85d-4346-bee8-5e978b5cbbbc" resname="ONS·207 | Goblin Sharpshooter | Card Text | Paragraphs">
         <source>CARDNAME doesn't untap during your untap step.\nWhenever a creature is put into a graveyard from play, untap CARDNAME.\noc\nT: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">精灵神射手在你的重置步骤中不能重置。\n每当一个生物从场上进入坟墓场时，重置精灵神射手。\n横置：精灵神射手对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">CARDNAME在你的重置步骤中不能重置。\n每当一个生物从场上进入坟墓场时，重置CARDNAME。\n横置：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="738cbf9b-e3d3-4568-93ce-7915b248e5b3" resname="ONS·208 | Goblin Sky Raider | Card Name">
         <source>Goblin Sky Raider</source>
@@ -1856,7 +1856,7 @@
       </trans-unit>
       <trans-unit id="1e81e5fc-0e18-4dd8-a505-aa7dba8521a8" resname="ONS·214 | Kaboom! | Card Text | Paragraph 1">
         <source>Choose any number of target players. For each of those players, reveal cards from the top of your library until you reveal a nonland card. Kaboom deals damage equal to that card's converted mana cost to that player, then you put the revealed cards on the bottom of your library in any order.</source>
-        <target state="translated">选择任意数量的目标牌手，并分别为这些牌手进行以下程序。展示你的牌库顶牌直到展示出一张非地的牌为止；轰隆隆！对该牌手造成伤害，其数量等同于该牌的总法术力费用，然后你将以此法展示的牌依任意顺序置于你牌库底。</target>
+        <target state="translated">选择任意数量的目标牌手，并分别为这些牌手进行以下程序。展示你的牌库顶牌直到展示出一张非地的牌为止；CARDNAME对该牌手造成伤害，其数量等同于该牌的总法术力费用，然后你将以此法展示的牌依任意顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="0d4dd156-a2c1-4fab-b9f4-3302a4e8835a" resname="ONS·215 | Lavamancer's Skill | Card Name">
         <source>Lavamancer's Skill</source>
@@ -1884,7 +1884,7 @@
       </trans-unit>
       <trans-unit id="d775d729-0ad9-4b14-9d44-6282f6936e07" resname="ONS·217 | Lightning Rift | Card Text | Paragraph 1">
         <source>Whenever a player cycles a card, you may pay o1. If you do, CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">每当任一牌手循环一张牌时，你可以支付{1}。若你如此作，闪电迸裂对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">每当任一牌手循环一张牌时，你可以支付{1}。若你如此作，CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="1b15d04c-62cb-4704-8cc7-9842cef27a1b" resname="ONS·218 | Mana Echoes | Card Name">
         <source>Mana Echoes</source>
@@ -1904,7 +1904,7 @@
       </trans-unit>
       <trans-unit id="5360a871-6932-45b2-bc94-1bd414e38906" resname="ONS·219 | Menacing Ogre | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, each player secretly chooses a number. Then those numbers are revealed. Each player with the highest number loses that much life. If you are one of those players, put two +1/+1 counters on CARDNAME.</source>
-        <target state="translated">当要胁食人魔进场时，每位牌手私下选择一个数字，然后公布之。所选数字最大的几位牌手各失去该数量的生命。若你将因此失去生命，则在要胁食人魔上放置两个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进场时，每位牌手私下选择一个数字，然后公布之。所选数字最大的几位牌手各失去该数量的生命。若你将因此失去生命，则在CARDNAME上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="70ea023e-e66d-4049-b7bc-5e660804f088" resname="ONS·220 | Nosy Goblin | Card Name">
         <source>Nosy Goblin</source>
@@ -1912,7 +1912,7 @@
       </trans-unit>
       <trans-unit id="70ea023e-e66d-4049-b7bc-5e660804f088" resname="ONS·220 | Nosy Goblin | Card Text | Paragraphs">
         <source>oc\nT, Sacrifice CARDNAME: Destroy target face-down creature.</source>
-        <target state="translated">横置，牺牲包打听精灵：消灭目标牌面朝下的生物。</target>
+        <target state="translated">横置，牺牲CARDNAME：消灭目标牌面朝下的生物。</target>
       </trans-unit>
       <trans-unit id="d5cf8876-4c7d-4779-9363-d0a58bb7d851" resname="ONS·221 | Pinpoint Avalanche | Card Name">
         <source>Pinpoint Avalanche</source>
@@ -1920,7 +1920,7 @@
       </trans-unit>
       <trans-unit id="d5cf8876-4c7d-4779-9363-d0a58bb7d851" resname="ONS·221 | Pinpoint Avalanche | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target creature. The damage can't be prevented.</source>
-        <target state="translated">定点山崩对目标生物造成4点伤害。此伤害不能被防止。</target>
+        <target state="translated">CARDNAME对目标生物造成4点伤害。此伤害不能被防止。</target>
       </trans-unit>
       <trans-unit id="37775f40-10de-4f5d-abb2-c49e682039de" resname="ONS·222 | Reckless One | Card Name">
         <source>Reckless One</source>
@@ -1932,7 +1932,7 @@
       </trans-unit>
       <trans-unit id="37775f40-10de-4f5d-abb2-c49e682039de" resname="ONS·222 | Reckless One | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of Goblins in play.</source>
-        <target state="translated">无谋尊者的力量和防御力各等同于场上精灵的数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于场上精灵的数量。</target>
       </trans-unit>
       <trans-unit id="0b09315c-d6ff-4fdb-8774-c6402b45e959" resname="ONS·223 | Risky Move | Card Name">
         <source>Risky Move</source>
@@ -1940,11 +1940,11 @@
       </trans-unit>
       <trans-unit id="0b09315c-d6ff-4fdb-8774-c6402b45e959" resname="ONS·223 | Risky Move | Card Text | Paragraph 1">
         <source>At the beginning of each player's upkeep, that player gains control of CARDNAME.</source>
-        <target state="translated">在每个牌手的维持开始时，该牌手获得投机行为的操控权。</target>
+        <target state="translated">在每个牌手的维持开始时，该牌手获得CARDNAME的操控权。</target>
       </trans-unit>
       <trans-unit id="0b09315c-d6ff-4fdb-8774-c6402b45e959" resname="ONS·223 | Risky Move | Card Text | Paragraph 2">
         <source>When you gain control of CARDNAME from another player, choose a creature you control and an opponent. Flip a coin. If you lose the flip, that opponent gains control of that creature.</source>
-        <target state="translated">当你从其他牌手处获得投机行为的操控权时，选择一个由你操控的生物和一个对手。掷一枚硬币。若你输去此掷，则该牌手获得该生物的操控权。</target>
+        <target state="translated">当你从其他牌手处获得CARDNAME的操控权时，选择一个由你操控的生物和一个对手。掷一枚硬币。若你输去此掷，则该牌手获得该生物的操控权。</target>
       </trans-unit>
       <trans-unit id="7f2caba5-9f30-4b5e-833e-68c85a47ef7c" resname="ONS·224 | Rorix Bladewing | Card Name">
         <source>Rorix Bladewing</source>
@@ -1960,7 +1960,7 @@
       </trans-unit>
       <trans-unit id="d83db110-42e7-4823-a686-b83205faf503" resname="ONS·225 | Searing Flesh | Card Text | Paragraph 1">
         <source>CARDNAME deals 7 damage to target opponent.</source>
-        <target state="translated">焦灼肉体对目标对手造成7点伤害。</target>
+        <target state="translated">CARDNAME对目标对手造成7点伤害。</target>
       </trans-unit>
       <trans-unit id="fc2de8a4-0d84-4f7c-bbe4-3a31172186ab" resname="ONS·226 | Shaleskin Bruiser | Card Name">
         <source>Shaleskin Bruiser</source>
@@ -1972,7 +1972,7 @@
       </trans-unit>
       <trans-unit id="fc2de8a4-0d84-4f7c-bbe4-3a31172186ab" resname="ONS·226 | Shaleskin Bruiser | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, it gets +3/+0 until end of turn for each other attacking Beast.</source>
-        <target state="translated">每当石皮捣击兽进行攻击时，每有一个其他的野兽进行攻击，它便得+3/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME进行攻击时，每有一个其他的野兽进行攻击，它便得+3/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="83c92b5d-103c-4719-a850-690a7010291a" resname="ONS·227 | Shock | Card Name">
         <source>Shock</source>
@@ -1980,7 +1980,7 @@
       </trans-unit>
       <trans-unit id="83c92b5d-103c-4719-a850-690a7010291a" resname="ONS·227 | Shock | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">电震对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="8c870a66-4cd5-4a8d-9948-feffa7d4ff11" resname="ONS·228 | Skirk Commando | Card Name">
         <source>Skirk Commando</source>
@@ -1988,7 +1988,7 @@
       </trans-unit>
       <trans-unit id="8c870a66-4cd5-4a8d-9948-feffa7d4ff11" resname="ONS·228 | Skirk Commando | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals combat damage to a player, you may have it deal 2 damage to target creature that player controls.\nMorph o2o\nR (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当司克突击兵对任一牌手造成战斗伤害时，你可以让它对目标由该牌手操控的生物造成2点伤害。\n变身{2}{R}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以让它对目标由该牌手操控的生物造成2点伤害。\n变身{2}{R}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="b71117d0-5cf7-4041-b568-00bd8a975dd8" resname="ONS·229 | Skirk Fire Marshal | Card Name">
         <source>Skirk Fire Marshal</source>
@@ -2000,7 +2000,7 @@
       </trans-unit>
       <trans-unit id="b71117d0-5cf7-4041-b568-00bd8a975dd8" resname="ONS·229 | Skirk Fire Marshal | Card Text | Paragraph 2">
         <source>Tap five untapped Goblins you control: CARDNAME deals 10 damage to each creature and each player.</source>
-        <target state="translated">横置五个由你操控且未横置的精灵：司克火元帅对每个生物和每位牌手各造成10点伤害。</target>
+        <target state="translated">横置五个由你操控且未横置的精灵：CARDNAME对每个生物和每位牌手各造成10点伤害。</target>
       </trans-unit>
       <trans-unit id="eb545dcd-3a7a-46a7-9c35-d28faebc6d17" resname="ONS·230 | Skirk Prospector | Card Name">
         <source>Skirk Prospector</source>
@@ -2016,7 +2016,7 @@
       </trans-unit>
       <trans-unit id="4cc8a6e6-ed62-4784-ba9a-b1f703fc6119" resname="ONS·231 | Skittish Valesk | Card Text | Paragraphs">
         <source>At the beginning of your upkeep, flip a coin. If you lose the flip, turn CARDNAME face down.\nMorph o5o\nR (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">在你的维持开始时，掷一枚硬币。若你输去此掷，则将惊慌伐雷兽的牌牌面朝下。\n变身{5}{R}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">在你的维持开始时，掷一枚硬币。若你输去此掷，则将CARDNAME的牌牌面朝下。\n变身{5}{R}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="59262684-86e3-4485-9e35-202771c3eaa6" resname="ONS·232 | Slice and Dice | Card Name">
         <source>Slice and Dice</source>
@@ -2024,7 +2024,7 @@
       </trans-unit>
       <trans-unit id="59262684-86e3-4485-9e35-202771c3eaa6" resname="ONS·232 | Slice and Dice | Card Text | Paragraphs">
         <source>CARDNAME deals 4 damage to each creature.\nCycling o2o\nR (o2o\nR, Discard this card from your hand: Draw a card.)\nWhen you cycle CARDNAME, you may have it deal 1 damage to each creature.</source>
-        <target state="translated">剁成碎片对每个生物各造成4点伤害。\n循环{2}{R}（{2}{R}，从你手上弃掉此牌：抓一张牌。）\n当你循环剁成碎片时，你可以使它对每个生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个生物各造成4点伤害。\n循环{2}{R}（{2}{R}，从你手上弃掉此牌：抓一张牌。）\n当你循环CARDNAME时，你可以使它对每个生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="c8a47d41-b893-46b9-90c9-ccd8f9f78855" resname="ONS·233 | Snapping Thragg | Card Name">
         <source>Snapping Thragg</source>
@@ -2032,7 +2032,7 @@
       </trans-unit>
       <trans-unit id="c8a47d41-b893-46b9-90c9-ccd8f9f78855" resname="ONS·233 | Snapping Thragg | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals combat damage to a player, you may have it deal 3 damage to target creature that player controls.\nMorph o4o\nRo\nR (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当快嘴甩客兽对任一牌手造成战斗伤害时，你可以让它对目标由该牌手操控的生物造成3点伤害。\n变身{4}{R}{R}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以让它对目标由该牌手操控的生物造成3点伤害。\n变身{4}{R}{R}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="b36fc40c-6a68-4192-91d9-2031c7d32e05" resname="ONS·234 | Solar Blast | Card Name">
         <source>Solar Blast</source>
@@ -2040,7 +2040,7 @@
       </trans-unit>
       <trans-unit id="b36fc40c-6a68-4192-91d9-2031c7d32e05" resname="ONS·234 | Solar Blast | Card Text | Paragraphs">
         <source>CARDNAME deals 3 damage to target creature or player.\nCycling o1o\nRo\nR (o1o\nRo\nR, Discard this card from your hand: Draw a card.)\nWhen you cycle CARDNAME, you may have it deal 1 damage to target creature or player.</source>
-        <target state="translated">炎阳冲击波对目标生物或牌手造成3点伤害。\n循环{1}{R}{R}（{1}{R}{R}，从你手上弃掉此牌：抓一张牌。）\n当你循环炎阳冲击波时，你可以使它对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。\n循环{1}{R}{R}（{1}{R}{R}，从你手上弃掉此牌：抓一张牌。）\n当你循环CARDNAME时，你可以使它对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="15a4460d-3fe8-4b1f-9990-0a19c3345367" resname="ONS·235 | Sparksmith | Card Name">
         <source>Sparksmith</source>
@@ -2048,7 +2048,7 @@
       </trans-unit>
       <trans-unit id="15a4460d-3fe8-4b1f-9990-0a19c3345367" resname="ONS·235 | Sparksmith | Card Text | Paragraphs">
         <source>oc\nT: CARDNAME deals X damage to target creature and X damage to you, where X is the number of Goblins in play.</source>
-        <target state="translated">横置：星火铁匠对目标生物和你各造成X点伤害，X为场上精灵的数量。</target>
+        <target state="translated">横置：CARDNAME对目标生物和你各造成X点伤害，X为场上精灵的数量。</target>
       </trans-unit>
       <trans-unit id="efe72820-952f-4c53-9ee7-ea7ea54fc848" resname="ONS·236 | Spitfire Handler | Card Name">
         <source>Spitfire Handler</source>
@@ -2056,7 +2056,7 @@
       </trans-unit>
       <trans-unit id="efe72820-952f-4c53-9ee7-ea7ea54fc848" resname="ONS·236 | Spitfire Handler | Card Text | Paragraphs">
         <source>CARDNAME can't block creatures with power greater than CARDNAME's power.\no\nR: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">喷火射手不能阻挡力量大于喷火射手力量的生物。\n{R}：喷火射手得+1/+0直到回合结束。</target>
+        <target state="translated">CARDNAME不能阻挡力量大于CARDNAME力量的生物。\n{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="46d7aaea-226b-4820-8db2-89dcdcbcc557" resname="ONS·237 | Spurred Wolverine | Card Name">
         <source>Spurred Wolverine</source>
@@ -2072,7 +2072,7 @@
       </trans-unit>
       <trans-unit id="b54d72ba-05ce-4299-a7c3-a9e9f126fffb" resname="ONS·238 | Starstorm | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature.</source>
-        <target state="translated">流星暴对每个生物各造成X点伤害。</target>
+        <target state="translated">CARDNAME对每个生物各造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="b54d72ba-05ce-4299-a7c3-a9e9f126fffb" resname="ONS·238 | Starstorm | Card Text | Paragraph 2">
         <source>Cycling o3 (o3, Discard this card from your hand: Draw a card.)</source>
@@ -2084,11 +2084,11 @@
       </trans-unit>
       <trans-unit id="41b65eba-140b-4c1d-b796-8134b7c1ede8" resname="ONS·239 | Tephraderm | Card Text | Paragraph 1">
         <source>Whenever a creature deals damage to CARDNAME, CARDNAME deals that much damage to that creature.</source>
-        <target state="translated">每当任何生物对火山飞烬兽造成伤害时，火山飞烬兽便对该生物造成等量的伤害。</target>
+        <target state="translated">每当任何生物对CARDNAME造成伤害时，CARDNAME便对该生物造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="41b65eba-140b-4c1d-b796-8134b7c1ede8" resname="ONS·239 | Tephraderm | Card Text | Paragraph 2">
         <source>Whenever a spell deals damage to CARDNAME, CARDNAME deals that much damage to that spell's controller.</source>
-        <target state="translated">每当任何咒语对火山飞烬兽造成伤害时，火山飞烬兽便对该咒语的操控者造成等量的伤害。</target>
+        <target state="translated">每当任何咒语对CARDNAME造成伤害时，CARDNAME便对该咒语的操控者造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="e89156b5-8bdb-41d1-a7aa-63f770a9b070" resname="ONS·240 | Thoughtbound Primoc | Card Name">
         <source>Thoughtbound Primoc</source>
@@ -2100,7 +2100,7 @@
       </trans-unit>
       <trans-unit id="e89156b5-8bdb-41d1-a7aa-63f770a9b070" resname="ONS·240 | Thoughtbound Primoc | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if a player controls more Wizards than any other player, he or she gains control of CARDNAME.</source>
-        <target state="translated">在你的维持开始时，若由某牌手操控的法术师数量多于其他牌手，则该牌手获得思绊翼猿的操控权。</target>
+        <target state="translated">在你的维持开始时，若由某牌手操控的法术师数量多于其他牌手，则该牌手获得CARDNAME的操控权。</target>
       </trans-unit>
       <trans-unit id="de9676b6-6812-44e5-ad70-f498fbad0e18" resname="ONS·241 | Threaten | Card Name">
         <source>Threaten</source>
@@ -2116,7 +2116,7 @@
       </trans-unit>
       <trans-unit id="9e4f796a-6831-4d83-824d-88fd2148b4c1" resname="ONS·242 | Thunder of Hooves | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature without flying and each player, where X is the number of Beasts in play.</source>
-        <target state="translated">蹄声雷动对每个不具飞行异能的生物与每位牌手各造成X点伤害，X为场上野兽的数量。</target>
+        <target state="translated">CARDNAME对每个不具飞行异能的生物与每位牌手各造成X点伤害，X为场上野兽的数量。</target>
       </trans-unit>
       <trans-unit id="2c88b942-06d5-45d8-a4d8-6ca864f65516" resname="ONS·243 | Wave of Indifference | Card Name">
         <source>Wave of Indifference</source>
@@ -2132,7 +2132,7 @@
       </trans-unit>
       <trans-unit id="2593a6a6-dc21-4742-acb8-f7092931b1ce" resname="ONS·244 | Words of War | Card Text | Paragraph 1">
         <source>o1: The next time you would draw a card this turn, CARDNAME deals 2 damage to target creature or player instead.</source>
-        <target state="translated">{1}：于本回合中，下一次你将抓一张牌时，改为干戈箴言对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">{1}：于本回合中，下一次你将抓一张牌时，改为CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="c33db646-b30d-4a15-9f8a-63bda74e2d81" resname="ONS·245 | Animal Magnetism | Card Name">
         <source>Animal Magnetism</source>
@@ -2180,7 +2180,7 @@
       </trans-unit>
       <trans-unit id="38315ba3-57a0-4aa0-b1bc-4b1fcdd763d4" resname="ONS·250 | Broodhatch Nantuko | Card Text | Paragraphs">
         <source>Whenever CARDNAME is dealt damage, you may put that many 1/1 green Insect creature tokens into play.\nMorph o2o\nG (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当孵育螳人受到伤害时，你可放置与伤害等量的1/1绿色昆虫衍生物进场。\n变身{2}{G}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME受到伤害时，你可放置与伤害等量的1/1绿色昆虫衍生物进场。\n变身{2}{G}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="1c75f9c8-9640-4f64-b32a-916436e461fc" resname="ONS·251 | Centaur Glade | Card Name">
         <source>Centaur Glade</source>
@@ -2208,7 +2208,7 @@
       </trans-unit>
       <trans-unit id="e7e320a6-88e2-4be1-97e2-30e0f3c2e450" resname="ONS·253 | Crown of Vigor | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Enchanted creature and other creatures that share a creature type with it get +1/+1 until end of turn.</source>
-        <target state="translated">牺牲元气冠冕：受此结界的生物，及与其有共通生物类别的生物均得+1/+1直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME：受此结界的生物，及与其有共通生物类别的生物均得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f7c1aa30-0271-48d9-b9d0-3b1da26d98bf" resname="ONS·254 | Elven Riders | Card Name">
         <source>Elven Riders</source>
@@ -2216,7 +2216,7 @@
       </trans-unit>
       <trans-unit id="f7c1aa30-0271-48d9-b9d0-3b1da26d98bf" resname="ONS·254 | Elven Riders | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked except by creatures with flying and/or Walls.</source>
-        <target state="translated">地精骑队只能被具飞行异能的生物和／或墙阻挡。</target>
+        <target state="translated">CARDNAME只能被具飞行异能的生物和／或墙阻挡。</target>
       </trans-unit>
       <trans-unit id="8698c46b-2628-4482-88f9-e37a01ade274" resname="ONS·255 | Elvish Guidance | Card Name">
         <source>Elvish Guidance</source>
@@ -2240,7 +2240,7 @@
       </trans-unit>
       <trans-unit id="7e71fc2d-643b-4fad-89a8-624d330895d6" resname="ONS·257 | Elvish Pioneer | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, you may put a basic land card from your hand into play tapped.</source>
-        <target state="translated">当地精拓荒者进场时，你可以从你手上将一张基本地牌横置进场。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你手上将一张基本地牌横置进场。</target>
       </trans-unit>
       <trans-unit id="ae85fafb-114b-4fd8-ac4c-5ada57054705" resname="ONS·258 | Elvish Scrapper | Card Name">
         <source>Elvish Scrapper</source>
@@ -2248,7 +2248,7 @@
       </trans-unit>
       <trans-unit id="ae85fafb-114b-4fd8-ac4c-5ada57054705" resname="ONS·258 | Elvish Scrapper | Card Text | Paragraphs">
         <source>o\nG, oc\nT, Sacrifice CARDNAME: Destroy target artifact.</source>
-        <target state="translated">{G}，横置，牺牲地精拆解手：消灭目标神器。</target>
+        <target state="translated">{G}，横置，牺牲CARDNAME：消灭目标神器。</target>
       </trans-unit>
       <trans-unit id="455c6923-8d0e-4a7f-a5c0-add8db519ee3" resname="ONS·259 | Elvish Vanguard | Card Name">
         <source>Elvish Vanguard</source>
@@ -2256,7 +2256,7 @@
       </trans-unit>
       <trans-unit id="455c6923-8d0e-4a7f-a5c0-add8db519ee3" resname="ONS·259 | Elvish Vanguard | Card Text | Paragraph 1">
         <source>Whenever another Elf comes into play, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个其他的地精进场时，在地精先锋上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个其他的地精进场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2c6b767b-49e5-4845-9b3f-29540e5fa330" resname="ONS·260 | Elvish Warrior | Card Name">
         <source>Elvish Warrior</source>
@@ -2276,7 +2276,7 @@
       </trans-unit>
       <trans-unit id="13bf5786-e41a-4839-b8a0-5c7a413b23d0" resname="ONS·262 | Everglove Courier | Card Text | Paragraphs">
         <source>You may choose not to untap CARDNAME during your untap step.\no2o\nG, oc\nT: As long as CARDNAME remains tapped, target Elf gets +2/+2 and has trample.</source>
-        <target state="translated">你可选择于重置步骤中不重置长勇腕讯使。\n{2}{G}，横置：只要长勇腕讯使保持横置，则目标地精得+2/+2并具有践踏异能。</target>
+        <target state="translated">你可选择于重置步骤中不重置CARDNAME。\n{2}{G}，横置：只要CARDNAME保持横置，则目标地精得+2/+2并具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="da6efd31-ab5e-46ff-80d2-9382438e302c" resname="ONS·263 | Explosive Vegetation | Card Name">
         <source>Explosive Vegetation</source>
@@ -2292,11 +2292,11 @@
       </trans-unit>
       <trans-unit id="0a96a608-9237-41c1-824c-89d5fad939ad" resname="ONS·264 | Gigapede | Card Text | Paragraph 1">
         <source>CARDNAME can't be the target of spells or abilities.</source>
-        <target state="translated">蜈蚣巨虫不能成为咒语或异能的目标。</target>
+        <target state="translated">CARDNAME不能成为咒语或异能的目标。</target>
       </trans-unit>
       <trans-unit id="0a96a608-9237-41c1-824c-89d5fad939ad" resname="ONS·264 | Gigapede | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if CARDNAME is in your graveyard, you may discard a card from your hand. If you do, return CARDNAME to your hand.</source>
-        <target state="translated">在你的维持开始时，若蜈蚣巨虫在你的坟墓场中，你可以从你手上弃掉一张牌。若你如此作，则将蜈蚣巨虫移回你手上。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME在你的坟墓场中，你可以从你手上弃掉一张牌。若你如此作，则将CARDNAME移回你手上。</target>
       </trans-unit>
       <trans-unit id="ea338499-26a0-44e5-8999-f264644184d1" resname="ONS·265 | Heedless One | Card Name">
         <source>Heedless One</source>
@@ -2308,7 +2308,7 @@
       </trans-unit>
       <trans-unit id="ea338499-26a0-44e5-8999-f264644184d1" resname="ONS·265 | Heedless One | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of Elves in play.</source>
-        <target state="translated">无忌尊者的力量和防御力各等同于场上地精的数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于场上地精的数量。</target>
       </trans-unit>
       <trans-unit id="1c964473-7c54-4c2d-a3eb-dba01c842103" resname="ONS·266 | Hystrodon | Card Name">
         <source>Hystrodon</source>
@@ -2316,7 +2316,7 @@
       </trans-unit>
       <trans-unit id="1c964473-7c54-4c2d-a3eb-dba01c842103" resname="ONS·266 | Hystrodon | Card Text | Paragraphs">
         <source>Trample\nWhenever CARDNAME deals combat damage to a player, you may draw a card.\nMorph o1o\nGo\nG (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">践踏\n每当豪猪巨兽对任一牌手造成战斗伤害时，你可以抓一张牌。\n变身{1}{G}{G}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">践踏\n每当CARDNAME对任一牌手造成战斗伤害时，你可以抓一张牌。\n变身{1}{G}{G}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="c46f324b-63c6-4fb5-a80a-e9da51c3eb77" resname="ONS·267 | Invigorating Boon | Card Name">
         <source>Invigorating Boon</source>
@@ -2364,7 +2364,7 @@
       </trans-unit>
       <trans-unit id="0b872f85-60c5-44c4-956d-a8aa8132908b" resname="ONS·272 | Krosan Tusker | Card Text | Paragraphs">
         <source>Cycling o2o\nG (o2o\nG, Discard this card from your hand: Draw a card.)\nWhen you cycle CARDNAME, you may search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.</source>
-        <target state="translated">循环{2}{G}（{2}{G}，从你手上弃掉此牌：抓一张牌。）\n当你循环克洛萨长牙野猪时，你可以从牌库中搜寻一张基本地牌，展示该牌，并置于你手上。然后将你的牌库洗牌。</target>
+        <target state="translated">循环{2}{G}（{2}{G}，从你手上弃掉此牌：抓一张牌。）\n当你循环CARDNAME时，你可以从牌库中搜寻一张基本地牌，展示该牌，并置于你手上。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="56125660-2307-4270-a947-f1f4ad63841c" resname="ONS·273 | Leery Fogbeast | Card Name">
         <source>Leery Fogbeast</source>
@@ -2372,7 +2372,7 @@
       </trans-unit>
       <trans-unit id="56125660-2307-4270-a947-f1f4ad63841c" resname="ONS·273 | Leery Fogbeast | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked, prevent all combat damage that would be dealt this turn.</source>
-        <target state="translated">每当警戒的雾气兽被阻挡时，防止所有于本回合中将造成的战斗伤害。</target>
+        <target state="translated">每当CARDNAME被阻挡时，防止所有于本回合中将造成的战斗伤害。</target>
       </trans-unit>
       <trans-unit id="829069cf-7e63-4443-b679-65ad15d6ca5e" resname="ONS·274 | Mythic Proportions | Card Name">
         <source>Mythic Proportions</source>
@@ -2404,7 +2404,7 @@
       </trans-unit>
       <trans-unit id="f1b91a5a-9328-4fc6-a2f6-a7879281e145" resname="ONS·277 | Primal Boost | Card Text | Paragraphs">
         <source>Target creature gets +4/+4 until end of turn.\nCycling o2o\nG (o2o\nG, Discard this card from your hand: Draw a card.)\nWhen you cycle CARDNAME, you may have target creature get +1/+1 until end of turn.</source>
-        <target state="translated">目标生物得+4/+4直到回合结束。\n循环{2}{G}（{2}{G}，从你手上弃掉此牌：抓一张牌。）\n当你循环原始增力时，你可以使目标生物得+1/+1直到回合结束。</target>
+        <target state="translated">目标生物得+4/+4直到回合结束。\n循环{2}{G}（{2}{G}，从你手上弃掉此牌：抓一张牌。）\n当你循环CARDNAME时，你可以使目标生物得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c98182d6-5b25-4493-9286-f29633e1bec4" resname="ONS·278 | Ravenous Baloth | Card Name">
         <source>Ravenous Baloth</source>
@@ -2428,7 +2428,7 @@
       </trans-unit>
       <trans-unit id="4052a5af-20b2-4817-8c94-78d488ee220f" resname="ONS·280 | Serpentine Basilisk | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals combat damage to a creature, destroy that creature at end of combat.\nMorph o1o\nGo\nG (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">每当盘曲蜥怪对任何生物造成战斗伤害，在战斗结束时消灭该生物。\n变身{1}{G}{G}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">每当CARDNAME对任何生物造成战斗伤害，在战斗结束时消灭该生物。\n变身{1}{G}{G}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="e41680e2-6689-4263-a5a3-9fb2e4280d52" resname="ONS·281 | Silklash Spider | Card Name">
         <source>Silklash Spider</source>
@@ -2436,7 +2436,7 @@
       </trans-unit>
       <trans-unit id="e41680e2-6689-4263-a5a3-9fb2e4280d52" resname="ONS·281 | Silklash Spider | Card Text | Paragraphs">
         <source>CARDNAME may block as though it had flying.\no\nXo\nGo\nG: CARDNAME deals X damage to each creature with flying.</source>
-        <target state="translated">丝鞭蜘蛛可以视同具有飞行异能地进行阻挡。\n{X}{G}{G}：丝鞭蜘蛛对每个具飞行异能的生物各造成X点伤害。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。\n{X}{G}{G}：CARDNAME对每个具飞行异能的生物各造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="3e48715c-6ff7-4b0c-aa7e-a2c901215426" resname="ONS·282 | Silvos, Rogue Elemental | Card Name">
         <source>Silvos, Rogue Elemental</source>
@@ -2444,7 +2444,7 @@
       </trans-unit>
       <trans-unit id="3e48715c-6ff7-4b0c-aa7e-a2c901215426" resname="ONS·282 | Silvos, Rogue Elemental | Card Text | Paragraphs">
         <source>Trample\no\nG: Regenerate CARDNAME.</source>
-        <target state="translated">践踏\n{G}：重生戾气元素希沃斯。</target>
+        <target state="translated">践踏\n{G}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="05788d63-6210-44f2-9ae4-e55e9507a3a9" resname="ONS·283 | Snarling Undorak | Card Name">
         <source>Snarling Undorak</source>
@@ -2460,7 +2460,7 @@
       </trans-unit>
       <trans-unit id="746b98bf-5398-4a00-b4fe-a990ea9cfd77" resname="ONS·284 | Spitting Gourna | Card Text | Paragraphs">
         <source>CARDNAME may block as though it had flying.\nMorph o4o\nG (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">喷吐古那兽可以视同具有飞行异能地进行阻挡。\n变身{4}{G}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。\n变身{4}{G}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="72cc64b9-f5b9-42d3-9921-564c4c9f2c77" resname="ONS·285 | Stag Beetle | Card Name">
         <source>Stag Beetle</source>
@@ -2468,7 +2468,7 @@
       </trans-unit>
       <trans-unit id="72cc64b9-f5b9-42d3-9921-564c4c9f2c77" resname="ONS·285 | Stag Beetle | Card Text | Paragraph 1">
         <source>CARDNAME comes into play with X +1/+1 counters on it, where X is the number of other creatures in play.</source>
-        <target state="translated">锹形巨虫进场时，上面有X个+1/+1指示物，X为场上其他生物的数量。</target>
+        <target state="translated">CARDNAME进场时，上面有X个+1/+1指示物，X为场上其他生物的数量。</target>
       </trans-unit>
       <trans-unit id="b88c530a-abc3-4cc4-8a48-5b76e1504a3c" resname="ONS·286 | Steely Resolve | Card Name">
         <source>Steely Resolve</source>
@@ -2476,7 +2476,7 @@
       </trans-unit>
       <trans-unit id="b88c530a-abc3-4cc4-8a48-5b76e1504a3c" resname="ONS·286 | Steely Resolve | Card Text | Paragraph 1">
         <source>As CARDNAME comes into play, choose a creature type.</source>
-        <target state="translated">于钢铁决心进场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="b88c530a-abc3-4cc4-8a48-5b76e1504a3c" resname="ONS·286 | Steely Resolve | Card Text | Paragraph 2">
         <source>Creatures of the chosen type can't be the targets of spells or abilities.</source>
@@ -2488,7 +2488,7 @@
       </trans-unit>
       <trans-unit id="bb61443d-e47a-4fe1-b777-67a3670a5a56" resname="ONS·287 | Symbiotic Beast | Card Text | Paragraph 1">
         <source>When CARDNAME is put into a graveyard from play, put four 1/1 green Insect creature tokens into play.</source>
-        <target state="translated">当共生野兽从场上进入坟墓场时，将四个1/1绿色昆虫衍生物放置进场。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，将四个1/1绿色昆虫衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="33af35c6-7802-4366-ad20-1e330b4957ef" resname="ONS·288 | Symbiotic Elf | Card Name">
         <source>Symbiotic Elf</source>
@@ -2496,7 +2496,7 @@
       </trans-unit>
       <trans-unit id="33af35c6-7802-4366-ad20-1e330b4957ef" resname="ONS·288 | Symbiotic Elf | Card Text | Paragraph 1">
         <source>When CARDNAME is put into a graveyard from play, put two 1/1 green Insect creature tokens into play.</source>
-        <target state="translated">当共生地精从场上进入坟墓场时，将两个1/1绿色昆虫衍生物放置进场。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，将两个1/1绿色昆虫衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="a60313ca-10cc-4c33-a557-1401c5721e3b" resname="ONS·289 | Symbiotic Wurm | Card Name">
         <source>Symbiotic Wurm</source>
@@ -2504,7 +2504,7 @@
       </trans-unit>
       <trans-unit id="a60313ca-10cc-4c33-a557-1401c5721e3b" resname="ONS·289 | Symbiotic Wurm | Card Text | Paragraph 1">
         <source>When CARDNAME is put into a graveyard from play, put seven 1/1 green Insect creature tokens into play.</source>
-        <target state="translated">当共生亚龙从场上进入坟墓场时，将七个1/1绿色昆虫衍生物放置进场。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，将七个1/1绿色昆虫衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="6b24af94-9632-47da-9bf3-e81bb743cd43" resname="ONS·290 | Taunting Elf | Card Name">
         <source>Taunting Elf</source>
@@ -2512,7 +2512,7 @@
       </trans-unit>
       <trans-unit id="6b24af94-9632-47da-9bf3-e81bb743cd43" resname="ONS·290 | Taunting Elf | Card Text | Paragraph 1">
         <source>All creatures able to block CARDNAME do so.</source>
-        <target state="translated">所有能够阻挡地精辱骂员的生物皆须阻挡之。</target>
+        <target state="translated">所有能够阻挡CARDNAME的生物皆须阻挡之。</target>
       </trans-unit>
       <trans-unit id="857c2b6c-cfdf-4c88-a334-2937cb7db603" resname="ONS·291 | Tempting Wurm | Card Name">
         <source>Tempting Wurm</source>
@@ -2520,7 +2520,7 @@
       </trans-unit>
       <trans-unit id="857c2b6c-cfdf-4c88-a334-2937cb7db603" resname="ONS·291 | Tempting Wurm | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, each opponent may put any number of artifact, creature, enchantment, and/or land cards from his or her hand into play.</source>
-        <target state="translated">当惑诱亚龙进场时，每位对手均可从其手上将任意数量的神器，生物，结界，和／或地牌放置进场。</target>
+        <target state="translated">当CARDNAME进场时，每位对手均可从其手上将任意数量的神器，生物，结界，和／或地牌放置进场。</target>
       </trans-unit>
       <trans-unit id="2a8cc948-28ff-4bbe-b8c9-71de37478023" resname="ONS·292 | Towering Baloth | Card Name">
         <source>Towering Baloth</source>
@@ -2552,7 +2552,7 @@
       </trans-unit>
       <trans-unit id="0774771c-5373-4636-9174-d06e7d635183" resname="ONS·295 | Venomspout Brackus | Card Text | Paragraphs">
         <source>o1o\nG, oc\nT: CARDNAME deals 5 damage to target attacking or blocking creature with flying.\nMorph o3o\nGo\nG (You may play this face down as a 2/2 creature for o3. Turn it face up any time for its morph cost.)</source>
-        <target state="translated">{1}{G}，横置：溅毒步莱兽对目标具飞行异能，且进行攻击或阻挡的生物造成5点伤害。\n变身{3}{G}{G}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
+        <target state="translated">{1}{G}，横置：CARDNAME对目标具飞行异能，且进行攻击或阻挡的生物造成5点伤害。\n变身{3}{G}{G}（你可牌面朝下地使用此牌并支付{3}，将其当成2/2生物。可随时支付其变身费用使其翻回正面。）</target>
       </trans-unit>
       <trans-unit id="e1abae21-ed8f-4e21-b227-f721b840c11f" resname="ONS·296 | Vitality Charm | Card Name">
         <source>Vitality Charm</source>
@@ -2608,7 +2608,7 @@
       </trans-unit>
       <trans-unit id="35724e9f-efa6-47e7-ab4d-7defe38ba576" resname="ONS·302 | Wirewood Herald | Card Text | Paragraph 1">
         <source>When CARDNAME is put into a graveyard from play, you may search your library for an Elf card. If you do, reveal that card and put it into your hand. Then shuffle your library.</source>
-        <target state="translated">当修索林传令使从场上进入坟墓场时，你可以从牌库中搜寻一张地精牌。若你如此作，展示该牌并置于你手上。然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场时，你可以从牌库中搜寻一张地精牌。若你如此作，展示该牌并置于你手上。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="a559e844-06c9-4953-bc2c-a58e4170fe47" resname="ONS·303 | Wirewood Pride | Card Name">
         <source>Wirewood Pride</source>
@@ -2648,7 +2648,7 @@
       </trans-unit>
       <trans-unit id="4abde0d7-266b-41bd-ade1-c4d93507eb16" resname="ONS·307 | Doom Cannon | Card Text | Paragraphs">
         <source>As CARDNAME comes into play, choose a creature type.\no3, oc\nT, Sacrifice a creature of the chosen type: CARDNAME deals 3 damage to target creature or player.</source>
-        <target state="translated">于轰杀大炮进场时，选择一种生物类别。\n{3}，横置，牺牲一个该类别的生物：轰杀大炮对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">于CARDNAME进场时，选择一种生物类别。\n{3}，横置，牺牲一个该类别的生物：CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="e89610e9-f1d3-4332-901a-2598bf01d61d" resname="ONS·308 | Dream Chisel | Card Name">
         <source>Dream Chisel</source>
@@ -2664,7 +2664,7 @@
       </trans-unit>
       <trans-unit id="41bb314f-237a-43fc-95c8-b26188dc4476" resname="ONS·309 | Riptide Replicator | Card Text | Paragraphs">
         <source>As CARDNAME comes into play, choose a color and a creature type.\nCARDNAME comes into play with X charge counters on it.\no4, oc\nT: Put an X/X creature token of the chosen color and type into play, where X is the number of charge counters on CARDNAME.</source>
-        <target state="translated">于激流模制器进场时，选择一种颜色和一种生物类别。\n激流模制器进场时，上面有X个充电指示物。\n{4}，横置：将一个X/X衍生物放置进场。将此衍生物视为该色及该类别的生物，X等同于激流模制器上的充电指示物数量。</target>
+        <target state="translated">于CARDNAME进场时，选择一种颜色和一种生物类别。\nCARDNAME进场时，上面有X个充电指示物。\n{4}，横置：将一个X/X衍生物放置进场。将此衍生物视为该色及该类别的生物，X等同于CARDNAME上的充电指示物数量。</target>
       </trans-unit>
       <trans-unit id="ae596e8c-04f5-48b0-b5e2-683c74912e85" resname="ONS·310 | Slate of Ancestry | Card Name">
         <source>Slate of Ancestry</source>
@@ -2680,7 +2680,7 @@
       </trans-unit>
       <trans-unit id="6e208be1-8b24-4048-90b2-6389f08043d1" resname="ONS·311 | Tribal Golem | Card Text | Paragraphs">
         <source>CARDNAME has trample as long as you control a Beast, haste as long as you control a Goblin, first strike as long as you control a Soldier, flying as long as you control a Wizard, and &amp;quot;o\nB: Regenerate CARDNAME&amp;quot; as long as you control a Zombie.</source>
-        <target state="translated">只要你操控野兽，部族魔像便具有践踏异能；只要你操控精灵，部族魔像便具有敏捷异能；只要你操控士兵，部族魔像便具有先攻异能；只要你操控法术师，部族魔像便具有飞行异能；只要你操控灵俑，部族魔像便具有「{B}：重生部族魔像」。</target>
+        <target state="translated">只要你操控野兽，CARDNAME便具有践踏异能；只要你操控精灵，CARDNAME便具有敏捷异能；只要你操控士兵，CARDNAME便具有先攻异能；只要你操控法术师，CARDNAME便具有飞行异能；只要你操控灵俑，CARDNAME便具有「{B}：重生CARDNAME」。</target>
       </trans-unit>
       <trans-unit id="45be3811-a223-4c45-9b24-0317f2d53c60" resname="ONS·312 | Barren Moor | Card Name">
         <source>Barren Moor</source>
@@ -2688,7 +2688,7 @@
       </trans-unit>
       <trans-unit id="45be3811-a223-4c45-9b24-0317f2d53c60" resname="ONS·312 | Barren Moor | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o\nB to your mana pool.\nCycling o\nB (o\nB, Discard this card from your hand: Draw a card.)</source>
-        <target state="translated">贫瘠湿地需横置进场。\n横置：加{B}到你的法术力池中。\n循环{B}（{B}，从你手上弃掉此牌：抓一张牌。）</target>
+        <target state="translated">CARDNAME需横置进场。\n横置：加{B}到你的法术力池中。\n循环{B}（{B}，从你手上弃掉此牌：抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="68c72226-6f52-4322-8b14-18737293dfa0" resname="ONS·313 | Bloodstained Mire | Card Name">
         <source>Bloodstained Mire</source>
@@ -2696,7 +2696,7 @@
       </trans-unit>
       <trans-unit id="68c72226-6f52-4322-8b14-18737293dfa0" resname="ONS·313 | Bloodstained Mire | Card Text | Paragraphs">
         <source>oc\nT, Pay 1 life, Sacrifice CARDNAME: Search your library for a swamp or mountain card and put it into play. Then shuffle your library.</source>
-        <target state="translated">横置，支付1点生命，牺牲血斑泥沼：从你的牌库中搜寻一张沼泽或山脉牌，并将其放置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">横置，支付1点生命，牺牲CARDNAME：从你的牌库中搜寻一张沼泽或山脉牌，并将其放置进场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="8d6363ea-3814-4014-ad9e-1066c72d907c" resname="ONS·314 | Contested Cliffs | Card Name">
         <source>Contested Cliffs</source>
@@ -2720,7 +2720,7 @@
       </trans-unit>
       <trans-unit id="b4e3d844-d3b4-41d8-921d-c1cb3af343f8" resname="ONS·316 | Flooded Strand | Card Text | Paragraphs">
         <source>oc\nT, Pay 1 life, Sacrifice CARDNAME: Search your library for a plains or island card and put it into play. Then shuffle your library.</source>
-        <target state="translated">横置，支付1点生命，牺牲潮没水滨：从你的牌库中搜寻一张平原或海岛牌，并将其放置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">横置，支付1点生命，牺牲CARDNAME：从你的牌库中搜寻一张平原或海岛牌，并将其放置进场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="c5202668-a32c-4473-b272-e86264992576" resname="ONS·317 | Forgotten Cave | Card Name">
         <source>Forgotten Cave</source>
@@ -2728,7 +2728,7 @@
       </trans-unit>
       <trans-unit id="c5202668-a32c-4473-b272-e86264992576" resname="ONS·317 | Forgotten Cave | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o\nR to your mana pool.\nCycling o\nR (o\nR, Discard this card from your hand: Draw a card.)</source>
-        <target state="translated">遗世山洞需横置进场。\n横置：加{R}到你的法术力池中。\n循环{R}（{R}，从你手上弃掉此牌：抓一张牌。）</target>
+        <target state="translated">CARDNAME需横置进场。\n横置：加{R}到你的法术力池中。\n循环{R}（{R}，从你手上弃掉此牌：抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="a5064cd2-8762-4e08-8c3c-be6f31e9ab61" resname="ONS·318 | Goblin Burrows | Card Name">
         <source>Goblin Burrows</source>
@@ -2744,7 +2744,7 @@
       </trans-unit>
       <trans-unit id="c2dc8061-a855-4a81-9eb7-350b355a9b3f" resname="ONS·319 | Grand Coliseum | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o1 to your mana pool.\noc\nT: Add one mana of any color to your mana pool. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">大竞技场需横置进场。\n横置：加{1}到你的法术力池中。\n横置：加一点任意颜色的法术力到你的法术力池中。大竞技场对你造成1点伤害。</target>
+        <target state="translated">CARDNAME需横置进场。\n横置：加{1}到你的法术力池中。\n横置：加一点任意颜色的法术力到你的法术力池中。CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="d8ddab06-aff7-4c40-bcaa-10cbfe899dd9" resname="ONS·320 | Lonely Sandbar | Card Name">
         <source>Lonely Sandbar</source>
@@ -2752,7 +2752,7 @@
       </trans-unit>
       <trans-unit id="d8ddab06-aff7-4c40-bcaa-10cbfe899dd9" resname="ONS·320 | Lonely Sandbar | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o\nU to your mana pool.\nCycling o\nU (o\nU, Discard this card from your hand: Draw a card.)</source>
-        <target state="translated">孤绝沙洲需横置进场。\n横置：加{U}到你的法术力池中。\n循环{U}（{U}，从你手上弃掉此牌：抓一张牌。）</target>
+        <target state="translated">CARDNAME需横置进场。\n横置：加{U}到你的法术力池中。\n循环{U}（{U}，从你手上弃掉此牌：抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="0f7585c8-9e21-4eef-afc1-2852de23db2f" resname="ONS·321 | Polluted Delta | Card Name">
         <source>Polluted Delta</source>
@@ -2760,7 +2760,7 @@
       </trans-unit>
       <trans-unit id="0f7585c8-9e21-4eef-afc1-2852de23db2f" resname="ONS·321 | Polluted Delta | Card Text | Paragraphs">
         <source>oc\nT, Pay 1 life, Sacrifice CARDNAME: Search your library for an island or swamp card and put it into play. Then shuffle your library.</source>
-        <target state="translated">横置，支付1点生命，牺牲聚污三角洲：从你的牌库中搜寻一张海岛或沼泽牌，并将其放置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">横置，支付1点生命，牺牲CARDNAME：从你的牌库中搜寻一张海岛或沼泽牌，并将其放置进场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="d993c973-2eb6-423c-8ee9-10749a751524" resname="ONS·322 | Riptide Laboratory | Card Name">
         <source>Riptide Laboratory</source>
@@ -2784,7 +2784,7 @@
       </trans-unit>
       <trans-unit id="ea454280-f7f4-4315-bb46-b56050c02c97" resname="ONS·324 | Secluded Steppe | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o\nW to your mana pool.\nCycling o\nW (o\nW, Discard this card from your hand: Draw a card.)</source>
-        <target state="translated">远僻草原需横置进场。\n横置：加{W}到你的法术力池中。\n循环{W}（{W}，从你手上弃掉此牌：抓一张牌。）</target>
+        <target state="translated">CARDNAME需横置进场。\n横置：加{W}到你的法术力池中。\n循环{W}（{W}，从你手上弃掉此牌：抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="ace5e601-2583-4d9c-8bdf-aa33666c717c" resname="ONS·325 | Starlit Sanctum | Card Name">
         <source>Starlit Sanctum</source>
@@ -2800,7 +2800,7 @@
       </trans-unit>
       <trans-unit id="afcb7cef-8aeb-4c84-88e9-6df17768e292" resname="ONS·326 | Tranquil Thicket | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o\nG to your mana pool.\nCycling o\nG (o\nG, Discard this card from your hand: Draw a card.)</source>
-        <target state="translated">静谧灌丛需横置进场。\n横置：加{G}到你的法术力池中。\n循环{G}（{G}，从你手上弃掉此牌：抓一张牌。）</target>
+        <target state="translated">CARDNAME需横置进场。\n横置：加{G}到你的法术力池中。\n循环{G}（{G}，从你手上弃掉此牌：抓一张牌。）</target>
       </trans-unit>
       <trans-unit id="52f464a9-586c-4cf3-894b-b407c9f4dcb8" resname="ONS·327 | Unholy Grotto | Card Name">
         <source>Unholy Grotto</source>
@@ -2816,7 +2816,7 @@
       </trans-unit>
       <trans-unit id="7a7c5941-9c8a-4a40-9efb-a84f05c58e53" resname="ONS·328 | Windswept Heath | Card Text | Paragraphs">
         <source>oc\nT, Pay 1 life, Sacrifice CARDNAME: Search your library for a forest or plains card and put it into play. Then shuffle your library.</source>
-        <target state="translated">横置，支付1点生命，牺牲风袭荒地：从你的牌库中搜寻一张树林或平原牌，并将其放置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">横置，支付1点生命，牺牲CARDNAME：从你的牌库中搜寻一张树林或平原牌，并将其放置进场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="3d251490-41bb-4ad3-bfd0-a5e66ee42598" resname="ONS·329 | Wirewood Lodge | Card Name">
         <source>Wirewood Lodge</source>
@@ -2832,7 +2832,7 @@
       </trans-unit>
       <trans-unit id="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53" resname="ONS·330 | Wooded Foothills | Card Text | Paragraphs">
         <source>oc\nT, Pay 1 life, Sacrifice CARDNAME: Search your library for a mountain or forest card and put it into play. Then shuffle your library.</source>
-        <target state="translated">横置，支付1点生命，牺牲繁茂丘陵：从你的牌库中搜寻一张山脉或树林牌，并将其放置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">横置，支付1点生命，牺牲CARDNAME：从你的牌库中搜寻一张山脉或树林牌，并将其放置进场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="7bf7d68a-dbd0-45f3-acbb-59ee38e6057e" resname="ONS·331 | Plains | Card Name">
         <source>Plains</source>

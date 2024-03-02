@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="dac5c913-4eb5-4cfb-9c24-223f14f07064" resname="P02·8 | Angel of Mercy | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 3 life.</source>
-        <target state="translated">当慈悲天使进战场时，你获得3点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得3点生命。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="e0bb39fb-29fc-4e69-9918-47277b8af0d3" resname="P02·10 | Angelic Wall | Card Name">
@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="61d92577-c3e2-4129-8974-89eb896cdc2d" resname="P02·19 | Rally the Troops | Card Text | Paragraph 1">
         <source>Cast this spell only during the declare attackers step and only if you've been attacked this step.</source>
-        <target state="translated">重整旗鼓只能在你被攻击后，但还未宣布阻挡者之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣布阻挡者之前使用。</target>
         <note xmlns:from="developer">中文数据来自PTK（1999-05-01）；</note>
       </trans-unit>
       <trans-unit id="61d92577-c3e2-4129-8974-89eb896cdc2d" resname="P02·19 | Rally the Troops | Card Text | Paragraph 2">
@@ -149,7 +149,7 @@
       </trans-unit>
       <trans-unit id="2a24f00c-7e2e-4609-b956-ca3d5fb365b2" resname="P02·29 | Warrior's Stand | Card Text | Paragraph 1">
         <source>Cast this spell only during the declare attackers step and only if you've been attacked this step.</source>
-        <target state="translated">坚如磐石只能在你被攻击后，但还未宣布阻挡者之前使用。</target>
+        <target state="translated">CARDNAME只能在你被攻击后，但还未宣布阻挡者之前使用。</target>
         <note xmlns:from="developer">中文数据来自PTK（1999-05-01）；</note>
       </trans-unit>
       <trans-unit id="2a24f00c-7e2e-4609-b956-ca3d5fb365b2" resname="P02·29 | Warrior's Stand | Card Text | Paragraph 2">
@@ -189,7 +189,7 @@
       </trans-unit>
       <trans-unit id="620478b8-47b7-48c5-ac22-1ba4d234c794" resname="P02·35 | Denizen of the Deep | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return each other creature you control to its owner's hand.</source>
-        <target state="translated">当深海潜兽进战场时，将所有由你操控的其他生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将所有由你操控的其他生物移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="641f4e66-b46b-4da3-a053-f3763400d4f5" resname="P02·38 | Extinguish | Card Name">
@@ -199,7 +199,7 @@
       </trans-unit>
       <trans-unit id="641f4e66-b46b-4da3-a053-f3763400d4f5" resname="P02·38 | Extinguish | Card Text | Paragraph 1">
         <source>Counter target sorcery spell.</source>
-        <target state="translated">你只能在其他的玩家使用法术时，以反应它的方式使用熄灭。该法术牌将不会产生任何效应，并且被放入该玩家的坟墓场中。</target>
+        <target state="translated">你只能在其他的玩家使用法术时，以反应它的方式使用CARDNAME。该法术牌将不会产生任何效应，并且被放入该玩家的坟墓场中。</target>
         <note xmlns:from="developer">中文数据来自PTK（1999-05-01）；</note>
       </trans-unit>
       <trans-unit id="ee109b81-96ef-494a-9d6d-0ea4a49b76a0" resname="P02·39 | Eye Spy | Card Name">
@@ -239,7 +239,7 @@
       </trans-unit>
       <trans-unit id="d87a40cb-b30d-41ce-8e11-5fe3136fdadd" resname="P02·45 | Sea Drake | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return two target lands you control to their owner's hand.</source>
-        <target state="translated">当海龙兽进战场时，将两个目标由你操控的地移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将两个目标由你操控的地移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
       <trans-unit id="f3405184-dcda-4bb6-ade6-c2a87bc3296d" resname="P02·46 | Sleight of Hand | Card Name">
@@ -414,7 +414,7 @@
       </trans-unit>
       <trans-unit id="8899244b-737a-43a9-9241-15a650b47bed" resname="P02·87 | Ravenous Rats | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent discards a card.</source>
-        <target state="translated">当贪吃老鼠进战场时，目标对手弃一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手弃一张牌。</target>
         <note xmlns:from="developer">中文数据来自M13（2012-07-13）；</note>
       </trans-unit>
       <trans-unit id="e85d85c2-9f34-4375-adcd-a1c5b487cacc" resname="P02·88 | Return of the Nightstalkers | Card Name">
@@ -429,7 +429,7 @@
       </trans-unit>
       <trans-unit id="f154e89e-bb64-4579-9ff5-f3fc1c480105" resname="P02·89 | Swarm of Rats | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of Rats you control.</source>
-        <target state="translated">老鼠暴群的力量等同于由你操控之老鼠的数量。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控之老鼠的数量。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="f636e46a-9d35-47b8-8df0-6dcb18105d30" resname="P02·90 | Vampiric Spirit | Card Name">
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="f636e46a-9d35-47b8-8df0-6dcb18105d30" resname="P02·90 | Vampiric Spirit | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you lose 4 life.</source>
-        <target state="translated">当吸血精怪进场时，你失去4点生命。</target>
+        <target state="translated">当CARDNAME进场时，你失去4点生命。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="54c72f51-2e8c-4a2f-9b61-80f36f8af521" resname="P02·92 | Brimstone Dragon | Card Name">
@@ -484,7 +484,7 @@
       </trans-unit>
       <trans-unit id="9c29491b-dec1-429d-9950-062582f8164f" resname="P02·98 | Goblin Glider | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">精灵滑翔翼不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="f26f34db-732c-43d4-a6ef-e170538c0235" resname="P02·99 | Goblin Lore | Card Name">
@@ -504,7 +504,7 @@
       </trans-unit>
       <trans-unit id="f99dc21c-8600-49bf-b0a3-c981f7ec7ac3" resname="P02·100 | Goblin Matron | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle.</source>
-        <target state="translated">当鬼怪女舍监进战场时，你可以从你牌库中搜寻一张鬼怪牌，展示该牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张鬼怪牌，展示该牌，将它置于你手上，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="f841fe25-237f-4303-b75e-392b82767eea" resname="P02·101 | Goblin Mountaineer | Card Name">
@@ -529,7 +529,7 @@
       </trans-unit>
       <trans-unit id="68fe9691-d788-42cb-8d13-005724939b62" resname="P02·103 | Goblin Raider | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">精灵突击队不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="3822880c-a559-409c-8390-6d57eacc3a7c" resname="P02·104 | Goblin War Cry | Card Name">
@@ -544,7 +544,7 @@
       </trans-unit>
       <trans-unit id="738fecfd-1119-4dcb-acd6-ec9715d9c074" resname="P02·105 | Goblin War Strike | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target player or planeswalker equal to the number of Goblins you control.</source>
-        <target state="translated">精灵战袭对目标牌手造成伤害，其数量等同于由你操控的精灵数量。</target>
+        <target state="translated">CARDNAME对目标牌手造成伤害，其数量等同于由你操控的精灵数量。</target>
         <note xmlns:from="developer">中文数据来自SCG（2003-05-26）；</note>
       </trans-unit>
       <trans-unit id="148e6704-9cf0-45cf-9bab-db318c016593" resname="P02·106 | Jagged Lightning | Card Name">
@@ -554,7 +554,7 @@
       </trans-unit>
       <trans-unit id="148e6704-9cf0-45cf-9bab-db318c016593" resname="P02·106 | Jagged Lightning | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to each of two target creatures.</source>
-        <target state="translated">锯状闪电对目标生物造成3点伤害，并对另一个目标生物也造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成3点伤害，并对另一个目标生物也造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自USG（1998-10-12）；</note>
       </trans-unit>
       <trans-unit id="92bec2e0-a016-42bd-85d9-fbb262998110" resname="P02·108 | Magma Giant | Card Name">
@@ -564,7 +564,7 @@
       </trans-unit>
       <trans-unit id="92bec2e0-a016-42bd-85d9-fbb262998110" resname="P02·108 | Magma Giant | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 2 damage to each creature and each player.</source>
-        <target state="translated">当岩浆巨人进战场时，它对每个生物和每位牌手各造成2点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它对每个生物和每位牌手各造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="aad8a194-cee7-4671-8310-19357fc1a450" resname="P02·109 | Obsidian Giant | Card Name">
@@ -589,7 +589,7 @@
       </trans-unit>
       <trans-unit id="d674a92e-b268-48f7-b082-f8ca2e63d43b" resname="P02·112 | Ogre Taskmaster | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">食人魔工头不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="66e72970-df1f-4ded-a686-036008555a76" resname="P02·113 | Ogre Warrior | Card Name">
@@ -604,7 +604,7 @@
       </trans-unit>
       <trans-unit id="b69cfcb0-db68-4494-a3e1-7c2ca279fcf5" resname="P02·120 | Wildfire | Card Text | Paragraph 1">
         <source>Each player sacrifices four lands. CARDNAME deals 4 damage to each creature.</source>
-        <target state="translated">每位牌手各牺牲四个地。野火对每个生物各造成4点伤害。</target>
+        <target state="translated">每位牌手各牺牲四个地。CARDNAME对每个生物各造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="0f627db9-c63e-4353-94f4-3e28db7b222a" resname="P02·122 | Barbtooth Wurm | Card Name">
@@ -644,7 +644,7 @@
       </trans-unit>
       <trans-unit id="7ff4d831-7388-4321-a636-79cf7bde25bb" resname="P02·131 | Lone Wolf | Card Text | Paragraph 1">
         <source>You may have CARDNAME assign its combat damage as though it weren't blocked.</source>
-        <target state="translated">你可以令独行狼如同未受阻挡地对防御牌手造成战斗伤害。</target>
+        <target state="translated">你可以令CARDNAME如同未受阻挡地对防御牌手造成战斗伤害。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="2e8648e1-bc40-4eff-ad7b-ab0b62a47570" resname="P02·132 | Lynx | Card Name">
@@ -714,7 +714,7 @@
       </trans-unit>
       <trans-unit id="b9c09886-a733-4797-a489-46150cecfc13" resname="P02·146 | Sylvan Basilisk | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes blocked by a creature, destroy that creature.</source>
-        <target state="translated">每当森林蜥怪被生物阻挡时，消灭该生物。</target>
+        <target state="translated">每当CARDNAME被生物阻挡时，消灭该生物。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="0a8686e2-1e14-4b4a-b45b-cab4d5c57fce" resname="P02·147 | Sylvan Yeti | Card Name">
@@ -729,7 +729,7 @@
       </trans-unit>
       <trans-unit id="c60bbbf7-a005-4b4b-b8e4-e95bbb67f529" resname="P02·148 | Tree Monkey | Card Text | Paragraph 1">
         <source>Reach (This creature can block creatures with flying.)</source>
-        <target state="translated">树林猴能视同具飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME能视同具飞行异能地进行阻挡。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="2c5a7890-86dc-4fb8-a47b-99331bbe7c29" resname="P02·150 | Wild Ox | Card Name">

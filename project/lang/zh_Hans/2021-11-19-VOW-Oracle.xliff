@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="2b86b538-0766-440d-a2cd-f5d5bfcfb010" resname="VOC·1 | Millicent, Restless Revenant | Card Text | Paragraph 3">
         <source>Whenever CARDNAME or another nontoken Spirit you control dies or deals combat damage to a player, create a 1/1 white Spirit creature token with flying.</source>
-        <target state="translated">每当不息复灵米蕾森或另一个由你操控且非衍生物的精怪死去或对任一牌手造成战斗伤害时，派出一个1/1白色， 具飞行异能的精怪衍生生物。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控且非衍生物的精怪死去或对任一牌手造成战斗伤害时，派出一个1/1白色， 具飞行异能的精怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="8f54c6ce-fde4-47ef-a106-5c68b4397f99" resname="VOC·2 | Strefan, Maurer Progenitor | Card Name">
         <source>Strefan, Maurer Progenitor</source>
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="c434e774-c908-46b9-ba18-52e1efe092de" resname="VOC·8 | Rhoda, Geist Avenger | Card Text | Paragraph 3">
         <source>Whenever a creature an opponent controls becomes tapped, if it isn't being declared as an attacker, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个由对手操控的生物成为横置时，若它并非于将其宣告为攻击者时而如此，则在携魂复仇者洛妲上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个由对手操控的生物成为横置时，若它并非于将其宣告为攻击者时而如此，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="30cb1c3f-19d4-47d3-960e-f2de828e6feb" resname="VOC·9 | Storm of Souls | Card Name">
         <source>Storm of Souls</source>
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="30cb1c3f-19d4-47d3-960e-f2de828e6feb" resname="VOC·9 | Storm of Souls | Card Text | Paragraph 1">
         <source>Return all creature cards from your graveyard to the battlefield. Each of them is a 1/1 Spirit with flying in addition to its other types. Exile CARDNAME.</source>
-        <target state="translated">将所有生物牌从你的坟墓场移回战场。它们为具飞行异能的1/1精怪，且仍具有原本类别。放逐灵魂风暴。</target>
+        <target state="translated">将所有生物牌从你的坟墓场移回战场。它们为具飞行异能的1/1精怪，且仍具有原本类别。放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="ded1c959-454c-4336-8eb5-0160c49d895d" resname="VOC·10 | Sudden Salvation | Card Name">
         <source>Sudden Salvation</source>
@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit id="a81b1492-ef70-4d8d-9458-c25a084107a7" resname="VOC·12 | Ethereal Investigator | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, investigate X times, where X is the number of opponents you have. (To investigate, create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当虚相调查员进战场时，探查X次，X为你的对手数量。（探查的流程是派出一个无色线索衍生神器，且具有「{2}，牺牲此神器：抓一张牌。」）</target>
+        <target state="translated">当CARDNAME进战场时，探查X次，X为你的对手数量。（探查的流程是派出一个无色线索衍生神器，且具有「{2}，牺牲此神器：抓一张牌。」）</target>
       </trans-unit>
       <trans-unit id="a81b1492-ef70-4d8d-9458-c25a084107a7" resname="VOC·12 | Ethereal Investigator | Card Text | Paragraph 3">
         <source>Whenever you draw your second card each turn, create a 1/1 white Spirit creature token with flying.</source>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="8418fd80-2c92-40d4-87de-0c149f6815bc" resname="VOC·13 | Haunting Imitation | Card Text | Paragraph 1">
         <source>Each player reveals the top card of their library. For each creature card revealed this way, create a token that's a copy of that card, except it's 1/1, it's a Spirit in addition to its other types, and it has flying. If no creature cards were revealed this way, return CARDNAME to its owner's hand.</source>
-        <target state="translated">每位牌手各展示其牌库顶牌。对以法此展示的每张生物牌而言，你派出一个为该牌之复制品的衍生物，但它是1/1，额外具有精怪此类别，且具有飞行异能。如果未以此法展示出生物牌，则将幽冥模仿移回其拥有者手上。</target>
+        <target state="translated">每位牌手各展示其牌库顶牌。对以法此展示的每张生物牌而言，你派出一个为该牌之复制品的衍生物，但它是1/1，额外具有精怪此类别，且具有飞行异能。如果未以此法展示出生物牌，则将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="6920c895-bc98-4871-a53f-219fa27a74e5" resname="VOC·14 | Occult Epiphany | Card Name">
         <source>Occult Epiphany</source>
@@ -172,7 +172,7 @@
       </trans-unit>
       <trans-unit id="f65bb20b-e207-49da-9d15-a8718b53783e" resname="VOC·15 | Spectral Arcanist | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may cast an instant or sorcery spell with mana value less than or equal to the number of Spirits you control from a graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead.</source>
-        <target state="translated">当幽灵奥术师进战场时，你可以从任一坟墓场中施放一个法术力值等于或小于由你操控之精怪数量的瞬间或法术咒语，且不需支付其法术力费用。若该咒语将进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从任一坟墓场中施放一个法术力值等于或小于由你操控之精怪数量的瞬间或法术咒语，且不需支付其法术力费用。若该咒语将进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="a3d4102e-b48c-4da8-b181-092c7ab1849a" resname="VOC·16 | Timin, Youthful Geist | Card Name">
         <source>Timin, Youthful Geist</source>
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="e649110b-9ede-47d8-9fe4-9ef0dd17b19d" resname="VOC·18 | Glass-Cast Heart | Card Text | Paragraph 3">
         <source>{B}{B}, {T}, Sacrifice CARDNAME and thirteen Blood tokens: Each opponent loses 13 life and you gain 13 life.</source>
-        <target state="translated">{B}{B}，{T}，牺牲琉璃心像和十三个血滴衍生物：每位对手各失去13点生命且你获得13点生命。</target>
+        <target state="translated">{B}{B}，{T}，牺牲CARDNAME和十三个血滴衍生物：每位对手各失去13点生命且你获得13点生命。</target>
       </trans-unit>
       <trans-unit id="c2e932f7-1a72-44e7-89f7-b853eada74f0" resname="VOC·19 | Kamber, the Plunderer | Card Name">
         <source>Kamber, the Plunderer</source>
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="de4e445f-4d54-44a8-a5f5-ef02b3d57251" resname="VOC·22 | Shadowgrange Archfiend | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each opponent sacrifices a creature with the greatest power among creatures they control. You gain life equal to the greatest power among creatures sacrificed this way.</source>
-        <target state="translated">当影庄大邪鬼进战场时，每位对手各牺牲一个生物，且须是由其操控的生物中力量最大者。你获得若干生命，其数量等同于以此法牺牲之生物中的最大力量。</target>
+        <target state="translated">当CARDNAME进战场时，每位对手各牺牲一个生物，且须是由其操控的生物中力量最大者。你获得若干生命，其数量等同于以此法牺牲之生物中的最大力量。</target>
       </trans-unit>
       <trans-unit id="de4e445f-4d54-44a8-a5f5-ef02b3d57251" resname="VOC·22 | Shadowgrange Archfiend | Card Text | Paragraph 2">
         <source>Madness—{2}{B}, Pay 8 life. (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</source>
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="afe2dba0-55f4-460c-aa89-3921414e7ea1" resname="VOC·23 | Arterial Alchemy | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a Blood token for each opponent you have. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当点血成金进战场时，你每有一位对手，便派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，你每有一位对手，便派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="afe2dba0-55f4-460c-aa89-3921414e7ea1" resname="VOC·23 | Arterial Alchemy | Card Text | Paragraph 2">
         <source>Blood tokens you control are Equipment in addition to their other types and have &amp;quot;Equipped creature gets +2/+0&amp;quot; and equip {2}.</source>
@@ -304,11 +304,11 @@
       </trans-unit>
       <trans-unit id="597bc4ae-335d-4d1d-8a57-530291abc540" resname="VOC·26 | Markov Enforcer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Vampire enters the battlefield under your control, CARDNAME fights up to one target creature an opponent controls.</source>
-        <target state="translated">每当马可夫执法者或另一个吸血鬼在你的操控下进战场时，马可夫执法者与至多一个目标由对手操控的生物互斗。</target>
+        <target state="translated">每当CARDNAME或另一个吸血鬼在你的操控下进战场时，CARDNAME与至多一个目标由对手操控的生物互斗。</target>
       </trans-unit>
       <trans-unit id="597bc4ae-335d-4d1d-8a57-530291abc540" resname="VOC·26 | Markov Enforcer | Card Text | Paragraph 2">
         <source>Whenever a creature dealt damage by CARDNAME this turn dies, create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">每当一个本回合中受过马可夫执法者伤害的生物死去时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">每当一个本回合中受过CARDNAME伤害的生物死去时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="4d322638-9775-42f4-b75e-d2e1a08bd75d" resname="VOC·27 | Midnight Arsonist | Card Name">
         <source>Midnight Arsonist</source>
@@ -316,7 +316,7 @@
       </trans-unit>
       <trans-unit id="4d322638-9775-42f4-b75e-d2e1a08bd75d" resname="VOC·27 | Midnight Arsonist | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, destroy up to X target artifacts without mana abilities, where X is the number of Vampires you control.</source>
-        <target state="translated">当午夜纵火犯进战场时，消灭至多X个目标不具法术力异能的神器，X为由你操控的吸血鬼数量。</target>
+        <target state="translated">当CARDNAME进战场时，消灭至多X个目标不具法术力异能的神器，X为由你操控的吸血鬼数量。</target>
       </trans-unit>
       <trans-unit id="dc0296ec-0401-49c6-82c3-9d7e8aa5ee25" resname="VOC·28 | Scion of Opulence | Card Name">
         <source>Scion of Opulence</source>
@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id="dc0296ec-0401-49c6-82c3-9d7e8aa5ee25" resname="VOC·28 | Scion of Opulence | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another nontoken Vampire you control dies, create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">每当华族后裔或另一个由你操控且非衍生物的吸血鬼死去时，派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">每当CARDNAME或另一个由你操控且非衍生物的吸血鬼死去时，派出一个珍宝衍生物。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="dc0296ec-0401-49c6-82c3-9d7e8aa5ee25" resname="VOC·28 | Scion of Opulence | Card Text | Paragraph 2">
         <source>{R}, Sacrifice two artifacts: Exile the top card of your library. You may play that card this turn.</source>
@@ -356,7 +356,7 @@
       </trans-unit>
       <trans-unit id="992244dc-d988-41ce-9e3d-cd8034ccc50f" resname="VOC·31 | Breathkeeper Seraph | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures has &amp;quot;When this creature dies, you may return it to the battlefield under its owner's control at the beginning of your next upkeep.&amp;quot;</source>
-        <target state="translated">只要护生炽天使与另一生物搭档，它们便各具有「当此生物死去，在你的下一个维持开始时，你可以将它在其拥有者的操控下移回战场。」</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各具有「当此生物死去，在你的下一个维持开始时，你可以将它在其拥有者的操控下移回战场。」</target>
       </trans-unit>
       <trans-unit id="7f0b1400-0608-47fd-9c73-b7730bcf6b7f" resname="VOC·32 | Wedding Ring | Card Name">
         <source>Wedding Ring</source>
@@ -365,17 +365,17 @@
       </trans-unit>
       <trans-unit id="7f0b1400-0608-47fd-9c73-b7730bcf6b7f" resname="VOC·32 | Wedding Ring | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, if it was cast, target opponent creates a token that's a copy of it.</source>
-        <target state="translated">当婚戒进战场时，若它经牌手施放，则目标对手派出一个为其复制品的衍生物。</target>
+        <target state="translated">当CARDNAME进战场时，若它经牌手施放，则目标对手派出一个为其复制品的衍生物。</target>
         <note xmlns:from="developer">中文数据来自LCC（2023-11-17）；</note>
       </trans-unit>
       <trans-unit id="7f0b1400-0608-47fd-9c73-b7730bcf6b7f" resname="VOC·32 | Wedding Ring | Card Text | Paragraph 2">
         <source>Whenever an opponent who controls an artifact named CARDNAME draws a card during their turn, you draw a card.</source>
-        <target state="translated">每当任一操控名称为婚戒的神器之对手于其回合中抓一张牌时，你抓一张牌。</target>
+        <target state="translated">每当任一操控名称为CARDNAME的神器之对手于其回合中抓一张牌时，你抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自LCC（2023-11-17）；</note>
       </trans-unit>
       <trans-unit id="7f0b1400-0608-47fd-9c73-b7730bcf6b7f" resname="VOC·32 | Wedding Ring | Card Text | Paragraph 3">
         <source>Whenever an opponent who controls an artifact named CARDNAME gains life during their turn, you gain that much life.</source>
-        <target state="translated">每当任一操控名称为婚戒的神器之对手于其回合中获得生命时，你获得等量的生命。</target>
+        <target state="translated">每当任一操控名称为CARDNAME的神器之对手于其回合中获得生命时，你获得等量的生命。</target>
         <note xmlns:from="developer">中文数据来自LCC（2023-11-17）；</note>
       </trans-unit>
       <trans-unit id="95a9e722-d7a3-4a19-afd6-6c617aaf8eda" resname="VOC·33 | Imperious Mindbreaker | Card Name">
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="95a9e722-d7a3-4a19-afd6-6c617aaf8eda" resname="VOC·33 | Imperious Mindbreaker | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures has &amp;quot;Whenever this creature attacks, each opponent mills cards equal to its toughness.&amp;quot;</source>
-        <target state="translated">只要傲慢碎灵师与另一生物搭档，它们便各具有「每当此生物攻击时，每位对手各磨若干牌，其数量等同于其防御力。」</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各具有「每当此生物攻击时，每位对手各磨若干牌，其数量等同于其防御力。」</target>
       </trans-unit>
       <trans-unit id="08c79a77-810d-4ee2-8afc-18ddfba41ad1" resname="VOC·34 | Doom Weaver | Card Name">
         <source>Doom Weaver</source>
@@ -404,7 +404,7 @@
       </trans-unit>
       <trans-unit id="08c79a77-810d-4ee2-8afc-18ddfba41ad1" resname="VOC·34 | Doom Weaver | Card Text | Paragraph 3">
         <source>As long as CARDNAME is paired with another creature, each of those creatures has &amp;quot;When this creature dies, draw cards equal to its power.&amp;quot;</source>
-        <target state="translated">只要末日编蛛与另一生物搭档，它们便各具有「当此生物死去时，抓若干牌，其数量等同于其力量。」</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各具有「当此生物死去时，抓若干牌，其数量等同于其力量。」</target>
       </trans-unit>
       <trans-unit id="e67c7b3b-38c0-43ec-9cee-5605fc402af6" resname="VOC·35 | Mirage Phalanx | Card Name">
         <source>Mirage Phalanx</source>
@@ -416,7 +416,7 @@
       </trans-unit>
       <trans-unit id="e67c7b3b-38c0-43ec-9cee-5605fc402af6" resname="VOC·35 | Mirage Phalanx | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures has &amp;quot;At the beginning of combat on your turn, create a token that's a copy of this creature, except it has haste and loses soulbond. Exile it at end of combat.&amp;quot;</source>
-        <target state="translated">只要幻影方阵兵团与另一生物搭档，它们便各具有「在你回合的战斗开始时，派出一个为此生物之复制品的衍生物，但它具有敏捷异能，且失去魂系。在战斗结束时，将它放逐。」</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各具有「在你回合的战斗开始时，派出一个为此生物之复制品的衍生物，但它具有敏捷异能，且失去魂系。在战斗结束时，将它放逐。」</target>
       </trans-unit>
       <trans-unit id="dac9c33c-bff1-491a-b369-ad92395283a5" resname="VOC·36 | Hollowhenge Overlord | Card Name">
         <source>Hollowhenge Overlord</source>
@@ -440,7 +440,7 @@
       </trans-unit>
       <trans-unit id="a37fbffb-4ed0-4c61-9cef-2cd55ad67f9c" resname="VOC·37 | Thundering Mightmare | Card Text | Paragraph 2">
         <source>As long as CARDNAME is paired with another creature, each of those creatures has &amp;quot;Whenever an opponent casts a spell, put a +1/+1 counter on this creature.&amp;quot;</source>
-        <target state="translated">只要雷鸣猛魇与另一生物搭档，它们便各具有「每当任一对手施放咒语时，在此生物上放置一个+1/+1指示物。」</target>
+        <target state="translated">只要CARDNAME与另一生物搭档，它们便各具有「每当任一对手施放咒语时，在此生物上放置一个+1/+1指示物。」</target>
       </trans-unit>
       <trans-unit id="7aead6a8-bada-42cf-b7cc-0b730f564582" resname="VOC·38 | Umbris, Fear Manifest | Card Name">
         <source>Umbris, Fear Manifest</source>
@@ -448,7 +448,7 @@
       </trans-unit>
       <trans-unit id="7aead6a8-bada-42cf-b7cc-0b730f564582" resname="VOC·38 | Umbris, Fear Manifest | Card Text | Paragraph 1">
         <source>CARDNAME gets +1/+1 for each card your opponents own in exile.</source>
-        <target state="translated">放逐区中每有一张由对手拥有的牌，恐惧身影乌蔽袭便得+1/+1。</target>
+        <target state="translated">放逐区中每有一张由对手拥有的牌，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="7aead6a8-bada-42cf-b7cc-0b730f564582" resname="VOC·38 | Umbris, Fear Manifest | Card Text | Paragraph 2">
         <source>Whenever Umbris or another Nightmare or Horror enters the battlefield under your control, target opponent exiles cards from the top of their library until they exile a land card.</source>
@@ -464,7 +464,7 @@
       </trans-unit>
       <trans-unit id="41d81b88-c19b-4148-89ba-ae8fb53843e1" resname="VOW·2 | Angelic Quartermaster | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on each of up to two other target creatures.</source>
-        <target state="translated">当配装天使进战场时，在至多两个其他目标生物上各放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在至多两个其他目标生物上各放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2004a20c-e434-4691-8ef2-740846ce6a51" resname="VOW·3 | Arm the Cathars | Card Name">
         <source>Arm the Cathars</source>
@@ -504,7 +504,7 @@
       </trans-unit>
       <trans-unit id="c00731eb-69fe-42f3-9919-66a4cdec00f7" resname="VOW·6 | Cemetery Protector | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile a card from a graveyard.</source>
-        <target state="translated">当墓地卫护兵进战场时，从任一坟墓场放逐一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，从任一坟墓场放逐一张牌。</target>
       </trans-unit>
       <trans-unit id="c00731eb-69fe-42f3-9919-66a4cdec00f7" resname="VOW·6 | Cemetery Protector | Card Text | Paragraph 3">
         <source>Whenever you play a land or cast a spell, if it shares a card type with the exiled card, create a 1/1 white Human creature token.</source>
@@ -516,11 +516,11 @@
       </trans-unit>
       <trans-unit id="13031fb6-9d5a-4add-9a86-28b2a9373fd2" resname="VOW·7 | Circle of Confinement | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target creature an opponent controls with mana value 3 or less until CARDNAME leaves the battlefield.</source>
-        <target state="translated">当拘禁牢环进战场时，放逐目标由对手操控且法术力值等于或小于3的生物，直到拘禁牢环离开战场为止。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标由对手操控且法术力值等于或小于3的生物，直到CARDNAME离开战场为止。</target>
       </trans-unit>
       <trans-unit id="13031fb6-9d5a-4add-9a86-28b2a9373fd2" resname="VOW·7 | Circle of Confinement | Card Text | Paragraph 2">
         <source>Whenever an opponent casts a Vampire spell with the same name as a card exiled with CARDNAME, you gain 2 life.</source>
-        <target state="translated">每当对手施放与以拘禁牢环放逐之牌同名的吸血鬼咒语时，你获得2点生命。</target>
+        <target state="translated">每当对手施放与以CARDNAME放逐之牌同名的吸血鬼咒语时，你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="a1d27617-2d3d-44a1-b93f-0694253b6774" resname="VOW·8 | Dawnhart Geist | Card Name">
         <source>Dawnhart Geist</source>
@@ -536,7 +536,7 @@
       </trans-unit>
       <trans-unit id="a7fc0939-6286-44de-a727-c83bfd3fa752" resname="VOW·9 | Distracting Geist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, tap target creature defending player controls.</source>
-        <target state="translated">每当滋扰游魂攻击时，横置目标由防御牌手操控的生物。</target>
+        <target state="translated">每当CARDNAME攻击时，横置目标由防御牌手操控的生物。</target>
       </trans-unit>
       <trans-unit id="a7fc0939-6286-44de-a727-c83bfd3fa752" resname="VOW·9 | Distracting Geist | Card Text | Paragraph 2">
         <source>Disturb {4}{W} (You may cast this card from your graveyard transformed for its disturb cost.)</source>
@@ -556,7 +556,7 @@
       </trans-unit>
       <trans-unit id="a7fc0939-6286-44de-a727-c83bfd3fa752" resname="VOW·9 | Clever Distraction | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果扰神妙法将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="f88e269e-ff3d-4775-8520-5b7a6dddf23d" resname="VOW·10 | Drogskol Infantry | Card Name">
         <source>Drogskol Infantry</source>
@@ -580,7 +580,7 @@
       </trans-unit>
       <trans-unit id="f88e269e-ff3d-4775-8520-5b7a6dddf23d" resname="VOW·10 | Drogskol Armaments | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果卓兹克战具将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="61c7d889-8cc0-4e80-b6d5-d41961820224" resname="VOW·11 | Estwald Shieldbasher | Card Name">
         <source>Estwald Shieldbasher</source>
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="61c7d889-8cc0-4e80-b6d5-d41961820224" resname="VOW·11 | Estwald Shieldbasher | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may pay {1}. If you do, it gains indestructible until end of turn. (Damage and effects that say &amp;quot;destroy&amp;quot; don't destroy it.)</source>
-        <target state="translated">每当恩资森盾击手攻击时，你可以支付{1}。若你如此作，则它获得不灭异能直到回合结束。（伤害与注明「消灭」的效应不会将它消灭。）</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付{1}。若你如此作，则它获得不灭异能直到回合结束。（伤害与注明「消灭」的效应不会将它消灭。）</target>
       </trans-unit>
       <trans-unit id="db791fb6-b0ff-4ded-bd3d-9447cf398312" resname="VOW·12 | Faithbound Judge | Card Name">
         <source>Faithbound Judge</source>
@@ -600,11 +600,11 @@
       </trans-unit>
       <trans-unit id="db791fb6-b0ff-4ded-bd3d-9447cf398312" resname="VOW·12 | Faithbound Judge | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if CARDNAME has two or fewer judgment counters on it, put a judgment counter on it.</source>
-        <target state="translated">在你的维持开始时，若忠信判官上有两个或更少裁决指示物，则在其上放置一个裁决指示物。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME上有两个或更少裁决指示物，则在其上放置一个裁决指示物。</target>
       </trans-unit>
       <trans-unit id="db791fb6-b0ff-4ded-bd3d-9447cf398312" resname="VOW·12 | Faithbound Judge | Card Text | Paragraph 3">
         <source>As long as CARDNAME has three or more judgment counters on it, it can attack as though it didn't have defender.</source>
-        <target state="translated">只要忠信判官上有三个或更多裁决指示物，它便能视同不具守军异能地进行攻击。</target>
+        <target state="translated">只要CARDNAME上有三个或更多裁决指示物，它便能视同不具守军异能地进行攻击。</target>
       </trans-unit>
       <trans-unit id="db791fb6-b0ff-4ded-bd3d-9447cf398312" resname="VOW·12 | Faithbound Judge | Card Text | Paragraph 4">
         <source>Disturb {5}{W}{W}</source>
@@ -620,11 +620,11 @@
       </trans-unit>
       <trans-unit id="db791fb6-b0ff-4ded-bd3d-9447cf398312" resname="VOW·12 | Sinner's Judgment | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, put a judgment counter on CARDNAME. Then if there are three or more judgment counters on it, enchanted player loses the game.</source>
-        <target state="translated">在你的维持开始时，在降罪判决上放置一个裁决指示物。然后如果其上有三个或更多裁决指示物，则所结附的牌手输掉这盘游戏。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个裁决指示物。然后如果其上有三个或更多裁决指示物，则所结附的牌手输掉这盘游戏。</target>
       </trans-unit>
       <trans-unit id="db791fb6-b0ff-4ded-bd3d-9447cf398312" resname="VOW·12 | Sinner's Judgment | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果降罪判决将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="9597b163-5c6b-4f64-b1f1-5f1fa2e23e5d" resname="VOW·13 | Fierce Retribution | Card Name">
         <source>Fierce Retribution</source>
@@ -644,11 +644,11 @@
       </trans-unit>
       <trans-unit id="db9d80f7-9742-4437-a9f4-6717a678f935" resname="VOW·14 | Fleeting Spirit | Card Text | Paragraph 1">
         <source>{W}, Exile three cards from your graveyard: CARDNAME gains first strike until end of turn.</source>
-        <target state="translated">{W}，从你的坟墓场放逐三张牌：飞逝精怪获得先攻异能直到回合结束。</target>
+        <target state="translated">{W}，从你的坟墓场放逐三张牌：CARDNAME获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="db9d80f7-9742-4437-a9f4-6717a678f935" resname="VOW·14 | Fleeting Spirit | Card Text | Paragraph 2">
         <source>Discard a card: Exile CARDNAME. Return it to the battlefield under its owner's control at the beginning of the next end step.</source>
-        <target state="translated">弃一张牌：放逐飞逝精怪。在下一个结束步骤开始时，将它在其拥有者的操控下移回战场。</target>
+        <target state="translated">弃一张牌：放逐CARDNAME。在下一个结束步骤开始时，将它在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="5317077b-370e-41a9-9162-c713362fd7f4" resname="VOW·15 | Gryff Rider | Card Name">
         <source>Gryff Rider</source>
@@ -676,7 +676,7 @@
       </trans-unit>
       <trans-unit id="792d5b41-27f3-455b-890e-a1771944fc7d" resname="VOW·16 | Gryffwing Cavalry | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, you may pay {1}{W}. If you do, target attacking creature without flying gains flying until end of turn.</source>
-        <target state="translated">每当鹭翼骑兵攻击时，你可以支付{1}{W}。若你如此作，则目标进行攻击且不具飞行异能的生物获得飞行异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付{1}{W}。若你如此作，则目标进行攻击且不具飞行异能的生物获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="674c0a50-9c37-4c29-84d8-eb3e34f34d37" resname="VOW·17 | Hallowed Haunting | Card Name">
         <source>Hallowed Haunting</source>
@@ -704,7 +704,7 @@
       </trans-unit>
       <trans-unit id="fa7e6933-5c64-4fcd-bb7f-740767a149cb" resname="VOW·18 | Heron of Hope | Card Text | Paragraph 3">
         <source>{1}{W}: CARDNAME gains lifelink until end of turn.</source>
-        <target state="translated">{1}{W}：播望苍鹭获得系命异能直到回合结束。</target>
+        <target state="translated">{1}{W}：CARDNAME获得系命异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="83bacf4a-4e99-4008-97e4-3a82dddd4e45" resname="VOW·19 | Heron-Blessed Geist | Card Name">
         <source>Heron-Blessed Geist</source>
@@ -716,7 +716,7 @@
       </trans-unit>
       <trans-unit id="83bacf4a-4e99-4008-97e4-3a82dddd4e45" resname="VOW·19 | Heron-Blessed Geist | Card Text | Paragraph 2">
         <source>{3}{W}, Exile CARDNAME from your graveyard: Create two 1/1 white Spirit creature tokens with flying. Activate only if you control an enchantment and only as a sorcery.</source>
-        <target state="translated">{3}{W}，从你的坟墓场放逐鹭佑游魂：派出两个1/1白色，具飞行异能的精怪衍生生物。只能于你操控结界时起动，且仅限法术时机。</target>
+        <target state="translated">{3}{W}，从你的坟墓场放逐CARDNAME：派出两个1/1白色，具飞行异能的精怪衍生生物。只能于你操控结界时起动，且仅限法术时机。</target>
       </trans-unit>
       <trans-unit id="ec1b3fd1-952a-4bc6-9b31-bd9bd13072f5" resname="VOW·20 | Hopeful Initiate | Card Name">
         <source>Hopeful Initiate</source>
@@ -740,7 +740,7 @@
       </trans-unit>
       <trans-unit id="0ef240aa-2a88-4ec4-888a-918466372adb" resname="VOW·21 | Katilda, Dawnhart Martyr | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of permanents you control that are Spirits and/or enchantments.</source>
-        <target state="translated">曙鹿集殉道者凯蒂妲的力量和防御力各等同于由你操控且为精怪和／或结界之永久物的数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控且为精怪和／或结界之永久物的数量。</target>
       </trans-unit>
       <trans-unit id="0ef240aa-2a88-4ec4-888a-918466372adb" resname="VOW·21 | Katilda, Dawnhart Martyr | Card Text | Paragraph 3">
         <source>Disturb {3}{W}{W} (You may cast this card from your graveyard transformed for its disturb cost.)</source>
@@ -760,7 +760,7 @@
       </trans-unit>
       <trans-unit id="0ef240aa-2a88-4ec4-888a-918466372adb" resname="VOW·21 | Katilda's Rising Dawn | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果凯蒂妲破晓之威将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="25193485-7f41-4b05-9a69-4c112679f97c" resname="VOW·22 | Kindly Ancestor | Card Name">
         <source>Kindly Ancestor</source>
@@ -788,7 +788,7 @@
       </trans-unit>
       <trans-unit id="25193485-7f41-4b05-9a69-4c112679f97c" resname="VOW·22 | Ancestor's Embrace | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果先祖之拥将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="dfd59300-7b5c-4263-a7fd-775c9fcb05ad" resname="VOW·23 | Lantern Flare | Card Name">
         <source>Lantern Flare</source>
@@ -800,7 +800,7 @@
       </trans-unit>
       <trans-unit id="dfd59300-7b5c-4263-a7fd-775c9fcb05ad" resname="VOW·23 | Lantern Flare | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage to target creature or planeswalker and you gain X life. [X is the number of creatures you control.]</source>
-        <target state="translated">提灯闪光对目标生物或鹏洛客造成X点伤害，且你获得X点生命。［X为由你操控的生物数量。］</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成X点伤害，且你获得X点生命。［X为由你操控的生物数量。］</target>
       </trans-unit>
       <trans-unit id="51b3ff40-3185-4369-985e-17613bb6ad22" resname="VOW·24 | Militia Rallier | Card Name">
         <source>Militia Rallier</source>
@@ -808,11 +808,11 @@
       </trans-unit>
       <trans-unit id="51b3ff40-3185-4369-985e-17613bb6ad22" resname="VOW·24 | Militia Rallier | Card Text | Paragraph 1">
         <source>CARDNAME can't attack alone.</source>
-        <target state="translated">民兵召集人不能单独进行攻击。</target>
+        <target state="translated">CARDNAME不能单独进行攻击。</target>
       </trans-unit>
       <trans-unit id="51b3ff40-3185-4369-985e-17613bb6ad22" resname="VOW·24 | Militia Rallier | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, untap target creature.</source>
-        <target state="translated">每当民兵召集人攻击时，重置目标生物。</target>
+        <target state="translated">每当CARDNAME攻击时，重置目标生物。</target>
       </trans-unit>
       <trans-unit id="04c68dbd-e61b-49a7-aa17-da6b26c9fd29" resname="VOW·25 | Nebelgast Beguiler | Card Name">
         <source>Nebelgast Beguiler</source>
@@ -836,7 +836,7 @@
       </trans-unit>
       <trans-unit id="35e109ea-8b86-4432-b15e-5a6201caf2aa" resname="VOW·26 | Nurturing Presence | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, create a 1/1 white Spirit creature token with flying.</source>
-        <target state="translated">当滋养存形进战场时，派出一个1/1白色，具飞行异能的精怪衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1白色，具飞行异能的精怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="f7a659bf-9d85-4011-980e-c3a8dc4513e9" resname="VOW·27 | Ollenbock Escort | Card Name">
         <source>Ollenbock Escort</source>
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="f7a659bf-9d85-4011-980e-c3a8dc4513e9" resname="VOW·27 | Ollenbock Escort | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Target creature you control with a +1/+1 counter on it gains lifelink and indestructible until end of turn.</source>
-        <target state="translated">牺牲欧雷巴卫士：目标由你操控且其上有+1/+1指示物的生物获得系命与不灭异能直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME：目标由你操控且其上有+1/+1指示物的生物获得系命与不灭异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="031c5cff-e579-432a-bcee-864b12eb0558" resname="VOW·28 | Panicked Bystander | Card Name">
         <source>Panicked Bystander</source>
@@ -856,11 +856,11 @@
       </trans-unit>
       <trans-unit id="031c5cff-e579-432a-bcee-864b12eb0558" resname="VOW·28 | Panicked Bystander | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another creature you control dies, you gain 1 life.</source>
-        <target state="translated">每当惊慌观客或另一个由你操控的生物死去时，你获得1点生命。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的生物死去时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="031c5cff-e579-432a-bcee-864b12eb0558" resname="VOW·28 | Panicked Bystander | Card Text | Paragraph 2">
         <source>At the beginning of your end step, if you gained 3 or more life this turn, transform CARDNAME.</source>
-        <target state="translated">在你的结束步骤开始时，若你本回合中获得过3点或更多生命，则转化惊慌观客。</target>
+        <target state="translated">在你的结束步骤开始时，若你本回合中获得过3点或更多生命，则转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="031c5cff-e579-432a-bcee-864b12eb0558" resname="VOW·28 | Cackling Culprit | Card Name">
         <source>Cackling Culprit</source>
@@ -868,11 +868,11 @@
       </trans-unit>
       <trans-unit id="031c5cff-e579-432a-bcee-864b12eb0558" resname="VOW·28 | Cackling Culprit | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another creature you control dies, you gain 1 life.</source>
-        <target state="translated">每当咳笑魁首或另一个由你操控的生物死去时，你获得1点生命。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的生物死去时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="031c5cff-e579-432a-bcee-864b12eb0558" resname="VOW·28 | Cackling Culprit | Card Text | Paragraph 2">
         <source>{1}{B}: CARDNAME gains deathtouch until end of turn.</source>
-        <target state="translated">{1}{B}：咳笑魁首获得死触异能直到回合结束。</target>
+        <target state="translated">{1}{B}：CARDNAME获得死触异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9845cdf2-e5ba-44a0-8136-72a1eb03a6a1" resname="VOW·29 | Parish-Blade Trainee | Card Name">
         <source>Parish-Blade Trainee</source>
@@ -884,7 +884,7 @@
       </trans-unit>
       <trans-unit id="9845cdf2-e5ba-44a0-8136-72a1eb03a6a1" resname="VOW·29 | Parish-Blade Trainee | Card Text | Paragraph 2">
         <source>When CARDNAME dies, put its counters on target creature you control.</source>
-        <target state="translated">当教区精兵学员死去时，将它的指示物放置在目标由你操控的生物上。</target>
+        <target state="translated">当CARDNAME死去时，将它的指示物放置在目标由你操控的生物上。</target>
       </trans-unit>
       <trans-unit id="54cc4e2b-1497-4788-afb4-9e42b7683b5a" resname="VOW·30 | Piercing Light | Card Name">
         <source>Piercing Light</source>
@@ -892,7 +892,7 @@
       </trans-unit>
       <trans-unit id="54cc4e2b-1497-4788-afb4-9e42b7683b5a" resname="VOW·30 | Piercing Light | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target attacking or blocking creature. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</source>
-        <target state="translated">穿心明光对目标进行攻击或阻挡的生物造成2点伤害。占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">CARDNAME对目标进行攻击或阻挡的生物造成2点伤害。占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="4a708243-42a1-4fa7-8b0b-9d5163da84bb" resname="VOW·31 | Radiant Grace | Card Name">
         <source>Radiant Grace</source>
@@ -908,7 +908,7 @@
       </trans-unit>
       <trans-unit id="4a708243-42a1-4fa7-8b0b-9d5163da84bb" resname="VOW·31 | Radiant Grace | Card Text | Paragraph 3">
         <source>When enchanted creature dies, return CARDNAME to the battlefield transformed under your control attached to target opponent.</source>
-        <target state="translated">当所结附的生物死去时，将辉光华彩在你的操控下移回战场且已转化，并贴附在目标对手上。</target>
+        <target state="translated">当所结附的生物死去时，将CARDNAME在你的操控下移回战场且已转化，并贴附在目标对手上。</target>
       </trans-unit>
       <trans-unit id="4a708243-42a1-4fa7-8b0b-9d5163da84bb" resname="VOW·31 | Radiant Restraints | Card Name">
         <source>Radiant Restraints</source>
@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="093ae747-350f-4253-b903-8c6892d78c83" resname="VOW·32 | Resistance Squad | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, if you control another Human, draw a card.</source>
-        <target state="translated">当抵抗小队进战场时，若你操控另一个人类，则抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，若你操控另一个人类，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="880e071a-6d6c-41c4-b2eb-c9e6626d0c7f" resname="VOW·33 | Sanctify | Card Name">
         <source>Sanctify</source>
@@ -948,11 +948,11 @@
       </trans-unit>
       <trans-unit id="ba77e83b-1846-4c42-bea0-2e304429fbe0" resname="VOW·34 | Savior of Ollenbock | Card Text | Paragraph 2">
         <source>Whenever CARDNAME trains, exile up to one other target creature from the battlefield or creature card from a graveyard.</source>
-        <target state="translated">每当欧雷巴救星见习时，选择至多另一个目标战场上的生物或坟墓场中的生物牌。将从该处它放逐。</target>
+        <target state="translated">每当CARDNAME见习时，选择至多另一个目标战场上的生物或坟墓场中的生物牌。将从该处它放逐。</target>
       </trans-unit>
       <trans-unit id="ba77e83b-1846-4c42-bea0-2e304429fbe0" resname="VOW·34 | Savior of Ollenbock | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, put the exiled cards onto the battlefield under their owners' control.</source>
-        <target state="translated">当欧雷巴救星离开战场时，将所放逐之牌在其拥有者的操控下放进战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐之牌在其拥有者的操控下放进战场。</target>
       </trans-unit>
       <trans-unit id="118995a6-8471-47ac-9404-700ce7fc46f6" resname="VOW·35 | Sigarda's Imprisonment | Card Name">
         <source>Sigarda's Imprisonment</source>
@@ -1032,7 +1032,7 @@
       </trans-unit>
       <trans-unit id="f1deb24b-3d8f-4251-a901-85eeb891f26f" resname="VOW·40 | Twinblade Invocation | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果双刃祝愿将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="8a4c04a4-e68b-4d3d-89c8-29cdaaac36b2" resname="VOW·41 | Unholy Officiant | Card Name">
         <source>Unholy Officiant</source>
@@ -1044,7 +1044,7 @@
       </trans-unit>
       <trans-unit id="8a4c04a4-e68b-4d3d-89c8-29cdaaac36b2" resname="VOW·41 | Unholy Officiant | Card Text | Paragraph 2">
         <source>{4}{W}: Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{4}{W}：在不洁司仪上放置一个+1/+1指示物。</target>
+        <target state="translated">{4}{W}：在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="a8f6f03b-5a4e-4532-9c9e-24c75df2769f" resname="VOW·43 | Vampire Slayer | Card Name">
         <source>Vampire Slayer</source>
@@ -1052,7 +1052,7 @@
       </trans-unit>
       <trans-unit id="a8f6f03b-5a4e-4532-9c9e-24c75df2769f" resname="VOW·43 | Vampire Slayer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage to a Vampire, destroy that creature.</source>
-        <target state="translated">每当吸血鬼克星对一个吸血鬼造成伤害时，消灭后者。</target>
+        <target state="translated">每当CARDNAME对一个吸血鬼造成伤害时，消灭后者。</target>
       </trans-unit>
       <trans-unit id="a16c0871-3f40-4d5a-9d21-e7f944b64a65" resname="VOW·44 | Voice of the Blessed | Card Name">
         <source>Voice of the Blessed</source>
@@ -1060,15 +1060,15 @@
       </trans-unit>
       <trans-unit id="a16c0871-3f40-4d5a-9d21-e7f944b64a65" resname="VOW·44 | Voice of the Blessed | Card Text | Paragraph 1">
         <source>Whenever you gain life, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你获得生命时，在受福者之声上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你获得生命时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="a16c0871-3f40-4d5a-9d21-e7f944b64a65" resname="VOW·44 | Voice of the Blessed | Card Text | Paragraph 2">
         <source>As long as CARDNAME has four or more +1/+1 counters on it, it has flying and vigilance.</source>
-        <target state="translated">只要受福者之声上有四个或更多+1/+1指示物，它便具有飞行与警戒异能。</target>
+        <target state="translated">只要CARDNAME上有四个或更多+1/+1指示物，它便具有飞行与警戒异能。</target>
       </trans-unit>
       <trans-unit id="a16c0871-3f40-4d5a-9d21-e7f944b64a65" resname="VOW·44 | Voice of the Blessed | Card Text | Paragraph 3">
         <source>As long as CARDNAME has ten or more +1/+1 counters on it, it has indestructible.</source>
-        <target state="translated">只要受福者之声上有十个或更多+1/+1指示物，它便具有不灭异能。</target>
+        <target state="translated">只要CARDNAME上有十个或更多+1/+1指示物，它便具有不灭异能。</target>
       </trans-unit>
       <trans-unit id="2c3ddb1f-a1de-4fea-9042-5e9caa16ceb2" resname="VOW·45 | Wedding Announcement | Card Name">
         <source>Wedding Announcement</source>
@@ -1076,7 +1076,7 @@
       </trans-unit>
       <trans-unit id="2c3ddb1f-a1de-4fea-9042-5e9caa16ceb2" resname="VOW·45 | Wedding Announcement | Card Text | Paragraph 1">
         <source>At the beginning of your end step, put an invitation counter on CARDNAME. If you attacked with two or more creatures this turn, draw a card. Otherwise, create a 1/1 white Human creature token. Then if CARDNAME has three or more invitation counters on it, transform it.</source>
-        <target state="translated">在你的结束步骤开始时，在成婚佳讯上放置一个请柬指示物。若你本回合中曾以两个或更多生物攻击，则抓一张牌。若否，则派出一个1/1白色人类衍生生物。然后若成婚佳讯上有三个或更多请柬指示物，则转化它。</target>
+        <target state="translated">在你的结束步骤开始时，在CARDNAME上放置一个请柬指示物。若你本回合中曾以两个或更多生物攻击，则抓一张牌。若否，则派出一个1/1白色人类衍生生物。然后若CARDNAME上有三个或更多请柬指示物，则转化它。</target>
       </trans-unit>
       <trans-unit id="2c3ddb1f-a1de-4fea-9042-5e9caa16ceb2" resname="VOW·45 | Wedding Festivity | Card Name">
         <source>Wedding Festivity</source>
@@ -1116,7 +1116,7 @@
       </trans-unit>
       <trans-unit id="730e4629-dc54-415d-9493-88885788ca19" resname="VOW·48 | Binding Geist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, target creature an opponent controls gets -2/-0 until end of turn.</source>
-        <target state="translated">每当缠缚游魂攻击时，目标由对手操控的生物得-2/-0直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，目标由对手操控的生物得-2/-0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="730e4629-dc54-415d-9493-88885788ca19" resname="VOW·48 | Binding Geist | Card Text | Paragraph 2">
         <source>Disturb {1}{U} (You may cast this card from your graveyard transformed for its disturb cost.)</source>
@@ -1136,7 +1136,7 @@
       </trans-unit>
       <trans-unit id="730e4629-dc54-415d-9493-88885788ca19" resname="VOW·48 | Spectral Binding | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果幽魂缚身将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="6e40e8f7-38f9-454a-9127-164b39737cb8" resname="VOW·A-48 | A-Binding Geist | Card Name">
         <source>A-Binding Geist</source>
@@ -1158,11 +1158,11 @@
       </trans-unit>
       <trans-unit id="57039230-bf5a-4489-9dc1-37e27b17bd84" resname="VOW·49 | Biolume Egg | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, scry 2.</source>
-        <target state="translated">当生辉奇卵进战场时，占卜2。</target>
+        <target state="translated">当CARDNAME进战场时，占卜2。</target>
       </trans-unit>
       <trans-unit id="57039230-bf5a-4489-9dc1-37e27b17bd84" resname="VOW·49 | Biolume Egg | Card Text | Paragraph 3">
         <source>When you sacrifice CARDNAME, return it to the battlefield transformed under its owner's control at the beginning of the next end step.</source>
-        <target state="translated">当你牺牲生辉奇卵，在下一个结束步骤开始时，将它在其拥有者的操控下移回战场且已转化。</target>
+        <target state="translated">当你牺牲CARDNAME，在下一个结束步骤开始时，将它在其拥有者的操控下移回战场且已转化。</target>
       </trans-unit>
       <trans-unit id="57039230-bf5a-4489-9dc1-37e27b17bd84" resname="VOW·49 | Biolume Serpent | Card Name">
         <source>Biolume Serpent</source>
@@ -1170,7 +1170,7 @@
       </trans-unit>
       <trans-unit id="57039230-bf5a-4489-9dc1-37e27b17bd84" resname="VOW·49 | Biolume Serpent | Card Text | Paragraph 1">
         <source>Sacrifice two Islands: CARDNAME can't be blocked this turn.</source>
-        <target state="translated">牺牲两个海岛：生辉巨蛇本回合不能被阻挡。</target>
+        <target state="translated">牺牲两个海岛：CARDNAME本回合不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="5f619464-dc3b-4265-b4e4-2578034bf5bf" resname="VOW·50 | Cemetery Illuminator | Card Name">
         <source>Cemetery Illuminator</source>
@@ -1182,7 +1182,7 @@
       </trans-unit>
       <trans-unit id="5f619464-dc3b-4265-b4e4-2578034bf5bf" resname="VOW·50 | Cemetery Illuminator | Card Text | Paragraph 2">
         <source>Whenever CARDNAME enters the battlefield or attacks, exile a card from a graveyard.</source>
-        <target state="translated">当墓地燃灯灵进战场时，从任一坟墓场放逐一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，从任一坟墓场放逐一张牌。</target>
       </trans-unit>
       <trans-unit id="5f619464-dc3b-4265-b4e4-2578034bf5bf" resname="VOW·50 | Cemetery Illuminator | Card Text | Paragraph 3">
         <source>You may look at the top card of your library any time.</source>
@@ -1190,7 +1190,7 @@
       </trans-unit>
       <trans-unit id="5f619464-dc3b-4265-b4e4-2578034bf5bf" resname="VOW·50 | Cemetery Illuminator | Card Text | Paragraph 4">
         <source>Once each turn, you may cast a spell from the top of your library if it shares a card type with a card exiled with CARDNAME.</source>
-        <target state="translated">限每回合一次，你可以从你的牌库顶施放咒语，但其须与以墓地燃灯灵放逐的任一牌具共通之牌张类别。</target>
+        <target state="translated">限每回合一次，你可以从你的牌库顶施放咒语，但其须与以CARDNAME放逐的任一牌具共通之牌张类别。</target>
       </trans-unit>
       <trans-unit id="60222e91-a688-4113-a8c2-ab08f52bb6e1" resname="VOW·51 | Chill of the Grave | Card Name">
         <source>Chill of the Grave</source>
@@ -1218,7 +1218,7 @@
       </trans-unit>
       <trans-unit id="4a2d3ba4-07c7-46bd-8241-0fa41105b771" resname="VOW·52 | Cobbled Lancer | Card Text | Paragraph 2">
         <source>{3}{U}, Exile CARDNAME from your graveyard: Draw a card.</source>
-        <target state="translated">{3}{U}，从你的坟墓场放逐拼组枪骑手：抓一张牌。</target>
+        <target state="translated">{3}{U}，从你的坟墓场放逐CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="8f72382e-920b-4695-a91c-4980c8c37a12" resname="VOW·A-52 | A-Cobbled Lancer | Card Name">
         <source>A-Cobbled Lancer</source>
@@ -1247,7 +1247,7 @@
       </trans-unit>
       <trans-unit id="42cbad81-152a-435f-9289-f4b6483a059b" resname="VOW·54 | Cradle of Safety | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, enchanted creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)</source>
-        <target state="translated">当庇护育篮进战场时，所结附的生物获得辟邪异能直到回合结束。（它不能成为由对手操控之咒语或异能的目标。）</target>
+        <target state="translated">当CARDNAME进战场时，所结附的生物获得辟邪异能直到回合结束。（它不能成为由对手操控之咒语或异能的目标。）</target>
       </trans-unit>
       <trans-unit id="42cbad81-152a-435f-9289-f4b6483a059b" resname="VOW·54 | Cradle of Safety | Card Text | Paragraph 4">
         <source>Enchanted creature gets +1/+1.</source>
@@ -1275,7 +1275,7 @@
       </trans-unit>
       <trans-unit id="38b5fdf4-3884-436f-8066-bc7593e72b02" resname="VOW·56 | Diver Skaab | Card Text | Paragraph 2">
         <source>When CARDNAME exploits a creature, target creature's owner puts it on the top or bottom of their library.</source>
-        <target state="translated">当潜水尸嵌榨取生物时，选择目标生物。该生物的拥有者将它置于其牌库顶或牌库底。</target>
+        <target state="translated">当CARDNAME榨取生物时，选择目标生物。该生物的拥有者将它置于其牌库顶或牌库底。</target>
       </trans-unit>
       <trans-unit id="16345278-7565-406b-a958-835081082bc8" resname="VOW·57 | Dreadlight Monstrosity | Card Name">
         <source>Dreadlight Monstrosity</source>
@@ -1287,7 +1287,7 @@
       </trans-unit>
       <trans-unit id="16345278-7565-406b-a958-835081082bc8" resname="VOW·57 | Dreadlight Monstrosity | Card Text | Paragraph 2">
         <source>{3}{U}{U}: CARDNAME can't be blocked this turn. Activate only if you own a card in exile.</source>
-        <target state="translated">{3}{U}{U}：怖光巨蟹本回合不能被阻挡。只能于放逐区中有由你拥有的牌时起动。</target>
+        <target state="translated">{3}{U}{U}：CARDNAME本回合不能被阻挡。只能于放逐区中有由你拥有的牌时起动。</target>
       </trans-unit>
       <trans-unit id="1b81d90b-708a-48c9-a478-e3b0a3d7e982" resname="VOW·58 | Dreamshackle Geist | Card Name">
         <source>Dreamshackle Geist</source>
@@ -1324,7 +1324,7 @@
       </trans-unit>
       <trans-unit id="b81704d2-d555-4894-b36c-6b65d1ebe681" resname="VOW·59 | Fear of Death | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, mill two cards. (Put the top two cards of your library into your graveyard.)</source>
-        <target state="translated">当恐惧死亡进战场时，磨两张牌。（将你牌库顶的两张牌置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，磨两张牌。（将你牌库顶的两张牌置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="b81704d2-d555-4894-b36c-6b65d1ebe681" resname="VOW·59 | Fear of Death | Card Text | Paragraph 3">
         <source>Enchanted creature gets -X/-0, where X is the number of cards in your graveyard.</source>
@@ -1360,7 +1360,7 @@
       </trans-unit>
       <trans-unit id="ceb84515-7b8f-444d-b6a9-61231621f9b7" resname="VOW·62 | Gutter Skulker | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked as long as it's attacking alone.</source>
-        <target state="translated">只要水沟匿魂单独进行攻击，它便不能被阻挡。</target>
+        <target state="translated">只要CARDNAME单独进行攻击，它便不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="ceb84515-7b8f-444d-b6a9-61231621f9b7" resname="VOW·62 | Gutter Skulker | Card Text | Paragraph 2">
         <source>Disturb {3}{U} (You may cast this card from your graveyard transformed for its disturb cost.)</source>
@@ -1380,7 +1380,7 @@
       </trans-unit>
       <trans-unit id="ceb84515-7b8f-444d-b6a9-61231621f9b7" resname="VOW·62 | Gutter Shortcut | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果水沟捷径将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="f7c3cf39-c49f-4055-87e6-c82a224b273c" resname="VOW·A-62 | A-Gutter Skulker | Card Name">
         <source>A-Gutter Skulker</source>
@@ -1440,7 +1440,7 @@
       </trans-unit>
       <trans-unit id="6b4529c3-8edb-4909-b910-806450a39d2e" resname="VOW·65 | Jacob Hauken, Inspector | Card Text | Paragraph 1">
         <source>{T}: Draw a card, then exile a card from your hand face down. You may look at that card for as long as it remains exiled. You may pay {4}{U}{U}. If you do, transform CARDNAME.</source>
-        <target state="translated">{T}：抓一张牌，然后从你手上牌面朝下地放逐一张牌。于该牌持续放逐的时段内，你可以检视它。你可以支付{4}{U}{U}。如果你如此作，则转化巡检官雅各布豪肯。</target>
+        <target state="translated">{T}：抓一张牌，然后从你手上牌面朝下地放逐一张牌。于该牌持续放逐的时段内，你可以检视它。你可以支付{4}{U}{U}。如果你如此作，则转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="6b4529c3-8edb-4909-b910-806450a39d2e" resname="VOW·65 | Hauken's Insight | Card Name">
         <source>Hauken's Insight</source>
@@ -1480,7 +1480,7 @@
       </trans-unit>
       <trans-unit id="a4d3652a-6774-4b16-aa8b-cb11d72ec7aa" resname="VOW·66 | Lanterns' Lift | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果灯浮升空将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="942d9122-f380-4bc0-8bf1-2ba6f49fd3ee" resname="VOW·A-66 | A-Lantern Bearer | Card Name">
         <source>A-Lantern Bearer</source>
@@ -1514,7 +1514,7 @@
       </trans-unit>
       <trans-unit id="823ad188-bd56-476d-9853-bed90bfad582" resname="VOW·68 | Mirrorhall Mimic | Card Text | Paragraph 1">
         <source>You may have CARDNAME enter the battlefield as a copy of any creature on the battlefield, except it's a Spirit in addition to its other types.</source>
-        <target state="translated">你可以使镜廊拟妖当成战场上任一生物的复制品来进入战场，但它额外具有精怪此类别。</target>
+        <target state="translated">你可以使CARDNAME当成战场上任一生物的复制品来进入战场，但它额外具有精怪此类别。</target>
       </trans-unit>
       <trans-unit id="823ad188-bd56-476d-9853-bed90bfad582" resname="VOW·68 | Mirrorhall Mimic | Card Text | Paragraph 2">
         <source>Disturb {3}{U}{U} (You may cast this card from your graveyard transformed for its disturb cost.)</source>
@@ -1534,7 +1534,7 @@
       </trans-unit>
       <trans-unit id="823ad188-bd56-476d-9853-bed90bfad582" resname="VOW·68 | Ghastly Mimicry | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果鬼魅拟装将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="a3ff628a-ef8e-45c4-84e7-a33ec28f025a" resname="VOW·69 | Mischievous Catgeist | Card Name">
         <source>Mischievous Catgeist</source>
@@ -1542,7 +1542,7 @@
       </trans-unit>
       <trans-unit id="a3ff628a-ef8e-45c4-84e7-a33ec28f025a" resname="VOW·69 | Mischievous Catgeist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, draw a card.</source>
-        <target state="translated">每当顽皮猫魂对任一牌手造成战斗伤害时，抓一张牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="a3ff628a-ef8e-45c4-84e7-a33ec28f025a" resname="VOW·69 | Mischievous Catgeist | Card Text | Paragraph 2">
         <source>Disturb {2}{U} (You may cast this card from your graveyard transformed for its disturb cost.)</source>
@@ -1562,7 +1562,7 @@
       </trans-unit>
       <trans-unit id="a3ff628a-ef8e-45c4-84e7-a33ec28f025a" resname="VOW·69 | Catlike Curiosity | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果好奇猫心将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="4dd4f872-1af1-4bb7-81e7-409861c45b20" resname="VOW·A-69 | A-Mischievous Catgeist | Card Name">
         <source>A-Mischievous Catgeist</source>
@@ -1604,7 +1604,7 @@
       </trans-unit>
       <trans-unit id="dbbcd63d-6c25-47a6-a76c-ac53bf12949c" resname="VOW·71 | Overcharged Amalgam | Card Text | Paragraph 4">
         <source>When CARDNAME exploits a creature, counter target spell, activated ability, or triggered ability.</source>
-        <target state="translated">当溢电拼合怪榨取生物时，反击目标咒语，起动式异能或触发式异能。</target>
+        <target state="translated">当CARDNAME榨取生物时，反击目标咒语，起动式异能或触发式异能。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="6bb86ebf-f145-43c1-8f05-f4b55ded59b6" resname="VOW·72 | Patchwork Crawler | Card Name">
@@ -1613,11 +1613,11 @@
       </trans-unit>
       <trans-unit id="6bb86ebf-f145-43c1-8f05-f4b55ded59b6" resname="VOW·72 | Patchwork Crawler | Card Text | Paragraph 1">
         <source>{2}{U}: Exile target creature card from your graveyard and put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{2}{U}：将目标生物牌从你的坟墓场放逐，并在拼装匍尸上放置一个+1/+1指示物。</target>
+        <target state="translated">{2}{U}：将目标生物牌从你的坟墓场放逐，并在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="6bb86ebf-f145-43c1-8f05-f4b55ded59b6" resname="VOW·72 | Patchwork Crawler | Card Text | Paragraph 2">
         <source>CARDNAME has all activated abilities of all creature cards exiled with it.</source>
-        <target state="translated">拼装匍尸具有所有以它放逐之生物牌的所有起动式异能。</target>
+        <target state="translated">CARDNAME具有所有以它放逐之生物牌的所有起动式异能。</target>
       </trans-unit>
       <trans-unit id="7cc22c2a-535a-46b5-817c-da5850abd669" resname="VOW·73 | Repository Skaab | Card Name">
         <source>Repository Skaab</source>
@@ -1629,7 +1629,7 @@
       </trans-unit>
       <trans-unit id="7cc22c2a-535a-46b5-817c-da5850abd669" resname="VOW·73 | Repository Skaab | Card Text | Paragraph 2">
         <source>When CARDNAME exploits a creature, return target instant or sorcery card from your graveyard to your hand.</source>
-        <target state="translated">当集电尸嵌榨取生物时，将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME榨取生物时，将目标瞬间或法术牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="dc5c6675-6e0f-427d-9399-a6e7fc6215f1" resname="VOW·74 | Scattered Thoughts | Card Name">
         <source>Scattered Thoughts</source>
@@ -1653,7 +1653,7 @@
       </trans-unit>
       <trans-unit id="3c9faf98-11bb-4407-aec9-d0d43dbaba34" resname="VOW·75 | Screaming Swarm | Card Text | Paragraph 3">
         <source>{2}{U}: Put CARDNAME from your graveyard into your library second from the top.</source>
-        <target state="translated">{2}{U}：将尖鸣妖群从你的坟墓场置于你牌库顶数来第二张的位置。</target>
+        <target state="translated">{2}{U}：将CARDNAME从你的坟墓场置于你牌库顶数来第二张的位置。</target>
       </trans-unit>
       <trans-unit id="f8805db2-5a26-43cf-9b74-f882c283e5e4" resname="VOW·76 | Selhoff Entomber | Card Name">
         <source>Selhoff Entomber</source>
@@ -1681,7 +1681,7 @@
       </trans-unit>
       <trans-unit id="73168804-3c22-4fcb-907a-2f08999c0cea" resname="VOW·78 | Skywarp Skaab | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may exile two creature cards from your graveyard. If you do, draw a card.</source>
-        <target state="translated">当跃空尸嵌进战场时，你可以从你的坟墓场放逐两张生物牌。若你如此作，则抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的坟墓场放逐两张生物牌。若你如此作，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="3c0fae23-1278-499f-9df7-4a29691726b1" resname="VOW·79 | Soulcipher Board | Card Name">
         <source>Soulcipher Board</source>
@@ -1689,7 +1689,7 @@
       </trans-unit>
       <trans-unit id="3c0fae23-1278-499f-9df7-4a29691726b1" resname="VOW·79 | Soulcipher Board | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three omen counters on it.</source>
-        <target state="translated">密魂谜板进战场时上面有三个预兆指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有三个预兆指示物。</target>
       </trans-unit>
       <trans-unit id="3c0fae23-1278-499f-9df7-4a29691726b1" resname="VOW·79 | Soulcipher Board | Card Text | Paragraph 2">
         <source>{1}{U}, {T}: Look at the top two cards of your library. Put one of them into your graveyard.</source>
@@ -1697,7 +1697,7 @@
       </trans-unit>
       <trans-unit id="3c0fae23-1278-499f-9df7-4a29691726b1" resname="VOW·79 | Soulcipher Board | Card Text | Paragraph 3">
         <source>Whenever a creature card is put into your graveyard from anywhere, remove an omen counter from CARDNAME. Then if it has no omen counters on it, transform it.</source>
-        <target state="translated">每当一张生物牌从任何区域进入你的坟墓场时，从密魂谜板上移去一个预兆指示物。然后若其上没有预兆指示物，则转化它。</target>
+        <target state="translated">每当一张生物牌从任何区域进入你的坟墓场时，从CARDNAME上移去一个预兆指示物。然后若其上没有预兆指示物，则转化它。</target>
       </trans-unit>
       <trans-unit id="3c0fae23-1278-499f-9df7-4a29691726b1" resname="VOW·79 | Cipherbound Spirit | Card Name">
         <source>Cipherbound Spirit</source>
@@ -1709,7 +1709,7 @@
       </trans-unit>
       <trans-unit id="3c0fae23-1278-499f-9df7-4a29691726b1" resname="VOW·79 | Cipherbound Spirit | Card Text | Paragraph 2">
         <source>CARDNAME can block only creatures with flying.</source>
-        <target state="translated">缚密精怪只能阻挡具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能阻挡具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="3c0fae23-1278-499f-9df7-4a29691726b1" resname="VOW·79 | Cipherbound Spirit | Card Text | Paragraph 3">
         <source>{3}{U}: Draw two cards, then discard a card.</source>
@@ -1725,7 +1725,7 @@
       </trans-unit>
       <trans-unit id="55fb1426-5a6f-48dd-938b-c64b1a28ee59" resname="VOW·80 | Steelclad Spirit | Card Text | Paragraph 2">
         <source>Whenever an enchantment enters the battlefield under your control, CARDNAME can attack this turn as though it didn't have defender.</source>
-        <target state="translated">每当一个结界在你的操控下进战场时，覆铁精怪于本回合中能视同不具守军异能地进行攻击。</target>
+        <target state="translated">每当一个结界在你的操控下进战场时，CARDNAME于本回合中能视同不具守军异能地进行攻击。</target>
       </trans-unit>
       <trans-unit id="c1debb8c-d5e0-49e5-ab27-2d50e6f9d8d2" resname="VOW·81 | Stitched Assistant | Card Name">
         <source>Stitched Assistant</source>
@@ -1737,7 +1737,7 @@
       </trans-unit>
       <trans-unit id="c1debb8c-d5e0-49e5-ab27-2d50e6f9d8d2" resname="VOW·81 | Stitched Assistant | Card Text | Paragraph 2">
         <source>When CARDNAME exploits a creature, scry 1, then draw a card. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)</source>
-        <target state="translated">当缝组助手榨取生物时，占卜1，然后抓一张牌。（占卜1的流程是检视你牌库顶的牌，然后你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">当CARDNAME榨取生物时，占卜1，然后抓一张牌。（占卜1的流程是检视你牌库顶的牌，然后你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="5753d235-24d6-47a9-aed8-b3e13211c222" resname="VOW·A-81 | A-Stitched Assistant | Card Name">
         <source>A-Stitched Assistant</source>
@@ -1754,7 +1754,7 @@
       </trans-unit>
       <trans-unit id="3dd5c860-9d27-40d9-af38-aaf40bd52423" resname="VOW·82 | Stormchaser Drake | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes the target of a spell you control, draw a card.</source>
-        <target state="translated">每当逐风龙兽成为由你操控之咒语的目标时，抓一张牌。</target>
+        <target state="translated">每当CARDNAME成为由你操控之咒语的目标时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="435a2d31-ac2c-45aa-8369-6c2d6fbba4e4" resname="VOW·84 | Syphon Essence | Card Name">
         <source>Syphon Essence</source>
@@ -1782,7 +1782,7 @@
       </trans-unit>
       <trans-unit id="7bb3ce5d-330d-427e-a053-8cc4eeb2941b" resname="VOW·86 | Wanderlight Spirit | Card Text | Paragraph 2">
         <source>CARDNAME can block only creatures with flying.</source>
-        <target state="translated">游灯精怪只能阻挡具飞行异能的生物。</target>
+        <target state="translated">CARDNAME只能阻挡具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="43411ade-be80-4535-8baa-7055e78496df" resname="VOW·87 | Wash Away | Card Name">
         <source>Wash Away</source>
@@ -1830,7 +1830,7 @@
       </trans-unit>
       <trans-unit id="eb3991f0-76b8-4f77-9d67-0e2b11fda750" resname="VOW·91 | Wretched Throng | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may search your library for a card named CARDNAME, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">当污劣大群死去时，你可以从你牌库中搜寻一张名称为污劣大群的牌，展示该牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME死去时，你可以从你牌库中搜寻一张名称为CARDNAME的牌，展示该牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="1174e8e1-2e8e-4070-9871-7d5d93e0dd56" resname="VOW·92 | Aim for the Head | Card Name">
         <source>Aim for the Head</source>
@@ -1854,7 +1854,7 @@
       </trans-unit>
       <trans-unit id="0cf81c9d-ddb2-470e-8a4a-590049713e95" resname="VOW·93 | Archghoul of Thraben | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Zombie you control dies, look at the top card of your library. If it's a Zombie card, you may reveal it and put it into your hand. If you don't put the card into your hand, you may put it into your graveyard.</source>
-        <target state="translated">每当瑟班大尸鬼或另一个由你操控的灵俑死去时，检视你的牌库顶牌。若它是灵俑牌，则你可以展示该牌并将它置于你手上。若你未将该牌置于你手上，则你可以将它置入你的坟墓场。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的灵俑死去时，检视你的牌库顶牌。若它是灵俑牌，则你可以展示该牌并将它置于你手上。若你未将该牌置于你手上，则你可以将它置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="3db65755-f104-4de9-bcc9-0a4a7bc66b51" resname="VOW·94 | Bleed Dry | Card Name">
         <source>Bleed Dry</source>
@@ -1870,11 +1870,11 @@
       </trans-unit>
       <trans-unit id="dd03651e-ada0-41dc-8722-0eba476943e3" resname="VOW·95 | Blood Fountain | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当融血喷泉进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="dd03651e-ada0-41dc-8722-0eba476943e3" resname="VOW·95 | Blood Fountain | Card Text | Paragraph 2">
         <source>{3}{B}, {T}, Sacrifice CARDNAME: Return up to two target creature cards from your graveyard to your hand.</source>
-        <target state="translated">{3}{B}，{T}，牺牲融血喷泉：将至多两张目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">{3}{B}，{T}，牺牲CARDNAME：将至多两张目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="8b12c378-1103-4a50-88fa-cf5a2deef463" resname="VOW·96 | Bloodcrazed Socialite | Card Name">
         <source>Bloodcrazed Socialite</source>
@@ -1886,11 +1886,11 @@
       </trans-unit>
       <trans-unit id="8b12c378-1103-4a50-88fa-cf5a2deef463" resname="VOW·96 | Bloodcrazed Socialite | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当血狂名流进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="8b12c378-1103-4a50-88fa-cf5a2deef463" resname="VOW·96 | Bloodcrazed Socialite | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, you may sacrifice a Blood token. If you do, it gets +2/+2 until end of turn.</source>
-        <target state="translated">每当血狂名流攻击时，你可以牺牲一个血滴衍生物。若你如此作，则它得+2/+2直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以牺牲一个血滴衍生物。若你如此作，则它得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a7cbdd54-7685-4921-ab60-dc36e647a4c5" resname="VOW·97 | Bloodsworn Squire | Card Name">
         <source>Bloodsworn Squire</source>
@@ -1898,7 +1898,7 @@
       </trans-unit>
       <trans-unit id="a7cbdd54-7685-4921-ab60-dc36e647a4c5" resname="VOW·97 | Bloodsworn Squire | Card Text | Paragraph 1">
         <source>{1}{B}, Discard a card: CARDNAME gains indestructible until end of turn. Tap it. Then if there are four or more creature cards in your graveyard, transform CARDNAME. (Damage and effects that say &amp;quot;destroy&amp;quot; don't destroy it.)</source>
-        <target state="translated">{1}{B}，弃一张牌：血誓扈从获得不灭异能直到回合结束。将它横置。然后如果你坟墓场中有四张或更多生物牌，则转化血誓扈从。（伤害与注明「消灭」的效应不会将它消灭。）</target>
+        <target state="translated">{1}{B}，弃一张牌：CARDNAME获得不灭异能直到回合结束。将它横置。然后如果你坟墓场中有四张或更多生物牌，则转化CARDNAME。（伤害与注明「消灭」的效应不会将它消灭。）</target>
       </trans-unit>
       <trans-unit id="a7cbdd54-7685-4921-ab60-dc36e647a4c5" resname="VOW·97 | Bloodsworn Knight | Card Name">
         <source>Bloodsworn Knight</source>
@@ -1906,11 +1906,11 @@
       </trans-unit>
       <trans-unit id="a7cbdd54-7685-4921-ab60-dc36e647a4c5" resname="VOW·97 | Bloodsworn Knight | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of creature cards in your graveyard.</source>
-        <target state="translated">血誓骑士的力量和防御力各等同于你坟墓场中的生物牌数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你坟墓场中的生物牌数量。</target>
       </trans-unit>
       <trans-unit id="a7cbdd54-7685-4921-ab60-dc36e647a4c5" resname="VOW·97 | Bloodsworn Knight | Card Text | Paragraph 2">
         <source>{1}{B}, Discard a card: CARDNAME gains indestructible until end of turn. Tap it. (Damage and effects that say &amp;quot;destroy&amp;quot; don't destroy it.)</source>
-        <target state="translated">{1}{B}，弃一张牌：血誓骑士获得不灭异能直到回合结束。将它横置。（伤害与注明「消灭」的效应不会将它消灭。）</target>
+        <target state="translated">{1}{B}，弃一张牌：CARDNAME获得不灭异能直到回合结束。将它横置。（伤害与注明「消灭」的效应不会将它消灭。）</target>
       </trans-unit>
       <trans-unit id="4889c58b-8b84-42af-a56c-e886655aa997" resname="VOW·98 | Bloodvial Purveyor | Card Name">
         <source>Bloodvial Purveyor</source>
@@ -1926,7 +1926,7 @@
       </trans-unit>
       <trans-unit id="4889c58b-8b84-42af-a56c-e886655aa997" resname="VOW·98 | Bloodvial Purveyor | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, it gets +1/+0 until end of turn for each Blood token defending player controls.</source>
-        <target state="translated">每当血瓶贩商攻击时，防御牌手每操控一个血滴衍生物，它便得+1/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，防御牌手每操控一个血滴衍生物，它便得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="e61b3afa-66e0-4f7b-84bc-7ae2cc6d28d4" resname="VOW·99 | Catapult Fodder | Card Name">
         <source>Catapult Fodder</source>
@@ -1934,7 +1934,7 @@
       </trans-unit>
       <trans-unit id="e61b3afa-66e0-4f7b-84bc-7ae2cc6d28d4" resname="VOW·99 | Catapult Fodder | Card Text | Paragraph 1">
         <source>At the beginning of combat on your turn, if you control three or more creatures that each have toughness greater than their power, transform CARDNAME.</source>
-        <target state="translated">在你回合的战斗开始时，若你操控三个或更多防御力比力量大的生物，则转化抛石炮灰。</target>
+        <target state="translated">在你回合的战斗开始时，若你操控三个或更多防御力比力量大的生物，则转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="e61b3afa-66e0-4f7b-84bc-7ae2cc6d28d4" resname="VOW·99 | Catapult Captain | Card Name">
         <source>Catapult Captain</source>
@@ -1954,7 +1954,7 @@
       </trans-unit>
       <trans-unit id="48da33b1-d59c-43f1-8e55-480096b674e5" resname="VOW·100 | Cemetery Desecrator | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield or dies, exile another card from a graveyard. When you do, choose one —</source>
-        <target state="translated">当墓地渎圣尸进战场或死去时，从任一坟墓场放逐另一张牌。当你如此作时，选择一项～</target>
+        <target state="translated">当CARDNAME进战场或死去时，从任一坟墓场放逐另一张牌。当你如此作时，选择一项～</target>
       </trans-unit>
       <trans-unit id="48da33b1-d59c-43f1-8e55-480096b674e5" resname="VOW·100 | Cemetery Desecrator | Card Text | Paragraph 3">
         <source>• Remove X counters from target permanent, where X is the mana value of the exiled card.</source>
@@ -1974,7 +1974,7 @@
       </trans-unit>
       <trans-unit id="612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1" resname="VOW·101 | Concealing Curtains | Card Text | Paragraph 2">
         <source>{2}{B}: Transform CARDNAME. Activate only as a sorcery.</source>
-        <target state="translated">{2}{B}：转化遮物帘幕。只能于法术时机起动。</target>
+        <target state="translated">{2}{B}：转化CARDNAME。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1" resname="VOW·101 | Revealing Eye | Card Name">
         <source>Revealing Eye</source>
@@ -1986,7 +1986,7 @@
       </trans-unit>
       <trans-unit id="612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1" resname="VOW·101 | Revealing Eye | Card Text | Paragraph 2">
         <source>When this creature transforms into CARDNAME, target opponent reveals their hand. You may choose a nonland card from it. If you do, that player discards that card, then draws a card.</source>
-        <target state="translated">当此生物转化为揭物巨眼时，目标对手展示其手牌。你可以选择其中一张非地牌。若你如此作，则该牌手弃掉该牌，然后抓一张牌。</target>
+        <target state="translated">当此生物转化为CARDNAME时，目标对手展示其手牌。你可以选择其中一张非地牌。若你如此作，则该牌手弃掉该牌，然后抓一张牌。</target>
       </trans-unit>
       <trans-unit id="4d9a8dc7-1ee9-4731-bd72-3d02f4e7c6c4" resname="VOW·102 | Courier Bat | Card Name">
         <source>Courier Bat</source>
@@ -1998,7 +1998,7 @@
       </trans-unit>
       <trans-unit id="4d9a8dc7-1ee9-4731-bd72-3d02f4e7c6c4" resname="VOW·102 | Courier Bat | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if you gained life this turn, return up to one target creature card from your graveyard to your hand.</source>
-        <target state="translated">当讯使蝙蝠进战场时，若你本回合中获得过生命，则将至多一张目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，若你本回合中获得过生命，则将至多一张目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="80c3741e-cf04-4aa2-a6a9-ce19f043b22c" resname="VOW·103 | Demonic Bargain | Card Name">
         <source>Demonic Bargain</source>
@@ -2018,7 +2018,7 @@
       </trans-unit>
       <trans-unit id="467c566e-7f6a-40c9-8fd7-da6ae96df56c" resname="VOW·104 | Desperate Farmer | Card Text | Paragraph 2">
         <source>When another creature you control dies, transform CARDNAME.</source>
-        <target state="translated">当另一个由你操控的生物死去时，转化情急农夫。</target>
+        <target state="translated">当另一个由你操控的生物死去时，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="467c566e-7f6a-40c9-8fd7-da6ae96df56c" resname="VOW·104 | Depraved Harvester | Card Name">
         <source>Depraved Harvester</source>
@@ -2038,7 +2038,7 @@
       </trans-unit>
       <trans-unit id="f72eb127-3f4c-42ed-8ba6-b6d83ea18545" resname="VOW·105 | Diregraf Scavenger | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile up to one target card from a graveyard. If a creature card was exiled this way, each opponent loses 2 life and you gain 2 life.</source>
-        <target state="translated">当战墓食腐熊进战场时，将至多一张目标牌从坟墓场放逐。若以此法放逐一张生物牌，则每位对手各失去2点生命且你获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，将至多一张目标牌从坟墓场放逐。若以此法放逐一张生物牌，则每位对手各失去2点生命且你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="0ad4c472-b8ce-4ae0-a6f0-726ea74722c5" resname="VOW·107 | Dread Fugue | Card Name">
         <source>Dread Fugue</source>
@@ -2062,7 +2062,7 @@
       </trans-unit>
       <trans-unit id="269199ea-2106-4299-ade0-10cce1320434" resname="VOW·108 | Dreadfeast Demon | Card Text | Paragraph 2">
         <source>At the beginning of your end step, sacrifice a non-Demon creature. If you do, create a token that's a copy of CARDNAME.</source>
-        <target state="translated">在你的结束步骤开始时，牺牲一个非恶魔生物。若你如此作，则派出一个衍生物，此衍生物为飨惧恶魔的复制品。</target>
+        <target state="translated">在你的结束步骤开始时，牺牲一个非恶魔生物。若你如此作，则派出一个衍生物，此衍生物为CARDNAME的复制品。</target>
       </trans-unit>
       <trans-unit id="c2ea16cd-801e-478a-b924-5431582b70d1" resname="VOW·109 | Dying to Serve | Card Name">
         <source>Dying to Serve</source>
@@ -2082,7 +2082,7 @@
       </trans-unit>
       <trans-unit id="96ff9de6-f9ae-4b1c-9fd1-4ba9663922af" resname="VOW·110 | Edgar's Awakening | Card Text | Paragraph 2">
         <source>When you discard CARDNAME, you may pay {B}. When you do, return target creature card from your graveyard to your hand.</source>
-        <target state="translated">当你弃掉艾德嘉觉醒时，你可以支付{B}。当你如此作时，将目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当你弃掉CARDNAME时，你可以支付{B}。当你如此作时，将目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="451559d0-b62d-4757-8eb5-f6b0e240899c" resname="VOW·111 | Falkenrath Forebear | Card Name">
         <source>Falkenrath Forebear</source>
@@ -2094,15 +2094,15 @@
       </trans-unit>
       <trans-unit id="451559d0-b62d-4757-8eb5-f6b0e240899c" resname="VOW·111 | Falkenrath Forebear | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">伐肯纳先人不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="451559d0-b62d-4757-8eb5-f6b0e240899c" resname="VOW·111 | Falkenrath Forebear | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals combat damage to a player, create a Blood token.</source>
-        <target state="translated">每当伐肯纳先人对任一牌手造成战斗伤害时，派出一个血滴衍生物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，派出一个血滴衍生物。</target>
       </trans-unit>
       <trans-unit id="451559d0-b62d-4757-8eb5-f6b0e240899c" resname="VOW·111 | Falkenrath Forebear | Card Text | Paragraph 4">
         <source>{B}, Sacrifice two Blood tokens: Return CARDNAME from your graveyard to the battlefield.</source>
-        <target state="translated">{B}，牺牲两个血滴衍生物：将伐肯纳先人从你的坟墓场移回战场。</target>
+        <target state="translated">{B}，牺牲两个血滴衍生物：将CARDNAME从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="27347849-6c07-42c0-bee4-74f93d7ad511" resname="VOW·112 | Fell Stinger | Card Name">
         <source>Fell Stinger</source>
@@ -2118,7 +2118,7 @@
       </trans-unit>
       <trans-unit id="27347849-6c07-42c0-bee4-74f93d7ad511" resname="VOW·112 | Fell Stinger | Card Text | Paragraph 3">
         <source>When CARDNAME exploits a creature, target player draws two cards and loses 2 life.</source>
-        <target state="translated">当极恶刺蝎榨取生物时，目标牌手抓两张牌且失去2点生命。</target>
+        <target state="translated">当CARDNAME榨取生物时，目标牌手抓两张牌且失去2点生命。</target>
       </trans-unit>
       <trans-unit id="a864375f-99c3-4c68-9440-bc25ff6d0dc0" resname="VOW·113 | Gift of Fangs | Card Name">
         <source>Gift of Fangs</source>
@@ -2138,7 +2138,7 @@
       </trans-unit>
       <trans-unit id="18c07288-1c71-4e71-bdf5-910eb583a1d8" resname="VOW·114 | Gluttonous Guest | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当暴食宾客进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="18c07288-1c71-4e71-bdf5-910eb583a1d8" resname="VOW·114 | Gluttonous Guest | Card Text | Paragraph 2">
         <source>Whenever you sacrifice a Blood token, you gain 1 life.</source>
@@ -2154,11 +2154,11 @@
       </trans-unit>
       <trans-unit id="0bb2103b-3462-4439-a1e1-243a15c5f318" resname="VOW·115 | Graf Reaver | Card Text | Paragraph 2">
         <source>When CARDNAME exploits a creature, destroy target planeswalker.</source>
-        <target state="translated">当墓地裂肢兵榨取生物时，消灭目标鹏洛客。</target>
+        <target state="translated">当CARDNAME榨取生物时，消灭目标鹏洛客。</target>
       </trans-unit>
       <trans-unit id="0bb2103b-3462-4439-a1e1-243a15c5f318" resname="VOW·115 | Graf Reaver | Card Text | Paragraph 3">
         <source>At the beginning of your upkeep, CARDNAME deals 1 damage to you.</source>
-        <target state="translated">在你的维持开始时，墓地裂肢兵对你造成1点伤害。</target>
+        <target state="translated">在你的维持开始时，CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="53cdf2ab-3acd-49bd-8273-84c1cfc92883" resname="VOW·116 | Grisly Ritual | Card Name">
         <source>Grisly Ritual</source>
@@ -2186,7 +2186,7 @@
       </trans-unit>
       <trans-unit id="c24018e8-b8f1-44a5-9355-8b79f363569d" resname="VOW·118 | Headless Rider | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another nontoken Zombie you control dies, create a 2/2 black Zombie creature token.</source>
-        <target state="translated">每当无头骑手或另一个由你操控且非衍生物的灵俑死去时，派出一个2/2黑色灵俑衍生生物。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控且非衍生物的灵俑死去时，派出一个2/2黑色灵俑衍生生物。</target>
       </trans-unit>
       <trans-unit id="946ca338-5f43-4cff-bd93-1b28449c5fdc" resname="VOW·119 | Henrika Domnathi | Card Name">
         <source>Henrika Domnathi</source>
@@ -2210,7 +2210,7 @@
       </trans-unit>
       <trans-unit id="946ca338-5f43-4cff-bd93-1b28449c5fdc" resname="VOW·119 | Henrika Domnathi | Card Text | Paragraph 5">
         <source>• Transform CARDNAME.</source>
-        <target state="translated">•转化亨莉卡多纳提。</target>
+        <target state="translated">•转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="946ca338-5f43-4cff-bd93-1b28449c5fdc" resname="VOW·119 | Henrika, Infernal Seer | Card Name">
         <source>Henrika, Infernal Seer</source>
@@ -2230,7 +2230,7 @@
       </trans-unit>
       <trans-unit id="13a5e5fd-a67a-4c0e-97ae-923bdbc1be20" resname="VOW·121 | Innocent Traveler | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, any opponent may sacrifice a creature. If no one does, transform CARDNAME.</source>
-        <target state="translated">在你的维持开始时，任意对手可以牺牲一个生物。若无人如此作，则转化无辜旅人。</target>
+        <target state="translated">在你的维持开始时，任意对手可以牺牲一个生物。若无人如此作，则转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="13a5e5fd-a67a-4c0e-97ae-923bdbc1be20" resname="VOW·121 | Malicious Invader | Card Name">
         <source>Malicious Invader</source>
@@ -2242,7 +2242,7 @@
       </trans-unit>
       <trans-unit id="13a5e5fd-a67a-4c0e-97ae-923bdbc1be20" resname="VOW·121 | Malicious Invader | Card Text | Paragraph 2">
         <source>CARDNAME gets +2/+0 as long as an opponent controls a Human.</source>
-        <target state="translated">只要任一对手操控人类，恶毒侵客便得+2/+0。</target>
+        <target state="translated">只要任一对手操控人类，CARDNAME便得+2/+0。</target>
       </trans-unit>
       <trans-unit id="f5c4e00d-128a-4ddb-9e1b-3ee93121b262" resname="VOW·122 | Mindleech Ghoul | Card Name">
         <source>Mindleech Ghoul</source>
@@ -2254,7 +2254,7 @@
       </trans-unit>
       <trans-unit id="f5c4e00d-128a-4ddb-9e1b-3ee93121b262" resname="VOW·122 | Mindleech Ghoul | Card Text | Paragraph 2">
         <source>When CARDNAME exploits a creature, each opponent exiles a card from their hand.</source>
-        <target state="translated">当夺念食尸鬼榨取生物时，每位对手各从其手上放逐一张牌。</target>
+        <target state="translated">当CARDNAME榨取生物时，每位对手各从其手上放逐一张牌。</target>
       </trans-unit>
       <trans-unit id="0713adf7-1770-4d5b-80f7-d6cbd24f7890" resname="VOW·123 | Parasitic Grasp | Card Name">
         <source>Parasitic Grasp</source>
@@ -2266,7 +2266,7 @@
       </trans-unit>
       <trans-unit id="0713adf7-1770-4d5b-80f7-d6cbd24f7890" resname="VOW·123 | Parasitic Grasp | Card Text | Paragraph 2">
         <source>CARDNAME deals 3 damage to target [Human] creature. You gain 3 life.</source>
-        <target state="translated">寄生之攫对目标［人类］生物造成3点伤害。你获得3点生命。</target>
+        <target state="translated">CARDNAME对目标［人类］生物造成3点伤害。你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="f0c5449a-d63b-4b22-9432-8f0365c3c4d9" resname="VOW·124 | Path of Peril | Card Name">
         <source>Path of Peril</source>
@@ -2286,7 +2286,7 @@
       </trans-unit>
       <trans-unit id="f7baf973-3202-4fea-8861-a4a5ec228640" resname="VOW·125 | Persistent Specimen | Card Text | Paragraph 1">
         <source>{2}{B}: Return CARDNAME from your graveyard to the battlefield tapped.</source>
-        <target state="translated">{2}{B}：将复组标本从你的坟墓场横置移回战场。</target>
+        <target state="translated">{2}{B}：将CARDNAME从你的坟墓场横置移回战场。</target>
       </trans-unit>
       <trans-unit id="076deb63-f7e2-498f-a66a-8a190370a3b3" resname="VOW·126 | Pointed Discussion | Card Name">
         <source>Pointed Discussion</source>
@@ -2302,7 +2302,7 @@
       </trans-unit>
       <trans-unit id="7fb728de-0d6e-4b32-b0c4-edd7382d1391" resname="VOW·127 | Ragged Recluse | Card Text | Paragraph 1">
         <source>At the beginning of your end step, if you discarded a card this turn, transform CARDNAME.</source>
-        <target state="translated">在你的结束步骤开始时，若你本回合中弃过牌，则转化褴褛隐士。</target>
+        <target state="translated">在你的结束步骤开始时，若你本回合中弃过牌，则转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="7fb728de-0d6e-4b32-b0c4-edd7382d1391" resname="VOW·127 | Odious Witch | Card Name">
         <source>Odious Witch</source>
@@ -2310,7 +2310,7 @@
       </trans-unit>
       <trans-unit id="7fb728de-0d6e-4b32-b0c4-edd7382d1391" resname="VOW·127 | Odious Witch | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, defending player loses 1 life and you gain 1 life.</source>
-        <target state="translated">每当可憎巫婆攻击时，防御牌手失去1点生命且你获得1点生命。</target>
+        <target state="translated">每当CARDNAME攻击时，防御牌手失去1点生命且你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="71f67ac0-7901-4248-9cb7-2200fb8f893e" resname="VOW·128 | Restless Bloodseeker | Card Name">
         <source>Restless Bloodseeker</source>
@@ -2322,7 +2322,7 @@
       </trans-unit>
       <trans-unit id="71f67ac0-7901-4248-9cb7-2200fb8f893e" resname="VOW·128 | Restless Bloodseeker | Card Text | Paragraph 2">
         <source>Sacrifice two Blood tokens: Transform CARDNAME. Activate only as a sorcery.</source>
-        <target state="translated">牺牲两个血滴衍生物：转化无休觅血客。只能于法术时机起动。</target>
+        <target state="translated">牺牲两个血滴衍生物：转化CARDNAME。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="71f67ac0-7901-4248-9cb7-2200fb8f893e" resname="VOW·128 | Bloodsoaked Reveler | Card Name">
         <source>Bloodsoaked Reveler</source>
@@ -2346,7 +2346,7 @@
       </trans-unit>
       <trans-unit id="1eafefd0-3a9e-400e-8c75-0825aeb2ded1" resname="VOW·129 | Rot-Tide Gargantua | Card Text | Paragraph 2">
         <source>When CARDNAME exploits a creature, each opponent sacrifices a creature.</source>
-        <target state="translated">当腐潮巨罡兽榨取生物时，每位对手各牺牲一个生物。</target>
+        <target state="translated">当CARDNAME榨取生物时，每位对手各牺牲一个生物。</target>
       </trans-unit>
       <trans-unit id="497b94b9-c5d7-4e94-87c2-ca1342588d79" resname="VOW·130 | Skulking Killer | Card Name">
         <source>Skulking Killer</source>
@@ -2354,7 +2354,7 @@
       </trans-unit>
       <trans-unit id="497b94b9-c5d7-4e94-87c2-ca1342588d79" resname="VOW·130 | Skulking Killer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature an opponent controls gets -2/-2 until end of turn if that opponent controls no other creatures.</source>
-        <target state="translated">当隐匿杀手进战场时，选择目标由对手操控的生物。如果该对手未操控其他生物，则该生物得-2/-2直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，选择目标由对手操控的生物。如果该对手未操控其他生物，则该生物得-2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="cc7ff5f4-a7cc-41a1-a22b-8cf67ad18707" resname="VOW·131 | Sorin the Mirthless | Card Name">
         <source>Sorin the Mirthless</source>
@@ -2370,7 +2370,7 @@
       </trans-unit>
       <trans-unit id="cc7ff5f4-a7cc-41a1-a22b-8cf67ad18707" resname="VOW·131 | Sorin the Mirthless | Card Text | Paragraph 3">
         <source>[−7]: CARDNAME deals 13 damage to any target. You gain 13 life.</source>
-        <target state="translated">−7：阴郁的索霖对任意一个目标造成13点伤害。你获得13点生命。</target>
+        <target state="translated">−7：CARDNAME对任意一个目标造成13点伤害。你获得13点生命。</target>
       </trans-unit>
       <trans-unit id="84e64f38-b1f3-47cd-8cfb-a4861369aca3" resname="VOW·132 | Toxrill, the Corrosive | Card Name">
         <source>Toxrill, the Corrosive</source>
@@ -2398,11 +2398,11 @@
       </trans-unit>
       <trans-unit id="2c9b8582-8887-4652-82e2-f9b11ee21545" resname="VOW·133 | Undead Butler | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, mill three cards. (Put the top three cards of your library into your graveyard.)</source>
-        <target state="translated">当不死管家进战场时，磨三张牌。（将你牌库顶的三张牌置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，磨三张牌。（将你牌库顶的三张牌置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="2c9b8582-8887-4652-82e2-f9b11ee21545" resname="VOW·133 | Undead Butler | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you may exile it. When you do, return target creature card from your graveyard to your hand.</source>
-        <target state="translated">当不死管家死去时，你可以将它放逐。当你如此作时，将目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME死去时，你可以将它放逐。当你如此作时，将目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="8eb38041-043a-4b18-9d9a-f1283684e8f1" resname="VOW·134 | Undying Malice | Card Name">
         <source>Undying Malice</source>
@@ -2418,7 +2418,7 @@
       </trans-unit>
       <trans-unit id="d5ec541b-1799-4c0e-a3fb-c008cf2eb911" resname="VOW·135 | Unhallowed Phalanx | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">孽物方阵兵团须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="974bf8cc-4259-48cc-8e7f-1580bb010d3f" resname="VOW·136 | Vampire's Kiss | Card Name">
         <source>Vampire's Kiss</source>
@@ -2438,11 +2438,11 @@
       </trans-unit>
       <trans-unit id="ca5297a5-bcaa-41fd-a397-e44dc4e00ba3" resname="VOW·137 | Voldaren Bloodcaster | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another nontoken creature you control dies, create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">每当沃达连血育师或另一个由你操控且非衍生物的生物死去时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">每当CARDNAME或另一个由你操控且非衍生物的生物死去时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="ca5297a5-bcaa-41fd-a397-e44dc4e00ba3" resname="VOW·137 | Voldaren Bloodcaster | Card Text | Paragraph 3">
         <source>Whenever you create a Blood token, if you control five or more Blood tokens, transform CARDNAME.</source>
-        <target state="translated">每当你派出一个血滴衍生物时，若你操控五个或更多血滴衍生物，则转化沃达连血育师。</target>
+        <target state="translated">每当你派出一个血滴衍生物时，若你操控五个或更多血滴衍生物，则转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="ca5297a5-bcaa-41fd-a397-e44dc4e00ba3" resname="VOW·137 | Bloodbat Summoner | Card Name">
         <source>Bloodbat Summoner</source>
@@ -2462,7 +2462,7 @@
       </trans-unit>
       <trans-unit id="1ddfdd10-2a99-4376-abee-f868b0d5e7c1" resname="VOW·138 | Wedding Security | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may sacrifice a Blood token. If you do, put a +1/+1 counter on CARDNAME and draw a card.</source>
-        <target state="translated">每当婚礼警卫攻击时，你可以牺牲一个血滴衍生物。若你如此作，则在婚礼警卫上放置一个+1/+1指示物并抓一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以牺牲一个血滴衍生物。若你如此作，则在CARDNAME上放置一个+1/+1指示物并抓一张牌。</target>
       </trans-unit>
       <trans-unit id="a8fbf5d3-4677-4bf0-891f-57d6dcddaff7" resname="VOW·140 | Alchemist's Gambit | Card Name">
         <source>Alchemist's Gambit</source>
@@ -2478,7 +2478,7 @@
       </trans-unit>
       <trans-unit id="a8fbf5d3-4677-4bf0-891f-57d6dcddaff7" resname="VOW·140 | Alchemist's Gambit | Card Text | Paragraph 3">
         <source>Exile CARDNAME.</source>
-        <target state="translated">放逐炼金术士的计策。</target>
+        <target state="translated">放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="397ffd01-c090-4233-9f5a-5f765886d498" resname="VOW·141 | Alluring Suitor | Card Name">
         <source>Alluring Suitor</source>
@@ -2486,7 +2486,7 @@
       </trans-unit>
       <trans-unit id="397ffd01-c090-4233-9f5a-5f765886d498" resname="VOW·141 | Alluring Suitor | Card Text | Paragraph 1">
         <source>When you attack with exactly two creatures, transform CARDNAME.</source>
-        <target state="translated">当你以正好两个生物攻击时，转化迷人求婚者。</target>
+        <target state="translated">当你以正好两个生物攻击时，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="397ffd01-c090-4233-9f5a-5f765886d498" resname="VOW·141 | Deadly Dancer | Card Name">
         <source>Deadly Dancer</source>
@@ -2498,11 +2498,11 @@
       </trans-unit>
       <trans-unit id="397ffd01-c090-4233-9f5a-5f765886d498" resname="VOW·141 | Deadly Dancer | Card Text | Paragraph 2">
         <source>When this creature transforms into CARDNAME, add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.</source>
-        <target state="translated">当此生物转化为致命共舞者时，加{R}{R}。直到回合结束，你不会因步骤与阶段结束失去这份法术力。</target>
+        <target state="translated">当此生物转化为CARDNAME时，加{R}{R}。直到回合结束，你不会因步骤与阶段结束失去这份法术力。</target>
       </trans-unit>
       <trans-unit id="397ffd01-c090-4233-9f5a-5f765886d498" resname="VOW·141 | Deadly Dancer | Card Text | Paragraph 3">
         <source>{R}{R}: CARDNAME and another target creature each get +1/+0 until end of turn.</source>
-        <target state="translated">{R}{R}：致命共舞者与另一个目标生物各得+1/+0直到回合结束。</target>
+        <target state="translated">{R}{R}：CARDNAME与另一个目标生物各得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5dee47ab-d603-4346-97f4-a25dc3f47765" resname="VOW·142 | Ancestral Anger | Card Name">
         <source>Ancestral Anger</source>
@@ -2510,7 +2510,7 @@
       </trans-unit>
       <trans-unit id="5dee47ab-d603-4346-97f4-a25dc3f47765" resname="VOW·142 | Ancestral Anger | Card Text | Paragraph 1">
         <source>Target creature gains trample and gets +X/+0 until end of turn, where X is 1 plus the number of cards named CARDNAME in your graveyard.</source>
-        <target state="translated">直到回合结束，目标生物获得践踏异能且得+X/+0，X为你坟墓场中名称为先祖怒火之牌的数量加1。</target>
+        <target state="translated">直到回合结束，目标生物获得践踏异能且得+X/+0，X为你坟墓场中名称为CARDNAME之牌的数量加1。</target>
       </trans-unit>
       <trans-unit id="5dee47ab-d603-4346-97f4-a25dc3f47765" resname="VOW·142 | Ancestral Anger | Card Text | Paragraph 2">
         <source>Draw a card.</source>
@@ -2522,7 +2522,7 @@
       </trans-unit>
       <trans-unit id="63d96c52-66ce-4b46-9a0b-7cd9a43f9253" resname="VOW·143 | Ballista Watcher | Card Text | Paragraph 1">
         <source>{2}{R}, {T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{2}{R}，{T}：巨弩守卫对任意一个目标造成1点伤害。</target>
+        <target state="translated">{2}{R}，{T}：CARDNAME对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="63d96c52-66ce-4b46-9a0b-7cd9a43f9253" resname="VOW·143 | Ballista Watcher | Card Text | Paragraph 2">
         <source>Daybound (If a player casts no spells during their own turn, it becomes night next turn.)</source>
@@ -2534,7 +2534,7 @@
       </trans-unit>
       <trans-unit id="63d96c52-66ce-4b46-9a0b-7cd9a43f9253" resname="VOW·143 | Ballista Wielder | Card Text | Paragraph 1">
         <source>{2}{R}: CARDNAME deals 1 damage to any target. A creature dealt damage this way can't block this turn.</source>
-        <target state="translated">{2}{R}：巨弩持兽对任意一个目标造成1点伤害。以此法受到伤害的生物本回合不能进行阻挡。</target>
+        <target state="translated">{2}{R}：CARDNAME对任意一个目标造成1点伤害。以此法受到伤害的生物本回合不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="63d96c52-66ce-4b46-9a0b-7cd9a43f9253" resname="VOW·143 | Ballista Wielder | Card Text | Paragraph 2">
         <source>Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)</source>
@@ -2550,7 +2550,7 @@
       </trans-unit>
       <trans-unit id="1bb844c4-f41c-4411-a80a-c19e1d97b272" resname="VOW·144 | Belligerent Guest | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">每当好斗宾客对任一牌手造成战斗伤害时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="d85e0477-9176-4a3e-badc-f1c1c734e59c" resname="VOW·145 | Blood Hypnotist | Card Name">
         <source>Blood Hypnotist</source>
@@ -2558,7 +2558,7 @@
       </trans-unit>
       <trans-unit id="d85e0477-9176-4a3e-badc-f1c1c734e59c" resname="VOW·145 | Blood Hypnotist | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">鲜血催眠师不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="d85e0477-9176-4a3e-badc-f1c1c734e59c" resname="VOW·145 | Blood Hypnotist | Card Text | Paragraph 2">
         <source>Whenever you sacrifice one or more Blood tokens, target creature can't block this turn. This ability triggers only once each turn.</source>
@@ -2570,11 +2570,11 @@
       </trans-unit>
       <trans-unit id="0c3a4927-f06c-424d-92a9-b40cf8e3e209" resname="VOW·146 | Blood Petal Celebrant | Card Text | Paragraph 1">
         <source>CARDNAME has first strike as long as it's attacking.</source>
-        <target state="translated">只要血瓣主祭正进行攻击，它便具有先攻异能。</target>
+        <target state="translated">只要CARDNAME正进行攻击，它便具有先攻异能。</target>
       </trans-unit>
       <trans-unit id="0c3a4927-f06c-424d-92a9-b40cf8e3e209" resname="VOW·146 | Blood Petal Celebrant | Card Text | Paragraph 2">
         <source>When CARDNAME dies, create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当血瓣主祭死去时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME死去时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="8970a5d6-dcab-415a-851b-20e228ef7d16" resname="VOW·147 | Bloody Betrayal | Card Name">
         <source>Bloody Betrayal</source>
@@ -2594,11 +2594,11 @@
       </trans-unit>
       <trans-unit id="457086c4-1b4e-4f79-8f2a-10b16174c8bb" resname="VOW·148 | Cemetery Gatekeeper | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile a card from a graveyard.</source>
-        <target state="translated">当墓地守门者进战场时，从任一坟墓场放逐一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，从任一坟墓场放逐一张牌。</target>
       </trans-unit>
       <trans-unit id="457086c4-1b4e-4f79-8f2a-10b16174c8bb" resname="VOW·148 | Cemetery Gatekeeper | Card Text | Paragraph 3">
         <source>Whenever a player plays a land or casts a spell, if it shares a card type with the exiled card, CARDNAME deals 2 damage to that player.</source>
-        <target state="translated">每当任一牌手使用地或施放咒语时，若它与所放逐的牌具共通之牌张类别，则墓地守门者对该牌手造成2点伤害。</target>
+        <target state="translated">每当任一牌手使用地或施放咒语时，若它与所放逐的牌具共通之牌张类别，则CARDNAME对该牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="681f7c73-92c6-47ba-af56-3ff032ac12da" resname="VOW·149 | Chandra, Dressed to Kill | Card Name">
         <source>Chandra, Dressed to Kill</source>
@@ -2606,7 +2606,7 @@
       </trans-unit>
       <trans-unit id="681f7c73-92c6-47ba-af56-3ff032ac12da" resname="VOW·149 | Chandra, Dressed to Kill | Card Text | Paragraph 1">
         <source>[+1]: Add {R}. CARDNAME deals 1 damage to up to one target player or planeswalker.</source>
-        <target state="translated">+1：加{R}。盛装茜卓对至多一位目标牌手或鹏洛客造成1点伤害。</target>
+        <target state="translated">+1：加{R}。CARDNAME对至多一位目标牌手或鹏洛客造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="681f7c73-92c6-47ba-af56-3ff032ac12da" resname="VOW·149 | Chandra, Dressed to Kill | Card Text | Paragraph 2">
         <source>[+1]: Exile the top card of your library. If it's red, you may cast it this turn.</source>
@@ -2634,7 +2634,7 @@
       </trans-unit>
       <trans-unit id="0bd17b9f-fd93-47d4-9cc4-cd333d0004f5" resname="VOW·151 | Creepy Puppeteer | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, if you attacked with exactly one other creature this combat, you may have that creature's base power and toughness become 4/3 until end of turn.</source>
-        <target state="translated">每当可怖控偶师攻击时，若你本次战斗中还以正好一个其他生物攻击，则你可以使后者生物之基础力量与防御力成为4/3直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，若你本次战斗中还以正好一个其他生物攻击，则你可以使后者生物之基础力量与防御力成为4/3直到回合结束。</target>
       </trans-unit>
       <trans-unit id="45bcb839-4cff-4349-9892-0c76ae81929c" resname="VOW·152 | Curse of Hospitality | Card Name">
         <source>Curse of Hospitality</source>
@@ -2662,7 +2662,7 @@
       </trans-unit>
       <trans-unit id="8697a861-0f67-4ed3-bed8-f264fc78565e" resname="VOW·153 | Daybreak Combatants | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target creature gets +2/+0 until end of turn.</source>
-        <target state="translated">当破晓战士进战场时，目标生物得+2/+0直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4b11d234-c6e4-45b2-a3c2-dcacc77cc084" resname="VOW·154 | Dominating Vampire | Card Name">
         <source>Dominating Vampire</source>
@@ -2670,7 +2670,7 @@
       </trans-unit>
       <trans-unit id="4b11d234-c6e4-45b2-a3c2-dcacc77cc084" resname="VOW·154 | Dominating Vampire | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, gain control of target creature with mana value less than or equal to the number of Vampires you control until end of turn. Untap that creature. It gains haste until end of turn.</source>
-        <target state="translated">当控念吸血鬼进战场时，选择目标生物，且其法术力值须等于或小于由你操控的吸血鬼数量。获得该生物的操控权直到回合结束。重置该生物。它获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，选择目标生物，且其法术力值须等于或小于由你操控的吸血鬼数量。获得该生物的操控权直到回合结束。重置该生物。它获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="bec748e6-7245-4a71-aeee-cefed8346948" resname="VOW·155 | End the Festivities | Card Name">
         <source>End the Festivities</source>
@@ -2678,7 +2678,7 @@
       </trans-unit>
       <trans-unit id="bec748e6-7245-4a71-aeee-cefed8346948" resname="VOW·155 | End the Festivities | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each opponent and each creature and planeswalker they control.</source>
-        <target state="translated">喜庆终结向每位对手和每个由对手操控的生物和鹏洛客各造成1点伤害。</target>
+        <target state="translated">CARDNAME向每位对手和每个由对手操控的生物和鹏洛客各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="4c3c5778-4760-4a8c-8d8d-693e29a0a74b" resname="VOW·156 | Falkenrath Celebrants | Card Name">
         <source>Falkenrath Celebrants</source>
@@ -2690,7 +2690,7 @@
       </trans-unit>
       <trans-unit id="4c3c5778-4760-4a8c-8d8d-693e29a0a74b" resname="VOW·156 | Falkenrath Celebrants | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create two Blood tokens. (They're artifacts with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当伐肯纳贵客进战场时，派出两个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出两个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="5eb3a08e-1d31-4ab9-854f-a86b060696ec" resname="VOW·157 | Fearful Villager | Card Name">
         <source>Fearful Villager</source>
@@ -2722,7 +2722,7 @@
       </trans-unit>
       <trans-unit id="b1771a8f-7bea-4bb0-9949-566ee6613b93" resname="VOW·158 | Flame-Blessed Bolt | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</source>
-        <target state="translated">炎佑弩矢对目标生物或鹏洛客造成2点伤害。如果本回合中该生物或鹏洛客将死去，则改为将它放逐。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成2点伤害。如果本回合中该生物或鹏洛客将死去，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="b7912206-6de3-4085-b5f6-a2e90ea55b90" resname="VOW·159 | Frenzied Devils | Card Name">
         <source>Frenzied Devils</source>
@@ -2734,7 +2734,7 @@
       </trans-unit>
       <trans-unit id="b7912206-6de3-4085-b5f6-a2e90ea55b90" resname="VOW·159 | Frenzied Devils | Card Text | Paragraph 2">
         <source>Whenever you cast a noncreature spell, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">每当你施放非生物咒语时，狂热魔鬼得+2/+2直到回合结束。</target>
+        <target state="translated">每当你施放非生物咒语时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="04e491a1-b195-45bb-bf06-345eaee30b81" resname="VOW·160 | Honeymoon Hearse | Card Name">
         <source>Honeymoon Hearse</source>
@@ -2746,7 +2746,7 @@
       </trans-unit>
       <trans-unit id="04e491a1-b195-45bb-bf06-345eaee30b81" resname="VOW·160 | Honeymoon Hearse | Card Text | Paragraph 2">
         <source>Tap two untapped creatures you control: CARDNAME becomes an artifact creature until end of turn.</source>
-        <target state="translated">横置两个由你操控且未横置的生物：蜜月柩车成为神器生物直到回合结束。</target>
+        <target state="translated">横置两个由你操控且未横置的生物：CARDNAME成为神器生物直到回合结束。</target>
       </trans-unit>
       <trans-unit id="804e0e1d-9c9c-46e6-8533-88e18a91ceff" resname="VOW·161 | Hungry Ridgewolf | Card Name">
         <source>Hungry Ridgewolf</source>
@@ -2754,7 +2754,7 @@
       </trans-unit>
       <trans-unit id="804e0e1d-9c9c-46e6-8533-88e18a91ceff" resname="VOW·161 | Hungry Ridgewolf | Card Text | Paragraph 1">
         <source>As long as you control another Wolf or Werewolf, CARDNAME gets +1/+0 and has trample.</source>
-        <target state="translated">只要你操控另一个狼或狼人，饥饿脊狼便得+1/+0且具有践踏异能。</target>
+        <target state="translated">只要你操控另一个狼或狼人，CARDNAME便得+1/+0且具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="f3d1e90b-0c99-46da-b4f6-4b7be27dbd5c" resname="VOW·162 | Ill-Tempered Loner | Card Name">
         <source>Ill-Tempered Loner</source>
@@ -2762,11 +2762,11 @@
       </trans-unit>
       <trans-unit id="f3d1e90b-0c99-46da-b4f6-4b7be27dbd5c" resname="VOW·162 | Ill-Tempered Loner | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt damage, it deals that much damage to any target.</source>
-        <target state="translated">每当暴躁独行客受到伤害时，它对任意一个目标造成等量的伤害。</target>
+        <target state="translated">每当CARDNAME受到伤害时，它对任意一个目标造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="f3d1e90b-0c99-46da-b4f6-4b7be27dbd5c" resname="VOW·162 | Ill-Tempered Loner | Card Text | Paragraph 2">
         <source>{1}{R}: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">{1}{R}：暴躁独行客得+2/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f3d1e90b-0c99-46da-b4f6-4b7be27dbd5c" resname="VOW·162 | Ill-Tempered Loner | Card Text | Paragraph 3">
         <source>Daybound (If a player casts no spells during their own turn, it becomes night next turn.)</source>
@@ -2778,11 +2778,11 @@
       </trans-unit>
       <trans-unit id="f3d1e90b-0c99-46da-b4f6-4b7be27dbd5c" resname="VOW·162 | Howlpack Avenger | Card Text | Paragraph 1">
         <source>Whenever a permanent you control is dealt damage, CARDNAME deals that much damage to any target.</source>
-        <target state="translated">每当一个由你操控的永久物受到伤害时，嚎群复仇者对任意一个目标造成等量的伤害。</target>
+        <target state="translated">每当一个由你操控的永久物受到伤害时，CARDNAME对任意一个目标造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="f3d1e90b-0c99-46da-b4f6-4b7be27dbd5c" resname="VOW·162 | Howlpack Avenger | Card Text | Paragraph 2">
         <source>{1}{R}: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">{1}{R}：嚎群复仇者得+2/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f3d1e90b-0c99-46da-b4f6-4b7be27dbd5c" resname="VOW·162 | Howlpack Avenger | Card Text | Paragraph 3">
         <source>Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)</source>
@@ -2802,7 +2802,7 @@
       </trans-unit>
       <trans-unit id="303ad78a-b02a-44dc-afe6-7f95781a5062" resname="VOW·164 | Kessig Flamebreather | Card Text | Paragraph 1">
         <source>Whenever you cast a noncreature spell, CARDNAME deals 1 damage to each opponent.</source>
-        <target state="translated">每当你施放非生物咒语时，凯锡革喷焰师向每位对手各造成1点伤害。</target>
+        <target state="translated">每当你施放非生物咒语时，CARDNAME向每位对手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="180b1a4f-c071-4742-9c57-9d775be0ed4f" resname="VOW·165 | Kessig Wolfrider | Card Name">
         <source>Kessig Wolfrider</source>
@@ -2822,7 +2822,7 @@
       </trans-unit>
       <trans-unit id="c7e0c0dc-2d35-4e5a-81da-dd5f35b8e579" resname="VOW·166 | Lacerate Flesh | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target creature. Create a number of Blood tokens equal to the amount of excess damage dealt to that creature this way. (They're artifacts with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">利爪碎身对目标生物造成4点伤害。派出若干血滴衍生物，其数量等同于以此法对该生物造成的过量伤害数量。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">CARDNAME对目标生物造成4点伤害。派出若干血滴衍生物，其数量等同于以此法对该生物造成的过量伤害数量。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="0cbee24c-9147-46cb-a5f9-8d919c021aa4" resname="VOW·167 | Lambholt Raconteur | Card Name">
         <source>Lambholt Raconteur</source>
@@ -2830,7 +2830,7 @@
       </trans-unit>
       <trans-unit id="0cbee24c-9147-46cb-a5f9-8d919c021aa4" resname="VOW·167 | Lambholt Raconteur | Card Text | Paragraph 1">
         <source>Whenever you cast a noncreature spell, CARDNAME deals 1 damage to each opponent.</source>
-        <target state="translated">每当你施放非生物咒语时，羊屯说书人向每位对手各造成1点伤害。</target>
+        <target state="translated">每当你施放非生物咒语时，CARDNAME向每位对手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="0cbee24c-9147-46cb-a5f9-8d919c021aa4" resname="VOW·167 | Lambholt Raconteur | Card Text | Paragraph 2">
         <source>Daybound (If a player casts no spells during their own turn, it becomes night next turn.)</source>
@@ -2842,7 +2842,7 @@
       </trans-unit>
       <trans-unit id="0cbee24c-9147-46cb-a5f9-8d919c021aa4" resname="VOW·167 | Lambholt Ravager | Card Text | Paragraph 1">
         <source>Whenever you cast a noncreature spell, CARDNAME deals 2 damage to each opponent.</source>
-        <target state="translated">每当你施放非生物咒语时，羊屯吞噬兽向每位对手各造成2点伤害。</target>
+        <target state="translated">每当你施放非生物咒语时，CARDNAME向每位对手各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="0cbee24c-9147-46cb-a5f9-8d919c021aa4" resname="VOW·167 | Lambholt Ravager | Card Text | Paragraph 2">
         <source>Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)</source>
@@ -2854,7 +2854,7 @@
       </trans-unit>
       <trans-unit id="7211e4c3-e940-41da-88e4-4630eab447a6" resname="VOW·168 | Lightning Wolf | Card Text | Paragraph 1">
         <source>{1}{R}: CARDNAME gains first strike until end of turn. Activate only as a sorcery.</source>
-        <target state="translated">{1}{R}：闪电狼获得先攻异能直到回合结束。只能于法术时机起动。</target>
+        <target state="translated">{1}{R}：CARDNAME获得先攻异能直到回合结束。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="42f133d6-35c3-49b7-85f6-d6cfa6bac3d9" resname="VOW·169 | Magma Pummeler | Card Name">
         <source>Magma Pummeler</source>
@@ -2862,11 +2862,11 @@
       </trans-unit>
       <trans-unit id="42f133d6-35c3-49b7-85f6-d6cfa6bac3d9" resname="VOW·169 | Magma Pummeler | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">岩浆猛击灵进战场时上面有X个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="42f133d6-35c3-49b7-85f6-d6cfa6bac3d9" resname="VOW·169 | Magma Pummeler | Card Text | Paragraph 2">
         <source>If damage would be dealt to CARDNAME while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it. When one or more counters are removed from CARDNAME this way, it deals that much damage to any target.</source>
-        <target state="translated">如果岩浆猛击灵于其上有+1/+1指示物时将受到伤害，则防止该伤害，并从其上移去等量的+1/+1指示物。当以此法从岩浆猛击灵上移去一个或数个指示物时，它对任意一个目标造成等量的伤害。</target>
+        <target state="translated">如果CARDNAME于其上有+1/+1指示物时将受到伤害，则防止该伤害，并从其上移去等量的+1/+1指示物。当以此法从CARDNAME上移去一个或数个指示物时，它对任意一个目标造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="52e59170-aa80-45e1-ad0d-ce4818e78d2a" resname="VOW·170 | Manaform Hellkite | Card Name">
         <source>Manaform Hellkite</source>
@@ -2906,11 +2906,11 @@
       </trans-unit>
       <trans-unit id="d9702fa3-9323-4e2f-92c9-6c31df198af2" resname="VOW·172 | Olivia's Attendants | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage, create that many Blood tokens. (They're artifacts with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">每当奥莉薇亚的喜娘造成伤害时，派出等量的血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">每当CARDNAME造成伤害时，派出等量的血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="d9702fa3-9323-4e2f-92c9-6c31df198af2" resname="VOW·172 | Olivia's Attendants | Card Text | Paragraph 3">
         <source>{2}{R}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{2}{R}：奥莉薇亚的喜娘对任意一个目标造成1点伤害。</target>
+        <target state="translated">{2}{R}：CARDNAME对任意一个目标造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="80255777-de00-4ffa-a8a0-f522bf4198fb" resname="VOW·173 | Pyre Spawn | Card Name">
         <source>Pyre Spawn</source>
@@ -2918,7 +2918,7 @@
       </trans-unit>
       <trans-unit id="80255777-de00-4ffa-a8a0-f522bf4198fb" resname="VOW·173 | Pyre Spawn | Card Text | Paragraph 1">
         <source>When CARDNAME dies, it deals 3 damage to any target.</source>
-        <target state="translated">当葬火孽物死去时，它对任意一个目标造成3点伤害。</target>
+        <target state="translated">当CARDNAME死去时，它对任意一个目标造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="6943c07f-ab0d-4f5a-bbe9-c0a83dc98546" resname="VOW·174 | Reckless Impulse | Card Name">
         <source>Reckless Impulse</source>
@@ -2934,7 +2934,7 @@
       </trans-unit>
       <trans-unit id="51332c31-41df-4379-aa63-6a734a4df618" resname="VOW·175 | Rending Flame | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to target creature or planeswalker. If that permanent is a Spirit, CARDNAME also deals 2 damage to that permanent's controller.</source>
-        <target state="translated">劈裂烈火对目标生物或鹏洛客造成5点伤害。如果该永久物是精怪，则劈裂烈火再对该永久物的操控者造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成5点伤害。如果该永久物是精怪，则CARDNAME再对该永久物的操控者造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="6f9615f0-376f-4ac0-b269-5f497f2b5223" resname="VOW·176 | Runebound Wolf | Card Name">
         <source>Runebound Wolf</source>
@@ -2942,7 +2942,7 @@
       </trans-unit>
       <trans-unit id="6f9615f0-376f-4ac0-b269-5f497f2b5223" resname="VOW·176 | Runebound Wolf | Card Text | Paragraph 1">
         <source>{3}{R}, {T}: CARDNAME deals damage equal to the number of Wolves and Werewolves you control to target opponent.</source>
-        <target state="translated">{3}{R}，{T}：符锢狼向目标对手造成伤害，其数量等同于由你操控的狼和狼人数量。</target>
+        <target state="translated">{3}{R}，{T}：CARDNAME向目标对手造成伤害，其数量等同于由你操控的狼和狼人数量。</target>
       </trans-unit>
       <trans-unit id="706fafd4-443f-4e16-972e-86c16f22670a" resname="VOW·177 | Sanguine Statuette | Card Name">
         <source>Sanguine Statuette</source>
@@ -2950,11 +2950,11 @@
       </trans-unit>
       <trans-unit id="706fafd4-443f-4e16-972e-86c16f22670a" resname="VOW·177 | Sanguine Statuette | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当血色塑像进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="706fafd4-443f-4e16-972e-86c16f22670a" resname="VOW·177 | Sanguine Statuette | Card Text | Paragraph 2">
         <source>Whenever you sacrifice a Blood token, you may have CARDNAME become a 3/3 Vampire artifact creature with haste until end of turn.</source>
-        <target state="translated">每当你牺牲血滴衍生物时，你可以使血色塑像成为3/3，具敏捷异能的吸血鬼神器生物直到回合结束。</target>
+        <target state="translated">每当你牺牲血滴衍生物时，你可以使CARDNAME成为3/3，具敏捷异能的吸血鬼神器生物直到回合结束。</target>
       </trans-unit>
       <trans-unit id="df71a8c1-25af-4e6a-9197-11b96b959b46" resname="VOW·178 | Stensia Uprising | Card Name">
         <source>Stensia Uprising</source>
@@ -2962,7 +2962,7 @@
       </trans-unit>
       <trans-unit id="df71a8c1-25af-4e6a-9197-11b96b959b46" resname="VOW·178 | Stensia Uprising | Card Text | Paragraph 1">
         <source>At the beginning of your end step, create a 1/1 red Human creature token. Then if you control exactly thirteen permanents, you may sacrifice CARDNAME. When you do, it deals 7 damage to any target.</source>
-        <target state="translated">在你的结束步骤开始时，派出一个1/1红色人类衍生生物。然后若你操控正好十三个永久物，则你可以牺牲史顿襄式抗暴。当你如此作时，它对任意一个目标造成7点伤害。</target>
+        <target state="translated">在你的结束步骤开始时，派出一个1/1红色人类衍生生物。然后若你操控正好十三个永久物，则你可以牺牲CARDNAME。当你如此作时，它对任意一个目标造成7点伤害。</target>
       </trans-unit>
       <trans-unit id="20d2d886-13a2-44f1-966a-ec674622fd01" resname="VOW·180 | Vampires' Vengeance | Card Name">
         <source>Vampires' Vengeance</source>
@@ -2971,7 +2971,7 @@
       </trans-unit>
       <trans-unit id="20d2d886-13a2-44f1-966a-ec674622fd01" resname="VOW·180 | Vampires' Vengeance | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each non-Vampire creature. Create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">吸血鬼复仇对每个非吸血鬼生物各造成2点伤害。派出一个血滴衍生物。（它是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">CARDNAME对每个非吸血鬼生物各造成2点伤害。派出一个血滴衍生物。（它是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="87a02ac1-c43a-43cc-9c2b-628cfdeb4cbf" resname="VOW·181 | Volatile Arsonist | Card Name">
@@ -2984,7 +2984,7 @@
       </trans-unit>
       <trans-unit id="87a02ac1-c43a-43cc-9c2b-628cfdeb4cbf" resname="VOW·181 | Volatile Arsonist | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, it deals 1 damage to each of up to one target creature, up to one target player, and/or up to one target planeswalker.</source>
-        <target state="translated">每当易怒纵火人攻击时，它对至多一个目标生物，至多一位目标牌手和／或至多一个目标鹏洛客各造成1点伤害。</target>
+        <target state="translated">每当CARDNAME攻击时，它对至多一个目标生物，至多一位目标牌手和／或至多一个目标鹏洛客各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="87a02ac1-c43a-43cc-9c2b-628cfdeb4cbf" resname="VOW·181 | Volatile Arsonist | Card Text | Paragraph 3">
         <source>Daybound (If a player casts no spells during their own turn, it becomes night next turn.)</source>
@@ -3000,7 +3000,7 @@
       </trans-unit>
       <trans-unit id="87a02ac1-c43a-43cc-9c2b-628cfdeb4cbf" resname="VOW·181 | Dire-Strain Anarchist | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, it deals 2 damage to each of up to one target creature, up to one target player, and/or up to one target planeswalker.</source>
-        <target state="translated">每当怖狼脉崇乱兽攻击时，它对至多一个目标生物，至多一位目标牌手和／或至多一个目标鹏洛客各造成2点伤害。</target>
+        <target state="translated">每当CARDNAME攻击时，它对至多一个目标生物，至多一位目标牌手和／或至多一个目标鹏洛客各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="87a02ac1-c43a-43cc-9c2b-628cfdeb4cbf" resname="VOW·181 | Dire-Strain Anarchist | Card Text | Paragraph 3">
         <source>Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)</source>
@@ -3012,7 +3012,7 @@
       </trans-unit>
       <trans-unit id="ae154e64-f626-45fb-bd52-840c1c27b2d3" resname="VOW·182 | Voldaren Epicure | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 1 damage to each opponent. Create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当沃达连品血客进战场时，它向每位对手各造成1点伤害。派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，它向每位对手各造成1点伤害。派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="a8b85386-462b-46f8-9412-fd47ed1dc1da" resname="VOW·183 | Voltaic Visionary | Card Name">
         <source>Voltaic Visionary</source>
@@ -3020,11 +3020,11 @@
       </trans-unit>
       <trans-unit id="a8b85386-462b-46f8-9412-fd47ed1dc1da" resname="VOW·183 | Voltaic Visionary | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 2 damage to you. Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.</source>
-        <target state="translated">{T}：电流幻视师对你造成2点伤害。放逐你的牌库顶牌。本回合中，你可以使用该牌。只能于法术时机起动。</target>
+        <target state="translated">{T}：CARDNAME对你造成2点伤害。放逐你的牌库顶牌。本回合中，你可以使用该牌。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="a8b85386-462b-46f8-9412-fd47ed1dc1da" resname="VOW·183 | Voltaic Visionary | Card Text | Paragraph 2">
         <source>When you play a card exiled with CARDNAME, transform CARDNAME.</source>
-        <target state="translated">当你使用以电流幻视师放逐的牌时，转化电流幻视师。</target>
+        <target state="translated">当你使用以CARDNAME放逐的牌时，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="a8b85386-462b-46f8-9412-fd47ed1dc1da" resname="VOW·183 | Volt-Charged Berserker | Card Name">
         <source>Volt-Charged Berserker</source>
@@ -3032,7 +3032,7 @@
       </trans-unit>
       <trans-unit id="a8b85386-462b-46f8-9412-fd47ed1dc1da" resname="VOW·183 | Volt-Charged Berserker | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">涌电狂战士不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="e641467b-ac2e-4d29-aed7-5cc227c3b1ce" resname="VOW·184 | Weary Prisoner | Card Name">
         <source>Weary Prisoner</source>
@@ -3052,7 +3052,7 @@
       </trans-unit>
       <trans-unit id="e641467b-ac2e-4d29-aed7-5cc227c3b1ce" resname="VOW·184 | Wrathful Jailbreaker | Card Text | Paragraph 1">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">愤怒脱囚兽每次战斗若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每次战斗若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="e641467b-ac2e-4d29-aed7-5cc227c3b1ce" resname="VOW·184 | Wrathful Jailbreaker | Card Text | Paragraph 2">
         <source>Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)</source>
@@ -3076,11 +3076,11 @@
       </trans-unit>
       <trans-unit id="142c5b67-5de9-41da-b57f-7ce771457a3e" resname="VOW·186 | Ascendant Packleader | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a +1/+1 counter on it if you control a permanent with mana value 4 or greater.</source>
-        <target state="translated">如果你操控法术力值等于或大于4的永久物，则成长首领进战场时上面有一个+1/+1指示物。</target>
+        <target state="translated">如果你操控法术力值等于或大于4的永久物，则CARDNAME进战场时上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="142c5b67-5de9-41da-b57f-7ce771457a3e" resname="VOW·186 | Ascendant Packleader | Card Text | Paragraph 2">
         <source>Whenever you cast a spell with mana value 4 or greater, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你施放法术力值等于或大于4的咒语时，在成长首领上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你施放法术力值等于或大于4的咒语时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="c0c358b4-5af2-438f-8bd5-beb0ee6b518b" resname="VOW·187 | Avabruck Caretaker | Card Name">
         <source>Avabruck Caretaker</source>
@@ -3128,11 +3128,11 @@
       </trans-unit>
       <trans-unit id="8f16f137-4ceb-469c-a381-e575d58f456b" resname="VOW·189 | Bramble Wurm | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 5 life.</source>
-        <target state="translated">当刺藤亚龙进战场时，你获得5点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得5点生命。</target>
       </trans-unit>
       <trans-unit id="8f16f137-4ceb-469c-a381-e575d58f456b" resname="VOW·189 | Bramble Wurm | Card Text | Paragraph 3">
         <source>{2}{G}, Exile CARDNAME from your graveyard: You gain 5 life.</source>
-        <target state="translated">{2}{G}，从你的坟墓场放逐刺藤亚龙：你获得5点生命。</target>
+        <target state="translated">{2}{G}，从你的坟墓场放逐CARDNAME：你获得5点生命。</target>
       </trans-unit>
       <trans-unit id="b9a41cfc-f329-4e69-a785-835f69c7d2ba" resname="VOW·190 | Cartographer's Survey | Card Name">
         <source>Cartographer's Survey</source>
@@ -3152,11 +3152,11 @@
       </trans-unit>
       <trans-unit id="b124ccc4-76e3-41a4-92b2-8f1d06ea9cb8" resname="VOW·191 | Cemetery Prowler | Card Text | Paragraph 2">
         <source>Whenever CARDNAME enters the battlefield or attacks, exile a card from a graveyard.</source>
-        <target state="translated">每当墓地游掠狼进战场或攻击时，从任一坟墓场放逐一张牌。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，从任一坟墓场放逐一张牌。</target>
       </trans-unit>
       <trans-unit id="b124ccc4-76e3-41a4-92b2-8f1d06ea9cb8" resname="VOW·191 | Cemetery Prowler | Card Text | Paragraph 3">
         <source>Spells you cast cost {1} less to cast for each card type they share with cards exiled with CARDNAME.</source>
-        <target state="translated">对你施放的咒语而言，它与以墓地游掠狼放逐的各牌每有一种共通之牌张类别，便减少{1}来施放。</target>
+        <target state="translated">对你施放的咒语而言，它与以CARDNAME放逐的各牌每有一种共通之牌张类别，便减少{1}来施放。</target>
       </trans-unit>
       <trans-unit id="06d86c79-d2c7-4900-9474-4d4bc4c74d44" resname="VOW·192 | Cloaked Cadet | Card Name">
         <source>Cloaked Cadet</source>
@@ -3195,11 +3195,11 @@
       </trans-unit>
       <trans-unit id="62dffe04-c431-440d-a8da-33c74b4bb683" resname="VOW·195 | Cultivator Colossus | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of lands you control.</source>
-        <target state="translated">培护巨像的力量和防御力各等同于由你操控的地数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控的地数量。</target>
       </trans-unit>
       <trans-unit id="62dffe04-c431-440d-a8da-33c74b4bb683" resname="VOW·195 | Cultivator Colossus | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, you may put a land card from your hand onto the battlefield tapped. If you do, draw a card and repeat this process.</source>
-        <target state="translated">当培护巨像进战场时，你可以将一张地牌从你手上横置放进战场。若你如此作，则抓一张牌并重复此流程。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将一张地牌从你手上横置放进战场。若你如此作，则抓一张牌并重复此流程。</target>
       </trans-unit>
       <trans-unit id="c4bb669c-155e-4002-ba55-7e901760c0e8" resname="VOW·196 | Dawnhart Disciple | Card Name">
         <source>Dawnhart Disciple</source>
@@ -3207,7 +3207,7 @@
       </trans-unit>
       <trans-unit id="c4bb669c-155e-4002-ba55-7e901760c0e8" resname="VOW·196 | Dawnhart Disciple | Card Text | Paragraph 1">
         <source>Whenever another Human enters the battlefield under your control, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">每当另一个人类在你的操控下进战场时，曙鹿群信徒得+1/+1直到回合结束。</target>
+        <target state="translated">每当另一个人类在你的操控下进战场时，CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8f14c947-2452-4fd6-8f1a-391cf5898100" resname="VOW·197 | Dig Up | Card Name">
         <source>Dig Up</source>
@@ -3227,7 +3227,7 @@
       </trans-unit>
       <trans-unit id="e7d3012e-1798-4f72-8d9a-b2d16f817502" resname="VOW·198 | Dormant Grove | Card Text | Paragraph 1">
         <source>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Then if that creature has toughness 6 or greater, transform CARDNAME.</source>
-        <target state="translated">在你回合的战斗开始时，在目标由你操控的生物上放置一个+1/+1指示物。然后若该生物的防御力等于或大于6，则转化休眠古林地。</target>
+        <target state="translated">在你回合的战斗开始时，在目标由你操控的生物上放置一个+1/+1指示物。然后若该生物的防御力等于或大于6，则转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="e7d3012e-1798-4f72-8d9a-b2d16f817502" resname="VOW·198 | Gnarled Grovestrider | Card Name">
         <source>Gnarled Grovestrider</source>
@@ -3248,7 +3248,7 @@
       </trans-unit>
       <trans-unit id="2abc54df-773d-4f46-b241-e1f42af8ab95" resname="VOW·199 | Flourishing Hunter | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain life equal to the greatest toughness among other creatures you control.</source>
-        <target state="translated">当滋养猎狼进战场时，你获得若干生命，其数量等同于由你操控之其他生物中的最大防御力。</target>
+        <target state="translated">当CARDNAME进战场时，你获得若干生命，其数量等同于由你操控之其他生物中的最大防御力。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="a2caf73e-c3eb-4fa8-996a-d3d18b2ffaeb" resname="VOW·200 | Glorious Sunrise | Card Name">
@@ -3285,7 +3285,7 @@
       </trans-unit>
       <trans-unit id="f31e108b-8cb5-4f30-b68b-274aa7ac2a81" resname="VOW·201 | Hamlet Vanguard | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with two +1/+1 counters on it for each other nontoken Human you control.</source>
-        <target state="translated">村庄先锋进战场时上面有数个+1/+1指示物，其数量等同于由你操控且非衍生物之其他人类数量的两倍。</target>
+        <target state="translated">CARDNAME进战场时上面有数个+1/+1指示物，其数量等同于由你操控且非衍生物之其他人类数量的两倍。</target>
       </trans-unit>
       <trans-unit id="33efdb5a-7667-4475-9905-95f8fc9be2d3" resname="VOW·202 | Hiveheart Shaman | Card Name">
         <source>Hiveheart Shaman</source>
@@ -3293,7 +3293,7 @@
       </trans-unit>
       <trans-unit id="33efdb5a-7667-4475-9905-95f8fc9be2d3" resname="VOW·202 | Hiveheart Shaman | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may search your library for a basic land card that doesn't share a land type with a land you control, put that card onto the battlefield, then shuffle.</source>
-        <target state="translated">每当巢心祭师攻击时，你可以从你牌库中搜寻一张基本地牌，且其不得与由你操控的地有共通之地类别，将该牌放进战场，然后洗牌。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以从你牌库中搜寻一张基本地牌，且其不得与由你操控的地有共通之地类别，将该牌放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="33efdb5a-7667-4475-9905-95f8fc9be2d3" resname="VOW·202 | Hiveheart Shaman | Card Text | Paragraph 2">
         <source>{5}{G}: Create a 1/1 green Insect creature token. Put X +1/+1 counters on it, where X is the number of basic land types among lands you control. Activate only as a sorcery.</source>
@@ -3313,7 +3313,7 @@
       </trans-unit>
       <trans-unit id="54a4b031-0919-44aa-a35e-68da7a27235a" resname="VOW·203 | Riphook Raider | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by creatures with power 2 or less.</source>
-        <target state="translated">裂钩劫狼不能被力量等于或小于2的生物阻挡。</target>
+        <target state="translated">CARDNAME不能被力量等于或小于2的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="54a4b031-0919-44aa-a35e-68da7a27235a" resname="VOW·203 | Riphook Raider | Card Text | Paragraph 2">
         <source>Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)</source>
@@ -3341,7 +3341,7 @@
       </trans-unit>
       <trans-unit id="c7ceaf83-09c0-4492-a75d-4c47bd421858" resname="VOW·205 | Howlpack Piper | Card Text | Paragraph 2">
         <source>{1}{G}, {T}: You may put a creature card from your hand onto the battlefield. If it's a Wolf or Werewolf, untap CARDNAME. Activate only as a sorcery.</source>
-        <target state="translated">{1}{G}，{T}：你可以将一张生物牌从你手上放进战场。如果它是狼或狼人，则重置嚎群笛手。只能于法术时机起动。</target>
+        <target state="translated">{1}{G}，{T}：你可以将一张生物牌从你手上放进战场。如果它是狼或狼人，则重置CARDNAME。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="c7ceaf83-09c0-4492-a75d-4c47bd421858" resname="VOW·205 | Howlpack Piper | Card Text | Paragraph 3">
         <source>Daybound (If a player casts no spells during their own turn, it becomes night next turn.)</source>
@@ -3353,7 +3353,7 @@
       </trans-unit>
       <trans-unit id="c7ceaf83-09c0-4492-a75d-4c47bd421858" resname="VOW·205 | Wildsong Howler | Card Text | Paragraph 1">
         <source>Whenever this creature enters the battlefield or transforms into CARDNAME, look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">每当此生物进战场或转化为野调嚎狼时，检视你牌库顶的六张牌。你可以展示其中的一张生物牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
+        <target state="translated">每当此生物进战场或转化为CARDNAME时，检视你牌库顶的六张牌。你可以展示其中的一张生物牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="c7ceaf83-09c0-4492-a75d-4c47bd421858" resname="VOW·205 | Wildsong Howler | Card Text | Paragraph 2">
         <source>Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)</source>
@@ -3365,7 +3365,7 @@
       </trans-unit>
       <trans-unit id="0936761c-7cdc-49ef-8a0d-ed79219f1056" resname="VOW·206 | Infestation Expert | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, create a 1/1 green Insect creature token.</source>
-        <target state="translated">每当研虫专家进战场或攻击时，派出一个1/1绿色昆虫衍生生物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，派出一个1/1绿色昆虫衍生生物。</target>
       </trans-unit>
       <trans-unit id="0936761c-7cdc-49ef-8a0d-ed79219f1056" resname="VOW·206 | Infestation Expert | Card Text | Paragraph 2">
         <source>Daybound (If a player casts no spells during their own turn, it becomes night next turn.)</source>
@@ -3377,7 +3377,7 @@
       </trans-unit>
       <trans-unit id="0936761c-7cdc-49ef-8a0d-ed79219f1056" resname="VOW·206 | Infested Werewolf | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, create two 1/1 green Insect creature tokens.</source>
-        <target state="translated">每当染虫狼人进战场或攻击时，派出两个1/1绿色昆虫衍生生物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，派出两个1/1绿色昆虫衍生生物。</target>
       </trans-unit>
       <trans-unit id="0936761c-7cdc-49ef-8a0d-ed79219f1056" resname="VOW·206 | Infested Werewolf | Card Text | Paragraph 2">
         <source>Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)</source>
@@ -3410,7 +3410,7 @@
       </trans-unit>
       <trans-unit id="5252ea27-63d1-4b80-beae-8e016373d004" resname="VOW·209 | Moldgraf Millipede | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, mill three cards, then put a +1/+1 counter on CARDNAME for each creature card in your graveyard. (To mill a card, put the top card of your library into your graveyard.)</source>
-        <target state="translated">当苔墓千足虫进战场时，磨三张牌，然后你坟墓场中每有一张生物牌，便在苔墓千足虫上放置一个+1/+1指示物。（磨一张牌的流程是将你牌库顶的牌置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，磨三张牌，然后你坟墓场中每有一张生物牌，便在CARDNAME上放置一个+1/+1指示物。（磨一张牌的流程是将你牌库顶的牌置入你的坟墓场。）</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="39d757af-86fd-4f99-a09a-0f3898ed95f6" resname="VOW·211 | Nature's Embrace | Card Name">
@@ -3456,12 +3456,12 @@
       </trans-unit>
       <trans-unit id="d43d9686-a5e4-413b-8a34-3430788dd1b9" resname="VOW·213 | Packsong Pup | Card Text | Paragraph 1">
         <source>At the beginning of combat on your turn, if you control another Wolf or Werewolf, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">在你回合的战斗开始时，若你操控另一个狼或狼人，则在唤群幼狼上放置一个+1/+1指示物。</target>
+        <target state="translated">在你回合的战斗开始时，若你操控另一个狼或狼人，则在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="d43d9686-a5e4-413b-8a34-3430788dd1b9" resname="VOW·213 | Packsong Pup | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you gain life equal to its power.</source>
-        <target state="translated">当唤群幼狼死去时，你获得等同于其力量的生命。</target>
+        <target state="translated">当CARDNAME死去时，你获得等同于其力量的生命。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="10edf37a-ee35-491d-b83a-39035f7df65a" resname="VOW·214 | Reclusive Taxidermist | Card Name">
@@ -3470,7 +3470,7 @@
       </trans-unit>
       <trans-unit id="10edf37a-ee35-491d-b83a-39035f7df65a" resname="VOW·214 | Reclusive Taxidermist | Card Text | Paragraph 1">
         <source>CARDNAME gets +3/+2 as long as there are four or more creature cards in your graveyard.</source>
-        <target state="translated">只要你坟墓场中有四张或更多生物牌，隐居标本师便得+3/+2。</target>
+        <target state="translated">只要你坟墓场中有四张或更多生物牌，CARDNAME便得+3/+2。</target>
       </trans-unit>
       <trans-unit id="10edf37a-ee35-491d-b83a-39035f7df65a" resname="VOW·214 | Reclusive Taxidermist | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color.</source>
@@ -3482,7 +3482,7 @@
       </trans-unit>
       <trans-unit id="9e997f78-22a2-4b66-ac10-1adc9a72ce3b" resname="VOW·215 | Retrieve | Card Text | Paragraph 1">
         <source>Return up to one target creature card and up to one target noncreature permanent card from your graveyard to your hand. Exile CARDNAME.</source>
-        <target state="translated">将至多一张目标生物牌和至多一张目标非生物的永久物牌从你的坟墓场移回你手上。放逐取回旧物。</target>
+        <target state="translated">将至多一张目标生物牌和至多一张目标非生物的永久物牌从你的坟墓场移回你手上。放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="1bf35971-f1c4-4ccb-af5c-fd396391bb4b" resname="VOW·216 | Rural Recruit | Card Name">
         <source>Rural Recruit</source>
@@ -3494,7 +3494,7 @@
       </trans-unit>
       <trans-unit id="1bf35971-f1c4-4ccb-af5c-fd396391bb4b" resname="VOW·216 | Rural Recruit | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create a 3/1 green Boar creature token.</source>
-        <target state="translated">当农庄新兵进战场时，派出一个3/1绿色野猪衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个3/1绿色野猪衍生生物。</target>
       </trans-unit>
       <trans-unit id="225773f9-1843-4ee0-8564-8e4a5dfef775" resname="VOW·217 | Sawblade Slinger | Card Name">
         <source>Sawblade Slinger</source>
@@ -3502,7 +3502,7 @@
       </trans-unit>
       <trans-unit id="225773f9-1843-4ee0-8564-8e4a5dfef775" resname="VOW·217 | Sawblade Slinger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose up to one —</source>
-        <target state="translated">当锯轮射手进战场时，选择至多一项～</target>
+        <target state="translated">当CARDNAME进战场时，选择至多一项～</target>
       </trans-unit>
       <trans-unit id="225773f9-1843-4ee0-8564-8e4a5dfef775" resname="VOW·217 | Sawblade Slinger | Card Text | Paragraph 2">
         <source>• Destroy target artifact an opponent controls.</source>
@@ -3510,7 +3510,7 @@
       </trans-unit>
       <trans-unit id="225773f9-1843-4ee0-8564-8e4a5dfef775" resname="VOW·217 | Sawblade Slinger | Card Text | Paragraph 3">
         <source>• CARDNAME fights target Zombie an opponent controls.</source>
-        <target state="translated">•锯轮射手与目标由对手操控的灵俑互斗。</target>
+        <target state="translated">•CARDNAME与目标由对手操控的灵俑互斗。</target>
       </trans-unit>
       <trans-unit id="915dd4c2-0e9f-440c-8e4c-80db351a5eba" resname="VOW·218 | Sheltering Boughs | Card Name">
         <source>Sheltering Boughs</source>
@@ -3522,7 +3522,7 @@
       </trans-unit>
       <trans-unit id="915dd4c2-0e9f-440c-8e4c-80db351a5eba" resname="VOW·218 | Sheltering Boughs | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当庇护林枝进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="915dd4c2-0e9f-440c-8e4c-80db351a5eba" resname="VOW·218 | Sheltering Boughs | Card Text | Paragraph 3">
         <source>Enchanted creature gets +1/+3.</source>
@@ -3550,7 +3550,7 @@
       </trans-unit>
       <trans-unit id="628dbc4c-3640-44a9-8439-873103989409" resname="VOW·222 | Spore Crawler | Card Text | Paragraph 1">
         <source>When CARDNAME dies, draw a card.</source>
-        <target state="translated">当芽孢匍菌死去时，抓一张牌。</target>
+        <target state="translated">当CARDNAME死去时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="3fb04879-9348-4d4f-9a23-c82fd99d04c6" resname="VOW·223 | Sporeback Wolf | Card Name">
         <source>Sporeback Wolf</source>
@@ -3559,7 +3559,7 @@
       </trans-unit>
       <trans-unit id="3fb04879-9348-4d4f-9a23-c82fd99d04c6" resname="VOW·223 | Sporeback Wolf | Card Text | Paragraph 1">
         <source>As long as it's your turn, CARDNAME gets +0/+2.</source>
-        <target state="translated">只要是在你的回合中，孢背狼便得+0/+2。</target>
+        <target state="translated">只要是在你的回合中，CARDNAME便得+0/+2。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="4cfca481-cf2d-435d-b4b6-07b1fe2a8e5d" resname="VOW·224 | Toxic Scorpion | Card Name">
@@ -3572,7 +3572,7 @@
       </trans-unit>
       <trans-unit id="4cfca481-cf2d-435d-b4b6-07b1fe2a8e5d" resname="VOW·224 | Toxic Scorpion | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, another target creature you control gains deathtouch until end of turn.</source>
-        <target state="translated">当烈毒蝎进战场时，另一个目标由你操控的生物获得死触异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，另一个目标由你操控的生物获得死触异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5fdf5fc4-69c8-4a59-9095-c2feefb64371" resname="VOW·225 | Ulvenwald Oddity | Card Name">
         <source>Ulvenwald Oddity</source>
@@ -3584,7 +3584,7 @@
       </trans-unit>
       <trans-unit id="5fdf5fc4-69c8-4a59-9095-c2feefb64371" resname="VOW·225 | Ulvenwald Oddity | Card Text | Paragraph 2">
         <source>{5}{G}{G}: Transform CARDNAME.</source>
-        <target state="translated">{5}{G}{G}：转化沃文森异兽。</target>
+        <target state="translated">{5}{G}{G}：转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="5fdf5fc4-69c8-4a59-9095-c2feefb64371" resname="VOW·225 | Ulvenwald Behemoth | Card Name">
         <source>Ulvenwald Behemoth</source>
@@ -3656,7 +3656,7 @@
       </trans-unit>
       <trans-unit id="7a743426-6333-4ca6-9207-163b325ba435" resname="VOW·229 | Wedding Crasher | Card Text | Paragraph 1">
         <source>Whenever CARDNAME or another Wolf or Werewolf you control dies, draw a card.</source>
-        <target state="translated">每当婚礼破坏兽或另一个由你操控的狼或狼人死去时，抓一张牌。</target>
+        <target state="translated">每当CARDNAME或另一个由你操控的狼或狼人死去时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="7a743426-6333-4ca6-9207-163b325ba435" resname="VOW·229 | Wedding Crasher | Card Text | Paragraph 2">
         <source>Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)</source>
@@ -3676,7 +3676,7 @@
       </trans-unit>
       <trans-unit id="1bfac4ab-97f1-448c-8554-42ed03eb5656" resname="VOW·231 | Anje, Maid of Dishonor | Card Text | Paragraph 1">
         <source>Whenever CARDNAME and/or one or more other Vampires enter the battlefield under your control, create a Blood token. This ability triggers only once each turn. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">每当邪气伴娘安姬和／或一个或数个其他吸血鬼在你的操控下进战场时，派出一个血滴衍生物。此异能每回合只会触发一次。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">每当CARDNAME和／或一个或数个其他吸血鬼在你的操控下进战场时，派出一个血滴衍生物。此异能每回合只会触发一次。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="1bfac4ab-97f1-448c-8554-42ed03eb5656" resname="VOW·231 | Anje, Maid of Dishonor | Card Text | Paragraph 2">
         <source>{2}, Sacrifice another creature or a Blood token: Each opponent loses 2 life and you gain 2 life.</source>
@@ -3688,11 +3688,11 @@
       </trans-unit>
       <trans-unit id="f0192cf7-3391-4720-b9c8-72dec5dde01e" resname="VOW·232 | Bloodtithe Harvester | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当血税收集官进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="f0192cf7-3391-4720-b9c8-72dec5dde01e" resname="VOW·232 | Bloodtithe Harvester | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Target creature gets -X/-X until end of turn, where X is twice the number of Blood tokens you control. Activate only as a sorcery.</source>
-        <target state="translated">{T}，牺牲血税收集官：目标生物得-X/-X直到回合结束，X为由你操控之血滴衍生物数量的两倍。只能于法术时机起动。</target>
+        <target state="translated">{T}，牺牲CARDNAME：目标生物得-X/-X直到回合结束，X为由你操控之血滴衍生物数量的两倍。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="8d233bc5-8a08-4d38-abd4-21a112141afd" resname="VOW·233 | Brine Comber | Card Name">
         <source>Brine Comber</source>
@@ -3700,7 +3700,7 @@
       </trans-unit>
       <trans-unit id="8d233bc5-8a08-4d38-abd4-21a112141afd" resname="VOW·233 | Brine Comber | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying.</source>
-        <target state="translated">每当搜海精怪进战场或成为灵气咒语的目标时，派出一个1/1白色，具飞行异能的精怪衍生生物。</target>
+        <target state="translated">每当CARDNAME进战场或成为灵气咒语的目标时，派出一个1/1白色，具飞行异能的精怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="8d233bc5-8a08-4d38-abd4-21a112141afd" resname="VOW·233 | Brine Comber | Card Text | Paragraph 2">
         <source>Disturb {W}{U} (You may cast this card from your graveyard transformed for its disturb cost.)</source>
@@ -3716,11 +3716,11 @@
       </trans-unit>
       <trans-unit id="8d233bc5-8a08-4d38-abd4-21a112141afd" resname="VOW·233 | Brinebound Gift | Card Text | Paragraph 2">
         <source>Whenever CARDNAME enters the battlefield or enchanted creature becomes the target of an Aura spell, create a 1/1 white Spirit creature token with flying.</source>
-        <target state="translated">每当海底赠礼进战场或所结附的生物成为灵气咒语之目标时，派出一个1/1白色，具飞行异能的精怪衍生生物。</target>
+        <target state="translated">每当CARDNAME进战场或所结附的生物成为灵气咒语之目标时，派出一个1/1白色，具飞行异能的精怪衍生生物。</target>
       </trans-unit>
       <trans-unit id="8d233bc5-8a08-4d38-abd4-21a112141afd" resname="VOW·233 | Brinebound Gift | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果海底赠礼将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="d0e03cdb-1082-448b-ae5c-501fb8bc3f3b" resname="VOW·A-233 | A-Brine Comber | Card Name">
         <source>A-Brine Comber</source>
@@ -3770,7 +3770,7 @@
       </trans-unit>
       <trans-unit id="8c927707-abb5-4a9d-ac53-25df182d6e9b" resname="VOW·235 | Dorothea, Vengeful Victim | Card Text | Paragraph 2">
         <source>When CARDNAME attacks or blocks, sacrifice it at end of combat.</source>
-        <target state="translated">当怨仇亡者多萝霞攻击或阻挡，在战斗结束时将它牺牲。</target>
+        <target state="translated">当CARDNAME攻击或阻挡，在战斗结束时将它牺牲。</target>
       </trans-unit>
       <trans-unit id="8c927707-abb5-4a9d-ac53-25df182d6e9b" resname="VOW·235 | Dorothea, Vengeful Victim | Card Text | Paragraph 3">
         <source>Disturb {1}{W}{U} (You may cast this card from your graveyard transformed for its disturb cost.)</source>
@@ -3790,7 +3790,7 @@
       </trans-unit>
       <trans-unit id="8c927707-abb5-4a9d-ac53-25df182d6e9b" resname="VOW·235 | Dorothea's Retribution | Card Text | Paragraph 3">
         <source>If CARDNAME would be put into a graveyard from anywhere, exile it instead.</source>
-        <target state="translated">如果多萝霞的报偿将从任何区域进入坟墓场，则改为将它放逐。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="9b21d350-9b89-41d0-8def-00ef5189449c" resname="VOW·A-235 | A-Dorothea, Vengeful Victim | Card Name">
         <source>A-Dorothea, Vengeful Victim</source>
@@ -3812,7 +3812,7 @@
       </trans-unit>
       <trans-unit id="63ba8eef-b834-4031-b0a1-0f8505d53813" resname="VOW·236 | Edgar, Charmed Groom | Card Text | Paragraph 2">
         <source>When CARDNAME dies, return it to the battlefield transformed under its owner's control.</source>
-        <target state="translated">当遭魅新郎艾德嘉死去时，将它在其拥有者的操控下移回战场且已转化。</target>
+        <target state="translated">当CARDNAME死去时，将它在其拥有者的操控下移回战场且已转化。</target>
       </trans-unit>
       <trans-unit id="63ba8eef-b834-4031-b0a1-0f8505d53813" resname="VOW·236 | Edgar Markov's Coffin | Card Name">
         <source>Edgar Markov's Coffin</source>
@@ -3820,7 +3820,7 @@
       </trans-unit>
       <trans-unit id="63ba8eef-b834-4031-b0a1-0f8505d53813" resname="VOW·236 | Edgar Markov's Coffin | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, create a 1/1 white and black Vampire creature token with lifelink and put a bloodline counter on CARDNAME. Then if there are three or more bloodline counters on it, remove those counters and transform it.</source>
-        <target state="translated">在你的维持开始时，派出一个1/1，白黑双色，具系命异能的吸血鬼衍生生物，并在艾德嘉马可夫之棺上放置一个血脉指示物。然后若其上有三个或更多血脉指示物，则移去这些指示物并转化它。</target>
+        <target state="translated">在你的维持开始时，派出一个1/1，白黑双色，具系命异能的吸血鬼衍生生物，并在CARDNAME上放置一个血脉指示物。然后若其上有三个或更多血脉指示物，则移去这些指示物并转化它。</target>
       </trans-unit>
       <trans-unit id="9f764077-df2d-4ac7-b507-2c8e08386d49" resname="VOW·237 | Eruth, Tormented Prophet | Card Name">
         <source>Eruth, Tormented Prophet</source>
@@ -3904,7 +3904,7 @@
       </trans-unit>
       <trans-unit id="81a79f5f-a65a-4b43-b58c-cdfa09cc7855" resname="VOW·243 | Odric, Blood-Cursed | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create X Blood tokens, where X is the number of abilities from among flying, first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance found among creatures you control. (Count each ability only once.)</source>
-        <target state="translated">当受诅血咒的欧吉克进战场时，派出X个血滴衍生物，X为见于由你操控的生物上之飞行、先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒各异能的数量。（每种异能仅计算一次。）</target>
+        <target state="translated">当CARDNAME进战场时，派出X个血滴衍生物，X为见于由你操控的生物上之飞行、先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒各异能的数量。（每种异能仅计算一次。）</target>
       </trans-unit>
       <trans-unit id="625b8023-2ef1-4b7b-9e48-4f774fee14e0" resname="VOW·244 | Old Rutstein | Card Name">
         <source>Old Rutstein</source>
@@ -3912,7 +3912,7 @@
       </trans-unit>
       <trans-unit id="625b8023-2ef1-4b7b-9e48-4f774fee14e0" resname="VOW·244 | Old Rutstein | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield or at the beginning of your upkeep, mill a card. If a land card is milled this way, create a Treasure token. If a creature card is milled this way, create a 1/1 green Insect creature token. If a noncreature, nonland card is milled this way, create a Blood token.</source>
-        <target state="translated">当老鲁斯登进战场或在你的维持开始时，磨一张牌。若以此法磨掉一张地牌，则派出一个珍宝衍生物。若以此法磨掉一张生物牌，则派出一个1/1绿色昆虫衍生生物。若以此法磨掉一张非生物且非地的牌，则派出一个血滴衍生物。</target>
+        <target state="translated">当CARDNAME进战场或在你的维持开始时，磨一张牌。若以此法磨掉一张地牌，则派出一个珍宝衍生物。若以此法磨掉一张生物牌，则派出一个1/1绿色昆虫衍生生物。若以此法磨掉一张非生物且非地的牌，则派出一个血滴衍生物。</target>
       </trans-unit>
       <trans-unit id="301dacc9-ef92-4515-b907-a70d6c3fd73e" resname="VOW·245 | Olivia, Crimson Bride | Card Name">
         <source>Olivia, Crimson Bride</source>
@@ -3924,7 +3924,7 @@
       </trans-unit>
       <trans-unit id="301dacc9-ef92-4515-b907-a70d6c3fd73e" resname="VOW·245 | Olivia, Crimson Bride | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, return target creature card from your graveyard to the battlefield tapped and attacking. It gains &amp;quot;When you don't control a legendary Vampire, exile this creature.&amp;quot;</source>
-        <target state="translated">每当绯红新娘奥莉薇亚攻击时，将目标生物牌从你的坟墓场横置移回战场且正进行攻击。它获得「当你未操控传奇吸血鬼时，放逐此生物。」</target>
+        <target state="translated">每当CARDNAME攻击时，将目标生物牌从你的坟墓场横置移回战场且正进行攻击。它获得「当你未操控传奇吸血鬼时，放逐此生物。」</target>
       </trans-unit>
       <trans-unit id="f6c0fca5-b759-4543-95e2-8d712aae5281" resname="VOW·246 | Runo Stromkirk | Card Name">
         <source>Runo Stromkirk</source>
@@ -3936,11 +3936,11 @@
       </trans-unit>
       <trans-unit id="f6c0fca5-b759-4543-95e2-8d712aae5281" resname="VOW·246 | Runo Stromkirk | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put up to one target creature card from your graveyard on top of your library.</source>
-        <target state="translated">当卢诺溪堡进战场时，将至多一张目标生物牌从你的坟墓场置于你的牌库顶。</target>
+        <target state="translated">当CARDNAME进战场时，将至多一张目标生物牌从你的坟墓场置于你的牌库顶。</target>
       </trans-unit>
       <trans-unit id="f6c0fca5-b759-4543-95e2-8d712aae5281" resname="VOW·246 | Runo Stromkirk | Card Text | Paragraph 3">
         <source>At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If a creature card with mana value 6 or greater is revealed this way, transform CARDNAME.</source>
-        <target state="translated">在你的维持开始时，检视你的牌库顶牌。你可以展示该牌。若以此法展示出一张法术力值等于或大于6的生物牌，则转化卢诺溪堡。</target>
+        <target state="translated">在你的维持开始时，检视你的牌库顶牌。你可以展示该牌。若以此法展示出一张法术力值等于或大于6的生物牌，则转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f6c0fca5-b759-4543-95e2-8d712aae5281" resname="VOW·246 | Krothuss, Lord of the Deep | Card Name">
         <source>Krothuss, Lord of the Deep</source>
@@ -3952,7 +3952,7 @@
       </trans-unit>
       <trans-unit id="f6c0fca5-b759-4543-95e2-8d712aae5281" resname="VOW·246 | Krothuss, Lord of the Deep | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, create a tapped and attacking token that's a copy of another target attacking creature. If that creature is a Kraken, Leviathan, Octopus, or Serpent, create two of those tokens instead.</source>
-        <target state="translated">每当深渊之主寇瑟斯攻击时，派出一个衍生物，此衍生物为另一个目标进行攻击之生物的复制品，并为横置且正进行攻击。若该生物是巨海兽，海怪，章鱼或巨蛇，则改为派出两个上述衍生物。</target>
+        <target state="translated">每当CARDNAME攻击时，派出一个衍生物，此衍生物为另一个目标进行攻击之生物的复制品，并为横置且正进行攻击。若该生物是巨海兽，海怪，章鱼或巨蛇，则改为派出两个上述衍生物。</target>
       </trans-unit>
       <trans-unit id="34228fdd-e466-488e-84b2-4c595e758688" resname="VOW·247 | Sigardian Paladin | Card Name">
         <source>Sigardian Paladin</source>
@@ -3960,7 +3960,7 @@
       </trans-unit>
       <trans-unit id="34228fdd-e466-488e-84b2-4c595e758688" resname="VOW·247 | Sigardian Paladin | Card Text | Paragraph 1">
         <source>As long as you've put one or more +1/+1 counters on a creature this turn, CARDNAME has trample and lifelink.</source>
-        <target state="translated">只要你本回合中在生物上放置过一个或数个+1/+1指示物，席嘉妲神圣武士便具有践踏与系命异能。</target>
+        <target state="translated">只要你本回合中在生物上放置过一个或数个+1/+1指示物，CARDNAME便具有践踏与系命异能。</target>
       </trans-unit>
       <trans-unit id="34228fdd-e466-488e-84b2-4c595e758688" resname="VOW·247 | Sigardian Paladin | Card Text | Paragraph 2">
         <source>{1}{G}{W}: Target creature you control with a +1/+1 counter on it gains trample and lifelink until end of turn.</source>
@@ -4014,7 +4014,7 @@
       </trans-unit>
       <trans-unit id="6ad9ae64-6526-4747-9b0c-77d113f58c33" resname="VOW·250 | Vilespawn Spider | Card Text | Paragraph 3">
         <source>{2}{G}{U}, {T}, Sacrifice CARDNAME: Create a 1/1 green Insect creature token for each creature card in your graveyard. Activate only as a sorcery.</source>
-        <target state="translated">{2}{G}{U}，{T}，牺牲孽恶蜘蛛：你坟墓场中每有一张生物牌，便派出一个1/1绿色昆虫衍生生物。只能于法术时机起动。</target>
+        <target state="translated">{2}{G}{U}，{T}，牺牲CARDNAME：你坟墓场中每有一张生物牌，便派出一个1/1绿色昆虫衍生生物。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="4b9a1096-6313-4245-be18-1588c219b842" resname="VOW·251 | Wandering Mind | Card Name">
         <source>Wandering Mind</source>
@@ -4026,7 +4026,7 @@
       </trans-unit>
       <trans-unit id="4b9a1096-6313-4245-be18-1588c219b842" resname="VOW·251 | Wandering Mind | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, look at the top six cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">当游荡灵妖进战场时，检视你牌库顶的六张牌。你可以展示其中一张非生物且非地的牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，检视你牌库顶的六张牌。你可以展示其中一张非生物且非地的牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="87845cc2-bf5d-491d-bfa2-b33b034557a4" resname="VOW·252 | Blood Servitor | Card Name">
         <source>Blood Servitor</source>
@@ -4034,7 +4034,7 @@
       </trans-unit>
       <trans-unit id="87845cc2-bf5d-491d-bfa2-b33b034557a4" resname="VOW·252 | Blood Servitor | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a Blood token. (It's an artifact with &amp;quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当鲜血侍从进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出一个血滴衍生物。（血滴衍生物是具有「{1}，{T}，弃一张牌，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="f02cf94c-94d3-4c4c-a7ae-b4d48ef5b14e" resname="VOW·253 | Boarded Window | Card Name">
         <source>Boarded Window</source>
@@ -4046,7 +4046,7 @@
       </trans-unit>
       <trans-unit id="f02cf94c-94d3-4c4c-a7ae-b4d48ef5b14e" resname="VOW·253 | Boarded Window | Card Text | Paragraph 2">
         <source>At the beginning of each end step, if you were dealt 4 or more damage this turn, exile CARDNAME.</source>
-        <target state="translated">在每个结束步骤开始时，若你本回合中受过4点或更多伤害，则放逐钉板窗户。</target>
+        <target state="translated">在每个结束步骤开始时，若你本回合中受过4点或更多伤害，则放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="9ccb4b1e-ef8f-4c5f-8b5b-6148455442f7" resname="VOW·254 | Ceremonial Knife | Card Name">
         <source>Ceremonial Knife</source>
@@ -4074,11 +4074,11 @@
       </trans-unit>
       <trans-unit id="a27b9d82-f613-4789-9e8b-f37db5597027" resname="VOW·256 | Foreboding Statue | Card Text | Paragraph 1">
         <source>{T}: Add one mana of any color. Put an omen counter on CARDNAME.</source>
-        <target state="translated">{T}：加一点任意颜色的法术力。在恶兆塑像上放置一个预兆指示物。</target>
+        <target state="translated">{T}：加一点任意颜色的法术力。在CARDNAME上放置一个预兆指示物。</target>
       </trans-unit>
       <trans-unit id="a27b9d82-f613-4789-9e8b-f37db5597027" resname="VOW·256 | Foreboding Statue | Card Text | Paragraph 2">
         <source>At the beginning of your end step, if there are three or more omen counters on CARDNAME, untap it, then transform it.</source>
-        <target state="translated">在你的结束步骤开始时，若恶兆塑像上有三个或更多预兆指示物，则将它重置，然后转化它。</target>
+        <target state="translated">在你的结束步骤开始时，若CARDNAME上有三个或更多预兆指示物，则将它重置，然后转化它。</target>
       </trans-unit>
       <trans-unit id="a27b9d82-f613-4789-9e8b-f37db5597027" resname="VOW·256 | Forsaken Thresher | Card Name">
         <source>Forsaken Thresher</source>
@@ -4106,15 +4106,15 @@
       </trans-unit>
       <trans-unit id="f8a606e5-7a90-4a89-b51a-7f4e68705f97" resname="VOW·258 | Investigator's Journal | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a number of suspect counters on it equal to the greatest number of creatures a player controls.</source>
-        <target state="translated">调查员日志进战场时上面有数个怀疑指示物，其数量等同于各牌手所操控之生物数量中的最大值。</target>
+        <target state="translated">CARDNAME进战场时上面有数个怀疑指示物，其数量等同于各牌手所操控之生物数量中的最大值。</target>
       </trans-unit>
       <trans-unit id="f8a606e5-7a90-4a89-b51a-7f4e68705f97" resname="VOW·258 | Investigator's Journal | Card Text | Paragraph 2">
         <source>{2}, {T}, Remove a suspect counter from CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，{T}，从调查员日志上移去一个怀疑指示物：抓一张牌。</target>
+        <target state="translated">{2}，{T}，从CARDNAME上移去一个怀疑指示物：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="f8a606e5-7a90-4a89-b51a-7f4e68705f97" resname="VOW·258 | Investigator's Journal | Card Text | Paragraph 3">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲调查员日志：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="c2303f11-2c82-44d5-893a-8e71dece7746" resname="VOW·259 | Lantern of the Lost | Card Name">
         <source>Lantern of the Lost</source>
@@ -4122,11 +4122,11 @@
       </trans-unit>
       <trans-unit id="c2303f11-2c82-44d5-893a-8e71dece7746" resname="VOW·259 | Lantern of the Lost | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target card from a graveyard.</source>
-        <target state="translated">当逝者明灯进战场时，将目标牌从坟墓场放逐。</target>
+        <target state="translated">当CARDNAME进战场时，将目标牌从坟墓场放逐。</target>
       </trans-unit>
       <trans-unit id="c2303f11-2c82-44d5-893a-8e71dece7746" resname="VOW·259 | Lantern of the Lost | Card Text | Paragraph 2">
         <source>{1}, {T}, Exile CARDNAME: Exile all cards from all graveyards, then draw a card.</source>
-        <target state="translated">{1}，{T}，放逐逝者明灯：放逐所有坟墓场中的所有牌，然后抓一张牌。</target>
+        <target state="translated">{1}，{T}，放逐CARDNAME：放逐所有坟墓场中的所有牌，然后抓一张牌。</target>
       </trans-unit>
       <trans-unit id="ddc22ff6-4081-47ce-bc8a-e063f5f4d044" resname="VOW·260 | Wedding Invitation | Card Name">
         <source>Wedding Invitation</source>
@@ -4134,11 +4134,11 @@
       </trans-unit>
       <trans-unit id="ddc22ff6-4081-47ce-bc8a-e063f5f4d044" resname="VOW·260 | Wedding Invitation | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当婚礼请柬进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="ddc22ff6-4081-47ce-bc8a-e063f5f4d044" resname="VOW·260 | Wedding Invitation | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Target creature can't be blocked this turn. If it's a Vampire, it also gains lifelink until end of turn.</source>
-        <target state="translated">{T}，牺牲婚礼请柬：目标生物本回合不能被阻挡。如果它是吸血鬼，则它再获得系命异能直到回合结束。</target>
+        <target state="translated">{T}，牺牲CARDNAME：目标生物本回合不能被阻挡。如果它是吸血鬼，则它再获得系命异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d5523659-98a8-4ae2-9ec7-d77e7352c374" resname="VOW·261 | Deathcap Glade | Card Name">
         <source>Deathcap Glade</source>
@@ -4146,7 +4146,7 @@
       </trans-unit>
       <trans-unit id="d5523659-98a8-4ae2-9ec7-d77e7352c374" resname="VOW·261 | Deathcap Glade | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control two or more other lands.</source>
-        <target state="translated">除非你操控两个或更多其他地，否则毒蕈林地须横置进战场。</target>
+        <target state="translated">除非你操控两个或更多其他地，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="d5523659-98a8-4ae2-9ec7-d77e7352c374" resname="VOW·261 | Deathcap Glade | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {G}.</source>
@@ -4158,7 +4158,7 @@
       </trans-unit>
       <trans-unit id="eb604455-c411-414d-a2ef-e7567ee86a4d" resname="VOW·262 | Dreamroot Cascade | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control two or more other lands.</source>
-        <target state="translated">除非你操控两个或更多其他地，否则幻根瀑布须横置进战场。</target>
+        <target state="translated">除非你操控两个或更多其他地，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="eb604455-c411-414d-a2ef-e7567ee86a4d" resname="VOW·262 | Dreamroot Cascade | Card Text | Paragraph 2">
         <source>{T}: Add {G} or {U}.</source>
@@ -4170,7 +4170,7 @@
       </trans-unit>
       <trans-unit id="ad44c9aa-eb8f-4200-8dfe-2af728d80083" resname="VOW·264 | Shattered Sanctum | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control two or more other lands.</source>
-        <target state="translated">除非你操控两个或更多其他地，否则破碎圣所须横置进战场。</target>
+        <target state="translated">除非你操控两个或更多其他地，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="ad44c9aa-eb8f-4200-8dfe-2af728d80083" resname="VOW·264 | Shattered Sanctum | Card Text | Paragraph 2">
         <source>{T}: Add {W} or {B}.</source>
@@ -4182,7 +4182,7 @@
       </trans-unit>
       <trans-unit id="299f1dee-b3d7-472b-aa0b-2f9b46a96da5" resname="VOW·265 | Stormcarved Coast | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control two or more other lands.</source>
-        <target state="translated">除非你操控两个或更多其他地，否则风蚀海岸须横置进战场。</target>
+        <target state="translated">除非你操控两个或更多其他地，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="299f1dee-b3d7-472b-aa0b-2f9b46a96da5" resname="VOW·265 | Stormcarved Coast | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {R}.</source>
@@ -4194,7 +4194,7 @@
       </trans-unit>
       <trans-unit id="8f3fddd7-ede4-41c7-a645-a6af298a3d35" resname="VOW·266 | Sundown Pass | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped unless you control two or more other lands.</source>
-        <target state="translated">除非你操控两个或更多其他地，否则日落隘口须横置进战场。</target>
+        <target state="translated">除非你操控两个或更多其他地，否则CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="8f3fddd7-ede4-41c7-a645-a6af298a3d35" resname="VOW·266 | Sundown Pass | Card Text | Paragraph 2">
         <source>{T}: Add {R} or {W}.</source>

@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="69c42dac-f0b3-41aa-b3b2-f203e265131d" resname="MBS·2 | Ardent Recruit | Card Text | Paragraph 1">
         <source>Metalcraft — CARDNAME gets +2/+2 as long as you control three or more artifacts.</source>
-        <target state="translated">金技～只要你操控三个或更多神器，热诚新兵便得+2/+2。</target>
+        <target state="translated">金技～只要你操控三个或更多神器，CARDNAME便得+2/+2。</target>
       </trans-unit>
       <trans-unit id="2c5f605c-9d16-493e-bc44-0e15bdf8c0bf" resname="MBS·3 | Banishment Decree | Card Name">
         <source>Banishment Decree</source>
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit id="c2889bba-58a8-46e1-959c-0fd38c1732f9" resname="MBS·7 | Gore Vassal | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Put a -1/-1 counter on target creature. Then if that creature's toughness is 1 or greater, regenerate it.</source>
-        <target state="translated">牺牲血块下属：在目标生物上放置一个-1/-1指示物。 然后如果该生物的防御力为1或更多，则重生之。</target>
+        <target state="translated">牺牲CARDNAME：在目标生物上放置一个-1/-1指示物。 然后如果该生物的防御力为1或更多，则重生之。</target>
       </trans-unit>
       <trans-unit id="30731756-81a8-480b-938f-48c1d0cb95d7" resname="MBS·9 | Kemba's Legion | Card Name">
         <source>Kemba's Legion</source>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="30731756-81a8-480b-938f-48c1d0cb95d7" resname="MBS·9 | Kemba's Legion | Card Text | Paragraph 2">
         <source>CARDNAME can block an additional creature each combat for each Equipment attached to CARDNAME.</source>
-        <target state="translated">肯芭军团兵上每装备一个武具，便可以额外多阻挡一个生物。</target>
+        <target state="translated">CARDNAME上每装备一个武具，便可以额外多阻挡一个生物。</target>
       </trans-unit>
       <trans-unit id="dd0900e1-df78-466d-b747-33f22c273d67" resname="MBS·10 | Leonin Relic-Warder | Card Name">
         <source>Leonin Relic-Warder</source>
@@ -72,11 +72,11 @@
       </trans-unit>
       <trans-unit id="dd0900e1-df78-466d-b747-33f22c273d67" resname="MBS·10 | Leonin Relic-Warder | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may exile target artifact or enchantment.</source>
-        <target state="translated">当狮族遗宝护卫进战场时，你可以放逐目标神器或结界。</target>
+        <target state="translated">当CARDNAME进战场时，你可以放逐目标神器或结界。</target>
       </trans-unit>
       <trans-unit id="dd0900e1-df78-466d-b747-33f22c273d67" resname="MBS·10 | Leonin Relic-Warder | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return the exiled card to the battlefield under its owner's control.</source>
-        <target state="translated">当狮族遗宝护卫离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="a4a76016-96a1-40f5-9002-4b3bed65cd5c" resname="MBS·12 | Loxodon Partisan | Card Name">
         <source>Loxodon Partisan</source>
@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit id="ac76f857-faf6-482d-a82e-7ff681f8007b" resname="MBS·18 | Victory's Herald | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, attacking creatures gain flying and lifelink until end of turn.</source>
-        <target state="translated">每当胜利传令使攻击时，进行攻击的生物获得飞行与系命异能直到回合结束。（那些生物所造成的伤害会让你得到等量的生命。）</target>
+        <target state="translated">每当CARDNAME攻击时，进行攻击的生物获得飞行与系命异能直到回合结束。（那些生物所造成的伤害会让你得到等量的生命。）</target>
         <note xmlns:from="developer">中文数据来自W17（2017-04-15）；</note>
       </trans-unit>
       <trans-unit id="a879940e-6632-47c5-a30e-d29a82d16e9d" resname="MBS·19 | White Sun's Zenith | Card Name">
@@ -150,7 +150,7 @@
       </trans-unit>
       <trans-unit id="a879940e-6632-47c5-a30e-d29a82d16e9d" resname="MBS·19 | White Sun's Zenith | Card Text | Paragraph 1">
         <source>Create X 2/2 white Cat creature tokens. Shuffle CARDNAME into its owner's library.</source>
-        <target state="translated">派出X个2/2白色的猫衍生生物。将白阳当空洗入其拥有者的牌库。</target>
+        <target state="translated">派出X个2/2白色的猫衍生生物。将CARDNAME洗入其拥有者的牌库。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="a8150f78-e187-4949-9746-fec64d1675d1" resname="MBS·20 | Blue Sun's Zenith | Card Name">
@@ -160,7 +160,7 @@
       </trans-unit>
       <trans-unit id="a8150f78-e187-4949-9746-fec64d1675d1" resname="MBS·20 | Blue Sun's Zenith | Card Text | Paragraph 1">
         <source>Target player draws X cards. Shuffle CARDNAME into its owner's library.</source>
-        <target state="translated">目标牌手抓X张牌。将蓝阳当空洗入其拥有者的牌库。</target>
+        <target state="translated">目标牌手抓X张牌。将CARDNAME洗入其拥有者的牌库。</target>
         <note xmlns:from="developer">中文数据来自STA（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="b7f6b20c-9871-433c-8557-44493447e914" resname="MBS·21 | Consecrated Sphinx | Card Name">
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="15a31710-c1d6-45e4-9dbe-a75453a74da0" resname="MBS·23 | Cryptoplasm | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, you may have CARDNAME become a copy of another target creature, except it has this ability.</source>
-        <target state="translated">在你的维持开始时，你可以使隐密移型浆成为令一个目标生物的复制。 如果你如此作，则隐密移型浆获得此异能。</target>
+        <target state="translated">在你的维持开始时，你可以使CARDNAME成为令一个目标生物的复制。 如果你如此作，则CARDNAME获得此异能。</target>
       </trans-unit>
       <trans-unit id="158da0aa-8317-498b-89ed-2f84317fe256" resname="MBS·24 | Distant Memories | Card Name">
         <source>Distant Memories</source>
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="aa7084f3-9335-401f-9a62-6f131351338d" resname="MBS·28 | Neurok Commando | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may draw a card.</source>
-        <target state="translated">每当纽若克突击兵对一位牌手造成战斗伤害时，你可以抓一张牌。</target>
+        <target state="translated">每当CARDNAME对一位牌手造成战斗伤害时，你可以抓一张牌。</target>
       </trans-unit>
       <trans-unit id="673bebb4-9c82-40ca-8552-b9030e961005" resname="MBS·29 | Oculus | Card Name">
         <source>Oculus</source>
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="673bebb4-9c82-40ca-8552-b9030e961005" resname="MBS·29 | Oculus | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may draw a card.</source>
-        <target state="translated">当眼球妖从战场进入坟墓场时，你可以抓一张牌。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，你可以抓一张牌。</target>
       </trans-unit>
       <trans-unit id="fb209cf5-ac7b-4521-b488-ef72451e3a25" resname="MBS·30 | Quicksilver Geyser | Card Name">
         <source>Quicksilver Geyser</source>
@@ -276,7 +276,7 @@
       </trans-unit>
       <trans-unit id="f157d08a-7cd7-4120-a8bb-1b50fa0ba99b" resname="MBS·31 | Serum Raker | Card Text | Paragraph 2">
         <source>When CARDNAME dies, each player discards a card.</source>
-        <target state="translated">当浆液纵掠者从战场进入坟墓场时，每位牌手各弃一张牌。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，每位牌手各弃一张牌。</target>
       </trans-unit>
       <trans-unit id="9a14e2a4-484b-46e4-a5a1-c66cb13be178" resname="MBS·32 | Spire Serpent | Card Name">
         <source>Spire Serpent</source>
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="9a14e2a4-484b-46e4-a5a1-c66cb13be178" resname="MBS·32 | Spire Serpent | Card Text | Paragraph 2">
         <source>Metalcraft — As long as you control three or more artifacts, CARDNAME gets +2/+2 and can attack as though it didn't have defender.</source>
-        <target state="translated">金技～只要你操控三个或更多神器，尖塔巨蛇便得+2/+2且能视同不具守军异能地进行攻击。</target>
+        <target state="translated">金技～只要你操控三个或更多神器，CARDNAME便得+2/+2且能视同不具守军异能地进行攻击。</target>
       </trans-unit>
       <trans-unit id="bb40de7c-1905-4615-844b-4abc231fb01e" resname="MBS·33 | Steel Sabotage | Card Name">
         <source>Steel Sabotage</source>
@@ -317,7 +317,7 @@
       </trans-unit>
       <trans-unit id="6fe4fea1-bb23-46e4-b7b0-e83f8b99ce5d" resname="MBS·34 | Treasure Mage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for an artifact card with mana value 6 or greater, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">当宝物法师进战场时，你可以从你的牌库中搜寻一张总法术力费用等于或大于6的神器牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库中搜寻一张总法术力费用等于或大于6的神器牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="bdc91fc7-7927-4c5d-888a-f40cbf658866" resname="MBS·35 | Turn the Tide | Card Name">
@@ -370,7 +370,7 @@
       </trans-unit>
       <trans-unit id="03bdcf52-50b8-42c0-9665-931d83f5f314" resname="MBS·39 | Black Sun's Zenith | Card Text | Paragraph 1">
         <source>Put X -1/-1 counters on each creature. Shuffle CARDNAME into its owner's library.</source>
-        <target state="translated">在每个生物上各放置X个-1/-1指示物。将黑阳当空洗入其拥有者的牌库。</target>
+        <target state="translated">在每个生物上各放置X个-1/-1指示物。将CARDNAME洗入其拥有者的牌库。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="2a54115f-150a-4ae2-a5c7-20e2ba884dd1" resname="MBS·40 | Caustic Hound | Card Name">
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="2a54115f-150a-4ae2-a5c7-20e2ba884dd1" resname="MBS·40 | Caustic Hound | Card Text | Paragraph 1">
         <source>When CARDNAME dies, each player loses 4 life.</source>
-        <target state="translated">当蚀液猎犬从战场进入坟墓场时，每位牌手各失去4点生命。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，每位牌手各失去4点生命。</target>
       </trans-unit>
       <trans-unit id="0017de60-ee1c-4675-b04e-cdfa2c2a596e" resname="MBS·41 | Flensermite | Card Name">
         <source>Flensermite</source>
@@ -407,7 +407,7 @@
       </trans-unit>
       <trans-unit id="6d5ee9f3-80fe-43b0-be5b-0c93103e1077" resname="MBS·42 | Flesh-Eater Imp | Card Text | Paragraph 3">
         <source>Sacrifice a creature: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">牺牲一个生物：食肉小恶魔得+1/+1直到回合结束。</target>
+        <target state="translated">牺牲一个生物：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="3f7f31fb-af96-4c8c-80fa-219ebd7c3d4d" resname="MBS·44 | Gruesome Encore | Card Name">
         <source>Gruesome Encore</source>
@@ -432,7 +432,7 @@
       </trans-unit>
       <trans-unit id="cdd32ec2-02a8-41fc-bf45-c9585bb2b3ee" resname="MBS·46 | Massacre Wurm | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, creatures your opponents control get -2/-2 until end of turn.</source>
-        <target state="translated">当屠戮亚龙进战场时，由对手操控的生物得-2/-2直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，由对手操控的生物得-2/-2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="cdd32ec2-02a8-41fc-bf45-c9585bb2b3ee" resname="MBS·46 | Massacre Wurm | Card Text | Paragraph 2">
@@ -455,7 +455,7 @@
       </trans-unit>
       <trans-unit id="c035ff58-9df3-4db4-b9d0-97d58080ecfe" resname="MBS·48 | Nested Ghoul | Card Text | Paragraph 1">
         <source>Whenever a source deals damage to CARDNAME, create a 2/2 black Phyrexian Zombie creature token.</source>
-        <target state="translated">每当一个来源对巢居食尸鬼造成伤害时，派出一个2/2黑色非瑞人／灵俑衍生生物。</target>
+        <target state="translated">每当一个来源对CARDNAME造成伤害时，派出一个2/2黑色非瑞人／灵俑衍生生物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="0059d21b-0725-4806-8691-2451db36787f" resname="MBS·49 | Phyresis | Card Name">
@@ -532,7 +532,7 @@
       </trans-unit>
       <trans-unit id="8e7915d9-b941-4675-9a1b-18e579977144" resname="MBS·55 | Septic Rats | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, if defending player is poisoned, it gets +1/+1 until end of turn.</source>
-        <target state="translated">每当败血鼠攻击时，若防御牌手已中毒，则它得+1/+1直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，若防御牌手已中毒，则它得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="de42a771-4f5c-4295-b070-8cb857a0279e" resname="MBS·56 | Spread the Sickness | Card Name">
         <source>Spread the Sickness</source>
@@ -558,7 +558,7 @@
       </trans-unit>
       <trans-unit id="f8187e90-6a60-4ed0-9b3a-3a679743b7d0" resname="MBS·58 | Blisterstick Shaman | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 1 damage to any target.</source>
-        <target state="translated">当闪刺祭师进战场时，它对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="b5641730-428d-4484-866e-ec1ac669537f" resname="MBS·59 | Burn the Impure | Card Name">
         <source>Burn the Impure</source>
@@ -566,7 +566,7 @@
       </trans-unit>
       <trans-unit id="b5641730-428d-4484-866e-ec1ac669537f" resname="MBS·59 | Burn the Impure | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature. If that creature has infect, CARDNAME deals 3 damage to that creature's controller.</source>
-        <target state="translated">焚毁污物向目标生物造成3点伤害。 如果该生物具有侵染，则焚毁污物对该生物的操控者造成3点伤害。</target>
+        <target state="translated">CARDNAME向目标生物造成3点伤害。 如果该生物具有侵染，则CARDNAME对该生物的操控者造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="41b68e85-a381-441d-aa18-491f9e202a10" resname="MBS·60 | Concussive Bolt | Card Name">
         <source>Concussive Bolt</source>
@@ -574,7 +574,7 @@
       </trans-unit>
       <trans-unit id="41b68e85-a381-441d-aa18-491f9e202a10" resname="MBS·60 | Concussive Bolt | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target player or planeswalker.</source>
-        <target state="translated">震荡击对目标牌手造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="41b68e85-a381-441d-aa18-491f9e202a10" resname="MBS·60 | Concussive Bolt | Card Text | Paragraph 2">
         <source>Metalcraft — If you control three or more artifacts, creatures controlled by that player or by that planeswalker's controller can't block this turn.</source>
@@ -602,7 +602,7 @@
       </trans-unit>
       <trans-unit id="27dcb0c8-e6d5-4f6b-a74f-e495b5e42606" resname="MBS·63 | Gnathosaur | Card Text | Paragraph 1">
         <source>Sacrifice an artifact: CARDNAME gains trample until end of turn.</source>
-        <target state="translated">牺牲一个神器：强颚龙获得敏捷异能直到回合结束。</target>
+        <target state="translated">牺牲一个神器：CARDNAME获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2e220c87-1223-4998-b0e5-23e2d930fa6b" resname="MBS·64 | Goblin Wardriver | Card Name">
         <source>Goblin Wardriver</source>
@@ -624,7 +624,7 @@
       </trans-unit>
       <trans-unit id="83715873-9330-4d29-b106-cf1e6a66d1e9" resname="MBS·65 | Hellkite Igniter | Card Text | Paragraph 2">
         <source>{1}{R}: CARDNAME gets +X/+0 until end of turn, where X is the number of artifacts you control.</source>
-        <target state="translated">{1}{R}：燃焰残虐者得+X/+0直到回合结束，X为由你操控的神器数量。</target>
+        <target state="translated">{1}{R}：CARDNAME得+X/+0直到回合结束，X为由你操控的神器数量。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="1a516bce-3d2d-4e0f-afc7-27be3d88848c" resname="MBS·66 | Hero of Oxid Ridge | Card Name">
@@ -641,7 +641,7 @@
       </trans-unit>
       <trans-unit id="1a516bce-3d2d-4e0f-afc7-27be3d88848c" resname="MBS·66 | Hero of Oxid Ridge | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, creatures with power 1 or less can't block this turn.</source>
-        <target state="translated">每当奥悉达山脊勇士攻击时，力量为1或更少的生物本回合不能进行阻挡。</target>
+        <target state="translated">每当CARDNAME攻击时，力量为1或更少的生物本回合不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="9cb91ecb-1962-4cd1-80c1-c9e2485822ae" resname="MBS·67 | Into the Core | Card Name">
         <source>Into the Core</source>
@@ -666,7 +666,7 @@
       </trans-unit>
       <trans-unit id="189fea03-24db-4574-bbc2-4d3bc9e629a5" resname="MBS·69 | Kuldotha Flamefiend | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may sacrifice an artifact. If you do, CARDNAME deals 4 damage divided as you choose among any number of targets.</source>
-        <target state="translated">当库度沙炎魔进战场时，你可以牺牲一个神器。若你如此作，则库度沙炎魔对任意数量的目标造成共4点伤害，你可以任意分配。</target>
+        <target state="translated">当CARDNAME进战场时，你可以牺牲一个神器。若你如此作，则CARDNAME对任意数量的目标造成共4点伤害，你可以任意分配。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="3cda5434-c0a5-4551-8e30-b1923f0001b8" resname="MBS·70 | Kuldotha Ringleader | Card Name">
@@ -679,7 +679,7 @@
       </trans-unit>
       <trans-unit id="3cda5434-c0a5-4551-8e30-b1923f0001b8" resname="MBS·70 | Kuldotha Ringleader | Card Text | Paragraph 2">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">库度沙魁首每回合若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每回合若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="b939ded0-7033-4fee-864c-9e235d8720bb" resname="MBS·71 | Metallic Mastery | Card Name">
         <source>Metallic Mastery</source>
@@ -707,7 +707,7 @@
       </trans-unit>
       <trans-unit id="373eb109-0e30-41c1-b2df-6bc78d968890" resname="MBS·74 | Red Sun's Zenith | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to any target. If a creature dealt damage this way would die this turn, exile it instead. Shuffle CARDNAME into its owner's library.</source>
-        <target state="translated">红阳当空对目标生物或牌手造成X点伤害。 若本回合中曾以此法受到伤害的生物将置入坟墓场，则改为将它放逐。 将红阳当空洗入其拥有者的牌库。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成X点伤害。 若本回合中曾以此法受到伤害的生物将置入坟墓场，则改为将它放逐。 将CARDNAME洗入其拥有者的牌库。</target>
       </trans-unit>
       <trans-unit id="9e318b03-2aad-462b-a2a9-8b6bdf0e93d6" resname="MBS·75 | Slagstorm | Card Name">
         <source>Slagstorm</source>
@@ -715,7 +715,7 @@
       </trans-unit>
       <trans-unit id="9e318b03-2aad-462b-a2a9-8b6bdf0e93d6" resname="MBS·75 | Slagstorm | Card Text | Paragraphs">
         <source>Choose one —\n• CARDNAME deals 3 damage to each creature.\n• CARDNAME deals 3 damage to each player.</source>
-        <target state="translated">选择一项～熔滓风暴对每个生物各造成3点伤害；或熔滓风暴对每位牌手各造成3点伤害。</target>
+        <target state="translated">选择一项～CARDNAME对每个生物各造成3点伤害；或CARDNAME对每位牌手各造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="81ac77ab-e51a-4c5c-ab6b-3fb610a5fa27" resname="MBS·76 | Spiraling Duelist | Card Name">
         <source>Spiraling Duelist</source>
@@ -723,7 +723,7 @@
       </trans-unit>
       <trans-unit id="81ac77ab-e51a-4c5c-ab6b-3fb610a5fa27" resname="MBS·76 | Spiraling Duelist | Card Text | Paragraph 1">
         <source>Metalcraft — CARDNAME has double strike as long as you control three or more artifacts.</source>
-        <target state="translated">金技～只要你操控三个或更多神器，旋击斗客便具有连击异能。</target>
+        <target state="translated">金技～只要你操控三个或更多神器，CARDNAME便具有连击异能。</target>
       </trans-unit>
       <trans-unit id="26da4278-ba44-4555-8837-e24627b46533" resname="MBS·77 | Blightwidow | Card Name">
         <source>Blightwidow</source>
@@ -768,7 +768,7 @@
       </trans-unit>
       <trans-unit id="02335747-54e3-4827-ae19-4e362863da9b" resname="MBS·81 | Green Sun's Zenith | Card Text | Paragraph 1">
         <source>Search your library for a green creature card with mana value X or less, put it onto the battlefield, then shuffle. Shuffle CARDNAME into its owner's library.</source>
-        <target state="translated">从你牌库中搜寻一张法术力值等于或小于X的绿色生物牌，将之放进战场，然后洗牌。将绿阳当空洗入其拥有者的牌库。</target>
+        <target state="translated">从你牌库中搜寻一张法术力值等于或小于X的绿色生物牌，将之放进战场，然后洗牌。将CARDNAME洗入其拥有者的牌库。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="66ed14c8-38c6-4da5-a6ee-f814478161d2" resname="MBS·82 | Lead the Stampede | Card Name">
@@ -787,7 +787,7 @@
       </trans-unit>
       <trans-unit id="d9a935b4-347c-46d9-a7c5-8c5079948959" resname="MBS·83 | Melira's Keepers | Card Text | Paragraph 1">
         <source>CARDNAME can't have counters put on it.</source>
-        <target state="translated">梅梨莱护卫上不能放置指示物。</target>
+        <target state="translated">CARDNAME上不能放置指示物。</target>
       </trans-unit>
       <trans-unit id="edbb5778-fa9a-4a1f-be4f-627630c3e3ca" resname="MBS·84 | Mirran Mettle | Card Name">
         <source>Mirran Mettle</source>
@@ -811,7 +811,7 @@
       </trans-unit>
       <trans-unit id="cb135aa1-9f46-4d60-a1a4-97aa0e852ced" resname="MBS·85 | Phyrexian Hydra | Card Text | Paragraph 2">
         <source>If damage would be dealt to CARDNAME, prevent that damage. Put a -1/-1 counter on CARDNAME for each 1 damage prevented this way.</source>
-        <target state="translated">若非瑞克西亚多头龙将受到伤害，则防止该伤害。 每以此法防止1点伤害，就在非瑞克西亚多头龙上放置一个-1/-1指示物。</target>
+        <target state="translated">若CARDNAME将受到伤害，则防止该伤害。 每以此法防止1点伤害，就在CARDNAME上放置一个-1/-1指示物。</target>
       </trans-unit>
       <trans-unit id="1a2918d6-50f7-4bc1-aef2-930a5c84be8d" resname="MBS·86 | Pistus Strike | Card Name">
         <source>Pistus Strike</source>
@@ -836,7 +836,7 @@
       </trans-unit>
       <trans-unit id="b67c8bea-d4c9-4759-8a37-10546b234472" resname="MBS·88 | Praetor's Counsel | Card Text | Paragraph 1">
         <source>Return all cards from your graveyard to your hand. Exile CARDNAME. You have no maximum hand size for the rest of the game.</source>
-        <target state="translated">将所有牌从你的坟墓场移回你手上。放逐魔判官商议。在本盘游戏接下来的时段，你的手牌数量没有上限。</target>
+        <target state="translated">将所有牌从你的坟墓场移回你手上。放逐CARDNAME。在本盘游戏接下来的时段，你的手牌数量没有上限。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="12c597b9-5024-42bd-b500-5ef6a3accda6" resname="MBS·89 | Quilled Slagwurm | Card Name">
@@ -853,7 +853,7 @@
       </trans-unit>
       <trans-unit id="7a81dfcf-a7c4-41a4-b1e9-b9e9c3f75742" resname="MBS·90 | Rot Wolf | Card Text | Paragraph 2">
         <source>Whenever a creature dealt damage by CARDNAME this turn dies, you may draw a card.</source>
-        <target state="translated">每当本回合曾受到腐臭狼伤害的生物置入坟墓场时，你可以抓一张牌。</target>
+        <target state="translated">每当本回合曾受到CARDNAME伤害的生物置入坟墓场时，你可以抓一张牌。</target>
       </trans-unit>
       <trans-unit id="c0e4d333-78f7-4710-9b26-36e285c0d9f8" resname="MBS·91 | Tangle Mantis | Card Name">
         <source>Tangle Mantis</source>
@@ -869,7 +869,7 @@
       </trans-unit>
       <trans-unit id="5d393da0-4cb6-4ae8-b747-8e6d0fa7f55a" resname="MBS·92 | Thrun, the Last Troll | Card Text | Paragraph 1">
         <source>This spell can't be countered.</source>
-        <target state="translated">最终巨魔图伦不能被反击。</target>
+        <target state="translated">CARDNAME不能被反击。</target>
       </trans-unit>
       <trans-unit id="5d393da0-4cb6-4ae8-b747-8e6d0fa7f55a" resname="MBS·92 | Thrun, the Last Troll | Card Text | Paragraph 2">
         <source>Hexproof (This creature can't be the target of spells or abilities your opponents control.)</source>
@@ -897,7 +897,7 @@
       </trans-unit>
       <trans-unit id="0cc13aee-5a74-4dab-a6af-7dc31255981d" resname="MBS·94 | Viridian Corrupter | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target artifact.</source>
-        <target state="translated">当暗碧族腐化师进战场时，消灭目标神器。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标神器。</target>
       </trans-unit>
       <trans-unit id="129fa334-f561-4fbd-9f51-2fa044b674e1" resname="MBS·95 | Viridian Emissary | Card Name">
         <source>Viridian Emissary</source>
@@ -906,7 +906,7 @@
       </trans-unit>
       <trans-unit id="129fa334-f561-4fbd-9f51-2fa044b674e1" resname="MBS·95 | Viridian Emissary | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">当暗碧族密使死去时，你可以从你的牌库中搜寻一张基本地牌，将之横置放进战场，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME死去时，你可以从你的牌库中搜寻一张基本地牌，将之横置放进战场，然后将你的牌库洗牌。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="0f3c8470-1cc8-4383-8782-c022867d46e8" resname="MBS·97 | Tezzeret, Agent of Bolas | Card Name">
@@ -931,7 +931,7 @@
       </trans-unit>
       <trans-unit id="69959c54-1350-4c64-8e5a-fc8447bb979c" resname="MBS·98 | Bladed Sentinel | Card Text | Paragraph 1">
         <source>{W}: CARDNAME gains vigilance until end of turn.</source>
-        <target state="translated">{W}：锋刃哨兵获得警戒异能直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME获得警戒异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7928bb14-7631-4830-a756-26d1ea832ba2" resname="MBS·99 | Blightsteel Colossus | Card Name">
         <source>Blightsteel Colossus</source>
@@ -945,7 +945,7 @@
       </trans-unit>
       <trans-unit id="7928bb14-7631-4830-a756-26d1ea832ba2" resname="MBS·99 | Blightsteel Colossus | Card Text | Paragraph 2">
         <source>If CARDNAME would be put into a graveyard from anywhere, reveal CARDNAME and shuffle it into its owner's library instead.</source>
-        <target state="translated">如果歼铁巨像将从任何区域置入坟墓场，则改为展示歼铁巨像，并将它洗入其拥有者的牌库。</target>
+        <target state="translated">如果CARDNAME将从任何区域置入坟墓场，则改为展示CARDNAME，并将它洗入其拥有者的牌库。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="e14613bc-0083-48d6-ac10-b2839657e84b" resname="MBS·100 | Bonehoard | Card Name">
@@ -1003,7 +1003,7 @@
       </trans-unit>
       <trans-unit id="05414ba7-0f59-4c73-931c-e599d149d3ba" resname="MBS·103 | Core Prowler | Card Text | Paragraph 2">
         <source>When CARDNAME dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</source>
-        <target state="translated">当核心游掠者从战场进入坟墓场时，增殖。 （你选择任意数量其上有指示物的永久物和／或牌手，然后在其上放置一个它已有之类别的指示物。）</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，增殖。 （你选择任意数量其上有指示物的永久物和／或牌手，然后在其上放置一个它已有之类别的指示物。）</target>
       </trans-unit>
       <trans-unit id="ba60731f-ed96-4eba-b2de-94965745f35a" resname="MBS·104 | Darksteel Plate | Card Name">
         <source>Darksteel Plate</source>
@@ -1039,7 +1039,7 @@
       </trans-unit>
       <trans-unit id="55d54f08-53f0-41b2-8b86-8244515224eb" resname="MBS·106 | Dross Ripper | Card Text | Paragraph 1">
         <source>{2}{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{2}{B}：蔓非沼夺魂犬得+1/+1直到回合结束。</target>
+        <target state="translated">{2}{B}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="cbd47a02-5a6e-4daa-9877-f65c8639c569" resname="MBS·107 | Flayer Husk | Card Name">
         <source>Flayer Husk</source>
@@ -1068,7 +1068,7 @@
       </trans-unit>
       <trans-unit id="5970d053-e2e8-471b-b342-2e9b9177724c" resname="MBS·108 | Gust-Skimmer | Card Text | Paragraph 1">
         <source>{U}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">{U}：飞掠风虫获得飞行异能直到回合结束。</target>
+        <target state="translated">{U}：CARDNAME获得飞行异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="49b913f3-6581-45ae-9cdb-274c2ccd8899" resname="MBS·109 | Hexplate Golem | Card Name">
@@ -1083,7 +1083,7 @@
       </trans-unit>
       <trans-unit id="2d1ea522-a0f6-45a8-8985-6fcca95d60cc" resname="MBS·110 | Ichor Wellspring | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield or is put into a graveyard from the battlefield, draw a card.</source>
-        <target state="translated">当脓水涌泉进战场或从战场进入坟墓场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场或从战场进入坟墓场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自BRR（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="393454c2-b256-4a6e-9bc2-56a47cab5073" resname="MBS·111 | Knowledge Pool | Card Name">
@@ -1092,11 +1092,11 @@
       </trans-unit>
       <trans-unit id="393454c2-b256-4a6e-9bc2-56a47cab5073" resname="MBS·111 | Knowledge Pool | Card Text | Paragraph 1">
         <source>Imprint — When CARDNAME enters the battlefield, each player exiles the top three cards of their library.</source>
-        <target state="translated">压印～当知识之池进战场时，每位牌手各放逐其牌库顶的三张牌。</target>
+        <target state="translated">压印～当CARDNAME进战场时，每位牌手各放逐其牌库顶的三张牌。</target>
       </trans-unit>
       <trans-unit id="393454c2-b256-4a6e-9bc2-56a47cab5073" resname="MBS·111 | Knowledge Pool | Card Text | Paragraph 2">
         <source>Whenever a player casts a spell from their hand, that player exiles it. If the player does, they may cast a spell from among other cards exiled with CARDNAME without paying its mana cost.</source>
-        <target state="translated">每当一位牌手从其手牌中施放咒语时，该牌手将它放逐。 若该牌手如此作，该牌手可以施放另一张以知识之池放逐的非地牌，且不须支付其法术力费用。</target>
+        <target state="translated">每当一位牌手从其手牌中施放咒语时，该牌手将它放逐。 若该牌手如此作，该牌手可以施放另一张以CARDNAME放逐的非地牌，且不须支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="45350c4b-def2-4b93-ab66-9f32bd426cff" resname="MBS·112 | Lumengrid Gargoyle | Card Name">
         <source>Lumengrid Gargoyle</source>
@@ -1114,7 +1114,7 @@
       </trans-unit>
       <trans-unit id="5ed2f7dc-3ada-4490-8c1f-1d03bd4840f5" resname="MBS·113 | Magnetic Mine | Card Text | Paragraph 1">
         <source>Whenever another artifact is put into a graveyard from the battlefield, CARDNAME deals 2 damage to that artifact's controller.</source>
-        <target state="translated">每当另一个神器从战场进入坟墓场时，磁力地雷对该神器的操控者造成2点伤害。</target>
+        <target state="translated">每当另一个神器从战场进入坟墓场时，CARDNAME对该神器的操控者造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="cade6dde-1edf-44b8-a37e-a22f9207db51" resname="MBS·114 | Mirrorworks | Card Name">
         <source>Mirrorworks</source>
@@ -1151,7 +1151,7 @@
       </trans-unit>
       <trans-unit id="507979fd-5459-4933-8707-adc303750ce9" resname="MBS·116 | Myr Sire | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a 1/1 colorless Phyrexian Myr artifact creature token.</source>
-        <target state="translated">当秘耳君父死去时，派出一个1/1无色秘耳衍生神器生物。</target>
+        <target state="translated">当CARDNAME死去时，派出一个1/1无色秘耳衍生神器生物。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="71a76840-47f7-4e1e-b68b-00cb7da98cdf" resname="MBS·117 | Myr Turbine | Card Name">
@@ -1176,7 +1176,7 @@
       </trans-unit>
       <trans-unit id="eff75f16-413c-4618-b766-67bd8ff4d161" resname="MBS·118 | Myr Welder | Card Text | Paragraph 2">
         <source>CARDNAME has all activated abilities of all cards exiled with it.</source>
-        <target state="translated">秘耳焊工具有所有被它放逐之牌的所有起动式异能。</target>
+        <target state="translated">CARDNAME具有所有被它放逐之牌的所有起动式异能。</target>
       </trans-unit>
       <trans-unit id="55710eb0-ae16-420a-9f99-6a245e0f4c14" resname="MBS·119 | Peace Strider | Card Name">
         <source>Peace Strider</source>
@@ -1185,7 +1185,7 @@
       </trans-unit>
       <trans-unit id="55710eb0-ae16-420a-9f99-6a245e0f4c14" resname="MBS·119 | Peace Strider | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 3 life.</source>
-        <target state="translated">当和平神行客进战场时，你获得3点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得3点生命。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="f9112062-1a1b-462b-85d3-821ea91778b8" resname="MBS·120 | Phyrexian Digester | Card Name">
@@ -1206,7 +1206,7 @@
       </trans-unit>
       <trans-unit id="a9f6ed6c-8095-4a81-b428-36b2916eec88" resname="MBS·121 | Phyrexian Juggernaut | Card Text | Paragraph 2">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">非瑞克西亚攻城巨车每回合若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每回合若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="7c7bec21-61b0-4e72-848b-82f38e1910e0" resname="MBS·122 | Phyrexian Revoker | Card Name">
         <source>Phyrexian Revoker</source>
@@ -1215,7 +1215,7 @@
       </trans-unit>
       <trans-unit id="7c7bec21-61b0-4e72-848b-82f38e1910e0" resname="MBS·122 | Phyrexian Revoker | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a nonland card name.</source>
-        <target state="translated">于非瑞克西亚断念妖进战场时，选择一个非地牌的名称。</target>
+        <target state="translated">于CARDNAME进战场时，选择一个非地牌的名称。</target>
         <note xmlns:from="developer">中文数据来自BRR（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="7c7bec21-61b0-4e72-848b-82f38e1910e0" resname="MBS·122 | Phyrexian Revoker | Card Text | Paragraph 2">
@@ -1230,7 +1230,7 @@
       </trans-unit>
       <trans-unit id="88b449a5-634f-47b1-a757-86a6849f6777" resname="MBS·123 | Pierce Strider | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent loses 3 life.</source>
-        <target state="translated">当穿刺神行客进战场时，目标对手失去3点生命。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手失去3点生命。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="cf6a88da-0b51-42d1-aa63-8c4b5e5c03c3" resname="MBS·124 | Piston Sledge | Card Name">
@@ -1239,7 +1239,7 @@
       </trans-unit>
       <trans-unit id="cf6a88da-0b51-42d1-aa63-8c4b5e5c03c3" resname="MBS·124 | Piston Sledge | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, attach it to target creature you control.</source>
-        <target state="translated">当活塞锤进战场时，将它装备在目标由你操控的生物上。</target>
+        <target state="translated">当CARDNAME进战场时，将它装备在目标由你操控的生物上。</target>
       </trans-unit>
       <trans-unit id="cf6a88da-0b51-42d1-aa63-8c4b5e5c03c3" resname="MBS·124 | Piston Sledge | Card Text | Paragraph 2">
         <source>Equipped creature gets +3/+1.</source>
@@ -1268,7 +1268,7 @@
       </trans-unit>
       <trans-unit id="4dd84701-857e-4948-8cb8-39b8a321a177" resname="MBS·126 | Psychosis Crawler | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of cards in your hand.</source>
-        <target state="translated">变态爬虫的力量和防御力各等同于你的手牌数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你的手牌数量。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="4dd84701-857e-4948-8cb8-39b8a321a177" resname="MBS·126 | Psychosis Crawler | Card Text | Paragraph 2">
@@ -1282,7 +1282,7 @@
       </trans-unit>
       <trans-unit id="2019a1b4-7f88-4c8a-9ef4-bdfbd2f9e9cc" resname="MBS·127 | Razorfield Rhino | Card Text | Paragraph 1">
         <source>Metalcraft — CARDNAME gets +2/+2 as long as you control three or more artifacts.</source>
-        <target state="translated">金技～只要你操控三个或更多神器，锐草原犀牛便得+2/+2。</target>
+        <target state="translated">金技～只要你操控三个或更多神器，CARDNAME便得+2/+2。</target>
       </trans-unit>
       <trans-unit id="f2228ee5-507a-46ba-82ae-72ba3088a568" resname="MBS·128 | Rusted Slasher | Card Name">
         <source>Rusted Slasher</source>
@@ -1290,7 +1290,7 @@
       </trans-unit>
       <trans-unit id="f2228ee5-507a-46ba-82ae-72ba3088a568" resname="MBS·128 | Rusted Slasher | Card Text | Paragraph 1">
         <source>Sacrifice an artifact: Regenerate CARDNAME.</source>
-        <target state="translated">牺牲一个神器：重生锈斑斩击兽。</target>
+        <target state="translated">牺牲一个神器：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="478c1a5b-237b-4ecb-be73-3c6dafd5ae53" resname="MBS·129 | Shimmer Myr | Card Name">
         <source>Shimmer Myr</source>
@@ -1313,11 +1313,11 @@
       </trans-unit>
       <trans-unit id="bb41269f-007d-43ba-a682-d3929cc69696" resname="MBS·130 | Shriekhorn | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three charge counters on it.</source>
-        <target state="translated">悲鸣号角进战场时上面有三个充电指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有三个充电指示物。</target>
       </trans-unit>
       <trans-unit id="bb41269f-007d-43ba-a682-d3929cc69696" resname="MBS·130 | Shriekhorn | Card Text | Paragraph 2">
         <source>{T}, Remove a charge counter from CARDNAME: Target player mills two cards.</source>
-        <target state="translated">{T}，从悲鸣号角上移去一个充电指示物：目标牌手将其牌库顶的两张牌置入其坟墓场。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个充电指示物：目标牌手将其牌库顶的两张牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="be065962-f2ed-4ab9-be6b-bfc66d63ff4e" resname="MBS·131 | Signal Pest | Card Name">
         <source>Signal Pest</source>
@@ -1329,7 +1329,7 @@
       </trans-unit>
       <trans-unit id="be065962-f2ed-4ab9-be6b-bfc66d63ff4e" resname="MBS·131 | Signal Pest | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked except by creatures with flying or reach.</source>
-        <target state="translated">只有具飞行或延势异能的生物才能阻挡信号害虫。</target>
+        <target state="translated">只有具飞行或延势异能的生物才能阻挡CARDNAME。</target>
       </trans-unit>
       <trans-unit id="d1dba839-bd1e-4ce8-ab90-005eb1f0102e" resname="MBS·132 | Silverskin Armor | Card Name">
         <source>Silverskin Armor</source>
@@ -1370,12 +1370,12 @@
       </trans-unit>
       <trans-unit id="7a2c0735-1816-489b-9793-89d1060d78f7" resname="MBS·134 | Sphere of the Suns | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped and with three charge counters on it.</source>
-        <target state="translated">五阳法球须横置进战场且上面有三个充电指示物。</target>
+        <target state="translated">CARDNAME须横置进战场且上面有三个充电指示物。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="7a2c0735-1816-489b-9793-89d1060d78f7" resname="MBS·134 | Sphere of the Suns | Card Text | Paragraph 2">
         <source>{T}, Remove a charge counter from CARDNAME: Add one mana of any color.</source>
-        <target state="translated">{T}，从五阳法球上移去一个充电指示物：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个充电指示物：加一点任意颜色的法术力到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="fc820134-ae9a-4c99-a869-cee7f1f6d79b" resname="MBS·135 | Spin Engine | Card Name">
@@ -1384,7 +1384,7 @@
       </trans-unit>
       <trans-unit id="fc820134-ae9a-4c99-a869-cee7f1f6d79b" resname="MBS·135 | Spin Engine | Card Text | Paragraph 1">
         <source>{R}: Target creature can't block CARDNAME this turn.</source>
-        <target state="translated">{R}：目标生物本回合中不能阻挡旋转引擎。</target>
+        <target state="translated">{R}：目标生物本回合中不能阻挡CARDNAME。</target>
       </trans-unit>
       <trans-unit id="59313b00-ac75-484a-ad74-db9d8960c0f8" resname="MBS·136 | Spine of Ish Sah | Card Name">
         <source>Spine of Ish Sah</source>
@@ -1393,12 +1393,12 @@
       </trans-unit>
       <trans-unit id="59313b00-ac75-484a-ad74-db9d8960c0f8" resname="MBS·136 | Spine of Ish Sah | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, destroy target permanent.</source>
-        <target state="translated">当伊沙脊柱进战场时，消灭目标永久物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭目标永久物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="59313b00-ac75-484a-ad74-db9d8960c0f8" resname="MBS·136 | Spine of Ish Sah | Card Text | Paragraph 2">
         <source>When CARDNAME is put into a graveyard from the battlefield, return CARDNAME to its owner's hand.</source>
-        <target state="translated">当伊沙脊柱从战场进入坟墓场时，将伊沙脊柱移回其拥有者的手上。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，将CARDNAME移回其拥有者的手上。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="d0d7ff8f-7733-4323-8575-c50b3e730dbc" resname="MBS·137 | Strandwalker | Card Name">
@@ -1443,7 +1443,7 @@
       </trans-unit>
       <trans-unit id="8ed3c301-8d8e-45fe-902a-af03a79525be" resname="MBS·139 | Tangle Hulk | Card Text | Paragraph 1">
         <source>{2}{G}: Regenerate CARDNAME.</source>
-        <target state="translated">{2}{G}：重生铬铜林巨汉。</target>
+        <target state="translated">{2}{G}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="7a3bb4ab-6fe7-4926-a929-3e37691f287a" resname="MBS·141 | Titan Forge | Card Name">
         <source>Titan Forge</source>
@@ -1451,11 +1451,11 @@
       </trans-unit>
       <trans-unit id="7a3bb4ab-6fe7-4926-a929-3e37691f287a" resname="MBS·141 | Titan Forge | Card Text | Paragraph 1">
         <source>{3}, {T}: Put a charge counter on CARDNAME.</source>
-        <target state="translated">{3}，{T}：在泰坦锻冶炉上放置一个充电指示物。</target>
+        <target state="translated">{3}，{T}：在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="7a3bb4ab-6fe7-4926-a929-3e37691f287a" resname="MBS·141 | Titan Forge | Card Text | Paragraph 2">
         <source>{T}, Remove three charge counters from CARDNAME: Create a 9/9 colorless Golem artifact creature token.</source>
-        <target state="translated">{T}，从泰坦锻冶炉上移去三个充电指示物：将一个9/9无色魔像衍生神器生物放进战场。</target>
+        <target state="translated">{T}，从CARDNAME上移去三个充电指示物：将一个9/9无色魔像衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="8b7e986f-5b28-46d2-8ec2-ee719b07dbfd" resname="MBS·142 | Training Drone | Card Name">
         <source>Training Drone</source>
@@ -1463,7 +1463,7 @@
       </trans-unit>
       <trans-unit id="8b7e986f-5b28-46d2-8ec2-ee719b07dbfd" resname="MBS·142 | Training Drone | Card Text | Paragraph 1">
         <source>CARDNAME can't attack or block unless it's equipped.</source>
-        <target state="translated">除非受训奴兽佩带武具，否则它不能进行攻击或阻挡。</target>
+        <target state="translated">除非CARDNAME佩带武具，否则它不能进行攻击或阻挡。</target>
       </trans-unit>
       <trans-unit id="2154e3c6-ab69-4661-b1ef-a50cc0f6f763" resname="MBS·143 | Viridian Claw | Card Name">
         <source>Viridian Claw</source>
@@ -1483,7 +1483,7 @@
       </trans-unit>
       <trans-unit id="bee9b696-5203-4235-9bdd-f2a389d69813" resname="MBS·144 | Contested War Zone | Card Text | Paragraph 1">
         <source>Whenever a creature deals combat damage to you, that creature's controller gains control of CARDNAME.</source>
-        <target state="translated">每当一个生物对你造成战斗伤害时，该生物的操控者获得争斗战区之操控权。</target>
+        <target state="translated">每当一个生物对你造成战斗伤害时，该生物的操控者获得CARDNAME之操控权。</target>
       </trans-unit>
       <trans-unit id="bee9b696-5203-4235-9bdd-f2a389d69813" resname="MBS·144 | Contested War Zone | Card Text | Paragraph 2">
         <source>{T}: Add {C}.</source>
@@ -1503,7 +1503,7 @@
       </trans-unit>
       <trans-unit id="ec50c1c3-885e-47d3-ada7-cc0edbf09df1" resname="MBS·145 | Inkmoth Nexus | Card Text | Paragraph 2">
         <source>{1}: CARDNAME becomes a 1/1 Phyrexian Blinkmoth artifact creature with flying and infect until end of turn. It's still a land. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</source>
-        <target state="translated">{1}：墨蛾连结点成为1/1，具飞行与侵染异能的光蛾神器生物直到回合结束。 它仍然是地。 （它会以-1/-1指示物的方式对生物造成伤害，并以中毒指示物的方式对牌手造成伤害。）</target>
+        <target state="translated">{1}：CARDNAME成为1/1，具飞行与侵染异能的光蛾神器生物直到回合结束。 它仍然是地。 （它会以-1/-1指示物的方式对生物造成伤害，并以中毒指示物的方式对牌手造成伤害。）</target>
       </trans-unit>
       <trans-unit id="8829efa0-498a-43ca-91aa-f9caeeafe298" resname="PMBS·8★ | Hero of Bladehold | Card Name">
         <source>Hero of Bladehold</source>
@@ -1517,7 +1517,7 @@
       </trans-unit>
       <trans-unit id="8829efa0-498a-43ca-91aa-f9caeeafe298" resname="PMBS·8★ | Hero of Bladehold | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking.</source>
-        <target state="translated">每当锐锋城塞勇士攻击时，派出两个1/1白色士兵衍生生物，其为横置且正进行攻击。</target>
+        <target state="translated">每当CARDNAME攻击时，派出两个1/1白色士兵衍生生物，其为横置且正进行攻击。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="d9a8a187-c479-429c-b0ef-c98153ffa5e5" resname="PMBS·14★ | Mirran Crusader | Card Name">
@@ -1557,7 +1557,7 @@
       </trans-unit>
       <trans-unit id="f1abeca7-0a9c-49ae-9042-9899829e74a3" resname="PMBS·140★ | Thopter Assembly | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if you control no Thopters other than CARDNAME, return CARDNAME to its owner's hand and create five 1/1 colorless Thopter artifact creature tokens with flying.</source>
-        <target state="translated">在你的维持开始时，若你除组装振翼机以外未操控其他振翼机，则将组装振翼机移回其拥有者手上，并派出五个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
+        <target state="translated">在你的维持开始时，若你除CARDNAME以外未操控其他振翼机，则将CARDNAME移回其拥有者手上，并派出五个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
     </body>

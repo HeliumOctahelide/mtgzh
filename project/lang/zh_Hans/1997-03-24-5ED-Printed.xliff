@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="fe9ebe90-dad9-44b0-a2fa-13fc77953502" resname="5ED·4 | Angry Mob | Card Text | Paragraph 2">
         <source>During your turn, CARDNAME has power and toughness each equal to 2 plus the number of swamps all opponents control. During other turns, CARDNAME has power and toughness each equal to 2.</source>
-        <target state="translated">在你的回合中，忿怒的暴民之力量和防御力皆等于所有对手所操控的沼泽数加2。在其他回合中，忿怒的暴民之力量和防御力皆等于2。</target>
+        <target state="translated">在你的回合中，CARDNAME之力量和防御力皆等于所有对手所操控的沼泽数加2。在其他回合中，CARDNAME之力量和防御力皆等于2。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="8d7f102d-18ff-420b-9b0b-323daad759de" resname="5ED·5 | Animate Wall | Card Name">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="f6ff7626-de7d-443a-8eb7-fccaba6f2336" resname="5ED·12 | Blinking Spirit | Card Text | Paragraph 1">
         <source>o0: Return CARDNAME to owner's hand.</source>
-        <target state="translated">o0：将闪动精灵移回拥有者手中。</target>
+        <target state="translated">o0：将CARDNAME移回拥有者手中。</target>
       </trans-unit>
       <trans-unit id="0afcbd6d-2b83-4393-9fc8-fe91f86117fe" resname="5ED·13 | Brainwash | Card Name">
         <source>Brainwash</source>
@@ -209,7 +209,7 @@
       </trans-unit>
       <trans-unit id="d57621be-3420-49f5-87a3-a9f66fc7c2e1" resname="5ED·23 | D'Avenant Archer | Card Text | Paragraphs">
         <source>oc\nT: CARDNAME deals 1 damage to target attacking or blocking creature.</source>
-        <target state="translated">ocT：阿维农箭手对目标攻击或阻挡的生物造成1点伤害。</target>
+        <target state="translated">ocT：CARDNAME对目标攻击或阻挡的生物造成1点伤害。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="31f70687-1d96-4d85-bed6-f08edef223cd" resname="5ED·24 | Death Speakers | Card Name">
@@ -267,7 +267,7 @@
       </trans-unit>
       <trans-unit id="d28234a6-0e6b-4555-b5f9-edcc7b29194b" resname="5ED·30 | Eye for an Eye | Card Text | Paragraphs">
         <source>Play only when a creature, spell, or effect assigns damage to you. CARDNAME deals an equal amount of damage to that source's controller.</source>
-        <target state="translated">只能在有生物、咒语，或特效对你造成伤害时使用。\n以眼还眼对该来源的操控者造成等量的伤害。</target>
+        <target state="translated">只能在有生物、咒语，或特效对你造成伤害时使用。\nCARDNAME对该来源的操控者造成等量的伤害。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="ab8eb77b-cdf7-44c6-8dce-898cfa173d66" resname="5ED·31 | Greater Realm of Preservation | Card Name">
@@ -302,7 +302,7 @@
       </trans-unit>
       <trans-unit id="f26fc403-b8af-499a-8cbc-4077ff97b8b0" resname="5ED·34 | Hipparion | Card Text | Paragraph 1">
         <source>CARDNAME cannot be assigned to block any creature with power 3 or greater unless you pay an additional o1.</source>
-        <target state="translated">除非你额外付出o1，否则三趾马不能阻挡任何力量大于或等于3的生物。</target>
+        <target state="translated">除非你额外付出o1，否则CARDNAME不能阻挡任何力量大于或等于3的生物。</target>
       </trans-unit>
       <trans-unit id="f9f938d4-5964-4f55-a2ce-0ca7e25fe565" resname="5ED·35 | Holy Strength | Card Name">
         <source>Holy Strength</source>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="bb11e16f-edf5-4e0e-862b-b055fd800682" resname="5ED·41 | Justice | Card Text | Paragraphs">
         <source>During your upkeep, pay o\nWo\nW or bury CARDNAME.\nWhenever any red creature or spell assigns damage, CARDNAME deals an equal amount of damage to that creature's or spell's controller.</source>
-        <target state="translated">在你的维持阶段付出oWoW，否则埋葬正义。\n当任何红色生物或咒语造成伤害时，正义对该生物或咒语的操控者造成等量的伤害。</target>
+        <target state="translated">在你的维持阶段付出oWoW，否则埋葬CARDNAME。\n当任何红色生物或咒语造成伤害时，CARDNAME对该生物或咒语的操控者造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="c7cd8fd6-f30d-4e79-af68-688c2cfd39ea" resname="5ED·42 | Karma | Card Name">
         <source>Karma</source>
@@ -372,7 +372,7 @@
       </trans-unit>
       <trans-unit id="c7cd8fd6-f30d-4e79-af68-688c2cfd39ea" resname="5ED·42 | Karma | Card Text | Paragraph 1">
         <source>During each player's upkeep, CARDNAME deals to that player an amount of damage equal to the number of swamps he or she controls.</source>
-        <target state="translated">在每个玩家的维持阶段，业障对该玩家造成与他所操控的沼泽数目等量的伤害。</target>
+        <target state="translated">在每个玩家的维持阶段，CARDNAME对该玩家造成与他所操控的沼泽数目等量的伤害。</target>
       </trans-unit>
       <trans-unit id="cf81644f-6a93-4183-9f71-c3505cca6db4" resname="5ED·43 | Kismet | Card Name">
         <source>Kismet</source>
@@ -389,7 +389,7 @@
       </trans-unit>
       <trans-unit id="bafc9583-d16c-4a3b-88c5-2938038784bc" resname="5ED·44 | Kjeldoran Royal Guard | Card Text | Paragraphs">
         <source>oc\nT: Redirect from you to CARDNAME all combat damage dealt by unblocked creatures this turn.</source>
-        <target state="translated">ocT：将本回合未被阻挡的生物对你造成的所有战斗伤害，转移到奇亚多朗皇家护卫身上。</target>
+        <target state="translated">ocT：将本回合未被阻挡的生物对你造成的所有战斗伤害，转移到CARDNAME身上。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="8c1f4c4d-dbb6-42b9-a56f-5ee119f68cf6" resname="5ED·45 | Kjeldoran Skycaptain | Card Name">
@@ -446,7 +446,7 @@
       </trans-unit>
       <trans-unit id="b3a7836f-5a67-4915-8c59-0dd02f8bc0a9" resname="5ED·51 | Personal Incarnation | Card Text | Paragraphs">
         <source>CARDNAME's owner may redirect any amount of damage from it to himself or herself.\nIf CARDNAME is put into any graveyard from play, its owner loses half his or her life, rounded up.</source>
-        <target state="translated">护持圣者的拥有者可以将它所受到的伤害转移到自己身上。如果护持圣者被从场上放至坟墓场，它的拥有者失去一半生命，小数点以下无条件进位。</target>
+        <target state="translated">CARDNAME的拥有者可以将它所受到的伤害转移到自己身上。如果CARDNAME被从场上放至坟墓场，它的拥有者失去一半生命，小数点以下无条件进位。</target>
       </trans-unit>
       <trans-unit id="18243ac8-6097-4f2c-8064-3dab48038e4a" resname="5ED·52 | Pikemen | Card Name">
         <source>Pikemen</source>
@@ -465,7 +465,7 @@
       </trans-unit>
       <trans-unit id="24b8ce55-2fb1-4330-9db4-146a120aed81" resname="5ED·53 | Prismatic Ward | Card Text | Paragraphs">
         <source>When you play CARDNAME, choose a color.\nAll damage dealt to enchanted creature by sources of the chosen color is reduced to 0.</source>
-        <target state="translated">当你施放虹彩守护时，选择一种颜色。所有来自该颜色来源对受此结界的生物所造成的伤害都减少至0。</target>
+        <target state="translated">当你施放CARDNAME时，选择一种颜色。所有来自该颜色来源对受此结界的生物所造成的伤害都减少至0。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="b0bd3587-301e-49ea-a589-1091c880145b" resname="5ED·54 | Repentant Blacksmith | Card Name">
@@ -518,7 +518,7 @@
       </trans-unit>
       <trans-unit id="f2de654e-ee5c-4ae6-bd4c-c564ed6a5e83" resname="5ED·59 | Seraph | Card Text | Paragraph 2">
         <source>Whenever any creature CARDNAME damaged this turn is put into any graveyard, put that creature into play under your control at end of turn. Bury the creature if you lose control of CARDNAME.</source>
-        <target state="translated">当有任何生物在本回合受过六翼天使的伤害，并被放至坟墓场，则在回合结束时，将此生物放回场上，由你操控。如果你不再操控六翼天使，则埋葬此生物。</target>
+        <target state="translated">当有任何生物在本回合受过CARDNAME的伤害，并被放至坟墓场，则在回合结束时，将此生物放回场上，由你操控。如果你不再操控CARDNAME，则埋葬此生物。</target>
       </trans-unit>
       <trans-unit id="c92bb33d-567c-4504-8e3c-5152fb61d100" resname="5ED·60 | Serra Bestiary | Card Name">
         <source>Serra Bestiary</source>
@@ -526,7 +526,7 @@
       </trans-unit>
       <trans-unit id="c92bb33d-567c-4504-8e3c-5152fb61d100" resname="5ED·60 | Serra Bestiary | Card Text | Paragraphs">
         <source>During your upkeep, pay o\nWo\nW or bury CARDNAME.\nEnchanted creature cannot attack, block, or play any ability that includes oc\nT in its activation cost.</source>
-        <target state="translated">在你的维持阶段，支付oWoW，否则埋葬撒拉的兽栏。受此结界的生物不能攻击、阻挡，或使用启动费用中含有ocT的任何异能。</target>
+        <target state="translated">在你的维持阶段，支付oWoW，否则埋葬CARDNAME。受此结界的生物不能攻击、阻挡，或使用启动费用中含有ocT的任何异能。</target>
       </trans-unit>
       <trans-unit id="a48d282d-a777-4587-ab23-c30a4dba0494" resname="5ED·61 | Serra Paladin | Card Name">
         <source>Serra Paladin</source>
@@ -614,7 +614,7 @@
       </trans-unit>
       <trans-unit id="79d6b89e-f24a-4d32-a6f7-8466f46d9ad0" resname="5ED·70 | Aether Storm | Card Text | Paragraph 2">
         <source>Any player may pay 4 life to bury Æther Storm.</source>
-        <target state="translated">任何玩家可支付4点生命以埋葬乙太风暴。</target>
+        <target state="translated">任何玩家可支付4点生命以埋葬CARDNAME。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="692bd3dd-4aa8-44a8-9f96-fd6e8698b6a2" resname="5ED·71 | Air Elemental | Card Name">
@@ -632,7 +632,7 @@
       </trans-unit>
       <trans-unit id="54642f0e-2d5f-49eb-8181-054c84038072" resname="5ED·72 | Anti-Magic Aura | Card Text | Paragraph 1">
         <source>Enchanted creature cannot be the target of enchantments, instants, or sorceries. This effect does not bury CARDNAME. (Other enchantments on that creature are buried because their target is now illegal.)</source>
-        <target state="translated">受此结界的生物不可成为结界、瞬间及法术之目标。此效应不会埋葬反魔法灵气本身（其他在此生物上的结界则因它们的目标现在已不合法，而立即被埋葬）。</target>
+        <target state="translated">受此结界的生物不可成为结界、瞬间及法术之目标。此效应不会埋葬CARDNAME本身（其他在此生物上的结界则因它们的目标现在已不合法，而立即被埋葬）。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="9ce9086e-112a-45e6-854e-70cab2b008a3" resname="5ED·73 | Azure Drake | Card Name">
@@ -649,7 +649,7 @@
       </trans-unit>
       <trans-unit id="6c9af233-f0b9-489f-8561-77bff8280814" resname="5ED·74 | Binding Grasp | Card Text | Paragraphs">
         <source>During your upkeep, pay o1o\nU or bury CARDNAME.\nGain control of enchanted creature. That creature gets +0/+1.</source>
-        <target state="translated">在你的维持阶段中，支付o1oU，否则埋葬咒缚的驾驭力。\n获得受此结界的生物之操控权。该生物得到+0/+1。</target>
+        <target state="translated">在你的维持阶段中，支付o1oU，否则埋葬CARDNAME。\n获得受此结界的生物之操控权。该生物得到+0/+1。</target>
       </trans-unit>
       <trans-unit id="fffc0bfd-8e64-44bf-ae0a-5d2ee54c58df" resname="5ED·75s | Boomerang | Card Name">
         <source>Boomerang</source>
@@ -681,7 +681,7 @@
       </trans-unit>
       <trans-unit id="51ff8402-7bfe-441a-8c6e-6a9ee9608911" resname="5ED·78 | Dance of Many | Card Text | Paragraphs">
         <source>During your upkeep, pay o\nUo\nU or bury CARDNAME.\nWhen you play CARDNAME, choose target summon card. When CARDNAME comes into play, put a token creature into play and treat it as an exact copy of that summon card. If either CARDNAME or the token creature leaves play, bury the other.</source>
-        <target state="translated">在你的维持阶段中，支付oUoU，否则埋葬群魔之舞。\n当你使用群魔之舞时，选择目标召唤牌。当群魔之舞进场时，放置一个衍生物进场，将该衍生物视为该召唤牌的完整复制品。若群魔之舞或是该衍生物其中一者离场，则埋葬另一者。</target>
+        <target state="translated">在你的维持阶段中，支付oUoU，否则埋葬CARDNAME。\n当你使用CARDNAME时，选择目标召唤牌。当CARDNAME进场时，放置一个衍生物进场，将该衍生物视为该召唤牌的完整复制品。若CARDNAME或是该衍生物其中一者离场，则埋葬另一者。</target>
       </trans-unit>
       <trans-unit id="9ac60e8c-ef5b-4893-b3e5-4a54cb0a0d3a" resname="5ED·79 | Dandân | Card Name">
         <source>Dandân</source>
@@ -697,7 +697,7 @@
       </trans-unit>
       <trans-unit id="74fe0349-a114-4bb8-a9ae-97d0f8f46ddb" resname="5ED·80 | Dark Maze | Card Text | Paragraph 1">
         <source>o0: CARDNAME can attack this turn as though it were not a Wall. At end of turn, remove CARDNAME from the game.</source>
-        <target state="translated">o0：黑暗迷宫在此回合中，可以像不是墙一般地攻击。在回合结束时，将黑暗迷宫移出游戏。</target>
+        <target state="translated">o0：CARDNAME在此回合中，可以像不是墙一般地攻击。在回合结束时，将CARDNAME移出游戏。</target>
       </trans-unit>
       <trans-unit id="7a9b1251-17fe-4f00-83cf-4947ac365af6" resname="5ED·81 | Deflection | Card Name">
         <source>Deflection</source>
@@ -739,7 +739,7 @@
       </trans-unit>
       <trans-unit id="1d452de7-3f44-4594-bb24-2178812da9d6" resname="5ED·85 | Feedback | Card Text | Paragraph 1">
         <source>During the upkeep of enchanted enchantment's controller, CARDNAME deals 1 damage to him or her.</source>
-        <target state="translated">在受此结界之结界的操控者的维持阶段中，反馈对他造成1点伤害。</target>
+        <target state="translated">在受此结界之结界的操控者的维持阶段中，CARDNAME对他造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="c74e5168-9503-4cf9-8a66-29b68ec2092c" resname="5ED·86 | Flight | Card Name">
         <source>Flight</source>
@@ -794,12 +794,12 @@
       </trans-unit>
       <trans-unit id="80f20d8e-bbdf-4af8-9505-d5604b04ad72" resname="5ED·92 | Homarid Warrior | Card Text | Paragraph 1">
         <source>oo</source>
-        <target state="translated">oU：荷马利族勇士不可成为咒语或效应的目标直到回合结束，且不可在你的下一个重置阶段中重置。</target>
+        <target state="translated">oU：CARDNAME不可成为咒语或效应的目标直到回合结束，且不可在你的下一个重置阶段中重置。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="80f20d8e-bbdf-4af8-9505-d5604b04ad72" resname="5ED·92 | Homarid Warrior | Card Text | Paragraph 2">
         <source>U CARDNAME cannot be the target of spells or effects until end of turn and does not untap during your next untap phase. Tap CARDNAME.</source>
-        <target state="translated">横置荷马利族勇士。</target>
+        <target state="translated">横置CARDNAME。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="b62c7e94-25ef-4859-88db-05b085744dc0" resname="5ED·93 | Hurkyl's Recall | Card Name">
@@ -842,7 +842,7 @@
       </trans-unit>
       <trans-unit id="faa8c435-55c1-46af-bb93-3f8ce81b1544" resname="5ED·97 | Labyrinth Minotaur | Card Text | Paragraph 1">
         <source>If CARDNAME blocks any creature, that creature does not untap during its controller's next untap phase.</source>
-        <target state="translated">若迷宫牛头怪阻挡任何生物，该生物在其操控者的下一次重置阶段中不可重置。</target>
+        <target state="translated">若CARDNAME阻挡任何生物，该生物在其操控者的下一次重置阶段中不可重置。</target>
       </trans-unit>
       <trans-unit id="a4e96456-93bf-4d28-9a4b-5bc24ae07fc2" resname="5ED·98 | Leviathan | Card Name">
         <source>Leviathan</source>
@@ -856,17 +856,17 @@
       </trans-unit>
       <trans-unit id="a4e96456-93bf-4d28-9a4b-5bc24ae07fc2" resname="5ED·98 | Leviathan | Card Text | Paragraph 2">
         <source>CARDNAME comes into play tapped and does not untap during your untap phase.</source>
-        <target state="translated">海怪进场须横置进场，且不能在你的重置阶段中被重置。</target>
+        <target state="translated">CARDNAME进场须横置进场，且不能在你的重置阶段中被重置。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="a4e96456-93bf-4d28-9a4b-5bc24ae07fc2" resname="5ED·98 | Leviathan | Card Text | Paragraph 3">
         <source>CARDNAME cannot attack this turn unless you sacrifice two islands.</source>
-        <target state="translated">除非你牺牲两张海岛，否则海怪此回合不能攻击。</target>
+        <target state="translated">除非你牺牲两张海岛，否则CARDNAME此回合不能攻击。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="a4e96456-93bf-4d28-9a4b-5bc24ae07fc2" resname="5ED·98 | Leviathan | Card Text | Paragraph 4">
         <source>Sacrifice two islands: Untap CARDNAME. Use this ability only during your upkeep.</source>
-        <target state="translated">牺牲两张海岛：重置海怪。你只能在你的维持阶段中使用此异能。</target>
+        <target state="translated">牺牲两张海岛：重置CARDNAME。你只能在你的维持阶段中使用此异能。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="af066a2d-d357-45a7-90d8-2c34b6d0ebf8" resname="5ED·99 | Lifetap | Card Name">
@@ -919,7 +919,7 @@
       </trans-unit>
       <trans-unit id="3c46d040-58c2-4f7a-8b66-fea33fcb0e11" resname="5ED·105 | Mind Bomb | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to each player. Each player may choose and discard up to three cards to prevent that amount of damage to him or her from CARDNAME.</source>
-        <target state="translated">心灵炸弹对每名玩家造成3点伤害。每名玩家皆可选择弃掉一张牌，以防止心灵炸弹对他造成的1点伤害。每名玩家最多可因此弃掉三张牌。</target>
+        <target state="translated">CARDNAME对每名玩家造成3点伤害。每名玩家皆可选择弃掉一张牌，以防止CARDNAME对他造成的1点伤害。每名玩家最多可因此弃掉三张牌。</target>
       </trans-unit>
       <trans-unit id="021b26cb-ec7d-464b-b835-82e60e86f827" resname="5ED·106 | Phantasmal Forces | Card Name">
         <source>Phantasmal Forces</source>
@@ -928,7 +928,7 @@
       </trans-unit>
       <trans-unit id="021b26cb-ec7d-464b-b835-82e60e86f827" resname="5ED·106 | Phantasmal Forces | Card Text | Paragraphs">
         <source>Flying\nDuring your upkeep, pay o\nU or bury CARDNAME.</source>
-        <target state="translated">飞行\n在你的维持阶段中，支付oU，否则埋葬幻象军团。</target>
+        <target state="translated">飞行\n在你的维持阶段中，支付oU，否则埋葬CARDNAME。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="13c6541b-9f23-48f1-a9bb-081ad7022fd4" resname="5ED·107 | Phantasmal Terrain | Card Name">
@@ -955,7 +955,7 @@
       </trans-unit>
       <trans-unit id="b7ad5912-6d1e-4ad3-9911-0c768417d6d4" resname="5ED·109 | Pirate Ship | Card Text | Paragraphs">
         <source>Islandhome (If defending player controls no islands, this creature cannot attack. If you control no islands, bury this creature.)\noc\nT: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">潜居海岛（若防御玩家未操控海岛，则此生物不可攻击。若你未操控海岛，则埋葬此生物。）\nocT：海盗船对目标生物或玩家造成1点伤害。</target>
+        <target state="translated">潜居海岛（若防御玩家未操控海岛，则此生物不可攻击。若你未操控海岛，则埋葬此生物。）\nocT：CARDNAME对目标生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="7e317e0f-4c6e-4ede-846a-fb76fa77c6bf" resname="5ED·110 | Portent | Card Name">
         <source>Portent</source>
@@ -981,7 +981,7 @@
       </trans-unit>
       <trans-unit id="c743b0fb-a4cb-40a6-94d9-2318386d0afb" resname="5ED·112 | Prodigal Sorcerer | Card Text | Paragraphs">
         <source>oc\nT: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">ocT：放荡的术士对目标生物或玩家造成1点伤害。</target>
+        <target state="translated">ocT：CARDNAME对目标生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="004b6463-0aef-4419-b4f2-dc3fa6eee901" resname="5ED·113 | Psychic Venom | Card Name">
         <source>Psychic Venom</source>
@@ -989,7 +989,7 @@
       </trans-unit>
       <trans-unit id="004b6463-0aef-4419-b4f2-dc3fa6eee901" resname="5ED·113 | Psychic Venom | Card Text | Paragraph 1">
         <source>Whenever enchanted land becomes tapped, CARDNAME deals 2 damage to that land's controller.</source>
-        <target state="translated">当受此结界的地成为横置时，心灵之毒会对该地的操控者造成2点伤害。</target>
+        <target state="translated">当受此结界的地成为横置时，CARDNAME会对该地的操控者造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="6e498567-2bb0-4622-8250-a56b9ff79a7e" resname="5ED·114 | Ray of Command | Card Name">
         <source>Ray of Command</source>
@@ -1005,7 +1005,7 @@
       </trans-unit>
       <trans-unit id="dc53dd70-e2a7-4203-ae00-240694d7220e" resname="5ED·115 | Recall | Card Text | Paragraph 1">
         <source>Choose and discard X cards: Return X target cards in your graveyard to your hand. Remove CARDNAME from the game.</source>
-        <target state="translated">选择弃掉X张牌：将X张牌自你的坟墓场移回你的手上。然后将召还移出游戏。</target>
+        <target state="translated">选择弃掉X张牌：将X张牌自你的坟墓场移回你的手上。然后将CARDNAME移出游戏。</target>
       </trans-unit>
       <trans-unit id="2d712139-bf12-4f7b-bb9b-34d15fac56df" resname="5ED·116 | Reef Pirates | Card Name">
         <source>Reef Pirates</source>
@@ -1013,7 +1013,7 @@
       </trans-unit>
       <trans-unit id="2d712139-bf12-4f7b-bb9b-34d15fac56df" resname="5ED·116 | Reef Pirates | Card Text | Paragraph 1">
         <source>If CARDNAME damages any opponent, put the top card of that player's library into his or her graveyard.</source>
-        <target state="translated">若暗礁海盗伤害任何对手，则将该玩家牌库之顶牌放置于他的坟墓场中。</target>
+        <target state="translated">若CARDNAME伤害任何对手，则将该玩家牌库之顶牌放置于他的坟墓场中。</target>
       </trans-unit>
       <trans-unit id="fd6bbb81-b830-4b22-be9a-852d9edbda21" resname="5ED·117 | Remove Soul | Card Name">
         <source>Remove Soul</source>
@@ -1055,7 +1055,7 @@
       </trans-unit>
       <trans-unit id="851545d3-cc23-40da-84c5-93da0dd14a8d" resname="5ED·121 | Seasinger | Card Text | Paragraphs">
         <source>If you control no islands, bury CARDNAME.\nYou may choose not to untap CARDNAME during your untap phase.\noc\nT: Gain control of target creature whose controller controls any islands as long as you control CARDNAME and CARDNAME remains tapped.</source>
-        <target state="translated">若你未操控任何海岛，则埋葬海之歌女。\n你可选择在重置阶段中不重置海之歌女。\nocT：只要你操控海之歌女，且海之歌女持续被横置，你便获得目标其操控者拥有海岛之生物的操控权。</target>
+        <target state="translated">若你未操控任何海岛，则埋葬CARDNAME。\n你可选择在重置阶段中不重置CARDNAME。\nocT：只要你操控CARDNAME，且CARDNAME持续被横置，你便获得目标其操控者拥有海岛之生物的操控权。</target>
       </trans-unit>
       <trans-unit id="b5873c47-dfed-4ffb-a472-2cb304934ad9" resname="5ED·122 | Segovian Leviathan | Card Name">
         <source>Segovian Leviathan</source>
@@ -1075,7 +1075,7 @@
       </trans-unit>
       <trans-unit id="9382b01d-4ff5-4e33-ab05-412ad694b85f" resname="5ED·123 | Sibilant Spirit | Card Text | Paragraph 2">
         <source>If CARDNAME attacks, defending player may draw a card.</source>
-        <target state="translated">若嘶嘶精灵攻击，则防御玩家可以抓一张牌。</target>
+        <target state="translated">若CARDNAME攻击，则防御玩家可以抓一张牌。</target>
       </trans-unit>
       <trans-unit id="3cdb4f1c-6754-4269-8fac-d4edc02c8e00" resname="5ED·124 | Sleight of Mind | Card Name">
         <source>Sleight of Mind</source>
@@ -1092,7 +1092,7 @@
       </trans-unit>
       <trans-unit id="dfd50e68-2063-4fae-bb56-eb224d43b147" resname="5ED·125 | Soul Barrier | Card Text | Paragraph 1">
         <source>Whenever target opponent successfully casts a summon spell, CARDNAME deals 2 damage to him or her. That player may pay o2 to prevent this damage.</source>
-        <target state="translated">当目标对手成功施放一个召唤咒语时，灵魂障蔽会对他造成2点伤害。该玩家可支付o2以防止此伤害。</target>
+        <target state="translated">当目标对手成功施放一个召唤咒语时，CARDNAME会对他造成2点伤害。该玩家可支付o2以防止此伤害。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="70e4584f-6e44-4ff8-8313-c8791e0156af" resname="5ED·126 | Spell Blast | Card Name">
@@ -1109,7 +1109,7 @@
       </trans-unit>
       <trans-unit id="96570023-a9d6-4536-ac11-f0baad041d7c" resname="5ED·127 | Stasis | Card Text | Paragraphs">
         <source>Each player skips his or her untap phase.\nDuring your upkeep, pay o\nU or bury CARDNAME.</source>
-        <target state="translated">每位玩家皆略过其重置阶段。\n在你的维持阶段中，支付oU，否则埋葬静态平衡。</target>
+        <target state="translated">每位玩家皆略过其重置阶段。\n在你的维持阶段中，支付oU，否则埋葬CARDNAME。</target>
       </trans-unit>
       <trans-unit id="2e08d3b2-9c85-4482-b110-5f399672e550" resname="5ED·128 | Steal Artifact | Card Name">
         <source>Steal Artifact</source>
@@ -1197,7 +1197,7 @@
       </trans-unit>
       <trans-unit id="b70495b9-3fec-4eea-addf-1f401a1f49ed" resname="5ED·136 | Wind Spirit | Card Text | Paragraph 2">
         <source>CARDNAME cannot be blocked by only one creature.</source>
-        <target state="translated">不能仅用一只生物阻挡风精灵。</target>
+        <target state="translated">不能仅用一只生物阻挡CARDNAME。</target>
       </trans-unit>
       <trans-unit id="6d11923e-98c6-4041-b115-f4847fb71149" resname="5ED·137 | Zephyr Falcon | Card Name">
         <source>Zephyr Falcon</source>
@@ -1209,7 +1209,7 @@
       </trans-unit>
       <trans-unit id="6d11923e-98c6-4041-b115-f4847fb71149" resname="5ED·137 | Zephyr Falcon | Card Text | Paragraph 2">
         <source>Attacking does not cause CARDNAME to tap.</source>
-        <target state="translated">西风猎鹰攻击时不须横置</target>
+        <target state="translated">CARDNAME攻击时不须横置</target>
       </trans-unit>
       <trans-unit id="fded7b01-2920-4b94-a511-088b521de9f7" resname="5ED·138 | Zur's Weirding | Card Name">
         <source>Zur's Weirding</source>
@@ -1233,7 +1233,7 @@
       </trans-unit>
       <trans-unit id="2be32aca-94d0-46df-9ca9-503a51416b14" resname="5ED·139 | Abyssal Specter | Card Text | Paragraph 2">
         <source>If CARDNAME damages any player, he or she chooses and discards a card.</source>
-        <target state="translated">如果深渊幽灵伤害任何玩家，则他或她选择弃掉一张牌。</target>
+        <target state="translated">如果CARDNAME伤害任何玩家，则他或她选择弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="1f2cd314-8f99-4443-ae86-a967effc7490" resname="5ED·140 | Animate Dead | Card Name">
         <source>Animate Dead</source>
@@ -1242,7 +1242,7 @@
       </trans-unit>
       <trans-unit id="1f2cd314-8f99-4443-ae86-a967effc7490" resname="5ED·140 | Animate Dead | Card Text | Paragraph 1">
         <source>When you play CARDNAME, choose target creature card in any graveyard. When CARDNAME comes into play, put that creature into play and CARDNAME becomes a creature enchantment that targets the creature. Enchanted creature gets -1/-0. If CARDNAME leaves play, bury the creature.</source>
-        <target state="translated">当你使用尸变时，选择一张在任何坟墓场中的目标生物牌。当尸变进场时，将该生物放进场中，并且尸变成为以该生物为目标的生物结界。受此结界的生物得到-1/-0。若尸变离场，则埋葬该生物。</target>
+        <target state="translated">当你使用CARDNAME时，选择一张在任何坟墓场中的目标生物牌。当CARDNAME进场时，将该生物放进场中，并且CARDNAME成为以该生物为目标的生物结界。受此结界的生物得到-1/-0。若CARDNAME离场，则埋葬该生物。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="73d28603-b116-4948-a46f-b95ae9118d9e" resname="5ED·141s | Ashes to Ashes | Card Name">
@@ -1251,7 +1251,7 @@
       </trans-unit>
       <trans-unit id="73d28603-b116-4948-a46f-b95ae9118d9e" resname="5ED·141s | Ashes to Ashes | Card Text | Paragraph 1">
         <source>Exile two target nonartifact creatures. CARDNAME deals 5 damage to you.</source>
-        <target state="translated">将两个目标非神器的生物移出游戏，土归土对你造成5点伤害。</target>
+        <target state="translated">将两个目标非神器的生物移出游戏，CARDNAME对你造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="6bb6d665-42f5-4f44-8797-16c0351ab3c0" resname="5ED·142 | Bad Moon | Card Name">
         <source>Bad Moon</source>
@@ -1291,7 +1291,7 @@
       </trans-unit>
       <trans-unit id="3e325363-1ab9-4b44-9c00-0758830289e8" resname="5ED·146 | Bog Rats | Card Text | Paragraph 1">
         <source>CARDNAME cannot be blocked by Walls.</source>
-        <target state="translated">腐沼老鼠不能被墙阻挡。</target>
+        <target state="translated">CARDNAME不能被墙阻挡。</target>
       </trans-unit>
       <trans-unit id="fe305196-fd9d-4f92-a37c-6c4fe5abad1f" resname="5ED·147s | Bog Wraith | Card Name">
         <source>Bog Wraith</source>
@@ -1308,7 +1308,7 @@
       </trans-unit>
       <trans-unit id="37c9b663-5c02-4221-9efb-59841dfd2188" resname="5ED·148 | Breeding Pit | Card Text | Paragraphs">
         <source>During your upkeep, pay o\nBo\nB or bury CARDNAME.\nAt the end of your turn, put a Thrull token into play. Treat this token as a 0/1 black creature.</source>
-        <target state="translated">在你的维持阶段支付oBoB，否则埋葬滋生之坑。\n在你的回合结束时，放置一个索尔兽衍生物进场，将此衍生物视为0/1黑色生物。</target>
+        <target state="translated">在你的维持阶段支付oBoB，否则埋葬CARDNAME。\n在你的回合结束时，放置一个索尔兽衍生物进场，将此衍生物视为0/1黑色生物。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="824823fb-5ae1-48b1-bc46-e452afa73cd8" resname="5ED·149 | Broken Visage | Card Name">
@@ -1343,7 +1343,7 @@
       </trans-unit>
       <trans-unit id="39d9801b-9707-4868-bde1-39960b761992" resname="5ED·152 | Cursed Land | Card Text | Paragraph 1">
         <source>During the upkeep of enchanted land's controller, CARDNAME deals 1 damage to him or her.</source>
-        <target state="translated">在受此结界的地之操控者的维持阶段中，诅咒土地对他或她造成1点伤害。</target>
+        <target state="translated">在受此结界的地之操控者的维持阶段中，CARDNAME对他或她造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="fae25afd-0d16-431c-a85e-7ac91cef9050" resname="5ED·153 | Dark Ritual | Card Name">
         <source>Dark Ritual</source>
@@ -1377,7 +1377,7 @@
       </trans-unit>
       <trans-unit id="41a9b3b2-4ac9-4e50-bcd2-8831d0739e85" resname="5ED·156 | Drain Life | Card Text | Paragraphs">
         <source>oo\nX CARDNAME deals X damage to target creature or player. Spend only black mana in this way. Gain 1 life for each 1 damage dealt, but not more than the toughness of the creature or the life total of the player CARDNAME damages.</source>
-        <target state="translated">oX：吮命对目标生物或玩家造成X点伤害。此花费只能以黑色法术力支付，每造成1点伤害则你获得1点生命，但是不能超过吮命所伤害的生物之防御力或玩家之全部生命值。</target>
+        <target state="translated">oX：CARDNAME对目标生物或玩家造成X点伤害。此花费只能以黑色法术力支付，每造成1点伤害则你获得1点生命，但是不能超过CARDNAME所伤害的生物之防御力或玩家之全部生命值。</target>
       </trans-unit>
       <trans-unit id="127bb737-85ed-4de3-9a1d-ec789d54b7cd" resname="5ED·157 | Drudge Skeletons | Card Name">
         <source>Drudge Skeletons</source>
@@ -1395,7 +1395,7 @@
       </trans-unit>
       <trans-unit id="dcc87da4-8f68-4c40-afdb-2dfcc075ce91" resname="5ED·158 | Erg Raiders | Card Text | Paragraph 1">
         <source>At the end of your turn, CARDNAME deals 2 damage to you if it did not attack this turn. Ignore this effect if CARDNAME has summoning sickness.</source>
-        <target state="translated">在你的回合中，如果尔格骑队未进行攻击，则在回合结束时它对你造成2点伤害。如果尔格骑队正处于召唤失调，则忽略此效果。</target>
+        <target state="translated">在你的回合中，如果CARDNAME未进行攻击，则在回合结束时它对你造成2点伤害。如果CARDNAME正处于召唤失调，则忽略此效果。</target>
       </trans-unit>
       <trans-unit id="65c7e01b-68a9-4380-94b6-d687e2c2ee86" resname="5ED·159 | Evil Eye of Orms-by-Gore | Card Name">
         <source>Evil Eye of Orms-by-Gore</source>
@@ -1403,11 +1403,11 @@
       </trans-unit>
       <trans-unit id="65c7e01b-68a9-4380-94b6-d687e2c2ee86" resname="5ED·159 | Evil Eye of Orms-by-Gore | Card Text | Paragraph 1">
         <source>CARDNAME cannot be blocked except by Walls.</source>
-        <target state="translated">欧拜高的邪眼只能被墙阻挡。</target>
+        <target state="translated">CARDNAME只能被墙阻挡。</target>
       </trans-unit>
       <trans-unit id="65c7e01b-68a9-4380-94b6-d687e2c2ee86" resname="5ED·159 | Evil Eye of Orms-by-Gore | Card Text | Paragraph 2">
         <source>Except for Evil Eyes, creatures you control cannot attack.</source>
-        <target state="translated">除了欧拜高的邪眼之外，你所操控的生物都不能进行攻击。</target>
+        <target state="translated">除了CARDNAME之外，你所操控的生物都不能进行攻击。</target>
       </trans-unit>
       <trans-unit id="3042fdde-595d-4f60-be59-364eedecf3bd" resname="5ED·160 | Evil Presence | Card Name">
         <source>Evil Presence</source>
@@ -1470,7 +1470,7 @@
       </trans-unit>
       <trans-unit id="34b77373-6066-436b-aa60-4cb0f8077599" resname="5ED·166 | Greater Werewolf | Card Text | Paragraph 1">
         <source>At end of combat, put a -0/-2 counter on each creature blocking or blocked by CARDNAME.</source>
-        <target state="translated">战斗结束时，在每一个阻挡高等狼人或被高等狼人阻挡的生物上放置一个-0/-2指示物。</target>
+        <target state="translated">战斗结束时，在每一个阻挡CARDNAME或被CARDNAME阻挡的生物上放置一个-0/-2指示物。</target>
       </trans-unit>
       <trans-unit id="43671b63-d38e-4ef5-94bd-300cda82a88b" resname="5ED·167 | Hecatomb | Card Name">
         <source>Hecatomb</source>
@@ -1479,12 +1479,12 @@
       </trans-unit>
       <trans-unit id="43671b63-d38e-4ef5-94bd-300cda82a88b" resname="5ED·167 | Hecatomb | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, sacrifice four creatures or bury CARDNAME.</source>
-        <target state="translated">当百牲祭进场时牺牲四只生物，否则埋葬百牲祭。</target>
+        <target state="translated">当CARDNAME进场时牺牲四只生物，否则埋葬CARDNAME。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="43671b63-d38e-4ef5-94bd-300cda82a88b" resname="5ED·167 | Hecatomb | Card Text | Paragraph 2">
         <source>Tap a swamp you control: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">横置你所操控的一个沼泽：百牲祭对目标生物或玩家造成1点伤害。</target>
+        <target state="translated">横置你所操控的一个沼泽：CARDNAME对目标生物或玩家造成1点伤害。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="1a88d96c-6192-48e6-9a3b-97eff587e115" resname="5ED·168 | Howl from Beyond | Card Name">
@@ -1501,7 +1501,7 @@
       </trans-unit>
       <trans-unit id="0c4a92a3-4df5-4d83-b015-59859e6bccc8" resname="5ED·169s | Initiates of the Ebon Hand | Card Text | Paragraph 1">
         <source>{1}: Add {B}. If this ability has been activated four or more times this turn, sacrifice CARDNAME at the beginning of the next end step.</source>
-        <target state="translated">o1：加oB到你的法术力池中。如果一回合中在此异能上的消费大于或等于o4，则在回合结束时埋葬黑檀手的信众。</target>
+        <target state="translated">o1：加oB到你的法术力池中。如果一回合中在此异能上的消费大于或等于o4，则在回合结束时埋葬CARDNAME。</target>
       </trans-unit>
       <trans-unit id="590c219d-536a-47a4-93a4-b77ce808a024" resname="5ED·170 | Kjeldoran Dead | Card Name">
         <source>Kjeldoran Dead</source>
@@ -1510,7 +1510,7 @@
       </trans-unit>
       <trans-unit id="590c219d-536a-47a4-93a4-b77ce808a024" resname="5ED·170 | Kjeldoran Dead | Card Text | Paragraphs">
         <source>When CARDNAME comes into play, sacrifice a creature.\noo\nB Regenerate</source>
-        <target state="translated">当奇亚多朗亡者进场时，牺牲一只生物。\noB：重生</target>
+        <target state="translated">当CARDNAME进场时，牺牲一只生物。\noB：重生</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="b84c73dd-3a80-4355-a71d-c6de99cb11cb" resname="5ED·171 | Knight of Stromgald | Card Name">
@@ -1528,7 +1528,7 @@
       </trans-unit>
       <trans-unit id="8db46edd-d2d3-4d3e-beae-f8d01bb5078e" resname="5ED·172 | Krovikan Fetish | Card Text | Paragraphs">
         <source>Draw a card at the beginning of the turn after CARDNAME comes into play.\nEnchanted creature gets +1/+1.</source>
-        <target state="translated">在寇维肯的饰物进场的下回合开始时抽一张牌。受此结界的生物得到+1/+1。</target>
+        <target state="translated">在CARDNAME进场的下回合开始时抽一张牌。受此结界的生物得到+1/+1。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="ff6aee0b-1039-496f-a096-2d4d71621d99" resname="5ED·173 | Leshrac's Rite | Card Name">
@@ -1551,7 +1551,7 @@
       </trans-unit>
       <trans-unit id="3b4c083f-d619-4913-aa7b-d345e3bdb1c4" resname="5ED·174 | Lord of the Pit | Card Text | Paragraph 2">
         <source>During your upkeep, sacrifice a creature other than CARDNAME. If you cannot, CARDNAME deals 7 damage to you.</source>
-        <target state="translated">在你的维持阶段，牺牲一只暗渊之王以外的生物；如果你无法做到，则暗渊之王对你造成7点伤害。</target>
+        <target state="translated">在你的维持阶段，牺牲一只CARDNAME以外的生物；如果你无法做到，则CARDNAME对你造成7点伤害。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="ff73c4c8-1761-4fc8-96b1-8983b9b78b46" resname="5ED·175 | Lost Soul | Card Name">
@@ -1590,7 +1590,7 @@
       </trans-unit>
       <trans-unit id="ba90042a-a5e9-4c3f-a08a-c24e5606110b" resname="5ED·178s | Mindstab Thrull | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.</source>
-        <target state="translated">牺牲灵杀索尔兽：防御玩家选择弃掉三张牌。你只能在灵杀索尔兽进行攻击且未被阻挡时使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：防御玩家选择弃掉三张牌。你只能在CARDNAME进行攻击且未被阻挡时使用此异能。</target>
       </trans-unit>
       <trans-unit id="700f43c9-1e71-4e5f-a6ce-eca94993558f" resname="5ED·179 | Mole Worms | Card Name">
         <source>Mole Worms</source>
@@ -1598,7 +1598,7 @@
       </trans-unit>
       <trans-unit id="700f43c9-1e71-4e5f-a6ce-eca94993558f" resname="5ED·179 | Mole Worms | Card Text | Paragraphs">
         <source>You may choose not to untap CARDNAME during your untap phase.\noc\nT: Tap target land. As long as CARDNAME remains tapped, that land does not untap during its controller's untap phase.</source>
-        <target state="translated">在你的重置阶段中，你可以选择不重置鼹虫。\nocT：横置目标地。只要鼹虫持续被横置，该地便不能在其操控者的重置阶段中被重置。</target>
+        <target state="translated">在你的重置阶段中，你可以选择不重置CARDNAME。\nocT：横置目标地。只要CARDNAME持续被横置，该地便不能在其操控者的重置阶段中被重置。</target>
       </trans-unit>
       <trans-unit id="740564ec-c473-45bc-ba94-288786bf28b9" resname="5ED·180 | Murk Dwellers | Card Name">
         <source>Murk Dwellers</source>
@@ -1606,7 +1606,7 @@
       </trans-unit>
       <trans-unit id="740564ec-c473-45bc-ba94-288786bf28b9" resname="5ED·180 | Murk Dwellers | Card Text | Paragraph 1">
         <source>If CARDNAME attacks and is not blocked, it gets +2/+0 until end of turn.</source>
-        <target state="translated">如果黑暗栖息者进行攻击且未被阻挡，则它得到+2/+0直到回合结束。</target>
+        <target state="translated">如果CARDNAME进行攻击且未被阻挡，则它得到+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="892150a2-0a0b-4ac5-afb5-6434d6f42396" resname="5ED·181s | Necrite | Card Name">
         <source>Necrite</source>
@@ -1614,7 +1614,7 @@
       </trans-unit>
       <trans-unit id="892150a2-0a0b-4ac5-afb5-6434d6f42396" resname="5ED·181s | Necrite | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.</source>
-        <target state="translated">牺牲尼克里特：埋葬目标由防御玩家所操控的生物。你只能在尼克里特进行攻击且未被阻挡时使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：埋葬目标由防御玩家所操控的生物。你只能在CARDNAME进行攻击且未被阻挡时使用此异能。</target>
       </trans-unit>
       <trans-unit id="222cfbec-8839-43fa-95a0-2ea91b59515c" resname="5ED·182 | Necropotence | Card Name">
         <source>Necropotence</source>
@@ -1642,11 +1642,11 @@
       </trans-unit>
       <trans-unit id="b0877527-6dbe-49f2-862f-5c79e66a92e9" resname="5ED·183 | Nether Shadow | Card Text | Paragraph 1">
         <source>CARDNAME is unaffected by summoning sickness.</source>
-        <target state="translated">阴间影子不受召唤失调影响。</target>
+        <target state="translated">CARDNAME不受召唤失调影响。</target>
       </trans-unit>
       <trans-unit id="b0877527-6dbe-49f2-862f-5c79e66a92e9" resname="5ED·183 | Nether Shadow | Card Text | Paragraph 2">
         <source>At the end of your upkeep, if CARDNAME is in your graveyard with at least three creature cards above it, you may put CARDNAME into play.</source>
-        <target state="translated">在你的维持阶段，如果阴间影子在你的坟墓场中，并且至少有三张生物牌在它上面，则你可以将阴间影子放回场中。</target>
+        <target state="translated">在你的维持阶段，如果CARDNAME在你的坟墓场中，并且至少有三张生物牌在它上面，则你可以将CARDNAME放回场中。</target>
       </trans-unit>
       <trans-unit id="60304328-7a02-4f4c-a884-fc6ce7816060" resname="5ED·184 | Nightmare | Card Name">
         <source>Nightmare</source>
@@ -1662,7 +1662,7 @@
       </trans-unit>
       <trans-unit id="1823c578-d3a1-40de-bdac-ec6547e8ee24" resname="5ED·185 | Paralyze | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, tap enchanted creature.</source>
-        <target state="translated">当麻痺进场时，横置受此结界的生物。</target>
+        <target state="translated">当CARDNAME进场时，横置受此结界的生物。</target>
       </trans-unit>
       <trans-unit id="1823c578-d3a1-40de-bdac-ec6547e8ee24" resname="5ED·185 | Paralyze | Card Text | Paragraph 2">
         <source>Enchanted creature does not untap during its controller's untap phase. That player may pay an additional o4 during his or her upkeep to untap it.</source>
@@ -1674,7 +1674,7 @@
       </trans-unit>
       <trans-unit id="a54e46c1-f56d-4836-95c8-76f0d76e0d02" resname="5ED·186 | Pestilence | Card Text | Paragraphs">
         <source>At the end of any turn, if there are no creatures in play, bury CARDNAME.\noo\nB CARDNAME deals 1 damage to each creature and player.</source>
-        <target state="translated">在任何回合结束时，如果场上没有生物，则埋葬瘟疫。\noB：瘟疫对每一只生物和玩家造成1点伤害。</target>
+        <target state="translated">在任何回合结束时，如果场上没有生物，则埋葬CARDNAME。\noB：CARDNAME对每一只生物和玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="fe106ff1-cdc6-44cc-adb7-131203a05292" resname="5ED·187 | Pit Scorpion | Card Name">
         <source>Pit Scorpion</source>
@@ -1683,7 +1683,7 @@
       </trans-unit>
       <trans-unit id="fe106ff1-cdc6-44cc-adb7-131203a05292" resname="5ED·187 | Pit Scorpion | Card Text | Paragraphs">
         <source>If CARDNAME damages any player, he or she gets a poison counter. If any player has ten or more poison counters, he or she loses the game.</source>
-        <target state="translated">如果暗渊蝎子伤害任何玩家，则该玩家得一中毒指示物。若任何玩家得到十个或以上的中毒指示物，\n则输掉此盘游戏。</target>
+        <target state="translated">如果CARDNAME伤害任何玩家，则该玩家得一中毒指示物。若任何玩家得到十个或以上的中毒指示物，\n则输掉此盘游戏。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="c99fd75c-4b41-411f-92b0-ca3b220946b5" resname="5ED·188 | Plague Rats | Card Name">
@@ -1692,7 +1692,7 @@
       </trans-unit>
       <trans-unit id="c99fd75c-4b41-411f-92b0-ca3b220946b5" resname="5ED·188 | Plague Rats | Card Text | Paragraph 1">
         <source>CARDNAME has power and toughness each equal to the number of CARDNAME in play.</source>
-        <target state="translated">疫病老鼠的力量及防御力皆等于场上疫病老鼠的数目。</target>
+        <target state="translated">CARDNAME的力量及防御力皆等于场上CARDNAME的数目。</target>
       </trans-unit>
       <trans-unit id="7036057d-c7ab-4a37-a011-d10508cec2bc" resname="5ED·189 | Pox | Card Name">
         <source>Pox</source>
@@ -1729,11 +1729,11 @@
       </trans-unit>
       <trans-unit id="bac17237-778d-4551-9a92-8be546e233dc" resname="5ED·193 | Sengir Autocrat | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, put three Serf tokens into play. Treat these tokens as 0/1 black creatures.</source>
-        <target state="translated">当辛格氏独裁者进场时，放三个农奴衍生物到场上。将这些衍生物视为0/1黑色生物。</target>
+        <target state="translated">当CARDNAME进场时，放三个农奴衍生物到场上。将这些衍生物视为0/1黑色生物。</target>
       </trans-unit>
       <trans-unit id="bac17237-778d-4551-9a92-8be546e233dc" resname="5ED·193 | Sengir Autocrat | Card Text | Paragraph 2">
         <source>If CARDNAME leaves play, bury all Serf tokens.</source>
-        <target state="translated">如果辛格氏独裁者离场，则埋葬所有农奴衍生物。</target>
+        <target state="translated">如果CARDNAME离场，则埋葬所有农奴衍生物。</target>
       </trans-unit>
       <trans-unit id="657979b3-6e4f-41a8-a518-4bd329307770" resname="5ED·194 | Sorceress Queen | Card Name">
         <source>Sorceress Queen</source>
@@ -1741,7 +1741,7 @@
       </trans-unit>
       <trans-unit id="657979b3-6e4f-41a8-a518-4bd329307770" resname="5ED·194 | Sorceress Queen | Card Text | Paragraphs">
         <source>oc\nT: Target creature other than CARDNAME is 0/2 until end of turn.</source>
-        <target state="translated">ocT：目标生物成为0/2直到回合结束。此目标不可为法术女王本身。</target>
+        <target state="translated">ocT：目标生物成为0/2直到回合结束。此目标不可为CARDNAME本身。</target>
       </trans-unit>
       <trans-unit id="afac3a0a-e03d-4610-b12d-4bc2244163d1" resname="5ED·195 | Stromgald Cabal | Card Name">
         <source>Stromgald Cabal</source>
@@ -1766,7 +1766,7 @@
       </trans-unit>
       <trans-unit id="729f4543-79f3-4fe2-973f-fb2598045877" resname="5ED·197 | The Wretched | Card Text | Paragraph 1">
         <source>At end of combat, gain control of all creatures blocking CARDNAME as long as you control CARDNAME.</source>
-        <target state="translated">在战斗结束时，你获得所有阻挡卑劣者之生物的操控权，直到你失去卑劣者的操控权为止。</target>
+        <target state="translated">在战斗结束时，你获得所有阻挡CARDNAME之生物的操控权，直到你失去CARDNAME的操控权为止。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="038c86ca-a09d-4ca3-a5db-310c7612c96d" resname="5ED·198 | Thrull Retainer | Card Name">
@@ -1779,7 +1779,7 @@
       </trans-unit>
       <trans-unit id="038c86ca-a09d-4ca3-a5db-310c7612c96d" resname="5ED·198 | Thrull Retainer | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Regenerate enchanted creature.</source>
-        <target state="translated">牺牲索尔兽侍从：重生受此结界的生物。</target>
+        <target state="translated">牺牲CARDNAME：重生受此结界的生物。</target>
       </trans-unit>
       <trans-unit id="0afdd3de-4f0c-4b78-8534-562db8be9c6b" resname="5ED·199 | Torture | Card Name">
         <source>Torture</source>
@@ -1798,7 +1798,7 @@
       </trans-unit>
       <trans-unit id="15e529fb-b951-4f64-85c9-1c2e3b9581a2" resname="5ED·200 | Touch of Death | Card Text | Paragraphs">
         <source>CARDNAME deals 1 damage to target player and you gain 1 life.\nDraw a card at the beginning of the next turn.</source>
-        <target state="translated">死之触对目标玩家造成1点伤害，并且你获得1点生命。你在下回合开始时抽一张牌。</target>
+        <target state="translated">CARDNAME对目标玩家造成1点伤害，并且你获得1点生命。你在下回合开始时抽一张牌。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="a0182f2f-a089-427b-aaf1-4cfaa4c0dc94" resname="5ED·201 | Unholy Strength | Card Name">
@@ -1835,7 +1835,7 @@
       </trans-unit>
       <trans-unit id="94355dce-dfd6-45d6-9b86-0c2bc10e0231" resname="5ED·204 | Warp Artifact | Card Text | Paragraph 1">
         <source>During the upkeep of enchanted artifact's controller, CARDNAME deals 1 damage to him or her.</source>
-        <target state="translated">在受此结界的神器之操控者的维持阶段中，扭曲神器对他造成1点伤害。</target>
+        <target state="translated">在受此结界的神器之操控者的维持阶段中，CARDNAME对他造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="5210f08b-2278-47a2-9582-b0d79ebdfc2f" resname="5ED·205 | Weakness | Card Name">
         <source>Weakness</source>
@@ -1873,7 +1873,7 @@
       </trans-unit>
       <trans-unit id="4e464c69-84c0-4c09-ae86-b728a15ec77f" resname="5ED·208 | Ambush Party | Card Text | Paragraph 2">
         <source>CARDNAME is unaffected by summoning sickness.</source>
-        <target state="translated">伏击部队不受召唤失调影响。</target>
+        <target state="translated">CARDNAME不受召唤失调影响。</target>
       </trans-unit>
       <trans-unit id="f123fe6a-99ca-48c1-9a7a-ae905c10108a" resname="5ED·209 | Atog | Card Name">
         <source>Atog</source>
@@ -1895,12 +1895,12 @@
       </trans-unit>
       <trans-unit id="3ede7920-e219-4e9d-bfa5-e0f562460914" resname="5ED·210 | Ball Lightning | Card Text | Paragraph 2">
         <source>CARDNAME is unaffected by summoning sickness.</source>
-        <target state="translated">爆雷炼球不受召唤失调的影响。</target>
+        <target state="translated">CARDNAME不受召唤失调的影响。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="3ede7920-e219-4e9d-bfa5-e0f562460914" resname="5ED·210 | Ball Lightning | Card Text | Paragraph 3">
         <source>At the end of any turn, bury CARDNAME.</source>
-        <target state="translated">在任何回合结束时埋葬爆雷炼球。</target>
+        <target state="translated">在任何回合结束时埋葬CARDNAME。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="02750f36-d9d3-4c50-adbf-dadab46e92fd" resname="5ED·211 | Bird Maiden | Card Name">
@@ -1927,7 +1927,7 @@
       </trans-unit>
       <trans-unit id="6f068807-3e0d-42b0-aa11-7fd61492f12b" resname="5ED·213 | Brassclaw Orcs | Card Text | Paragraph 1">
         <source>CARDNAME cannot be assigned to block any creature with power 2 or greater.</source>
-        <target state="translated">铜爪半兽人不可用来阻挡任何力量大于或等于2的生物。</target>
+        <target state="translated">CARDNAME不可用来阻挡任何力量大于或等于2的生物。</target>
       </trans-unit>
       <trans-unit id="b3400509-7de8-4c1d-8546-a3df9bee1e75" resname="5ED·214 | Brothers of Fire | Card Name">
         <source>Brothers of Fire</source>
@@ -1935,7 +1935,7 @@
       </trans-unit>
       <trans-unit id="b3400509-7de8-4c1d-8546-a3df9bee1e75" resname="5ED·214 | Brothers of Fire | Card Text | Paragraphs">
         <source>o1o\nRoo\nR CARDNAME deals 1 damage to target creature or player and 1 damage to you.</source>
-        <target state="translated">o1oRoR：祝融兄弟对你及目标生物或玩家造成1点伤害。</target>
+        <target state="translated">o1oRoR：CARDNAME对你及目标生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="fb29b6b9-1674-483f-9912-0892e39ab106" resname="5ED·215 | Cave People | Card Name">
         <source>Cave People</source>
@@ -1943,7 +1943,7 @@
       </trans-unit>
       <trans-unit id="fb29b6b9-1674-483f-9912-0892e39ab106" resname="5ED·215 | Cave People | Card Text | Paragraphs">
         <source>If CARDNAME attacks, it gets +1/-2 until end of turn.\no1o\nRo\nR, oc\nT: Target creature gains mountainwalk until end of turn. (If defending player controls any mountains, that creature is unblockable.)</source>
-        <target state="translated">若洞穴人攻击，则它得到+1/-2直到回合结束。\noRoRoR，ocT：目标生物得到山脉行者直到回合结束。（若防御玩家操控任何山脉，则该生物不可被阻挡）</target>
+        <target state="translated">若CARDNAME攻击，则它得到+1/-2直到回合结束。\noRoRoR，ocT：目标生物得到山脉行者直到回合结束。（若防御玩家操控任何山脉，则该生物不可被阻挡）</target>
       </trans-unit>
       <trans-unit id="29354d9a-6d92-4ddf-a485-33064d666a76" resname="5ED·216 | Conquer | Card Name">
         <source>Conquer</source>
@@ -1959,7 +1959,7 @@
       </trans-unit>
       <trans-unit id="4f6884be-9e7c-407b-9165-6a720a634bb5" resname="5ED·217 | Crimson Manticore | Card Text | Paragraphs">
         <source>Flying\no\nR, oc\nT: CARDNAME deals 1 damage to target attacking or blocking creature.</source>
-        <target state="translated">飞行\noR，ocT：赤色的翼狮对目标攻击或防御生物造成1点伤害。</target>
+        <target state="translated">飞行\noR，ocT：CARDNAME对目标攻击或防御生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="5e66b93c-1510-4063-b4b0-11fa1ea81c6b" resname="5ED·218 | Detonate | Card Name">
         <source>Detonate</source>
@@ -1967,7 +1967,7 @@
       </trans-unit>
       <trans-unit id="5e66b93c-1510-4063-b4b0-11fa1ea81c6b" resname="5ED·218 | Detonate | Card Text | Paragraph 1">
         <source>Bury target artifact with total casting cost equal to X. CARDNAME deals X damage to that artifact's controller.</source>
-        <target state="translated">埋葬总施放费用为X的目标神器。爆炸对该神器的操控者造成X点伤害。</target>
+        <target state="translated">埋葬总施放费用为X的目标神器。CARDNAME对该神器的操控者造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="2e1dce58-c0e5-472e-a575-b8d4b5958b3a" resname="5ED·219 | Disintegrate | Card Name">
         <source>Disintegrate</source>
@@ -1976,7 +1976,7 @@
       </trans-unit>
       <trans-unit id="2e1dce58-c0e5-472e-a575-b8d4b5958b3a" resname="5ED·219 | Disintegrate | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to target creature or player. That creature cannot regenerate this turn. If the creature is dealt lethal damage this turn, remove it from the game.</source>
-        <target state="translated">分解对目标生物或玩家造成X点伤害，该生物此回合不能重生。若该生物此回合中受到致命伤害，则将其移出游戏。</target>
+        <target state="translated">CARDNAME对目标生物或玩家造成X点伤害，该生物此回合不能重生。若该生物此回合中受到致命伤害，则将其移出游戏。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="c3617ce3-240f-4846-94d9-ea852c5b842a" resname="5ED·220 | Dwarven Catapult | Card Name">
@@ -1985,7 +1985,7 @@
       </trans-unit>
       <trans-unit id="c3617ce3-240f-4846-94d9-ea852c5b842a" resname="5ED·220 | Dwarven Catapult | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage divided evenly, rounded down, among all creatures target opponent controls.</source>
-        <target state="translated">矮人投石器造成X点伤害，平均分配到目标玩家操控的所有生物上，小数点以下舍去。</target>
+        <target state="translated">CARDNAME造成X点伤害，平均分配到目标玩家操控的所有生物上，小数点以下舍去。</target>
       </trans-unit>
       <trans-unit id="7438382c-15a0-40b1-a17b-2ef7bd67866c" resname="5ED·221 | Dwarven Soldier | Card Name">
         <source>Dwarven Soldier</source>
@@ -1994,7 +1994,7 @@
       </trans-unit>
       <trans-unit id="7438382c-15a0-40b1-a17b-2ef7bd67866c" resname="5ED·221 | Dwarven Soldier | Card Text | Paragraph 1">
         <source>If CARDNAME blocks or is blocked by any Orcs, it gets +0/+2 until end of turn.</source>
-        <target state="translated">若矮人士兵阻挡任何半兽人或被任何半兽人阻挡，则牠得到+0/+2直到回合结束。</target>
+        <target state="translated">若CARDNAME阻挡任何半兽人或被任何半兽人阻挡，则牠得到+0/+2直到回合结束。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="d217942b-1253-4d4b-b0d2-09fc4e15cc62" resname="5ED·222 | Dwarven Warriors | Card Name">
@@ -2011,7 +2011,7 @@
       </trans-unit>
       <trans-unit id="01bde909-899d-4efc-aac5-57b69fa764db" resname="5ED·223 | Earthquake | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature without flying and each player.</source>
-        <target state="translated">地震对每只不具飞行异能的生物及玩家造成X点伤害。</target>
+        <target state="translated">CARDNAME对每只不具飞行异能的生物及玩家造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="b5b97aa2-cda9-4683-ad5d-1f713bd0505c" resname="5ED·224 | Errantry | Card Name">
         <source>Errantry</source>
@@ -2045,7 +2045,7 @@
       </trans-unit>
       <trans-unit id="ad457b10-6e00-411f-b827-ff844f9b300d" resname="5ED·227 | Fireball | Card Text | Paragraph 1">
         <source>Pay o1 for each target beyond the first: CARDNAME deals X damage divided evenly, rounded down, among any number of target creatures and/or players.</source>
-        <target state="translated">除第一个以外每多一个目标须多付o1：火球造成X点伤害，平均分配给任意数量的目标生物和或玩家，小数点以下舍去。</target>
+        <target state="translated">除第一个以外每多一个目标须多付o1：CARDNAME造成X点伤害，平均分配给任意数量的目标生物和或玩家，小数点以下舍去。</target>
       </trans-unit>
       <trans-unit id="cb793e74-cfed-4b1a-aaba-d67d2ab6f149" resname="5ED·228 | Firebreathing | Card Name">
         <source>Firebreathing</source>
@@ -2072,7 +2072,7 @@
       </trans-unit>
       <trans-unit id="abc046c2-be9b-4f93-ac7d-e7dea6c4df9a" resname="5ED·230 | Flare | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">火光对目标生物或玩家造成1点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或玩家造成1点伤害。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="abc046c2-be9b-4f93-ac7d-e7dea6c4df9a" resname="5ED·230 | Flare | Card Text | Paragraph 2">
@@ -2112,7 +2112,7 @@
       </trans-unit>
       <trans-unit id="8eb3feb2-e94b-4d02-8179-63d0289dd7d1" resname="5ED·234 | Goblin Digging Team | Card Text | Paragraphs">
         <source>oc\nT, Sacrifice CARDNAME: Destroy target Wall.</source>
-        <target state="translated">ocT，牺牲鬼怪挖掘队：消灭目标墙。</target>
+        <target state="translated">ocT，牺牲CARDNAME：消灭目标墙。</target>
       </trans-unit>
       <trans-unit id="1d21c8c9-6e16-4eb2-b2f5-3998f0f958ae" resname="5ED·235 | Goblin Hero | Card Name">
         <source>Goblin Hero</source>
@@ -2168,7 +2168,7 @@
       </trans-unit>
       <trans-unit id="aa0f7e1f-bcb5-414f-a2e9-6a158fec2ff5" resname="5ED·242 | Incinerate | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature or player. Creatures damaged by CARDNAME cannot regenerate this turn.</source>
-        <target state="translated">焚化对目标生物或玩家造成3点伤害。被焚化伤害的生物此回合不能重生。</target>
+        <target state="translated">CARDNAME对目标生物或玩家造成3点伤害。被CARDNAME伤害的生物此回合不能重生。</target>
       </trans-unit>
       <trans-unit id="68d04a75-647f-400f-b0dc-c4544f7db2d4" resname="5ED·243 | Inferno | Card Name">
         <source>Inferno</source>
@@ -2176,7 +2176,7 @@
       </trans-unit>
       <trans-unit id="68d04a75-647f-400f-b0dc-c4544f7db2d4" resname="5ED·243 | Inferno | Card Text | Paragraph 1">
         <source>CARDNAME deals 6 damage to each creature and player.</source>
-        <target state="translated">炼狱对每个生物及玩家造成6点伤害。</target>
+        <target state="translated">CARDNAME对每个生物及玩家造成6点伤害。</target>
       </trans-unit>
       <trans-unit id="6ed35d03-80fd-421d-a8be-6708a5570a85" resname="5ED·244 | Ironclaw Curse | Card Name">
         <source>Ironclaw Curse</source>
@@ -2195,7 +2195,7 @@
       </trans-unit>
       <trans-unit id="628a3506-352d-4d4f-b63e-05abb3ca906d" resname="5ED·245 | Ironclaw Orcs | Card Text | Paragraph 1">
         <source>CARDNAME cannot be assigned to block any creature with power 2 or greater.</source>
-        <target state="translated">铁爪半兽人不可用来阻挡任何力量大于或等于2的生物。</target>
+        <target state="translated">CARDNAME不可用来阻挡任何力量大于或等于2的生物。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="6d81e479-45b7-4237-a0eb-95245582e87d" resname="5ED·246 | Jokulhaups | Card Name">
@@ -2212,7 +2212,7 @@
       </trans-unit>
       <trans-unit id="9c67ccfa-e2ac-4abd-a55d-bd10d570220a" resname="5ED·247 | Keldon Warlord | Card Text | Paragraph 1">
         <source>CARDNAME has power and toughness each equal to the number of non-Wall creatures you control.</source>
-        <target state="translated">凯尔顿军阀的力量和防御力等于你所操控之非墙生物的数目。</target>
+        <target state="translated">CARDNAME的力量和防御力等于你所操控之非墙生物的数目。</target>
       </trans-unit>
       <trans-unit id="37b2e818-a5a8-4b9b-93e8-121dd7fefe32" resname="5ED·248 | Mana Clash | Card Name">
         <source>Mana Clash</source>
@@ -2221,7 +2221,7 @@
       </trans-unit>
       <trans-unit id="37b2e818-a5a8-4b9b-93e8-121dd7fefe32" resname="5ED·248 | Mana Clash | Card Text | Paragraph 1">
         <source>You and target opponent each flip a coin. CARDNAME deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads at the same time.</source>
-        <target state="translated">你和目标玩家各掷一个硬币，法术力碰撞对掷出反面的玩家造成1点伤害。重复此步骤，直到双方的硬币同时出现正面为止。</target>
+        <target state="translated">你和目标玩家各掷一个硬币，CARDNAME对掷出反面的玩家造成1点伤害。重复此步骤，直到双方的硬币同时出现正面为止。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="90d9af72-1633-4433-83ce-7de806611448" resname="5ED·249 | Mana Flare | Card Name">
@@ -2238,7 +2238,7 @@
       </trans-unit>
       <trans-unit id="f55a2d1d-0964-44a9-9f32-09804f2c7445" resname="5ED·250 | Manabarbs | Card Text | Paragraph 1">
         <source>Whenever any player taps a land for mana, CARDNAME deals 1 damage to him or her.</source>
-        <target state="translated">任何玩家每横置一张地以产生法术力时，法术力倒钩即对他造成1点伤害。</target>
+        <target state="translated">任何玩家每横置一张地以产生法术力时，CARDNAME即对他造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="8324c5a9-d126-4510-90ac-c6b1424137d9" resname="5ED·251 | Mons's Goblin Raiders | Card Name">
         <source>Mons's Goblin Raiders</source>
@@ -2258,7 +2258,7 @@
       </trans-unit>
       <trans-unit id="a2ddc97b-b13e-4947-b4df-f35790b89f15" resname="5ED·253 | Orcish Artillery | Card Text | Paragraphs">
         <source>oc\nT: CARDNAME deals 2 damage to target creature or player and 3 damage to you.</source>
-        <target state="translated">ocT：半兽人的大炮对目标生物或玩家造成2点伤害，并对你造成3点伤害。</target>
+        <target state="translated">ocT：CARDNAME对目标生物或玩家造成2点伤害，并对你造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="fe9d422f-101e-44f2-ab0d-7ad962c6d657" resname="5ED·254 | Orcish Captain | Card Name">
         <source>Orcish Captain</source>
@@ -2276,11 +2276,11 @@
       </trans-unit>
       <trans-unit id="17025cde-28a1-4a38-ad5a-1ead518d77af" resname="5ED·255 | Orcish Conscripts | Card Text | Paragraph 1">
         <source>CARDNAME cannot attack this turn unless at least two other creatures are attacking.</source>
-        <target state="translated">除非另外有至少两只生物一起攻击，否则半兽人民兵此回合不可进行攻击。</target>
+        <target state="translated">除非另外有至少两只生物一起攻击，否则CARDNAME此回合不可进行攻击。</target>
       </trans-unit>
       <trans-unit id="17025cde-28a1-4a38-ad5a-1ead518d77af" resname="5ED·255 | Orcish Conscripts | Card Text | Paragraph 2">
         <source>CARDNAME cannot be assigned to block this turn unless at least two other creatures are blocking.</source>
-        <target state="translated">除非另外有至少两只生物一起阻挡，否则半兽人民兵此回合不可进行阻挡。</target>
+        <target state="translated">除非另外有至少两只生物一起阻挡，否则CARDNAME此回合不可进行阻挡。</target>
       </trans-unit>
       <trans-unit id="fb2bb2b4-87ff-4971-9835-fd68d913af26" resname="5ED·256 | Orcish Farmer | Card Name">
         <source>Orcish Farmer</source>
@@ -2306,7 +2306,7 @@
       </trans-unit>
       <trans-unit id="86a27af5-cb26-4f39-8648-193bb116e3d6" resname="5ED·258 | Orcish Squatters | Card Text | Paragraph 1">
         <source>o0: Gain control of target land defending player controls as long as you control CARDNAME. CARDNAME deals no combat damage this turn. Use this ability only if CARDNAME is attacking and unblocked and only once each turn.</source>
-        <target state="translated">o0：只要你操控半兽人屯垦民，即获得目标地的操控权，半兽人屯垦民此回合不造成战斗伤害。你只能在半兽人屯垦民进行攻击且未被阻挡时使用此异能，并且每回合只能使用一次。</target>
+        <target state="translated">o0：只要你操控CARDNAME，即获得目标地的操控权，CARDNAME此回合不造成战斗伤害。你只能在CARDNAME进行攻击且未被阻挡时使用此异能，并且每回合只能使用一次。</target>
       </trans-unit>
       <trans-unit id="c7eef087-8500-4fca-a10a-ff65d348bcb1" resname="5ED·259 | Orgg | Card Name">
         <source>Orgg</source>
@@ -2320,12 +2320,12 @@
       </trans-unit>
       <trans-unit id="c7eef087-8500-4fca-a10a-ff65d348bcb1" resname="5ED·259 | Orgg | Card Text | Paragraph 2">
         <source>CARDNAME cannot attack if defending player controls an untapped creature with power 3 or greater.</source>
-        <target state="translated">若防御玩家操控了力量大于或等于3且未被横置的生物，则欧格不能攻击。</target>
+        <target state="translated">若防御玩家操控了力量大于或等于3且未被横置的生物，则CARDNAME不能攻击。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="c7eef087-8500-4fca-a10a-ff65d348bcb1" resname="5ED·259 | Orgg | Card Text | Paragraph 3">
         <source>CARDNAME cannot be assigned to block any creature with power 3 or greater.</source>
-        <target state="translated">欧格不能用来阻挡任何力量大于或等于3的生物。</target>
+        <target state="translated">CARDNAME不能用来阻挡任何力量大于或等于3的生物。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="97a86ee4-200e-4994-bd6f-0c1d3227ce5b" resname="5ED·260 | Panic | Card Name">
@@ -2354,7 +2354,7 @@
       </trans-unit>
       <trans-unit id="a53d8d6d-b8d3-4f71-a88a-5d639ce2925f" resname="5ED·261 | Primordial Ooze | Card Text | Paragraphs">
         <source>CARDNAME attacks each turn if able.\nDuring your upkeep, put a +1/+1 counter on CARDNAME. Then pay o\nX, where X is equal to the number of these counters on CARDNAME, or tap CARDNAME and it deals X damage to you.</source>
-        <target state="translated">在每回合若原生的流浆能够攻击则必须攻击。\n在你的维持阶段中，放一个+1/+1指示物在原生的流浆上，然后支付oX，此X等于其上该种指示物的数量；否则横置原生的流浆且它对你造成X点伤害。</target>
+        <target state="translated">在每回合若CARDNAME能够攻击则必须攻击。\n在你的维持阶段中，放一个+1/+1指示物在CARDNAME上，然后支付oX，此X等于其上该种指示物的数量；否则横置CARDNAME且它对你造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="15d2d7cd-d29d-4f19-8490-88bd526ff1c5" resname="5ED·262 | Pyroblast | Card Name">
         <source>Pyroblast</source>
@@ -2370,7 +2370,7 @@
       </trans-unit>
       <trans-unit id="45e9f71f-cb85-4b57-9bb3-fe98ed4a524e" resname="5ED·263 | Pyrotechnics | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage divided any way you choose among any number of target creatures and/or players.</source>
-        <target state="translated">烟火术造成4点伤害，可任意分配至任何数量的目标生物或玩家。</target>
+        <target state="translated">CARDNAME造成4点伤害，可任意分配至任何数量的目标生物或玩家。</target>
       </trans-unit>
       <trans-unit id="eb936214-df72-4d77-b8f7-879c2b4e31d7" resname="5ED·264 | Sabretooth Tiger | Card Name">
         <source>Sabretooth Tiger</source>
@@ -2418,7 +2418,7 @@
       </trans-unit>
       <trans-unit id="7f736379-1fe8-43b8-b749-f1e9baef96a6" resname="5ED·269 | Stone Giant | Card Text | Paragraphs">
         <source>oc\nT: Target creature you control with toughness less than CARDNAME's power gains flying until end of turn. At end of turn, destroy that creature.</source>
-        <target state="translated">ocT：目标你所操控且防御力低于石巨人力量的生物获得飞行异能，直到回合结束。在回合结束时，消灭该生物。</target>
+        <target state="translated">ocT：目标你所操控且防御力低于CARDNAME力量的生物获得飞行异能，直到回合结束。在回合结束时，消灭该生物。</target>
       </trans-unit>
       <trans-unit id="eb5935ef-8cc5-4587-b8eb-f6a2b2856260" resname="5ED·270 | Stone Rain | Card Name">
         <source>Stone Rain</source>
@@ -2434,7 +2434,7 @@
       </trans-unit>
       <trans-unit id="705c927b-1258-4758-bbff-10cc032587a2" resname="5ED·271 | Stone Spirit | Card Text | Paragraph 1">
         <source>CARDNAME cannot be blocked by creatures with flying.</source>
-        <target state="translated">石精灵不能被具飞行异能之生物阻挡。</target>
+        <target state="translated">CARDNAME不能被具飞行异能之生物阻挡。</target>
       </trans-unit>
       <trans-unit id="d3ded8fa-facf-4196-8964-56ebc6424be1" resname="5ED·272 | The Brute | Card Name">
         <source>The Brute</source>
@@ -2472,7 +2472,7 @@
       </trans-unit>
       <trans-unit id="06dc1c22-ef39-4f5f-a8af-4267a3d5db6f" resname="5ED·276 | Word of Blasting | Card Text | Paragraph 1">
         <source>Bury target Wall. CARDNAME deals to that Wall's controller an amount of damage equal to the Wall's total casting cost.</source>
-        <target state="translated">埋葬目标墙。爆碎咒对该墙的操控者造成等同于该墙总施放费用的伤害。</target>
+        <target state="translated">埋葬目标墙。CARDNAME对该墙的操控者造成等同于该墙总施放费用的伤害。</target>
       </trans-unit>
       <trans-unit id="5955eb2b-31a2-4e1e-bbbe-82eb53def698" resname="5ED·277 | An-Havva Constable | Card Name">
         <source>An-Havva Constable</source>
@@ -2480,7 +2480,7 @@
       </trans-unit>
       <trans-unit id="5955eb2b-31a2-4e1e-bbbe-82eb53def698" resname="5ED·277 | An-Havva Constable | Card Text | Paragraph 1">
         <source>CARDNAME has toughness equal to 1 plus the number of green creatures in play.</source>
-        <target state="translated">安哈瓦保安官之防御力等于场上绿色生物数目加1。</target>
+        <target state="translated">CARDNAME之防御力等于场上绿色生物数目加1。</target>
       </trans-unit>
       <trans-unit id="38af8356-2d7f-4699-9e57-08906c1c831b" resname="5ED·278 | Aspect of Wolf | Card Name">
         <source>Aspect of Wolf</source>
@@ -2504,7 +2504,7 @@
       </trans-unit>
       <trans-unit id="dd473981-a62c-480f-aeae-0218f3e07fa6" resname="5ED·279 | Aurochs | Card Text | Paragraph 2">
         <source>If CARDNAME attacks, it gets +1/+0 until end of turn for each other CARDNAME that attacks.</source>
-        <target state="translated">若原牛进行攻击，则其他每只进行攻击的原牛使牠+1/+0直到回合结束。</target>
+        <target state="translated">若CARDNAME进行攻击，则其他每只进行攻击的CARDNAME使牠+1/+0直到回合结束。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="f79357f4-ddd1-4b29-9e5f-813c799513ee" resname="5ED·280 | Birds of Paradise | Card Name">
@@ -2527,7 +2527,7 @@
       </trans-unit>
       <trans-unit id="22891f6c-7365-4baf-ae5a-49380be50895" resname="5ED·281 | Carapace | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Regenerate enchanted creature.</source>
-        <target state="translated">牺牲外甲壳：重生受此结界的生物。</target>
+        <target state="translated">牺牲CARDNAME：重生受此结界的生物。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="b0180bd6-f8eb-4cf7-b6d0-acb513076e00" resname="5ED·282 | Cat Warriors | Card Name">
@@ -2544,7 +2544,7 @@
       </trans-unit>
       <trans-unit id="0d977294-051a-4e6d-b2ba-c04494474aac" resname="5ED·283 | Chub Toad | Card Text | Paragraph 1">
         <source>If CARDNAME blocks or is blocked, it gets +2/+2 until end of turn.</source>
-        <target state="translated">若胖蟾蜍阻挡或被阻挡，则得到+2/+2直到回合结束。</target>
+        <target state="translated">若CARDNAME阻挡或被阻挡，则得到+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="853d15cd-a1a2-47a8-89c4-81b7ca663fff" resname="5ED·284 | Cockatrice | Card Name">
         <source>Cockatrice</source>
@@ -2556,7 +2556,7 @@
       </trans-unit>
       <trans-unit id="853d15cd-a1a2-47a8-89c4-81b7ca663fff" resname="5ED·284 | Cockatrice | Card Text | Paragraph 2">
         <source>If CARDNAME blocks or is blocked by any non-Wall creature, destroy that creature at end of combat.</source>
-        <target state="translated">若石化鸡蛇阻挡任何非墙生物，或被任何非墙生物阻挡，则在战斗结束时消灭该生物。</target>
+        <target state="translated">若CARDNAME阻挡任何非墙生物，或被任何非墙生物阻挡，则在战斗结束时消灭该生物。</target>
       </trans-unit>
       <trans-unit id="06274d3b-8feb-4c68-adbc-b1ee633c3353" resname="5ED·285 | Craw Giant | Card Name">
         <source>Craw Giant</source>
@@ -2606,7 +2606,7 @@
       </trans-unit>
       <trans-unit id="8cbb6c97-b972-4c78-ba95-6053f2466f20" resname="5ED·291 | Elven Riders | Card Text | Paragraph 1">
         <source>CARDNAME cannot be blocked except by Walls or creatures with flying.</source>
-        <target state="translated">只有墙或飞行生物能够阻挡妖精骑队。</target>
+        <target state="translated">只有墙或飞行生物能够阻挡CARDNAME。</target>
       </trans-unit>
       <trans-unit id="bd92d92c-a9c7-40c5-82f3-dbd19697f999" resname="5ED·292 | Elvish Archers | Card Name">
         <source>Elvish Archers</source>
@@ -2631,7 +2631,7 @@
       </trans-unit>
       <trans-unit id="e86f61bb-c2b5-4672-b262-1c72bd1de51f" resname="5ED·294 | Force of Nature | Card Text | Paragraphs">
         <source>Trample\nDuring your upkeep, pay o\nGo\nGo\nGo\nG or CARDNAME deals 8 damage to you.</source>
-        <target state="translated">践踏\n在你的维持阶段付出 oGoGoGoG，否则万物元气兽对你造成8点伤害。</target>
+        <target state="translated">践踏\n在你的维持阶段付出 oGoGoGoG，否则CARDNAME对你造成8点伤害。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="eb1638c4-effb-460b-af5d-aa17559dbd37" resname="5ED·295 | Foxfire | Card Name">
@@ -2655,7 +2655,7 @@
       </trans-unit>
       <trans-unit id="37f6f2bd-4e0e-42d8-b5a6-ad4ee736c69e" resname="5ED·296 | Fungusaur | Card Text | Paragraph 1">
         <source>At the end of any turn in which CARDNAME was damaged, put a +1/+1 counter on it.</source>
-        <target state="translated">在真菌兽受到伤害的该回合结束时，放置一个+1/+1指示物于其上。</target>
+        <target state="translated">在CARDNAME受到伤害的该回合结束时，放置一个+1/+1指示物于其上。</target>
       </trans-unit>
       <trans-unit id="0b8532a8-966e-4cba-b3a5-99cfb0ee1220" resname="5ED·297 | Fyndhorn Elder | Card Name">
         <source>Fyndhorn Elder</source>
@@ -2671,7 +2671,7 @@
       </trans-unit>
       <trans-unit id="4fa6c0d6-aa18-4c32-a641-1ec8e50a26f3" resname="5ED·298 | Ghazbán Ogre | Card Text | Paragraph 1">
         <source>During your upkeep, if a player has more life than any other, he or she gains control of CARDNAME.</source>
-        <target state="translated">在你的维持阶段中，若某一玩家的生命比其他玩家都高，则该玩家得到盖玆本食人魔的操控权。</target>
+        <target state="translated">在你的维持阶段中，若某一玩家的生命比其他玩家都高，则该玩家得到CARDNAME的操控权。</target>
       </trans-unit>
       <trans-unit id="07aee96b-1cf3-4cd9-9998-39ab16170c6b" resname="5ED·299 | Giant Growth | Card Name">
         <source>Giant Growth</source>
@@ -2687,7 +2687,7 @@
       </trans-unit>
       <trans-unit id="953cf3be-b975-4a10-8c92-c783c727dcfa" resname="5ED·300 | Giant Spider | Card Text | Paragraph 1">
         <source>CARDNAME can block creatures with flying.</source>
-        <target state="translated">巨型蜘蛛可阻挡具飞行异能的生物。</target>
+        <target state="translated">CARDNAME可阻挡具飞行异能的生物。</target>
       </trans-unit>
       <trans-unit id="68d8ad43-adea-47e8-9d9e-e14c2ad41489" resname="5ED·301 | Grizzly Bears | Card Name">
         <source>Grizzly Bears</source>
@@ -2700,7 +2700,7 @@
       </trans-unit>
       <trans-unit id="89ba2bff-08e6-4413-929b-80e13f193b1e" resname="5ED·302 | Hungry Mist | Card Text | Paragraphs">
         <source>During your upkeep, pay o\nGo\nG or bury CARDNAME.</source>
-        <target state="translated">你的维持阶段付出oGoG，否则埋葬饥饿之雾。</target>
+        <target state="translated">你的维持阶段付出oGoG，否则埋葬CARDNAME。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="1aa0de8c-a23f-49d2-ac16-91c0d1eb17a6" resname="5ED·303 | Hurricane | Card Name">
@@ -2709,7 +2709,7 @@
       </trans-unit>
       <trans-unit id="1aa0de8c-a23f-49d2-ac16-91c0d1eb17a6" resname="5ED·303 | Hurricane | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature with flying and each player.</source>
-        <target state="translated">飓风对每只具飞行异能的生物及每位玩家造成X点伤害。</target>
+        <target state="translated">CARDNAME对每只具飞行异能的生物及每位玩家造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="ccf9b2cc-b362-4488-93ef-e98398ff73ea" resname="5ED·304 | Instill Energy | Card Name">
         <source>Instill Energy</source>
@@ -2733,7 +2733,7 @@
       </trans-unit>
       <trans-unit id="64ca51ce-e0f4-42ce-b2a5-db73268bcf1f" resname="5ED·306 | Johtull Wurm | Card Text | Paragraph 1">
         <source>For each creature assigned to block it beyond the first, CARDNAME gets -2/-1 until end of turn.</source>
-        <target state="translated">若阻挡乔图尔亚龙的生物超过一只，从第二只开始，每只生物使乔图尔亚龙得到-2/-1直到回合结束。</target>
+        <target state="translated">若阻挡CARDNAME的生物超过一只，从第二只开始，每只生物使CARDNAME得到-2/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6a749837-56ff-4e42-9bf2-82633bccdc39" resname="5ED·307 | Killer Bees | Card Name">
         <source>Killer Bees</source>
@@ -2757,7 +2757,7 @@
       </trans-unit>
       <trans-unit id="fadc2d27-0c6c-4f68-bee0-0af6688f304d" resname="5ED·309 | Lhurgoyf | Card Text | Paragraph 1">
         <source>CARDNAME has power equal to the number of creature cards in all graveyards and toughness equal to 1 plus the number of creature cards in all graveyards.</source>
-        <target state="translated">拉高耶夫的力量等同于所有坟墓场内生物的数目，其防御力等同于所有坟墓场内生物的数目加1。</target>
+        <target state="translated">CARDNAME的力量等同于所有坟墓场内生物的数目，其防御力等同于所有坟墓场内生物的数目加1。</target>
       </trans-unit>
       <trans-unit id="fa1681fa-2edc-4c0c-b5ca-f7f2602a3467" resname="5ED·310 | Lifeforce | Card Name">
         <source>Lifeforce</source>
@@ -2773,11 +2773,11 @@
       </trans-unit>
       <trans-unit id="8af097b1-9eae-4bd6-8ee6-582cae57e970" resname="5ED·311 | Living Artifact | Card Text | Paragraph 1">
         <source>For each 1 damage dealt to you, put a vitality counter on CARDNAME.</source>
-        <target state="translated">你每受到1点伤害，即放一个活力指示物在活化神器上。</target>
+        <target state="translated">你每受到1点伤害，即放一个活力指示物在CARDNAME上。</target>
       </trans-unit>
       <trans-unit id="8af097b1-9eae-4bd6-8ee6-582cae57e970" resname="5ED·311 | Living Artifact | Card Text | Paragraph 2">
         <source>Remove a vitality counter from CARDNAME: Gain 1 life. Use this ability only during your upkeep and only once each turn.</source>
-        <target state="translated">从活化神器上除去一个活力指示物：得一点生命。此异能只能在你的维持阶段时使用，并且每回合只能使用一次。</target>
+        <target state="translated">从CARDNAME上除去一个活力指示物：得一点生命。此异能只能在你的维持阶段时使用，并且每回合只能使用一次。</target>
       </trans-unit>
       <trans-unit id="ab9a2294-dd5b-4658-9f79-334a51b03ea3" resname="5ED·312 | Living Lands | Card Name">
         <source>Living Lands</source>
@@ -2810,7 +2810,7 @@
       </trans-unit>
       <trans-unit id="ba4c0606-f9af-4dee-bc36-5051395b5f44" resname="5ED·315 | Marsh Viper | Card Text | Paragraph 1">
         <source>If CARDNAME damages any player, he or she gets two poison counters. If any player has ten or more poison counters, he or she loses the game.</source>
-        <target state="translated">如果有玩家被沼地毒蛇伤害，则该玩家获得两个中毒指示物。若任何玩家获得十个或以上的中毒指示物，该玩家即输掉此盘游戏。</target>
+        <target state="translated">如果有玩家被CARDNAME伤害，则该玩家获得两个中毒指示物。若任何玩家获得十个或以上的中毒指示物，该玩家即输掉此盘游戏。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="00a4ffc1-7731-42d9-b970-2a8d84cba14d" resname="5ED·316 | Nature's Lore | Card Name">
@@ -2835,7 +2835,7 @@
       </trans-unit>
       <trans-unit id="535b455a-417a-4490-8495-bda9441306c8" resname="5ED·318 | Primal Order | Card Text | Paragraph 1">
         <source>During each player's upkeep, CARDNAME deals to that player an amount of damage equal to the number of nonbasic lands he or she controls.</source>
-        <target state="translated">在每个玩家的维持阶段中，原始秩序对该玩家造成等同于其操控之非基本地数量的伤害。</target>
+        <target state="translated">在每个玩家的维持阶段中，CARDNAME对该玩家造成等同于其操控之非基本地数量的伤害。</target>
       </trans-unit>
       <trans-unit id="f5dbfeb2-76ac-48b2-99fb-fa4bcc59b2a5" resname="5ED·319 | Rabid Wombat | Card Name">
         <source>Rabid Wombat</source>
@@ -2843,11 +2843,11 @@
       </trans-unit>
       <trans-unit id="f5dbfeb2-76ac-48b2-99fb-fa4bcc59b2a5" resname="5ED·319 | Rabid Wombat | Card Text | Paragraph 1">
         <source>Attacking does not cause CARDNAME to tap.</source>
-        <target state="translated">疯狂袋熊攻击时不须横置。</target>
+        <target state="translated">CARDNAME攻击时不须横置。</target>
       </trans-unit>
       <trans-unit id="f5dbfeb2-76ac-48b2-99fb-fa4bcc59b2a5" resname="5ED·319 | Rabid Wombat | Card Text | Paragraph 2">
         <source>CARDNAME gets +2/+2 for each creature enchantment on it.</source>
-        <target state="translated">疯狂袋熊上的每个生物结界使它得到+2/+2。</target>
+        <target state="translated">CARDNAME上的每个生物结界使它得到+2/+2。</target>
       </trans-unit>
       <trans-unit id="adf02a10-86ba-4c2d-adc5-e4a2b7cc089e" resname="5ED·320 | Radjan Spirit | Card Name">
         <source>Radjan Spirit</source>
@@ -2864,7 +2864,7 @@
       </trans-unit>
       <trans-unit id="44fd0d1d-9422-4941-9491-8a8d64909f8e" resname="5ED·321 | Regeneration | Card Text | Paragraphs">
         <source>oo\nG Regenerate enchanted creature.</source>
-        <target state="translated">oG：重生受此结界的生物。</target>
+        <target state="translated">oG：CARDNAME受此结界的生物。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="07ad1b3a-3464-4080-819b-a62bf6c23a13" resname="5ED·322 | Scaled Wurm | Card Name">
@@ -2877,7 +2877,7 @@
       </trans-unit>
       <trans-unit id="ff4d1549-d0d5-48f8-9d8a-2e2940523307" resname="5ED·323 | Scavenger Folk | Card Text | Paragraphs">
         <source>o\nG, oc\nT, Sacrifice CARDNAME: Destroy target artifact.</source>
-        <target state="translated">oG，ocT，牺牲拾荒者：消灭目标神器。</target>
+        <target state="translated">oG，ocT，牺牲CARDNAME：消灭目标神器。</target>
       </trans-unit>
       <trans-unit id="ab52f491-26f1-494f-8ec7-9630c4f9653a" resname="5ED·324 | Scryb Sprites | Card Name">
         <source>Scryb Sprites</source>
@@ -2938,7 +2938,7 @@
       </trans-unit>
       <trans-unit id="d2160d57-9ebf-43fb-811f-0c014e417ea0" resname="5ED·330 | Tarpan | Card Text | Paragraph 1">
         <source>If CARDNAME is put into any graveyard from play, gain 1 life.</source>
-        <target state="translated">如果草原野马被从场上放入任何坟墓场，则你获得1点生命。</target>
+        <target state="translated">如果CARDNAME被从场上放入任何坟墓场，则你获得1点生命。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="511d4bc3-05ea-48f3-b182-dd0cd049ce54" resname="5ED·331 | Thicket Basilisk | Card Name">
@@ -2947,7 +2947,7 @@
       </trans-unit>
       <trans-unit id="511d4bc3-05ea-48f3-b182-dd0cd049ce54" resname="5ED·331 | Thicket Basilisk | Card Text | Paragraph 1">
         <source>If CARDNAME blocks or is blocked by any non-Wall creature, destroy that creature at end of combat.</source>
-        <target state="translated">若灌木丛蜥怪阻挡任何非墙生物，或被任何非墙生物阻挡，则于战斗结束时消灭该生物。</target>
+        <target state="translated">若CARDNAME阻挡任何非墙生物，或被任何非墙生物阻挡，则于战斗结束时消灭该生物。</target>
       </trans-unit>
       <trans-unit id="f837f0c8-4822-41f1-8677-988c13efe8d5" resname="5ED·332 | Titania's Song | Card Name">
         <source>Titania's Song</source>
@@ -2955,7 +2955,7 @@
       </trans-unit>
       <trans-unit id="f837f0c8-4822-41f1-8677-988c13efe8d5" resname="5ED·332 | Titania's Song | Card Text | Paragraph 1">
         <source>Each noncreature artifact loses its abilities and is an artifact creature with power and toughness each equal to its total casting cost. If CARDNAME leaves play, this effect continues until end of turn.</source>
-        <target state="translated">所有神器失去其异能，并成为力量及防御力等同于本身总施放费用的神器生物。若泰坦尼亚之歌被移出游戏，此效应维持到回合结束。</target>
+        <target state="translated">所有神器失去其异能，并成为力量及防御力等同于本身总施放费用的神器生物。若CARDNAME被移出游戏，此效应维持到回合结束。</target>
       </trans-unit>
       <trans-unit id="c6f8bd4a-ec7f-4da5-bd39-cba29541ee83" resname="5ED·333 | Tranquility | Card Name">
         <source>Tranquility</source>
@@ -3013,7 +3013,7 @@
       </trans-unit>
       <trans-unit id="6d93816b-cb5e-49b7-98bd-22de674c7873" resname="5ED·339 | Wanderlust | Card Text | Paragraph 1">
         <source>During the upkeep of enchanted creature's controller, CARDNAME deals 1 damage to him or her.</source>
-        <target state="translated">在受此结界的生物操控者的维持阶段，流浪欲对他造成1点伤害。</target>
+        <target state="translated">在受此结界的生物操控者的维持阶段，CARDNAME对他造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="c38912a6-0327-411a-9499-d659b635e2bd" resname="5ED·340 | War Mammoth | Card Name">
         <source>War Mammoth</source>
@@ -3035,7 +3035,7 @@
       </trans-unit>
       <trans-unit id="e51bfbd4-2319-41eb-b694-72874c24b31a" resname="5ED·341 | Whirling Dervish | Card Text | Paragraph 2">
         <source>If CARDNAME damages any opponent, put a +1/+1 counter on it at end of turn.</source>
-        <target state="translated">若苦修士对任何玩家造成伤害，则在回合结束时放一个+1/+1指示物在它身上。</target>
+        <target state="translated">若CARDNAME对任何玩家造成伤害，则在回合结束时放一个+1/+1指示物在它身上。</target>
       </trans-unit>
       <trans-unit id="2a9e6630-d57c-47fd-af0f-b2e2c2025599" resname="5ED·342 | Wild Growth | Card Name">
         <source>Wild Growth</source>
@@ -3051,7 +3051,7 @@
       </trans-unit>
       <trans-unit id="f2b01c34-faa9-43a3-a3dc-0f966e88e089" resname="5ED·343 | Winter Blast | Card Text | Paragraph 1">
         <source>Tap X target creatures. CARDNAME deals 2 damage to each of those creatures with flying.</source>
-        <target state="translated">横置X只生物，暴风雪对其中每只具飞行异能的生物造成2点伤害。</target>
+        <target state="translated">横置X只生物，CARDNAME对其中每只具飞行异能的生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="fab6d1e8-0985-4560-aea2-7ad1925a2f5a" resname="5ED·344 | Wolverine Pack | Card Name">
         <source>Wolverine Pack</source>
@@ -3077,7 +3077,7 @@
       </trans-unit>
       <trans-unit id="d74e4ed4-4470-4b3b-98cd-e4a8660b9768" resname="5ED·346 | Aladdin's Ring | Card Text | Paragraphs">
         <source>o8, oc\nT: CARDNAME deals 4 damage to target creature or player.</source>
-        <target state="translated">o8，ocT：阿拉丁戒指对目标玩家或生物造成4点伤害。</target>
+        <target state="translated">o8，ocT：CARDNAME对目标玩家或生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="50871a5f-ad52-470a-840a-2277f43ea47b" resname="5ED·347 | Amulet of Kroog | Card Name">
         <source>Amulet of Kroog</source>
@@ -3095,7 +3095,7 @@
       </trans-unit>
       <trans-unit id="e2d917dd-243e-4df2-9a44-1c2eae6ff859" resname="5ED·348 | Ankh of Mishra | Card Text | Paragraph 1">
         <source>Whenever a land comes into play, CARDNAME deals 2 damage to that land's controller.</source>
-        <target state="translated">当任何地牌进场时，米斯拉的神符对该地的操控者造成2点伤害。</target>
+        <target state="translated">当任何地牌进场时，CARDNAME对该地的操控者造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="eab611c3-3a24-4033-864f-084b71317320" resname="5ED·349 | Ashnod's Altar | Card Name">
         <source>Ashnod's Altar</source>
@@ -3112,7 +3112,7 @@
       </trans-unit>
       <trans-unit id="ee48bcd6-afb5-4023-9417-ed3126bcc31d" resname="5ED·350 | Ashnod's Transmogrant | Card Text | Paragraphs">
         <source>oc\nT, Sacrifice CARDNAME: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact creature permanently.</source>
-        <target state="translated">ocT，牺牲阿士诺生化增幅机：放置一个+1/+1指示物在目标非神器生物上。该生物永久地成为神器生物。</target>
+        <target state="translated">ocT，牺牲CARDNAME：放置一个+1/+1指示物在目标非神器生物上。该生物永久地成为神器生物。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="db9791ab-1cc4-41ad-a721-57f214c357f8" resname="5ED·351 | Barbed Sextant | Card Name">
@@ -3122,7 +3122,7 @@
       </trans-unit>
       <trans-unit id="db9791ab-1cc4-41ad-a721-57f214c357f8" resname="5ED·351 | Barbed Sextant | Card Text | Paragraphs">
         <source>o1, oc\nT, Sacrifice CARDNAME: Add one mana of any color to your mana pool. Play this ability as a mana source. Draw a card at the beginning of the next turn.</source>
-        <target state="translated">o1，ocT，牺牲带刺六分仪：加一点任意颜色的法术力到你的法术力池中。将此效应视为法术力源使用。你在下回合开始时抽一张牌。</target>
+        <target state="translated">o1，ocT，牺牲CARDNAME：加一点任意颜色的法术力到你的法术力池中。将此效应视为法术力源使用。你在下回合开始时抽一张牌。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="ecce3e79-c729-4efd-a2f3-5d2910ba2c3f" resname="5ED·352 | Barl's Cage | Card Name">
@@ -3145,7 +3145,7 @@
       </trans-unit>
       <trans-unit id="e7e2857f-f6eb-4091-b758-7bb508544170" resname="5ED·353 | Battering Ram | Card Text | Paragraph 2">
         <source>If CARDNAME is blocked by any Wall, destroy that Wall at end of combat.</source>
-        <target state="translated">若攻城槌被任何墙阻挡，在战斗结束时消灭该墙。</target>
+        <target state="translated">若CARDNAME被任何墙阻挡，在战斗结束时消灭该墙。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="f1de13cc-65b4-4a72-8a53-a05a46a40f61" resname="5ED·354 | Bottle of Suleiman | Card Name">
@@ -3154,7 +3154,7 @@
       </trans-unit>
       <trans-unit id="f1de13cc-65b4-4a72-8a53-a05a46a40f61" resname="5ED·354 | Bottle of Suleiman | Card Text | Paragraph 1">
         <source>o1, Sacrifice CARDNAME: Flip a coin; target opponent calls heads or tails while coin is in the air. If the flip ends up in opponent's favor, CARDNAME deals 5 damage to you. Otherwise, put a Djinn token into play. Treat this token as a 5/5 artifact creature with flying.</source>
-        <target state="translated">o1，牺牲苏利南的瓶子：掷一个硬币，目标对手在硬币仍为落下时决定正反面。若对手猜中，则苏利南的瓶子对你造成5点伤害。若对手猜错，则放置一巨灵衍生物进场。将此衍生物视为一个5/5且具飞行异能的神器生物。</target>
+        <target state="translated">o1，牺牲CARDNAME：掷一个硬币，目标对手在硬币仍为落下时决定正反面。若对手猜中，则CARDNAME对你造成5点伤害。若对手猜错，则放置一巨灵衍生物进场。将此衍生物视为一个5/5且具飞行异能的神器生物。</target>
       </trans-unit>
       <trans-unit id="34727679-9c42-4577-80c3-88495aa0e96d" resname="5ED·355 | Clay Statue | Card Name">
         <source>Clay Statue</source>
@@ -3172,19 +3172,19 @@
       </trans-unit>
       <trans-unit id="ed5507d5-7f1b-4cbf-8341-495c33e5ab6c" resname="5ED·356 | Clockwork Beast | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, put seven +1/+0 counters on it. At the end of any combat in which CARDNAME attacked or blocked, remove one of these counters.</source>
-        <target state="translated">当发条兽进场时，放置七个+1/+0指示物在其上。</target>
+        <target state="translated">当CARDNAME进场时，放置七个+1/+0指示物在其上。</target>
       </trans-unit>
       <trans-unit id="ed5507d5-7f1b-4cbf-8341-495c33e5ab6c" resname="5ED·356 | Clockwork Beast | Card Text | Paragraph 2">
         <source>o</source>
-        <target state="translated">在任何战斗结束时，若发条兽在该战斗中曾攻击或阻挡，则移去一个指示物。</target>
+        <target state="translated">在任何战斗结束时，若CARDNAME在该战斗中曾攻击或阻挡，则移去一个指示物。</target>
       </trans-unit>
       <trans-unit id="ed5507d5-7f1b-4cbf-8341-495c33e5ab6c" resname="5ED·356 | Clockwork Beast | Card Text | Paragraph 3">
         <source>X, oc</source>
-        <target state="translated">oX，ocT：放置X个 +1/+0指示物在发条兽上。</target>
+        <target state="translated">oX，ocT：放置X个 +1/+0指示物在CARDNAME上。</target>
       </trans-unit>
       <trans-unit id="ed5507d5-7f1b-4cbf-8341-495c33e5ab6c" resname="5ED·356 | Clockwork Beast | Card Text | Paragraph 4">
         <source>T: Put X +1/+0 counters on CARDNAME. You may have no more than seven of of these counters on CARDNAME. Use this ability only during your upkeep.</source>
-        <target state="translated">发条兽上的指示物不可超过七个。你只可在你的维持阶段中使用此异能。</target>
+        <target state="translated">CARDNAME上的指示物不可超过七个。你只可在你的维持阶段中使用此异能。</target>
       </trans-unit>
       <trans-unit id="d27d83b9-4454-40c0-bac0-de736c634a53" resname="5ED·357 | Clockwork Steed | Card Name">
         <source>Clockwork Steed</source>
@@ -3192,7 +3192,7 @@
       </trans-unit>
       <trans-unit id="d27d83b9-4454-40c0-bac0-de736c634a53" resname="5ED·357 | Clockwork Steed | Card Text | Paragraphs">
         <source>CARDNAME cannot be blocked by artifact creatures.\nWhen CARDNAME comes into play, put four +1/+0 counters on it. At the end of any combat in which CARDNAME attacked or blocked, remove one of these counters.\no\nX, oc\nT: Put X +1/+0 counters on CARDNAME. You may have no more than four of these counters on CARDNAME. Use this ability only during your upkeep.</source>
-        <target state="translated">发条马不可被神器生物阻挡。\n当发条马进场时，放置四个+1/+0指示物在其上。\n在任何战斗结束时，若发条马在该战斗中曾攻击或阻挡，则移去一个指示物。\noX，ocT：放置X个+1/+0指示物在发条马上。发条马上的指示物不可超过四个。你只可在你的维持阶段中使用此异能。</target>
+        <target state="translated">CARDNAME不可被神器生物阻挡。\n当CARDNAME进场时，放置四个+1/+0指示物在其上。\n在任何战斗结束时，若CARDNAME在该战斗中曾攻击或阻挡，则移去一个指示物。\noX，ocT：放置X个+1/+0指示物在CARDNAME上。CARDNAME上的指示物不可超过四个。你只可在你的维持阶段中使用此异能。</target>
       </trans-unit>
       <trans-unit id="a6f1ffdd-897e-4a1d-bdd2-d9de0de5d5a2" resname="5ED·358 | Colossus of Sardia | Card Name">
         <source>Colossus of Sardia</source>
@@ -3201,7 +3201,7 @@
       </trans-unit>
       <trans-unit id="a6f1ffdd-897e-4a1d-bdd2-d9de0de5d5a2" resname="5ED·358 | Colossus of Sardia | Card Text | Paragraphs">
         <source>Trample\nCARDNAME does not untap during your untap phase.\no9: Untap CARDNAME. Use this ability only during your upkeep.</source>
-        <target state="translated">践踏\n沙地亚巨像不可在你的重置阶段中重置。\no9：重置沙地亚巨像。你只能在你的维持阶段中使\n用此异能。</target>
+        <target state="translated">践踏\nCARDNAME不可在你的重置阶段中重置。\no9：重置CARDNAME。你只能在你的维持阶段中使\n用此异能。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="274e3a79-d7e5-46e2-bd9f-209e67294f82" resname="5ED·359 | Coral Helm | Card Name">
@@ -3250,7 +3250,7 @@
       </trans-unit>
       <trans-unit id="010d1107-a18c-4e25-86c7-8e09cba72a12" resname="5ED·364 | Dingus Egg | Card Text | Paragraph 1">
         <source>Whenever a land is put into any graveyard from play, CARDNAME deals 2 damage to that land's controller.</source>
-        <target state="translated">当任何地由场中被放入任何坟墓场时，爆地蛋对该地的操控者造成2点伤害。</target>
+        <target state="translated">当任何地由场中被放入任何坟墓场时，CARDNAME对该地的操控者造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="060f2e80-f7af-4b9d-bb0f-3de14ddf0b02" resname="5ED·365 | Disrupting Scepter | Card Name">
         <source>Disrupting Scepter</source>
@@ -3282,7 +3282,7 @@
       </trans-unit>
       <trans-unit id="030301c9-b576-43ba-b05a-a52904c92be9" resname="5ED·368 | Feldon's Cane | Card Text | Paragraphs">
         <source>oc\nT, Remove CARDNAME from the game: Shuffle your graveyard into your library.</source>
-        <target state="translated">ocT，将费顿的手杖移出游戏：将你的坟墓场中所有的牌置入牌库中，并且将牌库洗牌。</target>
+        <target state="translated">ocT，将CARDNAME移出游戏：将你的坟墓场中所有的牌置入牌库中，并且将牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="2716dacb-4fb7-4fa8-869d-22af82920564" resname="5ED·369 | Fellwar Stone | Card Name">
         <source>Fellwar Stone</source>
@@ -3310,7 +3310,7 @@
       </trans-unit>
       <trans-unit id="c5f33257-4539-4b33-86d5-26fedbc417b1" resname="5ED·371 | Flying Carpet | Card Text | Paragraph 2">
         <source>T: Target creature gains flying until end of turn. If that creature is put into any graveyard this turn, bury CARDNAME.</source>
-        <target state="translated">若该生物在此回合被放置入坟墓场，则埋葬飞毯。</target>
+        <target state="translated">若该生物在此回合被放置入坟墓场，则埋葬CARDNAME。</target>
       </trans-unit>
       <trans-unit id="a726d567-ad74-4b77-bbd5-8a0902cdaf6a" resname="5ED·372 | Fountain of Youth | Card Name">
         <source>Fountain of Youth</source>
@@ -3326,7 +3326,7 @@
       </trans-unit>
       <trans-unit id="548045fe-5302-4295-9060-e85614bb9a91" resname="5ED·373 | Gauntlets of Chaos | Card Text | Paragraph 1">
         <source>o5, Sacrifice CARDNAME: Exchange control of target artifact, creature, or land you control for control of target permanent of the same type that an opponent controls. Bury all enchantments played on those permanents.</source>
-        <target state="translated">o5，牺牲混乱护手：将目标由你所操控的神器、生物或地之操控权，与一个目标对手所操控的同种类永久物之操控权交换。埋葬这些永久物上的所有结界。</target>
+        <target state="translated">o5，牺牲CARDNAME：将目标由你所操控的神器、生物或地之操控权，与一个目标对手所操控的同种类永久物之操控权交换。埋葬这些永久物上的所有结界。</target>
       </trans-unit>
       <trans-unit id="3259a69e-1011-475b-b554-8cf5a25169f3" resname="5ED·374 | Glasses of Urza | Card Name">
         <source>Glasses of Urza</source>
@@ -3342,7 +3342,7 @@
       </trans-unit>
       <trans-unit id="9ae0fe07-85b6-4179-859b-fbae74faab5f" resname="5ED·375 | Grapeshot Catapult | Card Text | Paragraphs">
         <source>oc\nT: CARDNAME deals 1 damage to target creature with flying.</source>
-        <target state="translated">ocT：散弹投石器对目标具飞行异能生物造成1点伤害。</target>
+        <target state="translated">ocT：CARDNAME对目标具飞行异能生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="9664a59d-182a-429b-a6f7-047b8b8e5ffe" resname="5ED·376 | Helm of Chatzuk | Card Name">
         <source>Helm of Chatzuk</source>
@@ -3368,15 +3368,15 @@
       </trans-unit>
       <trans-unit id="fbafc838-7458-4542-86f3-594326ec0691" resname="5ED·378 | Infinite Hourglass | Card Text | Paragraph 1">
         <source>During your upkeep, put a time counter on CARDNAME.</source>
-        <target state="translated">在你的维持阶段中，放置一个计时指示物于无垠沙漏上。</target>
+        <target state="translated">在你的维持阶段中，放置一个计时指示物于CARDNAME上。</target>
       </trans-unit>
       <trans-unit id="fbafc838-7458-4542-86f3-594326ec0691" resname="5ED·378 | Infinite Hourglass | Card Text | Paragraph 2">
         <source>All creatures get +X/+0, where X is equal to the number of time counters on CARDNAME.</source>
-        <target state="translated">所有生物得+X/+0，其中X等于在无垠沙漏上计时指示物的数量。</target>
+        <target state="translated">所有生物得+X/+0，其中X等于在CARDNAME上计时指示物的数量。</target>
       </trans-unit>
       <trans-unit id="fbafc838-7458-4542-86f3-594326ec0691" resname="5ED·378 | Infinite Hourglass | Card Text | Paragraph 3">
         <source>Any player may pay o3 during any upkeep to remove a time counter from CARDNAME.</source>
-        <target state="translated">任何玩家皆可以在任何维持阶段中支付o3以移去无垠沙漏上的一个计时指示物。</target>
+        <target state="translated">任何玩家皆可以在任何维持阶段中支付o3以移去CARDNAME上的一个计时指示物。</target>
       </trans-unit>
       <trans-unit id="6dcbaa97-49f8-41b4-8901-eb53f6c15faf" resname="5ED·379 | Iron Star | Card Name">
         <source>Iron Star</source>
@@ -3432,7 +3432,7 @@
       </trans-unit>
       <trans-unit id="e10f2619-e723-4402-ae4e-79d762004477" resname="5ED·385 | Jester's Cap | Card Text | Paragraphs">
         <source>o2, oc\nT, Sacrifice CARDNAME: Look through target player's library and remove any three of those cards from the game. Shuffle that library afterwards.</source>
-        <target state="translated">o2，ocT，牺牲小丑帽：检视目标对手牌库中全部的牌，并且将其中三张牌移出游戏。其后将该牌库洗牌。</target>
+        <target state="translated">o2，ocT，牺牲CARDNAME：检视目标对手牌库中全部的牌，并且将其中三张牌移出游戏。其后将该牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="91c7aa8e-5873-4e18-8adb-1523c01d4e86" resname="5ED·386 | Joven's Tools | Card Name">
         <source>Joven's Tools</source>
@@ -3460,7 +3460,7 @@
       </trans-unit>
       <trans-unit id="05e9fec4-1e0a-4206-ab2b-cc2543cba667" resname="5ED·388 | Mana Vault | Card Text | Paragraphs">
         <source>CARDNAME does not untap during your untap phase.\nAt the end of your upkeep, if CARDNAME is tapped, it deals 1 damage to you.\no4: Untap CARDNAME at end of upkeep. Use this ability only during your upkeep.\noc\nT: Add three colorless mana to your mana pool. Play this ability as a mana source.</source>
-        <target state="translated">魔法力库不可在你的重置阶段中重置。\n在你的维持阶段结束时，若魔法力库为已横置，则它对你造成1点伤害。\no4：重置魔法力库。你只能在你的维持阶段中使用此异能。\noT：加三点无色法术力到你的法术力池中。将此异能视为法术力源使用。</target>
+        <target state="translated">CARDNAME不可在你的重置阶段中重置。\n在你的维持阶段结束时，若CARDNAME为已横置，则它对你造成1点伤害。\no4：重置CARDNAME。你只能在你的维持阶段中使用此异能。\noT：加三点无色法术力到你的法术力池中。将此异能视为法术力源使用。</target>
       </trans-unit>
       <trans-unit id="4391d903-1370-4a3a-9919-7a07e580a26c" resname="5ED·389 | Meekstone | Card Name">
         <source>Meekstone</source>
@@ -3484,7 +3484,7 @@
       </trans-unit>
       <trans-unit id="9652c405-17fb-4505-8470-8a2969c73b6b" resname="5ED·391 | Nevinyrral's Disk | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\no1, oc\nT: Destroy all artifacts, creatures, and enchantments.</source>
-        <target state="translated">妮维亚洛之碟须横置进场。\no1，ocT：消灭所有神器、生物及结界。</target>
+        <target state="translated">CARDNAME须横置进场。\no1，ocT：消灭所有神器、生物及结界。</target>
       </trans-unit>
       <trans-unit id="7c0672d1-1d47-42ea-b8b0-95c400b0f78e" resname="5ED·392 | Obelisk of Undoing | Card Name">
         <source>Obelisk of Undoing</source>
@@ -3516,7 +3516,7 @@
       </trans-unit>
       <trans-unit id="152f731f-78a6-444e-9a43-85446fa38f30" resname="5ED·395 | Primal Clay | Card Text | Paragraph 1">
         <source>When you play CARDNAME, choose one—CARDNAME is a 2/2 artifact creature with flying; or CARDNAME is a 3/3 artifact creature; or CARDNAME is a 1/6 artifact creature that counts as a Wall.</source>
-        <target state="translated">当未塑型的黏土进场时，选择一项～未塑型的黏土是一只2/2且具飞行异能的神器生物；或者未塑型的黏土是一只3/3的神器生物；或者未塑型的黏土是一只1/6且被视为墙的神器生物。</target>
+        <target state="translated">当CARDNAME进场时，选择一项～CARDNAME是一只2/2且具飞行异能的神器生物；或者CARDNAME是一只3/3的神器生物；或者CARDNAME是一只1/6且被视为墙的神器生物。</target>
       </trans-unit>
       <trans-unit id="1589724f-bec2-43a9-824a-1e85020731a4" resname="5ED·396 | Rod of Ruin | Card Name">
         <source>Rod of Ruin</source>
@@ -3524,7 +3524,7 @@
       </trans-unit>
       <trans-unit id="1589724f-bec2-43a9-824a-1e85020731a4" resname="5ED·396 | Rod of Ruin | Card Text | Paragraphs">
         <source>o3, oc\nT: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">o3，ocT：遗迹棍棒对目标生物或玩家造成1点伤害。</target>
+        <target state="translated">o3，ocT：CARDNAME对目标生物或玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="0b08f89d-2ce3-4686-a8bd-ed982280ae4d" resname="5ED·397 | Serpent Generator | Card Name">
         <source>Serpent Generator</source>
@@ -3542,15 +3542,15 @@
       </trans-unit>
       <trans-unit id="a0aca05e-87c0-4c50-af47-37c61c55934d" resname="5ED·398 | Shapeshifter | Card Text | Paragraph 1">
         <source>CARDNAME has total power and toughness of 7, divided any way you choose, though neither can be more than 7.</source>
-        <target state="translated">变形侠的力量及防御力总合为7，你可以用任何方式分配，但两者皆不可大于7。</target>
+        <target state="translated">CARDNAME的力量及防御力总合为7，你可以用任何方式分配，但两者皆不可大于7。</target>
       </trans-unit>
       <trans-unit id="a0aca05e-87c0-4c50-af47-37c61c55934d" resname="5ED·398 | Shapeshifter | Card Text | Paragraph 2">
         <source>When you play CARDNAME, choose its power and toughness.</source>
-        <target state="translated">当变形侠进场时，你要决定变形侠的力量及防御力。</target>
+        <target state="translated">当CARDNAME进场时，你要决定CARDNAME的力量及防御力。</target>
       </trans-unit>
       <trans-unit id="a0aca05e-87c0-4c50-af47-37c61c55934d" resname="5ED·398 | Shapeshifter | Card Text | Paragraph 3">
         <source>During your upkeep, choose CARDNAME's power and toughness.</source>
-        <target state="translated">在你的维持阶段中，决定变形侠的力量及防御力。</target>
+        <target state="translated">在你的维持阶段中，决定CARDNAME的力量及防御力。</target>
       </trans-unit>
       <trans-unit id="e6baa736-60c3-4192-a5d3-150c90c31847" resname="5ED·399 | Skull Catapult | Card Name">
         <source>Skull Catapult</source>
@@ -3559,7 +3559,7 @@
       </trans-unit>
       <trans-unit id="e6baa736-60c3-4192-a5d3-150c90c31847" resname="5ED·399 | Skull Catapult | Card Text | Paragraphs">
         <source>o1, oc\nT, Sacrifice a creature: CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">o1，ocT，牺牲一只生物：骷髅投石器对目标生物或玩家造成2点伤害。</target>
+        <target state="translated">o1，ocT，牺牲一只生物：CARDNAME对目标生物或玩家造成2点伤害。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="321d3dc9-4bd0-440e-9436-c565f500e126" resname="5ED·400 | Soul Net | Card Name">
@@ -3576,7 +3576,7 @@
       </trans-unit>
       <trans-unit id="eefe0113-8ac4-4d89-8ed3-010ccb57f3f0" resname="5ED·401 | Tawnos's Weaponry | Card Text | Paragraphs">
         <source>You may choose not to untap CARDNAME during your untap phase.\no2, oc\nT: Target creature gets +1/+1 as long as CARDNAME remains tapped.</source>
-        <target state="translated">你可选择在你的重置阶段中不重置达硌士的兵器。\no2，ocT：只要达硌士的兵器持续被横置，目标生物便得到+1/+1。</target>
+        <target state="translated">你可选择在你的重置阶段中不重置CARDNAME。\no2，ocT：只要CARDNAME持续被横置，目标生物便得到+1/+1。</target>
       </trans-unit>
       <trans-unit id="885c72d8-cee1-4a67-a394-b7dfe89bbd2e" resname="5ED·402 | The Hive | Card Name">
         <source>The Hive</source>
@@ -3601,7 +3601,7 @@
       </trans-unit>
       <trans-unit id="0e3b9a42-29a5-47f9-9c65-db9f3d432bf5" resname="5ED·404 | Time Bomb | Card Text | Paragraphs">
         <source>During your upkeep, put a time counter on CARDNAME.\no1, oc\nT, Sacrifice CARDNAME: CARDNAME deals to each creature and player an amount of damage equal to the number of time counters on CARDNAME.</source>
-        <target state="translated">在你的维持阶段中，放置一个计时指示物于定时炸弹上。\no1，ocT，牺牲定时炸弹：定时炸弹对所有玩家及生物造成与在定时炸弹上之计时指示物数量等量的伤害。</target>
+        <target state="translated">在你的维持阶段中，放置一个计时指示物于CARDNAME上。\no1，ocT，牺牲CARDNAME：CARDNAME对所有玩家及生物造成与在CARDNAME上之计时指示物数量等量的伤害。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="60bd9559-1a8f-47d0-af6b-d0681cae4060" resname="5ED·405 | Urza's Avenger | Card Name">
@@ -3621,7 +3621,7 @@
       </trans-unit>
       <trans-unit id="876c1811-990c-41ca-874f-fd0512b59d06" resname="5ED·406 | Urza's Bauble | Card Text | Paragraphs">
         <source>oc\nT, Sacrifice CARDNAME: Choose a card at random from target player's hand and look at that card. Draw a card at the beginning of the next turn.</source>
-        <target state="translated">ocT，牺牲克撒的饰品：随机由目标对手的手牌中选择一张，并且检视该牌。你在下回合开始时抽一张牌。</target>
+        <target state="translated">ocT，牺牲CARDNAME：随机由目标对手的手牌中选择一张，并且检视该牌。你在下回合开始时抽一张牌。</target>
         <note xmlns:from="developer">简中第五版缺失了99张牌，这些牌仅出现在繁中第五版中。</note>
       </trans-unit>
       <trans-unit id="60a116c9-2f80-4e76-b158-c23f101872db" resname="5ED·407 | Wall of Spears | Card Name">
@@ -3634,7 +3634,7 @@
       </trans-unit>
       <trans-unit id="60a116c9-2f80-4e76-b158-c23f101872db" resname="5ED·407 | Wall of Spears | Card Text | Paragraph 2">
         <source>CARDNAME counts as a Wall.</source>
-        <target state="translated">将长矛之墙视为墙。</target>
+        <target state="translated">将CARDNAME视为墙。</target>
       </trans-unit>
       <trans-unit id="3a674ec8-5531-4d06-aa57-929c6ac29238" resname="5ED·408 | Winter Orb | Card Name">
         <source>Winter Orb</source>
@@ -3658,7 +3658,7 @@
       </trans-unit>
       <trans-unit id="56c1e5f1-4665-4afc-83e4-4968df72eb8f" resname="5ED·410 | Adarkar Wastes | Card Text | Paragraphs">
         <source>oc\nT: Add one colorless mana to your mana pool.\noc\nT: Add o\nW or o\nU to your mana pool. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\nocT：加oW或oU到你的法术力池中，阿达卡荒野对你造成1点伤害。</target>
+        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\nocT：加oW或oU到你的法术力池中，CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="c8913994-c3e7-4d9e-9409-a8409ce68442" resname="5ED·411 | Bottomless Vault | Card Name">
         <source>Bottomless Vault</source>
@@ -3666,7 +3666,7 @@
       </trans-unit>
       <trans-unit id="c8913994-c3e7-4d9e-9409-a8409ce68442" resname="5ED·411 | Bottomless Vault | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\nYou may choose not to untap CARDNAME during your untap phase and put a storage counter on it instead.\noc\nT, Remove X storage counters from CARDNAME: Add an amount of o\nB equal to X to your mana pool.</source>
-        <target state="translated">无底地窖须横置进场。\n在你的重置阶段中，你可以选择不重置无底地窖而在上面放一个储藏指示物。\nocT，从无底地窖上移出X个储藏指示物：加X点的oB到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\n在你的重置阶段中，你可以选择不重置CARDNAME而在上面放一个储藏指示物。\nocT，从CARDNAME上移出X个储藏指示物：加X点的oB到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="e6793b15-37fb-495e-b5e2-22c1df4cdc05" resname="5ED·412 | Brushland | Card Name">
         <source>Brushland</source>
@@ -3674,7 +3674,7 @@
       </trans-unit>
       <trans-unit id="e6793b15-37fb-495e-b5e2-22c1df4cdc05" resname="5ED·412 | Brushland | Card Text | Paragraphs">
         <source>oc\nT: Add one colorless mana to your mana pool.\noc\nT: Add o\nG or o\nW to your mana pool. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\nocT：加oG或oW到你的法术力池中，矮丛林地对你造成1点伤害。</target>
+        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\nocT：加oG或oW到你的法术力池中，CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="56816a2d-4faa-4fbd-bf1a-35fa3e90ccf6" resname="5ED·413 | City of Brass | Card Name">
         <source>City of Brass</source>
@@ -3682,7 +3682,7 @@
       </trans-unit>
       <trans-unit id="56816a2d-4faa-4fbd-bf1a-35fa3e90ccf6" resname="5ED·413 | City of Brass | Card Text | Paragraphs">
         <source>Whenever CARDNAME becomes tapped, it deals 1 damage to you.\noc\nT: Add one mana of any color to your mana pool.</source>
-        <target state="translated">只要黄铜之都成为横置，它就对你造成1点伤害。\nocT：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">只要CARDNAME成为横置，它就对你造成1点伤害。\nocT：加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="79cb55f0-f0e8-4644-8c19-54efe5854973" resname="5ED·414 | Dwarven Hold | Card Name">
         <source>Dwarven Hold</source>
@@ -3690,7 +3690,7 @@
       </trans-unit>
       <trans-unit id="79cb55f0-f0e8-4644-8c19-54efe5854973" resname="5ED·414 | Dwarven Hold | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\nYou may choose not to untap CARDNAME during your untap phase and put a storage counter on it instead.\noc\nT, Remove X storage counters from CARDNAME: Add an amount of o\nR equal to X to your mana pool.</source>
-        <target state="translated">矮人储藏仓须横置进场。\n在你的重置阶段中，你可以选择不重置矮人储藏仓而在上面放一个储藏指示物。\nocT，从矮人储藏仓上移出X个储藏指示物：加X点的oR到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\n在你的重置阶段中，你可以选择不重置CARDNAME而在上面放一个储藏指示物。\nocT，从CARDNAME上移出X个储藏指示物：加X点的oR到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="048fc9a8-cc3c-43a1-89dd-c9a8fa72bdc6" resname="5ED·415 | Dwarven Ruins | Card Name">
         <source>Dwarven Ruins</source>
@@ -3698,7 +3698,7 @@
       </trans-unit>
       <trans-unit id="048fc9a8-cc3c-43a1-89dd-c9a8fa72bdc6" resname="5ED·415 | Dwarven Ruins | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o\nR to your mana pool.\noc\nT, Sacrifice CARDNAME: Add o\nRo\nR to your mana pool.</source>
-        <target state="translated">矮人遗迹须横置进场。\nocT：加oR到你的法术力池中。\nocT，牺牲矮人遗迹：加oRoR到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\nocT：加oR到你的法术力池中。\nocT，牺牲CARDNAME：加oRoR到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="b0509266-2bd5-4958-a497-935e004cc20f" resname="5ED·416 | Ebon Stronghold | Card Name">
         <source>Ebon Stronghold</source>
@@ -3706,7 +3706,7 @@
       </trans-unit>
       <trans-unit id="b0509266-2bd5-4958-a497-935e004cc20f" resname="5ED·416 | Ebon Stronghold | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o\nB to your mana pool.\noc\nT, Sacrifice CARDNAME: Add o\nBo\nB to your mana pool.</source>
-        <target state="translated">黑檀堡垒须横置进场。\nocT：加oB到你的法术力池中。\nocT，牺牲黑檀堡垒：加oBoB到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\nocT：加oB到你的法术力池中。\nocT，牺牲CARDNAME：加oBoB到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="ce1a1d66-7694-4e12-a4d6-34ca36656db4" resname="5ED·417 | Havenwood Battleground | Card Name">
         <source>Havenwood Battleground</source>
@@ -3714,7 +3714,7 @@
       </trans-unit>
       <trans-unit id="ce1a1d66-7694-4e12-a4d6-34ca36656db4" resname="5ED·417 | Havenwood Battleground | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o\nG to your mana pool.\noc\nT, Sacrifice CARDNAME: Add o\nGo\nG to your mana pool.</source>
-        <target state="translated">海温森战场须横置进场。\nocT：加oG到你的法术力池中。\nocT，牺牲海温森战场：加oGoG到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\nocT：加oG到你的法术力池中。\nocT，牺牲CARDNAME：加oGoG到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="3d6d30a4-a24e-4537-9230-bf6f57fbcd98" resname="5ED·418 | Hollow Trees | Card Name">
         <source>Hollow Trees</source>
@@ -3722,7 +3722,7 @@
       </trans-unit>
       <trans-unit id="3d6d30a4-a24e-4537-9230-bf6f57fbcd98" resname="5ED·418 | Hollow Trees | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\nYou may choose not to untap CARDNAME during your untap phase and put a storage counter on it instead.\noc\nT, Remove X storage counters from CARDNAME: Add an amount of o\nG equal to X to your mana pool.</source>
-        <target state="translated">空心木林场须横置进场。\n在你的重置阶段中，你可以选择不重置空心木林场而在上面放一个储藏指示物。\nocT，从空心木林场上移出X个储藏指示物：加X点的oG到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\n在你的重置阶段中，你可以选择不重置CARDNAME而在上面放一个储藏指示物。\nocT，从CARDNAME上移出X个储藏指示物：加X点的oG到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="e68c45d3-0f3c-4429-a93e-4ca70ea6b1a4" resname="5ED·419 | Icatian Store | Card Name">
         <source>Icatian Store</source>
@@ -3730,7 +3730,7 @@
       </trans-unit>
       <trans-unit id="e68c45d3-0f3c-4429-a93e-4ca70ea6b1a4" resname="5ED·419 | Icatian Store | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\nYou may choose not to untap CARDNAME during your untap phase and put a storage counter on it instead.\noc\nT, Remove X storage counters from CARDNAME: Add an amount of o\nW equal to X to your mana pool.</source>
-        <target state="translated">艾凯逊的储仓须横置进场。\n在你的重置阶段中，你可以选择不重置艾凯逊的储仓而在上面放一个储藏指示物。\nocT，从艾凯逊的储仓上移出X个储藏指示物：加X点的oW到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\n在你的重置阶段中，你可以选择不重置CARDNAME而在上面放一个储藏指示物。\nocT，从CARDNAME上移出X个储藏指示物：加X点的oW到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="0550a334-f185-4f1f-8759-d320b154c62f" resname="5ED·420 | Ice Floe | Card Name">
         <source>Ice Floe</source>
@@ -3738,7 +3738,7 @@
       </trans-unit>
       <trans-unit id="0550a334-f185-4f1f-8759-d320b154c62f" resname="5ED·420 | Ice Floe | Card Text | Paragraphs">
         <source>You may choose not to untap CARDNAME during your untap phase.\noc\nT: Tap target creature without flying that is attacking you. As long as CARDNAME remains tapped, that creature does not untap during its controller's untap phase.</source>
-        <target state="translated">在你的重置阶段中，你可以选择不重置浮冰。\nocT：横置目标正在攻击你且不会飞的生物。只要浮冰持续被横置，该生物在它的操控者的重置阶段便不能重置。</target>
+        <target state="translated">在你的重置阶段中，你可以选择不重置CARDNAME。\nocT：横置目标正在攻击你且不会飞的生物。只要CARDNAME持续被横置，该生物在它的操控者的重置阶段便不能重置。</target>
       </trans-unit>
       <trans-unit id="38d59e6e-0154-4c89-a58f-521e3424581b" resname="5ED·421 | Karplusan Forest | Card Name">
         <source>Karplusan Forest</source>
@@ -3746,7 +3746,7 @@
       </trans-unit>
       <trans-unit id="38d59e6e-0154-4c89-a58f-521e3424581b" resname="5ED·421 | Karplusan Forest | Card Text | Paragraphs">
         <source>oc\nT: Add one colorless mana to your mana pool.\noc\nT: Add o\nR or o\nG to your mana pool. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\nocT：加oR或oG到你的法术力池中，卡普路桑森林对你造成1点伤害。</target>
+        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\nocT：加oR或oG到你的法术力池中，CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="a28ec8a0-5cde-4c24-b605-b5f53553d065" resname="5ED·422 | Ruins of Trokair | Card Name">
         <source>Ruins of Trokair</source>
@@ -3754,7 +3754,7 @@
       </trans-unit>
       <trans-unit id="a28ec8a0-5cde-4c24-b605-b5f53553d065" resname="5ED·422 | Ruins of Trokair | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o\nW to your mana pool.\noc\nT, Sacrifice CARDNAME: Add o\nWo\nW to your mana pool.</source>
-        <target state="translated">卓耶卡的遗迹须横置进场。\nocT：加oW到你的法术力池中。\nocT，牺牲卓耶卡的遗迹：加oWoW到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\nocT：加oW到你的法术力池中。\nocT，牺牲CARDNAME：加oWoW到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="6769de45-903f-4269-a100-9ceca1df26ac" resname="5ED·423 | Sand Silos | Card Name">
         <source>Sand Silos</source>
@@ -3762,7 +3762,7 @@
       </trans-unit>
       <trans-unit id="6769de45-903f-4269-a100-9ceca1df26ac" resname="5ED·423 | Sand Silos | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\nYou may choose not to untap CARDNAME during your untap phase and put a storage counter on it instead.\noc\nT, Remove X storage counters from CARDNAME: Add an amount of o\nU equal to X to your mana pool.</source>
-        <target state="translated">沙窖须横置进场。\n在你的重置阶段中，你可以选择不重置沙窖而在上面放一个储藏指示物。\nocT，从沙窖上移出X个储藏指示物：加X点的oU到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\n在你的重置阶段中，你可以选择不重置CARDNAME而在上面放一个储藏指示物。\nocT，从CARDNAME上移出X个储藏指示物：加X点的oU到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="85a2097d-5acb-46d5-ac07-021fa9da4026" resname="5ED·424 | Sulfurous Springs | Card Name">
         <source>Sulfurous Springs</source>
@@ -3770,7 +3770,7 @@
       </trans-unit>
       <trans-unit id="85a2097d-5acb-46d5-ac07-021fa9da4026" resname="5ED·424 | Sulfurous Springs | Card Text | Paragraphs">
         <source>oc\nT: Add one colorless mana to your mana pool.\noc\nT: Add o\nB or o\nR to your mana pool. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\nocT：加oB或oR到你的法术力池中，硫磺温泉对你造成1点伤害。</target>
+        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\nocT：加oB或oR到你的法术力池中，CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="22744530-792f-4098-ad2f-fee1a02b04b1" resname="5ED·425 | Svyelunite Temple | Card Name">
         <source>Svyelunite Temple</source>
@@ -3778,7 +3778,7 @@
       </trans-unit>
       <trans-unit id="22744530-792f-4098-ad2f-fee1a02b04b1" resname="5ED·425 | Svyelunite Temple | Card Text | Paragraphs">
         <source>CARDNAME comes into play tapped.\noc\nT: Add o\nU to your mana pool.\noc\nT, Sacrifice CARDNAME: Add o\nUo\nU to your mana pool.</source>
-        <target state="translated">希亚尔军的神殿须横置进场。\nocT：加oU到你的法术力池中。\nocT，牺牲希亚尔军的神殿：加oUoU到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进场。\nocT：加oU到你的法术力池中。\nocT，牺牲CARDNAME：加oUoU到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="be9efd79-1b1d-4e02-8922-0154ad20e4d4" resname="5ED·426 | Underground River | Card Name">
         <source>Underground River</source>
@@ -3786,7 +3786,7 @@
       </trans-unit>
       <trans-unit id="be9efd79-1b1d-4e02-8922-0154ad20e4d4" resname="5ED·426 | Underground River | Card Text | Paragraphs">
         <source>oc\nT: Add one colorless mana to your mana pool.\noc\nT: Add o\nU or o\nB to your mana pool. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\nocT：加oU或oB到你的法术力池中，伏流对你造成1点伤害。</target>
+        <target state="translated">ocT：加一点无色法术力到你的法术力池中。\nocT：加oU或oB到你的法术力池中，CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="6c6c9f3e-6df7-459c-a1b0-d628f17bb7a6" resname="5ED·427 | Urza's Mine | Card Name">
         <source>Urza's Mine</source>
@@ -3794,7 +3794,7 @@
       </trans-unit>
       <trans-unit id="6c6c9f3e-6df7-459c-a1b0-d628f17bb7a6" resname="5ED·427 | Urza's Mine | Card Text | Paragraphs">
         <source>oc\nT: Add one colorless mana to your mana pool. If you control CARDNAME, Urza's Power Plant, and Urza's Tower, add two colorless mana to your mana pool instead of one.</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。如果你操控克撒的矿脉、克撒的塔和克撒的动力炉，则改为加两点无色法术力到你的法术力池中。</target>
+        <target state="translated">ocT：加一点无色法术力到你的法术力池中。如果你操控CARDNAME、克撒的塔和克撒的动力炉，则改为加两点无色法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="c9a294bd-e6f6-4b88-b34c-135aff907b17" resname="5ED·428 | Urza's Power Plant | Card Name">
         <source>Urza's Power Plant</source>
@@ -3802,7 +3802,7 @@
       </trans-unit>
       <trans-unit id="c9a294bd-e6f6-4b88-b34c-135aff907b17" resname="5ED·428 | Urza's Power Plant | Card Text | Paragraphs">
         <source>oc\nT: Add one colorless mana to your mana pool. If you control Urza's Mine, CARDNAME, and Urza's Tower, add two colorless mana to your mana pool instead of one.</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。如果你操控克撒的矿脉、克撒的塔和克撒的动力炉，则改为加两点无色法术力到你的法术力池中。</target>
+        <target state="translated">ocT：加一点无色法术力到你的法术力池中。如果你操控克撒的矿脉、克撒的塔和CARDNAME，则改为加两点无色法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="9bb66579-0840-4ec3-aa6a-731874662dbb" resname="5ED·429 | Urza's Tower | Card Name">
         <source>Urza's Tower</source>
@@ -3810,7 +3810,7 @@
       </trans-unit>
       <trans-unit id="9bb66579-0840-4ec3-aa6a-731874662dbb" resname="5ED·429 | Urza's Tower | Card Text | Paragraphs">
         <source>oc\nT: Add one colorless mana to your mana pool. If you control Urza's Mine, Urza's Power Plant, and CARDNAME, add three colorless mana to your mana pool instead of one.</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。如果你操控克撒的矿脉、克撒的塔和克撒的动力炉，则改为加三点无色法术力到你的法术力池中。</target>
+        <target state="translated">ocT：加一点无色法术力到你的法术力池中。如果你操控克撒的矿脉、CARDNAME和克撒的动力炉，则改为加三点无色法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="6cab2ebd-6ab7-4273-bda3-d7dea81b52c3" resname="5ED·430 | Plains | Card Name">
         <source>Plains</source>

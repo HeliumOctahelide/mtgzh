@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit id="9cd99e32-cbe4-44a7-82ef-7c2d86d6d013" resname="W17·6 | Victory's Herald | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, attacking creatures gain flying and lifelink until end of turn. (Damage dealt by those creatures also causes you to gain that much life.)</source>
-        <target state="translated">每当胜利传令使攻击时，进行攻击的生物获得飞行与系命异能直到回合结束。（那些生物所造成的伤害会让你得到等量的生命。）</target>
+        <target state="translated">每当CARDNAME攻击时，进行攻击的生物获得飞行与系命异能直到回合结束。（那些生物所造成的伤害会让你得到等量的生命。）</target>
       </trans-unit>
       <trans-unit id="d8ecd6f4-d48f-4427-9ca4-bf414283a583" resname="W17·7 | Air Elemental | Card Name">
         <source>Air Elemental</source>
@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="4177c849-f366-4435-9060-d8785f235388" resname="W17·11 | Sleep Paralysis | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, tap enchanted creature.</source>
-        <target state="translated">当睡眠瘫痪症进战场时，横置所结附的生物。</target>
+        <target state="translated">当CARDNAME进战场时，横置所结附的生物。</target>
       </trans-unit>
       <trans-unit id="4177c849-f366-4435-9060-d8785f235388" resname="W17·11 | Sleep Paralysis | Card Text | Paragraph 3">
         <source>Enchanted creature doesn't untap during its controller's untap step.</source>
@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="a2b4f70d-e922-4ecb-9d5a-6253f7a7716c" resname="W17·12 | Sphinx of Magosi | Card Text | Paragraph 2">
         <source>{2}{U}: Draw a card, then put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{2}{U}：抓一张牌，然后在马格西史芬斯上放置一个+1/+1指示物。</target>
+        <target state="translated">{2}{U}：抓一张牌，然后在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="02acbe9b-fac7-4135-8318-5f3dc93a9e58" resname="W17·13 | Stealer of Secrets | Card Name">
         <source>Stealer of Secrets</source>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="02acbe9b-fac7-4135-8318-5f3dc93a9e58" resname="W17·13 | Stealer of Secrets | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, draw a card.</source>
-        <target state="translated">每当刺探客对任一牌手造成战斗伤害时，抓一张牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="f7860cf3-c3ea-4055-8c95-6d1c8d50e69d" resname="W17·14 | Tricks of the Trade | Card Name">
         <source>Tricks of the Trade</source>
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="3ded635c-ab7c-4bb4-a771-481c4d66381e" resname="W17·15 | Bloodhunter Bat | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target player loses 2 life and you gain 2 life.</source>
-        <target state="translated">当血猎蝙蝠进战场时，目标牌手失去2点生命且你获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，目标牌手失去2点生命且你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="a6f7a23a-0966-4060-8034-734df6f0f29f" resname="W17·16 | Certain Death | Card Name">
         <source>Certain Death</source>
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit id="052022ff-795f-4f50-a45c-91cf8be9fbe9" resname="W17·17 | Nightmare | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of Swamps you control.</source>
-        <target state="translated">梦魇的力量和防御力各等同于由你操控的沼泽数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控的沼泽数量。</target>
       </trans-unit>
       <trans-unit id="4950c3c2-80c1-4447-ac38-cf40f76b9545" resname="W17·18 | Raise Dead | Card Name">
         <source>Raise Dead</source>
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="cc232770-2cbb-4fff-95d0-3acad5b79ae6" resname="W17·19 | Sengir Vampire | Card Text | Paragraph 2">
         <source>Whenever a creature dealt damage by CARDNAME this turn dies, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个本回合中曾受到辛格氏吸血鬼伤害的生物死去时，在辛格氏吸血鬼上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个本回合中曾受到CARDNAME伤害的生物死去时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="caccbba0-80b1-461c-b548-33d7f3a48342" resname="W17·20 | Untamed Hunger | Card Name">
         <source>Untamed Hunger</source>
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="2160284c-2ece-43ba-ab67-5c184f81fe0e" resname="W17·22 | Shivan Dragon | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：西瓦巨龙得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ddbcc6e9-b5f4-4f20-9c15-b690b4f64304" resname="W17·23 | Thundering Giant | Card Name">
         <source>Thundering Giant</source>
@@ -264,7 +264,7 @@
       </trans-unit>
       <trans-unit id="f5177a97-cf3b-4a82-adc4-14835152880d" resname="W17·27 | Rootwalla | Card Text | Paragraph 1">
         <source>{1}{G}: CARDNAME gets +2/+2 until end of turn. Activate this ability only once each turn.</source>
-        <target state="translated">{1}{G}：萝特瓦拉得+2/+2直到回合结束。此异能每回合只能起动一次。</target>
+        <target state="translated">{1}{G}：CARDNAME得+2/+2直到回合结束。此异能每回合只能起动一次。</target>
       </trans-unit>
       <trans-unit id="2048b66a-586f-49ad-bd2b-7fce1eb45ce6" resname="W17·28 | Stalking Tiger | Card Name">
         <source>Stalking Tiger</source>
@@ -272,7 +272,7 @@
       </trans-unit>
       <trans-unit id="2048b66a-586f-49ad-bd2b-7fce1eb45ce6" resname="W17·28 | Stalking Tiger | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by more than one creature.</source>
-        <target state="translated">潜行之虎不能被一个以上的生物阻挡。</target>
+        <target state="translated">CARDNAME不能被一个以上的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="cd02ae80-4af6-4da1-ba3b-b56068c49785" resname="W17·29 | Stampeding Rhino | Card Name">
         <source>Stampeding Rhino</source>

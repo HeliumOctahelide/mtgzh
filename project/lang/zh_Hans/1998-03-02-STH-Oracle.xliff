@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="74d11d10-90c7-4deb-bf7c-2208a0fcc19f" resname="PSTH·68 | Revenant | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of creature cards in your graveyard.</source>
-        <target state="translated">复仇者的力量和防御力各等同于你坟墓场中的生物牌数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你坟墓场中的生物牌数量。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="79ed559a-9a88-43d2-85d1-4bbec038f71e" resname="STH·1 | Bandage | Card Name">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="155fc239-c2eb-41cc-9a0a-2414da3c3d7b" resname="STH·2 | Calming Licid | Card Text | Paragraphs">
         <source>{W}, {T}: CARDNAME loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {W} to end this effect.\nEnchanted creature can't attack.</source>
-        <target state="translated">oW，ocT：镇定立吸怪失去此异能，并由生物成为一个生物结界，且含有以下规则叙述：「受此结界的生物不可攻击」。将镇定立吸怪移至目标生物上。你可支付oW以中止此效应。</target>
+        <target state="translated">oW，ocT：CARDNAME失去此异能，并由生物成为一个生物结界，且含有以下规则叙述：「受此结界的生物不可攻击」。将CARDNAME移至目标生物上。你可支付oW以中止此效应。</target>
       </trans-unit>
       <trans-unit id="afaf277e-b430-4c96-880c-ae654973478c" resname="STH·3 | Change of Heart | Card Name">
         <source>Change of Heart</source>
@@ -77,7 +77,7 @@
       </trans-unit>
       <trans-unit id="190332b3-6a1c-4c25-af61-d8923fc9a0c3" resname="STH·5 | Conviction | Card Text | Paragraph 3">
         <source>{W}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{W}：将使命感移回其拥有者手上。</target>
+        <target state="translated">{W}：将CARDNAME移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自AER（2017-01-20）；</note>
       </trans-unit>
       <trans-unit id="5be86f1f-c85a-4396-aa16-a39fbf493c96" resname="STH·6 | Hidden Retreat | Card Name">
@@ -95,7 +95,7 @@
       </trans-unit>
       <trans-unit id="35c44137-ddcc-42fa-baff-a0c3785b84ee" resname="STH·7 | Honor Guard | Card Text | Paragraph 1">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">{W}：仪队兵得+0/+1直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME得+0/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="e7cd99c2-6d4a-48e8-8848-6fdc0788525d" resname="STH·8 | Lancers en-Kor | Card Name">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="e7cd99c2-6d4a-48e8-8848-6fdc0788525d" resname="STH·8 | Lancers en-Kor | Card Text | Paragraph 2">
         <source>{0}: The next 1 damage that would be dealt to CARDNAME this turn is dealt to target creature you control instead.</source>
-        <target state="translated">o0：自寇族枪骑兵转移1点伤害至你操控的一个生物上。</target>
+        <target state="translated">o0：自CARDNAME转移1点伤害至你操控的一个生物上。</target>
       </trans-unit>
       <trans-unit id="b3a03c68-0ebe-488a-8e6c-7cbf7a448416" resname="STH·9 | Nomads en-Kor | Card Name">
         <source>Nomads en-Kor</source>
@@ -116,7 +116,7 @@
       </trans-unit>
       <trans-unit id="b3a03c68-0ebe-488a-8e6c-7cbf7a448416" resname="STH·9 | Nomads en-Kor | Card Text | Paragraph 1">
         <source>{0}: The next 1 damage that would be dealt to CARDNAME this turn is dealt to target creature you control instead.</source>
-        <target state="translated">o0：自寇族游牧人转移1点伤害至你操控的一个生物上。</target>
+        <target state="translated">o0：自CARDNAME转移1点伤害至你操控的一个生物上。</target>
       </trans-unit>
       <trans-unit id="eaa577b1-2604-4065-a973-166521682a86" resname="STH·10 | Pursuit of Knowledge | Card Name">
         <source>Pursuit of Knowledge</source>
@@ -124,11 +124,11 @@
       </trans-unit>
       <trans-unit id="eaa577b1-2604-4065-a973-166521682a86" resname="STH·10 | Pursuit of Knowledge | Card Text | Paragraph 1">
         <source>If you would draw a card, you may put a study counter on CARDNAME instead.</source>
-        <target state="translated">少抽一张牌：在埋首苦读上放置一个读书指示物。</target>
+        <target state="translated">少抽一张牌：在CARDNAME上放置一个读书指示物。</target>
       </trans-unit>
       <trans-unit id="eaa577b1-2604-4065-a973-166521682a86" resname="STH·10 | Pursuit of Knowledge | Card Text | Paragraph 2">
         <source>Remove three study counters from CARDNAME, Sacrifice CARDNAME: Draw seven cards.</source>
-        <target state="translated">自埋首苦读上移去三个读书指示物，牺牲埋首苦读：抽七张牌。</target>
+        <target state="translated">自CARDNAME上移去三个读书指示物，牺牲CARDNAME：抽七张牌。</target>
       </trans-unit>
       <trans-unit id="dd27e9c9-0a47-4fa3-9da5-1993f20305c2" resname="STH·11 | Rolling Stones | Card Name">
         <source>Rolling Stones</source>
@@ -172,11 +172,11 @@
       </trans-unit>
       <trans-unit id="a9a13c4c-d5c0-4947-bb68-d2e9611bcdea" resname="STH·15 | Shaman en-Kor | Card Text | Paragraph 1">
         <source>{0}: The next 1 damage that would be dealt to CARDNAME this turn is dealt to target creature you control instead.</source>
-        <target state="translated">o0：自寇族巫师转移1点伤害至你操控的一个生物上。</target>
+        <target state="translated">o0：自CARDNAME转移1点伤害至你操控的一个生物上。</target>
       </trans-unit>
       <trans-unit id="a9a13c4c-d5c0-4947-bb68-d2e9611bcdea" resname="STH·15 | Shaman en-Kor | Card Text | Paragraph 2">
         <source>{1}{W}: The next time a source of your choice would deal damage to target creature this turn, that damage is dealt to CARDNAME instead.</source>
-        <target state="translated">o1oW：将任一生物所受到来自任一来源的所有伤害，转移至寇族巫师。</target>
+        <target state="translated">o1oW：将任一生物所受到来自任一来源的所有伤害，转移至CARDNAME。</target>
       </trans-unit>
       <trans-unit id="afb86621-1a6e-4d56-ab0e-531105775c56" resname="STH·16 | Skyshroud Falcon | Card Name">
         <source>Skyshroud Falcon</source>
@@ -185,7 +185,7 @@
       </trans-unit>
       <trans-unit id="afb86621-1a6e-4d56-ab0e-531105775c56" resname="STH·16 | Skyshroud Falcon | Card Text | Paragraphs">
         <source>Flying, vigilance</source>
-        <target state="translated">飞行\n天帷猎鹰攻击时不须横置。</target>
+        <target state="translated">飞行\nCARDNAME攻击时不须横置。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="14f165ad-cfe6-4a5d-8073-a70969494855" resname="STH·17 | Smite | Card Name">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="a112edf3-c976-426c-a407-e86255586e41" resname="STH·18 | Soltari Champion | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, other creatures you control get +1/+1 until end of turn.</source>
-        <target state="translated">若索泰利斗士攻击，所有你操控的其他生物得到+1/+1直到回合结束。</target>
+        <target state="translated">若CARDNAME攻击，所有你操控的其他生物得到+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f8adc368-ede3-4b1c-af93-a5e0f2e24d83" resname="STH·19 | Spirit en-Kor | Card Name">
         <source>Spirit en-Kor</source>
@@ -220,7 +220,7 @@
       </trans-unit>
       <trans-unit id="f8adc368-ede3-4b1c-af93-a5e0f2e24d83" resname="STH·19 | Spirit en-Kor | Card Text | Paragraph 2">
         <source>{0}: The next 1 damage that would be dealt to CARDNAME this turn is dealt to target creature you control instead.</source>
-        <target state="translated">o0：自寇族精灵转移1点伤害至你操控的一个生物上。</target>
+        <target state="translated">o0：自CARDNAME转移1点伤害至你操控的一个生物上。</target>
       </trans-unit>
       <trans-unit id="e4bff910-24ab-45a0-b014-30bef6263c38" resname="STH·20 | Temper | Card Name">
         <source>Temper</source>
@@ -242,7 +242,7 @@
       </trans-unit>
       <trans-unit id="2f237426-a657-4234-9f79-0a06558eeb39" resname="STH·22 | Wall of Essence | Card Text | Paragraph 2">
         <source>Whenever CARDNAME is dealt combat damage, you gain that much life.</source>
-        <target state="translated">每当精魂之墙受到战斗伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME受到战斗伤害时，你获得等量的生命。</target>
         <note xmlns:from="developer">中文数据来自M15（2014-07-18）；</note>
       </trans-unit>
       <trans-unit id="16a9ca33-3e9b-4ed9-b503-a1c09c17ca8b" resname="STH·23 | Warrior en-Kor | Card Name">
@@ -251,7 +251,7 @@
       </trans-unit>
       <trans-unit id="16a9ca33-3e9b-4ed9-b503-a1c09c17ca8b" resname="STH·23 | Warrior en-Kor | Card Text | Paragraph 1">
         <source>{0}: The next 1 damage that would be dealt to CARDNAME this turn is dealt to target creature you control instead.</source>
-        <target state="translated">o0：自寇族战士转移1点伤害至你操控的一个生物上。</target>
+        <target state="translated">o0：自CARDNAME转移1点伤害至你操控的一个生物上。</target>
       </trans-unit>
       <trans-unit id="81d2c6e3-e556-4cc6-94b6-fdbc62d6853e" resname="STH·24 | Warrior Angel | Card Name">
         <source>Warrior Angel</source>
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="81d2c6e3-e556-4cc6-94b6-fdbc62d6853e" resname="STH·24 | Warrior Angel | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage, you gain that much life.</source>
-        <target state="translated">战斗天使每造成1点伤害，你获得1点生命。</target>
+        <target state="translated">CARDNAME每造成1点伤害，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="fcd3b7a7-c5e8-4179-ade3-31625620f3a9" resname="STH·25 | Youthful Knight | Card Name">
         <source>Youthful Knight</source>
@@ -281,7 +281,7 @@
       </trans-unit>
       <trans-unit id="c1fa8e60-c32f-4586-b133-224f0aec3355" resname="STH·27 | Contempt | Card Text | Paragraphs">
         <source>Enchant creature\nWhen enchanted creature attacks, return it and CARDNAME to their owners' hands at end of combat.</source>
-        <target state="translated">若受此结界的生物攻击，在战斗结束时将此生物及藐视移回拥有者手上。</target>
+        <target state="translated">若受此结界的生物攻击，在战斗结束时将此生物及CARDNAME移回拥有者手上。</target>
       </trans-unit>
       <trans-unit id="ff4a22d9-007b-4eb7-af9e-b5c2cae36238" resname="STH·28 | Dream Halls | Card Name">
         <source>Dream Halls</source>
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="1444f76b-c876-4166-b957-b17313221fea" resname="STH·29 | Dream Prowler | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked as long as it's attacking alone.</source>
-        <target state="translated">只要梦境巡影单独进行攻击，它便不能被阻挡。</target>
+        <target state="translated">只要CARDNAME单独进行攻击，它便不能被阻挡。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="1cb8ae53-a53f-4a0f-94f7-559aca041797" resname="STH·30 | Evacuation | Card Name">
@@ -317,7 +317,7 @@
       </trans-unit>
       <trans-unit id="0148f3ca-4dba-4408-86d0-1190c387ee69" resname="STH·31 | Gliding Licid | Card Text | Paragraphs">
         <source>{U}, {T}: CARDNAME loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect.\nEnchanted creature has flying.</source>
-        <target state="translated">oU，ocT：滑翔立吸怪失去此异能，并由生物成为一个生物结界，且含有以下规则叙述：「受此结界的生物获得飞行异能」。将滑翔立吸怪移至目标生物上。你可支付oU以中止此效应。</target>
+        <target state="translated">oU，ocT：CARDNAME失去此异能，并由生物成为一个生物结界，且含有以下规则叙述：「受此结界的生物获得飞行异能」。将CARDNAME移至目标生物上。你可支付oU以中止此效应。</target>
       </trans-unit>
       <trans-unit id="854627ab-38bd-4894-94d8-9ef51a57579c" resname="STH·32 | Hammerhead Shark | Card Name">
         <source>Hammerhead Shark</source>
@@ -325,7 +325,7 @@
       </trans-unit>
       <trans-unit id="854627ab-38bd-4894-94d8-9ef51a57579c" resname="STH·32 | Hammerhead Shark | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless defending player controls an Island.</source>
-        <target state="translated">除非防御玩家操控任何海岛，否则锤头鲨不可攻击。</target>
+        <target state="translated">除非防御玩家操控任何海岛，否则CARDNAME不可攻击。</target>
       </trans-unit>
       <trans-unit id="e3ce5dbc-3597-42e8-859a-cac105c8102e" resname="STH·33 | Hesitation | Card Name">
         <source>Hesitation</source>
@@ -333,7 +333,7 @@
       </trans-unit>
       <trans-unit id="e3ce5dbc-3597-42e8-859a-cac105c8102e" resname="STH·33 | Hesitation | Card Text | Paragraph 1">
         <source>When a player casts a spell, sacrifice CARDNAME and counter that spell.</source>
-        <target state="translated">若有任何咒语被使用，反击该咒语并牺牲迟疑。</target>
+        <target state="translated">若有任何咒语被使用，反击该咒语并牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="7e55f653-0952-4713-8d43-ca50acff9e3b" resname="STH·34 | Intruder Alarm | Card Name">
         <source>Intruder Alarm</source>
@@ -438,7 +438,7 @@
       </trans-unit>
       <trans-unit id="02a20067-4ac2-4688-b8e8-3463185c4a41" resname="STH·43 | Silver Wyvern | Card Text | Paragraph 2">
         <source>{U}: Change the target of target spell or ability that targets only CARDNAME. The new target must be a creature.</source>
-        <target state="translated">oU：目标只指定银色蜿龙的咒语或异能，以一个你所选择的生物为目标。将此异能视为干涉使用。</target>
+        <target state="translated">oU：目标只指定CARDNAME的咒语或异能，以一个你所选择的生物为目标。将此异能视为干涉使用。</target>
       </trans-unit>
       <trans-unit id="c881c388-430f-4a4b-9cd1-fba0a2bc2cd6" resname="STH·44 | Spindrift Drake | Card Name">
         <source>Spindrift Drake</source>
@@ -450,7 +450,7 @@
       </trans-unit>
       <trans-unit id="c881c388-430f-4a4b-9cd1-fba0a2bc2cd6" resname="STH·44 | Spindrift Drake | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {U}.</source>
-        <target state="translated">在你的维持阶段中，支付oU，否则埋葬旋升龙兽。</target>
+        <target state="translated">在你的维持阶段中，支付oU，否则埋葬CARDNAME。</target>
       </trans-unit>
       <trans-unit id="ae4cc2f5-3a50-40c8-87ea-6b92f081f55c" resname="STH·45 | Thalakos Deceiver | Card Name">
         <source>Thalakos Deceiver</source>
@@ -462,7 +462,7 @@
       </trans-unit>
       <trans-unit id="ae4cc2f5-3a50-40c8-87ea-6b92f081f55c" resname="STH·45 | Thalakos Deceiver | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks and isn't blocked, you may sacrifice it. If you do, gain control of target creature. (This effect lasts indefinitely.)</source>
-        <target state="translated">牺牲萨拉卡斯附灵师：永久地获得目标生物之操控权。你只能在萨拉卡斯附灵师攻击且未被阻挡时使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：永久地获得目标生物之操控权。你只能在CARDNAME攻击且未被阻挡时使用此异能。</target>
       </trans-unit>
       <trans-unit id="ab89a30a-ac4d-4a5e-bbff-a02366bc9cf6" resname="STH·47 | Tidal Warrior | Card Name">
         <source>Tidal Warrior</source>
@@ -478,7 +478,7 @@
       </trans-unit>
       <trans-unit id="ec89ee13-34ef-41c8-8fe4-0a6b21df2032" resname="STH·48 | Volrath's Shapeshifter | Card Text | Paragraph 1">
         <source>As long as the top card of your graveyard is a creature card, CARDNAME has the full text of that card and has the text &amp;quot;{2}: Discard a card.&amp;quot; (CARDNAME has that card's name, mana cost, color, types, abilities, power, and toughness.)</source>
-        <target state="translated">只要你坟墓场顶部的牌是生物牌，瓦拉司的变形兽即成为该牌的复制，并同时保有其原有异能。</target>
+        <target state="translated">只要你坟墓场顶部的牌是生物牌，CARDNAME即成为该牌的复制，并同时保有其原有异能。</target>
       </trans-unit>
       <trans-unit id="ec89ee13-34ef-41c8-8fe4-0a6b21df2032" resname="STH·48 | Volrath's Shapeshifter | Card Text | Paragraph 2">
         <source>{2}: Discard a card.</source>
@@ -490,11 +490,11 @@
       </trans-unit>
       <trans-unit id="bd2f906d-b127-400a-809b-449f1e7f647b" resname="STH·49 | Walking Dream | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">行梦不可被阻挡。</target>
+        <target state="translated">CARDNAME不可被阻挡。</target>
       </trans-unit>
       <trans-unit id="bd2f906d-b127-400a-809b-449f1e7f647b" resname="STH·49 | Walking Dream | Card Text | Paragraph 2">
         <source>CARDNAME doesn't untap during your untap step if an opponent controls two or more creatures.</source>
-        <target state="translated">若任何对手操控两个以上的生物，则行梦在你的重置阶段中不可重置。</target>
+        <target state="translated">若任何对手操控两个以上的生物，则CARDNAME在你的重置阶段中不可重置。</target>
       </trans-unit>
       <trans-unit id="4638d815-fb86-490c-84d6-777a1c6131d6" resname="STH·50 | Wall of Tears | Card Name">
         <source>Wall of Tears</source>
@@ -506,7 +506,7 @@
       </trans-unit>
       <trans-unit id="4638d815-fb86-490c-84d6-777a1c6131d6" resname="STH·50 | Wall of Tears | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks a creature, return that creature to its owner's hand at end of combat.</source>
-        <target state="translated">若泪之墙阻挡任何生物，在战斗结束时将该生物移回拥有者手上。</target>
+        <target state="translated">若CARDNAME阻挡任何生物，在战斗结束时将该生物移回拥有者手上。</target>
       </trans-unit>
       <trans-unit id="91f05fc3-da6e-45d4-8566-f4e7bdce1fe5" resname="STH·51 | Bottomless Pit | Card Name">
         <source>Bottomless Pit</source>
@@ -542,7 +542,7 @@
       </trans-unit>
       <trans-unit id="c12c6548-20e6-4697-ba26-e711590f9e28" resname="STH·54 | Corrupting Licid | Card Text | Paragraphs">
         <source>{B}, {T}: CARDNAME loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {B} to end this effect.\nEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">oB，ocT：堕落立吸怪失去此异能，并由生物成为一个生物结界，且含有以下规则叙述：「受此结界的生物只能被神器生物和黑色生物阻挡」。将堕落立吸怪移至目标生物上。你可以支付oB以中止此效应。</target>
+        <target state="translated">oB，ocT：CARDNAME失去此异能，并由生物成为一个生物结界，且含有以下规则叙述：「受此结界的生物只能被神器生物和黑色生物阻挡」。将CARDNAME移至目标生物上。你可以支付oB以中止此效应。</target>
       </trans-unit>
       <trans-unit id="88a9b76d-6ce1-40d4-bc04-7ae6237f5eaf" resname="STH·55 | Crovax the Cursed | Card Name">
         <source>Crovax the Cursed</source>
@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="88a9b76d-6ce1-40d4-bc04-7ae6237f5eaf" resname="STH·55 | Crovax the Cursed | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield with four +1/+1 counters on it.\nAt the beginning of your upkeep, you may sacrifice a creature. If you do, put a +1/+1 counter on Crovax. If you don't, remove a +1/+1 counter from Crovax.\n{B}: Crovax gains flying until end of turn.</source>
-        <target state="translated">将受诅咒的寇维克斯视为吸血鬼。\n寇维克斯进场时，上面有四个 +1/+1指示物。\n在你的维持阶段中，牺牲一个生物并放置一个+1/+1指示物在寇维克斯上，否则自寇维克斯上移去一个 +1/+1指示物。\noB：寇维克斯获得飞行异能直到回合结束。</target>
+        <target state="translated">将CARDNAME视为吸血鬼。\n寇维克斯进场时，上面有四个 +1/+1指示物。\n在你的维持阶段中，牺牲一个生物并放置一个+1/+1指示物在寇维克斯上，否则自寇维克斯上移去一个 +1/+1指示物。\noB：寇维克斯获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6d83770e-16ff-49c6-b4e7-eb7fc566eef8" resname="STH·56 | Dauthi Trapper | Card Name">
         <source>Dauthi Trapper</source>
@@ -578,7 +578,7 @@
       </trans-unit>
       <trans-unit id="6a818483-de47-454d-bb24-3410aa95289c" resname="STH·58 | Dungeon Shade | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">oB：地城阴魂得到+1/+1直到回合结束。</target>
+        <target state="translated">oB：CARDNAME得到+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="e35ab62e-d6c6-448c-bbe0-42abe5780adc" resname="STH·59 | Foul Imp | Card Name">
         <source>Foul Imp</source>
@@ -592,7 +592,7 @@
       </trans-unit>
       <trans-unit id="e35ab62e-d6c6-448c-bbe0-42abe5780adc" resname="STH·59 | Foul Imp | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you lose 2 life.</source>
-        <target state="translated">当腐味小恶魔进场时，你失去2点生命。</target>
+        <target state="translated">当CARDNAME进场时，你失去2点生命。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="940536be-fce1-4a90-9126-195815a43e0f" resname="STH·60 | Grave Pact | Card Name">
@@ -624,7 +624,7 @@
       </trans-unit>
       <trans-unit id="4eacd05b-078a-468c-b137-a802346d348a" resname="STH·62 | Megrim | Card Text | Paragraph 1">
         <source>Whenever an opponent discards a card, CARDNAME deals 2 damage to that player.</source>
-        <target state="translated">每当对手弃一张牌时，偏头痛对该牌手造成2点伤害。</target>
+        <target state="translated">每当对手弃一张牌时，CARDNAME对该牌手造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自M10（2009-07-17）；</note>
       </trans-unit>
       <trans-unit id="92bd531c-fdd1-4a22-816e-258b2975c1a3" resname="STH·63 | Mind Peel | Card Name">
@@ -645,11 +645,11 @@
       </trans-unit>
       <trans-unit id="ebe796e1-97f9-469a-a6b6-a09161058e12" resname="STH·64 | Mindwarper | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three +1/+1 counters on it.</source>
-        <target state="translated">扭灵怪进场时，上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时，上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="ebe796e1-97f9-469a-a6b6-a09161058e12" resname="STH·64 | Mindwarper | Card Text | Paragraph 2">
         <source>{2}{B}, Remove a +1/+1 counter from CARDNAME: Target player discards a card. Activate only as a sorcery.</source>
-        <target state="translated">o2oB，从扭灵怪上移去一个+1/+1指示物：目标玩家选择弃掉一张牌。将此异能视为巫术使用。</target>
+        <target state="translated">o2oB，从CARDNAME上移去一个+1/+1指示物：目标玩家选择弃掉一张牌。将此异能视为巫术使用。</target>
       </trans-unit>
       <trans-unit id="270a26ce-3435-4fef-bc34-abbc6f1cf3f4" resname="STH·65 | Morgue Thrull | Card Name">
         <source>Morgue Thrull</source>
@@ -657,7 +657,7 @@
       </trans-unit>
       <trans-unit id="270a26ce-3435-4fef-bc34-abbc6f1cf3f4" resname="STH·65 | Morgue Thrull | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Mill three cards.</source>
-        <target state="translated">牺牲停尸索尔兽：将你牌库顶部的三张牌放进你的坟墓场。</target>
+        <target state="translated">牺牲CARDNAME：将你牌库顶部的三张牌放进你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="860f46ea-6fd0-456d-971d-8d1eccc7fa60" resname="STH·66 | Mortuary | Card Name">
         <source>Mortuary</source>
@@ -681,11 +681,11 @@
       </trans-unit>
       <trans-unit id="57af1b3f-661a-4b02-be08-0ec721d7cab8" resname="STH·70 | Skeleton Scavengers | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a +1/+1 counter on it.</source>
-        <target state="translated">腐食骷髅进场时，上面有一个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时，上面有一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="57af1b3f-661a-4b02-be08-0ec721d7cab8" resname="STH·70 | Skeleton Scavengers | Card Text | Paragraph 2">
         <source>Pay {1} for each +1/+1 counter on CARDNAME: Regenerate CARDNAME. When it regenerates this way, put a +1/+1 counter on it.</source>
-        <target state="translated">腐食骷髅上每有一个+1/+1指示物，便付出o1 ：重生腐食骷髅并在上面放置一个+1/+1指示物。</target>
+        <target state="translated">CARDNAME上每有一个+1/+1指示物，便付出o1 ：重生CARDNAME并在上面放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="cc0f043c-efb3-4392-ae25-b3ec180b0cb2" resname="STH·71 | Stronghold Assassin | Card Name">
         <source>Stronghold Assassin</source>
@@ -731,7 +731,7 @@
       </trans-unit>
       <trans-unit id="bca2c333-405f-4c1b-a02a-f1fadb3e1d29" resname="STH·75 | Wall of Souls | Card Text | Paragraph 2">
         <source>Whenever CARDNAME is dealt combat damage, it deals that much damage to target opponent or planeswalker.</source>
-        <target state="translated">当灵魂之墙受到战斗伤害时，它对目标对手造成等量的伤害。</target>
+        <target state="translated">当CARDNAME受到战斗伤害时，它对目标对手造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="5c5bdb8c-2a2e-47cf-a502-2d62f9ada3fa" resname="STH·76 | Amok | Card Name">
         <source>Amok</source>
@@ -747,7 +747,7 @@
       </trans-unit>
       <trans-unit id="d5e50a1d-b9f5-4a03-a1c2-ca45ace53a52" resname="STH·77 | Convulsing Licid | Card Text | Paragraphs">
         <source>{R}, {T}: CARDNAME loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {R} to end this effect.\nEnchanted creature can't block.</source>
-        <target state="translated">oR，ocT：痉挛立吸怪失去此异能，并由生物成为一个生物结界，且含有以下规则叙述：「受此结界的生物不能进行阻挡」。将痉挛立吸怪移至目标生物上。你可以支付oR以中止此效应。</target>
+        <target state="translated">oR，ocT：CARDNAME失去此异能，并由生物成为一个生物结界，且含有以下规则叙述：「受此结界的生物不能进行阻挡」。将CARDNAME移至目标生物上。你可以支付oR以中止此效应。</target>
       </trans-unit>
       <trans-unit id="90af852f-57a2-4a00-82dc-7c0f23899361" resname="STH·79 | Duct Crawler | Card Name">
         <source>Duct Crawler</source>
@@ -756,7 +756,7 @@
       </trans-unit>
       <trans-unit id="90af852f-57a2-4a00-82dc-7c0f23899361" resname="STH·79 | Duct Crawler | Card Text | Paragraph 1">
         <source>{1}{R}: Target creature can't block CARDNAME this turn.</source>
-        <target state="translated">{1}{R}：目标生物本回合中不能阻挡水道虱虫。</target>
+        <target state="translated">{1}{R}：目标生物本回合中不能阻挡CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="79075361-e6ee-4cc9-990b-88fef27bbb1c" resname="STH·80 | Fanning the Flames | Card Name">
@@ -769,7 +769,7 @@
       </trans-unit>
       <trans-unit id="79075361-e6ee-4cc9-990b-88fef27bbb1c" resname="STH·80 | Fanning the Flames | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage to any target.</source>
-        <target state="translated">搧风点火对目标生物或玩家造成X点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或玩家造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="e069d90a-e7d9-4967-a872-0dd8a0a9934a" resname="STH·81 | Flame Wave | Card Name">
         <source>Flame Wave</source>
@@ -778,7 +778,7 @@
       </trans-unit>
       <trans-unit id="e069d90a-e7d9-4967-a872-0dd8a0a9934a" resname="STH·81 | Flame Wave | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.</source>
-        <target state="translated">火焰波对目标牌手以及他所操控的生物各造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标牌手以及他所操控的生物各造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="6b144452-2e91-4e46-abe9-ed76b39f8314" resname="STH·82 | Fling | Card Name">
@@ -793,7 +793,7 @@
       </trans-unit>
       <trans-unit id="6b144452-2e91-4e46-abe9-ed76b39f8314" resname="STH·82 | Fling | Card Text | Paragraph 2">
         <source>CARDNAME deals damage equal to the sacrificed creature's power to any target.</source>
-        <target state="translated">投掷对任意一个目标造成伤害，其数量等同于所牺牲生物的力量。</target>
+        <target state="translated">CARDNAME对任意一个目标造成伤害，其数量等同于所牺牲生物的力量。</target>
         <note xmlns:from="developer">中文数据来自ELD（2019-10-04）；</note>
       </trans-unit>
       <trans-unit id="ab9781fd-10c9-4790-8279-51c3cc6653cf" resname="STH·83 | Flowstone Blade | Card Name">
@@ -817,11 +817,11 @@
       </trans-unit>
       <trans-unit id="680ccbc7-aa97-4f01-9d26-0df184af3c3e" resname="STH·84 | Flowstone Hellion | Card Text | Paragraph 1">
         <source>Haste</source>
-        <target state="translated">液石地狱兽不受召唤失调的影响。</target>
+        <target state="translated">CARDNAME不受召唤失调的影响。</target>
       </trans-unit>
       <trans-unit id="680ccbc7-aa97-4f01-9d26-0df184af3c3e" resname="STH·84 | Flowstone Hellion | Card Text | Paragraph 2">
         <source>{0}: CARDNAME gets +1/-1 until end of turn.</source>
-        <target state="translated">o0：液石地狱兽得到 +1/-1直到回合结束。</target>
+        <target state="translated">o0：CARDNAME得到 +1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a3165251-6ac6-4294-8bca-595c362f4ceb" resname="STH·85 | Flowstone Mauler | Card Name">
         <source>Flowstone Mauler</source>
@@ -833,7 +833,7 @@
       </trans-unit>
       <trans-unit id="a3165251-6ac6-4294-8bca-595c362f4ceb" resname="STH·85 | Flowstone Mauler | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/-1 until end of turn.</source>
-        <target state="translated">oR：液石撕咬兽得到+1/-1直到回合结束。</target>
+        <target state="translated">oR：CARDNAME得到+1/-1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6f2b70a5-db13-4c3f-829d-d4b9e0a16245" resname="STH·86 | Flowstone Shambler | Card Name">
         <source>Flowstone Shambler</source>
@@ -842,7 +842,7 @@
       </trans-unit>
       <trans-unit id="6f2b70a5-db13-4c3f-829d-d4b9e0a16245" resname="STH·86 | Flowstone Shambler | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gets +1/-1 until end of turn.</source>
-        <target state="translated">{R}：液石跛行兽得到+1/-1直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得到+1/-1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="b6a79dc7-ce46-41f7-9375-8d12afe6355a" resname="STH·87 | Furnace Spirit | Card Name">
@@ -851,11 +851,11 @@
       </trans-unit>
       <trans-unit id="b6a79dc7-ce46-41f7-9375-8d12afe6355a" resname="STH·87 | Furnace Spirit | Card Text | Paragraph 1">
         <source>Haste</source>
-        <target state="translated">熔炉精灵不受召唤失调的影响。</target>
+        <target state="translated">CARDNAME不受召唤失调的影响。</target>
       </trans-unit>
       <trans-unit id="b6a79dc7-ce46-41f7-9375-8d12afe6355a" resname="STH·87 | Furnace Spirit | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">oR：熔炉精灵得到 +1/+0直到回合结束。</target>
+        <target state="translated">oR：CARDNAME得到 +1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8dbb98db-f2ee-446f-9170-dd05b1a7dbd8" resname="STH·88 | Heat of Battle | Card Name">
         <source>Heat of Battle</source>
@@ -863,7 +863,7 @@
       </trans-unit>
       <trans-unit id="8dbb98db-f2ee-446f-9170-dd05b1a7dbd8" resname="STH·88 | Heat of Battle | Card Text | Paragraph 1">
         <source>Whenever a creature blocks, CARDNAME deals 1 damage to that creature's controller.</source>
-        <target state="translated">当任何生物进行阻挡，战斗狂热对该生物的操控者造成1点伤害。</target>
+        <target state="translated">当任何生物进行阻挡，CARDNAME对该生物的操控者造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="f52c2f83-9535-4ee5-9964-5cc01e617981" resname="STH·89 | Invasion Plans | Card Name">
         <source>Invasion Plans</source>
@@ -883,7 +883,7 @@
       </trans-unit>
       <trans-unit id="b790d789-bb21-4119-a0e3-43af9bef8acc" resname="STH·90 | Mob Justice | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target player or planeswalker equal to the number of creatures you control.</source>
-        <target state="translated">你每操控一个生物，暴民的正义就对目标玩家造成1点伤害。</target>
+        <target state="translated">你每操控一个生物，CARDNAME就对目标玩家造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="16064ad4-eec2-4c32-b66d-a2bdb1a6191f" resname="STH·91 | Mogg Bombers | Card Name">
         <source>Mogg Bombers</source>
@@ -891,7 +891,7 @@
       </trans-unit>
       <trans-unit id="16064ad4-eec2-4c32-b66d-a2bdb1a6191f" resname="STH·91 | Mogg Bombers | Card Text | Paragraph 1">
         <source>When another creature enters the battlefield, sacrifice CARDNAME and it deals 3 damage to target player or planeswalker.</source>
-        <target state="translated">如果有任何其他生物进场，则牺牲莫葛炸弹兵，并且它对目标玩家造成3点伤害。</target>
+        <target state="translated">如果有任何其他生物进场，则牺牲CARDNAME，并且它对目标玩家造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="1b1b384e-a7d5-4b5f-87d5-95ac1a6c6320" resname="STH·92 | Mogg Flunkies | Card Name">
         <source>Mogg Flunkies</source>
@@ -900,7 +900,7 @@
       </trans-unit>
       <trans-unit id="1b1b384e-a7d5-4b5f-87d5-95ac1a6c6320" resname="STH·92 | Mogg Flunkies | Card Text | Paragraph 1">
         <source>CARDNAME can't attack or block alone.</source>
-        <target state="translated">莫葛跟班不能单独进行攻击或阻挡。</target>
+        <target state="translated">CARDNAME不能单独进行攻击或阻挡。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="5a91aa6f-cb2f-4aad-9415-bba4eb9b76ca" resname="STH·93 | Mogg Infestation | Card Name">
@@ -917,7 +917,7 @@
       </trans-unit>
       <trans-unit id="ddd33c58-f25d-4117-a266-75a91e9ddc75" resname="STH·94 | Mogg Maniac | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt damage, it deals that much damage to target opponent or planeswalker.</source>
-        <target state="translated">当莫葛狂徒受到伤害时，牠对目标对手造成等量的伤害。</target>
+        <target state="translated">当CARDNAME受到伤害时，牠对目标对手造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="d45eea06-806b-4163-ac86-de6ed6d1a91e" resname="STH·95 | Ruination | Card Name">
         <source>Ruination</source>
@@ -951,12 +951,12 @@
       </trans-unit>
       <trans-unit id="fe6a6d56-e73f-4dc6-a7df-d105010e52ab" resname="STH·97 | Shard Phoenix | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: It deals 2 damage to each creature without flying.</source>
-        <target state="translated">牺牲碎翼凤凰：碎翼凤凰对每个不具飞行异能的生物各造成2点伤害。</target>
+        <target state="translated">牺牲CARDNAME：CARDNAME对每个不具飞行异能的生物各造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="fe6a6d56-e73f-4dc6-a7df-d105010e52ab" resname="STH·97 | Shard Phoenix | Card Text | Paragraph 3">
         <source>{R}{R}{R}: Return CARDNAME from your graveyard to your hand. Activate only during your upkeep.</source>
-        <target state="translated">{R}{R}{R}：将碎翼凤凰从你的坟墓场移回你手上。 你只可以于你的维持中使用此异能。</target>
+        <target state="translated">{R}{R}{R}：将CARDNAME从你的坟墓场移回你手上。 你只可以于你的维持中使用此异能。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="f9b2ff2a-6dfe-4635-8da2-22d525e82b94" resname="STH·98 | Shock | Card Name">
@@ -966,7 +966,7 @@
       </trans-unit>
       <trans-unit id="f9b2ff2a-6dfe-4635-8da2-22d525e82b94" resname="STH·98 | Shock | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">电震对任意一个目标造成2点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自MKM（2024-02-09）；</note>
       </trans-unit>
       <trans-unit id="38c25d65-16bd-4628-b6ec-9e5495818277" resname="STH·99 | Spitting Hydra | Card Name">
@@ -975,11 +975,11 @@
       </trans-unit>
       <trans-unit id="38c25d65-16bd-4628-b6ec-9e5495818277" resname="STH·99 | Spitting Hydra | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with four +1/+1 counters on it.</source>
-        <target state="translated">喷液多头龙进场时，上面有四个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时，上面有四个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="38c25d65-16bd-4628-b6ec-9e5495818277" resname="STH·99 | Spitting Hydra | Card Text | Paragraph 2">
         <source>{1}{R}, Remove a +1/+1 counter from CARDNAME: It deals 1 damage to target creature.</source>
-        <target state="translated">o1oR，从喷液多头龙上移去一个+1/+1指示物：喷液多头龙对目标生物造成1点伤害。</target>
+        <target state="translated">o1oR，从CARDNAME上移去一个+1/+1指示物：CARDNAME对目标生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="0bb37bcd-0bbd-4f3f-9623-803885750344" resname="STH·100 | Wall of Razors | Card Name">
         <source>Wall of Razors</source>
@@ -1021,7 +1021,7 @@
       </trans-unit>
       <trans-unit id="ae10e7fe-ee51-4c39-86ec-503324d19f6c" resname="STH·103 | Carnassid | Card Text | Paragraph 2">
         <source>{1}{G}: Regenerate CARDNAME.</source>
-        <target state="translated">o1oG：重生卡那西。</target>
+        <target state="translated">o1oG：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="97a8a5fe-0391-489b-9556-0a1bf7e1900d" resname="STH·104 | Constant Mists | Card Name">
         <source>Constant Mists</source>
@@ -1057,7 +1057,7 @@
       </trans-unit>
       <trans-unit id="29d43e8f-a914-44ed-bbd3-3746fb4ea6da" resname="STH·107 | Endangered Armodon | Card Text | Paragraph 1">
         <source>When you control a creature with toughness 2 or less, sacrifice CARDNAME.</source>
-        <target state="translated">若你控制任何防御力2或以下的生物，则牺牲濒亡的盾皮象。</target>
+        <target state="translated">若你控制任何防御力2或以下的生物，则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="3efc0622-ac2c-4722-ba05-961cc98c5940" resname="STH·108 | Hermit Druid | Card Name">
         <source>Hermit Druid</source>
@@ -1073,7 +1073,7 @@
       </trans-unit>
       <trans-unit id="454d6938-b87a-46b1-99d8-74573544ac5b" resname="STH·109 | Lowland Basilisk | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage to a creature, destroy that creature at end of combat.</source>
-        <target state="translated">每当低洼地蜥怪对任何生物造成伤害，在战斗结束时消灭该生物。</target>
+        <target state="translated">每当CARDNAME对任何生物造成伤害，在战斗结束时消灭该生物。</target>
       </trans-unit>
       <trans-unit id="4cf9e9a9-325a-4010-acb8-1406adcaeca9" resname="STH·110 | Mulch | Card Name">
         <source>Mulch</source>
@@ -1147,15 +1147,15 @@
       </trans-unit>
       <trans-unit id="f7e11ef7-18a9-4ab1-981e-b337b1488ebd" resname="STH·116 | Spike Breeder | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three +1/+1 counters on it.</source>
-        <target state="translated">繁生钉兽进场时，上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时，上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="f7e11ef7-18a9-4ab1-981e-b337b1488ebd" resname="STH·116 | Spike Breeder | Card Text | Paragraph 2">
         <source>{2}, Remove a +1/+1 counter from CARDNAME: Put a +1/+1 counter on target creature.</source>
-        <target state="translated">o2，自繁生钉兽上移去一个+1/+1指示物：在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">o2，自CARDNAME上移去一个+1/+1指示物：在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="f7e11ef7-18a9-4ab1-981e-b337b1488ebd" resname="STH·116 | Spike Breeder | Card Text | Paragraph 3">
         <source>{2}, Remove a +1/+1 counter from CARDNAME: Create a 1/1 green Spike creature token.</source>
-        <target state="translated">o2，自繁生钉兽上移去一个+1/+1指示物：放置一个钉兽衍生物进场。将此衍生物视为1/1绿色生物。</target>
+        <target state="translated">o2，自CARDNAME上移去一个+1/+1指示物：放置一个钉兽衍生物进场。将此衍生物视为1/1绿色生物。</target>
       </trans-unit>
       <trans-unit id="a6ea4703-8521-4576-8405-4b923e0a9522" resname="STH·117 | Spike Colony | Card Name">
         <source>Spike Colony</source>
@@ -1163,11 +1163,11 @@
       </trans-unit>
       <trans-unit id="a6ea4703-8521-4576-8405-4b923e0a9522" resname="STH·117 | Spike Colony | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with four +1/+1 counters on it.</source>
-        <target state="translated">钉兽群落进场时，上面有四个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时，上面有四个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="a6ea4703-8521-4576-8405-4b923e0a9522" resname="STH·117 | Spike Colony | Card Text | Paragraph 2">
         <source>{2}, Remove a +1/+1 counter from CARDNAME: Put a +1/+1 counter on target creature.</source>
-        <target state="translated">o2，自钉兽群落上移去一个+1/+1指示物：在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">o2，自CARDNAME上移去一个+1/+1指示物：在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="3751b2ae-a234-4691-984b-2f9f6b1cd1df" resname="STH·118 | Spike Feeder | Card Name">
         <source>Spike Feeder</source>
@@ -1176,17 +1176,17 @@
       </trans-unit>
       <trans-unit id="3751b2ae-a234-4691-984b-2f9f6b1cd1df" resname="STH·118 | Spike Feeder | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with two +1/+1 counters on it.</source>
-        <target state="translated">喂养钉兽进场时上面有两个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时上面有两个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="3751b2ae-a234-4691-984b-2f9f6b1cd1df" resname="STH·118 | Spike Feeder | Card Text | Paragraph 2">
         <source>{2}, Remove a +1/+1 counter from CARDNAME: Put a +1/+1 counter on target creature.</source>
-        <target state="translated">{2}，从喂养钉兽上移去一个+1/+1指示物：在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">{2}，从CARDNAME上移去一个+1/+1指示物：在目标生物上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="3751b2ae-a234-4691-984b-2f9f6b1cd1df" resname="STH·118 | Spike Feeder | Card Text | Paragraph 3">
         <source>Remove a +1/+1 counter from CARDNAME: You gain 2 life.</source>
-        <target state="translated">从喂养钉兽上移去一个+1/+1指示物：你获得2点生命。</target>
+        <target state="translated">从CARDNAME上移去一个+1/+1指示物：你获得2点生命。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="aa45664c-ac39-40f8-9f56-cf25ed60a84a" resname="STH·119 | Spike Soldier | Card Name">
@@ -1195,15 +1195,15 @@
       </trans-unit>
       <trans-unit id="aa45664c-ac39-40f8-9f56-cf25ed60a84a" resname="STH·119 | Spike Soldier | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three +1/+1 counters on it.</source>
-        <target state="translated">士兵钉兽进场时，上面有三个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时，上面有三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="aa45664c-ac39-40f8-9f56-cf25ed60a84a" resname="STH·119 | Spike Soldier | Card Text | Paragraph 2">
         <source>{2}, Remove a +1/+1 counter from CARDNAME: Put a +1/+1 counter on target creature.</source>
-        <target state="translated">o2，自士兵钉兽上移去一个+1/+1指示物：在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">o2，自CARDNAME上移去一个+1/+1指示物：在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="aa45664c-ac39-40f8-9f56-cf25ed60a84a" resname="STH·119 | Spike Soldier | Card Text | Paragraph 3">
         <source>Remove a +1/+1 counter from CARDNAME: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">自士兵钉兽上移去一个+1/+1指示物：士兵钉兽得到+2/+2直到回合结束。</target>
+        <target state="translated">自CARDNAME上移去一个+1/+1指示物：CARDNAME得到+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2713de6c-b754-435c-8d11-5215fd602a40" resname="STH·120 | Spike Worker | Card Name">
         <source>Spike Worker</source>
@@ -1211,11 +1211,11 @@
       </trans-unit>
       <trans-unit id="2713de6c-b754-435c-8d11-5215fd602a40" resname="STH·120 | Spike Worker | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with two +1/+1 counters on it.</source>
-        <target state="translated">工匠钉兽进场时，上面有二个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时，上面有二个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2713de6c-b754-435c-8d11-5215fd602a40" resname="STH·120 | Spike Worker | Card Text | Paragraph 2">
         <source>{2}, Remove a +1/+1 counter from CARDNAME: Put a +1/+1 counter on target creature.</source>
-        <target state="translated">o2，自工匠钉兽上移去一个+1/+1指示物：在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">o2，自CARDNAME上移去一个+1/+1指示物：在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="da7f3e0b-0600-4451-b621-e40c902a16cb" resname="STH·122 | Tempting Licid | Card Name">
         <source>Tempting Licid</source>
@@ -1223,7 +1223,7 @@
       </trans-unit>
       <trans-unit id="da7f3e0b-0600-4451-b621-e40c902a16cb" resname="STH·122 | Tempting Licid | Card Text | Paragraphs">
         <source>{G}, {T}: CARDNAME loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {G} to end this effect.\nAll creatures able to block enchanted creature do so.</source>
-        <target state="translated">oG，ocT：诱引立吸怪失去此异能，并由生物成为一个生物结界，且含有以下规则叙述：「所有可阻挡受此结界之生物的生物，皆需阻挡牠」。将诱引立吸怪移至目标生物上。你可支付oG以中止此效应。</target>
+        <target state="translated">oG，ocT：CARDNAME失去此异能，并由生物成为一个生物结界，且含有以下规则叙述：「所有可阻挡受此结界之生物的生物，皆需阻挡牠」。将CARDNAME移至目标生物上。你可支付oG以中止此效应。</target>
       </trans-unit>
       <trans-unit id="7079bf55-4827-4b8b-a178-8c7b903d93b9" resname="STH·123 | Verdant Touch | Card Name">
         <source>Verdant Touch</source>
@@ -1257,7 +1257,7 @@
       </trans-unit>
       <trans-unit id="7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f" resname="STH·125 | Wall of Blossoms | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当花丛之墙进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自MH1（2019-06-14）；</note>
       </trans-unit>
       <trans-unit id="2d92c3f7-a589-4c87-aa17-0d9707605ff4" resname="STH·126 | Acidic Sliver | Card Name">
@@ -1290,7 +1290,7 @@
       </trans-unit>
       <trans-unit id="235c0ece-aed0-4120-99cc-5d0e28fa70ab" resname="STH·129 | Sliver Queen | Card Text | Paragraphs">
         <source>{2}: Create a 1/1 colorless Sliver creature token.</source>
-        <target state="translated">将裂片妖后视为裂片妖。\no2：放置一个裂片妖衍生物进场。将此衍生物视为1/1的无色生物。</target>
+        <target state="translated">将CARDNAME视为裂片妖。\no2：放置一个裂片妖衍生物进场。将此衍生物视为1/1的无色生物。</target>
       </trans-unit>
       <trans-unit id="9a8a9442-7b08-4cc8-94ec-bddb8feab1a8" resname="STH·130 | Spined Sliver | Card Name">
         <source>Spined Sliver</source>
@@ -1316,7 +1316,7 @@
       </trans-unit>
       <trans-unit id="ff312dd7-456c-4ce5-9614-e2cbe3c2219c" resname="STH·132 | Bullwhip | Card Text | Paragraph 1">
         <source>{2}, {T}: CARDNAME deals 1 damage to target creature. That creature attacks this turn if able.</source>
-        <target state="translated">o2，ocT：牛皮鞭对目标生物造成1点伤害。该生物本回合若可攻击，则需攻击。</target>
+        <target state="translated">o2，ocT：CARDNAME对目标生物造成1点伤害。该生物本回合若可攻击，则需攻击。</target>
       </trans-unit>
       <trans-unit id="27d838a1-2739-45f7-a856-6202334fa76a" resname="STH·133 | Ensnaring Bridge | Card Name">
         <source>Ensnaring Bridge</source>
@@ -1360,11 +1360,11 @@
       </trans-unit>
       <trans-unit id="1c675814-094c-45d4-93ee-0f50b4755e79" resname="STH·137 | Jinxed Ring | Card Text | Paragraph 1">
         <source>Whenever a nontoken permanent is put into your graveyard from the battlefield, CARDNAME deals 1 damage to you.</source>
-        <target state="translated">若任何牌从场上放置入你的坟墓场，倒楣戒指对你造成1点伤害。</target>
+        <target state="translated">若任何牌从场上放置入你的坟墓场，CARDNAME对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="1c675814-094c-45d4-93ee-0f50b4755e79" resname="STH·137 | Jinxed Ring | Card Text | Paragraph 2">
         <source>Sacrifice a creature: Target opponent gains control of CARDNAME. (This effect lasts indefinitely.)</source>
-        <target state="translated">牺牲一个生物：目标对手永久地得到倒楣戒指的操控权。</target>
+        <target state="translated">牺牲一个生物：目标对手永久地得到CARDNAME的操控权。</target>
       </trans-unit>
       <trans-unit id="28028830-83ed-45e2-b495-3b9ad9d3e988" resname="STH·138 | Mox Diamond | Card Name">
         <source>Mox Diamond</source>
@@ -1372,7 +1372,7 @@
       </trans-unit>
       <trans-unit id="28028830-83ed-45e2-b495-3b9ad9d3e988" resname="STH·138 | Mox Diamond | Card Text | Paragraph 1">
         <source>If CARDNAME would enter the battlefield, you may discard a land card instead. If you do, put CARDNAME onto the battlefield. If you don't, put it into its owner's graveyard.</source>
-        <target state="translated">当玛珂钻石进场时，选择弃掉一张地牌，否则牺牲玛珂钻石。</target>
+        <target state="translated">当CARDNAME进场时，选择弃掉一张地牌，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="28028830-83ed-45e2-b495-3b9ad9d3e988" resname="STH·138 | Mox Diamond | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color.</source>
@@ -1384,7 +1384,7 @@
       </trans-unit>
       <trans-unit id="a4de4af2-fa75-4a87-b0e1-0117727917a5" resname="STH·139 | Portcullis | Card Text | Paragraph 1">
         <source>Whenever a creature enters the battlefield, if there are two or more other creatures on the battlefield, exile that creature. Return that card to the battlefield under its owner's control when CARDNAME leaves the battlefield.</source>
-        <target state="translated">当任何生物进场时，若场上已有两个或以上的生物，则将该生物置于一旁。若铁闸门离场，将此生物在拥有者的操控下进场。</target>
+        <target state="translated">当任何生物进场时，若场上已有两个或以上的生物，则将该生物置于一旁。若CARDNAME离场，将此生物在拥有者的操控下进场。</target>
       </trans-unit>
       <trans-unit id="49b7a950-bf79-46fa-8b29-b7856b38e0fd" resname="STH·140 | Shifting Wall | Card Name">
         <source>Shifting Wall</source>
@@ -1392,11 +1392,11 @@
       </trans-unit>
       <trans-unit id="49b7a950-bf79-46fa-8b29-b7856b38e0fd" resname="STH·140 | Shifting Wall | Card Text | Paragraph 1">
         <source>Defender (This creature can't attack.)</source>
-        <target state="translated">将变易之墙视为墙。（墙不能攻击）</target>
+        <target state="translated">将CARDNAME视为墙。（墙不能攻击）</target>
       </trans-unit>
       <trans-unit id="49b7a950-bf79-46fa-8b29-b7856b38e0fd" resname="STH·140 | Shifting Wall | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">变易之墙进场时，上面有X个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进场时，上面有X个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="401678d7-11dc-47ec-be28-4facdd949bc1" resname="STH·141 | Sword of the Chosen | Card Name">
         <source>Sword of the Chosen</source>
@@ -1414,7 +1414,7 @@
       </trans-unit>
       <trans-unit id="23e9e60a-5718-460d-b031-b47d6f6715d1" resname="STH·142 | Volrath's Laboratory | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color and a creature type.</source>
-        <target state="translated">当你使用瓦拉司的实验室时，选择一个颜色及生物种类。</target>
+        <target state="translated">当你使用CARDNAME时，选择一个颜色及生物种类。</target>
       </trans-unit>
       <trans-unit id="23e9e60a-5718-460d-b031-b47d6f6715d1" resname="STH·142 | Volrath's Laboratory | Card Text | Paragraph 2">
         <source>{5}, {T}: Create a 2/2 creature token of the chosen color and type.</source>

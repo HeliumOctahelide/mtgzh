@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="88f2d15e-490b-4754-8197-ac91653698f7" resname="MIR·15 | Ethereal Champion | Card Text | Paragraph 1">
         <source>Pay 1 life: Prevent the next 1 damage that would be dealt to CARDNAME this turn.</source>
-        <target state="translated">支付1点生命：在本回合中对幻影斗士防止接下来的1点伤害。</target>
+        <target state="translated">支付1点生命：在本回合中对CARDNAME防止接下来的1点伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="e5657403-7c86-4eb6-84b0-75eedb04a5a2" resname="MIR·16 | Favorable Destiny | Card Name">
@@ -209,7 +209,7 @@
       </trans-unit>
       <trans-unit id="41ac3411-3286-4698-b5d9-d4bb2db30770" resname="MIR·33 | Pearl Dragon | Card Text | Paragraph 2">
         <source>{1}{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">o1oW：珍珠龙得+0/+1直到回合结束。</target>
+        <target state="translated">o1oW：CARDNAME得+0/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="8d4e3de4-f173-4bcc-a5fb-089eee7108d3" resname="MIR·34 | Prismatic Circle | Card Name">
@@ -234,7 +234,7 @@
       </trans-unit>
       <trans-unit id="6622f325-6bc3-49dc-ba8e-154e70772dd5" resname="MIR·37 | Sacred Mesa | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you sacrifice a Pegasus.</source>
-        <target state="translated">在你的维持开始时，除非你牺牲一个飞马，否则牺牲圣洁台地。</target>
+        <target state="translated">在你的维持开始时，除非你牺牲一个飞马，否则牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="6622f325-6bc3-49dc-ba8e-154e70772dd5" resname="MIR·37 | Sacred Mesa | Card Text | Paragraph 2">
@@ -279,7 +279,7 @@
       </trans-unit>
       <trans-unit id="4b4dc838-3022-42f1-bc92-8e8358c27ea4" resname="MIR·42 | Sunweb | Card Text | Paragraph 3">
         <source>CARDNAME can't block creatures with power 2 or less.</source>
-        <target state="translated">日光之网不能阻挡力量小于或等于2的生物。</target>
+        <target state="translated">CARDNAME不能阻挡力量小于或等于2的生物。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="96267012-24da-43ae-97af-69ca3d7704f8" resname="MIR·43 | Teremko Griffin | Card Name">
@@ -299,7 +299,7 @@
       </trans-unit>
       <trans-unit id="d6db3573-2cc5-47ca-b65f-080aab7fdddc" resname="MIR·44 | Unyaro Griffin | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Counter target red instant or sorcery spell.</source>
-        <target state="translated">牺牲文亚若狮鹫：反击目标红色瞬间或法术咒语。</target>
+        <target state="translated">牺牲CARDNAME：反击目标红色瞬间或法术咒语。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="a02e3c10-cc21-4e06-a987-b03aee61bd50" resname="MIR·45 | Vigilant Martyr | Card Name">
@@ -394,7 +394,7 @@
       </trans-unit>
       <trans-unit id="f87b3c06-5479-4060-8d3a-d161fd5830c1" resname="MIR·60 | Daring Apprentice | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Counter target spell.</source>
-        <target state="translated">{T}，牺牲大胆的学徒：反击目标咒语。</target>
+        <target state="translated">{T}，牺牲CARDNAME：反击目标咒语。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="36d9271d-6dbf-4640-9222-721a7a3ccc08" resname="MIR·61 | Dissipate | Card Name">
@@ -454,12 +454,12 @@
       </trans-unit>
       <trans-unit id="fb2f594d-e608-444b-b81f-836de2452868" resname="MIR·67 | Floodgate | Card Text | Paragraph 2">
         <source>When CARDNAME has flying, sacrifice it.</source>
-        <target state="translated">当水闸具有飞行异能时，将它牺牲。</target>
+        <target state="translated">当CARDNAME具有飞行异能时，将它牺牲。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="fb2f594d-e608-444b-b81f-836de2452868" resname="MIR·67 | Floodgate | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, it deals damage equal to half the number of Islands you control, rounded down, to each nonblue creature without flying.</source>
-        <target state="translated">当水闸离开战场时，它对每个不具飞行异能的非蓝色生物各造成伤害，其数量等同于由你操控之海岛数量的一半，小数点后舍去。</target>
+        <target state="translated">当CARDNAME离开战场时，它对每个不具飞行异能的非蓝色生物各造成伤害，其数量等同于由你操控之海岛数量的一半，小数点后舍去。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="8192bca7-03e5-4ea1-ae77-8bc811c19417" resname="MIR·68 | Hakim, Loreweaver | Card Name">
@@ -669,7 +669,7 @@
       </trans-unit>
       <trans-unit id="08798c53-46f3-4a51-9284-491730605b2b" resname="MIR·103 | Abyssal Hunter | Card Text | Paragraph 1">
         <source>{B}, {T}: Tap target creature. CARDNAME deals damage equal to CARDNAME's power to that creature.</source>
-        <target state="translated">oB，ocT：横置目标生物。深渊猎手对该生物造成等同于深渊猎手之力量的伤害。</target>
+        <target state="translated">oB，ocT：横置目标生物。CARDNAME对该生物造成等同于CARDNAME之力量的伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="686aebd0-0d34-47e3-bbbd-ad08d2a3a864" resname="MIR·104 | Ashen Powder | Card Name">
@@ -814,7 +814,7 @@
       </trans-unit>
       <trans-unit id="6e16f8bc-3200-4a0a-b298-c7e7b4e8376c" resname="MIR·127 | Gravebane Zombie | Card Text | Paragraph 1">
         <source>If CARDNAME would die, put CARDNAME on top of its owner's library instead.</source>
-        <target state="translated">当破坟灵俑将要从场上置入坟墓场时，改为将破坟灵俑置于其拥有者的牌库顶。</target>
+        <target state="translated">当CARDNAME将要从场上置入坟墓场时，改为将CARDNAME置于其拥有者的牌库顶。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="33124133-ed2c-4b86-a135-ac76f4fe4da5" resname="MIR·128 | Harbinger of Night | Card Name">
@@ -904,7 +904,7 @@
       </trans-unit>
       <trans-unit id="ba3fc11e-db36-430c-920b-31195913c16a" resname="MIR·140 | Shadow Guildmage | Card Text | Paragraph 2">
         <source>{R}, {T}: CARDNAME deals 1 damage to any target and 1 damage to you.</source>
-        <target state="translated">{R}，{T}：黯影公会法师对目标生物或牌手造成1点伤害，且对你造成1点伤害。</target>
+        <target state="translated">{R}，{T}：CARDNAME对目标生物或牌手造成1点伤害，且对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="d5c782cc-c951-4c6f-a93f-774ae6c1c214" resname="MIR·141 | Shallow Grave | Card Name">
@@ -929,7 +929,7 @@
       </trans-unit>
       <trans-unit id="f8ca7e96-0545-4f36-85c0-944d5c0b760a" resname="MIR·143 | Skulking Ghost | Card Text | Paragraph 2">
         <source>When CARDNAME becomes the target of a spell or ability, sacrifice it.</source>
-        <target state="translated">当隐匿鬼魂成为咒语或异能的目标时，将它牺牲。</target>
+        <target state="translated">当CARDNAME成为咒语或异能的目标时，将它牺牲。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="7fa084e1-05c2-4691-b9fe-3e3c717e5c9d" resname="MIR·144 | Soul Rend | Card Name">
@@ -1066,7 +1066,7 @@
       </trans-unit>
       <trans-unit id="694f2314-67fe-4a31-8015-9762edf15187" resname="MIR·167 | Crimson Hellkite | Card Text | Paragraph 2">
         <source>{X}, {T}: CARDNAME deals X damage to target creature. Spend only red mana on X.</source>
-        <target state="translated">oX，ocT：绯红残虐者对目标生物造成X点伤害。此异能之费用只能以红色法术力支付。</target>
+        <target state="translated">oX，ocT：CARDNAME对目标生物造成X点伤害。此异能之费用只能以红色法术力支付。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="2e63836c-37af-49c1-84a1-8650ed072805" resname="MIR·168 | Crimson Roc | Card Name">
@@ -1116,7 +1116,7 @@
       </trans-unit>
       <trans-unit id="12b9c6b8-9f87-41f1-9e81-b5995e3ed6b7" resname="MIR·177 | Goblin Elite Infantry | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked, it gets -1/-1 until end of turn.</source>
-        <target state="translated">每当精灵精英步兵阻挡或被阻挡时，它得-1/-1直到回合结束。</target>
+        <target state="translated">每当CARDNAME阻挡或被阻挡时，它得-1/-1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="a4b87068-aaa6-41de-9b9a-76ca4210a485" resname="MIR·178 | Goblin Scouts | Card Name">
@@ -1141,12 +1141,12 @@
       </trans-unit>
       <trans-unit id="f7285f52-5df0-4f90-9cf7-a57295d90fd4" resname="MIR·181 | Hammer of Bogardan | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">博卡登之锤对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="f7285f52-5df0-4f90-9cf7-a57295d90fd4" resname="MIR·181 | Hammer of Bogardan | Card Text | Paragraph 2">
         <source>{2}{R}{R}{R}: Return CARDNAME from your graveyard to your hand. Activate only during your upkeep.</source>
-        <target state="translated">{2}{R}{R}{R}：将博卡登之锤从你坟墓场中移回你手上。你只可以于你的维持中使用此异能。（维持步骤是在重置之后、抓牌之前的时段。）</target>
+        <target state="translated">{2}{R}{R}{R}：将CARDNAME从你坟墓场中移回你手上。你只可以于你的维持中使用此异能。（维持步骤是在重置之后、抓牌之前的时段。）</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="ee84e61e-d99a-489b-a3b1-cb45fc81bce6" resname="MIR·182 | Hivis of the Scale | Card Name">
@@ -1176,7 +1176,7 @@
       </trans-unit>
       <trans-unit id="271febe5-98ea-403d-87be-7865cf9f426d" resname="MIR·186 | Lightning Reflexes | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.</source>
-        <target state="translated">你可以将闪电反射视同具有闪现异能地来施放。如果你是于无法施放法术的时机下施放之，则在下一个清除步骤开始时，它所成之永久物的操控者将它牺牲。</target>
+        <target state="translated">你可以将CARDNAME视同具有闪现异能地来施放。如果你是于无法施放法术的时机下施放之，则在下一个清除步骤开始时，它所成之永久物的操控者将它牺牲。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="271febe5-98ea-403d-87be-7865cf9f426d" resname="MIR·186 | Lightning Reflexes | Card Text | Paragraph 2">
@@ -1206,7 +1206,7 @@
       </trans-unit>
       <trans-unit id="9e41febe-6fad-451e-afe8-20d3ca3c88a4" resname="MIR·189 | Reckless Embermage | Card Text | Paragraph 1">
         <source>{1}{R}: CARDNAME deals 1 damage to any target and 1 damage to itself.</source>
-        <target state="translated">1红：鲁莽烬法师对目标生物或牌手造成1点伤害，并且对它自己造成1点伤害。</target>
+        <target state="translated">1红：CARDNAME对目标生物或牌手造成1点伤害，并且对它自己造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="9285b14a-fc8e-457a-b803-202e05be41e5" resname="MIR·190 | Reign of Chaos | Card Name">
@@ -1231,7 +1231,7 @@
       </trans-unit>
       <trans-unit id="e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee" resname="MIR·193 | Spitting Earth | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target creature equal to the number of Mountains you control.</source>
-        <target state="translated">飞砾走石对目标生物造成伤害，其数量等同于由你操控的山脉数量。</target>
+        <target state="translated">CARDNAME对目标生物造成伤害，其数量等同于由你操控的山脉数量。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="132e8aac-9698-45fa-8d64-b460fd5deffc" resname="MIR·195 | Subterranean Spirit | Card Name">
@@ -1286,7 +1286,7 @@
       </trans-unit>
       <trans-unit id="911787db-9023-46f8-9501-3ad26b6ca51d" resname="MIR·202 | Volcanic Geyser | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to any target.</source>
-        <target state="translated">火泉喷发对任意一个目标造成X点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自M21（2020-07-03）；</note>
       </trans-unit>
       <trans-unit id="6d99204c-b42d-48bc-9a93-fae5660665c7" resname="MIR·203 | Wildfire Emissary | Card Name">
@@ -1301,7 +1301,7 @@
       </trans-unit>
       <trans-unit id="6d99204c-b42d-48bc-9a93-fae5660665c7" resname="MIR·203 | Wildfire Emissary | Card Text | Paragraph 2">
         <source>{1}{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{1}{R}：野火密使得+1/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="a105b7f4-c93b-4b54-acf8-7212907d9cd6" resname="MIR·204 | Zirilan of the Claw | Card Name">
@@ -1376,7 +1376,7 @@
       </trans-unit>
       <trans-unit id="e859180f-084c-4023-848a-96f22b8f9698" resname="MIR·215 | Femeref Archers | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 4 damage to target attacking creature with flying.</source>
-        <target state="translated">{T}：费米瑞甫弓箭手对目标具飞行异能、且进行攻击的生物造成4点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标具飞行异能、且进行攻击的生物造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="b2e1195d-443f-4826-a748-bc6e7e24153a" resname="MIR·217 | Foratog | Card Name">
@@ -1386,7 +1386,7 @@
       </trans-unit>
       <trans-unit id="b2e1195d-443f-4826-a748-bc6e7e24153a" resname="MIR·217 | Foratog | Card Text | Paragraph 1">
         <source>{G}, Sacrifice a Forest: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">{G}，牺牲一个树林：树木阿托格得+2/+2直到回合结束。</target>
+        <target state="translated">{G}，牺牲一个树林：CARDNAME得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="2b56c895-37d3-4475-a542-dc6d21c46f06" resname="MIR·218 | Giant Mantis | Card Name">
@@ -1451,7 +1451,7 @@
       </trans-unit>
       <trans-unit id="bcfec2de-cff3-4015-9a43-a58be525a2da" resname="MIR·228 | Maro | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of cards in your hand.</source>
-        <target state="translated">玛洛的力量和防御力各等同于你的手牌数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你的手牌数量。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="f41066eb-be5e-4a6d-9156-64f5e56c7ab3" resname="MIR·229 | Mindbender Spores | Card Name">
@@ -1486,7 +1486,7 @@
       </trans-unit>
       <trans-unit id="be9a64fb-1e8d-4ed8-b4c5-3d44db9c1d3b" resname="MIR·234 | Quirion Elves | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于奎利恩地精进场时，选择一个颜色。</target>
+        <target state="translated">于CARDNAME进场时，选择一个颜色。</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
       <trans-unit id="be9a64fb-1e8d-4ed8-b4c5-3d44db9c1d3b" resname="MIR·234 | Quirion Elves | Card Text | Paragraph 2">
@@ -1541,7 +1541,7 @@
       </trans-unit>
       <trans-unit id="f12cc4e9-010a-4ff7-a026-dcb6113a36fb" resname="MIR·243 | Stalking Tiger | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by more than one creature.</source>
-        <target state="translated">潜行之虎不能被一个以上的生物阻挡。</target>
+        <target state="translated">CARDNAME不能被一个以上的生物阻挡。</target>
         <note xmlns:from="developer">中文数据来自W17（2017-04-15）；</note>
       </trans-unit>
       <trans-unit id="43d90914-ddfc-49c2-8e58-fdc3693040f2" resname="MIR·244 | Superior Numbers | Card Name">
@@ -1571,12 +1571,12 @@
       </trans-unit>
       <trans-unit id="d0f287ff-1b1b-454a-9360-fac34c8e1f24" resname="MIR·248 | Uktabi Wildcats | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of Forests you control.</source>
-        <target state="translated">乌克塔比野猫的力量和防御力各等同于你所操控的树林之数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你所操控的树林之数量。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="d0f287ff-1b1b-454a-9360-fac34c8e1f24" resname="MIR·248 | Uktabi Wildcats | Card Text | Paragraph 2">
         <source>{G}, Sacrifice a Forest: Regenerate CARDNAME.</source>
-        <target state="translated">绿，牺牲一张树林：重生乌克塔比野猫。</target>
+        <target state="translated">绿，牺牲一张树林：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="0861a73d-8810-42f7-b20a-a6dd53586220" resname="MIR·249 | Unseen Walker | Card Name">
@@ -1626,7 +1626,7 @@
       </trans-unit>
       <trans-unit id="aeb151d2-c313-44d2-972e-33487f070c23" resname="MIR·253 | Wall of Roots | Card Text | Paragraph 2">
         <source>Put a -0/-1 counter on CARDNAME: Add {G}. Activate only once each turn.</source>
-        <target state="translated">在根墙上放置一个-0/-1指示物：加{G}。每回合只能起动一次。</target>
+        <target state="translated">在CARDNAME上放置一个-0/-1指示物：加{G}。每回合只能起动一次。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="7809131c-747c-4c33-a3ca-13e573a92b66" resname="MIR·254 | Wild Elephant | Card Name">
@@ -1773,7 +1773,7 @@
       </trans-unit>
       <trans-unit id="eb73313b-d39a-46ab-abfc-76f94a75dfca" resname="MIR·280 | Savage Twister | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature.</source>
-        <target state="translated">凶暴龙卷风对每个生物各造成X点伤害。</target>
+        <target state="translated">CARDNAME对每个生物各造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="c24e74e9-ce88-48af-a113-b4fe76f963d4" resname="MIR·281 | Sawback Manticore | Card Name">
@@ -1838,12 +1838,12 @@
       </trans-unit>
       <trans-unit id="046475e5-36d1-4b5f-af31-6df715c7a368" resname="MIR·292 | Amber Prison | Card Text | Paragraph 1">
         <source>You may choose not to untap CARDNAME during your untap step.</source>
-        <target state="translated">你可选择在重置步骤中不重置琥珀牢笼。</target>
+        <target state="translated">你可选择在重置步骤中不重置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="046475e5-36d1-4b5f-af31-6df715c7a368" resname="MIR·292 | Amber Prison | Card Text | Paragraph 2">
         <source>{4}, {T}: Tap target artifact, creature, or land. That permanent doesn't untap during its controller's untap step for as long as CARDNAME remains tapped.</source>
-        <target state="translated">o4，ocT：横置目标神器、生物或地。只要琥珀牢笼持续被横置，该永久物便不能在其操控者的重置步骤中重置。</target>
+        <target state="translated">o4，ocT：横置目标神器、生物或地。只要CARDNAME持续被横置，该永久物便不能在其操控者的重置步骤中重置。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="fdbd94c8-611c-4b20-99ca-dd2d7661d644" resname="MIR·293 | Amulet of Unmaking | Card Name">
@@ -1868,7 +1868,7 @@
       </trans-unit>
       <trans-unit id="2a81b3f1-babc-4bd7-8b87-754c8389ae85" resname="MIR·296 | Charcoal Diamond | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">炭黑钻石须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="2a81b3f1-babc-4bd7-8b87-754c8389ae85" resname="MIR·296 | Charcoal Diamond | Card Text | Paragraph 2">
@@ -1913,7 +1913,7 @@
       </trans-unit>
       <trans-unit id="bcca5bbe-df01-45ea-a6ac-4e3d1cf237c8" resname="MIR·302 | Fire Diamond | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">焰红钻石须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="bcca5bbe-df01-45ea-a6ac-4e3d1cf237c8" resname="MIR·302 | Fire Diamond | Card Text | Paragraph 2">
@@ -1928,7 +1928,7 @@
       </trans-unit>
       <trans-unit id="f3558ddf-2bc6-4870-bd24-2467d870ffe5" resname="MIR·303 | Grinning Totem | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Search target opponent's library for a card and exile it. Then that player shuffles. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard.</source>
-        <target state="translated">{2}，{T}，牺牲微笑图腾像：从目标对手的牌库中搜寻一张牌，并将它移出对战。 然后该牌手将他的牌库洗牌。 直到你下个维持开始，你可以使用该牌。 在你下个维持开始时，若你尚未使用它，则将它置入其拥有者的坟墓场。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：从目标对手的牌库中搜寻一张牌，并将它移出对战。 然后该牌手将他的牌库洗牌。 直到你下个维持开始，你可以使用该牌。 在你下个维持开始时，若你尚未使用它，则将它置入其拥有者的坟墓场。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="cf04f2cd-d9f8-4e0c-adaf-6d38bc14dd7a" resname="MIR·304 | Horrible Hordes | Card Name">
@@ -1948,7 +1948,7 @@
       </trans-unit>
       <trans-unit id="dc9afb9e-eab3-4969-9a44-2c01bf730e68" resname="MIR·306 | Lead Golem | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it doesn't untap during its controller's next untap step.</source>
-        <target state="translated">每当铅魔像进行攻击时，它在其操控者的下个重置步骤中不可重置。</target>
+        <target state="translated">每当CARDNAME进行攻击时，它在其操控者的下个重置步骤中不可重置。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="63bacc32-d6ba-420c-9b49-299c08e5fb39" resname="MIR·307 | Lion's Eye Diamond | Card Name">
@@ -1983,7 +1983,7 @@
       </trans-unit>
       <trans-unit id="4731eb16-3088-4d4d-80a4-7e39d00c1a87" resname="MIR·310 | Marble Diamond | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">乳白钻石须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="4731eb16-3088-4d4d-80a4-7e39d00c1a87" resname="MIR·310 | Marble Diamond | Card Text | Paragraph 2">
@@ -2003,7 +2003,7 @@
       </trans-unit>
       <trans-unit id="87cea56a-b64f-452a-8e4b-40363aabb452" resname="MIR·312 | Moss Diamond | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">苔绿钻石须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="87cea56a-b64f-452a-8e4b-40363aabb452" resname="MIR·312 | Moss Diamond | Card Text | Paragraph 2">
@@ -2018,7 +2018,7 @@
       </trans-unit>
       <trans-unit id="89920b7a-fd56-4fa8-96c9-fb66c2af6fbf" resname="MIR·313 | Patagia Golem | Card Text | Paragraph 1">
         <source>{3}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">{3}：翼翅魔像获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
+        <target state="translated">{3}：CARDNAME获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="3411c350-a940-4172-b558-f5dc44b4fb33" resname="MIR·314 | Paupers' Cage | Card Name">
@@ -2058,7 +2058,7 @@
       </trans-unit>
       <trans-unit id="8959aef9-77bb-45a3-939e-324bd59aec89" resname="MIR·319 | Sky Diamond | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">天蓝钻石须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="8959aef9-77bb-45a3-939e-324bd59aec89" resname="MIR·319 | Sky Diamond | Card Text | Paragraph 2">
@@ -2093,12 +2093,12 @@
       </trans-unit>
       <trans-unit id="7a78abdb-d1ac-49cb-a74b-9de21c06364a" resname="MIR·324 | Bad River | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">腐败河流须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="7a78abdb-d1ac-49cb-a74b-9de21c06364a" resname="MIR·324 | Bad River | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，牺牲腐败河流：从你牌库中搜寻一张海岛或沼泽牌，将之放进战场，然后洗牌。</target>
+        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张海岛或沼泽牌，将之放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="1afb6e29-058e-44c5-a3fa-56c462f070a0" resname="MIR·325 | Crystal Vein | Card Name">
@@ -2113,7 +2113,7 @@
       </trans-unit>
       <trans-unit id="1afb6e29-058e-44c5-a3fa-56c462f070a0" resname="MIR·325 | Crystal Vein | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Add {C}{C}.</source>
-        <target state="translated">{T}，牺牲水晶矿脉：加{2}到你的法术力池中。</target>
+        <target state="translated">{T}，牺牲CARDNAME：加{2}到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="7b7610f3-f182-404e-80b9-ccd94e174db0" resname="MIR·326 | Flood Plain | Card Name">
@@ -2123,12 +2123,12 @@
       </trans-unit>
       <trans-unit id="7b7610f3-f182-404e-80b9-ccd94e174db0" resname="MIR·326 | Flood Plain | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">洪泛平原须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="7b7610f3-f182-404e-80b9-ccd94e174db0" resname="MIR·326 | Flood Plain | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，牺牲洪泛平原：从你牌库中搜寻一张平原或海岛牌，将之放进战场，然后洗牌。</target>
+        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张平原或海岛牌，将之放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="65f5efac-ef98-4be2-abcc-1aa38bf66b06" resname="MIR·327 | Grasslands | Card Name">
@@ -2138,12 +2138,12 @@
       </trans-unit>
       <trans-unit id="65f5efac-ef98-4be2-abcc-1aa38bf66b06" resname="MIR·327 | Grasslands | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">牧草原野须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="65f5efac-ef98-4be2-abcc-1aa38bf66b06" resname="MIR·327 | Grasslands | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，牺牲牧草原野：从你牌库中搜寻一张树林或平原牌，将之放进战场，然后洗牌。</target>
+        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张树林或平原牌，将之放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="ded4e5c2-4f03-47c1-9843-b98c239ccfea" resname="MIR·328 | Mountain Valley | Card Name">
@@ -2153,12 +2153,12 @@
       </trans-unit>
       <trans-unit id="ded4e5c2-4f03-47c1-9843-b98c239ccfea" resname="MIR·328 | Mountain Valley | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">山脉林谷须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="ded4e5c2-4f03-47c1-9843-b98c239ccfea" resname="MIR·328 | Mountain Valley | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，牺牲山脉林谷：从你牌库中搜寻一张山脉或树林牌，将之放进战场，然后洗牌。</target>
+        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张山脉或树林牌，将之放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="1e21c347-7aaf-42ae-abf3-f1283c5b54e6" resname="MIR·329 | Rocky Tar Pit | Card Name">
@@ -2168,12 +2168,12 @@
       </trans-unit>
       <trans-unit id="1e21c347-7aaf-42ae-abf3-f1283c5b54e6" resname="MIR·329 | Rocky Tar Pit | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">岩砾焦坑须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="1e21c347-7aaf-42ae-abf3-f1283c5b54e6" resname="MIR·329 | Rocky Tar Pit | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，牺牲岩砾焦坑：从你牌库中搜寻一张沼泽或山脉牌，将之放进战场，然后洗牌。</target>
+        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张沼泽或山脉牌，将之放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="b6ed7ca8-fd91-46e3-9149-a3de23c7078e" resname="MIR·330 | Teferi's Isle | Card Name">

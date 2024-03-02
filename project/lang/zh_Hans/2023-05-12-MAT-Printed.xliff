@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="52ce799e-cb9e-4d74-8b13-a5f4559e13a9" resname="MAT·2 | Deification | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a planeswalker type.</source>
-        <target state="translated">于奉若神明进战场时，选择一种鹏洛客类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种鹏洛客类别。</target>
       </trans-unit>
       <trans-unit id="52ce799e-cb9e-4d74-8b13-a5f4559e13a9" resname="MAT·2 | Deification | Card Text | Paragraph 2">
         <source>Planeswalkers you control of the chosen type have hexproof.</source>
@@ -36,7 +36,7 @@
       </trans-unit>
       <trans-unit id="553ed1d8-4d5c-48f8-8513-031bd8977d75" resname="MAT·3 | Harnessed Snubhorn | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield.</source>
-        <target state="translated">每当佩挽短角龙对任一牌手造成战斗伤害时，将目标神器或结界牌从你的坟墓场移回战场。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，将目标神器或结界牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="a61a3ba1-af6c-4ddc-aa82-34bfc30867d0" resname="MAT·4 | Metropolis Reformer | Card Name">
         <source>Metropolis Reformer</source>
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit id="a61a3ba1-af6c-4ddc-aa82-34bfc30867d0" resname="MAT·4 | Metropolis Reformer | Card Text | Paragraph 3">
         <source>Whenever CARDNAME is dealt damage, you gain that much life.</source>
-        <target state="translated">每当都会变革使受到伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME受到伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="a027a75f-4faf-4e96-9035-d1f622b9b607" resname="MAT·5 | Spark Rupture | Card Name">
         <source>Spark Rupture</source>
@@ -60,7 +60,7 @@
       </trans-unit>
       <trans-unit id="a027a75f-4faf-4e96-9035-d1f622b9b607" resname="MAT·5 | Spark Rupture | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当火花破裂进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="a027a75f-4faf-4e96-9035-d1f622b9b607" resname="MAT·5 | Spark Rupture | Card Text | Paragraph 2">
         <source>Each planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.</source>
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit id="f72a9deb-9329-4930-a906-136c26490d52" resname="MAT·8 | Tolarian Contempt | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a rejection counter on each creature your opponents control.</source>
-        <target state="translated">当陶拉里亚式轻蔑进战场时，在每个由对手操控的生物上各放置一个拒斥指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在每个由对手操控的生物上各放置一个拒斥指示物。</target>
       </trans-unit>
       <trans-unit id="f72a9deb-9329-4930-a906-136c26490d52" resname="MAT·8 | Tolarian Contempt | Card Text | Paragraph 2">
         <source>At the beginning of your end step, for each opponent, choose up to one target creature they control with a rejection counter on it. That creature's owner puts it on the top or bottom of their library.</source>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="f2785902-2757-406b-bc75-6f05e0edc98d" resname="MAT·10 | Vesuvan Drifter | Card Text | Paragraph 3">
         <source>At the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, CARDNAME becomes a copy of that card until end of turn, except it has flying.</source>
-        <target state="translated">在每次战斗开始时，你可以展示你的牌库顶牌。若你以此法展示出一张生物牌，则维苏瓦漂泊者成为该牌的复制品直到回合结束，但它具有飞行异能。</target>
+        <target state="translated">在每次战斗开始时，你可以展示你的牌库顶牌。若你以此法展示出一张生物牌，则CARDNAME成为该牌的复制品直到回合结束，但它具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="5330e6b7-eca3-46a4-8905-8f1de16f76af" resname="MAT·11 | Ayara's Oathsworn | Card Name">
         <source>Ayara's Oathsworn</source>
@@ -132,7 +132,7 @@
       </trans-unit>
       <trans-unit id="5330e6b7-eca3-46a4-8905-8f1de16f76af" resname="MAT·11 | Ayara's Oathsworn | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.</source>
-        <target state="translated">每当阿娅拉的守誓骑士对任一牌手造成战斗伤害时，若其上的+1/+1指示物数量少于四个，则在其上放置一个+1/+1指示物。然后如果其上正好有四个+1/+1指示物，则从你牌库中搜寻一张牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，若其上的+1/+1指示物数量少于四个，则在其上放置一个+1/+1指示物。然后如果其上正好有四个+1/+1指示物，则从你牌库中搜寻一张牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="424eb4c7-647e-4168-9471-f299e8e77f5f" resname="MAT·12 | Blot Out | Card Name">
         <source>Blot Out</source>
@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="d5e0b5cf-39e8-454f-a942-f7865416ef81" resname="MAT·13 | Death-Rattle Oni | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, destroy all other creatures that were dealt damage this turn.</source>
-        <target state="translated">当撼亡邪鬼进战场时，消灭所有本回合中受过伤害的其他生物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭所有本回合中受过伤害的其他生物。</target>
       </trans-unit>
       <trans-unit id="a1dc6b0f-09bb-4489-8022-42c700eb1191" resname="MAT·14 | Markov Baron | Card Name">
         <source>Markov Baron</source>
@@ -184,11 +184,11 @@
       </trans-unit>
       <trans-unit id="4dbb4d8f-8ae3-4052-9c6a-e56e96cec832" resname="MAT·15 | Urborg Scavengers | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当乌尔博格拾荒灵进战场或攻击时，将目标牌从坟墓场放逐。在乌尔博格拾荒灵上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，将目标牌从坟墓场放逐。在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="4dbb4d8f-8ae3-4052-9c6a-e56e96cec832" resname="MAT·15 | Urborg Scavengers | Card Text | Paragraph 2">
         <source>CARDNAME has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</source>
-        <target state="translated">只要以它放逐的某张牌具有飞行异能，乌尔博格拾荒灵便具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
+        <target state="translated">只要以它放逐的某张牌具有飞行异能，CARDNAME便具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
       </trans-unit>
       <trans-unit id="aeb3069f-5f5a-4e11-8a63-46399eb85a95" resname="MAT·16 | Arni Metalbrow | Card Name">
         <source>Arni Metalbrow</source>
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="8361d9e2-b9fc-4d46-a1ba-a24139157f26" resname="MAT·17 | Kolaghan Warmonger | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">每当寇安甘族好战者攻击时，检视你牌库顶的六张牌。你可以展示其中一张龙牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
+        <target state="translated">每当CARDNAME攻击时，检视你牌库顶的六张牌。你可以展示其中一张龙牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="179a0525-a142-46f6-9b5b-06a2fbb25556" resname="MAT·18 | Plargg and Nassari | Card Name">
         <source>Plargg and Nassari</source>
@@ -224,7 +224,7 @@
       </trans-unit>
       <trans-unit id="239165bb-7819-4d54-a84c-2911934253d6" resname="MAT·19 | Reckless Handling | Card Text | Paragraph 1">
         <source>Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, CARDNAME deals 2 damage to each opponent.</source>
-        <target state="translated">从你的牌库中搜寻一张神器牌，展示该牌，将它置于你手上，洗牌，然后随机弃一张牌。如果以此法弃掉一张神器牌，则鲁莽处置向每位对手各造成2点伤害。</target>
+        <target state="translated">从你的牌库中搜寻一张神器牌，展示该牌，将它置于你手上，洗牌，然后随机弃一张牌。如果以此法弃掉一张神器牌，则CARDNAME向每位对手各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="8525ae50-7438-492a-98ae-53f0ffeaab51" resname="MAT·20 | Animist's Might | Card Name">
         <source>Animist's Might</source>
@@ -276,7 +276,7 @@
       </trans-unit>
       <trans-unit id="5b647377-d47e-4630-8ccc-933ef6127880" resname="MAT·24 | Tranquil Frillback | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many —</source>
-        <target state="translated">当安详鳍背龙进战场时，你可以支付至多三次{G}。当你支付一次或数次此费用时，选择至多等量的模式～</target>
+        <target state="translated">当CARDNAME进战场时，你可以支付至多三次{G}。当你支付一次或数次此费用时，选择至多等量的模式～</target>
       </trans-unit>
       <trans-unit id="5b647377-d47e-4630-8ccc-933ef6127880" resname="MAT·24 | Tranquil Frillback | Card Text | Paragraph 2">
         <source>• Destroy target artifact or enchantment.</source>
@@ -304,7 +304,7 @@
       </trans-unit>
       <trans-unit id="0a707ab3-b9b5-422a-8b0f-e963d3ad6606" resname="MAT·26 | Calix, Guided by Fate | Card Text | Paragraph 1">
         <source>Constellation — Whenever CARDNAME or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.</source>
-        <target state="translated">星彩～每当命缚丝引凯利斯或另一个结界在你的操控下进战场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">星彩～每当CARDNAME或另一个结界在你的操控下进战场时，在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="0a707ab3-b9b5-422a-8b0f-e963d3ad6606" resname="MAT·26 | Calix, Guided by Fate | Card Text | Paragraph 2">
         <source>Whenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.</source>
@@ -368,7 +368,7 @@
       </trans-unit>
       <trans-unit id="5c0c3860-1dab-4897-8f36-f9be263bba03" resname="MAT·32 | Jirina, Dauntless General | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target player's graveyard.</source>
-        <target state="translated">当不屈将军杰琳娜进战场时，放逐目标牌手的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标牌手的坟墓场。</target>
       </trans-unit>
       <trans-unit id="5c0c3860-1dab-4897-8f36-f9be263bba03" resname="MAT·32 | Jirina, Dauntless General | Card Text | Paragraph 2">
         <source>Sacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.</source>
@@ -392,11 +392,11 @@
       </trans-unit>
       <trans-unit id="4569fb73-3555-4eb8-933a-130770dd56d1" resname="MAT·34 | The Kenriths' Royal Funeral | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way.</source>
-        <target state="translated">当肯理斯皇室葬礼进战场时，将至多两张目标传奇生物牌从你的坟墓场放逐。你抓X张牌且失去X点生命，X为以此法放逐之牌中的最大法术力值。</target>
+        <target state="translated">当CARDNAME进战场时，将至多两张目标传奇生物牌从你的坟墓场放逐。你抓X张牌且失去X点生命，X为以此法放逐之牌中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="4569fb73-3555-4eb8-933a-130770dd56d1" resname="MAT·34 | The Kenriths' Royal Funeral | Card Text | Paragraph 2">
         <source>Legendary spells you cast cost {1} less to cast for each card exiled with CARDNAME.</source>
-        <target state="translated">每有一张以肯理斯皇室葬礼放逐的牌，你施放的传奇咒语便减少{1}来施放。</target>
+        <target state="translated">每有一张以CARDNAME放逐的牌，你施放的传奇咒语便减少{1}来施放。</target>
       </trans-unit>
       <trans-unit id="7b599f53-614c-4b1f-9899-15d5d1e35879" resname="MAT·35 | Kiora, Sovereign of the Deep | Card Name">
         <source>Kiora, Sovereign of the Deep</source>
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="827ecc44-0b00-4515-8953-bc91fa03705a" resname="MAT·38 | Narset, Enlightened Exile | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.</source>
-        <target state="translated">每当受启黜人娜尔施攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="8ebd7ce4-550d-41ab-8559-97efb234a0a1" resname="MAT·39 | Nashi, Moon's Legacy | Card Name">
         <source>Nashi, Moon's Legacy</source>
@@ -456,7 +456,7 @@
       </trans-unit>
       <trans-unit id="8ebd7ce4-550d-41ab-8559-97efb234a0a1" resname="MAT·39 | Nashi, Moon's Legacy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy. (You still pay its costs. A copy of a permanent spell becomes a token.)</source>
-        <target state="translated">每当月智传承哪失攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。（你依旧要支付其费用，永久物咒语的复制品会成为衍生物。）</target>
+        <target state="translated">每当CARDNAME攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。（你依旧要支付其费用，永久物咒语的复制品会成为衍生物。）</target>
       </trans-unit>
       <trans-unit id="da1ff886-d3c8-43e5-8bf0-ba4f0b259781" resname="MAT·40 | Niv-Mizzet, Supreme | Card Name">
         <source>Niv-Mizzet, Supreme</source>
@@ -480,7 +480,7 @@
       </trans-unit>
       <trans-unit id="ddb68233-3683-41bd-9b6e-4f07a1b54244" resname="MAT·41 | Ob Nixilis, Captive Kingpin | Card Text | Paragraph 2">
         <source>Whenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on CARDNAME. Exile the top card of your library. Until your next end step, you may play that card.</source>
-        <target state="translated">每当一位或多位对手各失去正好1点生命时，在受困魔头欧尼希兹上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
+        <target state="translated">每当一位或多位对手各失去正好1点生命时，在CARDNAME上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
       </trans-unit>
       <trans-unit id="0ae89461-4bce-4b49-b875-03afc2469fe7" resname="MAT·42 | Pia Nalaar, Consul of Revival | Card Name">
         <source>Pia Nalaar, Consul of Revival</source>
@@ -536,7 +536,7 @@
       </trans-unit>
       <trans-unit id="6225f139-f6eb-4eb5-9776-159a599d8255" resname="MAT·46 | Sarkhan, Soul Aflame | Card Text | Paragraph 2">
         <source>Whenever a Dragon enters the battlefield under your control, you may have CARDNAME become a copy of it until end of turn, except its name is CARDNAME and it's legendary in addition to its other types.</source>
-        <target state="translated">每当一个龙在你的操控下进战场时，你可以使昂焰灵魂萨坎成为前者的复制品直到回合结束，但它的名称是昂焰灵魂萨坎，且额外是传奇。</target>
+        <target state="translated">每当一个龙在你的操控下进战场时，你可以使CARDNAME成为前者的复制品直到回合结束，但它的名称是CARDNAME，且额外是传奇。</target>
       </trans-unit>
       <trans-unit id="cba71725-d6df-44d7-a93b-934573759711" resname="MAT·47 | Sigarda, Font of Blessings | Card Name">
         <source>Sigarda, Font of Blessings</source>
@@ -576,7 +576,7 @@
       </trans-unit>
       <trans-unit id="4219b5ea-a252-4d76-a60a-9674340e8ed3" resname="MAT·49 | Karn, Legacy Reforged | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the greatest mana value among artifacts you control.</source>
-        <target state="translated">神兵重铸卡恩的力量和防御力各等同于由你操控之神器中的最大法术力值。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控之神器中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="4219b5ea-a252-4d76-a60a-9674340e8ed3" resname="MAT·49 | Karn, Legacy Reforged | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, add {C} for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end.</source>
@@ -608,7 +608,7 @@
       </trans-unit>
       <trans-unit id="a4c18b82-ec70-4233-9717-f9d522b3d022" resname="MAT·52 | Deification | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a planeswalker type.</source>
-        <target state="translated">于奉若神明进战场时，选择一种鹏洛客类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种鹏洛客类别。</target>
       </trans-unit>
       <trans-unit id="a4c18b82-ec70-4233-9717-f9d522b3d022" resname="MAT·52 | Deification | Card Text | Paragraph 2">
         <source>Planeswalkers you control of the chosen type have hexproof.</source>
@@ -628,7 +628,7 @@
       </trans-unit>
       <trans-unit id="c19d4ace-cf49-482d-8533-fa7a948b44e3" resname="MAT·53 | Harnessed Snubhorn | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield.</source>
-        <target state="translated">每当佩挽短角龙对任一牌手造成战斗伤害时，将目标神器或结界牌从你的坟墓场移回战场。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，将目标神器或结界牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="2f76739e-03fb-401a-8444-ac7fd16f21ef" resname="MAT·54 | Metropolis Reformer | Card Name">
         <source>Metropolis Reformer</source>
@@ -644,7 +644,7 @@
       </trans-unit>
       <trans-unit id="2f76739e-03fb-401a-8444-ac7fd16f21ef" resname="MAT·54 | Metropolis Reformer | Card Text | Paragraph 3">
         <source>Whenever CARDNAME is dealt damage, you gain that much life.</source>
-        <target state="translated">每当都会变革使受到伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME受到伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="b259de7b-74d2-4ef4-94d3-4a0f14dbaa44" resname="MAT·55 | Spark Rupture | Card Name">
         <source>Spark Rupture</source>
@@ -652,7 +652,7 @@
       </trans-unit>
       <trans-unit id="b259de7b-74d2-4ef4-94d3-4a0f14dbaa44" resname="MAT·55 | Spark Rupture | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当火花破裂进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="b259de7b-74d2-4ef4-94d3-4a0f14dbaa44" resname="MAT·55 | Spark Rupture | Card Text | Paragraph 2">
         <source>Each planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.</source>
@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="75ab028c-a560-4f8a-a063-2682daca799c" resname="MAT·58 | Tolarian Contempt | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a rejection counter on each creature your opponents control.</source>
-        <target state="translated">当陶拉里亚式轻蔑进战场时，在每个由对手操控的生物上各放置一个拒斥指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在每个由对手操控的生物上各放置一个拒斥指示物。</target>
       </trans-unit>
       <trans-unit id="75ab028c-a560-4f8a-a063-2682daca799c" resname="MAT·58 | Tolarian Contempt | Card Text | Paragraph 2">
         <source>At the beginning of your end step, for each opponent, choose up to one target creature they control with a rejection counter on it. That creature's owner puts it on the top or bottom of their library.</source>
@@ -712,7 +712,7 @@
       </trans-unit>
       <trans-unit id="36fd77b6-59ed-431b-9ecf-d37e4f9c14ac" resname="MAT·60 | Vesuvan Drifter | Card Text | Paragraph 3">
         <source>At the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, CARDNAME becomes a copy of that card until end of turn, except it has flying.</source>
-        <target state="translated">在每次战斗开始时，你可以展示你的牌库顶牌。若你以此法展示出一张生物牌，则维苏瓦漂泊者成为该牌的复制品直到回合结束，但它具有飞行异能。</target>
+        <target state="translated">在每次战斗开始时，你可以展示你的牌库顶牌。若你以此法展示出一张生物牌，则CARDNAME成为该牌的复制品直到回合结束，但它具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="5c154811-2f4c-4f21-8ee1-f70557b8f423" resname="MAT·61 | Ayara's Oathsworn | Card Name">
         <source>Ayara's Oathsworn</source>
@@ -724,7 +724,7 @@
       </trans-unit>
       <trans-unit id="5c154811-2f4c-4f21-8ee1-f70557b8f423" resname="MAT·61 | Ayara's Oathsworn | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.</source>
-        <target state="translated">每当阿娅拉的守誓骑士对任一牌手造成战斗伤害时，若其上的+1/+1指示物数量少于四个，则在其上放置一个+1/+1指示物。然后如果其上正好有四个+1/+1指示物，则从你牌库中搜寻一张牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，若其上的+1/+1指示物数量少于四个，则在其上放置一个+1/+1指示物。然后如果其上正好有四个+1/+1指示物，则从你牌库中搜寻一张牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="8f4f2e7f-3ce9-475e-b854-1560d5a9a8e8" resname="MAT·62 | Blot Out | Card Name">
         <source>Blot Out</source>
@@ -748,7 +748,7 @@
       </trans-unit>
       <trans-unit id="791fe078-cc60-493b-9b61-37894e1eddd3" resname="MAT·63 | Death-Rattle Oni | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, destroy all other creatures that were dealt damage this turn.</source>
-        <target state="translated">当撼亡邪鬼进战场时，消灭所有本回合中受过伤害的其他生物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭所有本回合中受过伤害的其他生物。</target>
       </trans-unit>
       <trans-unit id="c79527ca-15f5-427a-9245-6b7f4230a8b7" resname="MAT·64 | Markov Baron | Card Name">
         <source>Markov Baron</source>
@@ -776,11 +776,11 @@
       </trans-unit>
       <trans-unit id="e88cc697-3b79-421b-9b7f-37f9aeccda36" resname="MAT·65 | Urborg Scavengers | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当乌尔博格拾荒灵进战场或攻击时，将目标牌从坟墓场放逐。在乌尔博格拾荒灵上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，将目标牌从坟墓场放逐。在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="e88cc697-3b79-421b-9b7f-37f9aeccda36" resname="MAT·65 | Urborg Scavengers | Card Text | Paragraph 2">
         <source>CARDNAME has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</source>
-        <target state="translated">只要以它放逐的某张牌具有飞行异能，乌尔博格拾荒灵便具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
+        <target state="translated">只要以它放逐的某张牌具有飞行异能，CARDNAME便具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
       </trans-unit>
       <trans-unit id="59cd3a3a-f9f8-4d83-951f-d187f2bab0a4" resname="MAT·66 | Arni Metalbrow | Card Name">
         <source>Arni Metalbrow</source>
@@ -800,7 +800,7 @@
       </trans-unit>
       <trans-unit id="8d58c593-327c-4798-8bb8-811c831efb49" resname="MAT·67 | Kolaghan Warmonger | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">每当寇安甘族好战者攻击时，检视你牌库顶的六张牌。你可以展示其中一张龙牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
+        <target state="translated">每当CARDNAME攻击时，检视你牌库顶的六张牌。你可以展示其中一张龙牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="bd4c2c09-1929-4850-b797-69b671916980" resname="MAT·68 | Plargg and Nassari | Card Name">
         <source>Plargg and Nassari</source>
@@ -816,7 +816,7 @@
       </trans-unit>
       <trans-unit id="428f43d7-8979-466a-be73-8e073b0afdd1" resname="MAT·69 | Reckless Handling | Card Text | Paragraph 1">
         <source>Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, CARDNAME deals 2 damage to each opponent.</source>
-        <target state="translated">从你的牌库中搜寻一张神器牌，展示该牌，将它置于你手上，洗牌，然后随机弃一张牌。如果以此法弃掉一张神器牌，则鲁莽处置向每位对手各造成2点伤害。</target>
+        <target state="translated">从你的牌库中搜寻一张神器牌，展示该牌，将它置于你手上，洗牌，然后随机弃一张牌。如果以此法弃掉一张神器牌，则CARDNAME向每位对手各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="a7267a33-c9b2-485d-afbc-a27e4792abf4" resname="MAT·70 | Animist's Might | Card Name">
         <source>Animist's Might</source>
@@ -868,7 +868,7 @@
       </trans-unit>
       <trans-unit id="7c3e0eb1-8b0c-4c6e-b394-6968d39fbd00" resname="MAT·74 | Tranquil Frillback | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many —</source>
-        <target state="translated">当安详鳍背龙进战场时，你可以支付至多三次{G}。当你支付一次或数次此费用时，选择至多等量的模式～</target>
+        <target state="translated">当CARDNAME进战场时，你可以支付至多三次{G}。当你支付一次或数次此费用时，选择至多等量的模式～</target>
       </trans-unit>
       <trans-unit id="7c3e0eb1-8b0c-4c6e-b394-6968d39fbd00" resname="MAT·74 | Tranquil Frillback | Card Text | Paragraph 2">
         <source>• Destroy target artifact or enchantment.</source>
@@ -896,7 +896,7 @@
       </trans-unit>
       <trans-unit id="6ceddfa5-3a89-4ac4-8fd1-0c9918ffedc8" resname="MAT·76 | Calix, Guided by Fate | Card Text | Paragraph 1">
         <source>Constellation — Whenever CARDNAME or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.</source>
-        <target state="translated">星彩～每当命缚丝引凯利斯或另一个结界在你的操控下进战场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">星彩～每当CARDNAME或另一个结界在你的操控下进战场时，在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="6ceddfa5-3a89-4ac4-8fd1-0c9918ffedc8" resname="MAT·76 | Calix, Guided by Fate | Card Text | Paragraph 2">
         <source>Whenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.</source>
@@ -960,7 +960,7 @@
       </trans-unit>
       <trans-unit id="373475d5-42a7-42ad-a235-685c3d160f60" resname="MAT·82 | Jirina, Dauntless General | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target player's graveyard.</source>
-        <target state="translated">当不屈将军杰琳娜进战场时，放逐目标牌手的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标牌手的坟墓场。</target>
       </trans-unit>
       <trans-unit id="373475d5-42a7-42ad-a235-685c3d160f60" resname="MAT·82 | Jirina, Dauntless General | Card Text | Paragraph 2">
         <source>Sacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.</source>
@@ -984,11 +984,11 @@
       </trans-unit>
       <trans-unit id="23dbb880-1cf8-41fa-84d8-41db8dde35f2" resname="MAT·84 | The Kenriths' Royal Funeral | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way.</source>
-        <target state="translated">当肯理斯皇室葬礼进战场时，将至多两张目标传奇生物牌从你的坟墓场放逐。你抓X张牌且失去X点生命，X为以此法放逐之牌中的最大法术力值。</target>
+        <target state="translated">当CARDNAME进战场时，将至多两张目标传奇生物牌从你的坟墓场放逐。你抓X张牌且失去X点生命，X为以此法放逐之牌中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="23dbb880-1cf8-41fa-84d8-41db8dde35f2" resname="MAT·84 | The Kenriths' Royal Funeral | Card Text | Paragraph 2">
         <source>Legendary spells you cast cost {1} less to cast for each card exiled with CARDNAME.</source>
-        <target state="translated">每有一张以肯理斯皇室葬礼放逐的牌，你施放的传奇咒语便减少{1}来施放。</target>
+        <target state="translated">每有一张以CARDNAME放逐的牌，你施放的传奇咒语便减少{1}来施放。</target>
       </trans-unit>
       <trans-unit id="de5b27a6-caf8-4489-b949-d4d69841b9ef" resname="MAT·85 | Kiora, Sovereign of the Deep | Card Name">
         <source>Kiora, Sovereign of the Deep</source>
@@ -1036,7 +1036,7 @@
       </trans-unit>
       <trans-unit id="93e244a5-85ae-413e-9c79-aa07103c7057" resname="MAT·88 | Narset, Enlightened Exile | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.</source>
-        <target state="translated">每当受启黜人娜尔施攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="ce21e701-bb96-4040-a7ea-a5e0c11eae9b" resname="MAT·89 | Nashi, Moon's Legacy | Card Name">
         <source>Nashi, Moon's Legacy</source>
@@ -1048,7 +1048,7 @@
       </trans-unit>
       <trans-unit id="ce21e701-bb96-4040-a7ea-a5e0c11eae9b" resname="MAT·89 | Nashi, Moon's Legacy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy.</source>
-        <target state="translated">每当月智传承哪失攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。</target>
+        <target state="translated">每当CARDNAME攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。</target>
       </trans-unit>
       <trans-unit id="f21d999f-ea24-40d8-86ef-180627196749" resname="MAT·90 | Niv-Mizzet, Supreme | Card Name">
         <source>Niv-Mizzet, Supreme</source>
@@ -1072,7 +1072,7 @@
       </trans-unit>
       <trans-unit id="840a442f-a220-408f-b670-0c73e2ffa704" resname="MAT·91 | Ob Nixilis, Captive Kingpin | Card Text | Paragraph 2">
         <source>Whenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on CARDNAME. Exile the top card of your library. Until your next end step, you may play that card.</source>
-        <target state="translated">每当一位或多位对手各失去正好1点生命时，在受困魔头欧尼希兹上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
+        <target state="translated">每当一位或多位对手各失去正好1点生命时，在CARDNAME上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
       </trans-unit>
       <trans-unit id="28216a47-709f-41fc-834c-7e4c99c806f7" resname="MAT·92 | Pia Nalaar, Consul of Revival | Card Name">
         <source>Pia Nalaar, Consul of Revival</source>
@@ -1128,7 +1128,7 @@
       </trans-unit>
       <trans-unit id="f2e688bd-7652-418f-84e6-18452295623a" resname="MAT·96 | Sarkhan, Soul Aflame | Card Text | Paragraph 2">
         <source>Whenever a Dragon enters the battlefield under your control, you may have CARDNAME become a copy of it until end of turn, except its name is CARDNAME and it's legendary in addition to its other types.</source>
-        <target state="translated">每当一个龙在你的操控下进战场时，你可以使昂焰灵魂萨坎成为前者的复制品直到回合结束，但它的名称是昂焰灵魂萨坎，且额外是传奇。</target>
+        <target state="translated">每当一个龙在你的操控下进战场时，你可以使CARDNAME成为前者的复制品直到回合结束，但它的名称是CARDNAME，且额外是传奇。</target>
       </trans-unit>
       <trans-unit id="27c857c0-1cb4-4032-a72f-cf8d84171c9d" resname="MAT·97 | Sigarda, Font of Blessings | Card Name">
         <source>Sigarda, Font of Blessings</source>
@@ -1168,7 +1168,7 @@
       </trans-unit>
       <trans-unit id="47b1d426-db36-4a6d-9eb7-d093e0c0ee6a" resname="MAT·99 | Karn, Legacy Reforged | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the greatest mana value among artifacts you control.</source>
-        <target state="translated">神兵重铸卡恩的力量和防御力各等同于由你操控之神器中的最大法术力值。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控之神器中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="47b1d426-db36-4a6d-9eb7-d093e0c0ee6a" resname="MAT·99 | Karn, Legacy Reforged | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, add {C} for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end.</source>
@@ -1200,7 +1200,7 @@
       </trans-unit>
       <trans-unit id="4c881938-da5d-4f2c-b62b-0cfbf29ae558" resname="MAT·102 | Deification | Card Text | Paragraphs">
         <source>As CARDNAME enters the battlefield, choose a planeswalker type.\nPlaneswalkers you control of the chosen type have hexproof.\nAs long as you control a creature, if damage dealt to a planeswalker you control of the chosen type would result in all loyalty counters on it being removed, instead all but one of those counters are removed.</source>
-        <target state="translated">于奉若神明进战场时，选择一种鹏洛客类别。\n\n由你操控的该类别鹏洛客具有辟邪异能。\n只要你操控生物，如果对任一由你操控的该类别鹏洛客造成之伤害将移去其上所有忠诚指示物，则改为留下一个此类指示物并将其余的移去。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种鹏洛客类别。\n\n由你操控的该类别鹏洛客具有辟邪异能。\n只要你操控生物，如果对任一由你操控的该类别鹏洛客造成之伤害将移去其上所有忠诚指示物，则改为留下一个此类指示物并将其余的移去。</target>
       </trans-unit>
       <trans-unit id="00d20243-0771-4dae-b225-4379de6be35a" resname="MAT·103 | Harnessed Snubhorn | Card Name">
         <source>Harnessed Snubhorn</source>
@@ -1212,7 +1212,7 @@
       </trans-unit>
       <trans-unit id="00d20243-0771-4dae-b225-4379de6be35a" resname="MAT·103 | Harnessed Snubhorn | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield.</source>
-        <target state="translated">每当佩挽短角龙对任一牌手造成战斗伤害时，将目标神器或结界牌从你的坟墓场移回战场。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，将目标神器或结界牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="041111e8-3b0e-4337-a7d6-20cc455ea173" resname="MAT·104 | Metropolis Reformer | Card Name">
         <source>Metropolis Reformer</source>
@@ -1228,7 +1228,7 @@
       </trans-unit>
       <trans-unit id="041111e8-3b0e-4337-a7d6-20cc455ea173" resname="MAT·104 | Metropolis Reformer | Card Text | Paragraph 3">
         <source>Whenever CARDNAME is dealt damage, you gain that much life.</source>
-        <target state="translated">每当都会变革使受到伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME受到伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="c214f916-2ec0-495c-82d5-438e321bf8e6" resname="MAT·105 | Spark Rupture | Card Name">
         <source>Spark Rupture</source>
@@ -1236,7 +1236,7 @@
       </trans-unit>
       <trans-unit id="c214f916-2ec0-495c-82d5-438e321bf8e6" resname="MAT·105 | Spark Rupture | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当火花破裂进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="c214f916-2ec0-495c-82d5-438e321bf8e6" resname="MAT·105 | Spark Rupture | Card Text | Paragraph 2">
         <source>Each planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.</source>
@@ -1268,7 +1268,7 @@
       </trans-unit>
       <trans-unit id="63ef89a1-b6fd-48db-bcb5-faac2fe9fe28" resname="MAT·108 | Tolarian Contempt | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a rejection counter on each creature your opponents control.</source>
-        <target state="translated">当陶拉里亚式轻蔑进战场时，在每个由对手操控的生物上各放置一个拒斥指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在每个由对手操控的生物上各放置一个拒斥指示物。</target>
       </trans-unit>
       <trans-unit id="63ef89a1-b6fd-48db-bcb5-faac2fe9fe28" resname="MAT·108 | Tolarian Contempt | Card Text | Paragraph 2">
         <source>At the beginning of your end step, for each opponent, choose up to one target creature they control with a rejection counter on it. That creature's owner puts it on the top or bottom of their library.</source>
@@ -1296,7 +1296,7 @@
       </trans-unit>
       <trans-unit id="e4ec9b42-ab99-4c93-a52f-ccbe258b8954" resname="MAT·110 | Vesuvan Drifter | Card Text | Paragraph 3">
         <source>At the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, CARDNAME becomes a copy of that card until end of turn, except it has flying.</source>
-        <target state="translated">在每次战斗开始时，你可以展示你的牌库顶牌。若你以此法展示出一张生物牌，则维苏瓦漂泊者成为该牌的复制品直到回合结束，但它具有飞行异能。</target>
+        <target state="translated">在每次战斗开始时，你可以展示你的牌库顶牌。若你以此法展示出一张生物牌，则CARDNAME成为该牌的复制品直到回合结束，但它具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="0133c618-faab-4b40-8da0-fc91edf49785" resname="MAT·111 | Ayara's Oathsworn | Card Name">
         <source>Ayara's Oathsworn</source>
@@ -1308,7 +1308,7 @@
       </trans-unit>
       <trans-unit id="0133c618-faab-4b40-8da0-fc91edf49785" resname="MAT·111 | Ayara's Oathsworn | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.</source>
-        <target state="translated">每当阿娅拉的守誓骑士对任一牌手造成战斗伤害时，若其上的+1/+1指示物数量少于四个，则在其上放置一个+1/+1指示物。然后如果其上正好有四个+1/+1指示物，则从你牌库中搜寻一张牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，若其上的+1/+1指示物数量少于四个，则在其上放置一个+1/+1指示物。然后如果其上正好有四个+1/+1指示物，则从你牌库中搜寻一张牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="1d18cfb3-5498-4d31-8276-8d7ec893d98f" resname="MAT·112 | Blot Out | Card Name">
         <source>Blot Out</source>
@@ -1332,7 +1332,7 @@
       </trans-unit>
       <trans-unit id="6c781217-a678-4059-89ff-b5ec494dd367" resname="MAT·113 | Death-Rattle Oni | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, destroy all other creatures that were dealt damage this turn.</source>
-        <target state="translated">当撼亡邪鬼进战场时，消灭所有本回合中受过伤害的其他生物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭所有本回合中受过伤害的其他生物。</target>
       </trans-unit>
       <trans-unit id="ae882b47-e51f-42bc-89ef-2772de097b88" resname="MAT·114 | Markov Baron | Card Name">
         <source>Markov Baron</source>
@@ -1360,11 +1360,11 @@
       </trans-unit>
       <trans-unit id="d3cb68f5-1e44-4d91-9ec0-d6d0559ee4a8" resname="MAT·115 | Urborg Scavengers | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当乌尔博格拾荒灵进战场或攻击时，将目标牌从坟墓场放逐。在乌尔博格拾荒灵上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，将目标牌从坟墓场放逐。在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="d3cb68f5-1e44-4d91-9ec0-d6d0559ee4a8" resname="MAT·115 | Urborg Scavengers | Card Text | Paragraph 2">
         <source>CARDNAME has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</source>
-        <target state="translated">只要以它放逐的某张牌具有飞行异能，乌尔博格拾荒灵便具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
+        <target state="translated">只要以它放逐的某张牌具有飞行异能，CARDNAME便具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
       </trans-unit>
       <trans-unit id="c32bf755-6b7a-4324-b219-ba953354933b" resname="MAT·116 | Arni Metalbrow | Card Name">
         <source>Arni Metalbrow</source>
@@ -1384,7 +1384,7 @@
       </trans-unit>
       <trans-unit id="8c9798fd-149b-4840-a1b1-b7c596940739" resname="MAT·117 | Kolaghan Warmonger | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">每当寇安甘族好战者攻击时，检视你牌库顶的六张牌。你可以展示其中一张龙牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
+        <target state="translated">每当CARDNAME攻击时，检视你牌库顶的六张牌。你可以展示其中一张龙牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="ee11cfe8-4f20-468c-80ca-6af23b23184d" resname="MAT·118 | Plargg and Nassari | Card Name">
         <source>Plargg and Nassari</source>
@@ -1400,7 +1400,7 @@
       </trans-unit>
       <trans-unit id="72c41c82-937e-483a-97bf-58a14401bf11" resname="MAT·119 | Reckless Handling | Card Text | Paragraph 1">
         <source>Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, CARDNAME deals 2 damage to each opponent.</source>
-        <target state="translated">从你的牌库中搜寻一张神器牌，展示该牌，将它置于你手上，洗牌，然后随机弃一张牌。如果以此法弃掉一张神器牌，则鲁莽处置向每位对手各造成2点伤害。</target>
+        <target state="translated">从你的牌库中搜寻一张神器牌，展示该牌，将它置于你手上，洗牌，然后随机弃一张牌。如果以此法弃掉一张神器牌，则CARDNAME向每位对手各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="29a82d30-b3ca-4bea-b055-00eee555567d" resname="MAT·120 | Animist's Might | Card Name">
         <source>Animist's Might</source>
@@ -1452,7 +1452,7 @@
       </trans-unit>
       <trans-unit id="8664feec-ea45-4a94-b6b1-98dd2663a268" resname="MAT·124 | Tranquil Frillback | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many —</source>
-        <target state="translated">当安详鳍背龙进战场时，你可以支付至多三次{G}。当你支付一次或数次此费用时，选择至多等量的模式～</target>
+        <target state="translated">当CARDNAME进战场时，你可以支付至多三次{G}。当你支付一次或数次此费用时，选择至多等量的模式～</target>
       </trans-unit>
       <trans-unit id="8664feec-ea45-4a94-b6b1-98dd2663a268" resname="MAT·124 | Tranquil Frillback | Card Text | Paragraph 2">
         <source>• Destroy target artifact or enchantment.</source>
@@ -1480,7 +1480,7 @@
       </trans-unit>
       <trans-unit id="fe9d717f-242f-4e70-9f6d-8885eac13cf4" resname="MAT·126 | Calix, Guided by Fate | Card Text | Paragraph 1">
         <source>Constellation — Whenever CARDNAME or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.</source>
-        <target state="translated">星彩～每当命缚丝引凯利斯或另一个结界在你的操控下进战场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">星彩～每当CARDNAME或另一个结界在你的操控下进战场时，在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="fe9d717f-242f-4e70-9f6d-8885eac13cf4" resname="MAT·126 | Calix, Guided by Fate | Card Text | Paragraph 2">
         <source>Whenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.</source>
@@ -1544,7 +1544,7 @@
       </trans-unit>
       <trans-unit id="ef36c1e9-ef1c-457f-8e02-3d773f4a1e45" resname="MAT·132 | Jirina, Dauntless General | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target player's graveyard.</source>
-        <target state="translated">当不屈将军杰琳娜进战场时，放逐目标牌手的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标牌手的坟墓场。</target>
       </trans-unit>
       <trans-unit id="ef36c1e9-ef1c-457f-8e02-3d773f4a1e45" resname="MAT·132 | Jirina, Dauntless General | Card Text | Paragraph 2">
         <source>Sacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.</source>
@@ -1568,11 +1568,11 @@
       </trans-unit>
       <trans-unit id="763a3015-9b22-4d81-a8c9-08046d1e5aef" resname="MAT·134 | The Kenriths' Royal Funeral | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way.</source>
-        <target state="translated">当肯理斯皇室葬礼进战场时，将至多两张目标传奇生物牌从你的坟墓场放逐。你抓X张牌且失去X点生命，X为以此法放逐之牌中的最大法术力值。</target>
+        <target state="translated">当CARDNAME进战场时，将至多两张目标传奇生物牌从你的坟墓场放逐。你抓X张牌且失去X点生命，X为以此法放逐之牌中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="763a3015-9b22-4d81-a8c9-08046d1e5aef" resname="MAT·134 | The Kenriths' Royal Funeral | Card Text | Paragraph 2">
         <source>Legendary spells you cast cost {1} less to cast for each card exiled with CARDNAME.</source>
-        <target state="translated">每有一张以肯理斯皇室葬礼放逐的牌，你施放的传奇咒语便减少{1}来施放。</target>
+        <target state="translated">每有一张以CARDNAME放逐的牌，你施放的传奇咒语便减少{1}来施放。</target>
       </trans-unit>
       <trans-unit id="87993488-e31d-4456-bf87-c5a0a81e5560" resname="MAT·135 | Kiora, Sovereign of the Deep | Card Name">
         <source>Kiora, Sovereign of the Deep</source>
@@ -1620,7 +1620,7 @@
       </trans-unit>
       <trans-unit id="f311fc01-9b47-42b3-874b-2cb65a9e412c" resname="MAT·138 | Narset, Enlightened Exile | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.</source>
-        <target state="translated">每当受启黜人娜尔施攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="16d56cd5-f038-4653-987e-d1a5485ac86e" resname="MAT·139 | Nashi, Moon's Legacy | Card Name">
         <source>Nashi, Moon's Legacy</source>
@@ -1632,7 +1632,7 @@
       </trans-unit>
       <trans-unit id="16d56cd5-f038-4653-987e-d1a5485ac86e" resname="MAT·139 | Nashi, Moon's Legacy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy.</source>
-        <target state="translated">每当月智传承哪失攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。</target>
+        <target state="translated">每当CARDNAME攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。</target>
       </trans-unit>
       <trans-unit id="07f469c3-d50c-4066-8f46-75ce3c3f1616" resname="MAT·140 | Niv-Mizzet, Supreme | Card Name">
         <source>Niv-Mizzet, Supreme</source>
@@ -1656,7 +1656,7 @@
       </trans-unit>
       <trans-unit id="82c9077d-fdbf-4087-85a5-1d59c2ba7678" resname="MAT·141 | Ob Nixilis, Captive Kingpin | Card Text | Paragraph 2">
         <source>Whenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on CARDNAME. Exile the top card of your library. Until your next end step, you may play that card.</source>
-        <target state="translated">每当一位或多位对手各失去正好1点生命时，在受困魔头欧尼希兹上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
+        <target state="translated">每当一位或多位对手各失去正好1点生命时，在CARDNAME上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
       </trans-unit>
       <trans-unit id="7aafbdf8-b1cd-4dbb-863c-0d44494eec2b" resname="MAT·142 | Pia Nalaar, Consul of Revival | Card Name">
         <source>Pia Nalaar, Consul of Revival</source>
@@ -1712,7 +1712,7 @@
       </trans-unit>
       <trans-unit id="4a21f8cf-5a0c-4a33-a2ed-b89b57bb4000" resname="MAT·146 | Sarkhan, Soul Aflame | Card Text | Paragraph 2">
         <source>Whenever a Dragon enters the battlefield under your control, you may have CARDNAME become a copy of it until end of turn, except its name is CARDNAME and it's legendary in addition to its other types.</source>
-        <target state="translated">每当一个龙在你的操控下进战场时，你可以使昂焰灵魂萨坎成为前者的复制品直到回合结束，但它的名称是昂焰灵魂萨坎，且额外是传奇。</target>
+        <target state="translated">每当一个龙在你的操控下进战场时，你可以使CARDNAME成为前者的复制品直到回合结束，但它的名称是CARDNAME，且额外是传奇。</target>
       </trans-unit>
       <trans-unit id="24d3d06c-8bbd-49e5-94ff-f0a9830d063e" resname="MAT·147 | Sigarda, Font of Blessings | Card Name">
         <source>Sigarda, Font of Blessings</source>
@@ -1752,7 +1752,7 @@
       </trans-unit>
       <trans-unit id="f3dc3541-c398-4d43-b1c4-4d1e1e3e1ebf" resname="MAT·149 | Karn, Legacy Reforged | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the greatest mana value among artifacts you control.</source>
-        <target state="translated">神兵重铸卡恩的力量和防御力各等同于由你操控之神器中的最大法术力值。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控之神器中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="f3dc3541-c398-4d43-b1c4-4d1e1e3e1ebf" resname="MAT·149 | Karn, Legacy Reforged | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, add {C} for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end.</source>
@@ -1776,7 +1776,7 @@
       </trans-unit>
       <trans-unit id="03ce1436-913c-453a-8c05-4ec5bcaac4b5" resname="MAT·151 | Deification | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a planeswalker type.</source>
-        <target state="translated">于奉若神明进战场时，选择一种鹏洛客类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种鹏洛客类别。</target>
       </trans-unit>
       <trans-unit id="03ce1436-913c-453a-8c05-4ec5bcaac4b5" resname="MAT·151 | Deification | Card Text | Paragraph 2">
         <source>Planeswalkers you control of the chosen type have hexproof.</source>
@@ -1800,7 +1800,7 @@
       </trans-unit>
       <trans-unit id="5254b512-5ca5-4ce9-ad1d-8f90ab24f6c3" resname="MAT·152 | Metropolis Reformer | Card Text | Paragraph 3">
         <source>Whenever CARDNAME is dealt damage, you gain that much life.</source>
-        <target state="translated">每当都会变革使受到伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME受到伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="d62243fa-32ce-4015-8e8c-ec898d1ca1e1" resname="MAT·153 | Spark Rupture | Card Name">
         <source>Spark Rupture</source>
@@ -1808,7 +1808,7 @@
       </trans-unit>
       <trans-unit id="d62243fa-32ce-4015-8e8c-ec898d1ca1e1" resname="MAT·153 | Spark Rupture | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当火花破裂进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="d62243fa-32ce-4015-8e8c-ec898d1ca1e1" resname="MAT·153 | Spark Rupture | Card Text | Paragraph 2">
         <source>Each planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.</source>
@@ -1848,7 +1848,7 @@
       </trans-unit>
       <trans-unit id="352d71a7-2967-4006-9fe4-864868bcc642" resname="MAT·156 | Vesuvan Drifter | Card Text | Paragraph 3">
         <source>At the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, CARDNAME becomes a copy of that card until end of turn, except it has flying.</source>
-        <target state="translated">在每次战斗开始时，你可以展示你的牌库顶牌。若你以此法展示出一张生物牌，则维苏瓦漂泊者成为该牌的复制品直到回合结束，但它具有飞行异能。</target>
+        <target state="translated">在每次战斗开始时，你可以展示你的牌库顶牌。若你以此法展示出一张生物牌，则CARDNAME成为该牌的复制品直到回合结束，但它具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="f0250da3-908c-4ec6-94a5-3dd16c6b1985" resname="MAT·157 | Ayara's Oathsworn | Card Name">
         <source>Ayara's Oathsworn</source>
@@ -1860,7 +1860,7 @@
       </trans-unit>
       <trans-unit id="f0250da3-908c-4ec6-94a5-3dd16c6b1985" resname="MAT·157 | Ayara's Oathsworn | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.</source>
-        <target state="translated">每当阿娅拉的守誓骑士对任一牌手造成战斗伤害时，若其上的+1/+1指示物数量少于四个，则在其上放置一个+1/+1指示物。然后如果其上正好有四个+1/+1指示物，则从你牌库中搜寻一张牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，若其上的+1/+1指示物数量少于四个，则在其上放置一个+1/+1指示物。然后如果其上正好有四个+1/+1指示物，则从你牌库中搜寻一张牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="795222e3-1352-4adb-8a42-dde43d08e413" resname="MAT·158 | Urborg Scavengers | Card Name">
         <source>Urborg Scavengers</source>
@@ -1868,11 +1868,11 @@
       </trans-unit>
       <trans-unit id="795222e3-1352-4adb-8a42-dde43d08e413" resname="MAT·158 | Urborg Scavengers | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当乌尔博格拾荒灵进战场或攻击时，将目标牌从坟墓场放逐。在乌尔博格拾荒灵上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，将目标牌从坟墓场放逐。在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="795222e3-1352-4adb-8a42-dde43d08e413" resname="MAT·158 | Urborg Scavengers | Card Text | Paragraph 2">
         <source>CARDNAME has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</source>
-        <target state="translated">只要以它放逐的某张牌具有飞行异能，乌尔博格拾荒灵便具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
+        <target state="translated">只要以它放逐的某张牌具有飞行异能，CARDNAME便具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
       </trans-unit>
       <trans-unit id="6ea9f761-a113-40bb-9346-fa13075e1b9d" resname="MAT·159 | Arni Metalbrow | Card Name">
         <source>Arni Metalbrow</source>
@@ -1928,7 +1928,7 @@
       </trans-unit>
       <trans-unit id="38c3a774-986d-4702-81c3-915138d3d718" resname="MAT·164 | Tranquil Frillback | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many —</source>
-        <target state="translated">当安详鳍背龙进战场时，你可以支付至多三次{G}。当你支付一次或数次此费用时，选择至多等量的模式～</target>
+        <target state="translated">当CARDNAME进战场时，你可以支付至多三次{G}。当你支付一次或数次此费用时，选择至多等量的模式～</target>
       </trans-unit>
       <trans-unit id="38c3a774-986d-4702-81c3-915138d3d718" resname="MAT·164 | Tranquil Frillback | Card Text | Paragraph 2">
         <source>• Destroy target artifact or enchantment.</source>
@@ -1948,7 +1948,7 @@
       </trans-unit>
       <trans-unit id="581e61d0-95b2-433b-b835-86f00bfb840b" resname="MAT·165 | Calix, Guided by Fate | Card Text | Paragraph 1">
         <source>Constellation — Whenever CARDNAME or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.</source>
-        <target state="translated">星彩～每当命缚丝引凯利斯或另一个结界在你的操控下进战场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">星彩～每当CARDNAME或另一个结界在你的操控下进战场时，在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="581e61d0-95b2-433b-b835-86f00bfb840b" resname="MAT·165 | Calix, Guided by Fate | Card Text | Paragraph 2">
         <source>Whenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.</source>
@@ -1972,7 +1972,7 @@
       </trans-unit>
       <trans-unit id="42ee4e0e-1139-42c1-b014-242c306321e7" resname="MAT·167 | Jirina, Dauntless General | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target player's graveyard.</source>
-        <target state="translated">当不屈将军杰琳娜进战场时，放逐目标牌手的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标牌手的坟墓场。</target>
       </trans-unit>
       <trans-unit id="42ee4e0e-1139-42c1-b014-242c306321e7" resname="MAT·167 | Jirina, Dauntless General | Card Text | Paragraph 2">
         <source>Sacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.</source>
@@ -1996,11 +1996,11 @@
       </trans-unit>
       <trans-unit id="b1536bef-bc0c-437b-bb4a-335c4ec9fbf3" resname="MAT·169 | The Kenriths' Royal Funeral | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way.</source>
-        <target state="translated">当肯理斯皇室葬礼进战场时，将至多两张目标传奇生物牌从你的坟墓场放逐。你抓X张牌且失去X点生命，X为以此法放逐之牌中的最大法术力值。</target>
+        <target state="translated">当CARDNAME进战场时，将至多两张目标传奇生物牌从你的坟墓场放逐。你抓X张牌且失去X点生命，X为以此法放逐之牌中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="b1536bef-bc0c-437b-bb4a-335c4ec9fbf3" resname="MAT·169 | The Kenriths' Royal Funeral | Card Text | Paragraph 2">
         <source>Legendary spells you cast cost {1} less to cast for each card exiled with CARDNAME.</source>
-        <target state="translated">每有一张以肯理斯皇室葬礼放逐的牌，你施放的传奇咒语便减少{1}来施放。</target>
+        <target state="translated">每有一张以CARDNAME放逐的牌，你施放的传奇咒语便减少{1}来施放。</target>
       </trans-unit>
       <trans-unit id="56444b2d-a842-4e2c-b29b-7e578a49b3e0" resname="MAT·170 | Kiora, Sovereign of the Deep | Card Name">
         <source>Kiora, Sovereign of the Deep</source>
@@ -2048,7 +2048,7 @@
       </trans-unit>
       <trans-unit id="8487e81a-bb02-4d5c-86bb-fe626fa91c27" resname="MAT·173 | Narset, Enlightened Exile | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.</source>
-        <target state="translated">每当受启黜人娜尔施攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="7275cea3-01ba-41ea-9665-a07a57ecfe50" resname="MAT·174 | Nashi, Moon's Legacy | Card Name">
         <source>Nashi, Moon's Legacy</source>
@@ -2060,7 +2060,7 @@
       </trans-unit>
       <trans-unit id="7275cea3-01ba-41ea-9665-a07a57ecfe50" resname="MAT·174 | Nashi, Moon's Legacy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy.</source>
-        <target state="translated">每当月智传承哪失攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。</target>
+        <target state="translated">每当CARDNAME攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。</target>
       </trans-unit>
       <trans-unit id="c167658d-1ad0-4e78-ac99-dd2ad5265311" resname="MAT·175 | Niv-Mizzet, Supreme | Card Name">
         <source>Niv-Mizzet, Supreme</source>
@@ -2084,7 +2084,7 @@
       </trans-unit>
       <trans-unit id="7f613db0-3303-4d54-a060-1bd8b37a208f" resname="MAT·176 | Ob Nixilis, Captive Kingpin | Card Text | Paragraph 2">
         <source>Whenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on CARDNAME. Exile the top card of your library. Until your next end step, you may play that card.</source>
-        <target state="translated">每当一位或多位对手各失去正好1点生命时，在受困魔头欧尼希兹上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
+        <target state="translated">每当一位或多位对手各失去正好1点生命时，在CARDNAME上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
       </trans-unit>
       <trans-unit id="413eedd5-ea42-4b6f-9282-3040e517d936" resname="MAT·177 | Pia Nalaar, Consul of Revival | Card Name">
         <source>Pia Nalaar, Consul of Revival</source>
@@ -2140,7 +2140,7 @@
       </trans-unit>
       <trans-unit id="18484227-b96a-40fb-9788-656d00705d80" resname="MAT·181 | Sarkhan, Soul Aflame | Card Text | Paragraph 2">
         <source>Whenever a Dragon enters the battlefield under your control, you may have CARDNAME become a copy of it until end of turn, except its name is CARDNAME and it's legendary in addition to its other types.</source>
-        <target state="translated">每当一个龙在你的操控下进战场时，你可以使昂焰灵魂萨坎成为前者的复制品直到回合结束，但它的名称是昂焰灵魂萨坎，且额外是传奇。</target>
+        <target state="translated">每当一个龙在你的操控下进战场时，你可以使CARDNAME成为前者的复制品直到回合结束，但它的名称是CARDNAME，且额外是传奇。</target>
       </trans-unit>
       <trans-unit id="5d9fcc42-1146-49c8-93c8-3a15063488c7" resname="MAT·182 | Sigarda, Font of Blessings | Card Name">
         <source>Sigarda, Font of Blessings</source>
@@ -2180,7 +2180,7 @@
       </trans-unit>
       <trans-unit id="b04e6527-06f8-4783-93fc-8738673116c1" resname="MAT·184 | Karn, Legacy Reforged | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the greatest mana value among artifacts you control.</source>
-        <target state="translated">神兵重铸卡恩的力量和防御力各等同于由你操控之神器中的最大法术力值。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控之神器中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="b04e6527-06f8-4783-93fc-8738673116c1" resname="MAT·184 | Karn, Legacy Reforged | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, add {C} for each artifact you control. This mana can't be spent to cast nonartifact spells. Until end of turn, you don't lose this mana as steps and phases end.</source>
@@ -2212,7 +2212,7 @@
       </trans-unit>
       <trans-unit id="bf4acba2-3aef-47bb-9bec-06408c3d1783" resname="MAT·187 | Deification | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a planeswalker type.</source>
-        <target state="translated">于奉若神明进战场时，选择一种鹏洛客类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种鹏洛客类别。</target>
       </trans-unit>
       <trans-unit id="bf4acba2-3aef-47bb-9bec-06408c3d1783" resname="MAT·187 | Deification | Card Text | Paragraph 2">
         <source>Planeswalkers you control of the chosen type have hexproof.</source>
@@ -2232,7 +2232,7 @@
       </trans-unit>
       <trans-unit id="9d81d771-67ab-4e05-97ca-e2deee1f2dce" resname="MAT·188 | Harnessed Snubhorn | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield.</source>
-        <target state="translated">每当佩挽短角龙对任一牌手造成战斗伤害时，将目标神器或结界牌从你的坟墓场移回战场。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，将目标神器或结界牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="09c43285-a8f7-4fcc-be8c-115c04d3f657" resname="MAT·189 | Metropolis Reformer | Card Name">
         <source>Metropolis Reformer</source>
@@ -2248,7 +2248,7 @@
       </trans-unit>
       <trans-unit id="09c43285-a8f7-4fcc-be8c-115c04d3f657" resname="MAT·189 | Metropolis Reformer | Card Text | Paragraph 3">
         <source>Whenever CARDNAME is dealt damage, you gain that much life.</source>
-        <target state="translated">每当都会变革使受到伤害时，你获得等量的生命。</target>
+        <target state="translated">每当CARDNAME受到伤害时，你获得等量的生命。</target>
       </trans-unit>
       <trans-unit id="a3e907fe-3c02-4e23-b19f-a478a54f3397" resname="MAT·190 | Tazri, Stalwart Survivor | Card Name">
         <source>Tazri, Stalwart Survivor</source>
@@ -2276,7 +2276,7 @@
       </trans-unit>
       <trans-unit id="153dfc34-767e-4df2-a1dc-4361e94d65ed" resname="MAT·192 | Tolarian Contempt | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a rejection counter on each creature your opponents control.</source>
-        <target state="translated">当陶拉里亚式轻蔑进战场时，在每个由对手操控的生物上各放置一个拒斥指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在每个由对手操控的生物上各放置一个拒斥指示物。</target>
       </trans-unit>
       <trans-unit id="153dfc34-767e-4df2-a1dc-4361e94d65ed" resname="MAT·192 | Tolarian Contempt | Card Text | Paragraph 2">
         <source>At the beginning of your end step, for each opponent, choose up to one target creature they control with a rejection counter on it. That creature's owner puts it on the top or bottom of their library.</source>
@@ -2304,7 +2304,7 @@
       </trans-unit>
       <trans-unit id="09b6a634-0a9c-4e96-84cc-16a6c70b669d" resname="MAT·194 | Vesuvan Drifter | Card Text | Paragraph 3">
         <source>At the beginning of each combat, you may reveal the top card of your library. If you reveal a creature card this way, CARDNAME becomes a copy of that card until end of turn, except it has flying.</source>
-        <target state="translated">在每次战斗开始时，你可以展示你的牌库顶牌。若你以此法展示出一张生物牌，则维苏瓦漂泊者成为该牌的复制品直到回合结束，但它具有飞行异能。</target>
+        <target state="translated">在每次战斗开始时，你可以展示你的牌库顶牌。若你以此法展示出一张生物牌，则CARDNAME成为该牌的复制品直到回合结束，但它具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="53aa3acf-aed9-4503-8b10-29661da4e307" resname="MAT·195 | Ayara's Oathsworn | Card Name">
         <source>Ayara's Oathsworn</source>
@@ -2316,7 +2316,7 @@
       </trans-unit>
       <trans-unit id="53aa3acf-aed9-4503-8b10-29661da4e307" resname="MAT·195 | Ayara's Oathsworn | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, if it has fewer than four +1/+1 counters on it, put a +1/+1 counter on it. Then if it has exactly four +1/+1 counters on it, search your library for a card, put it into your hand, then shuffle.</source>
-        <target state="translated">每当阿娅拉的守誓骑士对任一牌手造成战斗伤害时，若其上的+1/+1指示物数量少于四个，则在其上放置一个+1/+1指示物。然后如果其上正好有四个+1/+1指示物，则从你牌库中搜寻一张牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，若其上的+1/+1指示物数量少于四个，则在其上放置一个+1/+1指示物。然后如果其上正好有四个+1/+1指示物，则从你牌库中搜寻一张牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="7aaefcbb-98d4-40b8-b51c-2d26f6945b6f" resname="MAT·196 | Blot Out | Card Name">
         <source>Blot Out</source>
@@ -2340,7 +2340,7 @@
       </trans-unit>
       <trans-unit id="f4f66c02-29dc-4798-8d88-76681215fb78" resname="MAT·197 | Death-Rattle Oni | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, destroy all other creatures that were dealt damage this turn.</source>
-        <target state="translated">当撼亡邪鬼进战场时，消灭所有本回合中受过伤害的其他生物。</target>
+        <target state="translated">当CARDNAME进战场时，消灭所有本回合中受过伤害的其他生物。</target>
       </trans-unit>
       <trans-unit id="69b11a6b-239b-4a2c-84d5-4e44a5366184" resname="MAT·198 | Markov Baron | Card Name">
         <source>Markov Baron</source>
@@ -2368,11 +2368,11 @@
       </trans-unit>
       <trans-unit id="d4453891-a94e-4057-87a3-168e9ef6d6d2" resname="MAT·199 | Urborg Scavengers | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, exile target card from a graveyard. Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当乌尔博格拾荒灵进战场或攻击时，将目标牌从坟墓场放逐。在乌尔博格拾荒灵上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，将目标牌从坟墓场放逐。在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="d4453891-a94e-4057-87a3-168e9ef6d6d2" resname="MAT·199 | Urborg Scavengers | Card Text | Paragraph 2">
         <source>CARDNAME has flying as long as a card exiled with it has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.</source>
-        <target state="translated">只要以它放逐的某张牌具有飞行异能，乌尔博格拾荒灵便具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
+        <target state="translated">只要以它放逐的某张牌具有飞行异能，CARDNAME便具有飞行异能。且先攻、连击、死触、敏捷、辟邪、不灭、系命、威慑、延势、践踏与警戒异能亦比照办理。</target>
       </trans-unit>
       <trans-unit id="a7d352a7-4575-4f92-9ded-53a23afbca5a" resname="MAT·200 | Arni Metalbrow | Card Name">
         <source>Arni Metalbrow</source>
@@ -2392,7 +2392,7 @@
       </trans-unit>
       <trans-unit id="40366946-d9e7-4770-bca2-f6d1dcb73ff5" resname="MAT·201 | Kolaghan Warmonger | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">每当寇安甘族好战者攻击时，检视你牌库顶的六张牌。你可以展示其中一张龙牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
+        <target state="translated">每当CARDNAME攻击时，检视你牌库顶的六张牌。你可以展示其中一张龙牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="485f7a00-18a3-4831-b005-e31b5bfb2922" resname="MAT·202 | Plargg and Nassari | Card Name">
         <source>Plargg and Nassari</source>
@@ -2408,7 +2408,7 @@
       </trans-unit>
       <trans-unit id="677b021e-207c-42f8-9d53-1f58fe7fcd6d" resname="MAT·203 | Reckless Handling | Card Text | Paragraph 1">
         <source>Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, CARDNAME deals 2 damage to each opponent.</source>
-        <target state="translated">从你的牌库中搜寻一张神器牌，展示该牌，将它置于你手上，洗牌，然后随机弃一张牌。如果以此法弃掉一张神器牌，则鲁莽处置向每位对手各造成2点伤害。</target>
+        <target state="translated">从你的牌库中搜寻一张神器牌，展示该牌，将它置于你手上，洗牌，然后随机弃一张牌。如果以此法弃掉一张神器牌，则CARDNAME向每位对手各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="cd065a13-00af-4a90-9cd2-304f3d12dd4b" resname="MAT·204 | Tranquil Frillback | Card Name">
         <source>Tranquil Frillback</source>
@@ -2416,7 +2416,7 @@
       </trans-unit>
       <trans-unit id="cd065a13-00af-4a90-9cd2-304f3d12dd4b" resname="MAT·204 | Tranquil Frillback | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may pay {G} up to three times. When you pay this cost one or more times, choose up to that many —</source>
-        <target state="translated">当安详鳍背龙进战场时，你可以支付至多三次{G}。当你支付一次或数次此费用时，选择至多等量的模式～</target>
+        <target state="translated">当CARDNAME进战场时，你可以支付至多三次{G}。当你支付一次或数次此费用时，选择至多等量的模式～</target>
       </trans-unit>
       <trans-unit id="cd065a13-00af-4a90-9cd2-304f3d12dd4b" resname="MAT·204 | Tranquil Frillback | Card Text | Paragraph 2">
         <source>• Destroy target artifact or enchantment.</source>
@@ -2444,7 +2444,7 @@
       </trans-unit>
       <trans-unit id="a4699973-2910-46fb-97e2-07f7ef1b27ea" resname="MAT·206 | Calix, Guided by Fate | Card Text | Paragraph 1">
         <source>Constellation — Whenever CARDNAME or another enchantment enters the battlefield under your control, put a +1/+1 counter on target creature.</source>
-        <target state="translated">星彩～每当命缚丝引凯利斯或另一个结界在你的操控下进战场时，在目标生物上放置一个+1/+1指示物。</target>
+        <target state="translated">星彩～每当CARDNAME或另一个结界在你的操控下进战场时，在目标生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="a4699973-2910-46fb-97e2-07f7ef1b27ea" resname="MAT·206 | Calix, Guided by Fate | Card Text | Paragraph 2">
         <source>Whenever Calix or an enchanted creature you control deals combat damage to a player, you may create a token that's a copy of a nonlegendary enchantment you control. Do this only once each turn.</source>
@@ -2508,7 +2508,7 @@
       </trans-unit>
       <trans-unit id="b3d423ca-ccd5-4bf1-9d81-4b6d4ca025ac" resname="MAT·212 | Jirina, Dauntless General | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target player's graveyard.</source>
-        <target state="translated">当不屈将军杰琳娜进战场时，放逐目标牌手的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标牌手的坟墓场。</target>
       </trans-unit>
       <trans-unit id="b3d423ca-ccd5-4bf1-9d81-4b6d4ca025ac" resname="MAT·212 | Jirina, Dauntless General | Card Text | Paragraph 2">
         <source>Sacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.</source>
@@ -2520,11 +2520,11 @@
       </trans-unit>
       <trans-unit id="c01a0413-1cf6-4936-bec5-b1f5174b099f" resname="MAT·213 | The Kenriths' Royal Funeral | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile up to two target legendary creature cards from your graveyard. You draw X cards and you lose X life, where X is the greatest mana value among cards exiled this way.</source>
-        <target state="translated">当肯理斯皇室葬礼进战场时，将至多两张目标传奇生物牌从你的坟墓场放逐。你抓X张牌且失去X点生命，X为以此法放逐之牌中的最大法术力值。</target>
+        <target state="translated">当CARDNAME进战场时，将至多两张目标传奇生物牌从你的坟墓场放逐。你抓X张牌且失去X点生命，X为以此法放逐之牌中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="c01a0413-1cf6-4936-bec5-b1f5174b099f" resname="MAT·213 | The Kenriths' Royal Funeral | Card Text | Paragraph 2">
         <source>Legendary spells you cast cost {1} less to cast for each card exiled with CARDNAME.</source>
-        <target state="translated">每有一张以肯理斯皇室葬礼放逐的牌，你施放的传奇咒语便减少{1}来施放。</target>
+        <target state="translated">每有一张以CARDNAME放逐的牌，你施放的传奇咒语便减少{1}来施放。</target>
       </trans-unit>
       <trans-unit id="4611fd39-a212-4d04-8c9e-d5d9c2bf3c7d" resname="MAT·214 | Kiora, Sovereign of the Deep | Card Name">
         <source>Kiora, Sovereign of the Deep</source>
@@ -2572,7 +2572,7 @@
       </trans-unit>
       <trans-unit id="0a143471-c144-40b9-9fcf-5c6c9ad45dfa" resname="MAT·217 | Narset, Enlightened Exile | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.</source>
-        <target state="translated">每当受启黜人娜尔施攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="263a2fea-e6b6-48f1-bff8-e556dd1daae5" resname="MAT·218 | Nashi, Moon's Legacy | Card Name">
         <source>Nashi, Moon's Legacy</source>
@@ -2584,7 +2584,7 @@
       </trans-unit>
       <trans-unit id="263a2fea-e6b6-48f1-bff8-e556dd1daae5" resname="MAT·218 | Nashi, Moon's Legacy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy.</source>
-        <target state="translated">每当月智传承哪失攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。</target>
+        <target state="translated">每当CARDNAME攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。</target>
       </trans-unit>
       <trans-unit id="7554713b-825c-4c4a-9a44-9e76910a9bfd" resname="MAT·219 | Niv-Mizzet, Supreme | Card Name">
         <source>Niv-Mizzet, Supreme</source>
@@ -2608,7 +2608,7 @@
       </trans-unit>
       <trans-unit id="c8abcef7-31b0-4c17-9807-b26079fb6ed8" resname="MAT·220 | Ob Nixilis, Captive Kingpin | Card Text | Paragraph 2">
         <source>Whenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on CARDNAME. Exile the top card of your library. Until your next end step, you may play that card.</source>
-        <target state="translated">每当一位或多位对手各失去正好1点生命时，在受困魔头欧尼希兹上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
+        <target state="translated">每当一位或多位对手各失去正好1点生命时，在CARDNAME上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
       </trans-unit>
       <trans-unit id="613ed071-7672-44c4-bd19-66954ea0c83c" resname="MAT·221 | Pia Nalaar, Consul of Revival | Card Name">
         <source>Pia Nalaar, Consul of Revival</source>
@@ -2664,7 +2664,7 @@
       </trans-unit>
       <trans-unit id="4f8d075d-71b6-4f04-946e-e2abc9d374fa" resname="MAT·225 | Sarkhan, Soul Aflame | Card Text | Paragraph 2">
         <source>Whenever a Dragon enters the battlefield under your control, you may have CARDNAME become a copy of it until end of turn, except its name is CARDNAME and it's legendary in addition to its other types.</source>
-        <target state="translated">每当一个龙在你的操控下进战场时，你可以使昂焰灵魂萨坎成为前者的复制品直到回合结束，但它的名称是昂焰灵魂萨坎，且额外是传奇。</target>
+        <target state="translated">每当一个龙在你的操控下进战场时，你可以使CARDNAME成为前者的复制品直到回合结束，但它的名称是CARDNAME，且额外是传奇。</target>
       </trans-unit>
       <trans-unit id="dedfd30b-24eb-4b2c-a1de-3f7e1f2a5cb2" resname="MAT·226 | Sigarda, Font of Blessings | Card Name">
         <source>Sigarda, Font of Blessings</source>

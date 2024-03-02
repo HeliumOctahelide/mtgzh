@@ -40,7 +40,7 @@
       </trans-unit>
       <trans-unit id="56d93855-c749-4bdf-9a90-4f69f4226e46" resname="C21·3 | Veyran, Voice of Duality | Card Text | Paragraph 1">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，二元之声薇兰得+1/+1直到回合结束。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="56d93855-c749-4bdf-9a90-4f69f4226e46" resname="C21·3 | Veyran, Voice of Duality | Card Text | Paragraph 2">
         <source>If you casting or copying an instant or sorcery spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</source>
@@ -52,7 +52,7 @@
       </trans-unit>
       <trans-unit id="ea1ab937-8647-4c83-99d5-6a40dffa4c9b" resname="C21·4 | Zaffai, Thunder Conductor | Card Text | Paragraph 1">
         <source>Magecraft — Whenever you cast or copy an instant or sorcery spell, scry 1. If that spell's mana value is 5 or greater, create a 4/4 blue and red Elemental creature token. If that spell's mana value is 10 or greater, CARDNAME deals 10 damage to an opponent chosen at random.</source>
-        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，占卜1。若该咒语的法术力值等于或大于5，则派出一个4/4，蓝红双色的元素衍生生物。若该咒语的法术力值等于或大于10，则雷鸣通导师冉非向随机选择的一位对手造成10点伤害。</target>
+        <target state="translated">魔艺～每当你施放或复制瞬间或法术咒语时，占卜1。若该咒语的法术力值等于或大于5，则派出一个4/4，蓝红双色的元素衍生生物。若该咒语的法术力值等于或大于10，则CARDNAME向随机选择的一位对手造成10点伤害。</target>
       </trans-unit>
       <trans-unit id="5dd7dd1a-6dd1-43c3-8298-7db703d384a1" resname="C21·5 | Gyome, Master Chef | Card Name">
         <source>Gyome, Master Chef</source>
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="fd2fc2d4-c4fb-4dcb-93fa-aaf8c1182f15" resname="C21·7 | Alibou, Ancient Witness | Card Text | Paragraph 2">
         <source>Whenever one or more artifact creatures you control attack, CARDNAME deals X damage to any target and you scry X, where X is the number of tapped artifacts you control.</source>
-        <target state="translated">每当由你操控的一个或数个神器生物攻击时，远古见证人阿力布对任意一个目标造成X点伤害，且你占卜X，X为由你操控且已横置的神器数量。</target>
+        <target state="translated">每当由你操控的一个或数个神器生物攻击时，CARDNAME对任意一个目标造成X点伤害，且你占卜X，X为由你操控且已横置的神器数量。</target>
       </trans-unit>
       <trans-unit id="5815fe6e-e26b-4918-a090-55d6442722c1" resname="C21·8 | Osgir, the Reconstructor | Card Name">
         <source>Osgir, the Reconstructor</source>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="9c381bc2-d26e-4d7e-9a0b-a8f7d2d802be" resname="C21·10 | Esix, Fractal Bloom | Card Text | Paragraph 2">
         <source>The first time you would create one or more tokens during each of your turns, you may instead choose a creature other than CARDNAME and create that many tokens that are copies of that creature.</source>
-        <target state="translated">于你的每个回合中你将首度派出一个或数个衍生物时，你可以改为选择繁盛分灵埃席兹以外的某生物，并派出为该生物复制品的衍生物，数量不变。</target>
+        <target state="translated">于你的每个回合中你将首度派出一个或数个衍生物时，你可以改为选择CARDNAME以外的某生物，并派出为该生物复制品的衍生物，数量不变。</target>
       </trans-unit>
       <trans-unit id="ea96229a-5c33-4f79-97d4-059947dd7617" resname="C21·11 | Angel of the Ruins | Card Name">
         <source>Angel of the Ruins</source>
@@ -142,7 +142,7 @@
       </trans-unit>
       <trans-unit id="ea96229a-5c33-4f79-97d4-059947dd7617" resname="C21·11 | Angel of the Ruins | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile up to two target artifacts and/or enchantments.</source>
-        <target state="translated">当遗迹天使进战场时，放逐至多两个目标神器和／或结界。</target>
+        <target state="translated">当CARDNAME进战场时，放逐至多两个目标神器和／或结界。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="ea96229a-5c33-4f79-97d4-059947dd7617" resname="C21·11 | Angel of the Ruins | Card Text | Paragraph 3">
@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="703d0bdc-01a0-4ba8-8536-e7425dfb3b1f" resname="C21·12 | Archaeomancer's Map | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, search your library for up to two basic Plains cards, reveal them, put them into your hand, then shuffle.</source>
-        <target state="translated">当古语术士地图进战场时，从你牌库中搜寻至多两张基本的平原牌，展示这些牌，将它们置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，从你牌库中搜寻至多两张基本的平原牌，展示这些牌，将它们置于你手上，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自LCC（2023-11-17）；</note>
       </trans-unit>
       <trans-unit id="703d0bdc-01a0-4ba8-8536-e7425dfb3b1f" resname="C21·12 | Archaeomancer's Map | Card Text | Paragraph 2">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="8cd5cc66-2ade-4142-9269-7d9905b029e5" resname="C21·13 | Bronze Guardian | Card Text | Paragraph 4">
         <source>CARDNAME's power is equal to the number of artifacts you control.</source>
-        <target state="translated">黄铜守护者的力量等同于由你操控的神器数量。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控的神器数量。</target>
       </trans-unit>
       <trans-unit id="d3b9136e-7f71-40d5-bdfb-d710cd39912d" resname="C21·14 | Combat Calligrapher | Card Name">
         <source>Combat Calligrapher</source>
@@ -231,7 +231,7 @@
       </trans-unit>
       <trans-unit id="6168ca14-b8d6-4149-bc61-dc1965d2f5b4" resname="C21·17 | Guardian Archon | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, secretly choose an opponent.</source>
-        <target state="translated">于守护者统领进战场时，私下选择一位对手。</target>
+        <target state="translated">于CARDNAME进战场时，私下选择一位对手。</target>
       </trans-unit>
       <trans-unit id="6168ca14-b8d6-4149-bc61-dc1965d2f5b4" resname="C21·17 | Guardian Archon | Card Text | Paragraph 3">
         <source>Reveal the player you chose: You and target permanent you control each gain protection from the chosen player until end of turn. Activate only once.</source>
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="ed238d90-72b5-44c4-bea7-20f71788088f" resname="C21·22 | Scholarship Sponsor | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each player who controls fewer lands than the player who controls the most lands searches their library for a number of basic land cards less than or equal to the difference, puts those cards onto the battlefield tapped, then shuffles.</source>
-        <target state="translated">当奖学金资助人进战场时，每位操控地不是最多的牌手，各依他与操控地最多的牌手之间地数量的差距进行以下流程～从其牌库中搜寻数量等于或小于此差额的基本地牌，将这些牌横置放进战场，然后洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，每位操控地不是最多的牌手，各依他与操控地最多的牌手之间地数量的差距进行以下流程～从其牌库中搜寻数量等于或小于此差额的基本地牌，将这些牌横置放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="a70d1553-40f4-42ce-a02e-e42525f9d75e" resname="C21·23 | Commander's Insight | Card Name">
         <source>Commander's Insight</source>
@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id="47287f15-c480-4c93-8f04-10f57a089c2e" resname="C21·25 | Dazzling Sphinx | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, that player exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then that player puts the exiled cards that weren't cast this way on the bottom of their library in a random order.</source>
-        <target state="translated">每当炫目史芬斯对任一牌手造成战斗伤害时，该牌手从其牌库顶开始放逐牌，直到放逐一张瞬间或法术牌为止。你可以施放该牌，且不需支付其法术力费用。然后该牌手将所有以此法放逐且未施放的牌以随机顺序置于其牌库底。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，该牌手从其牌库顶开始放逐牌，直到放逐一张瞬间或法术牌为止。你可以施放该牌，且不需支付其法术力费用。然后该牌手将所有以此法放逐且未施放的牌以随机顺序置于其牌库底。</target>
       </trans-unit>
       <trans-unit id="75d15e8c-1c5a-4aaf-92a5-5d4f500def06" resname="C21·26 | Deekah, Fractal Theorist | Card Name">
         <source>Deekah, Fractal Theorist</source>
@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="a66076f9-c1b0-4718-8609-3e2efe6114ab" resname="C21·27 | Inspiring Refrain | Card Text | Paragraph 1">
         <source>Draw two cards. Exile CARDNAME with three time counters on it.</source>
-        <target state="translated">抓两张牌。放逐启迪旋律，且上面有三个计时指示物。</target>
+        <target state="translated">抓两张牌。放逐CARDNAME，且上面有三个计时指示物。</target>
       </trans-unit>
       <trans-unit id="a66076f9-c1b0-4718-8609-3e2efe6114ab" resname="C21·27 | Inspiring Refrain | Card Text | Paragraph 2">
         <source>Suspend 3—{2}{U} (Rather than cast this card from your hand, you may pay {2}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</source>
@@ -438,7 +438,7 @@
       </trans-unit>
       <trans-unit id="95b5fc08-5c50-4ec9-9788-54f95c4ce916" resname="C21·35 | Author of Shadows | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile all opponents' graveyards. Choose a nonland card exiled this way. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.</source>
-        <target state="translated">当黯影著书人进战场时，放逐所有对手坟墓场中的所有牌。选择一张以此法放逐的非地牌。于该牌持续放逐的时段内，你可以施放该牌，且你可以将法术力视同任意颜色的法术力来支付施放该咒语的费用。</target>
+        <target state="translated">当CARDNAME进战场时，放逐所有对手坟墓场中的所有牌。选择一张以此法放逐的非地牌。于该牌持续放逐的时段内，你可以施放该牌，且你可以将法术力视同任意颜色的法术力来支付施放该咒语的费用。</target>
       </trans-unit>
       <trans-unit id="41b4171c-9518-404f-ad42-f3115fb5abe9" resname="C21·36 | Blight Mound | Card Name">
         <source>Blight Mound</source>
@@ -462,7 +462,7 @@
       </trans-unit>
       <trans-unit id="b0e0f5f6-8b63-4c63-bd1d-445613bc106b" resname="C21·37 | Bold Plagiarist | Card Text | Paragraph 2">
         <source>Whenever an opponent puts one or more counters on a creature they control, they put the same number and kind of counters on CARDNAME.</source>
-        <target state="translated">每当任一对手在一个由其操控的生物上放置一个或数个指示物时，他在大胆剽窃徒上放置相同数量和种类的指示物。</target>
+        <target state="translated">每当任一对手在一个由其操控的生物上放置一个或数个指示物时，他在CARDNAME上放置相同数量和种类的指示物。</target>
       </trans-unit>
       <trans-unit id="356d9d36-cf03-41f2-abfa-eb45176ce18d" resname="C21·38 | Cunning Rhetoric | Card Name">
         <source>Cunning Rhetoric</source>
@@ -498,7 +498,7 @@
       </trans-unit>
       <trans-unit id="26acb9db-1a2f-4b08-b121-88f953e597e5" resname="C21·40 | Fain, the Broker | Card Text | Paragraph 4">
         <source>{3}{B}: Untap CARDNAME.</source>
-        <target state="translated">{3}{B}：重置掮客斐恩。</target>
+        <target state="translated">{3}{B}：重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="9655deda-f02b-47a0-89a3-2904b11b84aa" resname="C21·41 | Incarnation Technique | Card Name">
         <source>Incarnation Technique</source>
@@ -573,7 +573,7 @@
       </trans-unit>
       <trans-unit id="ec593c8a-b5ef-45a1-ac19-45937a876038" resname="C21·47 | Audacious Reshapers | Card Text | Paragraph 1">
         <source>{T}, Sacrifice an artifact: Reveal cards from the top of your library until you reveal an artifact card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. CARDNAME deals damage to you equal to the number of cards revealed this way.</source>
-        <target state="translated">{T}，牺牲一个神器：从你的牌库顶开始展示牌，直到展示出一张神器牌为止。将该牌放进战场，其余则以随机顺序置于你的牌库底。斗胆重塑师对你造成等同于以此法所展示之牌数量的伤害。</target>
+        <target state="translated">{T}，牺牲一个神器：从你的牌库顶开始展示牌，直到展示出一张神器牌为止。将该牌放进战场，其余则以随机顺序置于你的牌库底。CARDNAME对你造成等同于以此法所展示之牌数量的伤害。</target>
       </trans-unit>
       <trans-unit id="1a14aad2-47f0-4d21-9fcf-5ca171faffaf" resname="C21·48 | Battlemage's Bracers | Card Name">
         <source>Battlemage's Bracers</source>
@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="458a01ea-f161-43a4-a6db-88f6418b9c6d" resname="C21·50 | Cursed Mirror | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, you may have it become a copy of any creature on the battlefield until end of turn, except it has haste.</source>
-        <target state="translated">于诅咒魔镜进战场时，你可以使其成为战场上任一生物的复制品直到回合结束，但它具有敏捷异能。</target>
+        <target state="translated">于CARDNAME进战场时，你可以使其成为战场上任一生物的复制品直到回合结束，但它具有敏捷异能。</target>
       </trans-unit>
       <trans-unit id="ae544d03-2d12-4994-b573-424c41ecc91d" resname="C21·51 | Fiery Encore | Card Name">
         <source>Fiery Encore</source>
@@ -621,7 +621,7 @@
       </trans-unit>
       <trans-unit id="ae544d03-2d12-4994-b573-424c41ecc91d" resname="C21·51 | Fiery Encore | Card Text | Paragraph 1">
         <source>Discard a card, then draw a card. When you discard a nonland card this way, CARDNAME deals damage equal to that card's mana value to target creature or planeswalker.</source>
-        <target state="translated">弃一张牌，然后抓一张牌。当你以此法弃掉一张非地牌时，火热返场对目标生物或鹏洛客造成伤害，其数量等同于所弃之牌的法术力值。</target>
+        <target state="translated">弃一张牌，然后抓一张牌。当你以此法弃掉一张非地牌时，CARDNAME对目标生物或鹏洛客造成伤害，其数量等同于所弃之牌的法术力值。</target>
       </trans-unit>
       <trans-unit id="ae544d03-2d12-4994-b573-424c41ecc91d" resname="C21·51 | Fiery Encore | Card Text | Paragraph 2">
         <source>Storm (When you cast this spell, copy it for each spell cast before it this turn.)</source>
@@ -637,7 +637,7 @@
       </trans-unit>
       <trans-unit id="ca760378-fa30-47ac-b3e0-7dc2e72b3422" resname="C21·52 | Inferno Project | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it, where X is the total mana value of instant and sorcery cards in your graveyard.</source>
-        <target state="translated">炼狱作品进战场时上面有X个+1/+1指示物，X为你坟墓场中所有瞬间和法术牌的法术力值总和。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物，X为你坟墓场中所有瞬间和法术牌的法术力值总和。</target>
       </trans-unit>
       <trans-unit id="a3bb2881-e8fb-4fba-a9f9-d93e6ca24378" resname="C21·53 | Laelia, the Blade Reforged | Card Name">
         <source>Laelia, the Blade Reforged</source>
@@ -651,7 +651,7 @@
       </trans-unit>
       <trans-unit id="a3bb2881-e8fb-4fba-a9f9-d93e6ca24378" resname="C21·53 | Laelia, the Blade Reforged | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile the top card of your library. You may play that card this turn.</source>
-        <target state="translated">每当重铸利锋拉耶梨攻击时，放逐你的牌库顶牌。本回合中，你可以使用该牌。</target>
+        <target state="translated">每当CARDNAME攻击时，放逐你的牌库顶牌。本回合中，你可以使用该牌。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="a3bb2881-e8fb-4fba-a9f9-d93e6ca24378" resname="C21·53 | Laelia, the Blade Reforged | Card Text | Paragraph 3">
@@ -669,7 +669,7 @@
       </trans-unit>
       <trans-unit id="e8faedf4-1178-4f5d-8f46-7277dfe1ae2c" resname="C21·54 | Radiant Performer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if you cast it from your hand, choose target spell or ability that targets only a single permanent or player. Copy that spell or ability for each other permanent or player the spell or ability could target. Each copy targets a different one of those permanents and players.</source>
-        <target state="translated">当辐光献艺家进战场时，若你从你手上施放之，则选择目标咒语或异能，且其须仅指定单一永久物或牌手为目标。该咒语或异能每能以一个其他永久物或牌手为目标，便将其复制一次。每个复制品都要以这些永久物和牌手之一为目标，且不能重复选择。</target>
+        <target state="translated">当CARDNAME进战场时，若你从你手上施放之，则选择目标咒语或异能，且其须仅指定单一永久物或牌手为目标。该咒语或异能每能以一个其他永久物或牌手为目标，便将其复制一次。每个复制品都要以这些永久物和牌手之一为目标，且不能重复选择。</target>
       </trans-unit>
       <trans-unit id="b1e92b9c-4234-436d-a741-37c5e45859e5" resname="C21·55 | Rionya, Fire Dancer | Card Name">
         <source>Rionya, Fire Dancer</source>
@@ -685,7 +685,7 @@
       </trans-unit>
       <trans-unit id="dc2a5627-8726-45d6-bb1b-a6172096a28a" resname="C21·56 | Rousing Refrain | Card Text | Paragraph 1">
         <source>Add {R} for each card in target opponent's hand. Until end of turn, you don't lose this mana as steps and phases end. Exile CARDNAME with three time counters on it.</source>
-        <target state="translated">目标对手每有一张手牌，便加{R}。直到回合结束，你不会因步骤与阶段结束失去这份法术力。放逐醒神旋律，且上面有三个计时指示物。</target>
+        <target state="translated">目标对手每有一张手牌，便加{R}。直到回合结束，你不会因步骤与阶段结束失去这份法术力。放逐CARDNAME，且上面有三个计时指示物。</target>
       </trans-unit>
       <trans-unit id="dc2a5627-8726-45d6-bb1b-a6172096a28a" resname="C21·56 | Rousing Refrain | Card Text | Paragraph 2">
         <source>Suspend 3—{1}{R} (Rather than cast this card from your hand, you may pay {1}{R} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</source>
@@ -701,7 +701,7 @@
       </trans-unit>
       <trans-unit id="56dd8c18-052b-4684-8ffa-f7d49af25759" resname="C21·57 | Ruin Grinder | Card Text | Paragraph 2">
         <source>When CARDNAME dies, each player may discard their hand and draw seven cards.</source>
-        <target state="translated">当遗迹碾磨工死去时，每位牌手各可以弃掉其手牌并抓七张牌。</target>
+        <target state="translated">当CARDNAME死去时，每位牌手各可以弃掉其手牌并抓七张牌。</target>
       </trans-unit>
       <trans-unit id="56dd8c18-052b-4684-8ffa-f7d49af25759" resname="C21·57 | Ruin Grinder | Card Text | Paragraph 3">
         <source>Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</source>
@@ -721,7 +721,7 @@
       </trans-unit>
       <trans-unit id="332153ab-1b8e-40a8-b0b4-01f94866d368" resname="C21·59 | Blossoming Bogbeast | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you gain 2 life. Then creatures you control gain trample and get +X/+X until end of turn, where X is the amount of life you gained this turn.</source>
-        <target state="translated">每当繁花腐沼兽攻击时，你获得2点生命。然后直到回合结束，由你操控的生物获得践踏异能且得+X/+X，X为你本回合中获得过的生命数量。</target>
+        <target state="translated">每当CARDNAME攻击时，你获得2点生命。然后直到回合结束，由你操控的生物获得践踏异能且得+X/+X，X为你本回合中获得过的生命数量。</target>
       </trans-unit>
       <trans-unit id="a7fd9ede-cc6e-4a96-934b-d91d4aa7fa0a" resname="C21·60 | Ezzaroot Channeler | Card Name">
         <source>Ezzaroot Channeler</source>
@@ -745,7 +745,7 @@
       </trans-unit>
       <trans-unit id="b7fdad91-fa92-42b6-ad44-f4a3819212f2" resname="C21·61 | Fractal Harness | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it and attach CARDNAME to it.</source>
-        <target state="translated">当分灵挽具进战场时，派出一个0/0，绿蓝双色的分灵衍生生物。在其上放置X个+1/+1指示物，并将分灵挽具装备于其上。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个0/0，绿蓝双色的分灵衍生生物。在其上放置X个+1/+1指示物，并将CARDNAME装备于其上。</target>
       </trans-unit>
       <trans-unit id="b7fdad91-fa92-42b6-ad44-f4a3819212f2" resname="C21·61 | Fractal Harness | Card Text | Paragraph 2">
         <source>Whenever equipped creature attacks, double the number of +1/+1 counters on it.</source>
@@ -781,7 +781,7 @@
       </trans-unit>
       <trans-unit id="33897125-a1df-4d7a-a45a-9c049cb662f6" resname="C21·63 | Healing Technique | Card Text | Paragraph 2">
         <source>Return target card from your graveyard to your hand. You gain life equal to that card's mana value. Exile CARDNAME.</source>
-        <target state="translated">将目标牌从你的坟墓场移回你手上。你获得等同于该牌法术力值的生命。放逐疗伤技艺。</target>
+        <target state="translated">将目标牌从你的坟墓场移回你手上。你获得等同于该牌法术力值的生命。放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b1116eb3-4d16-4404-b29d-7d96d7eaa703" resname="C21·64 | Paradox Zone | Card Name">
         <source>Paradox Zone</source>
@@ -789,11 +789,11 @@
       </trans-unit>
       <trans-unit id="b1116eb3-4d16-4404-b29d-7d96d7eaa703" resname="C21·64 | Paradox Zone | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with a growth counter on it.</source>
-        <target state="translated">奇诡区域进战场时上面有一个生长指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有一个生长指示物。</target>
       </trans-unit>
       <trans-unit id="b1116eb3-4d16-4404-b29d-7d96d7eaa703" resname="C21·64 | Paradox Zone | Card Text | Paragraph 2">
         <source>At the beginning of your end step, double the number of growth counters on CARDNAME. Then create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is the number of growth counters on CARDNAME.</source>
-        <target state="translated">在你的结束步骤开始时，将奇诡区域上的生长指示物数量加倍。然后派出一个0/0，绿蓝双色的分灵衍生生物。在其上放置X个+1/+1指示物，X为奇诡区域上的生长指示物数量。</target>
+        <target state="translated">在你的结束步骤开始时，将CARDNAME上的生长指示物数量加倍。然后派出一个0/0，绿蓝双色的分灵衍生生物。在其上放置X个+1/+1指示物，X为CARDNAME上的生长指示物数量。</target>
       </trans-unit>
       <trans-unit id="4720b4f2-e6af-4223-9250-a0ed21ed5693" resname="C21·65 | Pest Infestation | Card Name">
         <source>Pest Infestation</source>
@@ -809,7 +809,7 @@
       </trans-unit>
       <trans-unit id="e07b8142-6a49-46e7-b862-41f89a59b894" resname="C21·66 | Ruxa, Patient Professor | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or attacks, return target creature card with no abilities from your graveyard to your hand.</source>
-        <target state="translated">每当耐心教授鲁克夏进战场或攻击时，将目标不具异能的生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，将目标不具异能的生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="e07b8142-6a49-46e7-b862-41f89a59b894" resname="C21·66 | Ruxa, Patient Professor | Card Text | Paragraph 2">
         <source>Creatures you control with no abilities get +1/+1.</source>
@@ -841,7 +841,7 @@
       </trans-unit>
       <trans-unit id="dbf26e54-bdfe-4da8-acbb-4f1a98faba49" resname="C21·68 | Sproutback Trudge | Card Text | Paragraph 3">
         <source>At the beginning of your end step, if you gained life this turn, you may cast CARDNAME from your graveyard.</source>
-        <target state="translated">在你的结束步骤开始时，若你本回合中获得过生命，则你可以从你的坟墓场中施放孢背楚吉兽。</target>
+        <target state="translated">在你的结束步骤开始时，若你本回合中获得过生命，则你可以从你的坟墓场中施放CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f0c2aa0a-479a-4eb2-8656-d8aaa1c0d7f7" resname="C21·69 | Trudge Garden | Card Name">
         <source>Trudge Garden</source>
@@ -891,7 +891,7 @@
       </trans-unit>
       <trans-unit id="cd50007c-5883-4f0c-80c3-41f13f463908" resname="C21·74 | Revival Experiment | Card Text | Paragraph 1">
         <source>For each permanent type, return up to one card of that type from your graveyard to the battlefield. You lose 3 life for each card returned this way. Exile CARDNAME.</source>
-        <target state="translated">对每种永久物类别而言，将至多一张该类别的牌从你的坟墓场移回战场。每以此法移回一张牌，你便失去3点生命。放逐复生实验。</target>
+        <target state="translated">对每种永久物类别而言，将至多一张该类别的牌从你的坟墓场移回战场。每以此法移回一张牌，你便失去3点生命。放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="aeae7fda-05f5-40af-90cc-b80521ee0521" resname="C21·75 | Wake the Past | Card Name">
         <source>Wake the Past</source>
@@ -907,7 +907,7 @@
       </trans-unit>
       <trans-unit id="d66053f6-9313-4ff1-9618-3403c2cc6ec8" resname="C21·76 | Elementalist's Palette | Card Text | Paragraph 1">
         <source>Whenever you cast a spell with {X} in its mana cost, put two charge counters on CARDNAME.</source>
-        <target state="translated">每当你施放法术力费用中包含{X}的咒语时，在元素师材料盘上放置两个充电指示物。</target>
+        <target state="translated">每当你施放法术力费用中包含{X}的咒语时，在CARDNAME上放置两个充电指示物。</target>
       </trans-unit>
       <trans-unit id="d66053f6-9313-4ff1-9618-3403c2cc6ec8" resname="C21·76 | Elementalist's Palette | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color.</source>
@@ -915,7 +915,7 @@
       </trans-unit>
       <trans-unit id="d66053f6-9313-4ff1-9618-3403c2cc6ec8" resname="C21·76 | Elementalist's Palette | Card Text | Paragraph 3">
         <source>{T}: Add {C} for each charge counter on CARDNAME. Spend this mana only on costs that contain {X}.</source>
-        <target state="translated">{T}：元素师材料盘上每有一个充电指示物，便加{C}。此法术力只能用来支付包含{X}的费用。</target>
+        <target state="translated">{T}：CARDNAME上每有一个充电指示物，便加{C}。此法术力只能用来支付包含{X}的费用。</target>
       </trans-unit>
       <trans-unit id="3f200a52-ecf6-4890-9307-e9296080ff9a" resname="C21·77 | Geometric Nexus | Card Name">
         <source>Geometric Nexus</source>
@@ -923,11 +923,11 @@
       </trans-unit>
       <trans-unit id="3f200a52-ecf6-4890-9307-e9296080ff9a" resname="C21·77 | Geometric Nexus | Card Text | Paragraph 1">
         <source>Whenever a player casts an instant or sorcery spell, put a number of charge counters on CARDNAME equal to that spell's mana value.</source>
-        <target state="translated">每当任一牌手施放瞬间或法术咒语时，在几何连接点上放置数量等同于该咒语法术力值的充电指示物。</target>
+        <target state="translated">每当任一牌手施放瞬间或法术咒语时，在CARDNAME上放置数量等同于该咒语法术力值的充电指示物。</target>
       </trans-unit>
       <trans-unit id="3f200a52-ecf6-4890-9307-e9296080ff9a" resname="C21·77 | Geometric Nexus | Card Text | Paragraph 2">
         <source>{6}, {T}, Remove all charge counters from CARDNAME: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is the number of charge counters removed this way.</source>
-        <target state="translated">{6}，{T}，从几何连接点上移去所有充电指示物：派出一个0/0，绿蓝双色的分灵衍生生物。在其上放置X个+1/+1指示物，X为以此法移去的充电指示物数量。</target>
+        <target state="translated">{6}，{T}，从CARDNAME上移去所有充电指示物：派出一个0/0，绿蓝双色的分灵衍生生物。在其上放置X个+1/+1指示物，X为以此法移去的充电指示物数量。</target>
       </trans-unit>
       <trans-unit id="94ac96b6-5e67-43fb-ba65-fbcccb82bf1c" resname="C21·78 | Tempting Contract | Card Name">
         <source>Tempting Contract</source>

@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="d7649b77-486e-45e4-87c7-a1e6c8e652af" resname="PDP15·1 | Soul of Ravnica | Card Text | Paragraph 3">
         <source>{5}{U}{U}, Exile CARDNAME from your graveyard: Draw a card for each color among permanents you control.</source>
-        <target state="translated">{5}{U}{U}，从你的坟墓场放逐拉尼卡之魂：由你操控的永久物之中每有一种颜色，便抓一张牌。</target>
+        <target state="translated">{5}{U}{U}，从你的坟墓场放逐CARDNAME：由你操控的永久物之中每有一种颜色，便抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自M15（2014-07-18）；</note>
       </trans-unit>
       <trans-unit id="2c275a5f-ec89-4d0c-9183-cd657051fb5c" resname="PDP15·2 | Soul of Zendikar | Card Name">
@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="2c275a5f-ec89-4d0c-9183-cd657051fb5c" resname="PDP15·2 | Soul of Zendikar | Card Text | Paragraph 3">
         <source>{3}{G}{G}, Exile CARDNAME from your graveyard: Create a 3/3 green Beast creature token.</source>
-        <target state="translated">{3}{G}{G}，从你的坟墓场放逐赞迪卡之魂：将一个3/3绿色野兽衍生生物放进战场。</target>
+        <target state="translated">{3}{G}{G}，从你的坟墓场放逐CARDNAME：将一个3/3绿色野兽衍生生物放进战场。</target>
         <note xmlns:from="developer">中文数据来自M15（2014-07-18）；</note>
       </trans-unit>
     </body>

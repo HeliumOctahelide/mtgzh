@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="f990cd78-2165-446f-a116-ae55d7a0f00d" resname="C20·9 | Kalamax, the Stormsire | Card Text | Paragraph 1">
         <source>Whenever you cast your first instant spell each turn, if CARDNAME is tapped, copy that spell. You may choose new targets for the copy.</source>
-        <target state="translated">每当你施放每回合中你的第一个瞬间咒语时，若唤风君龙卡勒麦已横置，则复制该咒语。你可以为该复制品选择新的目标。</target>
+        <target state="translated">每当你施放每回合中你的第一个瞬间咒语时，若CARDNAME已横置，则复制该咒语。你可以为该复制品选择新的目标。</target>
         <note xmlns:from="developer">中文数据来自SPG（2023-11-17）；非官方中文翻译来自legacy card name（2024-02-28）；</note>
       </trans-unit>
       <trans-unit id="f990cd78-2165-446f-a116-ae55d7a0f00d" resname="C20·9 | Kalamax, the Stormsire | Card Text | Paragraph 2">
@@ -114,7 +114,7 @@
       </trans-unit>
       <trans-unit id="447db519-7825-4330-99e7-a2429e1f6b2e" resname="C20·18 | Xyris, the Writhing Storm | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals combat damage to a player, you and that player each draw that many cards.</source>
-        <target state="translated">每当纠拧风暴塞利兹对任一牌手造成战斗伤害时，你和该牌手各抓等量的牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你和该牌手各抓等量的牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="11c0e89b-ab29-4739-a88e-1e7966d87d25" resname="C20·19 | Yannik, Scavenging Sentinel | Card Name">
@@ -159,7 +159,7 @@
       </trans-unit>
       <trans-unit id="24ad6b07-3487-4e19-b554-196697a413df" resname="C20·22 | Avenging Huntbonder | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, put a double strike counter on another target attacking creature.</source>
-        <target state="translated">每当复仇猎绊人攻击时，在另一个目标进行攻击的生物上放置一个连击指示物。</target>
+        <target state="translated">每当CARDNAME攻击时，在另一个目标进行攻击的生物上放置一个连击指示物。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="e11cb353-d864-4b22-bdaf-1d42c25f0918" resname="C20·23 | Call the Coppercoats | Card Name">
@@ -189,7 +189,7 @@
       </trans-unit>
       <trans-unit id="1b1d26c3-ce06-4d46-87fc-7623edae85b2" resname="C20·24 | Cartographer's Hawk | Card Text | Paragraph 2">
         <source>When CARDNAME deals combat damage to a player who controls more lands than you, return it to its owner's hand. If you do, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">当制图师翔鹰对任一操控之地比你多的牌手造成战斗伤害时，将它移回其拥有者手上。若你如此作，则你可以从你牌库中搜寻一张平原牌，将之横置放进战场，然后洗牌。</target>
+        <target state="translated">当CARDNAME对任一操控之地比你多的牌手造成战斗伤害时，将它移回其拥有者手上。若你如此作，则你可以从你牌库中搜寻一张平原牌，将之横置放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="9db4c1ec-ddd6-4443-8d93-8628e67aa6bb" resname="C20·25 | Dismantling Wave | Card Name">
@@ -439,7 +439,7 @@
       </trans-unit>
       <trans-unit id="8ca1dbc4-2177-477e-88e2-d07cefb542e4" resname="C20·54 | Molten Echoes | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于热熔应和进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
         <note xmlns:from="developer">中文数据来自VOC（2021-11-19）；</note>
       </trans-unit>
       <trans-unit id="8ca1dbc4-2177-477e-88e2-d07cefb542e4" resname="C20·54 | Molten Echoes | Card Text | Paragraph 2">
@@ -554,7 +554,7 @@
       </trans-unit>
       <trans-unit id="c2f9c4a7-ea53-4da0-9746-2195579f98f6" resname="C20·66 | Slippery Bogbonder | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, put a hexproof counter on target creature. Then move any number of counters from among creatures you control onto that creature.</source>
-        <target state="translated">当油滑沼绊人进战场时，在目标生物上放置一个辟邪指示物。然后将由你操控之生物上总共任意数量的指示物移到该生物上。</target>
+        <target state="translated">当CARDNAME进战场时，在目标生物上放置一个辟邪指示物。然后将由你操控之生物上总共任意数量的指示物移到该生物上。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="5afe425c-50a7-4d29-ac14-0edb094fc770" resname="C20·67 | Bonder's Ornament | Card Name">
@@ -569,7 +569,7 @@
       </trans-unit>
       <trans-unit id="5afe425c-50a7-4d29-ac14-0edb094fc770" resname="C20·67 | Bonder's Ornament | Card Text | Paragraph 2">
         <source>{4}, {T}: Each player who controls a permanent named CARDNAME draws a card.</source>
-        <target state="translated">{4}，{T}：每位操控名称为持绊人饰物之永久物的牌手各抓一张牌。</target>
+        <target state="translated">{4}，{T}：每位操控名称为CARDNAME之永久物的牌手各抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="7f164226-99e4-474e-a67d-b3fbff015a64" resname="C20·68 | Manascape Refractor | Card Name">

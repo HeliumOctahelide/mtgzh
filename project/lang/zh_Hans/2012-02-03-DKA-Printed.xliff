@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="c342e1da-7ab9-4e29-96e6-77d820a45ede" resname="DKA·6 | Elgaud Inquisitor | Card Text | Paragraphs">
         <source>Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhen CARDNAME dies, put a 1/1 white Spirit creature token with flying onto the battlefield.</source>
-        <target state="translated">系命（此生物所造成的伤害会让你获得等量的生命。）当艾尔告审判官死去时，将一个1/1白色，具飞行异能的精怪衍生生物放进战场。</target>
+        <target state="translated">系命（此生物所造成的伤害会让你获得等量的生命。）当CARDNAME死去时，将一个1/1白色，具飞行异能的精怪衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="65eb5920-3b03-4300-bc77-0fba5e6abe69" resname="DKA·7 | Faith's Shield | Card Name">
         <source>Faith's Shield</source>
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="0b1be91a-cdec-4933-b834-0a7838abb9b8" resname="DKA·10 | Hollowhenge Spirit | Card Text | Paragraphs">
         <source>Flash (You may cast this spell any time you could cast an instant.)\nFlying\nWhen CARDNAME enters the battlefield, remove target attacking or blocking creature from combat.</source>
-        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）当空圆地精怪进战场时，将目标进行攻击或阻挡的生物移出战斗。</target>
+        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）当CARDNAME进战场时，将目标进行攻击或阻挡的生物移出战斗。</target>
       </trans-unit>
       <trans-unit id="87b5de81-65a6-4a74-8a71-767b92e89e91" resname="DKA·11 | Increasing Devotion | Card Name">
         <source>Increasing Devotion</source>
@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="87b5de81-65a6-4a74-8a71-767b92e89e91" resname="DKA·11 | Increasing Devotion | Card Text | Paragraph 1">
         <source>Put five 1/1 white Human creature tokens onto the battlefield. If CARDNAME was cast from a graveyard, put ten of those tokens onto the battlefield instead.</source>
-        <target state="translated">将五个1/1白色人类衍生生物放进战场。如果奉献渐增是从坟墓场施放，则改为将十个这类衍生物放进战场。</target>
+        <target state="translated">将五个1/1白色人类衍生生物放进战场。如果CARDNAME是从坟墓场施放，则改为将十个这类衍生物放进战场。</target>
       </trans-unit>
       <trans-unit id="87b5de81-65a6-4a74-8a71-767b92e89e91" resname="DKA·11 | Increasing Devotion | Card Text | Paragraph 2">
         <source>Flashback {7}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="cb09041b-4d09-4cae-9e85-b859edae885b" resname="DKA·13 | Loyal Cathar | Card Text | Paragraphs">
         <source>Vigilance\nWhen CARDNAME dies, return it to the battlefield transformed under your control at the beginning of the next end step.</source>
-        <target state="translated">当忠诚护教军死去，在下一个结束步骤开始时，将它转化并在你的操控下返回战场。</target>
+        <target state="translated">当CARDNAME死去，在下一个结束步骤开始时，将它转化并在你的操控下返回战场。</target>
       </trans-unit>
       <trans-unit id="cb09041b-4d09-4cae-9e85-b859edae885b" resname="DKA·13 | Unhallowed Cathar | Card Name">
         <source>Unhallowed Cathar</source>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="cb09041b-4d09-4cae-9e85-b859edae885b" resname="DKA·13 | Unhallowed Cathar | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">护教军孽物不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="2264b760-c527-470d-bad0-d8baaf543631" resname="DKA·14 | Midnight Guard | Card Name">
         <source>Midnight Guard</source>
@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="2264b760-c527-470d-bad0-d8baaf543631" resname="DKA·14 | Midnight Guard | Card Text | Paragraph 1">
         <source>Whenever another creature enters the battlefield, untap CARDNAME.</source>
-        <target state="translated">每当另一个生物进战场时，重置午夜哨兵。</target>
+        <target state="translated">每当另一个生物进战场时，重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="08aea6e3-c8a8-4964-b95d-4c639da55de1" resname="DKA·15 | Niblis of the Mist | Card Name">
         <source>Niblis of the Mist</source>
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="08aea6e3-c8a8-4964-b95d-4c639da55de1" resname="DKA·15 | Niblis of the Mist | Card Text | Paragraphs">
         <source>Flying\nWhen CARDNAME enters the battlefield, you may tap target creature.</source>
-        <target state="translated">当雾气寒灵进战场时，你可以横置目标生物。</target>
+        <target state="translated">当CARDNAME进战场时，你可以横置目标生物。</target>
       </trans-unit>
       <trans-unit id="11bf2ff7-0f8d-47ea-adfd-af299e793a37" resname="DKA·16 | Niblis of the Urn | Card Name">
         <source>Niblis of the Urn</source>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="11bf2ff7-0f8d-47ea-adfd-af299e793a37" resname="DKA·16 | Niblis of the Urn | Card Text | Paragraphs">
         <source>Flying\nWhenever CARDNAME attacks, you may tap target creature.</source>
-        <target state="translated">当壶中寒灵攻击时，你可以横置目标生物。</target>
+        <target state="translated">当CARDNAME攻击时，你可以横置目标生物。</target>
       </trans-unit>
       <trans-unit id="d7e2c5a4-cf92-46bd-9033-8036436488cb" resname="DKA·17 | Ray of Revelation | Card Name">
         <source>Ray of Revelation</source>
@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id="b715da2e-c816-4c14-8522-811c97c66fed" resname="DKA·36 | Dungeon Geists | Card Text | Paragraphs">
         <source>Flying\nWhen CARDNAME enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control CARDNAME.</source>
-        <target state="translated">当地城游魂进战场时，横置目标由对手操控的生物。只要你操控地城游魂，该生物于其操控者的重置步骤中便不能重置。</target>
+        <target state="translated">当CARDNAME进战场时，横置目标由对手操控的生物。只要你操控CARDNAME，该生物于其操控者的重置步骤中便不能重置。</target>
       </trans-unit>
       <trans-unit id="68ac8b5f-4d95-43fc-bf23-10247986a746" resname="DKA·37 | Geralf's Mindcrusher | Card Name">
         <source>Geralf's Mindcrusher</source>
@@ -332,7 +332,7 @@
       </trans-unit>
       <trans-unit id="68ac8b5f-4d95-43fc-bf23-10247986a746" resname="DKA·37 | Geralf's Mindcrusher | Card Text | Paragraphs">
         <source>When CARDNAME enters the battlefield, target player puts the top five cards of his or her library into his or her graveyard.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</source>
-        <target state="translated">当基拉夫撼灵妖进战场时，目标牌手将其牌库顶的五张牌置入其坟墓场。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，目标牌手将其牌库顶的五张牌置入其坟墓场。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="27f92b74-86bb-4bb3-8f78-640984698f28" resname="DKA·38 | Griptide | Card Name">
         <source>Griptide</source>
@@ -356,7 +356,7 @@
       </trans-unit>
       <trans-unit id="ca63f9a2-381e-4c84-b0bb-3acd9445b4db" resname="DKA·40 | Headless Skaab | Card Text | Paragraphs">
         <source>As an additional cost to cast CARDNAME, exile a creature card from your graveyard.\nCARDNAME enters the battlefield tapped.</source>
-        <target state="translated">从你的坟墓场放逐一张生物牌，以作为施放无头尸嵌的额外费用。无头尸嵌须横置进战场。</target>
+        <target state="translated">从你的坟墓场放逐一张生物牌，以作为施放CARDNAME的额外费用。CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="13f5bcdc-70bb-4d67-99e1-282f166ee4bf" resname="DKA·41 | Increasing Confusion | Card Name">
         <source>Increasing Confusion</source>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="13f5bcdc-70bb-4d67-99e1-282f166ee4bf" resname="DKA·41 | Increasing Confusion | Card Text | Paragraph 1">
         <source>Target player puts the top X cards of his or her library into his or her graveyard. If CARDNAME was cast from a graveyard, that player puts twice that many cards into his or her graveyard instead.</source>
-        <target state="translated">目标牌手将其牌库顶的X张牌置入其坟墓场。如果困惑渐增是从坟墓场施放，则改为该牌手将其牌库顶该数量两倍的牌置入其坟墓场。</target>
+        <target state="translated">目标牌手将其牌库顶的X张牌置入其坟墓场。如果CARDNAME是从坟墓场施放，则改为该牌手将其牌库顶该数量两倍的牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="13f5bcdc-70bb-4d67-99e1-282f166ee4bf" resname="DKA·41 | Increasing Confusion | Card Text | Paragraph 2">
         <source>Flashback {X}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -408,7 +408,7 @@
       </trans-unit>
       <trans-unit id="b3304cab-0dc9-47e4-ac68-00974b64f5a0" resname="DKA·45 | Relentless Skaabs | Card Text | Paragraphs">
         <source>As an additional cost to cast CARDNAME, exile a creature card from your graveyard.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</source>
-        <target state="translated">从你的坟墓场放逐一张生物牌，以作为施放无情尸嵌的额外费用。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
+        <target state="translated">从你的坟墓场放逐一张生物牌，以作为施放CARDNAME的额外费用。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="914837df-c255-4cea-9255-b05f218fd9f8" resname="DKA·46 | Saving Grasp | Card Name">
         <source>Saving Grasp</source>
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="3c40a2c7-df7a-41a6-a49e-5f7db808b810" resname="DKA·47 | Screeching Skaab | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put the top two cards of your library into your graveyard.</source>
-        <target state="translated">当尖鸣尸嵌进战场时，将你牌库顶的两张牌置入你的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，将你牌库顶的两张牌置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="c982d679-581d-43e1-acd0-db77eb0987c2" resname="DKA·48 | Secrets of the Dead | Card Name">
         <source>Secrets of the Dead</source>
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="435c5218-46b3-456a-aedf-d9586a4bd0a3" resname="DKA·49 | Shriekgeist | Card Text | Paragraphs">
         <source>Flying\nWhenever CARDNAME deals combat damage to a player, that player puts the top two cards of his or her library into his or her graveyard.</source>
-        <target state="translated">每当尖鸣游魂对一位牌手造成战斗伤害时，该牌手将其牌库顶的两张牌置入其坟墓场。</target>
+        <target state="translated">每当CARDNAME对一位牌手造成战斗伤害时，该牌手将其牌库顶的两张牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="f500cb95-d5ea-4cf2-920a-f1df45a9059b" resname="DKA·50 | Soul Seizer | Card Name">
         <source>Soul Seizer</source>
@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="f500cb95-d5ea-4cf2-920a-f1df45a9059b" resname="DKA·50 | Soul Seizer | Card Text | Paragraphs">
         <source>Flying\nWhen CARDNAME deals combat damage to a player, you may transform it. If you do, attach it to target creature that player controls.</source>
-        <target state="translated">当卷灵妖对一位牌手造成战斗伤害时，你可以转化它。如果你如此作，将它结附在目标由该牌手操控的生物上。</target>
+        <target state="translated">当CARDNAME对一位牌手造成战斗伤害时，你可以转化它。如果你如此作，将它结附在目标由该牌手操控的生物上。</target>
       </trans-unit>
       <trans-unit id="f500cb95-d5ea-4cf2-920a-f1df45a9059b" resname="DKA·50 | Ghastly Haunting | Card Name">
         <source>Ghastly Haunting</source>
@@ -472,7 +472,7 @@
       </trans-unit>
       <trans-unit id="040eddb0-fca2-41eb-ab07-c48d49385973" resname="DKA·51 | Stormbound Geist | Card Text | Paragraphs">
         <source>Flying\nCARDNAME can block only creatures with flying.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</source>
-        <target state="translated">暴缚游魂只能阻挡具飞行异能的生物。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
+        <target state="translated">CARDNAME只能阻挡具飞行异能的生物。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="88bf1ebb-9d85-4b9b-a614-c7f965c0893d" resname="DKA·52 | Thought Scour | Card Name">
         <source>Thought Scour</source>
@@ -488,7 +488,7 @@
       </trans-unit>
       <trans-unit id="c9e9f552-34b6-43a5-8ef8-9d5208f4cae0" resname="DKA·53 | Tower Geist | Card Text | Paragraphs">
         <source>Flying\nWhen CARDNAME enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.</source>
-        <target state="translated">当塔楼游魂进战场时，检视你牌库顶的两张牌。将其中一张置入你手上，另一张置入你的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，检视你牌库顶的两张牌。将其中一张置入你手上，另一张置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="bb1c6379-69d5-48aa-8d06-257c0592794e" resname="DKA·54 | Black Cat | Card Name">
         <source>Black Cat</source>
@@ -496,7 +496,7 @@
       </trans-unit>
       <trans-unit id="bb1c6379-69d5-48aa-8d06-257c0592794e" resname="DKA·54 | Black Cat | Card Text | Paragraph 1">
         <source>When CARDNAME dies, target opponent discards a card at random.</source>
-        <target state="translated">当黑猫死去时，目标对手随机弃一张牌。</target>
+        <target state="translated">当CARDNAME死去时，目标对手随机弃一张牌。</target>
       </trans-unit>
       <trans-unit id="7c5a3c09-5656-4975-ba03-2d809903ed18" resname="DKA·55 | Chosen of Markov | Card Name">
         <source>Chosen of Markov</source>
@@ -504,7 +504,7 @@
       </trans-unit>
       <trans-unit id="7c5a3c09-5656-4975-ba03-2d809903ed18" resname="DKA·55 | Chosen of Markov | Card Text | Paragraph 1">
         <source>{T}, Tap an untapped Vampire you control: Transform CARDNAME.</source>
-        <target state="translated">{T}，横置一个由你操控且未横置的吸血鬼：转化马可夫的爱民。</target>
+        <target state="translated">{T}，横置一个由你操控且未横置的吸血鬼：转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="7c5a3c09-5656-4975-ba03-2d809903ed18" resname="DKA·55 | Markov's Servant | Card Name">
         <source>Markov's Servant</source>
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="a23ed5d1-44dc-4733-9e01-65fbc5dc02f2" resname="DKA·57 | Curse of Thirst | Card Text | Paragraphs">
         <source>Enchant player\nAt the beginning of enchanted player's upkeep, CARDNAME deals damage to that player equal to the number of Curses attached to him or her.</source>
-        <target state="translated">在所结附之牌手的维持开始时，每有一个诅咒结附于该牌手，干渴诅咒便对该牌手造成1点伤害。</target>
+        <target state="translated">在所结附之牌手的维持开始时，每有一个诅咒结附于该牌手，CARDNAME便对该牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="271bc29e-d33f-4c21-a3ee-b2c6b5c9015e" resname="DKA·58 | Deadly Allure | Card Name">
         <source>Deadly Allure</source>
@@ -552,7 +552,7 @@
       </trans-unit>
       <trans-unit id="5e81d6ed-2141-4177-9ded-680fff65b39e" resname="DKA·60 | Falkenrath Torturer | Card Text | Paragraph 1">
         <source>Sacrifice a creature: CARDNAME gains flying until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">牺牲一个生物：伐肯纳刑吏获得飞行异能直到回合结束。如果牺牲的生物是人类，在伐肯纳刑吏上放置一个+1/+1指示物。</target>
+        <target state="translated">牺牲一个生物：CARDNAME获得飞行异能直到回合结束。如果牺牲的生物是人类，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="98d45316-b44a-4cf6-8cbe-b02fe6545141" resname="DKA·61 | Farbog Boneflinger | Card Name">
         <source>Farbog Boneflinger</source>
@@ -560,7 +560,7 @@
       </trans-unit>
       <trans-unit id="98d45316-b44a-4cf6-8cbe-b02fe6545141" resname="DKA·61 | Farbog Boneflinger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature gets -2/-2 until end of turn.</source>
-        <target state="translated">当远沼掷骨尸进战场时，目标生物得-2/-2直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标生物得-2/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="38167118-f5b3-4e07-8060-b170b49cff9e" resname="DKA·62 | Fiend of the Shadows | Card Name">
         <source>Fiend of the Shadows</source>
@@ -568,7 +568,7 @@
       </trans-unit>
       <trans-unit id="38167118-f5b3-4e07-8060-b170b49cff9e" resname="DKA·62 | Fiend of the Shadows | Card Text | Paragraphs">
         <source>Flying\nWhenever CARDNAME deals combat damage to a player, that player exiles a card from his or her hand. You may play that card for as long as it remains exiled.\nSacrifice a Human: Regenerate CARDNAME.</source>
-        <target state="translated">每当阴影邪鬼向一位牌手造成战斗伤害时，该牌手从其手上放逐一张牌。只要该牌持续被放逐，你便可以使用它。牺牲一个人类：重生阴影邪鬼。</target>
+        <target state="translated">每当CARDNAME向一位牌手造成战斗伤害时，该牌手从其手上放逐一张牌。只要该牌持续被放逐，你便可以使用它。牺牲一个人类：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="bffaad78-97ff-431f-bfb0-e96c7558f974" resname="DKA·63 | Geralf's Messenger | Card Name">
         <source>Geralf's Messenger</source>
@@ -576,7 +576,7 @@
       </trans-unit>
       <trans-unit id="bffaad78-97ff-431f-bfb0-e96c7558f974" resname="DKA·63 | Geralf's Messenger | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\nWhen CARDNAME enters the battlefield, target opponent loses 2 life.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</source>
-        <target state="translated">基拉夫信差须横置进战场。当基拉夫信差进战场时，目标对手失去2点生命。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
+        <target state="translated">CARDNAME须横置进战场。当CARDNAME进战场时，目标对手失去2点生命。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="48d73cb5-22ac-43df-9c4b-0c860bb80b3e" resname="DKA·64 | Gravecrawler | Card Name">
         <source>Gravecrawler</source>
@@ -584,7 +584,7 @@
       </trans-unit>
       <trans-unit id="48d73cb5-22ac-43df-9c4b-0c860bb80b3e" resname="DKA·64 | Gravecrawler | Card Text | Paragraphs">
         <source>CARDNAME can't block.\nYou may cast CARDNAME from your graveyard as long as you control a Zombie.</source>
-        <target state="translated">墓场匍尸不能进行阻挡。只要你操控灵俑，你便可以从你的坟墓场中施放墓场匍尸。</target>
+        <target state="translated">CARDNAME不能进行阻挡。只要你操控灵俑，你便可以从你的坟墓场中施放CARDNAME。</target>
       </trans-unit>
       <trans-unit id="3c0c266b-9ef5-4de2-a358-65739de41491" resname="DKA·65 | Gravepurge | Card Name">
         <source>Gravepurge</source>
@@ -624,7 +624,7 @@
       </trans-unit>
       <trans-unit id="c8f508dc-7c7d-47e8-a4ef-0e8fd99cbd74" resname="DKA·69 | Increasing Ambition | Card Text | Paragraph 1">
         <source>Search your library for a card and put that card into your hand. If CARDNAME was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library.</source>
-        <target state="translated">从你的牌库中搜寻一张牌并置于你手上。如果野心渐增是从坟墓场施放，则改为从你的牌库中搜寻两张牌并置于你手上。然后将你的牌库洗牌。</target>
+        <target state="translated">从你的牌库中搜寻一张牌并置于你手上。如果CARDNAME是从坟墓场施放，则改为从你的牌库中搜寻两张牌并置于你手上。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="c8f508dc-7c7d-47e8-a4ef-0e8fd99cbd74" resname="DKA·69 | Increasing Ambition | Card Text | Paragraph 2">
         <source>Flashback {7}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -652,7 +652,7 @@
       </trans-unit>
       <trans-unit id="6aef77b3-4b38-4902-9f7a-dc18b5bb9da9" resname="DKA·71 | Ravenous Demon | Card Text | Paragraph 1">
         <source>Sacrifice a Human: Transform CARDNAME. Activate this ability only any time you could cast a sorcery.</source>
-        <target state="translated">牺牲一个人类：转化暴食恶魔。你只可以于你能施放法术的时机下起动此异能。</target>
+        <target state="translated">牺牲一个人类：转化CARDNAME。你只可以于你能施放法术的时机下起动此异能。</target>
       </trans-unit>
       <trans-unit id="6aef77b3-4b38-4902-9f7a-dc18b5bb9da9" resname="DKA·71 | Archdemon of Greed | Card Name">
         <source>Archdemon of Greed</source>
@@ -660,7 +660,7 @@
       </trans-unit>
       <trans-unit id="6aef77b3-4b38-4902-9f7a-dc18b5bb9da9" resname="DKA·71 | Archdemon of Greed | Card Text | Paragraphs">
         <source>Flying, trample\nAt the beginning of your upkeep, sacrifice a Human. If you can't, tap CARDNAME and it deals 9 damage to you.</source>
-        <target state="translated">在你的维持开始时，牺牲一个人类。若你无法如此作，则横置贪婪大恶魔且它对你造成9点伤害。</target>
+        <target state="translated">在你的维持开始时，牺牲一个人类。若你无法如此作，则横置CARDNAME且它对你造成9点伤害。</target>
       </trans-unit>
       <trans-unit id="4defdead-19fa-4535-9f71-8808388b0332" resname="DKA·72 | Reap the Seagraf | Card Name">
         <source>Reap the Seagraf</source>
@@ -680,7 +680,7 @@
       </trans-unit>
       <trans-unit id="018bd4ae-cdea-410d-9ce6-6a70f12de966" resname="DKA·73 | Sightless Ghoul | Card Text | Paragraphs">
         <source>CARDNAME can't block.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</source>
-        <target state="translated">盲目食尸鬼不能进行阻挡。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
+        <target state="translated">CARDNAME不能进行阻挡。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="274976b0-2bb5-46e6-b62e-b50d80a77e28" resname="DKA·74 | Skirsdag Flayer | Card Name">
         <source>Skirsdag Flayer</source>
@@ -728,7 +728,7 @@
       </trans-unit>
       <trans-unit id="f533fbfa-42ae-4e27-92a4-9936bcd2a5f4" resname="DKA·79 | Wakedancer | Card Text | Paragraph 1">
         <source>Morbid — When CARDNAME enters the battlefield, if a creature died this turn, put a 2/2 black Zombie creature token onto the battlefield.</source>
-        <target state="translated">丧心～当醒夜舞者进战场时，若本回合有生物死去，将一个2/2黑色灵俑衍生生物放进战场。</target>
+        <target state="translated">丧心～当CARDNAME进战场时，若本回合有生物死去，将一个2/2黑色灵俑衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="fe662a08-a8b1-4f25-b7c0-dca1c7ad7271" resname="DKA·80 | Zombie Apocalypse | Card Name">
         <source>Zombie Apocalypse</source>
@@ -744,7 +744,7 @@
       </trans-unit>
       <trans-unit id="a2c044c0-3625-4bdf-9445-b462394cecae" resname="DKA·81 | Afflicted Deserter | Card Text | Paragraph 1">
         <source>At the beginning of each upkeep, if no spells were cast last turn, transform CARDNAME.</source>
-        <target state="translated">在每个维持开始时，若上回合没有任一咒语施放过，转化受苦逃亡者。</target>
+        <target state="translated">在每个维持开始时，若上回合没有任一咒语施放过，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="a2c044c0-3625-4bdf-9445-b462394cecae" resname="DKA·81 | Werewolf Ransacker | Card Name">
         <source>Werewolf Ransacker</source>
@@ -752,7 +752,7 @@
       </trans-unit>
       <trans-unit id="a2c044c0-3625-4bdf-9445-b462394cecae" resname="DKA·81 | Werewolf Ransacker | Card Text | Paragraphs">
         <source>Whenever this creature transforms into CARDNAME, you may destroy target artifact. If that artifact is put into a graveyard this way, CARDNAME deals 3 damage to that artifact's controller.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform CARDNAME.</source>
-        <target state="translated">每当此生物转化为搜括狼人时，你可以消灭目标神器。如果该神器以此法置入坟墓场，则搜括狼人对该神器的操控者造成3点伤害。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化搜括狼人。</target>
+        <target state="translated">每当此生物转化为CARDNAME时，你可以消灭目标神器。如果该神器以此法置入坟墓场，则CARDNAME对该神器的操控者造成3点伤害。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="e2ec168a-3e4f-4527-901a-bc28cc28d125" resname="DKA·82 | Alpha Brawl | Card Name">
         <source>Alpha Brawl</source>
@@ -776,7 +776,7 @@
       </trans-unit>
       <trans-unit id="47773da8-afe4-43e1-8355-6ab51451ee00" resname="DKA·84 | Burning Oil | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target attacking or blocking creature.</source>
-        <target state="translated">燃烧油对目标进行攻击或阻挡的生物造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标进行攻击或阻挡的生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="47773da8-afe4-43e1-8355-6ab51451ee00" resname="DKA·84 | Burning Oil | Card Text | Paragraph 2">
         <source>Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -796,7 +796,7 @@
       </trans-unit>
       <trans-unit id="769ea5e9-6d05-4bc6-8f14-00eb2532c8b5" resname="DKA·86 | Erdwal Ripper | Card Text | Paragraphs">
         <source>Haste\nWhenever CARDNAME deals combat damage to a player, put a +1/+1 counter on it.</source>
-        <target state="translated">每当尔卓道夺魂客对一位牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对一位牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="a1b0da17-d595-441d-811c-a2d28d2bb232" resname="DKA·87 | Faithless Looting | Card Name">
         <source>Faithless Looting</source>
@@ -816,7 +816,7 @@
       </trans-unit>
       <trans-unit id="6d94aaa4-c2fd-4714-9198-8415158b9c4d" resname="DKA·88 | Fires of Undeath | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">未死火焰对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="6d94aaa4-c2fd-4714-9198-8415158b9c4d" resname="DKA·88 | Fires of Undeath | Card Text | Paragraph 2">
         <source>Flashback {5}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -828,7 +828,7 @@
       </trans-unit>
       <trans-unit id="ffb17c3f-0154-49ee-bb5f-cd1df8546871" resname="DKA·89 | Flayer of the Hatebound | Card Text | Paragraphs">
         <source>Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)\nWhenever CARDNAME or another creature enters the battlefield from your graveyard, that creature deals damage equal to its power to target creature or player.</source>
-        <target state="translated">不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）每当怀恨劫掠者或另一个生物从你的坟墓场进战场时，该生物对目标生物或牌手造成伤害，其数量等同于前者的力量。</target>
+        <target state="translated">不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）每当CARDNAME或另一个生物从你的坟墓场进战场时，该生物对目标生物或牌手造成伤害，其数量等同于前者的力量。</target>
       </trans-unit>
       <trans-unit id="cf1ab466-44bb-45d5-a94f-21b8924f0d89" resname="DKA·90 | Fling | Card Name">
         <source>Fling</source>
@@ -836,7 +836,7 @@
       </trans-unit>
       <trans-unit id="cf1ab466-44bb-45d5-a94f-21b8924f0d89" resname="DKA·90 | Fling | Card Text | Paragraphs">
         <source>As an additional cost to cast CARDNAME, sacrifice a creature.\nCARDNAME deals damage equal to the sacrificed creature's power to target creature or player.</source>
-        <target state="translated">牺牲一个生物，以作为施放投掷的额外费用。投掷对目标生物或牌手造成伤害，其数量等同于所牺牲生物的力量。</target>
+        <target state="translated">牺牲一个生物，以作为施放CARDNAME的额外费用。CARDNAME对目标生物或牌手造成伤害，其数量等同于所牺牲生物的力量。</target>
       </trans-unit>
       <trans-unit id="63b565a5-d706-47b4-bfa2-deebcc0e2e60" resname="DKA·91 | Forge Devil | Card Name">
         <source>Forge Devil</source>
@@ -844,7 +844,7 @@
       </trans-unit>
       <trans-unit id="63b565a5-d706-47b4-bfa2-deebcc0e2e60" resname="DKA·91 | Forge Devil | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 1 damage to target creature and 1 damage to you.</source>
-        <target state="translated">当锻炉魔鬼进战场时，它对目标生物造成1点伤害，且对你造成1点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它对目标生物造成1点伤害，且对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="e9fd8895-9282-44d3-969f-b0529eb3bc07" resname="DKA·92 | Heckling Fiends | Card Name">
         <source>Heckling Fiends</source>
@@ -860,7 +860,7 @@
       </trans-unit>
       <trans-unit id="0ec8d800-7f06-44e0-b22d-cdff0a9b153d" resname="DKA·93 | Hellrider | Card Text | Paragraphs">
         <source>Haste\nWhenever a creature you control attacks, CARDNAME deals 1 damage to defending player.</source>
-        <target state="translated">每当一个由你操控的生物攻击时，地狱骑士对防御牌手造成1点伤害。</target>
+        <target state="translated">每当一个由你操控的生物攻击时，CARDNAME对防御牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="b6edac85-78e7-4e90-b538-b67c88bb5c62" resname="DKA·94 | Hinterland Hermit | Card Name">
         <source>Hinterland Hermit</source>
@@ -868,7 +868,7 @@
       </trans-unit>
       <trans-unit id="b6edac85-78e7-4e90-b538-b67c88bb5c62" resname="DKA·94 | Hinterland Hermit | Card Text | Paragraph 1">
         <source>At the beginning of each upkeep, if no spells were cast last turn, transform CARDNAME.</source>
-        <target state="translated">在每个维持开始时，若上回合没有任一咒语施放过，转化内陆隐者。</target>
+        <target state="translated">在每个维持开始时，若上回合没有任一咒语施放过，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b6edac85-78e7-4e90-b538-b67c88bb5c62" resname="DKA·94 | Hinterland Scourge | Card Name">
         <source>Hinterland Scourge</source>
@@ -876,7 +876,7 @@
       </trans-unit>
       <trans-unit id="b6edac85-78e7-4e90-b538-b67c88bb5c62" resname="DKA·94 | Hinterland Scourge | Card Text | Paragraphs">
         <source>CARDNAME must be blocked if able.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform CARDNAME.</source>
-        <target state="translated">若能阻挡内陆祸害，则必须阻挡之。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化内陆祸害。</target>
+        <target state="translated">若能阻挡CARDNAME，则必须阻挡之。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="d13afe4a-4a3d-42ae-ac0a-b789364c7e7e" resname="DKA·95 | Increasing Vengeance | Card Name">
         <source>Increasing Vengeance</source>
@@ -884,7 +884,7 @@
       </trans-unit>
       <trans-unit id="d13afe4a-4a3d-42ae-ac0a-b789364c7e7e" resname="DKA·95 | Increasing Vengeance | Card Text | Paragraph 1">
         <source>Copy target instant or sorcery spell you control. If CARDNAME was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.</source>
-        <target state="translated">复制目标由你操控的瞬间或法术咒语。如果报复渐增是从坟墓场施放，则改为将该咒语复制两次。你可以为每个复制品选择新的目标。</target>
+        <target state="translated">复制目标由你操控的瞬间或法术咒语。如果CARDNAME是从坟墓场施放，则改为将该咒语复制两次。你可以为每个复制品选择新的目标。</target>
       </trans-unit>
       <trans-unit id="d13afe4a-4a3d-42ae-ac0a-b789364c7e7e" resname="DKA·95 | Increasing Vengeance | Card Text | Paragraph 2">
         <source>Flashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -896,7 +896,7 @@
       </trans-unit>
       <trans-unit id="122163dd-e070-48af-8036-e9850541d138" resname="DKA·96 | Markov Blademaster | Card Text | Paragraphs">
         <source>Double strike\nWhenever CARDNAME deals combat damage to a player, put a +1/+1 counter on it.</source>
-        <target state="translated">每当马可夫大剑师对一位牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对一位牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="5035276f-31b9-4dd3-9ec8-42a664bdbd5c" resname="DKA·97 | Markov Warlord | Card Name">
         <source>Markov Warlord</source>
@@ -904,7 +904,7 @@
       </trans-unit>
       <trans-unit id="5035276f-31b9-4dd3-9ec8-42a664bdbd5c" resname="DKA·97 | Markov Warlord | Card Text | Paragraphs">
         <source>Haste\nWhen CARDNAME enters the battlefield, up to two target creatures can't block this turn.</source>
-        <target state="translated">当马可夫军头进战场时，至多两个目标生物本回合不能进行阻挡。</target>
+        <target state="translated">当CARDNAME进战场时，至多两个目标生物本回合不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="b150d71f-11c9-40d6-a461-4967ef437315" resname="DKA·98 | Mondronen Shaman | Card Name">
         <source>Mondronen Shaman</source>
@@ -912,7 +912,7 @@
       </trans-unit>
       <trans-unit id="b150d71f-11c9-40d6-a461-4967ef437315" resname="DKA·98 | Mondronen Shaman | Card Text | Paragraph 1">
         <source>At the beginning of each upkeep, if no spells were cast last turn, transform CARDNAME.</source>
-        <target state="translated">在每个维持开始时，若上回合没有任一咒语施放过，转化蒙卓祭师。</target>
+        <target state="translated">在每个维持开始时，若上回合没有任一咒语施放过，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b150d71f-11c9-40d6-a461-4967ef437315" resname="DKA·98 | Tovolar's Magehunter | Card Name">
         <source>Tovolar's Magehunter</source>
@@ -920,7 +920,7 @@
       </trans-unit>
       <trans-unit id="b150d71f-11c9-40d6-a461-4967ef437315" resname="DKA·98 | Tovolar's Magehunter | Card Text | Paragraphs">
         <source>Whenever an opponent casts a spell, CARDNAME deals 2 damage to that player.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform CARDNAME.</source>
-        <target state="translated">每当某对手施放一个咒语时，托瓦拉法师猎手对该牌手造成2点伤害。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化托瓦拉法师猎手。</target>
+        <target state="translated">每当某对手施放一个咒语时，CARDNAME对该牌手造成2点伤害。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="92503118-b37b-4c52-b40a-487f6ad695ef" resname="DKA·99 | Moonveil Dragon | Card Name">
         <source>Moonveil Dragon</source>
@@ -944,7 +944,7 @@
       </trans-unit>
       <trans-unit id="9722f20c-e0d9-4165-8cd5-4abadc5378eb" resname="DKA·101 | Pyreheart Wolf | Card Text | Paragraphs">
         <source>Whenever CARDNAME attacks, each creature you control can't be blocked this turn except by two or more creatures.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)</source>
-        <target state="translated">每当葬火心狼攻击时，每个由你操控的生物本回合只能被两个或更多生物阻挡。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
+        <target state="translated">每当CARDNAME攻击时，每个由你操控的生物本回合只能被两个或更多生物阻挡。不息（当此生物死去时，若其上没有+1/+1指示物，则将它在其拥有者的操控下返回战场，且其上有一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="b3c7c972-5a11-4709-b3ef-e2acb3b51dd9" resname="DKA·102 | Russet Wolves | Card Name">
         <source>Russet Wolves</source>
@@ -956,7 +956,7 @@
       </trans-unit>
       <trans-unit id="05c4338d-e5c0-46b4-ab16-1f9aa97b4026" resname="DKA·103 | Scorch the Fields | Card Text | Paragraph 1">
         <source>Destroy target land. CARDNAME deals 1 damage to each Human creature.</source>
-        <target state="translated">消灭目标地。火焚原野对每个人类生物各造成1点伤害。</target>
+        <target state="translated">消灭目标地。CARDNAME对每个人类生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="0f5223b4-e0d1-4fc6-a363-ebcdfeee56d1" resname="DKA·104 | Shattered Perception | Card Name">
         <source>Shattered Perception</source>
@@ -984,7 +984,7 @@
       </trans-unit>
       <trans-unit id="d596feee-6ccc-4648-884b-ed2eeb1cffc0" resname="DKA·106 | Torch Fiend | Card Text | Paragraph 1">
         <source>{R}, Sacrifice CARDNAME: Destroy target artifact.</source>
-        <target state="translated">{R}，牺牲火炬邪鬼：消灭目标神器。</target>
+        <target state="translated">{R}，牺牲CARDNAME：消灭目标神器。</target>
       </trans-unit>
       <trans-unit id="4f27ee20-b5c5-4867-b832-9cdade0eda03" resname="DKA·107 | Wrack with Madness | Card Name">
         <source>Wrack with Madness</source>
@@ -1000,7 +1000,7 @@
       </trans-unit>
       <trans-unit id="a052e945-7535-4b0a-b580-cf76377633f3" resname="DKA·108 | Briarpack Alpha | Card Text | Paragraphs">
         <source>Flash (You may cast this spell any time you could cast an instant.)\nWhen CARDNAME enters the battlefield, target creature gets +2/+2 until end of turn.</source>
-        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）当荆群首领进战场时，目标生物得+2/+2直到回合结束。</target>
+        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）当CARDNAME进战场时，目标生物得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="e0152975-790a-40e4-993e-a970676a2d32" resname="DKA·109 | Clinging Mists | Card Name">
         <source>Clinging Mists</source>
@@ -1024,7 +1024,7 @@
       </trans-unit>
       <trans-unit id="127c969b-1c9a-4265-af0e-5b9dbe136064" resname="DKA·111 | Dawntreader Elk | Card Text | Paragraph 1">
         <source>{G}, Sacrifice CARDNAME: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.</source>
-        <target state="translated">{G}，牺牲晨行麋鹿：从你的牌库中搜寻一张基本地牌，将之横置进战场，然后将你的牌库洗牌。</target>
+        <target state="translated">{G}，牺牲CARDNAME：从你的牌库中搜寻一张基本地牌，将之横置进战场，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="e2b35fee-8e24-4d89-ad77-d55d06bb1d7f" resname="DKA·112 | Deranged Outcast | Card Name">
         <source>Deranged Outcast</source>
@@ -1056,7 +1056,7 @@
       </trans-unit>
       <trans-unit id="a413c65e-5965-429b-8c25-11f8b73cba03" resname="DKA·115 | Ghoultree | Card Text | Paragraph 1">
         <source>CARDNAME costs {1} less to cast for each creature card in your graveyard.</source>
-        <target state="translated">你坟墓场中每有一张生物牌，食尸树便减少{1}来施放。</target>
+        <target state="translated">你坟墓场中每有一张生物牌，CARDNAME便减少{1}来施放。</target>
       </trans-unit>
       <trans-unit id="66d9fe36-2eac-49e3-8f89-810009ba8a4b" resname="DKA·116 | Gravetiller Wurm | Card Name">
         <source>Gravetiller Wurm</source>
@@ -1064,7 +1064,7 @@
       </trans-unit>
       <trans-unit id="66d9fe36-2eac-49e3-8f89-810009ba8a4b" resname="DKA·116 | Gravetiller Wurm | Card Text | Paragraphs">
         <source>Trample\nMorbid — CARDNAME enters the battlefield with four +1/+1 counters on it if a creature died this turn.</source>
-        <target state="translated">丧心～如果本回合有生物死去，翻坟亚龙进战场时上面有四个+1/+1指示物。</target>
+        <target state="translated">丧心～如果本回合有生物死去，CARDNAME进战场时上面有四个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="e5f3e2ad-7a04-4735-ba73-576e32249ba3" resname="DKA·117 | Grim Flowering | Card Name">
         <source>Grim Flowering</source>
@@ -1092,7 +1092,7 @@
       </trans-unit>
       <trans-unit id="29ab8737-151f-4702-a95d-7f7b60a5ee8a" resname="DKA·120 | Increasing Savagery | Card Text | Paragraph 1">
         <source>Put five +1/+1 counters on target creature. If CARDNAME was cast from a graveyard, put ten +1/+1 counters on that creature instead.</source>
-        <target state="translated">在目标生物上放置五个+1/+1指示物。如果残暴渐增是从坟墓场施放，则改为在该生物上放置十个+1/+1指示物。</target>
+        <target state="translated">在目标生物上放置五个+1/+1指示物。如果CARDNAME是从坟墓场施放，则改为在该生物上放置十个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="29ab8737-151f-4702-a95d-7f7b60a5ee8a" resname="DKA·120 | Increasing Savagery | Card Text | Paragraph 2">
         <source>Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -1116,7 +1116,7 @@
       </trans-unit>
       <trans-unit id="932d753d-9584-4ad8-9a5e-a3524184f961" resname="DKA·122 | Lambholt Elder | Card Text | Paragraph 1">
         <source>At the beginning of each upkeep, if no spells were cast last turn, transform CARDNAME.</source>
-        <target state="translated">在每个维持开始时，若上回合没有任一咒语施放过，转化羊屯长老。</target>
+        <target state="translated">在每个维持开始时，若上回合没有任一咒语施放过，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="932d753d-9584-4ad8-9a5e-a3524184f961" resname="DKA·122 | Silverpelt Werewolf | Card Name">
         <source>Silverpelt Werewolf</source>
@@ -1124,7 +1124,7 @@
       </trans-unit>
       <trans-unit id="932d753d-9584-4ad8-9a5e-a3524184f961" resname="DKA·122 | Silverpelt Werewolf | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals combat damage to a player, draw a card.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform CARDNAME.</source>
-        <target state="translated">每当银白狼人向一位牌手造成战斗伤害时，抓一张牌。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化银白狼人。</target>
+        <target state="translated">每当CARDNAME向一位牌手造成战斗伤害时，抓一张牌。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="5865603c-0a5e-45c3-84e3-2dc3b4cf0cf7" resname="DKA·123 | Lost in the Woods | Card Name">
         <source>Lost in the Woods</source>
@@ -1140,7 +1140,7 @@
       </trans-unit>
       <trans-unit id="73c71457-f7c9-4ab4-b89d-e235e3f15e16" resname="DKA·124 | Predator Ooze | Card Text | Paragraphs">
         <source>CARDNAME is indestructible.\nWhenever CARDNAME attacks, put a +1/+1 counter on it.\nWhenever a creature dealt damage by CARDNAME this turn dies, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">掠食流浆不会毁坏。每当掠食流浆攻击时，在其上放置一个+1/+1指示物。每当本回合中曾受到掠食流浆伤害的生物死去时，在掠食流浆上放置一个+1/+1指示物。</target>
+        <target state="translated">CARDNAME不会毁坏。每当CARDNAME攻击时，在其上放置一个+1/+1指示物。每当本回合中曾受到CARDNAME伤害的生物死去时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="6f35e364-81d9-4888-993b-acc7a53d963c" resname="DKA·125 | Scorned Villager | Card Name">
         <source>Scorned Villager</source>
@@ -1148,7 +1148,7 @@
       </trans-unit>
       <trans-unit id="6f35e364-81d9-4888-993b-acc7a53d963c" resname="DKA·125 | Scorned Villager | Card Text | Paragraphs">
         <source>{T}: Add {G} to your mana pool.\nAt the beginning of each upkeep, if no spells were cast last turn, transform CARDNAME.</source>
-        <target state="translated">{T}：加{G}到你的法术力池中。在每个维持开始时，若上回合没有任一咒语施放过，转化遭蔑村民。</target>
+        <target state="translated">{T}：加{G}到你的法术力池中。在每个维持开始时，若上回合没有任一咒语施放过，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="6f35e364-81d9-4888-993b-acc7a53d963c" resname="DKA·125 | Moonscarred Werewolf | Card Name">
         <source>Moonscarred Werewolf</source>
@@ -1156,7 +1156,7 @@
       </trans-unit>
       <trans-unit id="6f35e364-81d9-4888-993b-acc7a53d963c" resname="DKA·125 | Moonscarred Werewolf | Card Text | Paragraphs">
         <source>Vigilance\n{T}: Add {G}{G} to your mana pool.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform CARDNAME.</source>
-        <target state="translated">{T}：加{G}{G}到你的法术力池中。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化月疤狼人。</target>
+        <target state="translated">{T}：加{G}{G}到你的法术力池中。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="307edca0-769d-4071-9654-3537341e96bd" resname="DKA·126 | Somberwald Dryad | Card Name">
         <source>Somberwald Dryad</source>
@@ -1192,7 +1192,7 @@
       </trans-unit>
       <trans-unit id="9e3837a7-854a-440d-93d7-d36f50149346" resname="DKA·129 | Ulvenwald Bear | Card Text | Paragraph 1">
         <source>Morbid — When CARDNAME enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature.</source>
-        <target state="translated">丧心～当沃文森熊进战场时，若本回合有生物死去，在目标生物上放置两个+1/+1指示物。</target>
+        <target state="translated">丧心～当CARDNAME进战场时，若本回合有生物死去，在目标生物上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="13c0e852-9966-4145-b7c3-ac957f729376" resname="DKA·130 | Village Survivors | Card Name">
         <source>Village Survivors</source>
@@ -1232,7 +1232,7 @@
       </trans-unit>
       <trans-unit id="1303e02a-ef69-4817-bca5-02c74774b811" resname="DKA·133 | Wolfbitten Captive | Card Text | Paragraphs">
         <source>{1}{G}: CARDNAME gets +2/+2 until end of turn. Activate this ability only once each turn.\nAt the beginning of each upkeep, if no spells were cast last turn, transform CARDNAME.</source>
-        <target state="translated">{1}{G}：狼吻囚人得+2/+2直到回合结束。此异能每回合中只能起动一次。在每个维持开始时，若上回合没有任一咒语施放过，转化狼吻囚人。</target>
+        <target state="translated">{1}{G}：CARDNAME得+2/+2直到回合结束。此异能每回合中只能起动一次。在每个维持开始时，若上回合没有任一咒语施放过，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="1303e02a-ef69-4817-bca5-02c74774b811" resname="DKA·133 | Krallenhorde Killer | Card Name">
         <source>Krallenhorde Killer</source>
@@ -1240,7 +1240,7 @@
       </trans-unit>
       <trans-unit id="1303e02a-ef69-4817-bca5-02c74774b811" resname="DKA·133 | Krallenhorde Killer | Card Text | Paragraphs">
         <source>{3}{G}: CARDNAME gets +4/+4 until end of turn. Activate this ability only once each turn.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform CARDNAME.</source>
-        <target state="translated">{3}{G}：展爪杀手得+4/+4直到回合结束。此异能每回合中只能起动一次。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化展爪杀手。</target>
+        <target state="translated">{3}{G}：CARDNAME得+4/+4直到回合结束。此异能每回合中只能起动一次。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="0c39aa40-ef5f-40f1-a6dd-fbce91172c50" resname="DKA·134 | Young Wolf | Card Name">
         <source>Young Wolf</source>
@@ -1296,7 +1296,7 @@
       </trans-unit>
       <trans-unit id="321077a4-e468-4e74-94f7-80c83790e0d9" resname="DKA·139 | Havengul Lich | Card Text | Paragraph 1">
         <source>{1}: You may cast target creature card in a graveyard this turn. When you cast that card this turn, CARDNAME gains all activated abilities of that card until end of turn.</source>
-        <target state="translated">{1}：你本回合可以从任一坟墓场施放目标生物牌。当你本回合施放该牌时，海温古巫妖获得该牌的所有起动式异能直到回合结束。</target>
+        <target state="translated">{1}：你本回合可以从任一坟墓场施放目标生物牌。当你本回合施放该牌时，CARDNAME获得该牌的所有起动式异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="aae6fb12-b252-453b-bca7-1ea2a0d6c8dc" resname="DKA·140 | Huntmaster of the Fells | Card Name">
         <source>Huntmaster of the Fells</source>
@@ -1304,7 +1304,7 @@
       </trans-unit>
       <trans-unit id="aae6fb12-b252-453b-bca7-1ea2a0d6c8dc" resname="DKA·140 | Huntmaster of the Fells | Card Text | Paragraphs">
         <source>Whenever this creature enters the battlefield or transforms into CARDNAME, put a 2/2 green Wolf creature token onto the battlefield and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform CARDNAME.</source>
-        <target state="translated">每当此生物进战场或转化为堕者猎师时，将一个2/2绿色狼衍生生物放进战场，且你获得2点生命。在每个维持开始时，若上回合没有任一咒语施放过，转化堕者猎师。</target>
+        <target state="translated">每当此生物进战场或转化为CARDNAME时，将一个2/2绿色狼衍生生物放进战场，且你获得2点生命。在每个维持开始时，若上回合没有任一咒语施放过，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="aae6fb12-b252-453b-bca7-1ea2a0d6c8dc" resname="DKA·140 | Ravager of the Fells | Card Name">
         <source>Ravager of the Fells</source>
@@ -1312,7 +1312,7 @@
       </trans-unit>
       <trans-unit id="aae6fb12-b252-453b-bca7-1ea2a0d6c8dc" resname="DKA·140 | Ravager of the Fells | Card Text | Paragraphs">
         <source>Trample\nWhenever this creature transforms into CARDNAME, it deals 2 damage to target opponent and 2 damage to up to one target creature that player controls.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform CARDNAME.</source>
-        <target state="translated">每当此生物转化为堕者噬兽时，它向目标对手造成2点伤害，并对至多一个目标由该牌手操控的生物造成2点伤害。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化堕者噬兽。</target>
+        <target state="translated">每当此生物转化为CARDNAME时，它向目标对手造成2点伤害，并对至多一个目标由该牌手操控的生物造成2点伤害。在每个维持开始时，若某牌手上回合施放了两个或更多咒语，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="9326061f-ea76-4be7-a06f-aefb63454777" resname="DKA·141 | Immerwolf | Card Name">
         <source>Immerwolf</source>
@@ -1344,7 +1344,7 @@
       </trans-unit>
       <trans-unit id="774e5322-1b41-488d-94b1-7742fbd983d4" resname="DKA·144 | Altar of the Lost | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\n{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast spells with flashback from a graveyard.</source>
-        <target state="translated">逝者祭坛须横置进战场。{T}：加两点法术力到你的法术力池中，其颜色组合由你选择。此法术力只能用来从坟墓场中施放具返照的咒语。</target>
+        <target state="translated">CARDNAME须横置进战场。{T}：加两点法术力到你的法术力池中，其颜色组合由你选择。此法术力只能用来从坟墓场中施放具返照的咒语。</target>
       </trans-unit>
       <trans-unit id="972e9a78-204b-4012-b394-b40fd0edac4c" resname="DKA·145 | Avacyn's Collar | Card Name">
         <source>Avacyn's Collar</source>
@@ -1360,7 +1360,7 @@
       </trans-unit>
       <trans-unit id="9d9c1c46-7aa7-464c-87b0-b29b9663daef" resname="DKA·146 | Chalice of Life | Card Text | Paragraph 1">
         <source>{T}: You gain 1 life. Then if you have at least 10 life more than your starting life total, transform CARDNAME.</source>
-        <target state="translated">{T}：你获得1点生命。然后如果你的总生命比你的起始总生命至少多10点，转化生命圣杯。</target>
+        <target state="translated">{T}：你获得1点生命。然后如果你的总生命比你的起始总生命至少多10点，转化CARDNAME。</target>
       </trans-unit>
       <trans-unit id="9d9c1c46-7aa7-464c-87b0-b29b9663daef" resname="DKA·146 | Chalice of Death | Card Name">
         <source>Chalice of Death</source>
@@ -1376,7 +1376,7 @@
       </trans-unit>
       <trans-unit id="683af377-c491-4f62-900c-6b83d75c33c9" resname="DKA·147 | Elbrus, the Binding Blade | Card Text | Paragraphs">
         <source>Equipped creature gets +1/+0.\nWhen equipped creature deals combat damage to a player, unattach CARDNAME, then transform it.\nEquip {1}</source>
-        <target state="translated">佩带此武具的生物得+1/+0。当佩带此武具的生物对一位牌手造成战斗伤害时，将镇魔刃埃布斯卸装，然后转化它。佩带{1}</target>
+        <target state="translated">佩带此武具的生物得+1/+0。当佩带此武具的生物对一位牌手造成战斗伤害时，将CARDNAME卸装，然后转化它。佩带{1}</target>
       </trans-unit>
       <trans-unit id="683af377-c491-4f62-900c-6b83d75c33c9" resname="DKA·147 | Withengar Unbound | Card Name">
         <source>Withengar Unbound</source>
@@ -1384,7 +1384,7 @@
       </trans-unit>
       <trans-unit id="683af377-c491-4f62-900c-6b83d75c33c9" resname="DKA·147 | Withengar Unbound | Card Text | Paragraphs">
         <source>Flying, intimidate, trample\nWhenever a player loses the game, put thirteen +1/+1 counters on CARDNAME.</source>
-        <target state="translated">每当一位牌手输掉这盘游戏时，在解缚威森格上放置十三个+1/+1指示物。</target>
+        <target state="translated">每当一位牌手输掉这盘游戏时，在CARDNAME上放置十三个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="7447d115-9b29-4086-8435-40c7c957f242" resname="DKA·148 | Executioner's Hood | Card Name">
         <source>Executioner's Hood</source>
@@ -1420,7 +1420,7 @@
       </trans-unit>
       <trans-unit id="16d2448c-1b2e-466a-a0ab-e20ba1de6bc9" resname="DKA·151 | Helvault | Card Text | Paragraphs">
         <source>{1}, {T}: Exile target creature you control.\n{7}, {T}: Exile target creature you don't control.\nWhen CARDNAME is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.</source>
-        <target state="translated">{1}，{T}：放逐目标由你操控的生物。{7}，{T}：放逐目标不由你操控的生物。当狱窖从战场进入坟墓场时，将所有被它放逐的牌各在其拥有者之操控下移回战场。</target>
+        <target state="translated">{1}，{T}：放逐目标由你操控的生物。{7}，{T}：放逐目标不由你操控的生物。当CARDNAME从战场进入坟墓场时，将所有被它放逐的牌各在其拥有者之操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="72825270-d5c1-4ab1-903a-e2868ade17f2" resname="DKA·152 | Jar of Eyeballs | Card Name">
         <source>Jar of Eyeballs</source>
@@ -1428,7 +1428,7 @@
       </trans-unit>
       <trans-unit id="72825270-d5c1-4ab1-903a-e2868ade17f2" resname="DKA·152 | Jar of Eyeballs | Card Text | Paragraphs">
         <source>Whenever a creature you control dies, put two eyeball counters on CARDNAME.\n{3}, {T}, Remove all eyeball counters from CARDNAME: Look at the top X cards of your library, where X is the number of eyeball counters removed this way. Put one of them into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">每当一个由你操控的生物死去时，在眼珠瓶上放置两个眼珠指示物。{3}，{T}，移除眼珠瓶上所有的眼珠指示物：检视你牌库顶的X张牌，X为以此法移去的眼珠指示物数量。将其中一张置于你手上，其余的牌则以任意顺序置于你的牌库底。</target>
+        <target state="translated">每当一个由你操控的生物死去时，在CARDNAME上放置两个眼珠指示物。{3}，{T}，移除CARDNAME上所有的眼珠指示物：检视你牌库顶的X张牌，X为以此法移去的眼珠指示物数量。将其中一张置于你手上，其余的牌则以任意顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="fd1a1f48-d46b-4b8e-a642-fc70fd9ef7df" resname="DKA·153 | Warden of the Wall | Card Name">
         <source>Warden of the Wall</source>
@@ -1436,7 +1436,7 @@
       </trans-unit>
       <trans-unit id="fd1a1f48-d46b-4b8e-a642-fc70fd9ef7df" resname="DKA·153 | Warden of the Wall | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\n{T}: Add {1} to your mana pool.\nAs long as it's not your turn, CARDNAME is a 2/3 Gargoyle artifact creature with flying.</source>
-        <target state="translated">墙顶护卫须横置进战场。{T}：加{1}到你的法术力池中。只要不是在你的回合中，墙顶护卫为2/3，具飞行异能的石像鬼神器生物。</target>
+        <target state="translated">CARDNAME须横置进战场。{T}：加{1}到你的法术力池中。只要不是在你的回合中，CARDNAME为2/3，具飞行异能的石像鬼神器生物。</target>
       </trans-unit>
       <trans-unit id="d84c9b19-9b4d-4a60-984f-636b749c8bcc" resname="DKA·154 | Wolfhunter's Quiver | Card Name">
         <source>Wolfhunter's Quiver</source>
@@ -1452,7 +1452,7 @@
       </trans-unit>
       <trans-unit id="30066306-f943-44c1-8814-b8b60388c26d" resname="DKA·155 | Evolving Wilds | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</source>
-        <target state="translated">{T}，牺牲成形野地：从你的牌库中搜寻一张基本地牌，并将之横置进战场。然后将你的牌库洗牌。</target>
+        <target state="translated">{T}，牺牲CARDNAME：从你的牌库中搜寻一张基本地牌，并将之横置进战场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="045abeeb-f5e5-4f3f-9836-5b1553e03f11" resname="DKA·156 | Grim Backwoods | Card Name">
         <source>Grim Backwoods</source>
@@ -1468,7 +1468,7 @@
       </trans-unit>
       <trans-unit id="84bca9e1-c0b7-4dce-9ee4-370db2c322b6" resname="DKA·157 | Haunted Fengraf | Card Text | Paragraphs">
         <source>{T}: Add {1} to your mana pool.\n{3}, {T}, Sacrifice CARDNAME: Return a creature card at random from your graveyard to your hand.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。{3}，{T}，牺牲闹鬼沼墓：随机将一张生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。{3}，{T}，牺牲CARDNAME：随机将一张生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="35a65437-430a-42ef-854f-6e66f8e1a04a" resname="DKA·158 | Vault of the Archangel | Card Name">
         <source>Vault of the Archangel</source>

@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="25564fba-5765-457b-8dd3-f26b877221b8" resname="CLB·1 | Faceless One | Card Text | Paragraph 1">
         <source>If CARDNAME is your commander, choose a color before the game begins. CARDNAME is the chosen color.</source>
-        <target state="translated">如果无面者是你的指挥官，则在游戏开始前选择一种颜色。无面者是该色。</target>
+        <target state="translated">如果CARDNAME是你的指挥官，则在游戏开始前选择一种颜色。CARDNAME是该色。</target>
       </trans-unit>
       <trans-unit id="25564fba-5765-457b-8dd3-f26b877221b8" resname="CLB·1 | Faceless One | Card Text | Paragraph 2">
         <source>Choose a Background (You can have a Background as a second commander.)</source>
@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit id="396f9198-67b6-45d8-91b4-dc853bff9623" resname="CLB·2 | Abdel Adrian, Gorion's Ward | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile any number of other nonland permanents you control until Abdel Adrian leaves the battlefield. Create a 1/1 white Soldier creature token for each permanent exiled this way.</source>
-        <target state="translated">当葛力安养子阿波戴尔亚德恩进战场时，放逐任意数量由你操控的其他非地永久物，直到阿波戴尔亚德恩离开战场为止。每以此法放逐一个永久物，便派出一个1/1白色士兵衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，放逐任意数量由你操控的其他非地永久物，直到阿波戴尔亚德恩离开战场为止。每以此法放逐一个永久物，便派出一个1/1白色士兵衍生生物。</target>
       </trans-unit>
       <trans-unit id="396f9198-67b6-45d8-91b4-dc853bff9623" resname="CLB·2 | Abdel Adrian, Gorion's Ward | Card Text | Paragraph 2">
         <source>Choose a Background (You can have a Background as a second commander.)</source>
@@ -36,7 +36,7 @@
       </trans-unit>
       <trans-unit id="421395b1-2694-42fd-bb90-0007e78adefc" resname="CLB·3 | Ancient Gold Dragon | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, roll a d20. You create a number of 1/1 blue Faerie Dragon creature tokens with flying equal to the result.</source>
-        <target state="translated">每当远古金龙对任一牌手造成战斗伤害时，掷一颗d20。你派出若干1/1蓝色，具飞行异能的仙灵／龙衍生生物，其数量等同于掷骰结果。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，掷一颗d20。你派出若干1/1蓝色，具飞行异能的仙灵／龙衍生生物，其数量等同于掷骰结果。</target>
       </trans-unit>
       <trans-unit id="f6589e02-8c84-4069-88d1-ebcc8520cae1" resname="CLB·4 | Archivist of Oghma | Card Name">
         <source>Archivist of Oghma</source>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="6b26c05b-f166-40ab-9693-2129b4bf75e9" resname="CLB·5 | Ascend from Avernus | Card Text | Paragraph 1">
         <source>Return all creature and planeswalker cards with mana value X or less from your graveyard to the battlefield. Exile CARDNAME.</source>
-        <target state="translated">将所有法术力值等于或小于X的生物和鹏洛客牌从你的坟墓场移回战场。放逐突破禽绝地狱。</target>
+        <target state="translated">将所有法术力值等于或小于X的生物和鹏洛客牌从你的坟墓场移回战场。放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="eefe66d8-1b35-49f1-9bc0-74c5861e5abf" resname="CLB·6 | Astral Confrontation | Card Name">
         <source>Astral Confrontation</source>
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="a71caadb-31ab-4b7f-b304-e7d3e8f9d132" resname="CLB·8 | Banishment | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile target nonland permanent an opponent controls and all other nonland permanents your opponents control with the same name as that permanent until CARDNAME leaves the battlefield.</source>
-        <target state="translated">当放逐术进战场时，放逐目标由对手操控的非地永久物和所有由你对手操控且与该永久物同名的其他非地永久物，直到放逐术离开战场为止。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标由对手操控的非地永久物和所有由你对手操控且与该永久物同名的其他非地永久物，直到CARDNAME离开战场为止。</target>
       </trans-unit>
       <trans-unit id="4c91dbf4-94fa-45d0-b8ed-a778b11d789b" resname="CLB·9 | Battle Angels of Tyr | Card Name">
         <source>Battle Angels of Tyr</source>
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="4c91dbf4-94fa-45d0-b8ed-a778b11d789b" resname="CLB·9 | Battle Angels of Tyr | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, draw a card if that player has more cards in hand than each other player. Then you create a Treasure token if that player controls more lands than each other player. Then you gain 3 life if that player has more life than each other player.</source>
-        <target state="translated">每当提尔的战斗天使对任一牌手造成战斗伤害时，如果该牌手的手牌数量比每位其他牌手都多，则你抓一张牌。然后如果该牌手操控的地比每位其他牌手都多，则你派出一个珍宝衍生物。然后如果该牌手的总生命比每位其他牌手都多，则你获得3点生命。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，如果该牌手的手牌数量比每位其他牌手都多，则你抓一张牌。然后如果该牌手操控的地比每位其他牌手都多，则你派出一个珍宝衍生物。然后如果该牌手的总生命比每位其他牌手都多，则你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="dc02d647-b95b-4442-a924-64a4c94a4e8d" resname="CLB·10 | Beckoning Will-o'-Wisp | Card Name">
         <source>Beckoning Will-o'-Wisp</source>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="b4590e53-ca8d-4896-a8cf-6af1e4bc456f" resname="CLB·11 | Blessed Hippogriff | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, target attacking creature without flying gains flying until end of turn.</source>
-        <target state="translated">每当受福鹫马攻击时，目标进行攻击且不具飞行异能的生物获得飞行异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，目标进行攻击且不具飞行异能的生物获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b4590e53-ca8d-4896-a8cf-6af1e4bc456f" resname="CLB·11 | Tyr's Blessing | Card Name">
         <source>Tyr's Blessing</source>
@@ -216,7 +216,7 @@
       </trans-unit>
       <trans-unit id="98722a04-0674-4083-b6f5-51bb88a99814" resname="CLB·19 | Flaming Fist Officer | Card Text | Paragraph 1">
         <source>Whenever another creature you control leaves the battlefield, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当另一个由你操控的生物离开战场时，在焰拳佣兵军官上放置一个+1/+1指示物。</target>
+        <target state="translated">每当另一个由你操控的生物离开战场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="43a088ea-c397-4bdd-8779-59561ff73ec2" resname="CLB·20 | Githzerai Monk | Card Name">
         <source>Githzerai Monk</source>
@@ -232,7 +232,7 @@
       </trans-unit>
       <trans-unit id="43a088ea-c397-4bdd-8779-59561ff73ec2" resname="CLB·20 | Githzerai Monk | Card Text | Paragraph 3">
         <source>Psychic Defense — When CARDNAME enters the battlefield, tap all creatures you don't control.</source>
-        <target state="translated">灵能防御～当吉斯泽莱武僧进战场时，横置所有不由你操控的生物。</target>
+        <target state="translated">灵能防御～当CARDNAME进战场时，横置所有不由你操控的生物。</target>
       </trans-unit>
       <trans-unit id="ab8324aa-f356-42bc-9664-46803bc8a93b" resname="CLB·21 | Goliath Paladin | Card Name">
         <source>Goliath Paladin</source>
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="ab8324aa-f356-42bc-9664-46803bc8a93b" resname="CLB·21 | Goliath Paladin | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当山巨人圣武士进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="50088a60-642b-47ed-a289-ef0b617b688f" resname="CLB·22 | Greatsword of Tyr | Card Name">
         <source>Greatsword of Tyr</source>
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="18da890e-0f8d-41e9-a29f-24cb5393c464" resname="CLB·23 | Guardian Naga | Card Text | Paragraph 2">
         <source>As long as it's your turn, prevent all damage that would be dealt to CARDNAME.</source>
-        <target state="translated">只要是在你的回合中，便防止将对巡守纳迦造成的所有伤害。</target>
+        <target state="translated">只要是在你的回合中，便防止将对CARDNAME造成的所有伤害。</target>
       </trans-unit>
       <trans-unit id="18da890e-0f8d-41e9-a29f-24cb5393c464" resname="CLB·23 | Banishing Coils | Card Name">
         <source>Banishing Coils</source>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit id="e7429a5b-5579-4c4e-89ff-ee7f43db37e4" resname="CLB·25 | Hammers of Moradin | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, for each opponent, tap up to one target creature that player controls.</source>
-        <target state="translated">每当摩拉丁之锤攻击时，为每位对手各进行以下流程～横置至多一个目标由其操控的生物。</target>
+        <target state="translated">每当CARDNAME攻击时，为每位对手各进行以下流程～横置至多一个目标由其操控的生物。</target>
       </trans-unit>
       <trans-unit id="b2419408-e907-4d62-b158-c97afc388c04" resname="CLB·26 | Horn of Valhalla | Card Name">
         <source>Horn of Valhalla</source>
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="aeb153e2-345d-4993-9f2d-f0d0ddfbc8a7" resname="CLB·27 | Icewind Stalwart | Card Text | Paragraph 1">
         <source>Protection Fighting Style — When CARDNAME enters the battlefield, exile up to one target non-Warrior creature you control, then return it to the battlefield under its owner's control.</source>
-        <target state="translated">防御战斗风格～当冰风谷坚卫进战场时，放逐至多一个目标由你操控的非战士生物，然后将它在其拥有者的操控下移回战场。</target>
+        <target state="translated">防御战斗风格～当CARDNAME进战场时，放逐至多一个目标由你操控的非战士生物，然后将它在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="fc6eb9f3-0f7b-4623-806e-5e604a05d470" resname="CLB·28 | Inspiring Leader | Card Name">
         <source>Inspiring Leader</source>
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="f6597ec7-0fc8-4aa5-a8a6-ea5f95f4ce15" resname="CLB·37 | Rasaad yn Bashir | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, if you have the initiative, double the toughness of each creature you control until end of turn.</source>
-        <target state="translated">每当拉萨德殷巴希尔攻击时，若你握有先制，则将每个由你操控之生物的防御力加倍直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，若你握有先制，则将每个由你操控之生物的防御力加倍直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f6597ec7-0fc8-4aa5-a8a6-ea5f95f4ce15" resname="CLB·37 | Rasaad yn Bashir | Card Text | Paragraph 3">
         <source>Choose a Background (You can have a Background as a second commander.)</source>
@@ -464,7 +464,7 @@
       </trans-unit>
       <trans-unit id="73b17c29-c796-460b-a0c6-7638fb80e397" resname="CLB·39 | Rescuer Chwinga | Card Text | Paragraph 2">
         <source>Natural Shelter — When CARDNAME enters the battlefield, you may return another permanent you control to its owner's hand.</source>
-        <target state="translated">匿身自然～当怯蕴援救灵进战场时，你可以将另一个由你操控的永久物移回其拥有者手上。</target>
+        <target state="translated">匿身自然～当CARDNAME进战场时，你可以将另一个由你操控的永久物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="c6b0ed9c-9a99-4a50-80a9-396420a8dcf9" resname="CLB·40 | Roving Harper | Card Name">
         <source>Roving Harper</source>
@@ -472,7 +472,7 @@
       </trans-unit>
       <trans-unit id="c6b0ed9c-9a99-4a50-80a9-396420a8dcf9" resname="CLB·40 | Roving Harper | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当逡巡竖琴手进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="bce2209e-7a5c-4394-876c-e0f68cfba9ca" resname="CLB·41 | Scouting Hawk | Card Name">
         <source>Scouting Hawk</source>
@@ -484,7 +484,7 @@
       </trans-unit>
       <trans-unit id="bce2209e-7a5c-4394-876c-e0f68cfba9ca" resname="CLB·41 | Scouting Hawk | Card Text | Paragraph 2">
         <source>Keen Sight — When CARDNAME enters the battlefield, if an opponent controls more lands than you, search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">敏锐视觉～当侦察猎鹰进战场时，若某对手操控的地比你多，则从你牌库中搜寻一张基本的平原牌，将之横置放进战场，然后洗牌。</target>
+        <target state="translated">敏锐视觉～当CARDNAME进战场时，若某对手操控的地比你多，则从你牌库中搜寻一张基本的平原牌，将之横置放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="2d16d8fe-a770-4bbd-bf20-447c0165de5a" resname="CLB·42 | Sculpted Sunburst | Card Name">
         <source>Sculpted Sunburst</source>
@@ -536,7 +536,7 @@
       </trans-unit>
       <trans-unit id="f8ca369b-4e04-4c80-923b-1212183419d8" resname="CLB·47 | Undercellar Sweep | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当地下窖扫荡进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="f8ca369b-4e04-4c80-923b-1212183419d8" resname="CLB·47 | Undercellar Sweep | Card Text | Paragraph 2">
         <source>Whenever you attack, if you or a player you're attacking has the initiative, you create two 1/1 white Soldier creature tokens that are tapped and attacking.</source>
@@ -556,7 +556,7 @@
       </trans-unit>
       <trans-unit id="b256ddc8-8b12-434c-a610-1a872e948f2f" resname="CLB·49 | White Plume Adventurer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当白羽山冒险家进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="b256ddc8-8b12-434c-a610-1a872e948f2f" resname="CLB·49 | White Plume Adventurer | Card Text | Paragraph 2">
         <source>At the beginning of each opponent's upkeep, untap a creature you control. If you've completed a dungeon, untap all creatures you control instead.</source>
@@ -576,7 +576,7 @@
       </trans-unit>
       <trans-unit id="a2ecf2f5-6d8b-4321-9aa1-d84c291a5c20" resname="CLB·50 | Windshaper Planetar | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield during the declare attackers step, for each attacking creature, you may reselect which player or permanent that creature is attacking. (It can't attack its controller or their permanents.)</source>
-        <target state="translated">当塑风异界神侍于宣告攻击者步骤中进战场时，对每个进行攻击的生物而言，你可以为该生物重新选择所攻击的牌手或鹏洛客。（它不能攻击其操控者或其操控者的鹏洛客。）</target>
+        <target state="translated">当CARDNAME于宣告攻击者步骤中进战场时，对每个进行攻击的生物而言，你可以为该生物重新选择所攻击的牌手或鹏洛客。（它不能攻击其操控者或其操控者的鹏洛客。）</target>
       </trans-unit>
       <trans-unit id="f00a57fc-b4a6-48fa-a20c-864c10099e4b" resname="CLB·51 | Wyrm's Crossing Patrol | Card Name">
         <source>Wyrm's Crossing Patrol</source>
@@ -628,7 +628,7 @@
       </trans-unit>
       <trans-unit id="2a83882c-3e03-4e85-aaac-97fa1d08a772" resname="CLB·54 | Aarakocra Sneak | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当飞羽族偷袭客进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="1c3c779b-d1d8-4b1e-bb06-ed7071a5ec0b" resname="CLB·55 | Alora, Merry Thief | Card Name">
         <source>Alora, Merry Thief</source>
@@ -652,7 +652,7 @@
       </trans-unit>
       <trans-unit id="ced18935-4ce9-466e-a88d-2b14ff8f989f" resname="CLB·56 | Ancient Silver Dragon | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, roll a d20. Draw cards equal to the result. You have no maximum hand size for the rest of the game.</source>
-        <target state="translated">每当远古银龙对任一牌手造成战斗伤害时，掷一颗d20。抓等同于掷骰结果的牌。在本盘游戏接下来的时段，你的手牌数量没有上限。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，掷一颗d20。抓等同于掷骰结果的牌。在本盘游戏接下来的时段，你的手牌数量没有上限。</target>
       </trans-unit>
       <trans-unit id="19f81099-f657-4f7d-84ad-f472ae87d9c5" resname="CLB·57 | Bane's Contingency | Card Name">
         <source>Bane's Contingency</source>
@@ -760,7 +760,7 @@
       </trans-unit>
       <trans-unit id="c959ab97-0727-4589-bfd9-d78dd8ebd86b" resname="CLB·69 | Feywild Caretaker | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当妖精荒野照护人进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="c959ab97-0727-4589-bfd9-d78dd8ebd86b" resname="CLB·69 | Feywild Caretaker | Card Text | Paragraph 2">
         <source>At the beginning of your end step, if you have the initiative, create a 1/1 blue Faerie Dragon creature token with flying.</source>
@@ -828,11 +828,11 @@
       </trans-unit>
       <trans-unit id="1b211832-907e-43d6-81af-c58fdd427303" resname="CLB·75 | Gray Harbor Merfolk | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">灰港人鱼不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="1b211832-907e-43d6-81af-c58fdd427303" resname="CLB·75 | Gray Harbor Merfolk | Card Text | Paragraph 2">
         <source>CARDNAME gets +2/+0 as long as you control a commander that's a creature or planeswalker.</source>
-        <target state="translated">只要你操控为生物或鹏洛客的指挥官，灰港人鱼便得+2/+0。</target>
+        <target state="translated">只要你操控为生物或鹏洛客的指挥官，CARDNAME便得+2/+0。</target>
       </trans-unit>
       <trans-unit id="df9573a3-d013-4631-98ed-78418bf0bc78" resname="CLB·76 | Illithid Harvester | Card Name">
         <source>Illithid Harvester</source>
@@ -840,7 +840,7 @@
       </trans-unit>
       <trans-unit id="df9573a3-d013-4631-98ed-78418bf0bc78" resname="CLB·76 | Illithid Harvester | Card Text | Paragraph 1">
         <source>Ceremorphosis — When CARDNAME enters the battlefield, turn any number of target tapped nontoken creatures face down. They're 2/2 Horror creatures.</source>
-        <target state="translated">蜕变～当汲魄灵吸怪进战场时，将任意数量目标已横置且非衍生物的生物翻为牌面朝下。它们是2/2惊惧兽生物。</target>
+        <target state="translated">蜕变～当CARDNAME进战场时，将任意数量目标已横置且非衍生物的生物翻为牌面朝下。它们是2/2惊惧兽生物。</target>
       </trans-unit>
       <trans-unit id="df9573a3-d013-4631-98ed-78418bf0bc78" resname="CLB·76 | Plant Tadpoles | Card Name">
         <source>Plant Tadpoles</source>
@@ -884,7 +884,7 @@
       </trans-unit>
       <trans-unit id="dcc26897-4644-4af5-ac37-099e641c27d1" resname="CLB·79 | Juvenile Mist Dragon | Card Text | Paragraph 2">
         <source>Confounding Clouds — When CARDNAME enters the battlefield, for each opponent, tap up to one target creature that player controls. Each of those creatures doesn't untap during its controller's next untap step.</source>
-        <target state="translated">混乱迷云～当青年迷雾龙进战场时，为每位对手各进行以下流程～横置至多一个目标由该牌手操控的生物。这些生物于其操控者的下一个重置步骤中不能重置。</target>
+        <target state="translated">混乱迷云～当CARDNAME进战场时，为每位对手各进行以下流程～横置至多一个目标由该牌手操控的生物。这些生物于其操控者的下一个重置步骤中不能重置。</target>
       </trans-unit>
       <trans-unit id="20f30aca-5055-45f1-9121-e7a5675f07e4" resname="CLB·80 | Kenku Artificer | Card Name">
         <source>Kenku Artificer</source>
@@ -892,7 +892,7 @@
       </trans-unit>
       <trans-unit id="20f30aca-5055-45f1-9121-e7a5675f07e4" resname="CLB·80 | Kenku Artificer | Card Text | Paragraph 1">
         <source>Homunculus Servant — When CARDNAME enters the battlefield, put three +1/+1 counters on up to one target noncreature artifact. That artifact becomes a 0/0 Homunculus artifact creature with flying.</source>
-        <target state="translated">人工生命仆从～当天狗奇械师进战场时，在至多一个目标非生物的神器上放置三个+1/+1指示物。该神器成为0/0，具飞行异能的造妖神器生物。</target>
+        <target state="translated">人工生命仆从～当CARDNAME进战场时，在至多一个目标非生物的神器上放置三个+1/+1指示物。该神器成为0/0，具飞行异能的造妖神器生物。</target>
       </trans-unit>
       <trans-unit id="26ed684b-e3a1-421d-8cfd-c5eee673a3a1" resname="CLB·82 | Lapis Orb of Dragonkind | Card Name">
         <source>Lapis Orb of Dragonkind</source>
@@ -920,7 +920,7 @@
       </trans-unit>
       <trans-unit id="63780e4a-3f63-473c-97d0-5d9462e264f2" resname="CLB·84 | Moonshae Pixie | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw cards equal to the number of opponents who were dealt combat damage this turn.</source>
-        <target state="translated">当月影岛皮克精进战场时，抓若干牌，其数量等同于本回合中受过战斗伤害的对手数量。</target>
+        <target state="translated">当CARDNAME进战场时，抓若干牌，其数量等同于本回合中受过战斗伤害的对手数量。</target>
       </trans-unit>
       <trans-unit id="63780e4a-3f63-473c-97d0-5d9462e264f2" resname="CLB·84 | Pixie Dust | Card Name">
         <source>Pixie Dust</source>
@@ -936,7 +936,7 @@
       </trans-unit>
       <trans-unit id="8894a0f5-2e1d-474f-9400-bdaa91b19fda" resname="CLB·85 | Mystery Key | Card Text | Paragraph 1">
         <source>When equipped creature deals combat damage to a player, sacrifice CARDNAME. If you do, draw three cards.</source>
-        <target state="translated">当佩带此武具的生物对任一牌手造成战斗伤害时，牺牲神秘钥匙。若你如此作，则抓三张牌。</target>
+        <target state="translated">当佩带此武具的生物对任一牌手造成战斗伤害时，牺牲CARDNAME。若你如此作，则抓三张牌。</target>
       </trans-unit>
       <trans-unit id="8894a0f5-2e1d-474f-9400-bdaa91b19fda" resname="CLB·85 | Mystery Key | Card Text | Paragraph 2">
         <source>Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</source>
@@ -960,7 +960,7 @@
       </trans-unit>
       <trans-unit id="3fda8b66-fdf1-43e9-9d65-60b991348aac" resname="CLB·87 | Oceanus Dragon | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, tap target creature an opponent controls. Goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</source>
-        <target state="translated">当海神河巨龙进战场时，横置目标由对手操控的生物。煽惑它。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
+        <target state="translated">当CARDNAME进战场时，横置目标由对手操控的生物。煽惑它。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
       </trans-unit>
       <trans-unit id="50d69ee8-a616-4191-b111-1330dfb24f72" resname="CLB·88 | Pseudodragon Familiar | Card Name">
         <source>Pseudodragon Familiar</source>
@@ -1024,7 +1024,7 @@
       </trans-unit>
       <trans-unit id="c0deb9ea-a0d4-4c3f-888e-abd1995cf2b3" resname="CLB·94 | Sapphire Dragon | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks or blocks, scry 2.</source>
-        <target state="translated">每当蓝宝石龙攻击或阻挡时，占卜2。</target>
+        <target state="translated">每当CARDNAME攻击或阻挡时，占卜2。</target>
       </trans-unit>
       <trans-unit id="c0deb9ea-a0d4-4c3f-888e-abd1995cf2b3" resname="CLB·94 | Psionic Pulse | Card Name">
         <source>Psionic Pulse</source>
@@ -1040,7 +1040,7 @@
       </trans-unit>
       <trans-unit id="d0f31357-3fd2-4355-acad-05d253a04b4a" resname="CLB·95 | Sea Hag | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, creatures your opponents control get -4/-0 until end of turn.</source>
-        <target state="translated">当海鬼婆进战场时，由对手操控的生物得-4/-0直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，由对手操控的生物得-4/-0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d0f31357-3fd2-4355-acad-05d253a04b4a" resname="CLB·95 | Aquatic Ingress | Card Name">
         <source>Aquatic Ingress</source>
@@ -1072,7 +1072,7 @@
       </trans-unit>
       <trans-unit id="582dffab-2851-4498-ad69-c4d072617f32" resname="CLB·97 | Stunning Strike | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, tap enchanted creature and remove it from combat.</source>
-        <target state="translated">当震慑击进战场时，横置所结附的生物并将它移出战斗。</target>
+        <target state="translated">当CARDNAME进战场时，横置所结附的生物并将它移出战斗。</target>
       </trans-unit>
       <trans-unit id="582dffab-2851-4498-ad69-c4d072617f32" resname="CLB·97 | Stunning Strike | Card Text | Paragraph 4">
         <source>As long as enchanted creature isn't legendary, it doesn't untap during its controller's untap step.</source>
@@ -1092,7 +1092,7 @@
       </trans-unit>
       <trans-unit id="0bbfb7ae-9a32-428d-903c-99d0d8669b8d" resname="CLB·99 | Sword Coast Serpent | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked as long as you've cast a noncreature spell this turn.</source>
-        <target state="translated">只要你本回合中施放过非生物咒语，剑湾巨蛇便不能被阻挡。</target>
+        <target state="translated">只要你本回合中施放过非生物咒语，CARDNAME便不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="0bbfb7ae-9a32-428d-903c-99d0d8669b8d" resname="CLB·99 | Capsizing Wave | Card Name">
         <source>Capsizing Wave</source>
@@ -1108,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="30b5bf0c-e617-4a41-bfaa-2b299728a93f" resname="CLB·100 | Tomb of Horrors Adventurer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当恐惧之墓冒险家进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="30b5bf0c-e617-4a41-bfaa-2b299728a93f" resname="CLB·100 | Tomb of Horrors Adventurer | Card Text | Paragraph 2">
         <source>Whenever you cast your second spell each turn, copy it. If you've completed a dungeon, copy that spell twice instead. You may choose new targets for the copies. (A copy of a permanent spell becomes a token.)</source>
@@ -1132,7 +1132,7 @@
       </trans-unit>
       <trans-unit id="46738fb3-ab5e-486c-b66a-1526ba1cdfa8" resname="CLB·102 | Vhal, Candlekeep Researcher | Card Text | Paragraph 2">
         <source>{T}: Add an amount of {C} equal to CARDNAME's toughness. This mana can't be spent to cast spells from your hand.</source>
-        <target state="translated">{T}：加若干{C}，其数量等同于烛堡研究员瓦洱的防御力。此法术力不能用来从你手上施放咒语。</target>
+        <target state="translated">{T}：加若干{C}，其数量等同于CARDNAME的防御力。此法术力不能用来从你手上施放咒语。</target>
       </trans-unit>
       <trans-unit id="46738fb3-ab5e-486c-b66a-1526ba1cdfa8" resname="CLB·102 | Vhal, Candlekeep Researcher | Card Text | Paragraph 3">
         <source>Choose a Background (You can have a Background as a second commander.)</source>
@@ -1160,7 +1160,7 @@
       </trans-unit>
       <trans-unit id="e9afba96-2ec7-45f2-9ddd-31ec27a423ca" resname="CLB·104 | Winter Eladrin | Card Text | Paragraph 1">
         <source>Gust of Wind — When CARDNAME enters the battlefield, return up to one other target creature to its owner's hand.</source>
-        <target state="translated">突风吹袭～当寒冬爱拉天族进战场时，将至多另一个目标生物移回其拥有者手上。</target>
+        <target state="translated">突风吹袭～当CARDNAME进战场时，将至多另一个目标生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="952e4e6b-fe74-4f3c-95d1-8e043f72072c" resname="CLB·105 | Wizards of Thay | Card Name">
         <source>Wizards of Thay</source>
@@ -1236,7 +1236,7 @@
       </trans-unit>
       <trans-unit id="6430c61b-407d-471d-9012-07f1ddef28aa" resname="CLB·111 | Ancient Brass Dragon | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, roll a d20. When you do, put any number of target creature cards with total mana value X or less from graveyards onto the battlefield under your control, where X is the result.</source>
-        <target state="translated">每当远古黄铜龙对任一牌手造成战斗伤害时，掷一颗d20。当你如此作时，将任意数量的目标生物牌从坟墓场在你操控下放进战场，且这些牌的法术力值总和须等于或小于X，X为掷骰结果。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，掷一颗d20。当你如此作时，将任意数量的目标生物牌从坟墓场在你操控下放进战场，且这些牌的法术力值总和须等于或小于X，X为掷骰结果。</target>
       </trans-unit>
       <trans-unit id="32f5d5be-777f-4e7b-b18c-ce4a9cedb7d0" resname="CLB·112 | Armor of Shadows | Card Name">
         <source>Armor of Shadows</source>
@@ -1284,7 +1284,7 @@
       </trans-unit>
       <trans-unit id="87f411d0-c796-443f-b957-c632aa23deb0" resname="CLB·117 | Bonecaller Cleric | Card Text | Paragraph 1">
         <source>{3}{B}, Sacrifice CARDNAME: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</source>
-        <target state="translated">{3}{B}，牺牲召骨牧师：将目标生物牌从你的坟墓场移回战场。只能于法术时机起动。</target>
+        <target state="translated">{3}{B}，牺牲CARDNAME：将目标生物牌从你的坟墓场移回战场。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="6836cfea-c203-49f4-b8d1-f1e8aa790db5" resname="CLB·118 | Call to the Void | Card Name">
         <source>Call to the Void</source>
@@ -1300,7 +1300,7 @@
       </trans-unit>
       <trans-unit id="3b434c1d-792e-4ca7-aea0-938e85fe167c" resname="CLB·120 | Chain Devil | Card Text | Paragraph 1">
         <source>Animate Chains — When CARDNAME enters the battlefield, each player sacrifices a nontoken creature.</source>
-        <target state="translated">活化锁链～当链魔进战场时，每位牌手各牺牲一个非衍生物的生物。</target>
+        <target state="translated">活化锁链～当CARDNAME进战场时，每位牌手各牺牲一个非衍生物的生物。</target>
       </trans-unit>
       <trans-unit id="7c71b2b8-f5ef-4885-9f8d-284fe335d184" resname="CLB·121 | Cloudkill | Card Name">
         <source>Cloudkill</source>
@@ -1336,7 +1336,7 @@
       </trans-unit>
       <trans-unit id="b82a13bf-da32-4c12-a9dd-271d8ca45c21" resname="CLB·125 | Elder Brain | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks a player, exile all cards from that player's hand, then they draw that many cards. You may play lands and cast spells from among the exiled cards for as long as they remain exiled. If you cast a spell this way, you may spend mana as though it were mana of any color to cast it.</source>
-        <target state="translated">每当主脑攻击任一牌手时，从该牌手手上放逐所有牌，然后他抓等量的牌。于这些牌持续放逐的时段内，你可以从其中使用地和施放咒语。如果你以此法施放咒语，则你可以将法术力视同任意颜色的法术力来支付施放它的费用。</target>
+        <target state="translated">每当CARDNAME攻击任一牌手时，从该牌手手上放逐所有牌，然后他抓等量的牌。于这些牌持续放逐的时段内，你可以从其中使用地和施放咒语。如果你以此法施放咒语，则你可以将法术力视同任意颜色的法术力来支付施放它的费用。</target>
       </trans-unit>
       <trans-unit id="d578bdc3-1edf-4267-b612-2236b54329c6" resname="CLB·126 | Eldritch Pact | Card Name">
         <source>Eldritch Pact</source>
@@ -1352,7 +1352,7 @@
       </trans-unit>
       <trans-unit id="564728ed-dbf0-471c-a34a-5bd3b486b7e5" resname="CLB·127 | Ghastly Death Tyrant | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one —</source>
-        <target state="translated">当骇怖死亡暴君进战场时，选择一项～</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～</target>
       </trans-unit>
       <trans-unit id="564728ed-dbf0-471c-a34a-5bd3b486b7e5" resname="CLB·127 | Ghastly Death Tyrant | Card Text | Paragraph 2">
         <source>• Disintegration Ray — Destroy target enchantment an opponent controls. You lose life equal to its mana value.</source>
@@ -1388,7 +1388,7 @@
       </trans-unit>
       <trans-unit id="0c2b6960-ff4c-4557-ba6d-d504f87d4516" resname="CLB·129 | Gray Slaad | Card Text | Paragraph 1">
         <source>As long as there are four or more creature cards in your graveyard, CARDNAME has menace and deathtouch.</source>
-        <target state="translated">只要你坟墓场中有四张或更多生物牌，史拉灰蟾便具有威慑与死触异能。</target>
+        <target state="translated">只要你坟墓场中有四张或更多生物牌，CARDNAME便具有威慑与死触异能。</target>
       </trans-unit>
       <trans-unit id="0c2b6960-ff4c-4557-ba6d-d504f87d4516" resname="CLB·129 | Entropic Decay | Card Name">
         <source>Entropic Decay</source>
@@ -1408,7 +1408,7 @@
       </trans-unit>
       <trans-unit id="d7efb10f-c760-431c-8ac6-904965d850dc" resname="CLB·130 | Guildsworn Prowler | Card Text | Paragraph 2">
         <source>When CARDNAME dies, if it wasn't blocking, draw a card.</source>
-        <target state="translated">当誓公会游掠者死去时，若它并非正进行阻挡，则抓一张牌。</target>
+        <target state="translated">当CARDNAME死去时，若它并非正进行阻挡，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="0c2f40e7-82b0-4847-994d-9326a88c4965" resname="CLB·131 | Hezrou | Card Name">
         <source>Hezrou</source>
@@ -1432,11 +1432,11 @@
       </trans-unit>
       <trans-unit id="a52d30a3-a436-4854-91e9-2c359c40457b" resname="CLB·132 | Intellect Devourer | Card Text | Paragraph 1">
         <source>Devour Intellect — When CARDNAME enters the battlefield, each opponent exiles a card from their hand until CARDNAME leaves the battlefield.</source>
-        <target state="translated">吞噬智力～当噬脑怪进战场时，每位对手各从其手上放逐一张牌，直到噬脑怪离开战场为止。</target>
+        <target state="translated">吞噬智力～当CARDNAME进战场时，每位对手各从其手上放逐一张牌，直到CARDNAME离开战场为止。</target>
       </trans-unit>
       <trans-unit id="a52d30a3-a436-4854-91e9-2c359c40457b" resname="CLB·132 | Intellect Devourer | Card Text | Paragraph 2">
         <source>Body Thief — You may play lands and cast spells from among cards exiled with CARDNAME. If you cast a spell this way, you may spend mana as though it were mana of any color to cast it.</source>
-        <target state="translated">窃夺躯体～你可以从以噬脑怪放逐的牌之中使用地和施放咒语。如果你以此法施放咒语，则你可以将法术力视同任意颜色的法术力来支付施放它的费用。</target>
+        <target state="translated">窃夺躯体～你可以从以CARDNAME放逐的牌之中使用地和施放咒语。如果你以此法施放咒语，则你可以将法术力视同任意颜色的法术力来支付施放它的费用。</target>
       </trans-unit>
       <trans-unit id="8c5da403-d791-4ad4-a949-e8a56459cac1" resname="CLB·133 | Mold Folk | Card Name">
         <source>Mold Folk</source>
@@ -1448,7 +1448,7 @@
       </trans-unit>
       <trans-unit id="8c5da403-d791-4ad4-a949-e8a56459cac1" resname="CLB·133 | Mold Folk | Card Text | Paragraph 2">
         <source>Mold Harvest — {1}, Sacrifice another creature or an artifact: Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">孢子收割～{1}，牺牲另一个生物或一个神器：在孢子人上放置一个+1/+1指示物。</target>
+        <target state="translated">孢子收割～{1}，牺牲另一个生物或一个神器：在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="adc7c427-aa31-4077-8397-74a9a3802ee7" resname="CLB·135 | Myrkul's Edict | Card Name">
         <source>Myrkul's Edict</source>
@@ -1496,7 +1496,7 @@
       </trans-unit>
       <trans-unit id="7f9fd859-577f-4836-b785-1cf11808b892" resname="CLB·138 | Nothic | Card Text | Paragraph 1">
         <source>Weird Insight — When CARDNAME dies, roll a d20.</source>
-        <target state="translated">怪异洞悉～当诺斯克死去时，掷一颗d20。</target>
+        <target state="translated">怪异洞悉～当CARDNAME死去时，掷一颗d20。</target>
       </trans-unit>
       <trans-unit id="7f9fd859-577f-4836-b785-1cf11808b892" resname="CLB·138 | Nothic | Card Text | Paragraph 2">
         <source>1—9 | You draw a card and you lose 1 life.</source>
@@ -1516,7 +1516,7 @@
       </trans-unit>
       <trans-unit id="20b0cf66-c6ec-4ff6-96a5-334e2c9c7818" resname="CLB·139 | Pact Weapon | Card Text | Paragraph 1">
         <source>As long as CARDNAME is attached to a creature, you don't lose the game for having 0 or less life.</source>
-        <target state="translated">只要契约武器贴附在某生物上，你便不会因总生命为0或更少而输掉这盘游戏。</target>
+        <target state="translated">只要CARDNAME贴附在某生物上，你便不会因总生命为0或更少而输掉这盘游戏。</target>
       </trans-unit>
       <trans-unit id="20b0cf66-c6ec-4ff6-96a5-334e2c9c7818" resname="CLB·139 | Pact Weapon | Card Text | Paragraph 2">
         <source>Whenever equipped creature attacks, draw a card and reveal it. The creature gets +X/+X until end of turn and you lose X life, where X is that card's mana value.</source>
@@ -1536,11 +1536,11 @@
       </trans-unit>
       <trans-unit id="8aeee54a-5e16-4519-b04a-49eaaf896b9a" resname="CLB·141 | Passageway Seer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当道路先知进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="8aeee54a-5e16-4519-b04a-49eaaf896b9a" resname="CLB·141 | Passageway Seer | Card Text | Paragraph 3">
         <source>At the beginning of your end step, if you have the initiative, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">在你的结束步骤开始时，若你握有先制，则在道路先知上放置一个+1/+1指示物。</target>
+        <target state="translated">在你的结束步骤开始时，若你握有先制，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="a5e27c36-d883-4681-8430-b4d0ad7f1df0" resname="CLB·142 | Ravenloft Adventurer | Card Name">
         <source>Ravenloft Adventurer</source>
@@ -1548,7 +1548,7 @@
       </trans-unit>
       <trans-unit id="a5e27c36-d883-4681-8430-b4d0ad7f1df0" resname="CLB·142 | Ravenloft Adventurer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当鸦阁城冒险家进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="a5e27c36-d883-4681-8430-b4d0ad7f1df0" resname="CLB·142 | Ravenloft Adventurer | Card Text | Paragraph 2">
         <source>If a creature an opponent controls would die, instead exile it and put a hit counter on it.</source>
@@ -1556,7 +1556,7 @@
       </trans-unit>
       <trans-unit id="a5e27c36-d883-4681-8430-b4d0ad7f1df0" resname="CLB·142 | Ravenloft Adventurer | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, if you've completed a dungeon, defending player loses 1 life for each card they own in exile with a hit counter on it.</source>
-        <target state="translated">每当鸦阁城冒险家攻击时，若你完成过地城，则放逐区中每有一张由防御玩家拥有且其上有灭口指示物的牌，他便失去1点生命。</target>
+        <target state="translated">每当CARDNAME攻击时，若你完成过地城，则放逐区中每有一张由防御玩家拥有且其上有灭口指示物的牌，他便失去1点生命。</target>
       </trans-unit>
       <trans-unit id="e9367f66-6556-459c-a43d-5ba7a84b568d" resname="CLB·143 | Safana, Calimport Cutthroat | Card Name">
         <source>Safana, Calimport Cutthroat</source>
@@ -1636,11 +1636,11 @@
       </trans-unit>
       <trans-unit id="4b1d59fb-c3ff-4995-a695-51f2a4dae404" resname="CLB·150 | Stirge | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">蚊蝠不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="4b1d59fb-c3ff-4995-a695-51f2a4dae404" resname="CLB·150 | Stirge | Card Text | Paragraph 3">
         <source>Blood Drain — {1}{B}, Pay 1 life, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">吸血～{1}{B}，支付1点生命，牺牲蚊蝠：抓一张牌。</target>
+        <target state="translated">吸血～{1}{B}，支付1点生命，牺牲CARDNAME：抓一张牌。</target>
       </trans-unit>
       <trans-unit id="278f7705-01a4-4baf-929b-b93e538a8d77" resname="CLB·151 | Summon Undead | Card Name">
         <source>Summon Undead</source>
@@ -1676,7 +1676,7 @@
       </trans-unit>
       <trans-unit id="a2bf9736-b5f5-4fd4-8406-9f57fefd86e7" resname="CLB·154 | Underdark Explorer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当幽暗地域探险家进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="20f939d8-3d41-4d8b-baea-7f022104c704" resname="CLB·155 | Vicious Battlerager | Card Name">
         <source>Vicious Battlerager</source>
@@ -1684,11 +1684,11 @@
       </trans-unit>
       <trans-unit id="20f939d8-3d41-4d8b-baea-7f022104c704" resname="CLB·155 | Vicious Battlerager | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当邪恶战怒者进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="20f939d8-3d41-4d8b-baea-7f022104c704" resname="CLB·155 | Vicious Battlerager | Card Text | Paragraph 2">
         <source>Spiked Retribution — Whenever CARDNAME becomes blocked by a creature, that creature's controller loses 5 life.</source>
-        <target state="translated">尖刺反击～每当邪恶战怒者被一个生物阻挡时，该生物的操控者失去5点生命。</target>
+        <target state="translated">尖刺反击～每当CARDNAME被一个生物阻挡时，该生物的操控者失去5点生命。</target>
       </trans-unit>
       <trans-unit id="f631762a-e833-40a5-a6e9-b6cde38f62f0" resname="CLB·156 | Viconia, Drow Apostate | Card Name">
         <source>Viconia, Drow Apostate</source>
@@ -1720,7 +1720,7 @@
       </trans-unit>
       <trans-unit id="bd1a27c1-ff44-47a7-991d-c294e30eea34" resname="CLB·158 | Zhentarim Bandit | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may pay 1 life. If you do, create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">每当散塔林会恶贼攻击时，你可以支付1点生命。若你如此作，则派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付1点生命。若你如此作，则派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="34806912-daf8-4e5c-804f-af0858500438" resname="CLB·159 | Amber Gristle O'Maul | Card Name">
         <source>Amber Gristle O'Maul</source>
@@ -1732,7 +1732,7 @@
       </trans-unit>
       <trans-unit id="34806912-daf8-4e5c-804f-af0858500438" resname="CLB·159 | Amber Gristle O'Maul | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may discard your hand. If you do, draw a card for each player being attacked.</source>
-        <target state="translated">每当安珀葛斯特欧茂尔攻击时，你可以弃掉你的手牌。若你如此作，则每有一位受攻击的牌手，便抓一张牌。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以弃掉你的手牌。若你如此作，则每有一位受攻击的牌手，便抓一张牌。</target>
       </trans-unit>
       <trans-unit id="34806912-daf8-4e5c-804f-af0858500438" resname="CLB·159 | Amber Gristle O'Maul | Card Text | Paragraph 3">
         <source>Choose a Background (You can have a Background as a second commander.)</source>
@@ -1752,7 +1752,7 @@
       </trans-unit>
       <trans-unit id="57adbd6e-88ec-4472-a9c9-90b679fa881f" resname="CLB·160 | Explosive Crystal | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage divided as you choose among any number of targets. (Then exile this card. You may cast the creature later from exile.)</source>
-        <target state="translated">爆裂水晶对任意数量的目标造成共4点伤害，你可以任意分配。（然后放逐此牌。之后你还可以从放逐区施放该生物。）</target>
+        <target state="translated">CARDNAME对任意数量的目标造成共4点伤害，你可以任意分配。（然后放逐此牌。之后你还可以从放逐区施放该生物。）</target>
       </trans-unit>
       <trans-unit id="3836dddd-a7e4-499f-ad49-ce298aa65720" resname="CLB·161 | Ancient Copper Dragon | Card Name">
         <source>Ancient Copper Dragon</source>
@@ -1764,7 +1764,7 @@
       </trans-unit>
       <trans-unit id="3836dddd-a7e4-499f-ad49-ce298aa65720" resname="CLB·161 | Ancient Copper Dragon | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, roll a d20. You create a number of Treasure tokens equal to the result.</source>
-        <target state="translated">每当远古赤铜龙对任一牌手造成战斗伤害时，掷一颗d20。你派出若干珍宝衍生物，其数量等同于掷骰结果。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，掷一颗d20。你派出若干珍宝衍生物，其数量等同于掷骰结果。</target>
       </trans-unit>
       <trans-unit id="60c1b3da-e8e6-4118-a268-1e3871e6ffee" resname="CLB·162 | Balor | Card Name">
         <source>Balor</source>
@@ -1776,7 +1776,7 @@
       </trans-unit>
       <trans-unit id="60c1b3da-e8e6-4118-a268-1e3871e6ffee" resname="CLB·162 | Balor | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks or dies, choose one or more. Each mode must target a different player.</source>
-        <target state="translated">每当巴洛魔攻击或死去时，选择一项或多项。每项均须以不同的牌手为目标。</target>
+        <target state="translated">每当CARDNAME攻击或死去时，选择一项或多项。每项均须以不同的牌手为目标。</target>
       </trans-unit>
       <trans-unit id="60c1b3da-e8e6-4118-a268-1e3871e6ffee" resname="CLB·162 | Balor | Card Text | Paragraph 3">
         <source>• Target opponent draws three cards, then discards three cards at random.</source>
@@ -1788,7 +1788,7 @@
       </trans-unit>
       <trans-unit id="60c1b3da-e8e6-4118-a268-1e3871e6ffee" resname="CLB·162 | Balor | Card Text | Paragraph 5">
         <source>• CARDNAME deals damage to target opponent equal to the number of cards in their hand.</source>
-        <target state="translated">•巴洛魔向目标对手造成等同于其手牌数量的伤害。</target>
+        <target state="translated">•CARDNAME向目标对手造成等同于其手牌数量的伤害。</target>
       </trans-unit>
       <trans-unit id="3fd3e535-8412-4f79-a2b1-dfda9db1c496" resname="CLB·163 | Bhaal's Invoker | Card Name">
         <source>Bhaal's Invoker</source>
@@ -1796,7 +1796,7 @@
       </trans-unit>
       <trans-unit id="3fd3e535-8412-4f79-a2b1-dfda9db1c496" resname="CLB·163 | Bhaal's Invoker | Card Text | Paragraph 1">
         <source>Scorching Ray — {8}: CARDNAME deals 4 damage to each opponent.</source>
-        <target state="translated">焦灼射线～{8}：巴尔的神导士向每位对手各造成4点伤害。</target>
+        <target state="translated">焦灼射线～{8}：CARDNAME向每位对手各造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="0bdf1222-2fc5-4dae-a7a5-6ba774b02843" resname="CLB·164 | Bloodboil Sorcerer | Card Name">
         <source>Bloodboil Sorcerer</source>
@@ -1804,7 +1804,7 @@
       </trans-unit>
       <trans-unit id="0bdf1222-2fc5-4dae-a7a5-6ba774b02843" resname="CLB·164 | Bloodboil Sorcerer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">每当沸血术士进战场时，你掌握先制。</target>
+        <target state="translated">每当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="0bdf1222-2fc5-4dae-a7a5-6ba774b02843" resname="CLB·164 | Bloodboil Sorcerer | Card Text | Paragraph 2">
         <source>Crown of Madness — {1}{R}, Sacrifice an artifact or creature: Goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</source>
@@ -1816,7 +1816,7 @@
       </trans-unit>
       <trans-unit id="0174e40a-0ef5-4439-91e6-3fc39f482520" resname="CLB·165 | Breath Weapon | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each non-Dragon creature.</source>
-        <target state="translated">喷息武器对每个非龙生物各造成2点伤害。</target>
+        <target state="translated">CARDNAME对每个非龙生物各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="e7e41166-bdaa-4aed-986a-7be1d043240c" resname="CLB·166 | Carnelian Orb of Dragonkind | Card Name">
         <source>Carnelian Orb of Dragonkind</source>
@@ -1836,11 +1836,11 @@
       </trans-unit>
       <trans-unit id="09abb6df-2aa1-4999-b550-db2892faa8c7" resname="CLB·167 | Caves of Chaos Adventurer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当混沌洞穴冒险家进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="09abb6df-2aa1-4999-b550-db2892faa8c7" resname="CLB·167 | Caves of Chaos Adventurer | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, exile the top card of your library. If you've completed a dungeon, you may play that card this turn without paying its mana cost. Otherwise, you may play that card this turn.</source>
-        <target state="translated">每当混沌洞穴冒险家攻击时，放逐你的牌库顶牌。如果你完成过地城，则本回合中，你可以使用该牌且不需支付其法术力费用。若否，则本回合中，你可以使用该牌。</target>
+        <target state="translated">每当CARDNAME攻击时，放逐你的牌库顶牌。如果你完成过地城，则本回合中，你可以使用该牌且不需支付其法术力费用。若否，则本回合中，你可以使用该牌。</target>
       </trans-unit>
       <trans-unit id="8647092a-9d09-42cb-bcda-4e5e7a6c8a1c" resname="CLB·168 | Coronation of Chaos | Card Name">
         <source>Coronation of Chaos</source>
@@ -1856,7 +1856,7 @@
       </trans-unit>
       <trans-unit id="faadf72f-b2d5-4271-8d5c-a586acf63453" resname="CLB·169 | Descent into Avernus | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put two descent counters on CARDNAME. Then each player creates X Treasure tokens and CARDNAME deals X damage to each player, where X is the number of descent counters on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在深入禽绝地狱上放置两个下行指示物。然后每位牌手各派出X个珍宝衍生物，且深入禽绝地狱对每位牌手各造成X点伤害，X为深入禽绝地狱上的下行指示物数量。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置两个下行指示物。然后每位牌手各派出X个珍宝衍生物，且CARDNAME对每位牌手各造成X点伤害，X为CARDNAME上的下行指示物数量。</target>
       </trans-unit>
       <trans-unit id="e06ad968-ca7a-470b-ba3b-e0afc597b2cd" resname="CLB·170 | Dragon Cultist | Card Name">
         <source>Dragon Cultist</source>
@@ -1872,7 +1872,7 @@
       </trans-unit>
       <trans-unit id="b5f700c6-7591-481d-b223-21f5b820e831" resname="CLB·171 | Earth Tremor | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target creature or planeswalker equal to the number of lands you control.</source>
-        <target state="translated">大地震动对目标生物或鹏洛客造成伤害，其数量等同于由你操控的地数量。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成伤害，其数量等同于由你操控的地数量。</target>
       </trans-unit>
       <trans-unit id="e376b59a-5702-4706-b713-01cab4e253cc" resname="CLB·172 | Elturel Survivors | Card Name">
         <source>Elturel Survivors</source>
@@ -1884,7 +1884,7 @@
       </trans-unit>
       <trans-unit id="e376b59a-5702-4706-b713-01cab4e253cc" resname="CLB·172 | Elturel Survivors | Card Text | Paragraph 2">
         <source>As long as CARDNAME is attacking, it gets +X/+0, where X is the number of lands defending player controls.</source>
-        <target state="translated">只要埃尔托瑞尔幸存者正进行攻击，它便得+X/+0，X为由防御牌手操控的地数量。</target>
+        <target state="translated">只要CARDNAME正进行攻击，它便得+X/+0，X为由防御牌手操控的地数量。</target>
       </trans-unit>
       <trans-unit id="3d74937b-c87f-4894-8f00-36e4d6844ebd" resname="CLB·173 | Fang Dragon | Card Name">
         <source>Fang Dragon</source>
@@ -1900,7 +1900,7 @@
       </trans-unit>
       <trans-unit id="3d74937b-c87f-4894-8f00-36e4d6844ebd" resname="CLB·173 | Forktail Sweep | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature you don't control. (Then exile this card. You may cast the creature later from exile.)</source>
-        <target state="translated">叉尾扫击对每个不由你操控的生物各造成1点伤害。（然后放逐此牌。之后你还可以从放逐区施放该生物。）</target>
+        <target state="translated">CARDNAME对每个不由你操控的生物各造成1点伤害。（然后放逐此牌。之后你还可以从放逐区施放该生物。）</target>
       </trans-unit>
       <trans-unit id="73255900-11ac-4a82-bd30-2dc24addd8e6" resname="CLB·174 | Firbolg Flutist | Card Name">
         <source>Firbolg Flutist</source>
@@ -1908,7 +1908,7 @@
       </trans-unit>
       <trans-unit id="73255900-11ac-4a82-bd30-2dc24addd8e6" resname="CLB·174 | Firbolg Flutist | Card Text | Paragraph 1">
         <source>Enthralling Performance — When CARDNAME enters the battlefield, gain control of target creature you don't control until end of turn. Untap it. It gains haste and myriad until end of turn. (Whenever it attacks, for each opponent other than defending player, you may create a token that's a copy of that creature that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)</source>
-        <target state="translated">醉人表演～当隐逸巨人笛手进战场时，获得目标不由你操控之生物的操控权直到回合结束。将它重置。它获得敏捷与繁影异能直到回合结束。（每当它攻击时，对防御牌手之外的每位对手而言，你可以派出一个为该生物复制品的衍生物，其为横置且正向该牌手或某个由他操控的鹏洛客进行攻击。在战斗结束时，放逐这些衍生物。）</target>
+        <target state="translated">醉人表演～当CARDNAME进战场时，获得目标不由你操控之生物的操控权直到回合结束。将它重置。它获得敏捷与繁影异能直到回合结束。（每当它攻击时，对防御牌手之外的每位对手而言，你可以派出一个为该生物复制品的衍生物，其为横置且正向该牌手或某个由他操控的鹏洛客进行攻击。在战斗结束时，放逐这些衍生物。）</target>
       </trans-unit>
       <trans-unit id="9f5bb319-29b2-4a7c-82e9-f8b5e47909a1" resname="CLB·176 | Ganax, Astral Hunter | Card Name">
         <source>Ganax, Astral Hunter</source>
@@ -1920,7 +1920,7 @@
       </trans-unit>
       <trans-unit id="9f5bb319-29b2-4a7c-82e9-f8b5e47909a1" resname="CLB·176 | Ganax, Astral Hunter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another Dragon enters the battlefield under your control, create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">每当星界猎手加奈兹或另一个龙在你的操控下进战场时，派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">每当CARDNAME或另一个龙在你的操控下进战场时，派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="9f5bb319-29b2-4a7c-82e9-f8b5e47909a1" resname="CLB·176 | Ganax, Astral Hunter | Card Text | Paragraph 3">
         <source>Choose a Background (You can have a Background as a second commander.)</source>
@@ -1936,7 +1936,7 @@
       </trans-unit>
       <trans-unit id="5ac424e1-7806-46ee-84a9-ca2f0dd468a4" resname="CLB·177 | Genasi Enforcers | Card Text | Paragraph 2">
         <source>{1}{R}: Creatures you control named CARDNAME get +1/+0 until end of turn.</source>
-        <target state="translated">{1}{R}：由你操控且名称为元素裔执法者的生物得+1/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：由你操控且名称为CARDNAME的生物得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="acfecffd-33af-43a9-b26c-f1ff193c6323" resname="CLB·178 | Gnoll War Band | Card Name">
         <source>Gnoll War Band</source>
@@ -1980,7 +1980,7 @@
       </trans-unit>
       <trans-unit id="1d8dd6c3-3699-4dd1-a019-fdb569eaf722" resname="CLB·182 | Ingenious Artillerist | Card Text | Paragraph 1">
         <source>Whenever one or more artifacts enter the battlefield under your control, CARDNAME deals that much damage to each opponent.</source>
-        <target state="translated">每当一个或数个神器在你的操控下进战场时，妙手魔炮师向每位对手各造成等量的伤害。</target>
+        <target state="translated">每当一个或数个神器在你的操控下进战场时，CARDNAME向每位对手各造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="c1e6b1d3-1ac2-4f20-997e-25c93f1f7897" resname="CLB·183 | Inspired Tinkering | Card Name">
         <source>Inspired Tinkering</source>
@@ -2000,7 +2000,7 @@
       </trans-unit>
       <trans-unit id="0c7f401e-1403-49f8-a39e-1eed05b41c34" resname="CLB·184 | Insufferable Balladeer | Card Text | Paragraph 1">
         <source>Vicious Mockery — When CARDNAME enters the battlefield, target creature an opponent controls can't block this turn. Goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</source>
-        <target state="translated">公然侮辱～当遭恨民谣手进战场时，目标由对手操控的生物本回合不能进行阻挡。煽惑它。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
+        <target state="translated">公然侮辱～当CARDNAME进战场时，目标由对手操控的生物本回合不能进行阻挡。煽惑它。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
       </trans-unit>
       <trans-unit id="13d2f660-97f9-404b-82bb-37e396602580" resname="CLB·185 | Javelin of Lightning | Card Name">
         <source>Javelin of Lightning</source>
@@ -2012,7 +2012,7 @@
       </trans-unit>
       <trans-unit id="13d2f660-97f9-404b-82bb-37e396602580" resname="CLB·185 | Javelin of Lightning | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, attach it to target creature you control.</source>
-        <target state="translated">当闪电长枪进战场时，将它贴附在目标由你操控的生物上。</target>
+        <target state="translated">当CARDNAME进战场时，将它贴附在目标由你操控的生物上。</target>
       </trans-unit>
       <trans-unit id="13d2f660-97f9-404b-82bb-37e396602580" resname="CLB·185 | Javelin of Lightning | Card Text | Paragraph 3">
         <source>As long as it's your turn, equipped creature gets +2/+0 and has first strike.</source>
@@ -2056,7 +2056,7 @@
       </trans-unit>
       <trans-unit id="1743840f-fe99-4cb4-a558-1763b605b35f" resname="CLB·189 | Nemesis Phoenix | Card Text | Paragraph 2">
         <source>{2}{R}: Return CARDNAME from your graveyard to the battlefield tapped and attacking. Activate only during the declare attackers step and only if you're attacking two or more opponents.</source>
-        <target state="translated">{2}{R}：将宿敌凤凰从你的坟墓场横置移回战场且正进行攻击。只能于宣告攻击者步骤中起动，且仅限你正向两位或更多对手进行攻击时。</target>
+        <target state="translated">{2}{R}：将CARDNAME从你的坟墓场横置移回战场且正进行攻击。只能于宣告攻击者步骤中起动，且仅限你正向两位或更多对手进行攻击时。</target>
       </trans-unit>
       <trans-unit id="e2ef30c5-a6a6-4cd9-805f-dc6f66f28997" resname="CLB·190 | Pack Attack | Card Name">
         <source>Pack Attack</source>
@@ -2076,7 +2076,7 @@
       </trans-unit>
       <trans-unit id="10b2b8ca-7433-4bfe-abab-e19128e46a1d" resname="CLB·191 | Patron of the Arts | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield or dies, create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">当画廊资助人进战场或死去时，派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">当CARDNAME进战场或死去时，派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="91844266-8b2f-421f-a944-544c51734e64" resname="CLB·192 | Popular Entertainer | Card Name">
         <source>Popular Entertainer</source>
@@ -2092,7 +2092,7 @@
       </trans-unit>
       <trans-unit id="c912e984-1d27-4da2-9733-d56e437bcf58" resname="CLB·193 | Reckless Barbarian | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Add {R}{R}.</source>
-        <target state="translated">牺牲鲁莽野蛮人：加{R}{R}。</target>
+        <target state="translated">牺牲CARDNAME：加{R}{R}。</target>
       </trans-unit>
       <trans-unit id="d06d9d83-d1e6-4499-a1ac-6f865159f6b6" resname="CLB·195 | Stirring Bard | Card Name">
         <source>Stirring Bard</source>
@@ -2104,7 +2104,7 @@
       </trans-unit>
       <trans-unit id="d06d9d83-d1e6-4499-a1ac-6f865159f6b6" resname="CLB·195 | Stirring Bard | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当振奋吟游诗人进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="d06d9d83-d1e6-4499-a1ac-6f865159f6b6" resname="CLB·195 | Stirring Bard | Card Text | Paragraph 3">
         <source>Mantle of Inspiration — {T}: Target creature gains menace and haste until end of turn.</source>
@@ -2132,7 +2132,7 @@
       </trans-unit>
       <trans-unit id="b06604f3-c70c-44d6-b1b9-e915552084e0" resname="CLB·198 | Swashbuckler Extraordinaire | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">当非凡仗剑客进战场时，派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="b06604f3-c70c-44d6-b1b9-e915552084e0" resname="CLB·198 | Swashbuckler Extraordinaire | Card Text | Paragraph 2">
         <source>Whenever you attack, you may sacrifice one or more Treasures. When you do, up to that many target creatures gain double strike until end of turn.</source>
@@ -2148,7 +2148,7 @@
       </trans-unit>
       <trans-unit id="87149c2a-503b-46e0-9a7f-cc40a9507883" resname="CLB·199 | Taunting Kobold | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, goad target creature an opponent controls. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</source>
-        <target state="translated">每当寻衅狗头人攻击时，煽惑目标由对手操控的生物。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
+        <target state="translated">每当CARDNAME攻击时，煽惑目标由对手操控的生物。（直到你的下一个回合，该生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
       </trans-unit>
       <trans-unit id="b07f8fc3-83a5-4e0a-b87f-ce415292c790" resname="CLB·200 | Tavern Brawler | Card Name">
         <source>Tavern Brawler</source>
@@ -2168,15 +2168,15 @@
       </trans-unit>
       <trans-unit id="e9531098-63ea-4568-81e9-80e00a5f8995" resname="CLB·201 | Thunderwave | Card Text | Paragraph 2">
         <source>1—9 | CARDNAME deals 3 damage to each creature.</source>
-        <target state="translated">1～9 | 雷电波对每个生物各造成3点伤害。</target>
+        <target state="translated">1～9 | CARDNAME对每个生物各造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="e9531098-63ea-4568-81e9-80e00a5f8995" resname="CLB·201 | Thunderwave | Card Text | Paragraph 3">
         <source>10—19 | You may choose a creature. CARDNAME deals 3 damage to each creature not chosen this way.</source>
-        <target state="translated">10～19 | 你可以选择一个生物。雷电波对每个未以此法选中的生物各造成3点伤害。</target>
+        <target state="translated">10～19 | 你可以选择一个生物。CARDNAME对每个未以此法选中的生物各造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="e9531098-63ea-4568-81e9-80e00a5f8995" resname="CLB·201 | Thunderwave | Card Text | Paragraph 4">
         <source>20 | CARDNAME deals 6 damage to each creature your opponents control.</source>
-        <target state="translated">20 | 雷电波向每个由对手操控的生物各造成6点伤害。</target>
+        <target state="translated">20 | CARDNAME向每个由对手操控的生物各造成6点伤害。</target>
       </trans-unit>
       <trans-unit id="279c2ec3-abfc-4054-bdd9-3c8fa7d8b426" resname="CLB·202 | Tiamat's Fanatics | Card Name">
         <source>Tiamat's Fanatics</source>
@@ -2268,7 +2268,7 @@
       </trans-unit>
       <trans-unit id="5e9d4562-964d-48ce-b03f-7cb491fa040d" resname="CLB·208 | Wyll, Blade of Frontiers | Card Text | Paragraph 2">
         <source>Whenever you roll one or more dice, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你掷一颗或数颗骰子时，在边境之刃威迩上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你掷一颗或数颗骰子时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="5e9d4562-964d-48ce-b03f-7cb491fa040d" resname="CLB·208 | Wyll, Blade of Frontiers | Card Text | Paragraph 3">
         <source>Choose a Background (You can have a Background as a second commander.)</source>
@@ -2300,7 +2300,7 @@
       </trans-unit>
       <trans-unit id="d0b9865a-be87-48fd-a325-be6aca8a31e9" resname="CLB·210 | Young Red Dragon | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">少年红龙不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="d0b9865a-be87-48fd-a325-be6aca8a31e9" resname="CLB·210 | Bathe in Gold | Card Name">
         <source>Bathe in Gold</source>
@@ -2340,7 +2340,7 @@
       </trans-unit>
       <trans-unit id="5e56a516-d71a-49c4-a929-9a8973125d3c" resname="CLB·213 | Ambitious Dragonborn | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it, where X is the greatest power among creatures you control and creature cards in your graveyard.</source>
-        <target state="translated">雄心龙裔进战场时上面有X个+1/+1指示物，X为由你操控之生物与你坟墓场内生物牌中的最大力量。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物，X为由你操控之生物与你坟墓场内生物牌中的最大力量。</target>
       </trans-unit>
       <trans-unit id="781af4dd-9e3c-48af-80e9-b52c427d2120" resname="CLB·214 | Ancient Bronze Dragon | Card Name">
         <source>Ancient Bronze Dragon</source>
@@ -2352,7 +2352,7 @@
       </trans-unit>
       <trans-unit id="781af4dd-9e3c-48af-80e9-b52c427d2120" resname="CLB·214 | Ancient Bronze Dragon | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, roll a d20. When you do, put X +1/+1 counters on each of up to two target creatures, where X is the result.</source>
-        <target state="translated">每当远古青铜龙对任一牌手造成战斗伤害时，掷一颗d20。当你如此作时，在至多两个目标生物上各放置X个+1/+1指示物，X为掷骰结果。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，掷一颗d20。当你如此作时，在至多两个目标生物上各放置X个+1/+1指示物，X为掷骰结果。</target>
       </trans-unit>
       <trans-unit id="f4072640-0f9b-4f0a-84cc-eda415cc92e7" resname="CLB·215 | Avenging Hunter | Card Name">
         <source>Avenging Hunter</source>
@@ -2364,7 +2364,7 @@
       </trans-unit>
       <trans-unit id="f4072640-0f9b-4f0a-84cc-eda415cc92e7" resname="CLB·215 | Avenging Hunter | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当寻仇猎人进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="0452a08e-1a04-432f-9c35-11699d7d44fe" resname="CLB·217 | Barroom Brawl | Card Name">
         <source>Barroom Brawl</source>
@@ -2380,7 +2380,7 @@
       </trans-unit>
       <trans-unit id="ad8d2b97-72b9-4bde-ad31-fd9562512d30" resname="CLB·219 | Carefree Swinemaster | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may pay {1}{G}. If you do, create a 2/2 green Boar creature token that's tapped and attacking.</source>
-        <target state="translated">每当无忧驯猪师攻击时，你可以支付{1}{G}。若你如此作，则派出一个2/2绿色野猪衍生生物，其为横置且正进行攻击。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付{1}{G}。若你如此作，则派出一个2/2绿色野猪衍生生物，其为横置且正进行攻击。</target>
       </trans-unit>
       <trans-unit id="1e84fc74-5b33-423a-82c7-983320fce7a3" resname="CLB·220 | Circle of the Land Druid | Card Name">
         <source>Circle of the Land Druid</source>
@@ -2388,11 +2388,11 @@
       </trans-unit>
       <trans-unit id="1e84fc74-5b33-423a-82c7-983320fce7a3" resname="CLB·220 | Circle of the Land Druid | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may mill four cards. (You may put the top four cards of your library into your graveyard.)</source>
-        <target state="translated">当大地结社德鲁伊进战场时，你可以磨四张牌。（你可以将你牌库顶的四张牌置入你的坟墓场。）</target>
+        <target state="translated">当CARDNAME进战场时，你可以磨四张牌。（你可以将你牌库顶的四张牌置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="1e84fc74-5b33-423a-82c7-983320fce7a3" resname="CLB·220 | Circle of the Land Druid | Card Text | Paragraph 2">
         <source>Natural Recovery — When CARDNAME dies, return target land card from your graveyard to your hand.</source>
-        <target state="translated">自然恢复～当大地结社德鲁伊死去时，将目标地牌从你的坟墓场移回你手上。</target>
+        <target state="translated">自然恢复～当CARDNAME死去时，将目标地牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="4bd8689d-a0c1-4041-bead-7b512fe25663" resname="CLB·221 | Cloakwood Hermit | Card Name">
         <source>Cloakwood Hermit</source>
@@ -2408,7 +2408,7 @@
       </trans-unit>
       <trans-unit id="b6918a85-1a10-4a73-917c-23bd0a877a04" resname="CLB·222 | Cloakwood Swarmkeeper | Card Text | Paragraph 1">
         <source>Gathered Swarm — Whenever one or more tokens enter the battlefield under your control, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">蜂聚集群～每当一个或数个衍生物在你的操控下进战场时，在斗篷森林集群守卫上放置一个+1/+1指示物。</target>
+        <target state="translated">蜂聚集群～每当一个或数个衍生物在你的操控下进战场时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="4fe31ab9-d217-464e-96b1-d8a1ca6ad005" resname="CLB·223 | Colossal Badger | Card Name">
         <source>Colossal Badger</source>
@@ -2416,7 +2416,7 @@
       </trans-unit>
       <trans-unit id="4fe31ab9-d217-464e-96b1-d8a1ca6ad005" resname="CLB·223 | Colossal Badger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 3 life.</source>
-        <target state="translated">当超巨獾进战场时，你获得3点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="4fe31ab9-d217-464e-96b1-d8a1ca6ad005" resname="CLB·223 | Dig Deep | Card Name">
         <source>Dig Deep</source>
@@ -2432,7 +2432,7 @@
       </trans-unit>
       <trans-unit id="4c9bf864-1f93-4d73-a212-f71265411768" resname="CLB·224 | Draconic Muralists | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you may search your library for a Dragon card, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">当龙族壁画师死去时，你可以从你牌库中搜寻一张龙牌，展示该牌，将它置于你手上，然后洗牌。</target>
+        <target state="translated">当CARDNAME死去时，你可以从你牌库中搜寻一张龙牌，展示该牌，将它置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="174ee9e7-8040-4b53-8d0d-177ce924521c" resname="CLB·225 | Dread Linnorm | Card Name">
         <source>Dread Linnorm</source>
@@ -2440,7 +2440,7 @@
       </trans-unit>
       <trans-unit id="174ee9e7-8040-4b53-8d0d-177ce924521c" resname="CLB·225 | Dread Linnorm | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by creatures with power 3 or less.</source>
-        <target state="translated">惧栗蛇龙不能被力量等于或小于3的生物阻挡。</target>
+        <target state="translated">CARDNAME不能被力量等于或小于3的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="174ee9e7-8040-4b53-8d0d-177ce924521c" resname="CLB·225 | Scale Deflection | Card Name">
         <source>Scale Deflection</source>
@@ -2456,7 +2456,7 @@
       </trans-unit>
       <trans-unit id="8a270d07-29da-4c31-ae6a-5f60c162f508" resname="CLB·226 | Druid of the Emerald Grove | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, search your library for up to two basic land cards and reveal them, then roll a d20.</source>
-        <target state="translated">当翠绿林地德鲁伊进战场时，从你牌库中搜寻至多两张基本地牌并展示之，然后掷一颗d20。</target>
+        <target state="translated">当CARDNAME进战场时，从你牌库中搜寻至多两张基本地牌并展示之，然后掷一颗d20。</target>
       </trans-unit>
       <trans-unit id="8a270d07-29da-4c31-ae6a-5f60c162f508" resname="CLB·226 | Druid of the Emerald Grove | Card Text | Paragraph 2">
         <source>9 or less | Put those cards into your hand, then shuffle.</source>
@@ -2492,7 +2492,7 @@
       </trans-unit>
       <trans-unit id="bfedfd30-8075-429e-a0fa-4919920c8632" resname="CLB·228 | Earthquake Dragon | Card Text | Paragraph 3">
         <source>{2}{G}, Sacrifice a land: Return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">{2}{G}，牺牲一个地：将地震巨龙从你的坟墓场移回你手上。</target>
+        <target state="translated">{2}{G}，牺牲一个地：将CARDNAME从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="1d07c21e-55dc-45b2-b406-2ac38ca5d871" resname="CLB·229 | Emerald Dragon | Card Name">
         <source>Emerald Dragon</source>
@@ -2520,7 +2520,7 @@
       </trans-unit>
       <trans-unit id="b6a7d041-957a-4b19-9517-214689dadd45" resname="CLB·230 | Erinis, Gloom Stalker | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, return target land card from your graveyard to the battlefield.</source>
-        <target state="translated">每当幽域追踪者艾琳尼斯攻击时，将目标地牌从你的坟墓场移回战场。</target>
+        <target state="translated">每当CARDNAME攻击时，将目标地牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="b6a7d041-957a-4b19-9517-214689dadd45" resname="CLB·230 | Erinis, Gloom Stalker | Card Text | Paragraph 3">
         <source>Choose a Background (You can have a Background as a second commander.)</source>
@@ -2632,7 +2632,7 @@
       </trans-unit>
       <trans-unit id="66de5a3e-7b08-438b-866e-9fce1a36b243" resname="CLB·239 | Lurking Green Dragon | Card Text | Paragraph 2">
         <source>CARDNAME can't attack unless defending player controls a creature with flying.</source>
-        <target state="translated">除非防御牌手操控具飞行异能的生物，否则伏击绿龙不能进行攻击。</target>
+        <target state="translated">除非防御牌手操控具飞行异能的生物，否则CARDNAME不能进行攻击。</target>
       </trans-unit>
       <trans-unit id="eaadb067-4a77-4d6e-931d-447bd0c06594" resname="CLB·240 | Majestic Genesis | Card Name">
         <source>Majestic Genesis</source>
@@ -2672,7 +2672,7 @@
       </trans-unit>
       <trans-unit id="70408d70-1e4b-41f0-80b1-0d37b3a3918c" resname="CLB·243 | Myconid Spore Tender | Card Text | Paragraph 1">
         <source>Infesting Spores — When CARDNAME enters the battlefield, destroy up to one target artifact or enchantment.</source>
-        <target state="translated">寄生孢子～当护孢蕈人进战场时，消灭至多一个目标神器或结界。</target>
+        <target state="translated">寄生孢子～当CARDNAME进战场时，消灭至多一个目标神器或结界。</target>
       </trans-unit>
       <trans-unit id="616c498c-ac7c-4e58-8789-9bde047c2d47" resname="CLB·245 | Overwhelming Encounter | Card Name">
         <source>Overwhelming Encounter</source>
@@ -2700,7 +2700,7 @@
       </trans-unit>
       <trans-unit id="be177b66-dab3-47ef-bcdf-8d99eb57e19f" resname="CLB·246 | Owlbear Cub | Card Text | Paragraph 1">
         <source>Mama's Coming — Whenever CARDNAME attacks a player who controls eight or more lands, look at the top eight cards of your library. You may put a creature card from among them onto the battlefield tapped and attacking that player. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">妈妈来了～每当枭头幼熊攻击任一操控八个或更多地的牌手时，检视你牌库顶的八张牌。你可以将其中一张生物牌横置放进战场，且正向该牌手进行攻击。将其余的牌以随机顺序置于你牌库底。</target>
+        <target state="translated">妈妈来了～每当CARDNAME攻击任一操控八个或更多地的牌手时，检视你牌库顶的八张牌。你可以将其中一张生物牌横置放进战场，且正向该牌手进行攻击。将其余的牌以随机顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="0a4813b2-3fd7-4a2b-b87a-9ce5bb18bdd4" resname="CLB·247 | Owlbear Shepherd | Card Name">
         <source>Owlbear Shepherd</source>
@@ -2760,11 +2760,11 @@
       </trans-unit>
       <trans-unit id="cfcd60dc-9534-412d-af48-31fcd8ea0843" resname="CLB·253 | Sharpshooter Elf | Card Text | Paragraph 2">
         <source>CARDNAME's power is equal to the number of creatures you control.</source>
-        <target state="translated">精灵神箭手的力量等同于由你操控的生物数量。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控的生物数量。</target>
       </trans-unit>
       <trans-unit id="cfcd60dc-9534-412d-af48-31fcd8ea0843" resname="CLB·253 | Sharpshooter Elf | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, it deals damage equal to its power to target creature with flying an opponent controls.</source>
-        <target state="translated">当精灵神箭手进战场时，它向目标由对手操控且具飞行异能的生物造成伤害，其数量等同于前者的力量。</target>
+        <target state="translated">当CARDNAME进战场时，它向目标由对手操控且具飞行异能的生物造成伤害，其数量等同于前者的力量。</target>
       </trans-unit>
       <trans-unit id="f1dd1bb8-013b-4028-becd-e0cb4b84f1ad" resname="CLB·254 | Silvanus's Invoker | Card Name">
         <source>Silvanus's Invoker</source>
@@ -2780,7 +2780,7 @@
       </trans-unit>
       <trans-unit id="e2f9233c-9d9f-480b-89fb-54d74d63a17a" resname="CLB·255 | Skanos Dragonheart | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +X/+X until end of turn, where X is the greatest power among other Dragons you control and Dragon cards in your graveyard.</source>
-        <target state="translated">每当尚诺斯龙心攻击时，它得+X/+X直到回合结束，X为由你操控之其他龙与你坟墓场内龙牌中的最大力量。</target>
+        <target state="translated">每当CARDNAME攻击时，它得+X/+X直到回合结束，X为由你操控之其他龙与你坟墓场内龙牌中的最大力量。</target>
       </trans-unit>
       <trans-unit id="e2f9233c-9d9f-480b-89fb-54d74d63a17a" resname="CLB·255 | Skanos Dragonheart | Card Text | Paragraph 2">
         <source>Choose a Background (You can have a Background as a second commander.)</source>
@@ -2800,7 +2800,7 @@
       </trans-unit>
       <trans-unit id="786c5b3e-737f-4794-b482-af5f0ee901e5" resname="CLB·259 | Undercellar Myconid | Card Text | Paragraph 1">
         <source>Whenever CARDNAME enters the battlefield or dies, create a 1/1 green Saproling creature token.</source>
-        <target state="translated">每当地下窖蕈人进战场或死去时，派出一个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">每当CARDNAME进战场或死去时，派出一个1/1绿色腐生物衍生生物。</target>
       </trans-unit>
       <trans-unit id="786c5b3e-737f-4794-b482-af5f0ee901e5" resname="CLB·259 | Undercellar Myconid | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color.</source>
@@ -2816,7 +2816,7 @@
       </trans-unit>
       <trans-unit id="541f53a3-521f-4463-a0b6-758a45d8f661" resname="CLB·260 | Undermountain Adventurer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当地脉迷城冒险家进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="541f53a3-521f-4463-a0b6-758a45d8f661" resname="CLB·260 | Undermountain Adventurer | Card Text | Paragraph 3">
         <source>{T}: Add {G}{G}. If you've completed a dungeon, add six {G} instead.</source>
@@ -2900,7 +2900,7 @@
       </trans-unit>
       <trans-unit id="1a576d17-693d-4cc1-bb5b-bf81c74de03b" resname="CLB·267 | Bane, Lord of Darkness | Card Text | Paragraph 1">
         <source>As long as your life total is less than or equal to half your starting life total, CARDNAME has indestructible.</source>
-        <target state="translated">只要你的总生命等于或小于你起始总生命的一半，黑暗之主班恩便具有不灭异能。</target>
+        <target state="translated">只要你的总生命等于或小于你起始总生命的一半，CARDNAME便具有不灭异能。</target>
       </trans-unit>
       <trans-unit id="1a576d17-693d-4cc1-bb5b-bf81c74de03b" resname="CLB·267 | Bane, Lord of Darkness | Card Text | Paragraph 2">
         <source>Whenever another nontoken creature you control dies, target opponent may have you draw a card. If they don't, you may put a creature card with equal or lesser toughness from your hand onto the battlefield.</source>
@@ -2912,7 +2912,7 @@
       </trans-unit>
       <trans-unit id="88b11da8-f9af-4ef3-9bc2-c28f0a8a5dd1" resname="CLB·268 | Bhaal, Lord of Murder | Card Text | Paragraph 1">
         <source>As long as your life total is less than or equal to half your starting life total, CARDNAME has indestructible.</source>
-        <target state="translated">只要你的总生命等于或小于你起始总生命的一半，谋杀之主巴尔便具有不灭异能。</target>
+        <target state="translated">只要你的总生命等于或小于你起始总生命的一半，CARDNAME便具有不灭异能。</target>
       </trans-unit>
       <trans-unit id="88b11da8-f9af-4ef3-9bc2-c28f0a8a5dd1" resname="CLB·268 | Bhaal, Lord of Murder | Card Text | Paragraph 2">
         <source>Whenever another nontoken creature you control dies, put a +1/+1 counter on target creature and goad it.</source>
@@ -2928,7 +2928,7 @@
       </trans-unit>
       <trans-unit id="75994e0b-b0c7-4b0d-8f48-4be303429bd6" resname="CLB·269 | Cadira, Caller of the Small | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, for each token you control, create a 1/1 white Rabbit creature token.</source>
-        <target state="translated">每当小物唤师卡迪拉对任一牌手造成战斗伤害时，你每操控一个衍生物，便派出一个1/1白色的兔衍生生物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你每操控一个衍生物，便派出一个1/1白色的兔衍生生物。</target>
       </trans-unit>
       <trans-unit id="9ac8b247-455e-4a3f-9f88-b20918c36cc3" resname="CLB·270 | Commander Liara Portyr | Card Name">
         <source>Commander Liara Portyr</source>
@@ -2992,7 +2992,7 @@
       </trans-unit>
       <trans-unit id="4eac2b49-6cb6-4ff4-8fac-2ba669326640" resname="CLB·274 | Elminster | Card Text | Paragraph 4">
         <source>CARDNAME can be your commander.</source>
-        <target state="translated">伊尔明斯特可用作指挥官。</target>
+        <target state="translated">CARDNAME可用作指挥官。</target>
       </trans-unit>
       <trans-unit id="3b3e889a-5865-4464-9923-bffa25c50cd2" resname="CLB·275 | Gluntch, the Bestower | Card Name">
         <source>Gluntch, the Bestower</source>
@@ -3052,7 +3052,7 @@
       </trans-unit>
       <trans-unit id="6351adc8-2e44-4e5c-ae58-975b7332155e" resname="CLB·279 | Kagha, Shadow Archdruid | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gains deathtouch until end of turn. Mill two cards. (Put the top two cards of your library into your graveyard.)</source>
-        <target state="translated">每当暗影大德鲁伊卡格佳攻击时，它获得死触异能直到回合结束。磨两张牌。（将你牌库顶的两张牌置入你的坟墓场。）</target>
+        <target state="translated">每当CARDNAME攻击时，它获得死触异能直到回合结束。磨两张牌。（将你牌库顶的两张牌置入你的坟墓场。）</target>
       </trans-unit>
       <trans-unit id="6351adc8-2e44-4e5c-ae58-975b7332155e" resname="CLB·279 | Kagha, Shadow Archdruid | Card Text | Paragraph 2">
         <source>Once during each of your turns, you may play a land or cast a permanent spell from among cards in your graveyard that were put there from your library this turn.</source>
@@ -3080,7 +3080,7 @@
       </trans-unit>
       <trans-unit id="fe604232-19da-4331-a6f2-ddb004f1dd90" resname="CLB·281 | Lozhan, Dragons' Legacy | Card Text | Paragraph 2">
         <source>Whenever you cast an Adventure or Dragon spell, CARDNAME deals damage equal to that spell's mana value to any target that isn't a commander.</source>
-        <target state="translated">每当你施放历险咒语或龙咒语时，龙族传承洛珊对任意一个不为指挥官的目标造成伤害，其数量等同于该咒语的法术力值。</target>
+        <target state="translated">每当你施放历险咒语或龙咒语时，CARDNAME对任意一个不为指挥官的目标造成伤害，其数量等同于该咒语的法术力值。</target>
       </trans-unit>
       <trans-unit id="c3da2b1a-76c5-4d36-bdf8-025b86f61eb5" resname="CLB·282 | Mahadi, Emporium Master | Card Name">
         <source>Mahadi, Emporium Master</source>
@@ -3120,7 +3120,7 @@
       </trans-unit>
       <trans-unit id="928036c9-11b8-493e-b9f2-8fbd3487cd19" resname="CLB·285 | Minsc &amp;amp; Boo, Timeless Heroes | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield and at the beginning of your upkeep, you may create Boo, a legendary 1/1 red Hamster creature token with trample and haste.</source>
-        <target state="translated">当历时英雄明斯克与布布进战场和在你的维持开始时，你可以派出传奇衍生生物布布，其为1/1红色，具践踏与敏捷异能的仓鼠。</target>
+        <target state="translated">当CARDNAME进战场和在你的维持开始时，你可以派出传奇衍生生物布布，其为1/1红色，具践踏与敏捷异能的仓鼠。</target>
       </trans-unit>
       <trans-unit id="928036c9-11b8-493e-b9f2-8fbd3487cd19" resname="CLB·285 | Minsc &amp;amp; Boo, Timeless Heroes | Card Text | Paragraph 2">
         <source>[+1]: Put three +1/+1 counters on up to one target creature with trample or haste.</source>
@@ -3128,11 +3128,11 @@
       </trans-unit>
       <trans-unit id="928036c9-11b8-493e-b9f2-8fbd3487cd19" resname="CLB·285 | Minsc &amp;amp; Boo, Timeless Heroes | Card Text | Paragraph 3">
         <source>[−2]: Sacrifice a creature. When you do, CARDNAME deals X damage to any target, where X is that creature's power. If the sacrificed creature was a Hamster, draw X cards.</source>
-        <target state="translated">-2：牺牲一个生物。当你如此作时，历时英雄明斯克与布布对任意一个目标造成X点伤害，X为该生物的力量。如果所牺牲的生物是仓鼠，则抓X张牌。</target>
+        <target state="translated">-2：牺牲一个生物。当你如此作时，CARDNAME对任意一个目标造成X点伤害，X为该生物的力量。如果所牺牲的生物是仓鼠，则抓X张牌。</target>
       </trans-unit>
       <trans-unit id="928036c9-11b8-493e-b9f2-8fbd3487cd19" resname="CLB·285 | Minsc &amp;amp; Boo, Timeless Heroes | Card Text | Paragraph 4">
         <source>CARDNAME can be your commander.</source>
-        <target state="translated">历时英雄明斯克与布布可用作指挥官。</target>
+        <target state="translated">CARDNAME可用作指挥官。</target>
       </trans-unit>
       <trans-unit id="0c9e944b-98fa-4aea-825d-b8b8a9d7ed47" resname="CLB·286 | Minthara, Merciless Soul | Card Name">
         <source>Minthara, Merciless Soul</source>
@@ -3156,7 +3156,7 @@
       </trans-unit>
       <trans-unit id="82824d05-5215-459a-aa73-3c5a6be3d464" resname="CLB·287 | Myrkul, Lord of Bones | Card Text | Paragraph 1">
         <source>As long as your life total is less than or equal to half your starting life total, CARDNAME has indestructible.</source>
-        <target state="translated">只要你的总生命等于或小于你起始总生命的一半，骸骨之主米尔寇便具有不灭异能。</target>
+        <target state="translated">只要你的总生命等于或小于你起始总生命的一半，CARDNAME便具有不灭异能。</target>
       </trans-unit>
       <trans-unit id="82824d05-5215-459a-aa73-3c5a6be3d464" resname="CLB·287 | Myrkul, Lord of Bones | Card Text | Paragraph 2">
         <source>Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of that card, except it's an enchantment and loses all other card types.</source>
@@ -3184,7 +3184,7 @@
       </trans-unit>
       <trans-unit id="5480ac0a-883a-4f73-8e7c-56d64be410a3" resname="CLB·289 | Nine-Fingers Keene | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals combat damage to a player, look at the top nine cards of your library. You may put a Gate card from among them onto the battlefield. Then if you control nine or more Gates, put the rest into your hand. Otherwise, put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">每当九指姬恩对任一牌手造成战斗伤害时，检视你牌库顶的九张牌。你可以将其中一张门牌放进战场。然后如果你操控九个或更多门，其余的牌则置于你手上。若否，则以随机顺序置于你牌库底。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，检视你牌库顶的九张牌。你可以将其中一张门牌放进战场。然后如果你操控九个或更多门，其余的牌则置于你手上。若否，则以随机顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="13129e63-558d-415d-87eb-616868205341" resname="CLB·290 | Oji, the Exquisite Blade | Card Name">
         <source>Oji, the Exquisite Blade</source>
@@ -3192,7 +3192,7 @@
       </trans-unit>
       <trans-unit id="13129e63-558d-415d-87eb-616868205341" resname="CLB·290 | Oji, the Exquisite Blade | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 2 life and scry 2.</source>
-        <target state="translated">当精刻利刃欧寄进战场时，你获得2点生命且占卜2。</target>
+        <target state="translated">当CARDNAME进战场时，你获得2点生命且占卜2。</target>
       </trans-unit>
       <trans-unit id="13129e63-558d-415d-87eb-616868205341" resname="CLB·290 | Oji, the Exquisite Blade | Card Text | Paragraph 2">
         <source>Whenever you cast your second spell each turn, exile up to one target creature you control, then return it to the battlefield under its owner's control.</source>
@@ -3240,7 +3240,7 @@
       </trans-unit>
       <trans-unit id="54484439-6f8a-47f1-8d62-4689af7f00c2" resname="CLB·293 | Rilsa Rael, Kingpin | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当罪犯头目莉尔萨蕾尔进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="54484439-6f8a-47f1-8d62-4689af7f00c2" resname="CLB·293 | Rilsa Rael, Kingpin | Card Text | Paragraph 3">
         <source>Whenever you attack, target attacking creature gains deathtouch until end of turn. If you've completed a dungeon, that creature also gets +5/+0 and gains first strike and menace until end of turn.</source>
@@ -3264,7 +3264,7 @@
       </trans-unit>
       <trans-unit id="b1c5f679-82d0-4434-9f13-d39ad57282b8" resname="CLB·294 | Tasha, the Witch Queen | Card Text | Paragraph 4">
         <source>CARDNAME can be your commander.</source>
-        <target state="translated">巫后塔莎可用作指挥官。</target>
+        <target state="translated">CARDNAME可用作指挥官。</target>
       </trans-unit>
       <trans-unit id="2255d1e4-f387-4187-8c10-7d0009f6ec79" resname="CLB·295 | Thrakkus the Butcher | Card Name">
         <source>Thrakkus the Butcher</source>
@@ -3276,7 +3276,7 @@
       </trans-unit>
       <trans-unit id="2255d1e4-f387-4187-8c10-7d0009f6ec79" resname="CLB·295 | Thrakkus the Butcher | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, double the power of each Dragon you control until end of turn.</source>
-        <target state="translated">每当屠夫斯拉库斯攻击时，将每个由你操控之龙的力量加倍直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，将每个由你操控之龙的力量加倍直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d1e51138-9745-465d-84dd-27605f8a2264" resname="CLB·296 | Zevlor, Elturel Exile | Card Name">
         <source>Zevlor, Elturel Exile</source>
@@ -3296,7 +3296,7 @@
       </trans-unit>
       <trans-unit id="b2cfd2c0-2110-47f1-809e-487b9b0a1043" resname="CLB·302 | Bronze Walrus | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</source>
-        <target state="translated">当青铜海象进战场时，占卜2。（检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
+        <target state="translated">当CARDNAME进战场时，占卜2。（检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
       </trans-unit>
       <trans-unit id="b2cfd2c0-2110-47f1-809e-487b9b0a1043" resname="CLB·302 | Bronze Walrus | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color.</source>
@@ -3314,7 +3314,7 @@
       </trans-unit>
       <trans-unit id="ba581225-0966-4ff0-be04-1ad11f37937f" resname="CLB·304 | Campfire | Card Text | Paragraph 2">
         <source>{2}, {T}, Exile CARDNAME: Put all commanders you own from the command zone and from your graveyard into your hand. Then shuffle your graveyard into your library.</source>
-        <target state="translated">{2}，{T}，放逐营火：将所有由你拥有的指挥官从统帅区和你的坟墓场置于你手上。然后将你的坟墓场洗入你牌库。</target>
+        <target state="translated">{2}，{T}，放逐CARDNAME：将所有由你拥有的指挥官从统帅区和你的坟墓场置于你手上。然后将你的坟墓场洗入你牌库。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="a950d8be-dcf7-4253-a3cc-c040ba632355" resname="CLB·306 | Chardalyn Dragon | Card Name">
@@ -3343,7 +3343,7 @@
       </trans-unit>
       <trans-unit id="8fbb37d7-7053-4b1f-b899-91695f88f7e0" resname="CLB·308 | Clockwork Fox | Card Text | Paragraph 1">
         <source>When CARDNAME leaves the battlefield, you draw two cards and each opponent draws a card.</source>
-        <target state="translated">当发条灵狐离开战场时，你抓两张牌且每位对手各抓一张牌。</target>
+        <target state="translated">当CARDNAME离开战场时，你抓两张牌且每位对手各抓一张牌。</target>
       </trans-unit>
       <trans-unit id="518bbc36-58ea-44c4-a857-75a3aff058f5" resname="CLB·309 | Decanter of Endless Water | Card Name">
         <source>Decanter of Endless Water</source>
@@ -3367,11 +3367,11 @@
       </trans-unit>
       <trans-unit id="6e29bae1-0643-4781-9edc-50a8e6d1a3a1" resname="CLB·310 | Dire Mimic | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Add one mana of any color.</source>
-        <target state="translated">{T}，牺牲凶暴拟身怪：加一点任意颜色的法术力。</target>
+        <target state="translated">{T}，牺牲CARDNAME：加一点任意颜色的法术力。</target>
       </trans-unit>
       <trans-unit id="6e29bae1-0643-4781-9edc-50a8e6d1a3a1" resname="CLB·310 | Dire Mimic | Card Text | Paragraph 3">
         <source>{3}: CARDNAME becomes a Shapeshifter artifact creature with base power and toughness 5/5 until end of turn.</source>
-        <target state="translated">{3}：凶暴拟身怪成为基础力量与防御力为5/5的变形兽神器生物直到回合结束。</target>
+        <target state="translated">{3}：CARDNAME成为基础力量与防御力为5/5的变形兽神器生物直到回合结束。</target>
       </trans-unit>
       <trans-unit id="9803002e-08f8-4533-b645-7e54d18bbc54" resname="CLB·311 | Drillworks Mole | Card Name">
         <source>Drillworks Mole</source>
@@ -3379,7 +3379,7 @@
       </trans-unit>
       <trans-unit id="9803002e-08f8-4533-b645-7e54d18bbc54" resname="CLB·311 | Drillworks Mole | Card Text | Paragraph 1">
         <source>{2}, {T}: Put a +1/+1 counter on CARDNAME and a +1/+1 counter on up to one target commander creature you control.</source>
-        <target state="translated">{2}，{T}：在钻机鼹鼠上放置一个+1/1指示物，并在至多一个目标由你操控的指挥官生物上放置一个+1/+1指示物。</target>
+        <target state="translated">{2}，{T}：在CARDNAME上放置一个+1/1指示物，并在至多一个目标由你操控的指挥官生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="aa74e656-480a-4c1b-963d-1b207075c27f" resname="CLB·312 | Dungeoneer's Pack | Card Name">
         <source>Dungeoneer's Pack</source>
@@ -3387,11 +3387,11 @@
       </trans-unit>
       <trans-unit id="aa74e656-480a-4c1b-963d-1b207075c27f" resname="CLB·312 | Dungeoneer's Pack | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">地城专家背包须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="aa74e656-480a-4c1b-963d-1b207075c27f" resname="CLB·312 | Dungeoneer's Pack | Card Text | Paragraph 2">
         <source>{2}, {T}, Sacrifice CARDNAME: You take the initiative, gain 3 life, draw a card, and create a Treasure token. Activate only as a sorcery. (A Treasure token is an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">{2}，{T}，牺牲地城专家背包：你掌握先制，获得3点生命，抓一张牌并派出一个珍宝衍生物。只能于法术时机起动。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：你掌握先制，获得3点生命，抓一张牌并派出一个珍宝衍生物。只能于法术时机起动。（珍宝衍生物是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="75bf7702-c97d-4b88-b815-769c4906e014" resname="CLB·314 | Fraying Line | Card Name">
         <source>Fraying Line</source>
@@ -3399,11 +3399,11 @@
       </trans-unit>
       <trans-unit id="75bf7702-c97d-4b88-b815-769c4906e014" resname="CLB·314 | Fraying Line | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a rope counter on target creature you control.</source>
-        <target state="translated">当有损绳索进战场时，在目标由你操控的生物上放置一个绳索指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在目标由你操控的生物上放置一个绳索指示物。</target>
       </trans-unit>
       <trans-unit id="75bf7702-c97d-4b88-b815-769c4906e014" resname="CLB·314 | Fraying Line | Card Text | Paragraph 2">
         <source>At the beginning of each player's upkeep, that player may pay {2}. If they do, they put a rope counter on a creature they control. Otherwise, exile CARDNAME and each creature without a rope counter on it, then remove all rope counters from all creatures.</source>
-        <target state="translated">在每位牌手的维持开始时，该牌手可以支付{2}。若他如此作，则他在一个由其操控的生物上放置一个绳索指示物。若否，则放逐有损绳索和每个其上没有绳索指示物的生物，然后移去所有生物上的所有绳索指示物。</target>
+        <target state="translated">在每位牌手的维持开始时，该牌手可以支付{2}。若他如此作，则他在一个由其操控的生物上放置一个绳索指示物。若否，则放逐CARDNAME和每个其上没有绳索指示物的生物，然后移去所有生物上的所有绳索指示物。</target>
       </trans-unit>
       <trans-unit id="d9633151-d704-42a4-b1c6-66446bf48bee" resname="CLB·317 | Iron Mastiff | Card Name">
         <source>Iron Mastiff</source>
@@ -3411,19 +3411,19 @@
       </trans-unit>
       <trans-unit id="d9633151-d704-42a4-b1c6-66446bf48bee" resname="CLB·317 | Iron Mastiff | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, roll a d20 for each player being attacked and ignore all but the highest roll.</source>
-        <target state="translated">每当钢铁獒犬攻击时，掷等同于受攻击之牌手数量的d20并忽略除最高点数以外的其他结果。</target>
+        <target state="translated">每当CARDNAME攻击时，掷等同于受攻击之牌手数量的d20并忽略除最高点数以外的其他结果。</target>
       </trans-unit>
       <trans-unit id="d9633151-d704-42a4-b1c6-66446bf48bee" resname="CLB·317 | Iron Mastiff | Card Text | Paragraph 2">
         <source>1—9 | CARDNAME deals damage equal to its power to you.</source>
-        <target state="translated">1～9 | 钢铁獒犬对你造成等同于其力量的伤害。</target>
+        <target state="translated">1～9 | CARDNAME对你造成等同于其力量的伤害。</target>
       </trans-unit>
       <trans-unit id="d9633151-d704-42a4-b1c6-66446bf48bee" resname="CLB·317 | Iron Mastiff | Card Text | Paragraph 3">
         <source>10—19 | CARDNAME deals damage equal to its power to defending player.</source>
-        <target state="translated">10～19 | 钢铁獒犬对防御牌手造成等同于其力量的伤害。</target>
+        <target state="translated">10～19 | CARDNAME对防御牌手造成等同于其力量的伤害。</target>
       </trans-unit>
       <trans-unit id="d9633151-d704-42a4-b1c6-66446bf48bee" resname="CLB·317 | Iron Mastiff | Card Text | Paragraph 4">
         <source>20 | CARDNAME deals damage equal to its power to each opponent.</source>
-        <target state="translated">20 | 钢铁獒犬向每位对手各造成等同于其力量的伤害。</target>
+        <target state="translated">20 | CARDNAME向每位对手各造成等同于其力量的伤害。</target>
       </trans-unit>
       <trans-unit id="2f43d21a-4400-4770-95a9-ce074ee68232" resname="CLB·318 | Lantern of Revealing | Card Name">
         <source>Lantern of Revealing</source>
@@ -3443,7 +3443,7 @@
       </trans-unit>
       <trans-unit id="822e46fc-1ebc-4151-bfd3-333fa6b77816" resname="CLB·321 | Marching Duodrone | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, each player creates a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">每当行进二元冢攻击时，每位牌手各派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">每当CARDNAME攻击时，每位牌手各派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="a3ce857f-2870-4dc9-a763-9ce710e4b375" resname="CLB·322 | Marut | Card Name">
         <source>Marut</source>
@@ -3455,7 +3455,7 @@
       </trans-unit>
       <trans-unit id="a3ce857f-2870-4dc9-a763-9ce710e4b375" resname="CLB·322 | Marut | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if mana from a Treasure was spent to cast it, create a Treasure token for each mana from a Treasure spent to cast it. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">当猎偷生使进战场时，若施放它时支付过来自珍宝的法术力，则施放它时每支付过一点来自珍宝的法术力，便派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，若施放它时支付过来自珍宝的法术力，则施放它时每支付过一点来自珍宝的法术力，便派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="257f12c2-db58-413f-9896-6e556bd9c0d9" resname="CLB·324 | Mighty Servant of Leuk-o | Card Name">
         <source>Mighty Servant of Leuk-o</source>
@@ -3471,7 +3471,7 @@
       </trans-unit>
       <trans-unit id="257f12c2-db58-413f-9896-6e556bd9c0d9" resname="CLB·324 | Mighty Servant of Leuk-o | Card Text | Paragraph 3">
         <source>Whenever CARDNAME becomes crewed for the first time each turn, if it was crewed by exactly two creatures, it gains &amp;quot;Whenever this creature deals combat damage to a player, draw two cards&amp;quot; until end of turn.</source>
-        <target state="translated">每当勒克欧的强力仆役每回合首度成为已搭载时，若它由正好两个生物搭载，则它获得「每当此生物对任一牌手造成战斗伤害时，抓两张牌」直到回合结束。</target>
+        <target state="translated">每当CARDNAME每回合首度成为已搭载时，若它由正好两个生物搭载，则它获得「每当此生物对任一牌手造成战斗伤害时，抓两张牌」直到回合结束。</target>
       </trans-unit>
       <trans-unit id="257f12c2-db58-413f-9896-6e556bd9c0d9" resname="CLB·324 | Mighty Servant of Leuk-o | Card Text | Paragraph 4">
         <source>Crew 4</source>
@@ -3483,7 +3483,7 @@
       </trans-unit>
       <trans-unit id="a0937a60-887b-46d0-b573-099626d57bcf" resname="CLB·326 | Mirror of Life Trapping | Card Text | Paragraph 1">
         <source>Whenever a creature enters the battlefield, if it was cast, exile it, then return all other permanent cards exiled with CARDNAME to the battlefield under their owners' control.</source>
-        <target state="translated">每当一个生物进战场时，若它经牌手施放，则将之放逐，然后将所有以慑心镜放逐的其他永久物牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">每当一个生物进战场时，若它经牌手施放，则将之放逐，然后将所有以CARDNAME放逐的其他永久物牌在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="d4e2f75e-75f3-4255-969f-0eab32f7bd1e" resname="CLB·328 | Nautiloid Ship | Card Name">
         <source>Nautiloid Ship</source>
@@ -3495,11 +3495,11 @@
       </trans-unit>
       <trans-unit id="d4e2f75e-75f3-4255-969f-0eab32f7bd1e" resname="CLB·328 | Nautiloid Ship | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile target player's graveyard.</source>
-        <target state="translated">当螺壳船进战场时，放逐目标牌手的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标牌手的坟墓场。</target>
       </trans-unit>
       <trans-unit id="d4e2f75e-75f3-4255-969f-0eab32f7bd1e" resname="CLB·328 | Nautiloid Ship | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals combat damage to a player, you may put a creature card exiled with CARDNAME onto the battlefield under your control.</source>
-        <target state="translated">每当螺壳船对任一牌手造成战斗伤害时，你可以将一张以螺壳船放逐的生物牌在你的操控下放进战场。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以将一张以CARDNAME放逐的生物牌在你的操控下放进战场。</target>
       </trans-unit>
       <trans-unit id="d4e2f75e-75f3-4255-969f-0eab32f7bd1e" resname="CLB·328 | Nautiloid Ship | Card Text | Paragraph 4">
         <source>Crew 3</source>
@@ -3511,7 +3511,7 @@
       </trans-unit>
       <trans-unit id="d512a77e-2435-4695-9408-df8e17dd1fbd" resname="CLB·329 | Navigation Orb | Card Text | Paragraph 1">
         <source>{2}, {T}, Sacrifice CARDNAME: Search your library for up to two basic land cards and/or Gate cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</source>
-        <target state="translated">{2}，{T}，牺牲领航法球：从你牌库中搜寻至多两张基本地牌和／或门牌，展示这些牌，将一张横置放进战场，另一张则置于你手上，然后洗牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：从你牌库中搜寻至多两张基本地牌和／或门牌，展示这些牌，将一张横置放进战场，另一张则置于你手上，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="34282856-c0f1-4845-bfc8-537466c6a5bb" resname="CLB·330 | Nimblewright Schematic | Card Name">
         <source>Nimblewright Schematic</source>
@@ -3519,7 +3519,7 @@
       </trans-unit>
       <trans-unit id="34282856-c0f1-4845-bfc8-537466c6a5bb" resname="CLB·330 | Nimblewright Schematic | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Construct artifact creature token.</source>
-        <target state="translated">当捷艺偶原理图进战场或从战场进入坟墓场时，派出一个1/1无色组构体衍生神器生物。</target>
+        <target state="translated">当CARDNAME进战场或从战场进入坟墓场时，派出一个1/1无色组构体衍生神器生物。</target>
       </trans-unit>
       <trans-unit id="be533558-3b16-4df0-a0ca-faa1ebf2e641" resname="CLB·331 | Noble's Purse | Card Name">
         <source>Noble's Purse</source>
@@ -3527,11 +3527,11 @@
       </trans-unit>
       <trans-unit id="be533558-3b16-4df0-a0ca-faa1ebf2e641" resname="CLB·331 | Noble's Purse | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped and with three coin counters on it.</source>
-        <target state="translated">贵人钱包须横置进战场且上面有三个钱币指示物。</target>
+        <target state="translated">CARDNAME须横置进战场且上面有三个钱币指示物。</target>
       </trans-unit>
       <trans-unit id="be533558-3b16-4df0-a0ca-faa1ebf2e641" resname="CLB·331 | Noble's Purse | Card Text | Paragraph 2">
         <source>{T}, Remove a coin counter from CARDNAME: Create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">{T}，从贵人钱包上移去一个钱币指示物：派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">{T}，从CARDNAME上移去一个钱币指示物：派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="37f920f0-4dfc-477b-af7e-a17dfc9ba455" resname="CLB·332 | Patriar's Seal | Card Name">
         <source>Patriar's Seal</source>
@@ -3551,7 +3551,7 @@
       </trans-unit>
       <trans-unit id="58a49829-c354-4823-8cc1-a159fc46c0d7" resname="CLB·334 | Prized Statue | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield or is put into a graveyard from the battlefield, create a Treasure token. (It's an artifact with &amp;quot;{T}, Sacrifice this artifact: Add one mana of any color.&amp;quot;)</source>
-        <target state="translated">当珍奇雕像进战场或从战场进入坟墓场时，派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
+        <target state="translated">当CARDNAME进战场或从战场进入坟墓场时，派出一个珍宝衍生物。（它是具有「{T}，牺牲此神器：加一点任意颜色的法术力」的神器。）</target>
       </trans-unit>
       <trans-unit id="a73d1cb0-d0dc-4f2a-9cf2-954d5889dd08" resname="CLB·336 | Rug of Smothering | Card Name">
         <source>Rug of Smothering</source>
@@ -3575,7 +3575,7 @@
       </trans-unit>
       <trans-unit id="8c99e6e1-3b88-4d2f-bc5d-70439585a063" resname="CLB·338 | Stonespeaker Crystal | Card Text | Paragraph 2">
         <source>{2}, {T}, Sacrifice CARDNAME: Exile any number of target players' graveyards. Draw a card.</source>
-        <target state="translated">{2}，{T}，牺牲石语者水晶：放逐任意数量目标牌手的坟墓场。抓一张牌。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：放逐任意数量目标牌手的坟墓场。抓一张牌。</target>
       </trans-unit>
       <trans-unit id="0c4f76ae-e93b-4ca1-ac62-753707f6319e" resname="CLB·340 | Trailblazer's Torch | Card Name">
         <source>Trailblazer's Torch</source>
@@ -3583,7 +3583,7 @@
       </trans-unit>
       <trans-unit id="0c4f76ae-e93b-4ca1-ac62-753707f6319e" resname="CLB·340 | Trailblazer's Torch | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当开拓者火炬进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="0c4f76ae-e93b-4ca1-ac62-753707f6319e" resname="CLB·340 | Trailblazer's Torch | Card Text | Paragraph 2">
         <source>Whenever equipped creature becomes blocked, it deals 2 damage to each creature blocking it.</source>
@@ -3599,7 +3599,7 @@
       </trans-unit>
       <trans-unit id="c477fb1a-5aac-4722-80d8-7570a8b09e44" resname="CLB·343 | Vexing Puzzlebox | Card Text | Paragraph 1">
         <source>Whenever you roll one or more dice, put a number of charge counters on CARDNAME equal to the result.</source>
-        <target state="translated">每当你掷一颗或数颗骰子时，在乱心魔盒上放置若干充电指示物，其数量等同于掷骰结果。</target>
+        <target state="translated">每当你掷一颗或数颗骰子时，在CARDNAME上放置若干充电指示物，其数量等同于掷骰结果。</target>
       </trans-unit>
       <trans-unit id="c477fb1a-5aac-4722-80d8-7570a8b09e44" resname="CLB·343 | Vexing Puzzlebox | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color. Roll a d20.</source>
@@ -3607,7 +3607,7 @@
       </trans-unit>
       <trans-unit id="c477fb1a-5aac-4722-80d8-7570a8b09e44" resname="CLB·343 | Vexing Puzzlebox | Card Text | Paragraph 3">
         <source>{T}, Remove 100 charge counters from CARDNAME: Search your library for an artifact card, put that card onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，从乱心魔盒上移去100个充电指示物：从你牌库中搜寻一张神器牌，将该牌放进战场，然后洗牌。</target>
+        <target state="translated">{T}，从CARDNAME上移去100个充电指示物：从你牌库中搜寻一张神器牌，将该牌放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="2436aa14-9200-4295-8041-b682cf3c4216" resname="CLB·345 | Baldur's Gate | Card Name">
         <source>Baldur's Gate</source>
@@ -3639,11 +3639,11 @@
       </trans-unit>
       <trans-unit id="c4ceb589-c741-44ac-98c8-3d997953ee61" resname="CLB·347 | Black Dragon Gate | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">黑龙门须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="c4ceb589-c741-44ac-98c8-3d997953ee61" resname="CLB·347 | Black Dragon Gate | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a color other than black.</source>
-        <target state="translated">于黑龙门进战场时，选择一种黑色以外的颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种黑色以外的颜色。</target>
       </trans-unit>
       <trans-unit id="c4ceb589-c741-44ac-98c8-3d997953ee61" resname="CLB·347 | Black Dragon Gate | Card Text | Paragraph 3">
         <source>{T}: Add {B} or one mana of the chosen color.</source>
@@ -3655,11 +3655,11 @@
       </trans-unit>
       <trans-unit id="c0e6f002-9a10-49a1-8604-2b8ff57732dd" resname="CLB·349 | Citadel Gate | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">城堡门须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="c0e6f002-9a10-49a1-8604-2b8ff57732dd" resname="CLB·349 | Citadel Gate | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a color other than white.</source>
-        <target state="translated">于城堡门进战场时，选择一种白色以外的颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种白色以外的颜色。</target>
       </trans-unit>
       <trans-unit id="c0e6f002-9a10-49a1-8604-2b8ff57732dd" resname="CLB·349 | Citadel Gate | Card Text | Paragraph 3">
         <source>{T}: Add {W} or one mana of the chosen color.</source>
@@ -3671,11 +3671,11 @@
       </trans-unit>
       <trans-unit id="557470dc-c594-4b26-81b9-356bedb0c215" resname="CLB·350 | Cliffgate | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">山崖门须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="557470dc-c594-4b26-81b9-356bedb0c215" resname="CLB·350 | Cliffgate | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a color other than red.</source>
-        <target state="translated">于山崖门进战场时，选择一种红色以外的颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种红色以外的颜色。</target>
       </trans-unit>
       <trans-unit id="557470dc-c594-4b26-81b9-356bedb0c215" resname="CLB·350 | Cliffgate | Card Text | Paragraph 3">
         <source>{T}: Add {R} or one mana of the chosen color.</source>
@@ -3719,11 +3719,11 @@
       </trans-unit>
       <trans-unit id="793d4978-9e00-453d-8dc2-6d51ad6c26b7" resname="CLB·356 | Manor Gate | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">宅邸门须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="793d4978-9e00-453d-8dc2-6d51ad6c26b7" resname="CLB·356 | Manor Gate | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a color other than green.</source>
-        <target state="translated">于宅邸门进战场时，选择一种绿色以外的颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种绿色以外的颜色。</target>
       </trans-unit>
       <trans-unit id="793d4978-9e00-453d-8dc2-6d51ad6c26b7" resname="CLB·356 | Manor Gate | Card Text | Paragraph 3">
         <source>{T}: Add {G} or one mana of the chosen color.</source>
@@ -3735,11 +3735,11 @@
       </trans-unit>
       <trans-unit id="d97f31e1-bcaf-4316-a2de-49e2cf7566ec" resname="CLB·359 | Sea Gate | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">海洋门须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="d97f31e1-bcaf-4316-a2de-49e2cf7566ec" resname="CLB·359 | Sea Gate | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a color other than blue.</source>
-        <target state="translated">于海洋门进战场时，选择一种蓝色以外的颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种蓝色以外的颜色。</target>
       </trans-unit>
       <trans-unit id="d97f31e1-bcaf-4316-a2de-49e2cf7566ec" resname="CLB·359 | Sea Gate | Card Text | Paragraph 3">
         <source>{T}: Add {U} or one mana of the chosen color.</source>
@@ -3775,7 +3775,7 @@
       </trans-unit>
       <trans-unit id="7166157a-cea9-4dd8-8bac-c3790da6a942" resname="CLB·609 | Harper Recruiter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, look at the top four cards of your library. You may reveal a Cleric card, a Rogue card, a Warrior card, and/or a Wizard card from among them and put those cards into your hand. Put the rest on the bottom of your library in a random order.</source>
-        <target state="translated">每当竖琴手募员攻击时，检视你牌库顶的四张牌。你可以展示其中的一张僧侣牌，一张浪客牌，一张战士牌和／或一张法术师牌并置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
+        <target state="translated">每当CARDNAME攻击时，检视你牌库顶的四张牌。你可以展示其中的一张僧侣牌，一张浪客牌，一张战士牌和／或一张法术师牌并置于你手上。将其余的牌以随机顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="648d9da3-5790-4d64-8b52-83141d2faf36" resname="CLB·610 | Seasoned Dungeoneer | Card Name">
         <source>Seasoned Dungeoneer</source>
@@ -3783,7 +3783,7 @@
       </trans-unit>
       <trans-unit id="648d9da3-5790-4d64-8b52-83141d2faf36" resname="CLB·610 | Seasoned Dungeoneer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当干练地城专家进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="648d9da3-5790-4d64-8b52-83141d2faf36" resname="CLB·610 | Seasoned Dungeoneer | Card Text | Paragraph 2">
         <source>Whenever you attack, target attacking Cleric, Rogue, Warrior, or Wizard gains protection from creatures until end of turn. It explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)</source>
@@ -3823,7 +3823,7 @@
       </trans-unit>
       <trans-unit id="b5bf8b03-1f5c-46c5-a684-ae5c04630286" resname="CLB·613 | Astral Dragon | Card Text | Paragraph 2">
         <source>Project Image — When CARDNAME enters the battlefield, create two tokens that are copies of target noncreature permanent, except they're 3/3 Dragon creatures in addition to their other types, and they have flying.</source>
-        <target state="translated">投影术～当星界巨龙进战场时，派出两个衍生物，这些衍生物均为目标非生物永久物的复制品，但都是3/3的龙生物，仍具有原本类别，且具有飞行异能。</target>
+        <target state="translated">投影术～当CARDNAME进战场时，派出两个衍生物，这些衍生物均为目标非生物永久物的复制品，但都是3/3的龙生物，仍具有原本类别，且具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="19ef54f6-c7d0-42ac-86f1-80457cb3241e" resname="CLB·614 | Clan Crafter | Card Name">
         <source>Clan Crafter</source>
@@ -3847,7 +3847,7 @@
       </trans-unit>
       <trans-unit id="428343cf-54e6-42df-aee3-d85e6874e437" resname="CLB·615 | Endless Evil | Card Text | Paragraph 3">
         <source>When enchanted creature dies, if that creature was a Horror, return CARDNAME to its owner's hand.</source>
-        <target state="translated">当所结附的生物死去时，若该生物是惊惧兽，则将无尽邪恶移回其拥有者手上。</target>
+        <target state="translated">当所结附的生物死去时，若该生物是惊惧兽，则将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="95ca0ae3-0529-49b1-aff7-d3a05eae45ba" resname="CLB·616 | Grell Philosopher | Card Name">
         <source>Grell Philosopher</source>
@@ -3855,7 +3855,7 @@
       </trans-unit>
       <trans-unit id="95ca0ae3-0529-49b1-aff7-d3a05eae45ba" resname="CLB·616 | Grell Philosopher | Card Text | Paragraph 1">
         <source>Aberrant Tinkering — When CARDNAME enters the battlefield and at the beginning of your upkeep, each Horror you control gains all activated abilities of target artifact an opponent controls until end of turn. You may spend blue mana as though it were mana of any color to activate those abilities.</source>
-        <target state="translated">畸变工艺～当曲心触须怪进战场和在你的维持开始时，选择目标由对手操控的神器。直到回合结束，每个由你操控的惊惧兽均获得该神器之所有起动式异能。你可以将蓝色法术力视同任意颜色的法术力来支付起动这些异能的费用。</target>
+        <target state="translated">畸变工艺～当CARDNAME进战场和在你的维持开始时，选择目标由对手操控的神器。直到回合结束，每个由你操控的惊惧兽均获得该神器之所有起动式异能。你可以将蓝色法术力视同任意颜色的法术力来支付起动这些异能的费用。</target>
       </trans-unit>
       <trans-unit id="0cb48ed1-6386-4f3f-8413-671b59eb7b96" resname="CLB·617 | Mocking Doppelganger | Card Name">
         <source>Mocking Doppelganger</source>
@@ -3867,7 +3867,7 @@
       </trans-unit>
       <trans-unit id="0cb48ed1-6386-4f3f-8413-671b59eb7b96" resname="CLB·617 | Mocking Doppelganger | Card Text | Paragraph 2">
         <source>You may have CARDNAME enter the battlefield as a copy of a creature an opponent controls, except it has &amp;quot;Other creatures with the same name as this creature are goaded.&amp;quot; (They attack each combat if able and attack a player other than you if able.)</source>
-        <target state="translated">你可以使嘲讽变形怪当成任一由对手操控之生物的复制品来进入战场，但它具有「与此生物同名的其他生物均已煽惑。」（它们每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
+        <target state="translated">你可以使CARDNAME当成任一由对手操控之生物的复制品来进入战场，但它具有「与此生物同名的其他生物均已煽惑。」（它们每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
       </trans-unit>
       <trans-unit id="31b5739a-e228-4b9a-871b-0d4684d5cf89" resname="CLB·618 | Psionic Ritual | Card Name">
         <source>Psionic Ritual</source>
@@ -3883,7 +3883,7 @@
       </trans-unit>
       <trans-unit id="31b5739a-e228-4b9a-871b-0d4684d5cf89" resname="CLB·618 | Psionic Ritual | Card Text | Paragraph 3">
         <source>Exile CARDNAME.</source>
-        <target state="translated">放逐灵能仪式。</target>
+        <target state="translated">放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="ba00ab71-f686-46eb-af3a-7d70f22e13b6" resname="CLB·619 | Zellix, Sanity Flayer | Card Name">
         <source>Zellix, Sanity Flayer</source>
@@ -3943,7 +3943,7 @@
       </trans-unit>
       <trans-unit id="8acd5ba4-444e-4ac7-a888-6230be54374d" resname="CLB·622 | Burakos, Party Leader | Card Text | Paragraph 1">
         <source>CARDNAME is also a Cleric, Rogue, Warrior, and Wizard.</source>
-        <target state="translated">领队人布兰寇也是僧侣、浪客、战士和法术师。</target>
+        <target state="translated">CARDNAME也是僧侣、浪客、战士和法术师。</target>
       </trans-unit>
       <trans-unit id="8acd5ba4-444e-4ac7-a888-6230be54374d" resname="CLB·622 | Burakos, Party Leader | Card Text | Paragraph 2">
         <source>Whenever Burakos attacks, defending player loses X life and you create X Treasure tokens, where X is the number of creatures in your party.</source>
@@ -3995,11 +3995,11 @@
       </trans-unit>
       <trans-unit id="c893a0e6-bac4-4758-a0f9-42521e5d0777" resname="CLB·626 | Uchuulon | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of Crabs, Oozes, and/or Horrors you control.</source>
-        <target state="translated">黏液甲伏怪的力量等同于由你操控之蟹、流浆和／或惊惧兽的总数量。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控之蟹、流浆和／或惊惧兽的总数量。</target>
       </trans-unit>
       <trans-unit id="c893a0e6-bac4-4758-a0f9-42521e5d0777" resname="CLB·626 | Uchuulon | Card Text | Paragraph 2">
         <source>Horrific Symbiosis — At the beginning of your end step, exile up to one target creature card from an opponent's graveyard. If you do, create a token that's a copy of CARDNAME.</source>
-        <target state="translated">恐怖共生～在你的结束步骤开始时，将至多一张目标生物牌从对手坟墓场放逐。若你如此作，则派出一个衍生物，此衍生物为黏液甲伏怪的复制品。</target>
+        <target state="translated">恐怖共生～在你的结束步骤开始时，将至多一张目标生物牌从对手坟墓场放逐。若你如此作，则派出一个衍生物，此衍生物为CARDNAME的复制品。</target>
       </trans-unit>
       <trans-unit id="06c1e006-77bf-4adb-bb65-23262edfaf6d" resname="CLB·627 | Baeloth Barrityl, Entertainer | Card Name">
         <source>Baeloth Barrityl, Entertainer</source>
@@ -4047,7 +4047,7 @@
       </trans-unit>
       <trans-unit id="cc0c414b-4345-4787-8a9e-d9f82c5ba9b9" resname="CLB·629 | Death Kiss | Card Text | Paragraph 3">
         <source>When CARDNAME becomes monstrous, goad up to X target creatures your opponents control.</source>
-        <target state="translated">当死吻之眼蛮化时，煽惑至多X个目标由对手操控的生物。</target>
+        <target state="translated">当CARDNAME蛮化时，煽惑至多X个目标由对手操控的生物。</target>
       </trans-unit>
       <trans-unit id="400c76c6-f677-4e7e-87ad-2e526d4b498a" resname="CLB·630 | Delayed Blast Fireball | Card Name">
         <source>Delayed Blast Fireball</source>
@@ -4055,7 +4055,7 @@
       </trans-unit>
       <trans-unit id="400c76c6-f677-4e7e-87ad-2e526d4b498a" resname="CLB·630 | Delayed Blast Fireball | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each opponent and each creature they control. If this spell was cast from exile, it deals 5 damage to each opponent and each creature they control instead.</source>
-        <target state="translated">延迟爆裂火球向每位对手和每个由对手操控的生物各造成2点伤害。如果此咒语是从放逐区施放，则改为它向每位对手和每个由对手操控的生物各造成5点伤害。</target>
+        <target state="translated">CARDNAME向每位对手和每个由对手操控的生物各造成2点伤害。如果此咒语是从放逐区施放，则改为它向每位对手和每个由对手操控的生物各造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="400c76c6-f677-4e7e-87ad-2e526d4b498a" resname="CLB·630 | Delayed Blast Fireball | Card Text | Paragraph 2">
         <source>Foretell {4}{R}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</source>
@@ -4067,7 +4067,7 @@
       </trans-unit>
       <trans-unit id="8a225e62-e95d-4b9b-aab7-25925e35b925" resname="CLB·631 | Loot Dispute | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative and create a Treasure token.</source>
-        <target state="translated">当战利品争执进战场时，你掌握先制且派出一个珍宝衍生物。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制且派出一个珍宝衍生物。</target>
       </trans-unit>
       <trans-unit id="8a225e62-e95d-4b9b-aab7-25925e35b925" resname="CLB·631 | Loot Dispute | Card Text | Paragraph 2">
         <source>Whenever you attack the player who has the initiative, create a Treasure token.</source>
@@ -4131,7 +4131,7 @@
       </trans-unit>
       <trans-unit id="f700972f-2c26-443b-9af0-72a4b5d4d723" resname="CLB·636 | Green Slime | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, counter target activated or triggered ability from an artifact or enchantment source. If a permanent's ability is countered this way, destroy that permanent.</source>
-        <target state="translated">当绿史莱姆进战场时，反击目标来源为神器或结界的起动式或触发式异能。如果以此法反击了某永久物的异能，则消灭该永久物。</target>
+        <target state="translated">当CARDNAME进战场时，反击目标来源为神器或结界的起动式或触发式异能。如果以此法反击了某永久物的异能，则消灭该永久物。</target>
       </trans-unit>
       <trans-unit id="f700972f-2c26-443b-9af0-72a4b5d4d723" resname="CLB·636 | Green Slime | Card Text | Paragraph 3">
         <source>Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</source>
@@ -4155,7 +4155,7 @@
       </trans-unit>
       <trans-unit id="6b0a5d1d-0aa2-4655-96ce-156eb82d7afa" resname="CLB·637 | Journey to the Lost City | Card Text | Paragraph 4">
         <source>20 | Put all permanent cards exiled with CARDNAME onto the battlefield, then sacrifice it.</source>
-        <target state="translated">20 | 将所有以失落之城旅途放逐的永久物牌放进战场，然后牺牲失落之城旅途。</target>
+        <target state="translated">20 | 将所有以CARDNAME放逐的永久物牌放进战场，然后牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="d7ebbbf7-8ece-41ba-b9be-cbd62f0ca473" resname="CLB·638 | Tlincalli Hunter | Card Name">
         <source>Tlincalli Hunter</source>
@@ -4183,7 +4183,7 @@
       </trans-unit>
       <trans-unit id="05987b6e-beb6-4ab0-9cd4-b9928959625c" resname="CLB·639 | Venture Forth | Card Text | Paragraph 1">
         <source>Exile cards from the top of your library until you exile a land card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. Exile CARDNAME with three time counters on it.</source>
-        <target state="translated">从你的牌库顶开始放逐牌，直到放逐一张地牌为止。将该牌放进战场，其余则以随机顺序置于你的牌库底。放逐继续向前，且上面有三个计时指示物。</target>
+        <target state="translated">从你的牌库顶开始放逐牌，直到放逐一张地牌为止。将该牌放进战场，其余则以随机顺序置于你的牌库底。放逐CARDNAME，且上面有三个计时指示物。</target>
       </trans-unit>
       <trans-unit id="05987b6e-beb6-4ab0-9cd4-b9928959625c" resname="CLB·639 | Venture Forth | Card Text | Paragraph 2">
         <source>Suspend 3—{1}{G}</source>
@@ -4231,7 +4231,7 @@
       </trans-unit>
       <trans-unit id="60b7b14d-c860-448e-8d7b-66ea05be281c" resname="CLB·642 | Firkraag, Cunning Instigator | Card Text | Paragraph 3">
         <source>Whenever a creature deals combat damage to one of your opponents, if that creature had to attack this combat, you put a +1/+1 counter on CARDNAME and you draw a card.</source>
-        <target state="translated">每当一个生物向你的任一对手造成战斗伤害时，若该生物本次战斗受限必须攻击，则你在黠智煽动者费尔克拉格上放置一个+1/+1指示物且你抓一张牌。</target>
+        <target state="translated">每当一个生物向你的任一对手造成战斗伤害时，若该生物本次战斗受限必须攻击，则你在CARDNAME上放置一个+1/+1指示物且你抓一张牌。</target>
       </trans-unit>
       <trans-unit id="bee97908-314a-4704-a8bd-962fcb4db947" resname="CLB·643 | Nalia de'Arnise | Card Name">
         <source>Nalia de'Arnise</source>
@@ -4271,7 +4271,7 @@
       </trans-unit>
       <trans-unit id="12794c31-8aea-4cd9-9534-e890fe3ebc8c" resname="CLB·645 | Sarevok's Tome | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you take the initiative.</source>
-        <target state="translated">当沙洛佛克的卷册进战场时，你掌握先制。</target>
+        <target state="translated">当CARDNAME进战场时，你掌握先制。</target>
       </trans-unit>
       <trans-unit id="12794c31-8aea-4cd9-9534-e890fe3ebc8c" resname="CLB·645 | Sarevok's Tome | Card Text | Paragraph 2">
         <source>{T}: Add {C}. If you have the initiative, add {C}{C} instead.</source>

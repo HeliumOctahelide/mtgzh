@@ -9,17 +9,17 @@
       </trans-unit>
       <trans-unit id="d36d81d0-438e-4106-b45b-df9fba0e0591" resname="PTOR·67 | Laquatus's Champion | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target player loses 6 life.</source>
-        <target state="translated">当拉夸塔的斗士进战场时，目标牌手失去6点生命。</target>
+        <target state="translated">当CARDNAME进战场时，目标牌手失去6点生命。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="d36d81d0-438e-4106-b45b-df9fba0e0591" resname="PTOR·67 | Laquatus's Champion | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, that player gains 6 life.</source>
-        <target state="translated">当拉夸塔的斗士离开战场时，该牌手获得6点生命。</target>
+        <target state="translated">当CARDNAME离开战场时，该牌手获得6点生命。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="d36d81d0-438e-4106-b45b-df9fba0e0591" resname="PTOR·67 | Laquatus's Champion | Card Text | Paragraph 3">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{B}：重生拉夸塔的斗士。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="7f3215ba-e492-4cfd-aa16-0da4818eed1b" resname="TOR·1 | Angel of Retribution | Card Name">
@@ -42,7 +42,7 @@
       </trans-unit>
       <trans-unit id="79c8f774-6d4f-4fd0-85c0-26ef713e6b89" resname="TOR·2 | Aven Trooper | Card Text | Paragraph 2">
         <source>{2}{W}, Discard a card: CARDNAME gets +1/+2 until end of turn.</source>
-        <target state="translated">二白，从你手上弃掉一张牌：艾文武装兵得+1/+2直到回合结束。</target>
+        <target state="translated">二白，从你手上弃掉一张牌：CARDNAME得+1/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="fd6609ef-71af-4775-affc-34153700c556" resname="TOR·3 | Cleansing Meditation | Card Name">
         <source>Cleansing Meditation</source>
@@ -74,7 +74,7 @@
       </trans-unit>
       <trans-unit id="4dbda39b-a998-4ad9-95df-72ed9556c390" resname="TOR·5 | Floating Shield | Card Text | Paragraphs">
         <source>Enchant creature\nAs CARDNAME enters the battlefield, choose a color.\nEnchanted creature has protection from the chosen color. This effect doesn't remove CARDNAME.\nSacrifice CARDNAME: Target creature gains protection from the chosen color until end of turn.</source>
-        <target state="translated">于漂浮护盾进场时，选择一种颜色。\n受此结界的生物具有反该色保护异能。此效应不会移除漂浮护盾。\n牺牲漂浮护盾：目标生物获得反该色保护异能直到回合结束。</target>
+        <target state="translated">于CARDNAME进场时，选择一种颜色。\n受此结界的生物具有反该色保护异能。此效应不会移除CARDNAME。\n牺牲CARDNAME：目标生物获得反该色保护异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="04f156d1-2655-42aa-a785-d8eb15cb5422" resname="TOR·6 | Frantic Purification | Card Name">
         <source>Frantic Purification</source>
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="3467c940-dae4-4667-bec8-524dbce13283" resname="TOR·7 | Hypochondria | Card Text | Paragraph 2">
         <source>{W}, Sacrifice CARDNAME: Prevent the next 3 damage that would be dealt to any target this turn.</source>
-        <target state="translated">白，牺牲忧郁症：于本回合中，防止接下来将对目标生物或牌手造成的3点伤害。</target>
+        <target state="translated">白，牺牲CARDNAME：于本回合中，防止接下来将对目标生物或牌手造成的3点伤害。</target>
       </trans-unit>
       <trans-unit id="3229ca5a-5340-48b8-bd46-b0b924c8faf7" resname="TOR·8 | Major Teroh | Card Name">
         <source>Major Teroh</source>
@@ -110,7 +110,7 @@
       </trans-unit>
       <trans-unit id="3229ca5a-5340-48b8-bd46-b0b924c8faf7" resname="TOR·8 | Major Teroh | Card Text | Paragraph 2">
         <source>{3}{W}{W}, Sacrifice CARDNAME: Exile all black creatures.</source>
-        <target state="translated">三白白，牺牲铁若少校：将所有黑色生物移出对战。</target>
+        <target state="translated">三白白，牺牲CARDNAME：将所有黑色生物移出对战。</target>
       </trans-unit>
       <trans-unit id="886a3cfd-7f83-480a-bb22-eec67ad35e4f" resname="TOR·9 | Militant Monk | Card Name">
         <source>Militant Monk</source>
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="886a3cfd-7f83-480a-bb22-eec67ad35e4f" resname="TOR·9 | Militant Monk | Card Text | Paragraph 1">
         <source>Vigilance</source>
-        <target state="translated">好战修行僧攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
       </trans-unit>
       <trans-unit id="886a3cfd-7f83-480a-bb22-eec67ad35e4f" resname="TOR·9 | Militant Monk | Card Text | Paragraph 2">
         <source>{T}: Prevent the next 1 damage that would be dealt to any target this turn.</source>
@@ -142,7 +142,7 @@
       </trans-unit>
       <trans-unit id="b235567a-424e-48da-a94b-c6674a73b3fa" resname="TOR·11 | Mystic Familiar | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1 and has protection from black.</source>
-        <target state="translated">门槛～秘教佣兽得+1/+1并具有反黑保护异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1并具有反黑保护异能。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="9520a1be-db77-4f31-a67d-6309a3ddc566" resname="TOR·12 | Pay No Heed | Card Name">
         <source>Pay No Heed</source>
@@ -160,11 +160,11 @@
       </trans-unit>
       <trans-unit id="5d9dfae5-63f6-401a-9dec-afe838190824" resname="TOR·13 | Possessed Nomad | Card Text | Paragraph 1">
         <source>Vigilance</source>
-        <target state="translated">著魔游牧人攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
       </trans-unit>
       <trans-unit id="5d9dfae5-63f6-401a-9dec-afe838190824" resname="TOR·13 | Possessed Nomad | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1, is black, and has &amp;quot;{2}{B}, {T}: Destroy target white creature.&amp;quot;</source>
-        <target state="translated">门槛～著魔游牧人得+1/+1，为黑色，并具有「二黑，横置：消灭目标白色生物。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1，为黑色，并具有「二黑，横置：消灭目标白色生物。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="b4acbc7f-c86e-4285-a66d-d7b03fe44377" resname="TOR·14 | Reborn Hero | Card Name">
         <source>Reborn Hero</source>
@@ -172,11 +172,11 @@
       </trans-unit>
       <trans-unit id="b4acbc7f-c86e-4285-a66d-d7b03fe44377" resname="TOR·14 | Reborn Hero | Card Text | Paragraph 1">
         <source>Vigilance</source>
-        <target state="translated">复生英雄攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
       </trans-unit>
       <trans-unit id="b4acbc7f-c86e-4285-a66d-d7b03fe44377" resname="TOR·14 | Reborn Hero | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME has &amp;quot;When CARDNAME dies, you may pay {W}{W}. If you do, return CARDNAME to the battlefield under your control.&amp;quot;</source>
-        <target state="translated">门槛～当复生英雄从场上置入坟墓场时，你可以支付白白。若你如此做，将复生英雄在你的操控下移回场上。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～当CARDNAME从场上置入坟墓场时，你可以支付白白。若你如此做，将CARDNAME在你的操控下移回场上。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="efdbe7c6-99ad-4c73-bffe-7bbdc6965854" resname="TOR·15 | Spirit Flare | Card Name">
         <source>Spirit Flare</source>
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="bff8cf45-c84f-49d7-ad3d-b5e046286cb3" resname="TOR·18 | Teroh's Faithful | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 4 life.</source>
-        <target state="translated">当铁若的信众进场时，你获得4点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得4点生命。</target>
       </trans-unit>
       <trans-unit id="1a39f909-7114-4482-8302-b2a56ca9f556" resname="TOR·19 | Teroh's Vanguard | Card Name">
         <source>Teroh's Vanguard</source>
@@ -220,11 +220,11 @@
       </trans-unit>
       <trans-unit id="1a39f909-7114-4482-8302-b2a56ca9f556" resname="TOR·19 | Teroh's Vanguard | Card Text | Paragraph 1">
         <source>Flash</source>
-        <target state="translated">你可以于任何你能够使用瞬间的时机中，使用铁若的先锋。</target>
+        <target state="translated">你可以于任何你能够使用瞬间的时机中，使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="1a39f909-7114-4482-8302-b2a56ca9f556" resname="TOR·19 | Teroh's Vanguard | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME has &amp;quot;When CARDNAME enters the battlefield, creatures you control gain protection from black until end of turn.&amp;quot;</source>
-        <target state="translated">门槛～当铁若的先锋进场时，由你操控的生物获得反黑保护异能直到回合结束。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～当CARDNAME进场时，由你操控的生物获得反黑保护异能直到回合结束。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="84e8bee2-9e3d-493c-a937-645bf3dcf0db" resname="TOR·20 | Transcendence | Card Name">
         <source>Transcendence</source>
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="48bfe8b2-cc98-4430-b576-085163bdf0b6" resname="TOR·21 | Vengeful Dreams | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, discard X cards.</source>
-        <target state="translated">从你手上弃掉X张牌，以作为使用复仇之梦的额外费用。</target>
+        <target state="translated">从你手上弃掉X张牌，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="48bfe8b2-cc98-4430-b576-085163bdf0b6" resname="TOR·21 | Vengeful Dreams | Card Text | Paragraph 2">
         <source>Exile X target attacking creatures.</source>
@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="1243552a-ca57-42ce-817e-d6268fc673e0" resname="TOR·24 | Aquamoeba | Card Text | Paragraph 1">
         <source>Discard a card: Switch CARDNAME's power and toughness until end of turn.</source>
-        <target state="translated">弃一张牌：将水生阿米巴的力量与防御力互换直到回合结束。</target>
+        <target state="translated">弃一张牌：将CARDNAME的力量与防御力互换直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="e23ebd3b-59bf-4f3d-b320-9283871c4540" resname="TOR·25 | Balshan Collaborator | Card Name">
@@ -296,7 +296,7 @@
       </trans-unit>
       <trans-unit id="e23ebd3b-59bf-4f3d-b320-9283871c4540" resname="TOR·25 | Balshan Collaborator | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">黑：波珊内贼得+1/+1直到回合结束。</target>
+        <target state="translated">黑：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a59a2cea-3b65-43da-bc6e-0e3c82f25b3c" resname="TOR·26 | Breakthrough | Card Name">
         <source>Breakthrough</source>
@@ -314,7 +314,7 @@
       </trans-unit>
       <trans-unit id="bd9ca63d-7e77-48f3-abdc-2d2f9cb3a0d9" resname="TOR·27 | Cephalid Aristocrat | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes the target of a spell or ability, mill two cards.</source>
-        <target state="translated">每当𫠒人贵族成为咒语或异能的目标时，将你牌库顶的两张牌置入你的坟墓场。</target>
+        <target state="translated">每当CARDNAME成为咒语或异能的目标时，将你牌库顶的两张牌置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="dceb8cf5-b31a-400e-aea5-ad0c3552d697" resname="TOR·28 | Cephalid Illusionist | Card Name">
         <source>Cephalid Illusionist</source>
@@ -322,7 +322,7 @@
       </trans-unit>
       <trans-unit id="dceb8cf5-b31a-400e-aea5-ad0c3552d697" resname="TOR·28 | Cephalid Illusionist | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes the target of a spell or ability, mill three cards.</source>
-        <target state="translated">每当𫠒人幻术师成为咒语或异能的目标时，将你牌库顶的三张牌置入你的坟墓场。</target>
+        <target state="translated">每当CARDNAME成为咒语或异能的目标时，将你牌库顶的三张牌置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="dceb8cf5-b31a-400e-aea5-ad0c3552d697" resname="TOR·28 | Cephalid Illusionist | Card Text | Paragraph 2">
         <source>{2}{U}, {T}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.</source>
@@ -335,7 +335,7 @@
       </trans-unit>
       <trans-unit id="434e2ece-7b00-4ad1-9c35-cca16fbb002b" resname="TOR·29 | Cephalid Sage | Card Text | Paragraph 1">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME has &amp;quot;When CARDNAME enters the battlefield, draw three cards, then discard two cards.&amp;quot;</source>
-        <target state="translated">门槛～只要你的坟墓场中有七张或更多牌，章人智者便具有「当章人智者进战场时，抓三张牌，然后弃两张牌。」</target>
+        <target state="translated">门槛～只要你的坟墓场中有七张或更多牌，CARDNAME便具有「当CARDNAME进战场时，抓三张牌，然后弃两张牌。」</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="33d989b2-0198-4e5b-8aad-ee939191dd28" resname="TOR·30 | Cephalid Snitch | Card Name">
@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="33d989b2-0198-4e5b-8aad-ee939191dd28" resname="TOR·30 | Cephalid Snitch | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Target creature loses protection from black until end of turn.</source>
-        <target state="translated">牺牲𫠒人探子：目标生物失去反黑保护异能直到回合结束。</target>
+        <target state="translated">牺牲CARDNAME：目标生物失去反黑保护异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2500976f-a329-4a51-bcc1-cafe39bc3ccf" resname="TOR·31 | Cephalid Vandal | Card Name">
         <source>Cephalid Vandal</source>
@@ -352,7 +352,7 @@
       </trans-unit>
       <trans-unit id="2500976f-a329-4a51-bcc1-cafe39bc3ccf" resname="TOR·31 | Cephalid Vandal | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a shred counter on CARDNAME. Then mill a card for each shred counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在莽撞𫠒人上放置一个碎片指示物。然后在莽撞𫠒人上每有一个碎片指示物，便将你牌库顶的一张牌置入你的坟墓场。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个碎片指示物。然后在CARDNAME上每有一个碎片指示物，便将你牌库顶的一张牌置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="bd28bc8e-842f-4788-92a0-3019e3c2385f" resname="TOR·32 | Churning Eddy | Card Name">
         <source>Churning Eddy</source>
@@ -389,7 +389,7 @@
       </trans-unit>
       <trans-unit id="2d1f56e8-55cb-4b81-9946-9f0f813e3d4a" resname="TOR·34 | Compulsion | Card Text | Paragraph 2">
         <source>{1}{U}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{1}{U}，牺牲强迫症：抓一张牌。</target>
+        <target state="translated">{1}{U}，牺牲CARDNAME：抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自WOT（2023-09-08）；</note>
       </trans-unit>
       <trans-unit id="abe9cf1e-d398-41e0-8b11-afe1015e4fd9" resname="TOR·35 | Coral Net | Card Name">
@@ -398,7 +398,7 @@
       </trans-unit>
       <trans-unit id="abe9cf1e-d398-41e0-8b11-afe1015e4fd9" resname="TOR·35 | Coral Net | Card Text | Paragraph 1">
         <source>Enchant green or white creature</source>
-        <target state="translated">珊瑚网只能结附于绿色或白色的生物上。</target>
+        <target state="translated">CARDNAME只能结附于绿色或白色的生物上。</target>
       </trans-unit>
       <trans-unit id="abe9cf1e-d398-41e0-8b11-afe1015e4fd9" resname="TOR·35 | Coral Net | Card Text | Paragraph 2">
         <source>Enchanted creature has &amp;quot;At the beginning of your upkeep, sacrifice this creature unless you discard a card.&amp;quot;</source>
@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="40e4ace0-421d-4e8e-ab85-8f74757e99c7" resname="TOR·39 | Hydromorph Guardian | Card Text | Paragraph 1">
         <source>{U}, Sacrifice CARDNAME: Counter target spell that targets a creature you control.</source>
-        <target state="translated">蓝，牺牲漾变守护者：反击目标以一个或更多由你操控的生物为目标之咒语。</target>
+        <target state="translated">蓝，牺牲CARDNAME：反击目标以一个或更多由你操控的生物为目标之咒语。</target>
       </trans-unit>
       <trans-unit id="06b1c8fc-e09b-479b-ac15-f659acb2f50f" resname="TOR·40 | Hydromorph Gull | Card Name">
         <source>Hydromorph Gull</source>
@@ -465,7 +465,7 @@
       </trans-unit>
       <trans-unit id="06b1c8fc-e09b-479b-ac15-f659acb2f50f" resname="TOR·40 | Hydromorph Gull | Card Text | Paragraph 2">
         <source>{U}, Sacrifice CARDNAME: Counter target spell that targets a creature you control.</source>
-        <target state="translated">蓝，牺牲漾变鸥：反击目标以一个或更多由你操控的生物为目标之咒语。</target>
+        <target state="translated">蓝，牺牲CARDNAME：反击目标以一个或更多由你操控的生物为目标之咒语。</target>
       </trans-unit>
       <trans-unit id="12fadf25-0995-440d-a3e6-7964ed86cff6" resname="TOR·41 | Liquify | Card Name">
         <source>Liquify</source>
@@ -481,7 +481,7 @@
       </trans-unit>
       <trans-unit id="a9821970-a5da-4045-93d8-f58c9e5797c1" resname="TOR·42 | Llawan, Cephalid Empress | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return all blue creatures your opponents control to their owners' hands.</source>
-        <target state="translated">当𫠒人女皇菈宛进场时，将所有由对手操控的蓝色生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进场时，将所有由对手操控的蓝色生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="a9821970-a5da-4045-93d8-f58c9e5797c1" resname="TOR·42 | Llawan, Cephalid Empress | Card Text | Paragraph 2">
         <source>Your opponents can't cast blue creature spells.</source>
@@ -522,7 +522,7 @@
       </trans-unit>
       <trans-unit id="997c56c7-c625-4209-b4b6-d274dee2db48" resname="TOR·45 | Possessed Aven | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1, is black, and has &amp;quot;{2}{B}, {T}: Destroy target blue creature.&amp;quot;</source>
-        <target state="translated">门槛～著魔艾文得+1/+1，为黑色，并具有「二黑，横置：消灭目标蓝色生物。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1，为黑色，并具有「二黑，横置：消灭目标蓝色生物。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="c62fa778-ce44-4a3e-958a-91dfe5398944" resname="TOR·46 | Retraced Image | Card Name">
         <source>Retraced Image</source>
@@ -542,7 +542,7 @@
       </trans-unit>
       <trans-unit id="91a20b6b-43e6-4feb-9792-909332e1a846" resname="TOR·47 | Skywing Aven | Card Text | Paragraph 2">
         <source>Discard a card: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">从你手上弃掉一张牌：将天翼艾文移回其拥有者手上。</target>
+        <target state="translated">从你手上弃掉一张牌：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="7f817379-9c0b-4e43-a345-492516ccb6e1" resname="TOR·48 | Stupefying Touch | Card Name">
         <source>Stupefying Touch</source>
@@ -556,7 +556,7 @@
       </trans-unit>
       <trans-unit id="7f817379-9c0b-4e43-a345-492516ccb6e1" resname="TOR·48 | Stupefying Touch | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当麻木之触进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="7f817379-9c0b-4e43-a345-492516ccb6e1" resname="TOR·48 | Stupefying Touch | Card Text | Paragraph 3">
@@ -570,7 +570,7 @@
       </trans-unit>
       <trans-unit id="d879226b-8ee3-4a48-b03a-d183594dc586" resname="TOR·49 | Turbulent Dreams | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, discard X cards.</source>
-        <target state="translated">从你手上弃掉X张牌，以作为使用动乱之梦的额外费用。</target>
+        <target state="translated">从你手上弃掉X张牌，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="d879226b-8ee3-4a48-b03a-d183594dc586" resname="TOR·49 | Turbulent Dreams | Card Text | Paragraph 2">
         <source>Return X target nonland permanents to their owners' hands.</source>
@@ -586,7 +586,7 @@
       </trans-unit>
       <trans-unit id="27201370-32cc-4b90-890d-8c3f5362ad70" resname="TOR·50 | Boneshard Slasher | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +2/+2 and has &amp;quot;When CARDNAME becomes the target of a spell or ability, sacrifice it.&amp;quot;</source>
-        <target state="translated">门槛～骨碴斩切怪得+2/+2并具有「当骨碴斩切怪成为咒语或异能的目标时，牺牲之。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+2/+2并具有「当CARDNAME成为咒语或异能的目标时，牺牲之。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="5403b49d-03a7-4cc3-af3c-df098c1c9c2e" resname="TOR·51 | Cabal Ritual | Card Name">
         <source>Cabal Ritual</source>
@@ -626,7 +626,7 @@
       </trans-unit>
       <trans-unit id="2efa2579-c048-4506-babc-ec1c29bb99a8" resname="TOR·54 | Carrion Rats | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks or blocks, any player may exile a card from their graveyard. If a player does, CARDNAME assigns no combat damage this turn.</source>
-        <target state="translated">每当腐肉鼠进行攻击或阻挡时，任意牌手可以从他坟墓场中将一张牌移出对战。若有牌手如此作，则腐肉鼠本回合不造成战斗伤害。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，任意牌手可以从他坟墓场中将一张牌移出对战。若有牌手如此作，则CARDNAME本回合不造成战斗伤害。</target>
       </trans-unit>
       <trans-unit id="37c2b228-94c0-4e84-ad6d-80b170bb6c0c" resname="TOR·55 | Carrion Wurm | Card Name">
         <source>Carrion Wurm</source>
@@ -634,7 +634,7 @@
       </trans-unit>
       <trans-unit id="37c2b228-94c0-4e84-ad6d-80b170bb6c0c" resname="TOR·55 | Carrion Wurm | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks or blocks, any player may exile three cards from their graveyard. If a player does, CARDNAME assigns no combat damage this turn.</source>
-        <target state="translated">每当腐肉亚龙进行攻击或阻挡时，任意牌手可以从他坟墓场中将三张牌移出对战。若有牌手如此做，则腐肉亚龙本回合不造成战斗伤害。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，任意牌手可以从他坟墓场中将三张牌移出对战。若有牌手如此做，则CARDNAME本回合不造成战斗伤害。</target>
       </trans-unit>
       <trans-unit id="40342b11-1005-4ccc-bef4-9ea4c640b048" resname="TOR·56 | Chainer, Dementia Master | Card Name">
         <source>Chainer, Dementia Master</source>
@@ -653,7 +653,7 @@
       </trans-unit>
       <trans-unit id="40342b11-1005-4ccc-bef4-9ea4c640b048" resname="TOR·56 | Chainer, Dementia Master | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, exile all Nightmares.</source>
-        <target state="translated">当惧像大师崔纳离开战场时，放逐所有梦魇。</target>
+        <target state="translated">当CARDNAME离开战场时，放逐所有梦魇。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="014af391-3b4a-4aab-a3e9-f60e61016985" resname="TOR·57 | Chainer's Edict | Card Name">
@@ -702,12 +702,12 @@
       </trans-unit>
       <trans-unit id="4073be21-c54a-4eee-9109-f3adfe757c4e" resname="TOR·60 | Faceless Butcher | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile another target creature.</source>
-        <target state="translated">当无面屠夫进战场时，放逐另一个目标生物。</target>
+        <target state="translated">当CARDNAME进战场时，放逐另一个目标生物。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="4073be21-c54a-4eee-9109-f3adfe757c4e" resname="TOR·60 | Faceless Butcher | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return the exiled card to the battlefield under its owner's control.</source>
-        <target state="translated">当无面屠夫离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌在其拥有者的操控下移回战场。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="baaf8c24-3f5e-4ea5-941b-40ad1299af39" resname="TOR·61 | Gloomdrifter | Card Name">
@@ -720,7 +720,7 @@
       </trans-unit>
       <trans-unit id="baaf8c24-3f5e-4ea5-941b-40ad1299af39" resname="TOR·61 | Gloomdrifter | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME has &amp;quot;When CARDNAME enters the battlefield, nonblack creatures get -2/-2 until end of turn.&amp;quot;</source>
-        <target state="translated">门槛～当幽黯漂泊者进场时，非黑色的生物得-2/-2直到回合结束。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～当CARDNAME进场时，非黑色的生物得-2/-2直到回合结束。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="acfcd559-374e-4e6f-9333-2e5c855abff5" resname="TOR·62 | Gravegouger | Card Name">
         <source>Gravegouger</source>
@@ -728,11 +728,11 @@
       </trans-unit>
       <trans-unit id="acfcd559-374e-4e6f-9333-2e5c855abff5" resname="TOR·62 | Gravegouger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile up to two target cards from a single graveyard.</source>
-        <target state="translated">当餍尸怪进场时，将至多两张目标在同一坟墓场中的牌移出对战。</target>
+        <target state="translated">当CARDNAME进场时，将至多两张目标在同一坟墓场中的牌移出对战。</target>
       </trans-unit>
       <trans-unit id="acfcd559-374e-4e6f-9333-2e5c855abff5" resname="TOR·62 | Gravegouger | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return the exiled cards to their owner's graveyard.</source>
-        <target state="translated">当餍尸怪离场时，将以此法移出对战的牌移回其拥有者的坟墓场。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌移回其拥有者的坟墓场。</target>
       </trans-unit>
       <trans-unit id="6b063c3a-267f-4f22-be51-0a14880afc24" resname="TOR·63 | Grotesque Hybrid | Card Name">
         <source>Grotesque Hybrid</source>
@@ -740,11 +740,11 @@
       </trans-unit>
       <trans-unit id="6b063c3a-267f-4f22-be51-0a14880afc24" resname="TOR·63 | Grotesque Hybrid | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a creature, destroy that creature. It can't be regenerated.</source>
-        <target state="translated">每当怪诞杂种对任一生物造成战斗伤害时，消灭该生物。它不能重生。</target>
+        <target state="translated">每当CARDNAME对任一生物造成战斗伤害时，消灭该生物。它不能重生。</target>
       </trans-unit>
       <trans-unit id="6b063c3a-267f-4f22-be51-0a14880afc24" resname="TOR·63 | Grotesque Hybrid | Card Text | Paragraph 2">
         <source>Discard a card: CARDNAME gains flying and protection from green and from white until end of turn.</source>
-        <target state="translated">从你手上弃掉一张牌：怪诞杂种获得飞行及反绿保护及反白保护异能直到回合结束。</target>
+        <target state="translated">从你手上弃掉一张牌：CARDNAME获得飞行及反绿保护及反白保护异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="0e0e53a1-11d5-4975-b698-8b5d72d241f0" resname="TOR·64 | Hypnox | Card Name">
         <source>Hypnox</source>
@@ -756,11 +756,11 @@
       </trans-unit>
       <trans-unit id="0e0e53a1-11d5-4975-b698-8b5d72d241f0" resname="TOR·64 | Hypnox | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand.</source>
-        <target state="translated">当催眠异兽进场时，若你从手上使用之，则将目标对手的所有手牌移出对战。</target>
+        <target state="translated">当CARDNAME进场时，若你从手上使用之，则将目标对手的所有手牌移出对战。</target>
       </trans-unit>
       <trans-unit id="0e0e53a1-11d5-4975-b698-8b5d72d241f0" resname="TOR·64 | Hypnox | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, return the exiled cards to their owner's hand.</source>
-        <target state="translated">当催眠异兽离场时，将以此法移出对战的牌移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="97431dca-54ca-47ef-ab00-943140e8e758" resname="TOR·65 | Ichorid | Card Name">
         <source>Ichorid</source>
@@ -774,12 +774,12 @@
       </trans-unit>
       <trans-unit id="97431dca-54ca-47ef-ab00-943140e8e758" resname="TOR·65 | Ichorid | Card Text | Paragraph 2">
         <source>At the beginning of the end step, sacrifice CARDNAME.</source>
-        <target state="translated">在结束步骤开始时，牺牲灵液妖。</target>
+        <target state="translated">在结束步骤开始时，牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="97431dca-54ca-47ef-ab00-943140e8e758" resname="TOR·65 | Ichorid | Card Text | Paragraph 3">
         <source>At the beginning of your upkeep, if CARDNAME is in your graveyard, you may exile a black creature card other than CARDNAME from your graveyard. If you do, return CARDNAME to the battlefield.</source>
-        <target state="translated">在你的维持开始时，若灵液妖在你的坟墓场中，则你可以将一张灵液妖以外的黑色生物牌从你的坟墓场放逐。若你如此作，则将灵液妖移回战场。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME在你的坟墓场中，则你可以将一张CARDNAME以外的黑色生物牌从你的坟墓场放逐。若你如此作，则将CARDNAME移回战场。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="e8a29622-23a6-42c7-8e56-690613572c94" resname="TOR·66 | Insidious Dreams | Card Name">
@@ -788,7 +788,7 @@
       </trans-unit>
       <trans-unit id="e8a29622-23a6-42c7-8e56-690613572c94" resname="TOR·66 | Insidious Dreams | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, discard X cards.</source>
-        <target state="translated">从你手上弃掉X张牌，以作为使用隐伏之梦的额外费用。</target>
+        <target state="translated">从你手上弃掉X张牌，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="e8a29622-23a6-42c7-8e56-690613572c94" resname="TOR·66 | Insidious Dreams | Card Text | Paragraph 2">
         <source>Search your library for X cards, then shuffle and put those cards on top in any order.</source>
@@ -800,11 +800,11 @@
       </trans-unit>
       <trans-unit id="d4c05f2a-b844-42b3-af91-65694b4211dd" resname="TOR·68 | Last Laugh | Card Text | Paragraph 1">
         <source>Whenever a permanent other than CARDNAME is put into a graveyard from the battlefield, CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">每当任一胜者之笑以外的永久物从场上置入坟墓场时，胜者之笑对每个生物和牌手各造成1点伤害。</target>
+        <target state="translated">每当任一CARDNAME以外的永久物从场上置入坟墓场时，CARDNAME对每个生物和牌手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="d4c05f2a-b844-42b3-af91-65694b4211dd" resname="TOR·68 | Last Laugh | Card Text | Paragraph 2">
         <source>When no creatures are on the battlefield, sacrifice CARDNAME.</source>
-        <target state="translated">当场上没有生物时，牺牲胜者之笑。</target>
+        <target state="translated">当场上没有生物时，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b6edd4ea-c587-4d93-a675-4cdec3e0b1ca" resname="TOR·69 | Mesmeric Fiend | Card Name">
         <source>Mesmeric Fiend</source>
@@ -813,12 +813,12 @@
       </trans-unit>
       <trans-unit id="b6edd4ea-c587-4d93-a675-4cdec3e0b1ca" resname="TOR·69 | Mesmeric Fiend | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card.</source>
-        <target state="translated">当催眠邪鬼进战场时，目标对手展示其手牌且你选择其中一张非地牌。放逐该牌。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手展示其手牌且你选择其中一张非地牌。放逐该牌。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="b6edd4ea-c587-4d93-a675-4cdec3e0b1ca" resname="TOR·69 | Mesmeric Fiend | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return the exiled card to its owner's hand.</source>
-        <target state="translated">当催眠邪鬼离开战场时，将所放逐的牌移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME离开战场时，将所放逐的牌移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="34bf3c19-f148-4542-8505-604191fd5a02" resname="TOR·70 | Mind Sludge | Card Name">
@@ -851,7 +851,7 @@
       </trans-unit>
       <trans-unit id="c7b93caa-0f43-43ac-84e9-99f6bcbf9e81" resname="TOR·72 | Mortiphobia | Card Text | Paragraph 2">
         <source>{1}{B}, Sacrifice CARDNAME: Exile target card from a graveyard.</source>
-        <target state="translated">一黑，牺牲惧死症：将目标在坟墓场中的牌移出对战。</target>
+        <target state="translated">一黑，牺牲CARDNAME：将目标在坟墓场中的牌移出对战。</target>
       </trans-unit>
       <trans-unit id="6189cab3-1963-4590-9cbc-7ab4a693d7c6" resname="TOR·73 | Mutilate | Card Name">
         <source>Mutilate</source>
@@ -870,7 +870,7 @@
       </trans-unit>
       <trans-unit id="2ed9dc9c-b92b-4305-8c54-1a63f750f8d1" resname="TOR·74 | Nantuko Shade | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：螳人阴魂得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="6233d4c3-9407-41b0-92a9-5f90dfd6a584" resname="TOR·75 | Organ Grinder | Card Name">
@@ -887,7 +887,7 @@
       </trans-unit>
       <trans-unit id="8d3f6cd2-0138-40e7-a975-3f7c68db0d93" resname="TOR·76 | Psychotic Haze | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">丧神瞒弄对每个生物和牌手各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个生物和牌手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="8d3f6cd2-0138-40e7-a975-3f7c68db0d93" resname="TOR·76 | Psychotic Haze | Card Text | Paragraph 2">
         <source>Madness {1}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</source>
@@ -899,11 +899,11 @@
       </trans-unit>
       <trans-unit id="1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5" resname="TOR·77 | Putrid Imp | Card Text | Paragraph 1">
         <source>Discard a card: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">从你手上弃掉一张牌：臭息小恶魔获得飞行异能直到回合结束。</target>
+        <target state="translated">从你手上弃掉一张牌：CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5" resname="TOR·77 | Putrid Imp | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1 and can't block.</source>
-        <target state="translated">门槛～臭息小恶魔得+1/+1且不能进行阻挡。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1且不能进行阻挡。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="23d07a96-85ba-4714-94a5-4a8125954f58" resname="TOR·78 | Rancid Earth | Card Name">
         <source>Rancid Earth</source>
@@ -915,7 +915,7 @@
       </trans-unit>
       <trans-unit id="23d07a96-85ba-4714-94a5-4a8125954f58" resname="TOR·78 | Rancid Earth | Card Text | Paragraph 2">
         <source>Threshold — If seven or more cards are in your graveyard, instead destroy that land and CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">门槛～改为消灭该地，并且酸臭大地对每个生物和牌手各造成1点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～改为消灭该地，并且CARDNAME对每个生物和牌手各造成1点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="63795680-5310-4c99-92c1-70e453391de9" resname="TOR·79 | Restless Dreams | Card Name">
         <source>Restless Dreams</source>
@@ -923,7 +923,7 @@
       </trans-unit>
       <trans-unit id="63795680-5310-4c99-92c1-70e453391de9" resname="TOR·79 | Restless Dreams | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, discard X cards.</source>
-        <target state="translated">从你手上弃掉X张牌，以作为使用不息之梦的额外费用。</target>
+        <target state="translated">从你手上弃掉X张牌，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="63795680-5310-4c99-92c1-70e453391de9" resname="TOR·79 | Restless Dreams | Card Text | Paragraph 2">
         <source>Return X target creature cards from your graveyard to your hand.</source>
@@ -943,7 +943,7 @@
       </trans-unit>
       <trans-unit id="b5b93715-985f-4719-a3c3-044c2a150e96" resname="TOR·82 | Shambling Swarm | Card Text | Paragraph 1">
         <source>When CARDNAME dies, distribute three -1/-1 counters among one, two, or three target creatures. For each -1/-1 counter you put on a creature this way, remove a -1/-1 counter from that creature at the beginning of the next end step.</source>
-        <target state="translated">当跛行虫群从场上置入坟墓场时，将三个-1/-1指示物以任意方法分配在一个，两个或三个目标生物上。在回合结束时将这些指示物移除。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，将三个-1/-1指示物以任意方法分配在一个，两个或三个目标生物上。在回合结束时将这些指示物移除。</target>
       </trans-unit>
       <trans-unit id="9396ac77-9f53-46bd-b126-02441a0f5594" resname="TOR·83 | Sickening Dreams | Card Name">
         <source>Sickening Dreams</source>
@@ -951,11 +951,11 @@
       </trans-unit>
       <trans-unit id="9396ac77-9f53-46bd-b126-02441a0f5594" resname="TOR·83 | Sickening Dreams | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, discard X cards.</source>
-        <target state="translated">从你手上弃掉X张牌，以作为使用作呕之梦的额外费用。</target>
+        <target state="translated">从你手上弃掉X张牌，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="9396ac77-9f53-46bd-b126-02441a0f5594" resname="TOR·83 | Sickening Dreams | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage to each creature and each player.</source>
-        <target state="translated">作呕之梦对每个生物和牌手各造成X点伤害。</target>
+        <target state="translated">CARDNAME对每个生物和牌手各造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="0c875bb6-55bb-41cc-8825-8011581ff001" resname="TOR·84 | Slithery Stalker | Card Name">
         <source>Slithery Stalker</source>
@@ -967,11 +967,11 @@
       </trans-unit>
       <trans-unit id="0c875bb6-55bb-41cc-8825-8011581ff001" resname="TOR·84 | Slithery Stalker | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile target green or white creature an opponent controls.</source>
-        <target state="translated">当湿滑潜魔进场时，将目标由对手操控的绿色或白色生物移出对战。</target>
+        <target state="translated">当CARDNAME进场时，将目标由对手操控的绿色或白色生物移出对战。</target>
       </trans-unit>
       <trans-unit id="0c875bb6-55bb-41cc-8825-8011581ff001" resname="TOR·84 | Slithery Stalker | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, return the exiled card to the battlefield under its owner's control.</source>
-        <target state="translated">当湿滑潜魔离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
       </trans-unit>
       <trans-unit id="4aa7d91b-cfbb-4da0-97fa-3c0a15f1dbb9" resname="TOR·85 | Soul Scourge | Card Name">
         <source>Soul Scourge</source>
@@ -983,11 +983,11 @@
       </trans-unit>
       <trans-unit id="4aa7d91b-cfbb-4da0-97fa-3c0a15f1dbb9" resname="TOR·85 | Soul Scourge | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target player loses 3 life.</source>
-        <target state="translated">当游魂祸害进场时，目标牌手失去3点生命。</target>
+        <target state="translated">当CARDNAME进场时，目标牌手失去3点生命。</target>
       </trans-unit>
       <trans-unit id="4aa7d91b-cfbb-4da0-97fa-3c0a15f1dbb9" resname="TOR·85 | Soul Scourge | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, that player gains 3 life.</source>
-        <target state="translated">当游魂祸害离场时，该牌手获得3点生命。</target>
+        <target state="translated">当CARDNAME离场时，该牌手获得3点生命。</target>
       </trans-unit>
       <trans-unit id="afda26e7-4fdd-45e1-bcd1-f0abf91979aa" resname="TOR·86 | Strength of Lunacy | Card Name">
         <source>Strength of Lunacy</source>
@@ -1015,7 +1015,7 @@
       </trans-unit>
       <trans-unit id="78e859c2-3457-4c4c-9b1c-0db647dcf259" resname="TOR·88 | Waste Away | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, discard a card.</source>
-        <target state="translated">从你手上弃掉一张牌，以作为使用衰弱而亡的额外费用。</target>
+        <target state="translated">从你手上弃掉一张牌，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="78e859c2-3457-4c4c-9b1c-0db647dcf259" resname="TOR·88 | Waste Away | Card Text | Paragraph 2">
         <source>Target creature gets -5/-5 until end of turn.</source>
@@ -1063,7 +1063,7 @@
       </trans-unit>
       <trans-unit id="b9d67b5c-ab20-456e-8ff5-7521be8273b2" resname="TOR·92 | Barbarian Outcast | Card Text | Paragraph 1">
         <source>When you control no Swamps, sacrifice CARDNAME.</source>
-        <target state="translated">当你未操控沼泽时，牺牲蛮族黜人。</target>
+        <target state="translated">当你未操控沼泽时，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="0810f7e3-03ff-4c46-a88f-2f8144540780" resname="TOR·93 | Crackling Club | Card Name">
         <source>Crackling Club</source>
@@ -1071,7 +1071,7 @@
       </trans-unit>
       <trans-unit id="0810f7e3-03ff-4c46-a88f-2f8144540780" resname="TOR·93 | Crackling Club | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature gets +1/+0.\nSacrifice CARDNAME: It deals 1 damage to target creature.</source>
-        <target state="translated">受此结界的生物得+1/+0。\n牺牲爆裂棍：爆裂棍对目标生物造成1点伤害。</target>
+        <target state="translated">受此结界的生物得+1/+0。\n牺牲CARDNAME：CARDNAME对目标生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="5ef809de-ff64-4832-95dd-2ebda5942df8" resname="TOR·94 | Crazed Firecat | Card Name">
         <source>Crazed Firecat</source>
@@ -1079,7 +1079,7 @@
       </trans-unit>
       <trans-unit id="5ef809de-ff64-4832-95dd-2ebda5942df8" resname="TOR·94 | Crazed Firecat | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, flip a coin until you lose a flip. Put a +1/+1 counter on CARDNAME for each flip you won.</source>
-        <target state="translated">当狂乱火焰猫进场时，掷硬币直到你输去任一掷为止。你每赢得一掷，便在狂乱火焰猫上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进场时，掷硬币直到你输去任一掷为止。你每赢得一掷，便在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="9fffeed0-a5ea-47ac-a7a4-0cc3bb1d408a" resname="TOR·95 | Devastating Dreams | Card Name">
         <source>Devastating Dreams</source>
@@ -1087,11 +1087,11 @@
       </trans-unit>
       <trans-unit id="9fffeed0-a5ea-47ac-a7a4-0cc3bb1d408a" resname="TOR·95 | Devastating Dreams | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, discard X cards at random.</source>
-        <target state="translated">从你手上随机弃掉X张牌，以作为使用蹂躏之梦的额外费用。</target>
+        <target state="translated">从你手上随机弃掉X张牌，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="9fffeed0-a5ea-47ac-a7a4-0cc3bb1d408a" resname="TOR·95 | Devastating Dreams | Card Text | Paragraph 2">
         <source>Each player sacrifices X lands. CARDNAME deals X damage to each creature.</source>
-        <target state="translated">每位牌手牺牲X张地。蹂躏之梦对每个生物造成X点伤害。</target>
+        <target state="translated">每位牌手牺牲X张地。CARDNAME对每个生物造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="da5003a6-211e-43d3-9a3c-756496357163" resname="TOR·96 | Enslaved Dwarf | Card Name">
         <source>Enslaved Dwarf</source>
@@ -1099,7 +1099,7 @@
       </trans-unit>
       <trans-unit id="da5003a6-211e-43d3-9a3c-756496357163" resname="TOR·96 | Enslaved Dwarf | Card Text | Paragraph 1">
         <source>{R}, Sacrifice CARDNAME: Target black creature gets +1/+0 and gains first strike until end of turn.</source>
-        <target state="translated">红，牺牲奴隶矮人：目标黑色生物得+1/+0并获得先攻异能直到回合结束。</target>
+        <target state="translated">红，牺牲CARDNAME：目标黑色生物得+1/+0并获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="918e46b7-cbca-4acf-8e83-94b5fcadcc49" resname="TOR·97 | Fiery Temper | Card Name">
         <source>Fiery Temper</source>
@@ -1108,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="918e46b7-cbca-4acf-8e83-94b5fcadcc49" resname="TOR·97 | Fiery Temper | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">火爆对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自SOI（2016-04-08）；</note>
       </trans-unit>
       <trans-unit id="918e46b7-cbca-4acf-8e83-94b5fcadcc49" resname="TOR·97 | Fiery Temper | Card Text | Paragraph 2">
@@ -1122,7 +1122,7 @@
       </trans-unit>
       <trans-unit id="fb7fd9b7-c394-4ab3-b945-b4aab694eb6a" resname="TOR·98 | Flaming Gambit | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to target player or planeswalker. That player or that planeswalker's controller may choose a creature they control and have CARDNAME deal that damage to it instead.</source>
-        <target state="translated">烈火先著对目标牌手造成X点伤害。该牌手可以选择一个由他操控的生物，并让烈火先著改为对它造成伤害。</target>
+        <target state="translated">CARDNAME对目标牌手造成X点伤害。该牌手可以选择一个由他操控的生物，并让CARDNAME改为对它造成伤害。</target>
       </trans-unit>
       <trans-unit id="fb7fd9b7-c394-4ab3-b945-b4aab694eb6a" resname="TOR·98 | Flaming Gambit | Card Text | Paragraph 2">
         <source>Flashback {X}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</source>
@@ -1147,7 +1147,7 @@
       </trans-unit>
       <trans-unit id="5dd72697-24be-42c7-a6d9-a837bdbd4662" resname="TOR·100 | Grim Lavamancer | Card Text | Paragraph 1">
         <source>{R}, {T}, Exile two cards from your graveyard: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{R}，{T}，从你的坟墓场放逐两张牌：狰狞熔岩术士对任意一个目标造成2点伤害。</target>
+        <target state="translated">{R}，{T}，从你的坟墓场放逐两张牌：CARDNAME对任意一个目标造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="7f41ac1c-2603-4234-8963-cd47bb894024" resname="TOR·101 | Hell-Bent Raider | Card Name">
@@ -1160,7 +1160,7 @@
       </trans-unit>
       <trans-unit id="7f41ac1c-2603-4234-8963-cd47bb894024" resname="TOR·101 | Hell-Bent Raider | Card Text | Paragraph 2">
         <source>Discard a card at random: CARDNAME gains protection from white until end of turn.</source>
-        <target state="translated">从你手上随机弃掉一张牌：急冲突击队获得反白保护异能直到回合结束。</target>
+        <target state="translated">从你手上随机弃掉一张牌：CARDNAME获得反白保护异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="38c55518-7bdf-4a42-ae30-cd6525557a59" resname="TOR·102 | Kamahl's Sledge | Card Name">
         <source>Kamahl's Sledge</source>
@@ -1168,11 +1168,11 @@
       </trans-unit>
       <trans-unit id="38c55518-7bdf-4a42-ae30-cd6525557a59" resname="TOR·102 | Kamahl's Sledge | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target creature.</source>
-        <target state="translated">卡马尔之锤对目标生物造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="38c55518-7bdf-4a42-ae30-cd6525557a59" resname="TOR·102 | Kamahl's Sledge | Card Text | Paragraph 2">
         <source>Threshold — If seven or more cards are in your graveyard, instead CARDNAME deals 4 damage to that creature and 4 damage to that creature's controller.</source>
-        <target state="translated">门槛～改为卡马尔之锤对该生物及其操控者各造成4点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～改为CARDNAME对该生物及其操控者各造成4点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="bf0dcf33-8d3f-429c-8ad8-a65d07d7c790" resname="TOR·103 | Longhorn Firebeast | Card Name">
         <source>Longhorn Firebeast</source>
@@ -1180,7 +1180,7 @@
       </trans-unit>
       <trans-unit id="bf0dcf33-8d3f-429c-8ad8-a65d07d7c790" resname="TOR·103 | Longhorn Firebeast | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, any opponent may have it deal 5 damage to them. If a player does, sacrifice CARDNAME.</source>
-        <target state="translated">当长角火焰兽进场时，任意对手可以让它对该牌手造成5点伤害。若有牌手如此做，则牺牲长角火焰兽。</target>
+        <target state="translated">当CARDNAME进场时，任意对手可以让它对该牌手造成5点伤害。若有牌手如此做，则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="afd2e0f0-8a8e-4021-bd24-aff1a3212345" resname="TOR·104 | Overmaster | Card Name">
         <source>Overmaster</source>
@@ -1203,7 +1203,7 @@
       </trans-unit>
       <trans-unit id="1c2538fa-2eb7-47ca-a1cf-e5546e26e584" resname="TOR·105 | Pardic Arsonist | Card Text | Paragraph 1">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME has &amp;quot;When CARDNAME enters the battlefield, it deals 3 damage to any target.&amp;quot;</source>
-        <target state="translated">门槛～当帕笛可纵火犯进场时，它对目标生物或牌手造成3点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～当CARDNAME进场时，它对目标生物或牌手造成3点伤害。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="a9a60f33-1d1a-4c7c-9eb2-d9fc0d56b127" resname="TOR·106 | Pardic Collaborator | Card Name">
         <source>Pardic Collaborator</source>
@@ -1215,7 +1215,7 @@
       </trans-unit>
       <trans-unit id="a9a60f33-1d1a-4c7c-9eb2-d9fc0d56b127" resname="TOR·106 | Pardic Collaborator | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">黑：帕笛可内贼得+1/+1直到回合结束。</target>
+        <target state="translated">黑：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f487a6a7-066a-49bb-ab76-d79fc4300c29" resname="TOR·107 | Pardic Lancer | Card Name">
         <source>Pardic Lancer</source>
@@ -1223,7 +1223,7 @@
       </trans-unit>
       <trans-unit id="f487a6a7-066a-49bb-ab76-d79fc4300c29" resname="TOR·107 | Pardic Lancer | Card Text | Paragraph 1">
         <source>Discard a card at random: CARDNAME gets +1/+0 and gains first strike until end of turn.</source>
-        <target state="translated">从你手上随机弃掉一张牌：帕笛可长枪兵得+1/+0并获得先攻异能直到回合结束。</target>
+        <target state="translated">从你手上随机弃掉一张牌：CARDNAME得+1/+0并获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="75ac6311-8516-4db2-8c1f-626f0db0d36f" resname="TOR·108 | Petradon | Card Name">
         <source>Petradon</source>
@@ -1231,15 +1231,15 @@
       </trans-unit>
       <trans-unit id="75ac6311-8516-4db2-8c1f-626f0db0d36f" resname="TOR·108 | Petradon | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile two target lands.</source>
-        <target state="translated">当窃地乳齿巨象进场时，将两个目标地移出对战。</target>
+        <target state="translated">当CARDNAME进场时，将两个目标地移出对战。</target>
       </trans-unit>
       <trans-unit id="75ac6311-8516-4db2-8c1f-626f0db0d36f" resname="TOR·108 | Petradon | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return the exiled cards to the battlefield under their owners' control.</source>
-        <target state="translated">当窃地乳齿巨象离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
       </trans-unit>
       <trans-unit id="75ac6311-8516-4db2-8c1f-626f0db0d36f" resname="TOR·108 | Petradon | Card Text | Paragraph 3">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">红：窃地乳齿巨象得+1/+0直到回合结束。</target>
+        <target state="translated">红：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ffc98d09-439e-426b-8403-4a3e12167336" resname="TOR·109 | Petravark | Card Name">
         <source>Petravark</source>
@@ -1247,11 +1247,11 @@
       </trans-unit>
       <trans-unit id="ffc98d09-439e-426b-8403-4a3e12167336" resname="TOR·109 | Petravark | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target land.</source>
-        <target state="translated">当窃地土猪进场时，将目标地移出对战。</target>
+        <target state="translated">当CARDNAME进场时，将目标地移出对战。</target>
       </trans-unit>
       <trans-unit id="ffc98d09-439e-426b-8403-4a3e12167336" resname="TOR·109 | Petravark | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, return the exiled card to the battlefield under its owner's control.</source>
-        <target state="translated">当窃地土猪离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
+        <target state="translated">当CARDNAME离场时，将以此法移出对战的牌在其拥有者的操控下移回场上。</target>
       </trans-unit>
       <trans-unit id="9bfea263-6ff0-41be-9755-03bcdebfb255" resname="TOR·110 | Pitchstone Wall | Card Name">
         <source>Pitchstone Wall</source>
@@ -1263,7 +1263,7 @@
       </trans-unit>
       <trans-unit id="9bfea263-6ff0-41be-9755-03bcdebfb255" resname="TOR·110 | Pitchstone Wall | Card Text | Paragraph 2">
         <source>Whenever you discard a card, you may sacrifice CARDNAME. If you do, return the discarded card from your graveyard to your hand.</source>
-        <target state="translated">每当你从手上弃掉一张牌时，你可以牺牲松脂岩墙。若你如此做，将该张弃掉的牌从你的坟墓场移回你手上。</target>
+        <target state="translated">每当你从手上弃掉一张牌时，你可以牺牲CARDNAME。若你如此做，将该张弃掉的牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="57e79610-8cfe-4711-bc71-8c25d68036da" resname="TOR·111 | Possessed Barbarian | Card Name">
         <source>Possessed Barbarian</source>
@@ -1275,7 +1275,7 @@
       </trans-unit>
       <trans-unit id="57e79610-8cfe-4711-bc71-8c25d68036da" resname="TOR·111 | Possessed Barbarian | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1, is black, and has &amp;quot;{2}{B}, {T}: Destroy target red creature.&amp;quot;</source>
-        <target state="translated">门槛～著魔野蛮人得+1/+1，为黑色，并具有「二黑，横置：消灭目标红色生物。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1，为黑色，并具有「二黑，横置：消灭目标红色生物。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="6a5af4e9-a2b6-43c7-8ff4-e761fbf693a7" resname="TOR·112 | Pyromania | Card Name">
         <source>Pyromania</source>
@@ -1283,11 +1283,11 @@
       </trans-unit>
       <trans-unit id="6a5af4e9-a2b6-43c7-8ff4-e761fbf693a7" resname="TOR·112 | Pyromania | Card Text | Paragraph 1">
         <source>{1}{R}, Discard a card at random: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">一红，从你手上随机弃掉一张牌：纵火癖对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">一红，从你手上随机弃掉一张牌：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="6a5af4e9-a2b6-43c7-8ff4-e761fbf693a7" resname="TOR·112 | Pyromania | Card Text | Paragraph 2">
         <source>{1}{R}, Sacrifice CARDNAME: It deals 1 damage to any target.</source>
-        <target state="translated">一红，牺牲纵火癖：纵火癖对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">一红，牺牲CARDNAME：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="2562c25a-999e-4fb5-a595-f376c8abf1ff" resname="TOR·113 | Radiate | Card Name">
         <source>Radiate</source>
@@ -1303,7 +1303,7 @@
       </trans-unit>
       <trans-unit id="88f1343c-77bf-4f44-8226-fdfb2c2c7015" resname="TOR·114 | Skullscorch | Card Text | Paragraph 1">
         <source>Target player discards two cards at random unless that player has CARDNAME deal 4 damage to them.</source>
-        <target state="translated">除非目标牌手让炙首对他造成4点伤害，否则该牌手从手上随机弃掉两张牌。</target>
+        <target state="translated">除非目标牌手让CARDNAME对他造成4点伤害，否则该牌手从手上随机弃掉两张牌。</target>
       </trans-unit>
       <trans-unit id="98eb9371-aa20-4790-baf8-a1ad95de39de" resname="TOR·115 | Sonic Seizure | Card Name">
         <source>Sonic Seizure</source>
@@ -1311,11 +1311,11 @@
       </trans-unit>
       <trans-unit id="98eb9371-aa20-4790-baf8-a1ad95de39de" resname="TOR·115 | Sonic Seizure | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, discard a card at random.</source>
-        <target state="translated">从你手上随机弃掉一张牌，以作为使用音波攫脑的额外费用。</target>
+        <target state="translated">从你手上随机弃掉一张牌，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="98eb9371-aa20-4790-baf8-a1ad95de39de" resname="TOR·115 | Sonic Seizure | Card Text | Paragraph 2">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">音波攫脑对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="415d0678-539f-4c19-8a6e-b43e747a97de" resname="TOR·116 | Temporary Insanity | Card Name">
         <source>Temporary Insanity</source>
@@ -1331,7 +1331,7 @@
       </trans-unit>
       <trans-unit id="ff19c870-331d-4703-a92d-c5b1d4289338" resname="TOR·117 | Violent Eruption | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage divided as you choose among any number of targets.</source>
-        <target state="translated">暴烈喷发对任意数量的目标生物和／或牌手造成共4点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对任意数量的目标生物和／或牌手造成共4点伤害，你可以任意分配。</target>
       </trans-unit>
       <trans-unit id="ff19c870-331d-4703-a92d-c5b1d4289338" resname="TOR·117 | Violent Eruption | Card Text | Paragraph 2">
         <source>Madness {1}{R}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</source>
@@ -1359,7 +1359,7 @@
       </trans-unit>
       <trans-unit id="21a21190-3c05-40fe-9310-493ed0f9e42e" resname="TOR·119 | Anurid Scavenger | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you put a card from your graveyard on the bottom of your library.</source>
-        <target state="translated">在你的维持开始时，除非你从你的坟墓场将一张牌置于你的牌库底，否则牺牲拾荒蛙。</target>
+        <target state="translated">在你的维持开始时，除非你从你的坟墓场将一张牌置于你的牌库底，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="11b849c7-c91d-4c67-a357-f7d17f9b187a" resname="TOR·120 | Arrogant Wurm | Card Name">
         <source>Arrogant Wurm</source>
@@ -1379,7 +1379,7 @@
       </trans-unit>
       <trans-unit id="1a67768a-6cd9-4163-b941-752f29c87a8d" resname="TOR·121 | Basking Rootwalla | Card Text | Paragraph 1">
         <source>{1}{G}: CARDNAME gets +2/+2 until end of turn. Activate only once each turn.</source>
-        <target state="translated">一绿：沐日萝特瓦拉得+2/+2直到回合结束。此异能每回合中只能使用一次。</target>
+        <target state="translated">一绿：CARDNAME得+2/+2直到回合结束。此异能每回合中只能使用一次。</target>
       </trans-unit>
       <trans-unit id="1a67768a-6cd9-4163-b941-752f29c87a8d" resname="TOR·121 | Basking Rootwalla | Card Text | Paragraph 2">
         <source>Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</source>
@@ -1397,7 +1397,7 @@
       </trans-unit>
       <trans-unit id="a8fa0a57-e7eb-454e-9527-3db702b54935" resname="TOR·122 | Centaur Chieftain | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME has &amp;quot;When CARDNAME enters the battlefield, creatures you control get +1/+1 and gain trample until end of turn.&amp;quot;</source>
-        <target state="translated">门槛～只要你的坟墓场中有七张或更多牌，半人马酋长便具有「当半人马酋长进战场时，直到回合结束，由你操控的生物得+1/+1且获得践踏异能。」</target>
+        <target state="translated">门槛～只要你的坟墓场中有七张或更多牌，CARDNAME便具有「当CARDNAME进战场时，直到回合结束，由你操控的生物得+1/+1且获得践踏异能。」</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="a83903c1-40fe-47a5-8bcc-2f0877c58225" resname="TOR·123 | Centaur Veteran | Card Name">
@@ -1410,7 +1410,7 @@
       </trans-unit>
       <trans-unit id="a83903c1-40fe-47a5-8bcc-2f0877c58225" resname="TOR·123 | Centaur Veteran | Card Text | Paragraph 2">
         <source>{G}, Discard a card: Regenerate CARDNAME.</source>
-        <target state="translated">绿，从你手上弃掉一张牌：重生半人马老兵。</target>
+        <target state="translated">绿，从你手上弃掉一张牌：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="77ac905a-839b-4fb5-8c17-7fd6c2c0c492" resname="TOR·124 | Dwell on the Past | Card Name">
         <source>Dwell on the Past</source>
@@ -1441,11 +1441,11 @@
       </trans-unit>
       <trans-unit id="f4e672c6-6ddc-4dd2-b4c7-5083d7566e87" resname="TOR·126 | Gurzigost | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you put two cards from your graveyard on the bottom of your library.</source>
-        <target state="translated">在你的维持开始时，除非你从你的坟墓场将两张牌置于你的牌库底，否则牺牲哥吉勾斯特。</target>
+        <target state="translated">在你的维持开始时，除非你从你的坟墓场将两张牌置于你的牌库底，否则牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f4e672c6-6ddc-4dd2-b4c7-5083d7566e87" resname="TOR·126 | Gurzigost | Card Text | Paragraph 2">
         <source>{G}{G}, Discard a card: You may have CARDNAME assign its combat damage this turn as though it weren't blocked.</source>
-        <target state="translated">绿绿，从你手上弃掉一张牌：于本回合中，你可以让哥吉勾斯特视同未受阻挡地对防御牌手造成战斗伤害。</target>
+        <target state="translated">绿绿，从你手上弃掉一张牌：于本回合中，你可以让CARDNAME视同未受阻挡地对防御牌手造成战斗伤害。</target>
       </trans-unit>
       <trans-unit id="48e1f72d-ef5e-4cea-a0ee-645570a36104" resname="TOR·127 | Insist | Card Name">
         <source>Insist</source>
@@ -1504,7 +1504,7 @@
       </trans-unit>
       <trans-unit id="42a6f1b6-e1ed-497a-b50e-1bfa257c18c0" resname="TOR·131 | Nantuko Blightcutter | Card Text | Paragraph 2">
         <source>Threshold — CARDNAME gets +1/+1 for each black permanent your opponents control as long as seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～对手每操控一个黑色永久物，翦萎螳人便得+1/+1。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～对手每操控一个黑色永久物，CARDNAME便得+1/+1。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="c76b1198-feff-437c-9d4c-94785144c98f" resname="TOR·132 | Nantuko Calmer | Card Name">
         <source>Nantuko Calmer</source>
@@ -1512,11 +1512,11 @@
       </trans-unit>
       <trans-unit id="c76b1198-feff-437c-9d4c-94785144c98f" resname="TOR·132 | Nantuko Calmer | Card Text | Paragraph 1">
         <source>{G}, {T}, Sacrifice CARDNAME: Destroy target enchantment.</source>
-        <target state="translated">绿，横置，牺牲螳人镇宁师：消灭目标结界。</target>
+        <target state="translated">绿，横置，牺牲CARDNAME：消灭目标结界。</target>
       </trans-unit>
       <trans-unit id="c76b1198-feff-437c-9d4c-94785144c98f" resname="TOR·132 | Nantuko Calmer | Card Text | Paragraph 2">
         <source>Threshold — CARDNAME gets +1/+1 as long as seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～螳人镇宁师得+1/+1。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="9d258fe7-7906-43ca-8ebd-344aa81cb85b" resname="TOR·133 | Nantuko Cultivator | Card Name">
         <source>Nantuko Cultivator</source>
@@ -1525,7 +1525,7 @@
       </trans-unit>
       <trans-unit id="9d258fe7-7906-43ca-8ebd-344aa81cb85b" resname="TOR·133 | Nantuko Cultivator | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may discard any number of land cards. Put that many +1/+1 counters on CARDNAME and draw that many cards.</source>
-        <target state="translated">当耕耘螳人进战场时，你可以弃任意数量的地牌。在耕耘螳人上放置等量的+1/+1指示物且抓等量的牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以弃任意数量的地牌。在CARDNAME上放置等量的+1/+1指示物且抓等量的牌。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="eea658dd-7567-4b93-88a4-08b4ffb3dad7" resname="TOR·134 | Narcissism | Card Name">
@@ -1538,7 +1538,7 @@
       </trans-unit>
       <trans-unit id="eea658dd-7567-4b93-88a4-08b4ffb3dad7" resname="TOR·134 | Narcissism | Card Text | Paragraph 2">
         <source>{G}, Sacrifice CARDNAME: Target creature gets +2/+2 until end of turn.</source>
-        <target state="translated">绿，牺牲自恋癖：目标生物得+2/+2直到回合结束。</target>
+        <target state="translated">绿，牺牲CARDNAME：目标生物得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="70f1e794-a32e-4f91-acbb-7e60dad4cf53" resname="TOR·135 | Nostalgic Dreams | Card Name">
         <source>Nostalgic Dreams</source>
@@ -1546,11 +1546,11 @@
       </trans-unit>
       <trans-unit id="70f1e794-a32e-4f91-acbb-7e60dad4cf53" resname="TOR·135 | Nostalgic Dreams | Card Text | Paragraph 1">
         <source>As an additional cost to cast this spell, discard X cards.</source>
-        <target state="translated">从你手上弃掉X张牌，以作为使用思乡之梦的额外费用。</target>
+        <target state="translated">从你手上弃掉X张牌，以作为使用CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="70f1e794-a32e-4f91-acbb-7e60dad4cf53" resname="TOR·135 | Nostalgic Dreams | Card Text | Paragraph 2">
         <source>Return X target cards from your graveyard to your hand. Exile CARDNAME.</source>
-        <target state="translated">将X张目标在你坟墓场中的牌移回你手上。将思乡之梦移出对战。</target>
+        <target state="translated">将X张目标在你坟墓场中的牌移回你手上。将CARDNAME移出对战。</target>
       </trans-unit>
       <trans-unit id="73cce010-a8e7-477b-9179-bbad38aa6438" resname="TOR·136 | Parallel Evolution | Card Name">
         <source>Parallel Evolution</source>
@@ -1574,7 +1574,7 @@
       </trans-unit>
       <trans-unit id="608e11b2-9636-48a0-8705-f5ce3bc98117" resname="TOR·137 | Possessed Centaur | Card Text | Paragraph 2">
         <source>Threshold — As long as seven or more cards are in your graveyard, CARDNAME gets +1/+1, is black, and has &amp;quot;{2}{B}, {T}: Destroy target green creature.&amp;quot;</source>
-        <target state="translated">门槛～著魔半人马得+1/+1，为黑色，并具有「二黑，横置：消灭目标绿色生物。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+1/+1，为黑色，并具有「二黑，横置：消灭目标绿色生物。」（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="732bf7bb-5326-4742-8311-96ddbfe14b38" resname="TOR·138 | Seton's Scout | Card Name">
         <source>Seton's Scout</source>
@@ -1582,11 +1582,11 @@
       </trans-unit>
       <trans-unit id="732bf7bb-5326-4742-8311-96ddbfe14b38" resname="TOR·138 | Seton's Scout | Card Text | Paragraph 1">
         <source>Reach (This creature can block creatures with flying.)</source>
-        <target state="translated">熙藤的斥候可以视同具有飞行异能般地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能般地进行阻挡。</target>
       </trans-unit>
       <trans-unit id="732bf7bb-5326-4742-8311-96ddbfe14b38" resname="TOR·138 | Seton's Scout | Card Text | Paragraph 2">
         <source>Threshold — CARDNAME gets +2/+2 as long as seven or more cards are in your graveyard.</source>
-        <target state="translated">门槛～熙藤的斥候得+2/+2。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
+        <target state="translated">门槛～CARDNAME得+2/+2。（只要在你的坟墓场中有七张或更多的牌，你便达到门槛。）</target>
       </trans-unit>
       <trans-unit id="2b934c78-258e-4b1e-9783-ec9f734e8776" resname="TOR·139 | Cabal Coffers | Card Name">
         <source>Cabal Coffers</source>

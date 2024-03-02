@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="6f30ad61-fcb7-4d55-ba86-94de1bf545e4" resname="LEA·26 | Karma | Card Text | Paragraph 1">
         <source>At the beginning of each player's upkeep, CARDNAME deals damage to that player equal to the number of Swamps they control.</source>
-        <target state="translated">在每位牌手的维持开始时，业障对该牌手造成伤害，其数量等同于由他所操控的沼泽数量。（维持步骤是在重置之后、抓牌之前的时段。）</target>
+        <target state="translated">在每位牌手的维持开始时，CARDNAME对该牌手造成伤害，其数量等同于由他所操控的沼泽数量。（维持步骤是在重置之后、抓牌之前的时段。）</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="ddb633f5-cc4d-4157-8217-def90cb15e24" resname="LEA·27 | Lance | Card Name">
@@ -269,7 +269,7 @@
       </trans-unit>
       <trans-unit id="caf9cef4-0f2d-478a-b119-fe1967687f74" resname="LEA·31 | Personal Incarnation | Card Text | Paragraphs">
         <source>{0}: The next 1 damage that would be dealt to CARDNAME this turn is dealt to its owner instead. Only CARDNAME's owner may activate this ability.\nWhen CARDNAME dies, its owner loses half their life, rounded up.</source>
-        <target state="translated">护持圣者的拥有者可以将它所受到的伤害转移到自己身上。如果护持圣者被从场上放至坟墓场，它的拥有者失去一半生命，小数点以下无条件进位。</target>
+        <target state="translated">CARDNAME的拥有者可以将它所受到的伤害转移到自己身上。如果CARDNAME被从场上放至坟墓场，它的拥有者失去一半生命，小数点以下无条件进位。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="2facf462-55cd-4da4-997f-2cf4add75628" resname="LEA·32 | Purelace | Card Name">
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="f00d33dd-4eb2-4446-9813-1923d8e2d2f3" resname="LEA·51 | Clone | Card Text | Paragraph 1">
         <source>You may have CARDNAME enter the battlefield as a copy of any creature on the battlefield.</source>
-        <target state="translated">你可以使仿生妖当成战场上任一生物的复制品来进入战场。</target>
+        <target state="translated">你可以使CARDNAME当成战场上任一生物的复制品来进入战场。</target>
         <note xmlns:from="developer">中文数据来自M14（2013-07-19）；</note>
       </trans-unit>
       <trans-unit id="7b52f459-c703-4a0b-9114-ff69eec61287" resname="LEA·52 | Control Magic | Card Name">
@@ -499,7 +499,7 @@
       </trans-unit>
       <trans-unit id="0eb8f591-d763-49bf-8ef9-86265aaa72f7" resname="LEA·57 | Feedback | Card Text | Paragraphs">
         <source>Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">在受此结界之结界的操控者的维持阶段中，反馈对他造成1点伤害。</target>
+        <target state="translated">在受此结界之结界的操控者的维持阶段中，CARDNAME对他造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="67c7784b-6b79-4268-a714-895c82809aff" resname="LEA·58 | Flight | Card Name">
@@ -609,7 +609,7 @@
       </trans-unit>
       <trans-unit id="0631c7c8-9aa5-4333-8e20-20247fc47033" resname="LEA·67 | Phantasmal Forces | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {U}.</source>
-        <target state="translated">在你的维持阶段中，支付oU，否则埋葬幻象军团。</target>
+        <target state="translated">在你的维持阶段中，支付oU，否则埋葬CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="1c371aa1-1619-41e3-8364-7bc9b8cf5d14" resname="LEA·68 | Phantasmal Terrain | Card Name">
@@ -619,7 +619,7 @@
       </trans-unit>
       <trans-unit id="1c371aa1-1619-41e3-8364-7bc9b8cf5d14" resname="LEA·68 | Phantasmal Terrain | Card Text | Paragraphs">
         <source>Enchant land\nAs CARDNAME enters the battlefield, choose a basic land type.\nEnchanted land is the chosen type.</source>
-        <target state="translated">于幻土进场时，选择一种基本地类别。\n受此结界的地成为该类别的地。</target>
+        <target state="translated">于CARDNAME进场时，选择一种基本地类别。\n受此结界的地成为该类别的地。</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
       <trans-unit id="e46d2cf5-e8d0-4fb2-b950-252d52084b63" resname="LEA·69 | Phantom Monster | Card Name">
@@ -639,17 +639,17 @@
       </trans-unit>
       <trans-unit id="d0a7cb23-d229-43c5-addd-dcf423984b0c" resname="LEA·70 | Pirate Ship | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless defending player controls an Island.</source>
-        <target state="translated">除非防御牌手操控海岛，否则海盗船不能攻击。</target>
+        <target state="translated">除非防御牌手操控海岛，否则CARDNAME不能攻击。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="d0a7cb23-d229-43c5-addd-dcf423984b0c" resname="LEA·70 | Pirate Ship | Card Text | Paragraph 2">
         <source>{T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{T}：海盗船对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="d0a7cb23-d229-43c5-addd-dcf423984b0c" resname="LEA·70 | Pirate Ship | Card Text | Paragraph 3">
         <source>When you control no Islands, sacrifice CARDNAME.</source>
-        <target state="translated">当你未操控海岛时，牺牲海盗船。</target>
+        <target state="translated">当你未操控海岛时，牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="ccc982b6-35b2-4e33-ace2-86cb79123e4f" resname="LEA·71 | Power Leak | Card Name">
@@ -674,7 +674,7 @@
       </trans-unit>
       <trans-unit id="e4dc1103-7bf1-47f6-9006-d3ed9ccd7a6a" resname="LEA·73 | Prodigal Sorcerer | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{T}：放荡的术士对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="a6a86e6e-bfff-46af-9d36-c912901fea92" resname="LEA·74 | Psionic Blast | Card Name">
@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="a6a86e6e-bfff-46af-9d36-c912901fea92" resname="LEA·74 | Psionic Blast | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to any target and 2 damage to you.</source>
-        <target state="translated">灵能冲击波对目标生物或牌手造成4点伤害，且对你造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成4点伤害，且对你造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="f3f5b68a-6b0e-431e-89f0-ff60f17687a5" resname="LEA·75 | Psychic Venom | Card Name">
@@ -694,7 +694,7 @@
       </trans-unit>
       <trans-unit id="f3f5b68a-6b0e-431e-89f0-ff60f17687a5" resname="LEA·75 | Psychic Venom | Card Text | Paragraphs">
         <source>Enchant land\nWhenever enchanted land becomes tapped, CARDNAME deals 2 damage to that land's controller.</source>
-        <target state="translated">每当受此结界的地被横置时，心灵之毒对该地的操控者造成2点伤害。</target>
+        <target state="translated">每当受此结界的地被横置时，CARDNAME对该地的操控者造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="d0b333b7-db4d-4439-b0de-60414cbf8d7b" resname="LEA·76 | Sea Serpent | Card Name">
@@ -744,7 +744,7 @@
       </trans-unit>
       <trans-unit id="b6cef408-5b4b-49f6-9531-be544815b93f" resname="LEA·80 | Stasis | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {U}.</source>
-        <target state="translated">在你的维持阶段中，支付oU，否则埋葬静态平衡。</target>
+        <target state="translated">在你的维持阶段中，支付oU，否则埋葬CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="83316930-d6ad-46ce-9b40-48eea856d95b" resname="LEA·81 | Steal Artifact | Card Name">
@@ -834,7 +834,7 @@
       </trans-unit>
       <trans-unit id="8fd7861d-925f-4b4c-a4ab-60be6f43d50b" resname="LEA·92 | Animate Dead | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if it's on the battlefield, it loses &amp;quot;enchant creature card in a graveyard&amp;quot; and gains &amp;quot;enchant creature put onto the battlefield with CARDNAME.&amp;quot; Return enchanted creature card to the battlefield under your control and attach CARDNAME to it. When CARDNAME leaves the battlefield, that creature's controller sacrifices it.</source>
-        <target state="translated">当尸变进战场时，若它在战场上，则它失去「结附于坟墓场中的生物牌」且获得「结附于以尸变放进战场的生物」。将所结附的生物牌在你的操控下移回战场，并将尸变结附于其上。当尸变离开战场时，该生物之操控者牺牲该生物。</target>
+        <target state="translated">当CARDNAME进战场时，若它在战场上，则它失去「结附于坟墓场中的生物牌」且获得「结附于以CARDNAME放进战场的生物」。将所结附的生物牌在你的操控下移回战场，并将CARDNAME结附于其上。当CARDNAME离开战场时，该生物之操控者牺牲该生物。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="8fd7861d-925f-4b4c-a4ab-60be6f43d50b" resname="LEA·92 | Animate Dead | Card Text | Paragraph 3">
@@ -889,7 +889,7 @@
       </trans-unit>
       <trans-unit id="cf5f3c61-1e54-4eea-bf82-311cfa988e6a" resname="LEA·97 | Cursed Land | Card Text | Paragraphs">
         <source>Enchant land\nAt the beginning of the upkeep of enchanted land's controller, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">在受此结界的地之操控者的维持阶段中，诅咒土地对他或她造成1点伤害。</target>
+        <target state="translated">在受此结界的地之操控者的维持阶段中，CARDNAME对他或她造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="ebb6664d-23ca-456e-9916-afcd6f26aa7f" resname="LEA·98 | Dark Ritual | Card Name">
@@ -949,7 +949,7 @@
       </trans-unit>
       <trans-unit id="5d077a49-73d4-4958-b42a-31b814e110e8" resname="LEA·105 | Drain Life | Card Text | Paragraphs">
         <source>Spend only black mana on X.\nCARDNAME deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness.</source>
-        <target state="translated">oX：吮命对目标生物或玩家造成X点伤害。此花费只能以黑色法术力支付，每造成1点伤害则你获得1点生命，但是不能超过吮命所伤害的生物之防御力或玩家之全部生命值。</target>
+        <target state="translated">oX：CARDNAME对目标生物或玩家造成X点伤害。此花费只能以黑色法术力支付，每造成1点伤害则你获得1点生命，但是不能超过CARDNAME所伤害的生物之防御力或玩家之全部生命值。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="23614289-0d73-4747-a849-5cb67cc97d6a" resname="LEA·106 | Drudge Skeletons | Card Name">
@@ -959,7 +959,7 @@
       </trans-unit>
       <trans-unit id="23614289-0d73-4747-a849-5cb67cc97d6a" resname="LEA·106 | Drudge Skeletons | Card Text | Paragraph 1">
         <source>{B}: Regenerate CARDNAME. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</source>
-        <target state="translated">{B}：重生苦力骷髅妖。 （如果此生物下一次于本回合中将被消灭，则它不会被消灭， 而是改为将它横置，移除受过的所有伤害，并将它移出战斗。）</target>
+        <target state="translated">{B}：重生CARDNAME。 （如果此生物下一次于本回合中将被消灭，则它不会被消灭， 而是改为将它横置，移除受过的所有伤害，并将它移出战斗。）</target>
         <note xmlns:from="developer">中文数据来自M10（2009-07-17）；</note>
       </trans-unit>
       <trans-unit id="0551d66e-8cd4-48f0-aa17-15f26be9d85f" resname="LEA·107 | Evil Presence | Card Name">
@@ -989,7 +989,7 @@
       </trans-unit>
       <trans-unit id="0cd927be-e63f-4371-a1d8-7a0489cb187e" resname="LEA·108 | Fear | Card Text | Paragraph 2">
         <source>Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">受此结界的生物具有恐惧异能。 （此生物只能被神器和／或黑色生物阻挡。）</target>
+        <target state="translated">受此结界的生物具有CARDNAME异能。 （此生物只能被神器和／或黑色生物阻挡。）</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="d0bd76c8-4cff-4c15-9686-7a299b589814" resname="LEA·109 | Frozen Shade | Card Name">
@@ -1034,7 +1034,7 @@
       </trans-unit>
       <trans-unit id="b43b900f-2d9b-442b-9699-058483604ec9" resname="LEA·112 | Hypnotic Specter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage to an opponent, that player discards a card at random.</source>
-        <target state="translated">每当催眠幽灵向对手造成伤害时，该牌手随机弃一张牌。</target>
+        <target state="translated">每当CARDNAME向对手造成伤害时，该牌手随机弃一张牌。</target>
         <note xmlns:from="developer">中文数据来自M10（2009-07-17）；</note>
       </trans-unit>
       <trans-unit id="4250caec-0e37-41be-9ec4-8938deb5f0d0" resname="LEA·113 | Lich | Card Name">
@@ -1054,7 +1054,7 @@
       </trans-unit>
       <trans-unit id="2926777a-4f6e-4965-ba83-22cf7df02602" resname="LEA·114 | Lord of the Pit | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice a creature other than CARDNAME. If you can't, CARDNAME deals 7 damage to you.</source>
-        <target state="translated">在你的维持开始时，牺牲一个暗渊之王以外的生物。若你无法如此作，则暗渊之王对你造成7点伤害。</target>
+        <target state="translated">在你的维持开始时，牺牲一个CARDNAME以外的生物。若你无法如此作，则CARDNAME对你造成7点伤害。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="eee9e106-a248-49d2-b8c8-6bbcd56ce739" resname="LEA·115 | Mind Twist | Card Name">
@@ -1069,12 +1069,12 @@
       </trans-unit>
       <trans-unit id="f13ad58a-6f9b-420a-bac1-40929f5e616a" resname="LEA·116 | Nether Shadow | Card Text | Paragraph 1">
         <source>Haste</source>
-        <target state="translated">阴间影子不受召唤失调影响。</target>
+        <target state="translated">CARDNAME不受召唤失调影响。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="f13ad58a-6f9b-420a-bac1-40929f5e616a" resname="LEA·116 | Nether Shadow | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if CARDNAME is in your graveyard with three or more creature cards above it, you may put CARDNAME onto the battlefield.</source>
-        <target state="translated">在你的维持阶段，如果阴间影子在你的坟墓场中，并且至少有三张生物牌在它上面，则你可以将阴间影子放回场中。</target>
+        <target state="translated">在你的维持阶段，如果CARDNAME在你的坟墓场中，并且至少有三张生物牌在它上面，则你可以将CARDNAME放回场中。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="8105973c-a94d-444c-ba20-ab0fa978bee8" resname="LEA·117 | Nettling Imp | Card Name">
@@ -1094,7 +1094,7 @@
       </trans-unit>
       <trans-unit id="b8cdd6a7-f772-4ccb-914f-63f52ed54d6b" resname="LEA·118 | Nightmare | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of Swamps you control.</source>
-        <target state="translated">梦魇的力量和防御力各等同于由你操控的沼泽数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控的沼泽数量。</target>
         <note xmlns:from="developer">中文数据来自W17（2017-04-15）；</note>
       </trans-unit>
       <trans-unit id="be33a155-de26-43d1-88f1-c926f1b7cb7c" resname="LEA·119 | Paralyze | Card Name">
@@ -1104,7 +1104,7 @@
       </trans-unit>
       <trans-unit id="be33a155-de26-43d1-88f1-c926f1b7cb7c" resname="LEA·119 | Paralyze | Card Text | Paragraphs">
         <source>Enchant creature\nWhen CARDNAME enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If the player does, untap the creature.</source>
-        <target state="translated">当麻痺进场时，横置受此结界的生物。\n受此结界的生物不能在它操控者的重置阶段被重置。该玩家可以在他的维持阶段中额外支付o4以重置此生物。</target>
+        <target state="translated">当CARDNAME进场时，横置受此结界的生物。\n受此结界的生物不能在它操控者的重置阶段被重置。该玩家可以在他的维持阶段中额外支付o4以重置此生物。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="d42a6350-b16b-4e10-a273-e6cbb55dcb7a" resname="LEA·120 | Pestilence | Card Name">
@@ -1114,12 +1114,12 @@
       </trans-unit>
       <trans-unit id="d42a6350-b16b-4e10-a273-e6cbb55dcb7a" resname="LEA·120 | Pestilence | Card Text | Paragraph 1">
         <source>At the beginning of the end step, if no creatures are on the battlefield, sacrifice CARDNAME.</source>
-        <target state="translated">在回合结束时，如果场上没有生物，则牺牲瘟疫。</target>
+        <target state="translated">在回合结束时，如果场上没有生物，则牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="d42a6350-b16b-4e10-a273-e6cbb55dcb7a" resname="LEA·120 | Pestilence | Card Text | Paragraph 2">
         <source>{B}: CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">oB：瘟疫对每个生物和牌手造成1点伤害。</target>
+        <target state="translated">oB：CARDNAME对每个生物和牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="b3724e40-0622-4aee-9334-6c9fff88bcd5" resname="LEA·121 | Plague Rats | Card Name">
@@ -1129,7 +1129,7 @@
       </trans-unit>
       <trans-unit id="b3724e40-0622-4aee-9334-6c9fff88bcd5" resname="LEA·121 | Plague Rats | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of creatures named CARDNAME on the battlefield.</source>
-        <target state="translated">疫病老鼠的力量及防御力皆等于场上疫病老鼠的数目。</target>
+        <target state="translated">CARDNAME的力量及防御力皆等于场上CARDNAME的数目。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="ce07bede-2219-427c-a61a-56518751de42" resname="LEA·122 | Raise Dead | Card Name">
@@ -1179,7 +1179,7 @@
       </trans-unit>
       <trans-unit id="510840f4-7c0e-4b47-8ebf-23c20cac4bd9" resname="LEA·127 | Sengir Vampire | Card Text | Paragraph 2">
         <source>Whenever a creature dealt damage by CARDNAME this turn dies, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个本回合中曾受到辛格氏吸血鬼伤害的生物死去时，在辛格氏吸血鬼上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个本回合中曾受到CARDNAME伤害的生物死去时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自W17（2017-04-15）；</note>
       </trans-unit>
       <trans-unit id="35c3a78d-cc79-4187-929a-8aa1d1469990" resname="LEA·128 | Simulacrum | Card Name">
@@ -1234,7 +1234,7 @@
       </trans-unit>
       <trans-unit id="ae20d442-a544-4a03-9ebf-5ecb137c67dd" resname="LEA·132 | Wall of Bone | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</source>
-        <target state="translated">{B}：重生骨墙。 （如果此生物下一次于本回合中将被消灭，则它不会被消灭， 而是改为将它横置，移除受过的所有伤害，并将它移出战斗。）</target>
+        <target state="translated">{B}：重生CARDNAME。 （如果此生物下一次于本回合中将被消灭，则它不会被消灭， 而是改为将它横置，移除受过的所有伤害，并将它移出战斗。）</target>
         <note xmlns:from="developer">中文数据来自M10（2009-07-17）；</note>
       </trans-unit>
       <trans-unit id="9e5e07a2-fbdf-4c4c-996a-fce40bab5de5" resname="LEA·133 | Warp Artifact | Card Name">
@@ -1244,7 +1244,7 @@
       </trans-unit>
       <trans-unit id="9e5e07a2-fbdf-4c4c-996a-fce40bab5de5" resname="LEA·133 | Warp Artifact | Card Text | Paragraphs">
         <source>Enchant artifact\nAt the beginning of the upkeep of enchanted artifact's controller, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">在受此结界的神器之操控者的维持阶段中，扭曲神器对他造成1点伤害。</target>
+        <target state="translated">在受此结界的神器之操控者的维持阶段中，CARDNAME对他造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="36ca06a1-9b9a-49a2-9c47-9b72228621bc" resname="LEA·134 | Weakness | Card Name">
@@ -1274,7 +1274,7 @@
       </trans-unit>
       <trans-unit id="a1a6f8e9-7bc1-4151-b55f-acf877b1a7a6" resname="LEA·135 | Will-o'-the-Wisp | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</source>
-        <target state="translated">{B}：重生鬼火。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="96c21429-98d3-416b-be00-6aa9c4c5a006" resname="LEA·136 | Word of Command | Card Name">
@@ -1314,7 +1314,7 @@
       </trans-unit>
       <trans-unit id="8712c49e-f171-4669-bed9-87575a37af11" resname="LEA·140 | Disintegrate | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to any target. If it's a creature, it can't be regenerated this turn, and if it would die this turn, exile it instead.</source>
-        <target state="translated">分解对目标生物或牌手造成X点伤害。 该生物于本回合中不能重生。 若该生物于本回合中将被置入坟墓场，则改为将它移出对战。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成X点伤害。 该生物于本回合中不能重生。 若该生物于本回合中将被置入坟墓场，则改为将它移出对战。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="6bbf1eab-bc32-4835-b566-8634b1fe81b0" resname="LEA·141 | Dragon Whelp | Card Name">
@@ -1329,7 +1329,7 @@
       </trans-unit>
       <trans-unit id="6bbf1eab-bc32-4835-b566-8634b1fe81b0" resname="LEA·141 | Dragon Whelp | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice CARDNAME at the beginning of the next end step.</source>
-        <target state="translated">{R}：幼龙得+1/+0直到回合结束。如果此异能本回合中起动过四次或更多，则在下一个结束步骤开始时牺牲幼龙。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。如果此异能本回合中起动过四次或更多，则在下一个结束步骤开始时牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="03482c9c-1f25-4d73-9243-17462ea37ac4" resname="LEA·142 | Dwarven Demolition Team | Card Name">
@@ -1369,7 +1369,7 @@
       </trans-unit>
       <trans-unit id="e68ac362-6cdc-48a6-bdd3-4f8ea32add64" resname="LEA·146 | Earthquake | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature without flying and each player.</source>
-        <target state="translated">地震对每位牌手与每个不具飞行异能的生物各造成X点伤害。</target>
+        <target state="translated">CARDNAME对每位牌手与每个不具飞行异能的生物各造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="7eb71ac4-796d-4011-9002-1129bc09c284" resname="LEA·147 | False Orders | Card Name">
@@ -1394,7 +1394,7 @@
       </trans-unit>
       <trans-unit id="b7623c00-144b-4a8f-9c6c-f5e9e4f65ece" resname="LEA·149 | Fireball | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage divided evenly, rounded down, among any number of targets.</source>
-        <target state="translated">火球对任意数量的目标各造成伤害，其数量为「将X平均分配，小数点后舍去」。</target>
+        <target state="translated">CARDNAME对任意数量的目标各造成伤害，其数量为「将X平均分配，小数点后舍去」。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="3eb27381-505d-4e47-bf66-9e7ba91a5075" resname="LEA·150 | Firebreathing | Card Name">
@@ -1434,7 +1434,7 @@
       </trans-unit>
       <trans-unit id="5129b422-7a35-4bc5-b14b-c814012a0d8f" resname="LEA·153 | Goblin Balloon Brigade | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">{R}：鬼怪热气球旅获得飞行异能直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME获得飞行异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="5873672d-37ea-4c0f-97f3-12b74fde112d" resname="LEA·154 | Goblin King | Card Name">
@@ -1474,7 +1474,7 @@
       </trans-unit>
       <trans-unit id="d56421a8-34ae-4033-943f-c59a7bf2b6f9" resname="LEA·159 | Ironclaw Orcs | Card Text | Paragraph 1">
         <source>CARDNAME can't block creatures with power 2 or greater.</source>
-        <target state="translated">铁爪半兽人不可用来阻挡任何力量大于或等于2的生物。</target>
+        <target state="translated">CARDNAME不可用来阻挡任何力量大于或等于2的生物。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="8fe3fd83-969c-4add-888f-86f4306b067c" resname="LEA·160 | Keldon Warlord | Card Name">
@@ -1484,7 +1484,7 @@
       </trans-unit>
       <trans-unit id="8fe3fd83-969c-4add-888f-86f4306b067c" resname="LEA·160 | Keldon Warlord | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of non-Wall creatures you control.</source>
-        <target state="translated">凯尔顿军阀的力量和防御力等于你所操控之非墙生物的数目。</target>
+        <target state="translated">CARDNAME的力量和防御力等于你所操控之非墙生物的数目。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="d573ef03-4730-45aa-93dd-e45ac1dbaf4a" resname="LEA·161 | Lightning Bolt | Card Name">
@@ -1494,7 +1494,7 @@
       </trans-unit>
       <trans-unit id="d573ef03-4730-45aa-93dd-e45ac1dbaf4a" resname="LEA·161 | Lightning Bolt | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">闪电击对任意一个目标造成3点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="7fb99a26-beeb-4aca-bb02-b2d2ce0595f9" resname="LEA·162 | Mana Flare | Card Name">
@@ -1514,7 +1514,7 @@
       </trans-unit>
       <trans-unit id="6121f72f-680f-4bb4-ae4d-37ee4ebed4d8" resname="LEA·163 | Manabarbs | Card Text | Paragraph 1">
         <source>Whenever a player taps a land for mana, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">每当牌手横置一个地以产生法术力时，法术力倒钩对该牌手造成1点伤害。</target>
+        <target state="translated">每当牌手横置一个地以产生法术力时，CARDNAME对该牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自M12（2011-07-15）；</note>
       </trans-unit>
       <trans-unit id="b4eb3db3-6a7c-488a-9433-d5d1d3133816" resname="LEA·164 | Mons's Goblin Raiders | Card Name">
@@ -1529,7 +1529,7 @@
       </trans-unit>
       <trans-unit id="a97208b1-a91b-4129-8a00-2f97b418accc" resname="LEA·165 | Orcish Artillery | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 2 damage to any target and 3 damage to you.</source>
-        <target state="translated">{T}：半兽人的大炮对目标生物或牌手造成2点伤害，并且对你造成3点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成2点伤害，并且对你造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="911538ea-322c-4c40-a9c3-35e47fe60fce" resname="LEA·166 | Orcish Oriflamme | Card Name">
@@ -1609,7 +1609,7 @@
       </trans-unit>
       <trans-unit id="fefbf149-f988-4f8b-9f53-56f5878116a6" resname="LEA·174 | Shivan Dragon | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：西瓦巨龙得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="7c67788e-d713-47c3-ab9f-b8a6212ae24f" resname="LEA·175 | Smoke | Card Name">
@@ -1629,7 +1629,7 @@
       </trans-unit>
       <trans-unit id="7ffaedb9-25f8-4304-9085-e12505b93312" resname="LEA·176 | Stone Giant | Card Text | Paragraph 1">
         <source>{T}: Target creature you control with toughness less than CARDNAME's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.</source>
-        <target state="translated">{T}：目标由你操控、且防御力低于石巨人力量的生物获得飞行异能直到回合结束。 在结束步骤开始时，消灭该生物。</target>
+        <target state="translated">{T}：目标由你操控、且防御力低于CARDNAME力量的生物获得飞行异能直到回合结束。 在结束步骤开始时，消灭该生物。</target>
         <note xmlns:from="developer">中文数据来自M10（2009-07-17）；</note>
       </trans-unit>
       <trans-unit id="57ff74cb-a2ed-4123-ac42-f72f9820049e" resname="LEA·177 | Stone Rain | Card Name">
@@ -1659,7 +1659,7 @@
       </trans-unit>
       <trans-unit id="2ff21a6f-83a7-4bf3-a078-294e303232cc" resname="LEA·180 | Uthden Troll | Card Text | Paragraph 1">
         <source>{R}: Regenerate CARDNAME.</source>
-        <target state="translated">{R}：重生宇轩巨魔。</target>
+        <target state="translated">{R}：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="efcf12cd-fb70-444e-9641-73ffa0e8f16e" resname="LEA·181 | Wall of Fire | Card Name">
@@ -1674,7 +1674,7 @@
       </trans-unit>
       <trans-unit id="efcf12cd-fb70-444e-9641-73ffa0e8f16e" resname="LEA·181 | Wall of Fire | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：火墙得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自M15（2014-07-18）；</note>
       </trans-unit>
       <trans-unit id="140e567c-6e4a-42b0-8084-d6c9695ae802" resname="LEA·182 | Wall of Stone | Card Name">
@@ -1709,7 +1709,7 @@
       </trans-unit>
       <trans-unit id="e173c8ce-2352-405e-ad00-e3bb94ced1ad" resname="LEA·185 | Berserk | Card Text | Paragraph 1">
         <source>Cast this spell only before the combat damage step.</source>
-        <target state="translated">只能于战斗伤害步骤之前施放狂暴术。</target>
+        <target state="translated">只能于战斗伤害步骤之前施放CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自CN2（2016-08-26）；</note>
       </trans-unit>
       <trans-unit id="e173c8ce-2352-405e-ad00-e3bb94ced1ad" resname="LEA·185 | Berserk | Card Text | Paragraph 2">
@@ -1759,7 +1759,7 @@
       </trans-unit>
       <trans-unit id="9cd91814-6177-4a3d-a1c1-a3be7d7c7957" resname="LEA·189 | Cockatrice | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.</source>
-        <target state="translated">每当石化鸡蛇阻挡任何非墙生物，或被任何非墙生物阻挡，在战斗结束时消灭该生物。</target>
+        <target state="translated">每当CARDNAME阻挡任何非墙生物，或被任何非墙生物阻挡，在战斗结束时消灭该生物。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="bfed1a95-bd67-4e16-a781-81866028af2f" resname="LEA·190 | Craw Wurm | Card Name">
@@ -1804,7 +1804,7 @@
       </trans-unit>
       <trans-unit id="21551cb6-3a53-42dd-9bbd-4bc56304d6d3" resname="LEA·194 | Force of Nature | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, CARDNAME deals 8 damage to you unless you pay {G}{G}{G}{G}.</source>
-        <target state="translated">在你的维持开始时，除非你支付{G}{G}{G}{G}，否则万物元气兽对你造成8点伤害。</target>
+        <target state="translated">在你的维持开始时，除非你支付{G}{G}{G}{G}，否则CARDNAME对你造成8点伤害。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="5ad89f0d-b09b-40a0-84d6-3ee60dec7e23" resname="LEA·195 | Fungusaur | Card Name">
@@ -1814,7 +1814,7 @@
       </trans-unit>
       <trans-unit id="5ad89f0d-b09b-40a0-84d6-3ee60dec7e23" resname="LEA·195 | Fungusaur | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt damage, put a +1/+1 counter on it.</source>
-        <target state="translated">每当真菌兽受到伤害时，在其上放置一个+1/+1指示物。（先受到伤害，然后才放置指示物）</target>
+        <target state="translated">每当CARDNAME受到伤害时，在其上放置一个+1/+1指示物。（先受到伤害，然后才放置指示物）</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="e2b15221-c8b0-4861-9f8b-8a65834ad499" resname="LEA·196 | Gaea's Liege | Card Name">
@@ -1824,12 +1824,12 @@
       </trans-unit>
       <trans-unit id="e2b15221-c8b0-4861-9f8b-8a65834ad499" resname="LEA·196 | Gaea's Liege | Card Text | Paragraph 1">
         <source>As long as CARDNAME isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as CARDNAME is attacking, its power and toughness are each equal to the number of Forests defending player controls.</source>
-        <target state="translated">盖亚的王侯之力量与防御力各等同于由你操控的树林之数量。 只要盖亚的王侯进行攻击，便改为其力量与防御力各等同于由防御牌手操控的树林之数量。</target>
+        <target state="translated">CARDNAME之力量与防御力各等同于由你操控的树林之数量。 只要CARDNAME进行攻击，便改为其力量与防御力各等同于由防御牌手操控的树林之数量。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="e2b15221-c8b0-4861-9f8b-8a65834ad499" resname="LEA·196 | Gaea's Liege | Card Text | Paragraph 2">
         <source>{T}: Target land becomes a Forest until CARDNAME leaves the battlefield.</source>
-        <target state="translated">{T}：直到盖亚的王侯离场为止，目标地成为树林。</target>
+        <target state="translated">{T}：直到CARDNAME离场为止，目标地成为树林。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="367dbefe-3366-408e-9fcf-7dc00f8cc201" resname="LEA·197 | Giant Growth | Card Name">
@@ -1864,7 +1864,7 @@
       </trans-unit>
       <trans-unit id="52f5a19f-16e4-4d35-89e1-969ac8202f88" resname="LEA·200 | Hurricane | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to each creature with flying and each player.</source>
-        <target state="translated">飓风对每个具飞行异能的生物与每位牌手造成X点伤害。</target>
+        <target state="translated">CARDNAME对每个具飞行异能的生物与每位牌手造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="9914836e-2fa6-4390-94b2-431427848a54" resname="LEA·201 | Ice Storm | Card Name">
@@ -1924,7 +1924,7 @@
       </trans-unit>
       <trans-unit id="c9e753a2-a7d0-4d37-ae65-b5a1b5039a6e" resname="LEA·208 | Living Artifact | Card Text | Paragraphs">
         <source>Enchant artifact\nWhenever you're dealt damage, put that many vitality counters on CARDNAME.\nAt the beginning of your upkeep, you may remove a vitality counter from CARDNAME. If you do, you gain 1 life.</source>
-        <target state="translated">你每受到1点伤害，即放一个活力指示物在活化神器上。\n从活化神器上除去一个活力指示物：得一点生命。此异能只能在你的维持阶段时使用，并且每回合只能使用一次。</target>
+        <target state="translated">你每受到1点伤害，即放一个活力指示物在CARDNAME上。\n从CARDNAME上除去一个活力指示物：得一点生命。此异能只能在你的维持阶段时使用，并且每回合只能使用一次。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="80be0580-7948-4d8e-8c0f-5e2797ac411b" resname="LEA·209 | Living Lands | Card Name">
@@ -1979,7 +1979,7 @@
       </trans-unit>
       <trans-unit id="b7b7aa34-b4f8-41b4-82ce-ab2e204c3bf4" resname="LEA·213 | Regeneration | Card Text | Paragraph 2">
         <source>{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</source>
-        <target state="translated">{G}：重生受此结界的生物。 （如果该生物下一次于本回合中将被消灭，则它不会被消灭， 而是改为将它横置，移除受过的所有伤害，并将它移出战斗。）</target>
+        <target state="translated">{G}：CARDNAME受此结界的生物。 （如果该生物下一次于本回合中将被消灭，则它不会被消灭， 而是改为将它横置，移除受过的所有伤害，并将它移出战斗。）</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="badc73ec-3728-4246-90c7-5f4eb7051ed5" resname="LEA·214 | Regrowth | Card Name">
@@ -2029,7 +2029,7 @@
       </trans-unit>
       <trans-unit id="e92cce01-b3bd-4307-aae5-9a7c8fa386ab" resname="LEA·218 | Thicket Basilisk | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.</source>
-        <target state="translated">每当灌木丛蜥怪阻挡任何非墙生物，或被任何非墙生物阻挡，于战斗结束时消灭该生物。</target>
+        <target state="translated">每当CARDNAME阻挡任何非墙生物，或被任何非墙生物阻挡，于战斗结束时消灭该生物。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="bc2570a4-eef9-430d-b6c2-cd51d29b9d01" resname="LEA·219 | Timber Wolves | Card Name">
@@ -2099,7 +2099,7 @@
       </trans-unit>
       <trans-unit id="220a03ca-8c9b-4acb-821d-f6577fbb20fb" resname="LEA·226 | Wanderlust | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">在受此结界的生物操控者的维持阶段，流浪欲对他造成1点伤害。</target>
+        <target state="translated">在受此结界的生物操控者的维持阶段，CARDNAME对他造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="c8d6081e-f686-4263-a0a2-21c0d9af5fdb" resname="LEA·227 | War Mammoth | Card Name">
@@ -2149,7 +2149,7 @@
       </trans-unit>
       <trans-unit id="f594b7aa-d44e-47c4-989b-565f881e25f1" resname="LEA·230 | Ankh of Mishra | Card Text | Paragraph 1">
         <source>Whenever a land enters the battlefield, CARDNAME deals 2 damage to that land's controller.</source>
-        <target state="translated">每当任何地进场时，米斯拉的神符对该地的操控者造成2点伤害。</target>
+        <target state="translated">每当任何地进场时，CARDNAME对该地的操控者造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="66a74c89-6f86-4ec8-af17-391cd5026054" resname="LEA·231 | Basalt Monolith | Card Name">
@@ -2159,7 +2159,7 @@
       </trans-unit>
       <trans-unit id="66a74c89-6f86-4ec8-af17-391cd5026054" resname="LEA·231 | Basalt Monolith | Card Text | Paragraph 1">
         <source>CARDNAME doesn't untap during your untap step.</source>
-        <target state="translated">玄武巨石于你的重置步骤中不能重置。</target>
+        <target state="translated">CARDNAME于你的重置步骤中不能重置。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="66a74c89-6f86-4ec8-af17-391cd5026054" resname="LEA·231 | Basalt Monolith | Card Text | Paragraph 2">
@@ -2169,7 +2169,7 @@
       </trans-unit>
       <trans-unit id="66a74c89-6f86-4ec8-af17-391cd5026054" resname="LEA·231 | Basalt Monolith | Card Text | Paragraph 3">
         <source>{3}: Untap CARDNAME.</source>
-        <target state="translated">{3}：重置玄武巨石。</target>
+        <target state="translated">{3}：重置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="b0faa7f2-b547-42c4-a810-839da50dadfe" resname="LEA·232 | Black Lotus | Card Name">
@@ -2199,7 +2199,7 @@
       </trans-unit>
       <trans-unit id="27f916a2-0ace-44b5-99dc-72979af34db9" resname="LEA·236 | Clockwork Beast | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield with seven +1/+0 counters on it.\nAt end of combat, if CARDNAME attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on CARDNAME. This ability can't cause the total number of +1/+0 counters on CARDNAME to be greater than seven. Activate only during your upkeep.</source>
-        <target state="translated">当发条兽进场时，放置七个+1/+0指示物在其上。\n在任何战斗结束时，若发条兽在该战斗中曾攻击或阻挡，则移去一个指示物。\noX，ocT：放置X个 +1/+0指示物在发条兽上。\n发条兽上的指示物不可超过七个。你只可在你的维持阶段中使用此异能。</target>
+        <target state="translated">当CARDNAME进场时，放置七个+1/+0指示物在其上。\n在任何战斗结束时，若CARDNAME在该战斗中曾攻击或阻挡，则移去一个指示物。\noX，ocT：放置X个 +1/+0指示物在CARDNAME上。\nCARDNAME上的指示物不可超过七个。你只可在你的维持阶段中使用此异能。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="c7824e2a-4eff-4f72-9216-0db30a4f4252" resname="LEA·237 | Conservator | Card Name">
@@ -2234,7 +2234,7 @@
       </trans-unit>
       <trans-unit id="65eb6cda-e512-40a8-9c1f-335b713409ff" resname="LEA·241 | Dingus Egg | Card Text | Paragraph 1">
         <source>Whenever a land is put into a graveyard from the battlefield, CARDNAME deals 2 damage to that land's controller.</source>
-        <target state="translated">每当一个地从场上置入坟墓场时，爆地蛋对该地的操控者造成2点伤害。</target>
+        <target state="translated">每当一个地从场上置入坟墓场时，CARDNAME对该地的操控者造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="ca571ee8-07a2-43b8-9acf-89cbfd3cf7c9" resname="LEA·242 | Disrupting Scepter | Card Name">
@@ -2284,7 +2284,7 @@
       </trans-unit>
       <trans-unit id="51f8f6e1-a451-4262-90d3-5107caf54175" resname="LEA·247 | Howling Mine | Card Text | Paragraph 1">
         <source>At the beginning of each player's draw step, if CARDNAME is untapped, that player draws an additional card.</source>
-        <target state="translated">在每位牌手的抓牌步骤开始时，若嚎叫的矿井未横置，则该牌手额外抓一张牌。</target>
+        <target state="translated">在每位牌手的抓牌步骤开始时，若CARDNAME未横置，则该牌手额外抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自BRR（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="29dc1596-a2e7-4d60-9f99-89babaef8a06" resname="LEA·248 | Icy Manipulator | Card Name">
@@ -2339,7 +2339,7 @@
       </trans-unit>
       <trans-unit id="8d82d94b-ceef-4533-a4f2-b6442a61b839" resname="LEA·253 | Jade Statue | Card Text | Paragraph 1">
         <source>{2}: CARDNAME becomes a 3/6 Golem artifact creature until end of combat. Activate only during combat.</source>
-        <target state="translated">{2}：翠玉雕偶成为3/6神器生物直到战斗结束。 此异能只能在战斗中使用。</target>
+        <target state="translated">{2}：CARDNAME成为3/6神器生物直到战斗结束。 此异能只能在战斗中使用。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="cac8c421-5b92-481d-b2de-560c0231ab58" resname="LEA·254 | Jayemdae Tome | Card Name">
@@ -2359,12 +2359,12 @@
       </trans-unit>
       <trans-unit id="dcd6a291-5282-4f49-8203-d9b416083c48" resname="LEA·255 | Juggernaut | Card Text | Paragraph 1">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">攻城巨车每次战斗若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每次战斗若能攻击，则必须攻击。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="dcd6a291-5282-4f49-8203-d9b416083c48" resname="LEA·255 | Juggernaut | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked by Walls.</source>
-        <target state="translated">攻城巨车不能被墙阻挡。</target>
+        <target state="translated">CARDNAME不能被墙阻挡。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="3f4ef7a1-148d-44ac-89ed-0ef379cca0c6" resname="LEA·256 | Kormus Bell | Card Name">
@@ -2399,17 +2399,17 @@
       </trans-unit>
       <trans-unit id="19499cb7-eccb-4e69-af32-6002d447a160" resname="LEA·259 | Mana Vault | Card Text | Paragraph 1">
         <source>CARDNAME doesn't untap during your untap step.</source>
-        <target state="translated">魔法力库于你的重置步骤中不能重置。</target>
+        <target state="translated">CARDNAME于你的重置步骤中不能重置。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="19499cb7-eccb-4e69-af32-6002d447a160" resname="LEA·259 | Mana Vault | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, you may pay {4}. If you do, untap CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以支付{4}。若你如此作，则重置魔法力库。</target>
+        <target state="translated">在你的维持开始时，你可以支付{4}。若你如此作，则重置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="19499cb7-eccb-4e69-af32-6002d447a160" resname="LEA·259 | Mana Vault | Card Text | Paragraph 3">
         <source>At the beginning of your draw step, if CARDNAME is tapped, it deals 1 damage to you.</source>
-        <target state="translated">在你的抓牌步骤开始时，若魔法力库已横置，则它对你造成1点伤害。</target>
+        <target state="translated">在你的抓牌步骤开始时，若CARDNAME已横置，则它对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="19499cb7-eccb-4e69-af32-6002d447a160" resname="LEA·259 | Mana Vault | Card Text | Paragraph 4">
@@ -2459,7 +2459,7 @@
       </trans-unit>
       <trans-unit id="12926dc8-8e6f-4a47-a12b-4d674189615a" resname="LEA·266 | Nevinyrral's Disk | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">妮维亚洛之碟须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
       <trans-unit id="12926dc8-8e6f-4a47-a12b-4d674189615a" resname="LEA·266 | Nevinyrral's Disk | Card Text | Paragraph 2">
@@ -2479,7 +2479,7 @@
       </trans-unit>
       <trans-unit id="af957200-c538-4f52-b105-6db7a7abb4dc" resname="LEA·268 | Rod of Ruin | Card Text | Paragraph 1">
         <source>{3}, {T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{3}，{T}：遗迹棍棒对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{3}，{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自M14（2013-07-19）；</note>
       </trans-unit>
       <trans-unit id="c4300d24-1cae-4dd5-be7e-38cc677cf5bd" resname="LEA·269 | Sol Ring | Card Name">
@@ -2539,7 +2539,7 @@
       </trans-unit>
       <trans-unit id="9359f60c-9a27-4e53-b35b-964a121a6fba" resname="LEA·275 | Winter Orb | Card Text | Paragraph 1">
         <source>As long as CARDNAME is untapped, players can't untap more than one land during their untap steps.</source>
-        <target state="translated">只要冬之球未横置，则牌手于其重置步骤中所重置的地不能多于一个。</target>
+        <target state="translated">只要CARDNAME未横置，则牌手于其重置步骤中所重置的地不能多于一个。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="bcae01a2-171b-47cd-87be-f1e4e5314326" resname="LEA·276 | Wooden Sphere | Card Name">

@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="36ab24d3-ca9d-4b9c-8c28-4dd1f05a2314" resname="OPC2·1 | Chaotic Aether | Card Text | Paragraph 1">
         <source>When you encounter CARDNAME, each blank roll of the planar die is a {CHAOS} roll until a player planeswalks away from a plane. (Then planeswalk away from this phenomenon.)</source>
-        <target state="translated">当你遭遇乙太混沦时，时空骰掷出的空白结果均为{CHAOS}结果，直到有牌手时空换出任一时空为止。（然后时空换出此异象。）</target>
+        <target state="translated">当你遭遇CARDNAME时，时空骰掷出的空白结果均为{CHAOS}结果，直到有牌手时空换出任一时空为止。（然后时空换出此异象。）</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="62f787e3-b09b-4319-a789-04c17cb73b04" resname="OPC2·2 | Interplanar Tunnel | Card Name">
@@ -30,7 +30,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="677949e4-1551-495d-b65b-beb21ea19045" resname="OPC2·4 | Mutual Epiphany | Card Text | Paragraph 1">
         <source>When you encounter CARDNAME, each player draws four cards. (Then planeswalk away from this phenomenon.)</source>
-        <target state="translated">当你遭遇交汇启悟时，每位牌手各抓四张牌。（然后时空换出此异象。）</target>
+        <target state="translated">当你遭遇CARDNAME时，每位牌手各抓四张牌。（然后时空换出此异象。）</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="01808714-a841-425a-94e7-a75de1267f66" resname="OPC2·5 | Planewide Disaster | Card Name">
@@ -40,7 +40,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="01808714-a841-425a-94e7-a75de1267f66" resname="OPC2·5 | Planewide Disaster | Card Text | Paragraph 1">
         <source>When you encounter CARDNAME, destroy all creatures. (Then planeswalk away from this phenomenon.)</source>
-        <target state="translated">当你遭遇时空灾难时，消灭所有生物。（然后时空换出此异象。）</target>
+        <target state="translated">当你遭遇CARDNAME时，消灭所有生物。（然后时空换出此异象。）</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="254f484d-a652-4747-9b78-6bf083a8f656" resname="OPC2·6 | Reality Shaping | Card Name">
@@ -50,7 +50,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="254f484d-a652-4747-9b78-6bf083a8f656" resname="OPC2·6 | Reality Shaping | Card Text | Paragraph 1">
         <source>When you encounter CARDNAME, starting with you, each player may put a permanent card from their hand onto the battlefield. (Then planeswalk away from this phenomenon.)</source>
-        <target state="translated">当你遭遇凭空塑形时，由你开始，每位牌手各可以将一张永久物牌从其手上放进战场。（然后时空换出此异象。）</target>
+        <target state="translated">当你遭遇CARDNAME时，由你开始，每位牌手各可以将一张永久物牌从其手上放进战场。（然后时空换出此异象。）</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="065f86fb-d74c-4088-b288-c5be0cdb3165" resname="OPC2·7 | Spatial Merging | Card Name">
@@ -60,7 +60,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="065f86fb-d74c-4088-b288-c5be0cdb3165" resname="OPC2·7 | Spatial Merging | Card Text | Paragraph 1">
         <source>When you encounter CARDNAME, reveal cards from the top of your planar deck until you reveal two plane cards. Simultaneously planeswalk to both of them. Put all other cards revealed this way on the bottom of your planar deck in any order.</source>
-        <target state="translated">当你遭遇境界交融时，从你时空套牌顶开始展示牌，直到展示出两张时空牌为止。同时时空换入两者。将所有以此法展示的其他牌依任意顺序置于你的时空套牌底。</target>
+        <target state="translated">当你遭遇CARDNAME时，从你时空套牌顶开始展示牌，直到展示出两张时空牌为止。同时时空换入两者。将所有以此法展示的其他牌依任意顺序置于你的时空套牌底。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="45f85a55-66a2-4166-83aa-b0dd595d694a" resname="OPC2·8 | Time Distortion | Card Name">
@@ -140,7 +140,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="abe9bffd-4728-4889-8b16-c7673cba332b" resname="OPC2·18 | Grove of the Dreampods | Card Text | Paragraph 1">
         <source>When you planeswalk to CARDNAME and at the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.</source>
-        <target state="translated">当你时空换入眠梦荚树丛和在你的维持开始时，从你的牌库顶开始展示牌，直到展示出一张生物牌为止。将该牌放进战场，其余则以随机顺序置于你的牌库底。</target>
+        <target state="translated">当你时空换入CARDNAME和在你的维持开始时，从你的牌库顶开始展示牌，直到展示出一张生物牌为止。将该牌放进战场，其余则以随机顺序置于你的牌库底。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="abe9bffd-4728-4889-8b16-c7673cba332b" resname="OPC2·18 | Grove of the Dreampods | Card Text | Paragraph 2">
@@ -195,7 +195,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="30ebf961-e559-4696-b6b0-015ffa0332bd" resname="OPC2·22 | Kharasha Foothills | Card Text | Paragraph 2">
         <source>Whenever chaos ensues, you may sacrifice any number of creatures. If you do, CARDNAME deals that much damage to target creature.</source>
-        <target state="translated">每当引发混沌时，你可以牺牲任意数量的生物。若你如此作，则卡拉沙丘陵对目标生物造成等量的伤害。</target>
+        <target state="translated">每当引发混沌时，你可以牺牲任意数量的生物。若你如此作，则CARDNAME对目标生物造成等量的伤害。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="839ff86a-c04b-4085-9df6-0e0ac2a37a4e" resname="OPC2·23 | Kilnspire District | Card Name">
@@ -350,7 +350,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="5f7c0cb1-1102-4125-b9cd-a9a0478e3cb2" resname="PC2·19 | Illusory Angel | Card Text | Paragraph 2">
         <source>Flying</source>
-        <target state="translated">只能于你已施放过其他咒语的回合中施放虚幻天使。</target>
+        <target state="translated">只能于你已施放过其他咒语的回合中施放CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="8c3d4d71-c750-4146-80fb-7cfd2427c62f" resname="PC2·24 | Sakashima's Student | Card Name">
@@ -365,7 +365,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="1e3ccf3d-583c-46b4-b51e-ae1b0628d506" resname="PC2·40 | Beetleback Chief | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two 1/1 red Goblin creature tokens.</source>
-        <target state="translated">当虫背酋长进战场时，将两个1/1红色鬼怪衍生生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将两个1/1红色鬼怪衍生生物放进战场。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="6d18e6fb-e4ae-4ff4-9412-f16edb2e56c6" resname="PC2·48 | Mass Mutiny | Card Name">
@@ -385,7 +385,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="2e40569c-640b-4a1a-a586-bde37de5591f" resname="PC2·60 | Brindle Shoat | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a 3/3 green Boar creature token.</source>
-        <target state="translated">当斑幼猪死去时，派出一个3/3绿色野猪衍生生物。</target>
+        <target state="translated">当CARDNAME死去时，派出一个3/3绿色野猪衍生生物。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="2908c551-6798-4f05-826b-714b4ef131f7" resname="PC2·64 | Dreampod Druid | Card Name">
@@ -405,7 +405,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="62090c97-7e3e-4854-bc44-c4a900133ec5" resname="PC2·82 | Baleful Strix | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当恶邪枭进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="56a23047-04c8-4f37-8296-f489370859aa" resname="PC2·87 | Dragonlair Spider | Card Name">
@@ -435,7 +435,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="3df330d3-7687-4a05-b215-adca15f332da" resname="PC2·91 | Etherium-Horn Sorcerer | Card Text | Paragraph 1">
         <source>{1}{U}{R}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{1}{U}{R}：将乙金角术士移回其拥有者手上。</target>
+        <target state="translated">{1}{U}{R}：将CARDNAME移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自C16（2016-11-11）；</note>
       </trans-unit>
       <trans-unit id="3df330d3-7687-4a05-b215-adca15f332da" resname="PC2·91 | Etherium-Horn Sorcerer | Card Text | Paragraph 2">
@@ -490,7 +490,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="63fb057c-a70f-49e4-ba39-f5ce17b09c7f" resname="PC2·105 | Silent-Blade Oni | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, look at that player's hand. You may cast a spell from among those cards without paying its mana cost.</source>
-        <target state="translated">每当静刃邪鬼对任一牌手造成战斗伤害时，检视该牌手的手牌。你可以从这些牌之中施放一个咒语，且不需支付其法术力费用。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，检视该牌手的手牌。你可以从这些牌之中施放一个咒语，且不需支付其法术力费用。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="59d8d22b-d5e7-412e-86e6-b7cd7c71dbb5" resname="PC2·106 | Thromok the Insatiable | Card Name">
@@ -530,7 +530,7 @@ WAR：跨时空信标 Interplanar Beacon</note>
       </trans-unit>
       <trans-unit id="6f11deb8-aca1-4cdf-b443-2aecb054fb10" resname="PC2·113 | Sai of the Shinobi | Card Text | Paragraph 2">
         <source>Whenever a creature enters the battlefield under your control, you may attach CARDNAME to it.</source>
-        <target state="translated">每当一个生物在你的操控下进战场时，你可以将忍者钗装备于其上。</target>
+        <target state="translated">每当一个生物在你的操控下进战场时，你可以将CARDNAME装备于其上。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="6f11deb8-aca1-4cdf-b443-2aecb054fb10" resname="PC2·113 | Sai of the Shinobi | Card Text | Paragraph 3">

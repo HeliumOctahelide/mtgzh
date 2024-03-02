@@ -74,7 +74,7 @@
       </trans-unit>
       <trans-unit id="7c2c7004-691b-4385-ad9b-60b93d474ebd" resname="HML·10a | Mesa Falcon | Card Text | Paragraph 2">
         <source>{1}{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">o1oW：梅沙猎鹰得+0/+1直到回合结束。</target>
+        <target state="translated">o1oW：CARDNAME得+0/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="f514eb63-3a4e-4410-ba3d-487cf81f7063" resname="HML·11 | Prophecy | Card Name">
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="aab1c8b8-9b3e-444a-a12c-bd09ec899641" resname="HML·15 | Serra Bestiary | Card Text | Paragraphs">
         <source>Enchant creature\nAt the beginning of your upkeep, sacrifice CARDNAME unless you pay {W}{W}.\nEnchanted creature can't attack or block, and its activated abilities with {T} in their costs can't be activated.</source>
-        <target state="translated">在你的维持阶段，支付oWoW，否则埋葬撒拉的兽栏。受此结界的生物不能攻击、阻挡，或使用启动费用中含有ocT的任何异能。</target>
+        <target state="translated">在你的维持阶段，支付oWoW，否则埋葬CARDNAME。受此结界的生物不能攻击、阻挡，或使用启动费用中含有ocT的任何异能。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="f1fbe3c8-92fb-41b9-b778-726d22c63054" resname="HML·16 | Serra Inquisitors | Card Name">
@@ -159,7 +159,7 @@
       </trans-unit>
       <trans-unit id="ce479e91-7b21-4312-a3c0-950d9f6dc029" resname="HML·21 | Aether Storm | Card Text | Paragraph 2">
         <source>Pay 4 life: Destroy CARDNAME. It can't be regenerated. Any player may activate this ability.</source>
-        <target state="translated">任何玩家可支付4点生命以埋葬乙太风暴。</target>
+        <target state="translated">任何玩家可支付4点生命以埋葬CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="e3261b4c-7963-4ca0-875d-77b7c8571b3f" resname="HML·22 | Baki's Curse | Card Name">
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="c20a8ed9-db1e-4ce8-bfb3-92604a577df7" resname="HML·25a | Dark Maze | Card Text | Paragraphs">
         <source>Defender (This creature can't attack.)\n{0}: CARDNAME can attack this turn as though it didn't have defender. Exile it at the beginning of the next end step.</source>
-        <target state="translated">o0：黑暗迷宫在此回合中，可以像不是墙一般地攻击。在回合结束时，将黑暗迷宫移出游戏。</target>
+        <target state="translated">o0：CARDNAME在此回合中，可以像不是墙一般地攻击。在回合结束时，将CARDNAME移出游戏。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="df3115a9-ad65-4213-9320-6f39c11676f3" resname="HML·26 | Forget | Card Name">
@@ -209,12 +209,12 @@
       </trans-unit>
       <trans-unit id="f8045d23-e6e6-474c-a3e7-ddfc6121657a" resname="HML·28 | Giant Oyster | Card Text | Paragraph 1">
         <source>You may choose not to untap CARDNAME during your untap step.</source>
-        <target state="translated">你可以选择于你的重置步骤中不重置巨型牡蛎。</target>
+        <target state="translated">你可以选择于你的重置步骤中不重置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="f8045d23-e6e6-474c-a3e7-ddfc6121657a" resname="HML·28 | Giant Oyster | Card Text | Paragraph 2">
         <source>{T}: For as long as CARDNAME remains tapped, target tapped creature doesn't untap during its controller's untap step, and at the beginning of each of your draw steps, put a -1/-1 counter on that creature. When CARDNAME leaves the battlefield or becomes untapped, remove all -1/-1 counters from the creature.</source>
-        <target state="translated">{T}：只要巨型牡蛎持续被横置，目标已横置的生物于其操控者的重置步骤中便不能重置，且在你的每个抓牌步骤开始时，在该生物上放置一个-1/-1指示物。 当巨型牡蛎离场或成为未横置时，移去该生物上所有的-1/-1指示物。</target>
+        <target state="translated">{T}：只要CARDNAME持续被横置，目标已横置的生物于其操控者的重置步骤中便不能重置，且在你的每个抓牌步骤开始时，在该生物上放置一个-1/-1指示物。 当CARDNAME离场或成为未横置时，移去该生物上所有的-1/-1指示物。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="f81fca41-2315-4d12-b05c-d921a4c3c19e" resname="HML·29 | Jinx | Card Name">
@@ -229,7 +229,7 @@
       </trans-unit>
       <trans-unit id="eb8c1786-a2c1-43f9-9cef-8c4542833093" resname="HML·30a | Labyrinth Minotaur | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks a creature, that creature doesn't untap during its controller's next untap step.</source>
-        <target state="translated">若迷宫牛头怪阻挡任何生物，该生物在其操控者的下一次重置阶段中不可重置。</target>
+        <target state="translated">若CARDNAME阻挡任何生物，该生物在其操控者的下一次重置阶段中不可重置。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="b6aa3299-3b7a-4ea5-bc1f-beead26d8116" resname="HML·31 | Marjhan | Card Name">
@@ -274,7 +274,7 @@
       </trans-unit>
       <trans-unit id="5b742d75-860d-4b90-89cb-4292f18aed39" resname="HML·36a | Reef Pirates | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage to an opponent, that player mills a card.</source>
-        <target state="translated">若暗礁海盗伤害任何对手，则将该玩家牌库之顶牌放置于他的坟墓场中。</target>
+        <target state="translated">若CARDNAME伤害任何对手，则将该玩家牌库之顶牌放置于他的坟墓场中。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="a952236e-3085-4e6e-8639-355976b7c8f5" resname="HML·37 | Reveka, Wizard Savant | Card Name">
@@ -339,7 +339,7 @@
       </trans-unit>
       <trans-unit id="547c10ea-8ace-4496-8b99-61863c0cec1b" resname="HML·46a | Dry Spell | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature and each player.</source>
-        <target state="translated">干涸术对每个生物和每个牌手造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个生物和每个牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="096e41d6-79c3-463f-ae63-872c3d8729a7" resname="HML·47a | Feast of the Unicorn | Card Name">
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="8c29c45f-db1a-43e3-ae42-1a72dabe7880" resname="HML·51 | Greater Werewolf | Card Text | Paragraph 1">
         <source>At end of combat, put a -0/-2 counter on each creature blocking or blocked by CARDNAME.</source>
-        <target state="translated">战斗结束时，在每一个阻挡高等狼人或被高等狼人阻挡的生物上放置一个-0/-2指示物。</target>
+        <target state="translated">战斗结束时，在每一个阻挡CARDNAME或被CARDNAME阻挡的生物上放置一个-0/-2指示物。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="2fdae7fa-1076-4ff3-b771-fc3f5d9ba89f" resname="HML·52 | Headstone | Card Name">
@@ -414,12 +414,12 @@
       </trans-unit>
       <trans-unit id="0d16e024-7865-43d0-8cd8-8933ef741d05" resname="HML·56 | Sengir Autocrat | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create three 0/1 black Serf creature tokens.</source>
-        <target state="translated">当辛格氏独裁者进战场时，将三个0/1黑色农奴衍生生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将三个0/1黑色农奴衍生生物放进战场。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="0d16e024-7865-43d0-8cd8-8933ef741d05" resname="HML·56 | Sengir Autocrat | Card Text | Paragraph 2">
         <source>When CARDNAME leaves the battlefield, exile all Serf tokens.</source>
-        <target state="translated">当辛格氏独裁者离开战场时，放逐所有农奴衍生物。</target>
+        <target state="translated">当CARDNAME离开战场时，放逐所有农奴衍生物。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="3c745c2c-4311-412d-a137-02bf6d106e46" resname="HML·57a | Sengir Bats | Card Name">
@@ -469,7 +469,7 @@
       </trans-unit>
       <trans-unit id="87e24788-cc7c-4f5d-84d8-dcb35e10626f" resname="HML·63a | Ambush Party | Card Text | Paragraphs">
         <source>First strike, haste</source>
-        <target state="translated">先攻\n伏击部队不受召唤失调影响。</target>
+        <target state="translated">先攻\nCARDNAME不受召唤失调影响。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="4f905d57-2f52-4179-8041-2667b1fb1baa" resname="HML·64 | An-Zerrin Ruins | Card Name">
@@ -499,7 +499,7 @@
       </trans-unit>
       <trans-unit id="c55d086a-d848-43bc-8c1e-de96d10877e1" resname="HML·67a | Anaba Shaman | Card Text | Paragraph 1">
         <source>{R}, {T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{R}，{T}：阿那巴祭师对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{R}，{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="e9aaabc2-1dab-4f9c-8ed3-60bc1aa995ba" resname="HML·68 | Anaba Spirit Crafter | Card Name">
@@ -539,7 +539,7 @@
       </trans-unit>
       <trans-unit id="b6329bd9-1e03-43e6-b50b-8abe1356ffcc" resname="HML·73 | Eron the Relentless | Card Text | Paragraph 2">
         <source>{R}{R}{R}: Regenerate CARDNAME.</source>
-        <target state="translated">{R}{R}{R}：重生无情的艾隆。</target>
+        <target state="translated">{R}{R}{R}：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="a3c99939-4854-4e28-a142-4cb7f89fe898" resname="HML·74 | Evaporate | Card Name">
@@ -589,7 +589,7 @@
       </trans-unit>
       <trans-unit id="42c5a793-a777-44f9-a977-d16d26d3f852" resname="HML·81 | An-Havva Constable | Card Text | Paragraph 1">
         <source>CARDNAME's toughness is equal to 1 plus the number of green creatures on the battlefield.</source>
-        <target state="translated">安哈瓦保安官之防御力等于场上绿色生物数目加1。</target>
+        <target state="translated">CARDNAME之防御力等于场上绿色生物数目加1。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="eff4531f-d19d-44af-861a-33087197d21c" resname="HML·82 | An-Havva Inn | Card Name">
@@ -609,7 +609,7 @@
       </trans-unit>
       <trans-unit id="07159586-270e-4a3e-9b21-0d74cf3e49d7" resname="HML·84a | Carapace | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature gets +0/+2.\nSacrifice CARDNAME: Regenerate enchanted creature.</source>
-        <target state="translated">受此结界的生物得到+0/+2。\n牺牲外甲壳：重生受此结界的生物。</target>
+        <target state="translated">受此结界的生物得到+0/+2。\n牺牲CARDNAME：重生受此结界的生物。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="972e9c59-f340-414c-b55b-39d46dd97e8e" resname="HML·85 | Daughter of Autumn | Card Name">
@@ -634,7 +634,7 @@
       </trans-unit>
       <trans-unit id="085973eb-56cd-4bb5-aefd-bdf36f2d2a3e" resname="HML·88a | Hungry Mist | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {G}{G}.</source>
-        <target state="translated">你的维持阶段付出oGoG，否则埋葬饥饿之雾。</target>
+        <target state="translated">你的维持阶段付出oGoG，否则埋葬CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="1f95eda2-f791-46e9-bb82-31422b8c5ce4" resname="HML·89 | Joven's Ferrets | Card Name">
@@ -659,7 +659,7 @@
       </trans-unit>
       <trans-unit id="21a3b8f7-c794-40ef-9ebd-dec5357260d4" resname="HML·92 | Primal Order | Card Text | Paragraph 1">
         <source>At the beginning of each player's upkeep, CARDNAME deals damage to that player equal to the number of nonbasic lands they control.</source>
-        <target state="translated">在每个玩家的维持阶段中，原始秩序对该玩家造成等同于其操控之非基本地数量的伤害。</target>
+        <target state="translated">在每个玩家的维持阶段中，CARDNAME对该玩家造成等同于其操控之非基本地数量的伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="ab998cd1-2f49-42e7-b889-c6717b0ce884" resname="HML·93 | Renewal | Card Name">
@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="efb4c256-e790-41ec-a9ab-e6358e810798" resname="HML·95 | Roots | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, tap enchanted creature.</source>
-        <target state="translated">当缠根进战场时，横置所结附的生物。</target>
+        <target state="translated">当CARDNAME进战场时，横置所结附的生物。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="efb4c256-e790-41ec-a9ab-e6358e810798" resname="HML·95 | Roots | Card Text | Paragraph 3">
@@ -739,22 +739,22 @@
       </trans-unit>
       <trans-unit id="9b080587-d062-42ff-abc5-8e04a20faece" resname="HML·103 | Clockwork Steed | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with four +1/+0 counters on it.</source>
-        <target state="translated">发条马不可被神器生物阻挡。</target>
+        <target state="translated">CARDNAME不可被神器生物阻挡。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="9b080587-d062-42ff-abc5-8e04a20faece" resname="HML·103 | Clockwork Steed | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked by artifact creatures.</source>
-        <target state="translated">当发条马进场时，放置四个+1/+0指示物在其上。</target>
+        <target state="translated">当CARDNAME进场时，放置四个+1/+0指示物在其上。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="9b080587-d062-42ff-abc5-8e04a20faece" resname="HML·103 | Clockwork Steed | Card Text | Paragraph 3">
         <source>At end of combat, if CARDNAME attacked or blocked this combat, remove a +1/+0 counter from it.</source>
-        <target state="translated">在任何战斗结束时，若发条马在该战斗中曾攻击或阻挡，则移去一个指示物。</target>
+        <target state="translated">在任何战斗结束时，若CARDNAME在该战斗中曾攻击或阻挡，则移去一个指示物。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="9b080587-d062-42ff-abc5-8e04a20faece" resname="HML·103 | Clockwork Steed | Card Text | Paragraph 4">
         <source>{X}, {T}: Put up to X +1/+0 counters on CARDNAME. This ability can't cause the total number of +1/+0 counters on CARDNAME to be greater than four. Activate only during your upkeep.</source>
-        <target state="translated">oX，ocT：放置X个+1/+0指示物在发条马上。发条马上的指示物不可超过四个。你只可在你的维持阶段中使用此异能。</target>
+        <target state="translated">oX，ocT：放置X个+1/+0指示物在CARDNAME上。CARDNAME上的指示物不可超过四个。你只可在你的维持阶段中使用此异能。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="dfd89e5c-79dc-4a57-b5ea-16491443fea1" resname="HML·104 | Clockwork Swarm | Card Name">
@@ -804,17 +804,17 @@
       </trans-unit>
       <trans-unit id="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2" resname="HML·110 | Serrated Arrows | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three arrowhead counters on it.</source>
-        <target state="translated">锯刺箭进场时上面有三个箭头指示物。</target>
+        <target state="translated">CARDNAME进场时上面有三个箭头指示物。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2" resname="HML·110 | Serrated Arrows | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, if there are no arrowhead counters on CARDNAME, sacrifice it.</source>
-        <target state="translated">在你的维持开始时，若锯刺箭上没有箭头指示物，则牺牲之。</target>
+        <target state="translated">在你的维持开始时，若CARDNAME上没有箭头指示物，则牺牲之。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2" resname="HML·110 | Serrated Arrows | Card Text | Paragraph 3">
         <source>{T}, Remove an arrowhead counter from CARDNAME: Put a -1/-1 counter on target creature.</source>
-        <target state="translated">{T}，从锯刺箭上移去一个箭头指示物：在目标生物上放置一个-1/-1指示物。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个箭头指示物：在目标生物上放置一个-1/-1指示物。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="9afac347-4316-43e2-848b-e474ed563af6" resname="HML·111 | An-Havva Township | Card Name">

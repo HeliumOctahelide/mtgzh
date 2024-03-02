@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="a416d54b-ac84-48ac-92f8-eeb348f26016" resname="OGW·1 | Deceiver of Form | Card Text | Paragraph 2">
         <source>At the beginning of combat on your turn, reveal the top card of your library. If a creature card is revealed this way, you may have creatures you control other than CARDNAME become copies of that card until end of turn. You may put that card on the bottom of your library.</source>
-        <target state="translated">在你回合的战斗开始时，展示你的牌库顶牌。如果以此法展示出一张生物牌，则你可以让型态欺瞒体以外由你操控的生物成为该牌的复制品直到回合结束。你可以将该牌置于你的牌库底。</target>
+        <target state="translated">在你回合的战斗开始时，展示你的牌库顶牌。如果以此法展示出一张生物牌，则你可以让CARDNAME以外由你操控的生物成为该牌的复制品直到回合结束。你可以将该牌置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="311a05b1-042d-47e7-9fd7-6e8abe8fc578" resname="OGW·2 | Eldrazi Mimic | Card Name">
         <source>Eldrazi Mimic</source>
@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit id="311a05b1-042d-47e7-9fd7-6e8abe8fc578" resname="OGW·2 | Eldrazi Mimic | Card Text | Paragraph 1">
         <source>Whenever another colorless creature enters the battlefield under your control, you may change CARDNAME's base power and toughness to that creature's power and toughness until end of turn.</source>
-        <target state="translated">每当另一个无色生物在你的操控下进战场时，你可以将拟态奥札奇的基础力量与防御力更改为该生物的力量与防御力直到回合结束。</target>
+        <target state="translated">每当另一个无色生物在你的操控下进战场时，你可以将CARDNAME的基础力量与防御力更改为该生物的力量与防御力直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6bba7509-db77-414f-926f-1f28a4117831" resname="OGW·3 | Endbringer | Card Name">
         <source>Endbringer</source>
@@ -28,11 +28,11 @@
       </trans-unit>
       <trans-unit id="6bba7509-db77-414f-926f-1f28a4117831" resname="OGW·3 | Endbringer | Card Text | Paragraph 1">
         <source>Untap CARDNAME during each other player's untap step.</source>
-        <target state="translated">于其他牌手的重置步骤中，重置终结恶体。</target>
+        <target state="translated">于其他牌手的重置步骤中，重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="6bba7509-db77-414f-926f-1f28a4117831" resname="OGW·3 | Endbringer | Card Text | Paragraph 2">
         <source>{T}: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">{T}：终结恶体对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="6bba7509-db77-414f-926f-1f28a4117831" resname="OGW·3 | Endbringer | Card Text | Paragraph 3">
         <source>{C}, {T}: Target creature can't attack or block this turn.</source>
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="f06fc6e0-b22c-40d3-bb53-d5ec400d921c" resname="OGW·4 | Kozilek, the Great Distortion | Card Text | Paragraph 1">
         <source>When you cast CARDNAME, if you have fewer than seven cards in hand, draw cards equal to the difference.</source>
-        <target state="translated">当你施放无际曲相寇基雷时，若你的手牌数量少于七张，则抓等同于该差距数量的牌。</target>
+        <target state="translated">当你施放CARDNAME时，若你的手牌数量少于七张，则抓等同于该差距数量的牌。</target>
       </trans-unit>
       <trans-unit id="f06fc6e0-b22c-40d3-bb53-d5ec400d921c" resname="OGW·4 | Kozilek, the Great Distortion | Card Text | Paragraph 2">
         <source>Menace</source>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="b75585bd-fdd8-44d1-8c7c-b96df5fc473e" resname="OGW·5 | Kozilek's Pathfinder | Card Text | Paragraph 1">
         <source>{C}: Target creature can't block CARDNAME this turn. ({C} represents colorless mana.)</source>
-        <target state="translated">{C}：目标生物本回合不能阻挡寇基雷寻径体。（{C}代表无色法术力。）</target>
+        <target state="translated">{C}：目标生物本回合不能阻挡CARDNAME。（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="3906b61a-3865-4dfd-ae06-a7d2a608851a" resname="OGW·6 | Matter Reshaper | Card Name">
         <source>Matter Reshaper</source>
@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="3906b61a-3865-4dfd-ae06-a7d2a608851a" resname="OGW·6 | Matter Reshaper | Card Text | Paragraph 2">
         <source>When CARDNAME dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with converted mana cost 3 or less. Otherwise, put that card into your hand.</source>
-        <target state="translated">当塑质恶体死去时，展示你的牌库顶牌。如果该牌为永久物牌，且其总法术力费用等于或小于3，则你可以将它放进战场。若否，则将该牌置于你手上。</target>
+        <target state="translated">当CARDNAME死去时，展示你的牌库顶牌。如果该牌为永久物牌，且其总法术力费用等于或小于3，则你可以将它放进战场。若否，则将该牌置于你手上。</target>
       </trans-unit>
       <trans-unit id="52d4b652-a830-4fd4-94bb-c17c227f2928" resname="OGW·7 | Reality Smasher | Card Name">
         <source>Reality Smasher</source>
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit id="52d4b652-a830-4fd4-94bb-c17c227f2928" resname="OGW·7 | Reality Smasher | Card Text | Paragraph 3">
         <source>Whenever CARDNAME becomes the target of a spell an opponent controls, counter that spell unless its controller discards a card.</source>
-        <target state="translated">每当碎实恶体成为由对手操控之咒语的目标时，除非该咒语的操控者弃一张牌，否则反击之。</target>
+        <target state="translated">每当CARDNAME成为由对手操控之咒语的目标时，除非该咒语的操控者弃一张牌，否则反击之。</target>
       </trans-unit>
       <trans-unit id="4e2acf70-7625-4b77-83c1-0e08436da31f" resname="OGW·8 | Spatial Contortion | Card Name">
         <source>Spatial Contortion</source>
@@ -116,11 +116,11 @@
       </trans-unit>
       <trans-unit id="bffc360e-db41-48f3-9365-680d55046e04" resname="OGW·9 | Thought-Knot Seer | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, target opponent reveals his or her hand. You choose a nonland card from it and exile that card.</source>
-        <target state="translated">当结念预知体进战场时，目标对手展示其手牌。你选择其中一张非地牌，并放逐该牌。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手展示其手牌。你选择其中一张非地牌，并放逐该牌。</target>
       </trans-unit>
       <trans-unit id="bffc360e-db41-48f3-9365-680d55046e04" resname="OGW·9 | Thought-Knot Seer | Card Text | Paragraph 3">
         <source>When CARDNAME leaves the battlefield, target opponent draws a card.</source>
-        <target state="translated">当结念预知体离开战场时，目标对手抓一张牌。</target>
+        <target state="translated">当CARDNAME离开战场时，目标对手抓一张牌。</target>
       </trans-unit>
       <trans-unit id="34f635ac-ad6d-4a13-a08e-64c8e2b9779c" resname="OGW·10 | Walker of the Wastes | Card Name">
         <source>Walker of the Wastes</source>
@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="34f635ac-ad6d-4a13-a08e-64c8e2b9779c" resname="OGW·10 | Walker of the Wastes | Card Text | Paragraph 3">
         <source>CARDNAME gets +1/+1 for each land you control named Wastes.</source>
-        <target state="translated">你每操控一个名称为荒野的地，荒野行体便得+1/+1。</target>
+        <target state="translated">你每操控一个名称为荒野的地，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="c7f517b9-ac10-4710-8ef1-ced1253d5ecf" resname="OGW·11 | Warden of Geometries | Card Name">
         <source>Warden of Geometries</source>
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="819d11eb-960b-4116-ba09-f03bff88b4e7" resname="OGW·18 | Expedition Raptor | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)</source>
-        <target state="translated">当探险队猎鸟进战场时，支援2。（在至多两个其他目标生物上各放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，支援2。（在至多两个其他目标生物上各放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="34e9aa86-1a31-4c0f-928d-923f066286b6" resname="OGW·19 | General Tazri | Card Name">
         <source>General Tazri</source>
@@ -236,7 +236,7 @@
       </trans-unit>
       <trans-unit id="34e9aa86-1a31-4c0f-928d-923f066286b6" resname="OGW·19 | General Tazri | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle your library.</source>
-        <target state="translated">当塔兹莉将军进战场时，你可以从你的牌库中搜寻一张伙伴生物牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库中搜寻一张伙伴生物牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="34e9aa86-1a31-4c0f-928d-923f066286b6" resname="OGW·19 | General Tazri | Card Text | Paragraph 2">
         <source>{W}{U}{B}{R}{G}: Ally creatures you control get +X/+X until end of turn, where X is the number of colors among those creatures.</source>
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="1ca698e3-1249-4a08-be04-bae3bd944e99" resname="OGW·22 | Isolation Zone | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target creature or enchantment an opponent controls until CARDNAME leaves the battlefield. (That permanent returns under its owner's control.)</source>
-        <target state="translated">当隔离区进战场时，放逐目标由对手操控的生物或结界，直到隔离区离开战场为止。（该永久物会在其拥有者的操控下移回。）</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标由对手操控的生物或结界，直到CARDNAME离开战场为止。（该永久物会在其拥有者的操控下移回。）</target>
       </trans-unit>
       <trans-unit id="5ce587ba-f23a-4548-a5b8-fca54984d4b4" resname="OGW·23 | Kor Scythemaster | Card Name">
         <source>Kor Scythemaster</source>
@@ -276,7 +276,7 @@
       </trans-unit>
       <trans-unit id="5ce587ba-f23a-4548-a5b8-fca54984d4b4" resname="OGW·23 | Kor Scythemaster | Card Text | Paragraph 1">
         <source>CARDNAME has first strike as long as it's attacking.</source>
-        <target state="translated">只要寇族镰刃大师正进行攻击，它便具有先攻异能。</target>
+        <target state="translated">只要CARDNAME正进行攻击，它便具有先攻异能。</target>
       </trans-unit>
       <trans-unit id="54938334-ebad-4dde-82e6-8c854aef4a91" resname="OGW·24 | Kor Sky Climber | Card Name">
         <source>Kor Sky Climber</source>
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id="54938334-ebad-4dde-82e6-8c854aef4a91" resname="OGW·24 | Kor Sky Climber | Card Text | Paragraph 1">
         <source>{1}{W}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">{1}{W}：攀空寇族获得飞行异能直到回合结束。</target>
+        <target state="translated">{1}{W}：CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="ef0dbb08-d124-46da-bfb1-af7ef4a18179" resname="OGW·25 | Linvala, the Preserver | Card Name">
         <source>Linvala, the Preserver</source>
@@ -296,7 +296,7 @@
       </trans-unit>
       <trans-unit id="ef0dbb08-d124-46da-bfb1-af7ef4a18179" resname="OGW·25 | Linvala, the Preserver | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if an opponent has more life than you, you gain 5 life.</source>
-        <target state="translated">当存护天使琳法拉进战场时，若某对手的生命比你多，则你获得5点生命。</target>
+        <target state="translated">当CARDNAME进战场时，若某对手的生命比你多，则你获得5点生命。</target>
       </trans-unit>
       <trans-unit id="ef0dbb08-d124-46da-bfb1-af7ef4a18179" resname="OGW·25 | Linvala, the Preserver | Card Text | Paragraph 3">
         <source>When Linvala enters the battlefield, if an opponent controls more creatures than you, put a 3/3 white Angel creature token with flying onto the battlefield.</source>
@@ -340,7 +340,7 @@
       </trans-unit>
       <trans-unit id="97976ade-c6ec-4068-be6b-953255b86a79" resname="OGW·30 | Oath of Gideon | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put two 1/1 white Kor Ally creature tokens onto the battlefield.</source>
-        <target state="translated">当基定的誓约进战场时，将两个1/1白色寇族／伙伴衍生生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将两个1/1白色寇族／伙伴衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="97976ade-c6ec-4068-be6b-953255b86a79" resname="OGW·30 | Oath of Gideon | Card Text | Paragraph 2">
         <source>Each planeswalker you control enters the battlefield with an additional loyalty counter on it.</source>
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="2ecacff4-87b9-4cc1-bfbe-019cfda82d17" resname="OGW·32 | Relief Captain | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, support 3. (Put a +1/+1 counter on each of up to three other target creatures.)</source>
-        <target state="translated">当接防队长进战场时，支援3。（在至多三个其他目标生物上各放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，支援3。（在至多三个其他目标生物上各放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="76dadfd8-8492-4c55-827c-cd4e6a40ae97" resname="OGW·33 | Searing Light | Card Name">
         <source>Searing Light</source>
@@ -432,7 +432,7 @@
       </trans-unit>
       <trans-unit id="c99f0dc1-c8cf-4733-a874-5ae57b38258e" resname="OGW·39 | Wall of Resurgence | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.</source>
-        <target state="translated">当复苏之墙进战场时，你可以在目标由你操控的地上放置三个+1/+1指示物。若你如此作，则该地成为0/0，具敏捷异能的元素生物，且仍然是地。</target>
+        <target state="translated">当CARDNAME进战场时，你可以在目标由你操控的地上放置三个+1/+1指示物。若你如此作，则该地成为0/0，具敏捷异能的元素生物，且仍然是地。</target>
       </trans-unit>
       <trans-unit id="249a7be3-311e-4ce6-97dc-97242463ae23" resname="OGW·40 | Abstruse Interference | Card Name">
         <source>Abstruse Interference</source>
@@ -504,7 +504,7 @@
       </trans-unit>
       <trans-unit id="0ea28dd5-57b0-4255-a3d9-1c190c446f20" resname="OGW·44 | Dimensional Infiltrator | Card Text | Paragraph 4">
         <source>{1}{C}: Target opponent exiles the top card of his or her library. If it's a land card, you may return CARDNAME to its owner's hand. ({C} represents colorless mana.)</source>
-        <target state="translated">{1}{C}：目标对手放逐其牌库顶牌。如果该牌为地牌，则你可以将次元渗透体移回其拥有者手上。（{C}代表无色法术力。）</target>
+        <target state="translated">{1}{C}：目标对手放逐其牌库顶牌。如果该牌为地牌，则你可以将CARDNAME移回其拥有者手上。（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="85f9b63e-6ecc-4d85-9724-87b8176ae6a6" resname="OGW·45 | Gravity Negator | Card Name">
         <source>Gravity Negator</source>
@@ -520,7 +520,7 @@
       </trans-unit>
       <trans-unit id="85f9b63e-6ecc-4d85-9724-87b8176ae6a6" resname="OGW·45 | Gravity Negator | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, you may pay {C}. If you do, another target creature gains flying until end of turn. ({C} represents colorless mana.)</source>
-        <target state="translated">每当重力反动体攻击时，你可以支付{C}。若你如此作，则另一个目标生物获得飞行异能直到回合结束。（{C}代表无色法术力。）</target>
+        <target state="translated">每当CARDNAME攻击时，你可以支付{C}。若你如此作，则另一个目标生物获得飞行异能直到回合结束。（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="03ee2d7e-50ee-4f5a-b787-cf9669a892f3" resname="OGW·46 | Prophet of Distortion | Card Name">
         <source>Prophet of Distortion</source>
@@ -620,7 +620,7 @@
       </trans-unit>
       <trans-unit id="be1434e1-a0d6-4028-918b-1e2d17d3a227" resname="OGW·53 | Crush of Tentacles | Card Text | Paragraph 2">
         <source>Return all nonland permanents to their owners' hands. If CARDNAME's surge cost was paid, put an 8/8 blue Octopus creature token onto the battlefield.</source>
-        <target state="translated">将所有非地永久物移回其拥有者手上。如果曾支付触手压境的潮涌费用，则将一个8/8蓝色章鱼衍生生物放进战场。</target>
+        <target state="translated">将所有非地永久物移回其拥有者手上。如果曾支付CARDNAME的潮涌费用，则将一个8/8蓝色章鱼衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="bff62270-57ed-4706-bedf-11f60ae2da43" resname="OGW·54 | Cyclone Sire | Card Name">
         <source>Cyclone Sire</source>
@@ -632,7 +632,7 @@
       </trans-unit>
       <trans-unit id="bff62270-57ed-4706-bedf-11f60ae2da43" resname="OGW·54 | Cyclone Sire | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.</source>
-        <target state="translated">当气旋君父死去时，你可以在目标由你操控的地上放置三个+1/+1指示物。若你如此作，则该地成为0/0，具敏捷异能的元素生物，且仍然是地。</target>
+        <target state="translated">当CARDNAME死去时，你可以在目标由你操控的地上放置三个+1/+1指示物。若你如此作，则该地成为0/0，具敏捷异能的元素生物，且仍然是地。</target>
       </trans-unit>
       <trans-unit id="3821122c-c495-42b0-b8f6-3f469967f16d" resname="OGW·55 | Gift of Tusks | Card Name">
         <source>Gift of Tusks</source>
@@ -668,7 +668,7 @@
       </trans-unit>
       <trans-unit id="7b3ec511-1b78-46e9-8ec2-fc09abd1b434" resname="OGW·57 | Hedron Alignment | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, you may reveal your hand. If you do, you win the game if you own a card named CARDNAME in exile, in your hand, in your graveyard, and on the battlefield.</source>
-        <target state="translated">在你的维持开始时，你可以展示你的手牌。若你如此作，则如果你在放逐区、你的手上、你的坟墓场中，以及战场上都拥有一张名称为晶石阵列的牌，你便赢得此盘游戏。</target>
+        <target state="translated">在你的维持开始时，你可以展示你的手牌。若你如此作，则如果你在放逐区、你的手上、你的坟墓场中，以及战场上都拥有一张名称为CARDNAME的牌，你便赢得此盘游戏。</target>
       </trans-unit>
       <trans-unit id="7b3ec511-1b78-46e9-8ec2-fc09abd1b434" resname="OGW·57 | Hedron Alignment | Card Text | Paragraph 3">
         <source>{1}{U}: Scry 1.</source>
@@ -700,7 +700,7 @@
       </trans-unit>
       <trans-unit id="e8e7b007-a14b-40b2-9de7-38545c50a073" resname="OGW·60 | Oath of Jace | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw three cards, then discard two cards.</source>
-        <target state="translated">当杰斯的誓约进战场时，抓三张牌，然后弃两张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓三张牌，然后弃两张牌。</target>
       </trans-unit>
       <trans-unit id="e8e7b007-a14b-40b2-9de7-38545c50a073" resname="OGW·60 | Oath of Jace | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, scry X, where X is the number of planeswalkers you control.</source>
@@ -716,7 +716,7 @@
       </trans-unit>
       <trans-unit id="33ff1000-1a4e-43f6-aa02-1dbe9fac6901" resname="OGW·61 | Overwhelming Denial | Card Text | Paragraph 2">
         <source>CARDNAME can't be countered by spells or abilities.</source>
-        <target state="translated">压倒性拒斥不能被咒语或异能反击。</target>
+        <target state="translated">CARDNAME不能被咒语或异能反击。</target>
       </trans-unit>
       <trans-unit id="33ff1000-1a4e-43f6-aa02-1dbe9fac6901" resname="OGW·61 | Overwhelming Denial | Card Text | Paragraph 3">
         <source>Counter target spell.</source>
@@ -736,7 +736,7 @@
       </trans-unit>
       <trans-unit id="866f92a3-2738-4e0f-adda-3ff9227dc17a" resname="OGW·63 | Sphinx of the Final Word | Card Text | Paragraph 1">
         <source>CARDNAME can't be countered.</source>
-        <target state="translated">终局史芬斯不能被反击。</target>
+        <target state="translated">CARDNAME不能被反击。</target>
       </trans-unit>
       <trans-unit id="866f92a3-2738-4e0f-adda-3ff9227dc17a" resname="OGW·63 | Sphinx of the Final Word | Card Text | Paragraph 2">
         <source>Flying, hexproof</source>
@@ -784,7 +784,7 @@
       </trans-unit>
       <trans-unit id="50460cce-ee1c-4384-bb0c-d90616e0d2e9" resname="OGW·67 | Bearer of Silence | Card Text | Paragraph 2">
         <source>When you cast CARDNAME, you may pay {1}{C}. If you do, target opponent sacrifices a creature. ({C} represents colorless mana.)</source>
-        <target state="translated">当你施放静默载体时，你可以支付{1}{C}。若你如此作，则目标对手牺牲一个生物。（{C}代表无色法术力。）</target>
+        <target state="translated">当你施放CARDNAME时，你可以支付{1}{C}。若你如此作，则目标对手牺牲一个生物。（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="50460cce-ee1c-4384-bb0c-d90616e0d2e9" resname="OGW·67 | Bearer of Silence | Card Text | Paragraph 3">
         <source>Flying</source>
@@ -792,7 +792,7 @@
       </trans-unit>
       <trans-unit id="50460cce-ee1c-4384-bb0c-d90616e0d2e9" resname="OGW·67 | Bearer of Silence | Card Text | Paragraph 4">
         <source>CARDNAME can't block.</source>
-        <target state="translated">静默载体不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="e2b26769-4705-4b09-94b4-1063e67041d1" resname="OGW·68 | Dread Defiler | Card Name">
         <source>Dread Defiler</source>
@@ -840,7 +840,7 @@
       </trans-unit>
       <trans-unit id="f8585871-24a2-41d7-ae12-29aabfbc9ccc" resname="OGW·71 | Havoc Sower | Card Text | Paragraph 2">
         <source>{1}{C}: CARDNAME gets +2/+1 until end of turn. ({C} represents colorless mana.)</source>
-        <target state="translated">{1}{C}：传劫恶体得+2/+1直到回合结束。（{C}代表无色法术力。）</target>
+        <target state="translated">{1}{C}：CARDNAME得+2/+1直到回合结束。（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="88c9d8c5-333b-4281-b923-b4a060927bbc" resname="OGW·72 | Inverter of Truth | Card Name">
         <source>Inverter of Truth</source>
@@ -856,7 +856,7 @@
       </trans-unit>
       <trans-unit id="88c9d8c5-333b-4281-b923-b4a060927bbc" resname="OGW·72 | Inverter of Truth | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, exile all cards from your library face down, then shuffle all cards from your graveyard into your library.</source>
-        <target state="translated">当逆真恶体进战场时，面朝下地放逐你牌库中所有的牌，然后将所有在你坟墓场中的牌洗回你的牌库。</target>
+        <target state="translated">当CARDNAME进战场时，面朝下地放逐你牌库中所有的牌，然后将所有在你坟墓场中的牌洗回你的牌库。</target>
       </trans-unit>
       <trans-unit id="a384cd5b-2c6c-4969-bb62-a017e2fc9794" resname="OGW·73 | Kozilek's Shrieker | Card Name">
         <source>Kozilek's Shrieker</source>
@@ -868,7 +868,7 @@
       </trans-unit>
       <trans-unit id="a384cd5b-2c6c-4969-bb62-a017e2fc9794" resname="OGW·73 | Kozilek's Shrieker | Card Text | Paragraph 2">
         <source>{C}: CARDNAME gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures. {C} represents colorless mana.)</source>
-        <target state="translated">{C}：直到回合结束，寇基雷鸣体得+1/+0且获得威慑异能。（它只能被两个或更多生物阻挡。{C}代表无色法术力。）</target>
+        <target state="translated">{C}：直到回合结束，CARDNAME得+1/+0且获得威慑异能。（它只能被两个或更多生物阻挡。{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="d80665ae-fcb2-48fd-95be-8768293bcef7" resname="OGW·74 | Kozilek's Translator | Card Name">
         <source>Kozilek's Translator</source>
@@ -932,7 +932,7 @@
       </trans-unit>
       <trans-unit id="eb00fa72-bcda-4081-9048-e13752da8d46" resname="OGW·78 | Sky Scourer | Card Text | Paragraph 3">
         <source>Whenever you cast a colorless spell, CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">每当你施放无色咒语时，荡空奴兽得+1/+0直到回合结束。</target>
+        <target state="translated">每当你施放无色咒语时，CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="275b1185-49aa-45ae-8e2d-12aa469a7d77" resname="OGW·79 | Slaughter Drone | Card Name">
         <source>Slaughter Drone</source>
@@ -944,7 +944,7 @@
       </trans-unit>
       <trans-unit id="275b1185-49aa-45ae-8e2d-12aa469a7d77" resname="OGW·79 | Slaughter Drone | Card Text | Paragraph 2">
         <source>{C}: CARDNAME gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it. {C} represents colorless mana.)</source>
-        <target state="translated">{C}：杀戮奴兽获得死触异能直到回合结束。（它对生物造成的任何数量伤害都足以消灭后者。{C}代表无色法术力。）</target>
+        <target state="translated">{C}：CARDNAME获得死触异能直到回合结束。（它对生物造成的任何数量伤害都足以消灭后者。{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="ac497133-a44a-4acc-ba7e-8fc1fae7e226" resname="OGW·80 | Unnatural Endurance | Card Name">
         <source>Unnatural Endurance</source>
@@ -1028,7 +1028,7 @@
       </trans-unit>
       <trans-unit id="17a278d0-f601-4d57-bc3d-2972f8602a69" resname="OGW·86 | Kalitas, Traitor of Ghet | Card Text | Paragraph 3">
         <source>{2}{B}, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on CARDNAME.</source>
-        <target state="translated">{2}{B}，牺牲另一个吸血鬼或灵俑：在劫特叛徒卡力塔上放置两个+1/+1指示物。</target>
+        <target state="translated">{2}{B}，牺牲另一个吸血鬼或灵俑：在CARDNAME上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="72cb3c2c-5d5a-4c9b-a381-ab4dd477d84d" resname="OGW·87 | Malakir Soothsayer | Card Name">
         <source>Malakir Soothsayer</source>
@@ -1084,7 +1084,7 @@
       </trans-unit>
       <trans-unit id="3ba8e7aa-9a87-410e-b846-5f5c910585cf" resname="OGW·92 | Vampire Envoy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes tapped, you gain 1 life.</source>
-        <target state="translated">每当吸血鬼特使成为横置时，你获得1点生命。</target>
+        <target state="translated">每当CARDNAME成为横置时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="92461f3c-21dc-48a8-b532-9c4e2e1e80b5" resname="OGW·93 | Zulaport Chainmage | Card Name">
         <source>Zulaport Chainmage</source>
@@ -1112,7 +1112,7 @@
       </trans-unit>
       <trans-unit id="82a42b28-3d1b-4432-b8c9-2d42e4d0e1c5" resname="OGW·94 | Consuming Sinkhole | Card Text | Paragraph 4">
         <source>• CARDNAME deals 4 damage to target player.</source>
-        <target state="translated">• 吞噬深坑对目标牌手造成4点伤害。</target>
+        <target state="translated">• CARDNAME对目标牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="62f3ec85-552d-4e28-939e-ab2c39e3e9c5" resname="OGW·95 | Eldrazi Aggressor | Card Name">
         <source>Eldrazi Aggressor</source>
@@ -1124,7 +1124,7 @@
       </trans-unit>
       <trans-unit id="62f3ec85-552d-4e28-939e-ab2c39e3e9c5" resname="OGW·95 | Eldrazi Aggressor | Card Text | Paragraph 2">
         <source>CARDNAME has haste as long as you control another colorless creature.</source>
-        <target state="translated">只要你操控另一个无色生物，侵略奥札奇便具有敏捷异能。</target>
+        <target state="translated">只要你操控另一个无色生物，CARDNAME便具有敏捷异能。</target>
       </trans-unit>
       <trans-unit id="dfaa8b16-7c12-44e2-8ddb-17608d491c41" resname="OGW·96 | Eldrazi Obligator | Card Name">
         <source>Eldrazi Obligator</source>
@@ -1136,7 +1136,7 @@
       </trans-unit>
       <trans-unit id="dfaa8b16-7c12-44e2-8ddb-17608d491c41" resname="OGW·96 | Eldrazi Obligator | Card Text | Paragraph 2">
         <source>When you cast CARDNAME, you may pay {1}{C}. If you do, gain control of target creature until end of turn, untap that creature, and it gains haste until end of turn. ({C} represents colorless mana.)</source>
-        <target state="translated">当你施放强令奥札奇时，你可以支付{1}{C}。若你如此作，则获得目标生物的操控权直到回合结束，重置该生物，且它获得敏捷异能直到回合结束。（{C}代表无色法术力。）</target>
+        <target state="translated">当你施放CARDNAME时，你可以支付{1}{C}。若你如此作，则获得目标生物的操控权直到回合结束，重置该生物，且它获得敏捷异能直到回合结束。（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="dfaa8b16-7c12-44e2-8ddb-17608d491c41" resname="OGW·96 | Eldrazi Obligator | Card Text | Paragraph 3">
         <source>Haste</source>
@@ -1164,11 +1164,11 @@
       </trans-unit>
       <trans-unit id="72765559-0a78-4aa3-827e-cb4612720991" resname="OGW·98 | Kozilek's Return | Card Text | Paragraph 2">
         <source>CARDNAME deals 2 damage to each creature.</source>
-        <target state="translated">寇基雷再临对每个生物各造成2点伤害。</target>
+        <target state="translated">CARDNAME对每个生物各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="72765559-0a78-4aa3-827e-cb4612720991" resname="OGW·98 | Kozilek's Return | Card Text | Paragraph 3">
         <source>Whenever you cast an Eldrazi creature spell with converted mana cost 7 or greater, you may exile CARDNAME from your graveyard. If you do, CARDNAME deals 5 damage to each creature.</source>
-        <target state="translated">每当你施放总法术力费用等于或大于7的奥札奇生物咒语时，你可以将寇基雷再临从你的坟墓场放逐。若你如此作，则寇基雷再临对每个生物各造成5点伤害。</target>
+        <target state="translated">每当你施放总法术力费用等于或大于7的奥札奇生物咒语时，你可以将CARDNAME从你的坟墓场放逐。若你如此作，则CARDNAME对每个生物各造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="48669993-ad68-499e-8f2e-bc5c651b4b28" resname="OGW·99 | Maw of Kozilek | Card Name">
         <source>Maw of Kozilek</source>
@@ -1180,7 +1180,7 @@
       </trans-unit>
       <trans-unit id="48669993-ad68-499e-8f2e-bc5c651b4b28" resname="OGW·99 | Maw of Kozilek | Card Text | Paragraph 2">
         <source>{C}: CARDNAME gets +2/-2 until end of turn. ({C} represents colorless mana.)</source>
-        <target state="translated">{C}：寇基雷喉兽得+2/-2直到回合结束。（{C}代表无色法术力。）</target>
+        <target state="translated">{C}：CARDNAME得+2/-2直到回合结束。（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="c044168d-cb08-493d-98c1-b66b6149fe5a" resname="OGW·100 | Reality Hemorrhage | Card Name">
         <source>Reality Hemorrhage</source>
@@ -1192,7 +1192,7 @@
       </trans-unit>
       <trans-unit id="c044168d-cb08-493d-98c1-b66b6149fe5a" resname="OGW·100 | Reality Hemorrhage | Card Text | Paragraph 2">
         <source>CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">实境溢血对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="6ef4e1e2-7961-47d2-bb55-9168ea201214" resname="OGW·101 | Akoum Flameseeker | Card Name">
         <source>Akoum Flameseeker</source>
@@ -1212,7 +1212,7 @@
       </trans-unit>
       <trans-unit id="4e269989-bb22-4da4-a374-434a572e8e8f" resname="OGW·102 | Boulder Salvo | Card Text | Paragraph 2">
         <source>CARDNAME deals 4 damage to target creature.</source>
-        <target state="translated">巨石迸发对目标生物造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="ec60192a-19b3-447c-b732-bbcb2d275df6" resname="OGW·103 | Brute Strength | Card Name">
         <source>Brute Strength</source>
@@ -1236,7 +1236,7 @@
       </trans-unit>
       <trans-unit id="49fdd0d3-7140-4c12-a41c-37eedd986d9e" resname="OGW·104 | Chandra, Flamecaller | Card Text | Paragraph 3">
         <source>−X: CARDNAME deals X damage to each creature.</source>
-        <target state="translated">−X：召焰茜卓对每个生物各造成X点伤害。</target>
+        <target state="translated">−X：CARDNAME对每个生物各造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="5a069118-42e4-40e3-a2ba-593ac89b9064" resname="OGW·105 | Cinder Hellion | Card Name">
         <source>Cinder Hellion</source>
@@ -1248,7 +1248,7 @@
       </trans-unit>
       <trans-unit id="5a069118-42e4-40e3-a2ba-593ac89b9064" resname="OGW·105 | Cinder Hellion | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, it deals 2 damage to target opponent.</source>
-        <target state="translated">当烬火地狱兽进战场时，它向目标对手造成2点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它向目标对手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="432dd78b-9520-4c28-8699-d7ff9c477070" resname="OGW·106 | Devour in Flames | Card Name">
         <source>Devour in Flames</source>
@@ -1256,11 +1256,11 @@
       </trans-unit>
       <trans-unit id="432dd78b-9520-4c28-8699-d7ff9c477070" resname="OGW·106 | Devour in Flames | Card Text | Paragraph 1">
         <source>As an additional cost to cast CARDNAME, return a land you control to its owner's hand.</source>
-        <target state="translated">将一个由你操控的地移回其拥有者手上，以作为施放火焰吞噬的额外费用。</target>
+        <target state="translated">将一个由你操控的地移回其拥有者手上，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="432dd78b-9520-4c28-8699-d7ff9c477070" resname="OGW·106 | Devour in Flames | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage to target creature or planeswalker.</source>
-        <target state="translated">火焰吞噬对目标生物或鹏洛客造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="92f385d1-a6c5-40b7-bc90-6f71b6f815e7" resname="OGW·107 | Embodiment of Fury | Card Name">
         <source>Embodiment of Fury</source>
@@ -1300,7 +1300,7 @@
       </trans-unit>
       <trans-unit id="8c21da73-0dad-4b2b-8cc6-61861bed9410" resname="OGW·109 | Fall of the Titans | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage to each of up to two target creatures and/or players.</source>
-        <target state="translated">巨物殒落对至多两个目标生物和／或牌手各造成X点伤害。</target>
+        <target state="translated">CARDNAME对至多两个目标生物和／或牌手各造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="ddf91a4e-97f7-4189-823d-b619bb3b3d55" resname="OGW·110 | Goblin Dark-Dwellers | Card Name">
         <source>Goblin Dark-Dwellers</source>
@@ -1312,7 +1312,7 @@
       </trans-unit>
       <trans-unit id="ddf91a4e-97f7-4189-823d-b619bb3b3d55" resname="OGW·110 | Goblin Dark-Dwellers | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.</source>
-        <target state="translated">当暗栖鬼怪进战场时，你可以从你的坟墓场施放目标总法术力费用等于或小于3的瞬间或法术牌，且不需支付其法术力费用。如果该牌于本回合中将置入你的坟墓场，则改为将其放逐。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的坟墓场施放目标总法术力费用等于或小于3的瞬间或法术牌，且不需支付其法术力费用。如果该牌于本回合中将置入你的坟墓场，则改为将其放逐。</target>
       </trans-unit>
       <trans-unit id="5082e0a1-5c3e-4b8c-ba88-290151564133" resname="OGW·111 | Goblin Freerunner | Card Name">
         <source>Goblin Freerunner</source>
@@ -1332,7 +1332,7 @@
       </trans-unit>
       <trans-unit id="6824f48d-6808-4458-a2fd-1ffd0a10d72a" resname="OGW·112 | Kazuul's Toll Collector | Card Text | Paragraph 1">
         <source>{0}: Attach target Equipment you control to CARDNAME. Activate this ability only any time you could cast a sorcery.</source>
-        <target state="translated">{0}：将目标由你操控的武具装备在克卒的强征员上。只可以于你能施放法术的时机下起动此异能。</target>
+        <target state="translated">{0}：将目标由你操控的武具装备在CARDNAME上。只可以于你能施放法术的时机下起动此异能。</target>
       </trans-unit>
       <trans-unit id="f570b0cb-2f38-422d-89d6-22c85e085328" resname="OGW·113 | Oath of Chandra | Card Name">
         <source>Oath of Chandra</source>
@@ -1340,11 +1340,11 @@
       </trans-unit>
       <trans-unit id="f570b0cb-2f38-422d-89d6-22c85e085328" resname="OGW·113 | Oath of Chandra | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals 3 damage to target creature an opponent controls.</source>
-        <target state="translated">当茜卓的誓约进战场时，它向目标由对手操控的生物造成3点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，它向目标由对手操控的生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="f570b0cb-2f38-422d-89d6-22c85e085328" resname="OGW·113 | Oath of Chandra | Card Text | Paragraph 2">
         <source>At the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, CARDNAME deals 2 damage to each opponent.</source>
-        <target state="translated">在每个结束步骤开始时，若本回合中有鹏洛客在你的操控下进战场，则茜卓的誓约向每位对手各造成2点伤害。</target>
+        <target state="translated">在每个结束步骤开始时，若本回合中有鹏洛客在你的操控下进战场，则CARDNAME向每位对手各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="69b9eb4b-3ab8-4506-baa4-3a818e7677a3" resname="OGW·114 | Press into Service | Card Name">
         <source>Press into Service</source>
@@ -1364,7 +1364,7 @@
       </trans-unit>
       <trans-unit id="b2c8dad1-278c-4ced-8124-5593b140d361" resname="OGW·115 | Pyromancer's Assault | Card Text | Paragraph 1">
         <source>Whenever you cast your second spell each turn, CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">每当你施放每回合中你的第二个咒语时，烈焰术士突袭对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">每当你施放每回合中你的第二个咒语时，CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="0405b1b9-976a-4aaf-bec6-fa006decea74" resname="OGW·116 | Reckless Bushwhacker | Card Name">
         <source>Reckless Bushwhacker</source>
@@ -1380,7 +1380,7 @@
       </trans-unit>
       <trans-unit id="0405b1b9-976a-4aaf-bec6-fa006decea74" resname="OGW·116 | Reckless Bushwhacker | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if its surge cost was paid, other creatures you control get +1/+0 and gain haste until end of turn.</source>
-        <target state="translated">当鲁莽开路兵进战场时，若曾支付其潮涌费用，则直到回合结束，由你操控的其他生物得+1/+0且获得敏捷异能。</target>
+        <target state="translated">当CARDNAME进战场时，若曾支付其潮涌费用，则直到回合结束，由你操控的其他生物得+1/+0且获得敏捷异能。</target>
       </trans-unit>
       <trans-unit id="736ad6c8-e275-4644-9d1e-d2d380149839" resname="OGW·117 | Sparkmage's Gambit | Card Name">
         <source>Sparkmage's Gambit</source>
@@ -1388,7 +1388,7 @@
       </trans-unit>
       <trans-unit id="736ad6c8-e275-4644-9d1e-d2d380149839" resname="OGW·117 | Sparkmage's Gambit | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.</source>
-        <target state="translated">火花法师的计策对至多两个目标生物各造成1点伤害。这些生物本回合不能进行阻挡。</target>
+        <target state="translated">CARDNAME对至多两个目标生物各造成1点伤害。这些生物本回合不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="db858823-ae8b-4da1-be6f-aee541e008ae" resname="OGW·118 | Tears of Valakut | Card Name">
         <source>Tears of Valakut</source>
@@ -1396,11 +1396,11 @@
       </trans-unit>
       <trans-unit id="db858823-ae8b-4da1-be6f-aee541e008ae" resname="OGW·118 | Tears of Valakut | Card Text | Paragraph 1">
         <source>CARDNAME can't be countered by spells or abilities.</source>
-        <target state="translated">瓦拉库之泪不能被咒语或异能反击。</target>
+        <target state="translated">CARDNAME不能被咒语或异能反击。</target>
       </trans-unit>
       <trans-unit id="db858823-ae8b-4da1-be6f-aee541e008ae" resname="OGW·118 | Tears of Valakut | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage to target creature with flying.</source>
-        <target state="translated">瓦拉库之泪对目标具飞行异能的生物造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标具飞行异能的生物造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="f388be9e-332e-4199-9f30-862d631fa26b" resname="OGW·119 | Tyrant of Valakut | Card Name">
         <source>Tyrant of Valakut</source>
@@ -1416,7 +1416,7 @@
       </trans-unit>
       <trans-unit id="f388be9e-332e-4199-9f30-862d631fa26b" resname="OGW·119 | Tyrant of Valakut | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if its surge cost was paid, it deals 3 damage to target creature or player.</source>
-        <target state="translated">当瓦拉库暴君进战场时，若曾支付其潮涌费用，则它对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，若曾支付其潮涌费用，则它对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="f4ad826d-c7e6-4dfd-991f-15d75b87d504" resname="OGW·120 | Zada's Commando | Card Name">
         <source>Zada's Commando</source>
@@ -1428,7 +1428,7 @@
       </trans-unit>
       <trans-unit id="f4ad826d-c7e6-4dfd-991f-15d75b87d504" resname="OGW·120 | Zada's Commando | Card Text | Paragraph 2">
         <source>Cohort — {T}, Tap an untapped Ally you control: CARDNAME deals 1 damage to target opponent.</source>
-        <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：查妲的突击队对目标对手造成1点伤害。</target>
+        <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：CARDNAME对目标对手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="a1a644e0-96e5-4b73-873f-1132948cb21f" resname="OGW·121 | Birthing Hulk | Card Name">
         <source>Birthing Hulk</source>
@@ -1440,11 +1440,11 @@
       </trans-unit>
       <trans-unit id="a1a644e0-96e5-4b73-873f-1132948cb21f" resname="OGW·121 | Birthing Hulk | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have &amp;quot;Sacrifice this creature: Add {C} to your mana pool.&amp;quot; ({C} represents colorless mana.)</source>
-        <target state="translated">当育裔巨体进战场时，将两个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{C}到你的法术力池中。」（{C}代表无色法术力。）</target>
+        <target state="translated">当CARDNAME进战场时，将两个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{C}到你的法术力池中。」（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="a1a644e0-96e5-4b73-873f-1132948cb21f" resname="OGW·121 | Birthing Hulk | Card Text | Paragraph 3">
         <source>{1}{C}: Regenerate CARDNAME.</source>
-        <target state="translated">{1}{C}：重生育裔巨体。</target>
+        <target state="translated">{1}{C}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="5a0ff591-e4d9-4b62-ac9c-7962fd815226" resname="OGW·122 | Ruin in Their Wake | Card Name">
         <source>Ruin in Their Wake</source>
@@ -1468,7 +1468,7 @@
       </trans-unit>
       <trans-unit id="826a882e-c4bd-4132-b797-9e1aa2d0bce4" resname="OGW·123 | Scion Summoner | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has &amp;quot;Sacrifice this creature: Add {C} to your mana pool.&amp;quot; ({C} represents colorless mana.)</source>
-        <target state="translated">当孽裔召唤体进战场时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{C}到你的法术力池中。」（{C}代表无色法术力。）</target>
+        <target state="translated">当CARDNAME进战场时，将一个1/1无色奥札奇／孽裔衍生生物放进战场。它具有「牺牲此生物：加{C}到你的法术力池中。」（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="12bc5b4c-a809-43f0-8848-38812ce865c2" resname="OGW·124 | Stalking Drone | Card Name">
         <source>Stalking Drone</source>
@@ -1480,7 +1480,7 @@
       </trans-unit>
       <trans-unit id="12bc5b4c-a809-43f0-8848-38812ce865c2" resname="OGW·124 | Stalking Drone | Card Text | Paragraph 2">
         <source>{C}: CARDNAME gets +1/+2 until end of turn. Activate this ability only once each turn. ({C} represents colorless mana.)</source>
-        <target state="translated">{C}：潜行奴兽得+1/+2直到回合结束。此异能每回合中只能起动一次。（{C}代表无色法术力。）</target>
+        <target state="translated">{C}：CARDNAME得+1/+2直到回合结束。此异能每回合中只能起动一次。（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="f48b0613-127a-4338-aea4-ad0b8aa96d77" resname="OGW·125 | Vile Redeemer | Card Name">
         <source>Vile Redeemer</source>
@@ -1496,7 +1496,7 @@
       </trans-unit>
       <trans-unit id="f48b0613-127a-4338-aea4-ad0b8aa96d77" resname="OGW·125 | Vile Redeemer | Card Text | Paragraph 3">
         <source>When you cast CARDNAME, you may pay {C}. If you do, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield for each nontoken creature that died under your control this turn. Those tokens have &amp;quot;Sacrifice this creature: Add {C} to your mana pool.&amp;quot;</source>
-        <target state="translated">当你施放卑劣减损体时，你可以支付{C}。若你如此作，则本回合中每有一个非衍生物的生物在你的操控下死去，便将一个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{C}到你的法术力池中。」</target>
+        <target state="translated">当你施放CARDNAME时，你可以支付{C}。若你如此作，则本回合中每有一个非衍生物的生物在你的操控下死去，便将一个1/1无色奥札奇／孽裔衍生生物放进战场。它们具有「牺牲此生物：加{C}到你的法术力池中。」</target>
       </trans-unit>
       <trans-unit id="0020a124-ba76-4d40-84e9-9803268d9f16" resname="OGW·126 | World Breaker | Card Name">
         <source>World Breaker</source>
@@ -1508,7 +1508,7 @@
       </trans-unit>
       <trans-unit id="0020a124-ba76-4d40-84e9-9803268d9f16" resname="OGW·126 | World Breaker | Card Text | Paragraph 2">
         <source>When you cast CARDNAME, exile target artifact, enchantment, or land.</source>
-        <target state="translated">当你施放毁世奥札奇时，放逐目标神器，结界或地。</target>
+        <target state="translated">当你施放CARDNAME时，放逐目标神器，结界或地。</target>
       </trans-unit>
       <trans-unit id="0020a124-ba76-4d40-84e9-9803268d9f16" resname="OGW·126 | World Breaker | Card Text | Paragraph 3">
         <source>Reach</source>
@@ -1516,7 +1516,7 @@
       </trans-unit>
       <trans-unit id="0020a124-ba76-4d40-84e9-9803268d9f16" resname="OGW·126 | World Breaker | Card Text | Paragraph 4">
         <source>{2}{C}, Sacrifice a land: Return CARDNAME from your graveyard to your hand. ({C} represents colorless mana.)</source>
-        <target state="translated">{2}{C}，牺牲一个地：将毁世奥札奇从你的坟墓场移回你手上。（{C}代表无色法术力。）</target>
+        <target state="translated">{2}{C}，牺牲一个地：将CARDNAME从你的坟墓场移回你手上。（{C}代表无色法术力。）</target>
       </trans-unit>
       <trans-unit id="3f9c87f4-4fa5-4c97-9654-c4acd250f850" resname="OGW·127 | Baloth Pup | Card Name">
         <source>Baloth Pup</source>
@@ -1524,7 +1524,7 @@
       </trans-unit>
       <trans-unit id="3f9c87f4-4fa5-4c97-9654-c4acd250f850" resname="OGW·127 | Baloth Pup | Card Text | Paragraph 1">
         <source>CARDNAME has trample as long as it has a +1/+1 counter on it.</source>
-        <target state="translated">只要巴洛西幼兽上面有+1/+1指示物，它便具有践踏异能。</target>
+        <target state="translated">只要CARDNAME上面有+1/+1指示物，它便具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="ff50de00-115f-41ed-892b-aac9bd13b9b9" resname="OGW·128 | Bonds of Mortality | Card Name">
         <source>Bonds of Mortality</source>
@@ -1532,7 +1532,7 @@
       </trans-unit>
       <trans-unit id="ff50de00-115f-41ed-892b-aac9bd13b9b9" resname="OGW·128 | Bonds of Mortality | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当必亡羁绊进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="ff50de00-115f-41ed-892b-aac9bd13b9b9" resname="OGW·128 | Bonds of Mortality | Card Text | Paragraph 2">
         <source>{G}: Creatures your opponents control lose hexproof and indestructible until end of turn.</source>
@@ -1572,7 +1572,7 @@
       </trans-unit>
       <trans-unit id="28ffd3f4-a034-4cb2-9270-bdb5197f1bef" resname="OGW·132 | Gladehart Cavalry | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, support 6. (Put a +1/+1 counter on each of up to six other target creatures.)</source>
-        <target state="translated">当林鹿骑兵进战场时，支援6。（在至多六个其他目标生物上各放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，支援6。（在至多六个其他目标生物上各放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="28ffd3f4-a034-4cb2-9270-bdb5197f1bef" resname="OGW·132 | Gladehart Cavalry | Card Text | Paragraph 2">
         <source>Whenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.</source>
@@ -1584,7 +1584,7 @@
       </trans-unit>
       <trans-unit id="0bf92744-0acc-4c7e-819c-51b0696facad" resname="OGW·133 | Harvester Troll | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may sacrifice a creature or land. If you do, put two +1/+1 counters on CARDNAME.</source>
-        <target state="translated">当索命巨魔进战场时，你可以牺牲一个生物或地。若你如此作，则在索命巨魔上放置两个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，你可以牺牲一个生物或地。若你如此作，则在CARDNAME上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="2cdcb985-b0bb-4921-a7e4-3ee6e8f8992b" resname="OGW·134 | Lead by Example | Card Name">
         <source>Lead by Example</source>
@@ -1600,7 +1600,7 @@
       </trans-unit>
       <trans-unit id="affa9314-0021-445e-9496-349254b16bf8" resname="OGW·135 | Loam Larva | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.</source>
-        <target state="translated">当黑土幼虫进战场时，你可以从你的牌库中搜寻一张基本地牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库中搜寻一张基本地牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
       </trans-unit>
       <trans-unit id="fdd4bdd5-1673-4f22-b593-41df8ce95a97" resname="OGW·136 | Natural State | Card Name">
         <source>Natural State</source>
@@ -1620,7 +1620,7 @@
       </trans-unit>
       <trans-unit id="456de8f8-f5dc-44fb-81b1-ca653c32be8e" resname="OGW·137 | Netcaster Spider | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks a creature with flying, CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">每当撒网蜘蛛阻挡一个具飞行异能的生物时，撒网蜘蛛得+2/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME阻挡一个具飞行异能的生物时，CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a600b97b-1851-4b1b-a2af-f80e0307c02c" resname="OGW·138 | Nissa, Voice of Zendikar | Card Name">
         <source>Nissa, Voice of Zendikar</source>
@@ -1656,7 +1656,7 @@
       </trans-unit>
       <trans-unit id="613513ea-55dd-4ae8-93b2-247e468112a6" resname="OGW·140 | Oath of Nissa | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, look at the top three cards of your library. You may reveal a creature, land, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</source>
-        <target state="translated">当妮莎的誓约进战场时，检视你牌库顶的三张牌。你可以展示其中一张生物，地或鹏洛客牌，并将其置于你手上。将其余的牌以任意顺序置于你牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，检视你牌库顶的三张牌。你可以展示其中一张生物，地或鹏洛客牌，并将其置于你手上。将其余的牌以任意顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="613513ea-55dd-4ae8-93b2-247e468112a6" resname="OGW·140 | Oath of Nissa | Card Text | Paragraph 2">
         <source>You may spend mana as though it were mana of any color to cast planeswalker spells.</source>
@@ -1676,7 +1676,7 @@
       </trans-unit>
       <trans-unit id="33df4803-b32d-43ae-ac68-b72e45e10b0c" resname="OGW·142 | Saddleback Lagac | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)</source>
-        <target state="translated">当鞍背勒嘎进战场时，支援2。（在至多两个其他目标生物上各放置一个+1/+1指示物。）</target>
+        <target state="translated">当CARDNAME进战场时，支援2。（在至多两个其他目标生物上各放置一个+1/+1指示物。）</target>
       </trans-unit>
       <trans-unit id="ba4736b3-d6ce-4a16-bcb7-67780caeb78c" resname="OGW·143 | Seed Guardian | Card Name">
         <source>Seed Guardian</source>
@@ -1688,7 +1688,7 @@
       </trans-unit>
       <trans-unit id="ba4736b3-d6ce-4a16-bcb7-67780caeb78c" resname="OGW·143 | Seed Guardian | Card Text | Paragraph 2">
         <source>When CARDNAME dies, put an X/X green Elemental creature token onto the battlefield, where X is the number of creature cards in your graveyard.</source>
-        <target state="translated">当卫种灵死去时，将一个X/X绿色元素衍生生物放进战场，X为你坟墓场中的生物牌数量。</target>
+        <target state="translated">当CARDNAME死去时，将一个X/X绿色元素衍生生物放进战场，X为你坟墓场中的生物牌数量。</target>
       </trans-unit>
       <trans-unit id="4ad1ff9b-306d-47c3-9334-371e4482370b" resname="OGW·144 | Sylvan Advocate | Card Name">
         <source>Sylvan Advocate</source>
@@ -1700,7 +1700,7 @@
       </trans-unit>
       <trans-unit id="4ad1ff9b-306d-47c3-9334-371e4482370b" resname="OGW·144 | Sylvan Advocate | Card Text | Paragraph 2">
         <source>As long as you control six or more lands, CARDNAME and land creatures you control get +2/+2.</source>
-        <target state="translated">只要你操控六个或更多地，森林拥护人和由你操控的地生物便得+2/+2。</target>
+        <target state="translated">只要你操控六个或更多地，CARDNAME和由你操控的地生物便得+2/+2。</target>
       </trans-unit>
       <trans-unit id="b073e75b-b432-41a5-a71e-d169fecf774f" resname="OGW·145 | Tajuru Pathwarden | Card Name">
         <source>Tajuru Pathwarden</source>
@@ -1756,7 +1756,7 @@
       </trans-unit>
       <trans-unit id="4a5bf575-6d09-4cb0-8fe0-8e49d2c39fd5" resname="OGW·149 | Mindmelter | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">融灵恶体不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="4a5bf575-6d09-4cb0-8fe0-8e49d2c39fd5" resname="OGW·149 | Mindmelter | Card Text | Paragraph 3">
         <source>{3}{C}: Target opponent exiles a card from his or her hand. Activate this ability only any time you could cast a sorcery. ({C} represents colorless mana.)</source>
@@ -1776,7 +1776,7 @@
       </trans-unit>
       <trans-unit id="6c2e37e2-a4bd-4f90-9191-3125784a3369" resname="OGW·150 | Void Grafter | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, another target creature you control gains hexproof until end of turn.</source>
-        <target state="translated">当虚空赋体进战场时，另一个目标由你操控的生物获得辟邪异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，另一个目标由你操控的生物获得辟邪异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="e7b5893d-6df6-4cae-ae70-d02d443d1740" resname="OGW·151 | Ayli, Eternal Pilgrim | Card Name">
         <source>Ayli, Eternal Pilgrim</source>
@@ -1800,7 +1800,7 @@
       </trans-unit>
       <trans-unit id="8811d210-23e2-4318-9730-7ee3b2021c68" resname="OGW·152 | Baloth Null | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return up to two target creature cards from your graveyard to your hand.</source>
-        <target state="translated">当巴洛西躯壳进战场时，将至多两张目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，将至多两张目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="5544247d-1f8f-443f-a4c4-d8461db28a79" resname="OGW·153 | Cliffhaven Vampire | Card Name">
         <source>Cliffhaven Vampire</source>
@@ -1848,7 +1848,7 @@
       </trans-unit>
       <trans-unit id="9473fe01-83f6-4432-ab01-f7953d2ca904" resname="OGW·157 | Reflector Mage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.</source>
-        <target state="translated">当反射法师进战场时，将目标由对手操控的生物移回其拥有者手上。直到你的下一个回合，该生物的拥有者不能施放与该生物同名的咒语。</target>
+        <target state="translated">当CARDNAME进战场时，将目标由对手操控的生物移回其拥有者手上。直到你的下一个回合，该生物的拥有者不能施放与该生物同名的咒语。</target>
       </trans-unit>
       <trans-unit id="91a52252-46b6-42e5-8cb5-c4f823cd0bf5" resname="OGW·158 | Relentless Hunter | Card Name">
         <source>Relentless Hunter</source>
@@ -1856,7 +1856,7 @@
       </trans-unit>
       <trans-unit id="91a52252-46b6-42e5-8cb5-c4f823cd0bf5" resname="OGW·158 | Relentless Hunter | Card Text | Paragraph 1">
         <source>{1}{R}{G}: CARDNAME gets +1/+1 and gains trample until end of turn.</source>
-        <target state="translated">{1}{R}{G}：直到回合结束，无情猎手得+1/+1且获得践踏异能。</target>
+        <target state="translated">{1}{R}{G}：直到回合结束，CARDNAME得+1/+1且获得践踏异能。</target>
       </trans-unit>
       <trans-unit id="7bba1b45-d8ae-42fd-b30f-c904640ab173" resname="OGW·159 | Stormchaser Mage | Card Name">
         <source>Stormchaser Mage</source>
@@ -1968,7 +1968,7 @@
       </trans-unit>
       <trans-unit id="949f41a0-9082-4682-88b8-a29fbcb48d5d" resname="OGW·168 | Cinder Barrens | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">煤烬瘠地须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="949f41a0-9082-4682-88b8-a29fbcb48d5d" resname="OGW·168 | Cinder Barrens | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {R} to your mana pool.</source>
@@ -1992,11 +1992,11 @@
       </trans-unit>
       <trans-unit id="d491c13c-43e3-4ca3-b888-4edd34dfe14a" resname="OGW·170 | Crumbling Vestige | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">崩坏残骸须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="d491c13c-43e3-4ca3-b888-4edd34dfe14a" resname="OGW·170 | Crumbling Vestige | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, add one mana of any color to your mana pool.</source>
-        <target state="translated">当崩坏残骸进战场时，加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="translated">当CARDNAME进战场时，加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="d491c13c-43e3-4ca3-b888-4edd34dfe14a" resname="OGW·170 | Crumbling Vestige | Card Text | Paragraph 3">
         <source>{T}: Add {C} to your mana pool. ({C} represents colorless mana.)</source>
@@ -2008,7 +2008,7 @@
       </trans-unit>
       <trans-unit id="6ef11b54-205a-48e9-92d0-5d416be869ef" resname="OGW·171 | Hissing Quagmire | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">嘶响湿沼须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="6ef11b54-205a-48e9-92d0-5d416be869ef" resname="OGW·171 | Hissing Quagmire | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {G} to your mana pool.</source>
@@ -2016,7 +2016,7 @@
       </trans-unit>
       <trans-unit id="6ef11b54-205a-48e9-92d0-5d416be869ef" resname="OGW·171 | Hissing Quagmire | Card Text | Paragraph 3">
         <source>{1}{B}{G}: CARDNAME becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.</source>
-        <target state="translated">{1}{B}{G}：嘶响湿沼成为2/2黑绿双色，具死触异能的元素生物直到回合结束。它仍然是地。</target>
+        <target state="translated">{1}{B}{G}：CARDNAME成为2/2黑绿双色，具死触异能的元素生物直到回合结束。它仍然是地。</target>
       </trans-unit>
       <trans-unit id="cf08c317-6f2d-47e3-ab5b-8af73fd3e404" resname="OGW·172 | Holdout Settlement | Card Name">
         <source>Holdout Settlement</source>
@@ -2036,7 +2036,7 @@
       </trans-unit>
       <trans-unit id="6a5bedf1-92b6-465c-afc2-ce8e150a5e57" resname="OGW·173 | Meandering River | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">蜿蜒河流须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="6a5bedf1-92b6-465c-afc2-ce8e150a5e57" resname="OGW·173 | Meandering River | Card Text | Paragraph 2">
         <source>{T}: Add {W} or {U} to your mana pool.</source>
@@ -2048,7 +2048,7 @@
       </trans-unit>
       <trans-unit id="edbea2b5-eed3-464b-9d5c-9591f309f298" resname="OGW·174 | Mirrorpool | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">镜映潭须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="edbea2b5-eed3-464b-9d5c-9591f309f298" resname="OGW·174 | Mirrorpool | Card Text | Paragraph 2">
         <source>{T}: Add {C} to your mana pool.</source>
@@ -2056,11 +2056,11 @@
       </trans-unit>
       <trans-unit id="edbea2b5-eed3-464b-9d5c-9591f309f298" resname="OGW·174 | Mirrorpool | Card Text | Paragraph 3">
         <source>{2}{C}, {T}, Sacrifice CARDNAME: Copy target instant or sorcery spell you control. You may choose new targets for the copy.</source>
-        <target state="translated">{2}{C}，{T}，牺牲镜映潭：复制目标由你操控的瞬间或法术咒语。你可以为该复制品选择新的目标。</target>
+        <target state="translated">{2}{C}，{T}，牺牲CARDNAME：复制目标由你操控的瞬间或法术咒语。你可以为该复制品选择新的目标。</target>
       </trans-unit>
       <trans-unit id="edbea2b5-eed3-464b-9d5c-9591f309f298" resname="OGW·174 | Mirrorpool | Card Text | Paragraph 4">
         <source>{4}{C}, {T}, Sacrifice CARDNAME: Put a token onto the battlefield that's a copy of target creature you control.</source>
-        <target state="translated">{4}{C}，{T}，牺牲镜映潭：将一个衍生物放进战场，此衍生物为目标由你操控之生物的复制品。</target>
+        <target state="translated">{4}{C}，{T}，牺牲CARDNAME：将一个衍生物放进战场，此衍生物为目标由你操控之生物的复制品。</target>
       </trans-unit>
       <trans-unit id="3d73700c-fa62-42be-aaca-5f8a50af20db" resname="OGW·175 | Needle Spires | Card Name">
         <source>Needle Spires</source>
@@ -2068,7 +2068,7 @@
       </trans-unit>
       <trans-unit id="3d73700c-fa62-42be-aaca-5f8a50af20db" resname="OGW·175 | Needle Spires | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">针岩尖峰须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="3d73700c-fa62-42be-aaca-5f8a50af20db" resname="OGW·175 | Needle Spires | Card Text | Paragraph 2">
         <source>{T}: Add {R} or {W} to your mana pool.</source>
@@ -2076,7 +2076,7 @@
       </trans-unit>
       <trans-unit id="3d73700c-fa62-42be-aaca-5f8a50af20db" resname="OGW·175 | Needle Spires | Card Text | Paragraph 3">
         <source>{2}{R}{W}: CARDNAME becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.</source>
-        <target state="translated">{2}{R}{W}：针岩尖峰成为2/1红白双色，具连击异能的元素生物直到回合结束。它仍然是地。</target>
+        <target state="translated">{2}{R}{W}：CARDNAME成为2/1红白双色，具连击异能的元素生物直到回合结束。它仍然是地。</target>
       </trans-unit>
       <trans-unit id="9fed86e5-5631-401b-8820-9685f8296134" resname="OGW·176 | Ruins of Oran-Rief | Card Name">
         <source>Ruins of Oran-Rief</source>
@@ -2084,7 +2084,7 @@
       </trans-unit>
       <trans-unit id="9fed86e5-5631-401b-8820-9685f8296134" resname="OGW·176 | Ruins of Oran-Rief | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">欧兰黎遗迹须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="9fed86e5-5631-401b-8820-9685f8296134" resname="OGW·176 | Ruins of Oran-Rief | Card Text | Paragraph 2">
         <source>{T}: Add {C} to your mana pool. ({C} represents colorless mana.)</source>
@@ -2112,7 +2112,7 @@
       </trans-unit>
       <trans-unit id="6479a246-21ac-490a-aefb-6ed72aabdb88" resname="OGW·178 | Submerged Boneyard | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">水下聚骨场须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="6479a246-21ac-490a-aefb-6ed72aabdb88" resname="OGW·178 | Submerged Boneyard | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {B} to your mana pool.</source>
@@ -2124,7 +2124,7 @@
       </trans-unit>
       <trans-unit id="55d05ff7-f071-4eb3-b10a-203741abdf10" resname="OGW·179 | Timber Gorge | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">林场峡谷须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="55d05ff7-f071-4eb3-b10a-203741abdf10" resname="OGW·179 | Timber Gorge | Card Text | Paragraph 2">
         <source>{T}: Add {R} or {G} to your mana pool.</source>
@@ -2136,7 +2136,7 @@
       </trans-unit>
       <trans-unit id="42787d2b-3f9d-4c29-9ece-e65544eb1340" resname="OGW·180 | Tranquil Expanse | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">静谧旷野须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="42787d2b-3f9d-4c29-9ece-e65544eb1340" resname="OGW·180 | Tranquil Expanse | Card Text | Paragraph 2">
         <source>{T}: Add {G} or {W} to your mana pool.</source>
@@ -2160,7 +2160,7 @@
       </trans-unit>
       <trans-unit id="dd0ee251-6c79-499b-8366-c281c989b061" resname="OGW·182 | Wandering Fumarole | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">漫游喷发孔须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="dd0ee251-6c79-499b-8366-c281c989b061" resname="OGW·182 | Wandering Fumarole | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {R} to your mana pool.</source>
@@ -2168,7 +2168,7 @@
       </trans-unit>
       <trans-unit id="dd0ee251-6c79-499b-8366-c281c989b061" resname="OGW·182 | Wandering Fumarole | Card Text | Paragraph 3">
         <source>{2}{U}{R}: Until end of turn, CARDNAME becomes a 1/4 blue and red Elemental creature with &amp;quot;{0}: Switch this creature's power and toughness until end of turn.&amp;quot; It's still a land.</source>
-        <target state="translated">{2}{U}{R}：直到回合结束，漫游喷发孔成为1/4蓝红双色的元素生物，且具有「{0}：将此生物的力量与防御力互换直到回合结束。」它仍然是地。</target>
+        <target state="translated">{2}{U}{R}：直到回合结束，CARDNAME成为1/4蓝红双色的元素生物，且具有「{0}：将此生物的力量与防御力互换直到回合结束。」它仍然是地。</target>
       </trans-unit>
       <trans-unit id="7019912c-bd9b-4b96-9388-400794909aa1" resname="OGW·183 | Wastes | Card Name">
         <source>Wastes</source>

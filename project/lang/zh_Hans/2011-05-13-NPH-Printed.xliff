@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="f9287151-95df-4f5a-b32a-4b0aea825452" resname="NPH·1 | Karn Liberated | Card Text | Paragraph 3">
         <source>-14: Restart the game, leaving in exile all non-Aura permanent cards exiled with CARDNAME. Then put those cards onto the battlefield under your control.</source>
-        <target state="translated">-14：重新开始游戏，但将所有以重获自由的卡恩放逐之非灵气永久物牌留在放逐区。 然后将这些牌在你的操控下放进战场。</target>
+        <target state="translated">-14：重新开始游戏，但将所有以CARDNAME放逐之非灵气永久物牌留在放逐区。 然后将这些牌在你的操控下放进战场。</target>
       </trans-unit>
       <trans-unit id="9f7c3571-925d-486e-80dd-bac47aa48283" resname="NPH·2 | Apostle's Blessing | Card Name">
         <source>Apostle's Blessing</source>
@@ -36,7 +36,7 @@
       </trans-unit>
       <trans-unit id="deffb601-6a53-4d88-a6af-686ce97eb4f0" resname="NPH·3 | Auriok Survivors | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may return target Equipment card from your graveyard to the battlefield. If you do, you may attach it to CARDNAME.</source>
-        <target state="translated">当欧瑞克幸存者进战场时，你可以将目标武具牌从你的坟墓场移回战场。 若你如此作，你可以将它装备在欧瑞克幸存者上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标武具牌从你的坟墓场移回战场。 若你如此作，你可以将它装备在CARDNAME上。</target>
       </trans-unit>
       <trans-unit id="b8e56a28-713b-4a13-a601-1128cf117539" resname="NPH·4 | Blade Splicer | Card Name">
         <source>Blade Splicer</source>
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="b8e56a28-713b-4a13-a601-1128cf117539" resname="NPH·4 | Blade Splicer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.</source>
-        <target state="translated">当锋刃接合师进战场时，将一个3/3无色魔像衍生神器生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将一个3/3无色魔像衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="b8e56a28-713b-4a13-a601-1128cf117539" resname="NPH·4 | Blade Splicer | Card Text | Paragraph 2">
         <source>Golem creatures you control have first strike.</source>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="07592731-68be-4218-bb2c-c2523c5a27f1" resname="NPH·5 | Cathedral Membrane | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from the battlefield during combat, it deals 6 damage to each creature it blocked this combat.</source>
-        <target state="translated">当圣堂护层于战斗中从战场置入坟墓场时，它对本次战斗中每个被它阻挡的生物各造成6点伤害。</target>
+        <target state="translated">当CARDNAME于战斗中从战场置入坟墓场时，它对本次战斗中每个被它阻挡的生物各造成6点伤害。</target>
       </trans-unit>
       <trans-unit id="be1b482a-badb-4b9a-ab63-2e7944826aa0" resname="NPH·6 | Chancellor of the Annex | Card Name">
         <source>Chancellor of the Annex</source>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="9e3b826a-7349-45ae-89bf-675fea7ce8e3" resname="NPH·10 | Exclusion Ritual | Card Text | Paragraph 1">
         <source>Imprint — When CARDNAME enters the battlefield, exile target nonland permanent.</source>
-        <target state="translated">压印～当拒斥祭礼进战场时，放逐目标非地永久物。</target>
+        <target state="translated">压印～当CARDNAME进战场时，放逐目标非地永久物。</target>
       </trans-unit>
       <trans-unit id="9e3b826a-7349-45ae-89bf-675fea7ce8e3" resname="NPH·10 | Exclusion Ritual | Card Text | Paragraph 2">
         <source>Players can't cast spells with the same name as the exiled card.</source>
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="e050701d-4609-470d-85ff-4b7638893c6a" resname="NPH·11 | Forced Worship | Card Text | Paragraph 3">
         <source>{2}{W}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{2}{W}：将逼迫敬拜移回其拥有者手上。</target>
+        <target state="translated">{2}{W}：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="49e241a0-a027-494b-8187-6ecb006d1d33" resname="NPH·12 | Inquisitor Exarch | Card Name">
         <source>Inquisitor Exarch</source>
@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="49e241a0-a027-494b-8187-6ecb006d1d33" resname="NPH·12 | Inquisitor Exarch | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one — You gain 2 life; or target opponent loses 2 life.</source>
-        <target state="translated">当审问督教进战场时，选择一项～你获得2点生命；或目标对手失去2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～你获得2点生命；或目标对手失去2点生命。</target>
       </trans-unit>
       <trans-unit id="8209fa5d-2c0e-4827-813b-fff123533f16" resname="NPH·13 | Lost Leonin | Card Name">
         <source>Lost Leonin</source>
@@ -180,7 +180,7 @@
       </trans-unit>
       <trans-unit id="53ca60ee-e54b-4a28-b6a6-7bf3503c35b4" resname="NPH·15 | Marrow Shards | Card Text | Paragraph 2">
         <source>CARDNAME deals 1 damage to each attacking creature.</source>
-        <target state="translated">骨片飞射对每个进行攻击的生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个进行攻击的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="859d2b91-63af-4700-8ca5-b1756aa6639b" resname="NPH·16 | Master Splicer | Card Name">
         <source>Master Splicer</source>
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="859d2b91-63af-4700-8ca5-b1756aa6639b" resname="NPH·16 | Master Splicer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.</source>
-        <target state="translated">当接合大师进战场时，将一个3/3无色魔像衍生神器生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将一个3/3无色魔像衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="859d2b91-63af-4700-8ca5-b1756aa6639b" resname="NPH·16 | Master Splicer | Card Text | Paragraph 2">
         <source>Golem creatures you control get +1/+1.</source>
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="79076264-d71c-4b30-aac9-702a4d229933" resname="NPH·22 | Sensor Splicer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.</source>
-        <target state="translated">当感应接合师进战场时，将一个3/3无色魔像衍生神器生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将一个3/3无色魔像衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="79076264-d71c-4b30-aac9-702a4d229933" resname="NPH·22 | Sensor Splicer | Card Text | Paragraph 2">
         <source>Golem creatures you control have vigilance.</source>
@@ -336,7 +336,7 @@
       </trans-unit>
       <trans-unit id="cddaebde-a060-4510-8c97-68432d931987" resname="NPH·29 | Blighted Agent | Card Text | Paragraph 2">
         <source>CARDNAME is unblockable.</source>
-        <target state="translated">枯萎密探不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="3a7bb447-c2b0-429e-bf82-02d6a966fe73" resname="NPH·30 | Chained Throatseeker | Card Name">
         <source>Chained Throatseeker</source>
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="3a7bb447-c2b0-429e-bf82-02d6a966fe73" resname="NPH·30 | Chained Throatseeker | Card Text | Paragraph 2">
         <source>CARDNAME can't attack unless defending player is poisoned.</source>
-        <target state="translated">除非防御牌手已中毒，否则锁栓夺喉怪不能攻击。</target>
+        <target state="translated">除非防御牌手已中毒，否则CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="b1e06e16-96fa-4611-b4a9-512eeeeddd3c" resname="NPH·31 | Chancellor of the Spires | Card Name">
         <source>Chancellor of the Spires</source>
@@ -364,7 +364,7 @@
       </trans-unit>
       <trans-unit id="b1e06e16-96fa-4611-b4a9-512eeeeddd3c" resname="NPH·31 | Chancellor of the Spires | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, you may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.</source>
-        <target state="translated">当尖塔督长进战场时，你可以从任一对手的坟墓场中施放目标瞬间或法术牌，且不需支付其法术力费用。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从任一对手的坟墓场中施放目标瞬间或法术牌，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="28432161-023b-4a98-b92a-55dc6d936cd1" resname="NPH·32 | Corrupted Resolve | Card Name">
         <source>Corrupted Resolve</source>
@@ -384,7 +384,7 @@
       </trans-unit>
       <trans-unit id="1f123ad6-fe84-4fed-9c0f-6b41921e9c26" resname="NPH·33 | Deceiver Exarch | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, choose one — Untap target permanent you control; or tap target permanent an opponent controls.</source>
-        <target state="translated">当欺瞒督教进战场时，选择一项～重置目标由你操控的永久物；或横置目标由对手操控的永久物。</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～重置目标由你操控的永久物；或横置目标由对手操控的永久物。</target>
       </trans-unit>
       <trans-unit id="d0670653-d4fe-4fac-b769-d19ca4698c97" resname="NPH·34 | Defensive Stance | Card Name">
         <source>Defensive Stance</source>
@@ -424,7 +424,7 @@
       </trans-unit>
       <trans-unit id="91e1f8b5-4792-457d-b3de-1d4874ddf72e" resname="NPH·36 | Impaler Shrike | Card Text | Paragraph 2">
         <source>When CARDNAME deals combat damage to a player, you may sacrifice it. If you do, draw three cards.</source>
-        <target state="translated">当穿啄鸟对任一牌手造成战斗伤害时，你可以牺牲它。 若你如此作，则抓三张牌。</target>
+        <target state="translated">当CARDNAME对任一牌手造成战斗伤害时，你可以牺牲它。 若你如此作，则抓三张牌。</target>
       </trans-unit>
       <trans-unit id="bd46fc9f-5b92-44d7-8940-2f39b0962b8f" resname="NPH·37 | Jin-Gitaxias, Core Augur | Card Name">
         <source>Jin-Gitaxias, Core Augur</source>
@@ -484,11 +484,11 @@
       </trans-unit>
       <trans-unit id="376e9829-23eb-4b43-9ec7-246cb3156e95" resname="NPH·41 | Phyrexian Ingester | Card Text | Paragraph 1">
         <source>Imprint — When CARDNAME enters the battlefield, you may exile target nontoken creature.</source>
-        <target state="translated">压印～当非瑞克西亚摄食兽进战场时，你可以放逐目标非衍生物的生物。</target>
+        <target state="translated">压印～当CARDNAME进战场时，你可以放逐目标非衍生物的生物。</target>
       </trans-unit>
       <trans-unit id="376e9829-23eb-4b43-9ec7-246cb3156e95" resname="NPH·41 | Phyrexian Ingester | Card Text | Paragraph 2">
         <source>CARDNAME gets +X/+Y, where X is the exiled creature card's power and Y is its toughness.</source>
-        <target state="translated">非瑞克西亚摄食兽得+X/+Y，X为所放逐之生物牌的力量，Y为该牌的防御力。</target>
+        <target state="translated">CARDNAME得+X/+Y，X为所放逐之生物牌的力量，Y为该牌的防御力。</target>
       </trans-unit>
       <trans-unit id="d2e27911-87cb-49a0-a34f-6afe4bddd592" resname="NPH·42 | Phyrexian Metamorph | Card Name">
         <source>Phyrexian Metamorph</source>
@@ -500,7 +500,7 @@
       </trans-unit>
       <trans-unit id="d2e27911-87cb-49a0-a34f-6afe4bddd592" resname="NPH·42 | Phyrexian Metamorph | Card Text | Paragraph 2">
         <source>You may have CARDNAME enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.</source>
-        <target state="translated">你可以使非瑞克西亚蜕变妖当成战场上任一神器或生物的复制品来进入战场，但它额外具有神器此类别。</target>
+        <target state="translated">你可以使CARDNAME当成战场上任一神器或生物的复制品来进入战场，但它额外具有神器此类别。</target>
       </trans-unit>
       <trans-unit id="1cba7d67-5c6c-4738-8907-7cce503e3180" resname="NPH·43 | Psychic Barrier | Card Name">
         <source>Psychic Barrier</source>
@@ -584,7 +584,7 @@
       </trans-unit>
       <trans-unit id="e2dbfb1b-092c-44a3-932d-a8b27be0a72b" resname="NPH·50 | Wing Splicer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.</source>
-        <target state="translated">当飞翼接合师进战场时，将一个3/3无色魔像衍生神器生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将一个3/3无色魔像衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="e2dbfb1b-092c-44a3-932d-a8b27be0a72b" resname="NPH·50 | Wing Splicer | Card Text | Paragraph 2">
         <source>Golem creatures you control have flying.</source>
@@ -596,7 +596,7 @@
       </trans-unit>
       <trans-unit id="f52f08e1-b234-42e4-8f1f-485a4f6edb3b" resname="NPH·51 | Xenograft | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于异种接殖进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="f52f08e1-b234-42e4-8f1f-485a4f6edb3b" resname="NPH·51 | Xenograft | Card Text | Paragraph 2">
         <source>Each creature you control is the chosen type in addition to its other types.</source>
@@ -612,7 +612,7 @@
       </trans-unit>
       <trans-unit id="9bd04df1-5131-455d-b497-fcce4f9af552" resname="NPH·52 | Blind Zealot | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls.</source>
-        <target state="translated">每当狂信盲者对任一牌手造成战斗伤害时，你可以牺牲它。 若你如此作，消灭目标由该牌手操控的生物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以牺牲它。 若你如此作，消灭目标由该牌手操控的生物。</target>
       </trans-unit>
       <trans-unit id="5ef987ad-a3dc-4ef5-90ec-9a8cfa95965b" resname="NPH·53 | Caress of Phyrexia | Card Name">
         <source>Caress of Phyrexia</source>
@@ -644,7 +644,7 @@
       </trans-unit>
       <trans-unit id="72ae22c3-2dea-463e-894a-188657849909" resname="NPH·55 | Dementia Bat | Card Text | Paragraph 2">
         <source>{4}{B}, Sacrifice CARDNAME: Target player discards two cards.</source>
-        <target state="translated">{4}{B}，牺牲痴呆蝙蝠：目标牌手弃两张牌。</target>
+        <target state="translated">{4}{B}，牺牲CARDNAME：目标牌手弃两张牌。</target>
       </trans-unit>
       <trans-unit id="ee7bfcd3-9f2b-41f5-93b4-8c1ee6ba4d88" resname="NPH·56 | Despise | Card Name">
         <source>Despise</source>
@@ -688,7 +688,7 @@
       </trans-unit>
       <trans-unit id="7f58020e-6d4d-474d-8d4b-cfb7d5a5e9a8" resname="NPH·59 | Entomber Exarch | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one — Return target creature card from your graveyard to your hand; or target opponent reveals his or her hand, you choose a noncreature card from it, then that player discards that card.</source>
-        <target state="translated">当入土督教进战场时，选择一项～将目标生物牌从你的坟墓场移回你手上；或目标对手展示其手牌，你选择其中一张非生物牌，然后该牌手弃掉该牌。</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～将目标生物牌从你的坟墓场移回你手上；或目标对手展示其手牌，你选择其中一张非生物牌，然后该牌手弃掉该牌。</target>
       </trans-unit>
       <trans-unit id="4dd00bc5-234c-4ded-b0b7-1181bc16cb28" resname="NPH·60 | Evil Presence | Card Name">
         <source>Evil Presence</source>
@@ -728,7 +728,7 @@
       </trans-unit>
       <trans-unit id="483e99fd-7e48-400d-9817-451089089e0c" resname="NPH·62 | Glistening Oil | Card Text | Paragraph 4">
         <source>When CARDNAME is put into a graveyard from the battlefield, return CARDNAME to its owner's hand.</source>
-        <target state="translated">当烁油从战场进入坟墓场时，将烁油移回其拥有者的手上。</target>
+        <target state="translated">当CARDNAME从战场进入坟墓场时，将CARDNAME移回其拥有者的手上。</target>
       </trans-unit>
       <trans-unit id="9d5c8ba8-d9f4-440c-8e0b-93699df6343e" resname="NPH·63 | Grim Affliction | Card Name">
         <source>Grim Affliction</source>
@@ -744,7 +744,7 @@
       </trans-unit>
       <trans-unit id="0b207e2f-4604-43c5-bb35-a877e35ddd81" resname="NPH·64 | Ichor Explosion | Card Text | Paragraph 1">
         <source>As an additional cost to cast CARDNAME, sacrifice a creature.</source>
-        <target state="translated">牺牲一个生物，以作为施放脓水爆发的额外费用。</target>
+        <target state="translated">牺牲一个生物，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="0b207e2f-4604-43c5-bb35-a877e35ddd81" resname="NPH·64 | Ichor Explosion | Card Text | Paragraph 2">
         <source>All creatures get -X/-X until end of turn, where X is the sacrificed creature's power.</source>
@@ -764,11 +764,11 @@
       </trans-unit>
       <trans-unit id="3cae1f40-0e43-41d8-bc5c-aa9873f7d7d5" resname="NPH·66 | Mortis Dogs | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +2/+0 until end of turn.</source>
-        <target state="translated">每当死尸狗群攻击时，它得+2/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，它得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="3cae1f40-0e43-41d8-bc5c-aa9873f7d7d5" resname="NPH·66 | Mortis Dogs | Card Text | Paragraph 2">
         <source>When CARDNAME is put into a graveyard from the battlefield, target player loses life equal to its power.</source>
-        <target state="translated">当死尸狗群从战场置入坟墓场时，目标牌手失去等同于其力量的生命。</target>
+        <target state="translated">当CARDNAME从战场置入坟墓场时，目标牌手失去等同于其力量的生命。</target>
       </trans-unit>
       <trans-unit id="e34f1bf3-9f3a-47f0-9761-8b2356328a39" resname="NPH·67 | Parasitic Implant | Card Name">
         <source>Parasitic Implant</source>
@@ -792,7 +792,7 @@
       </trans-unit>
       <trans-unit id="44c4476d-58f9-420d-9545-f5d580c589de" resname="NPH·68 | Phyrexian Obliterator | Card Text | Paragraph 2">
         <source>Whenever a source deals damage to CARDNAME, that source's controller sacrifices that many permanents.</source>
-        <target state="translated">每当一个来源对非瑞克西亚抹煞兽造成伤害时，该来源的操控者牺牲等量的永久物。</target>
+        <target state="translated">每当一个来源对CARDNAME造成伤害时，该来源的操控者牺牲等量的永久物。</target>
       </trans-unit>
       <trans-unit id="28e960c6-6da0-4679-87eb-55bac890e0c6" resname="NPH·69 | Pith Driller | Card Name">
         <source>Pith Driller</source>
@@ -804,7 +804,7 @@
       </trans-unit>
       <trans-unit id="28e960c6-6da0-4679-87eb-55bac890e0c6" resname="NPH·69 | Pith Driller | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put a -1/-1 counter on target creature.</source>
-        <target state="translated">当钻髓怪进战场时，在目标生物上放置一个-1/-1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在目标生物上放置一个-1/-1指示物。</target>
       </trans-unit>
       <trans-unit id="d5f8b46e-1ad3-4c6e-aa63-376f2d222d46" resname="NPH·70 | Postmortem Lunge | Card Name">
         <source>Postmortem Lunge</source>
@@ -836,7 +836,7 @@
       </trans-unit>
       <trans-unit id="a300a645-aec6-4cda-8c11-1e8a6af056ff" resname="NPH·72 | Reaper of Sheoldred | Card Text | Paragraph 2">
         <source>Whenever a source deals damage to CARDNAME, that source's controller gets a poison counter.</source>
-        <target state="translated">每当一个来源对希欧蕊镰刀手造成伤害时，该来源的操控者得到一个中毒指示物。</target>
+        <target state="translated">每当一个来源对CARDNAME造成伤害时，该来源的操控者得到一个中毒指示物。</target>
       </trans-unit>
       <trans-unit id="3bb8347b-8663-40b8-bdfb-411236d2efc8" resname="NPH·73 | Sheoldred, Whispering One | Card Name">
         <source>Sheoldred, Whispering One</source>
@@ -876,7 +876,7 @@
       </trans-unit>
       <trans-unit id="5823990c-8d40-4352-8d34-74332934adb2" resname="NPH·75 | Toxic Nim | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{B}：重生染毒泞族。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f254239c-c07a-4c41-98f7-8f4de539c73e" resname="NPH·76 | Vault Skirge | Card Name">
         <source>Vault Skirge</source>
@@ -908,7 +908,7 @@
       </trans-unit>
       <trans-unit id="bcb1b486-e336-4e88-b635-b6ff18cb4841" resname="NPH·77 | Whispering Specter | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals combat damage to a player, you may sacrifice it. If you do, that player discards a card for each poison counter he or she has.</source>
-        <target state="translated">每当细语幽灵对任一牌手造成战斗伤害时，你可以牺牲它。 若你如此作，该牌手每有一个中毒指示物，便弃一张牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以牺牲它。 若你如此作，该牌手每有一个中毒指示物，便弃一张牌。</target>
       </trans-unit>
       <trans-unit id="61a9f30b-d154-49a4-ad6b-f05601992de3" resname="NPH·78 | Act of Aggression | Card Name">
         <source>Act of Aggression</source>
@@ -928,11 +928,11 @@
       </trans-unit>
       <trans-unit id="034522ae-f531-44d9-b186-ada046ce0abc" resname="NPH·79 | Artillerize | Card Text | Paragraph 1">
         <source>As an additional cost to cast CARDNAME, sacrifice an artifact or creature.</source>
-        <target state="translated">牺牲一个神器或生物，以作为施放化为炮弹的额外费用。</target>
+        <target state="translated">牺牲一个神器或生物，以作为施放CARDNAME的额外费用。</target>
       </trans-unit>
       <trans-unit id="034522ae-f531-44d9-b186-ada046ce0abc" resname="NPH·79 | Artillerize | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage to target creature or player.</source>
-        <target state="translated">化为炮弹对目标生物或牌手造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="a30fa96d-64d1-423e-a62e-d43453ea838d" resname="NPH·80 | Bludgeon Brawl | Card Name">
         <source>Bludgeon Brawl</source>
@@ -952,7 +952,7 @@
       </trans-unit>
       <trans-unit id="dd3520a7-a55f-4c00-b4f1-c1c154adfc8f" resname="NPH·81 | Chancellor of the Forge | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put X 1/1 red Goblin creature tokens with haste onto the battlefield, where X is the number of creatures you control.</source>
-        <target state="translated">当锻炉督长进战场时，将X个1/1红色，具敏捷异能的鬼怪衍生生物放进战场，X为由你操控的生物之数量。</target>
+        <target state="translated">当CARDNAME进战场时，将X个1/1红色，具敏捷异能的鬼怪衍生生物放进战场，X为由你操控的生物之数量。</target>
       </trans-unit>
       <trans-unit id="7b200986-f553-4156-8f5e-37678db09687" resname="NPH·82 | Fallen Ferromancer | Card Name">
         <source>Fallen Ferromancer</source>
@@ -964,7 +964,7 @@
       </trans-unit>
       <trans-unit id="7b200986-f553-4156-8f5e-37678db09687" resname="NPH·82 | Fallen Ferromancer | Card Text | Paragraph 2">
         <source>{1}{R}, {T}: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">{1}{R}，{T}：堕落钢铁术士对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{1}{R}，{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="9601ea62-a609-4bc5-a2f0-f7615b4dd5fa" resname="NPH·83 | Flameborn Viron | Card Name">
         <source>Flameborn Viron</source>
@@ -976,7 +976,7 @@
       </trans-unit>
       <trans-unit id="97538294-058c-47d4-b7a8-4db3753a6628" resname="NPH·84 | Furnace Scamp | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to a player, you may sacrifice it. If you do, CARDNAME deals 3 damage to that player.</source>
-        <target state="translated">每当熔炉恶兽对任一牌手造成战斗伤害时，你可以牺牲它。 若你如此作，则熔炉恶兽对该牌手造成3点伤害。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，你可以牺牲它。 若你如此作，则CARDNAME对该牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="118b7aa3-bb05-4691-978e-51486435bf05" resname="NPH·85 | Geosurge | Card Name">
         <source>Geosurge</source>
@@ -996,7 +996,7 @@
       </trans-unit>
       <trans-unit id="a54a2a30-b96a-49c7-9151-1f4b0d4a4413" resname="NPH·86 | Gut Shot | Card Text | Paragraph 2">
         <source>CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">打击内脏对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="89a8c53f-2cb0-41ea-8391-c32667f17c30" resname="NPH·87 | Invader Parasite | Card Name">
         <source>Invader Parasite</source>
@@ -1004,11 +1004,11 @@
       </trans-unit>
       <trans-unit id="89a8c53f-2cb0-41ea-8391-c32667f17c30" resname="NPH·87 | Invader Parasite | Card Text | Paragraph 1">
         <source>Imprint — When CARDNAME enters the battlefield, exile target land.</source>
-        <target state="translated">压印～当入侵寄生虫进战场时，放逐目标地。</target>
+        <target state="translated">压印～当CARDNAME进战场时，放逐目标地。</target>
       </trans-unit>
       <trans-unit id="89a8c53f-2cb0-41ea-8391-c32667f17c30" resname="NPH·87 | Invader Parasite | Card Text | Paragraph 2">
         <source>Whenever a land with the same name as the exiled card enters the battlefield under an opponent's control, CARDNAME deals 2 damage to that player.</source>
-        <target state="translated">每当一个与所放逐的牌同名之地在对手的操控下进战场时，入侵寄生虫对该牌手造成2点伤害。</target>
+        <target state="translated">每当一个与所放逐的牌同名之地在对手的操控下进战场时，CARDNAME对该牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="13b78018-bfbe-43fa-809f-9b52a155e11c" resname="NPH·88 | Moltensteel Dragon | Card Name">
         <source>Moltensteel Dragon</source>
@@ -1024,7 +1024,7 @@
       </trans-unit>
       <trans-unit id="13b78018-bfbe-43fa-809f-9b52a155e11c" resname="NPH·88 | Moltensteel Dragon | Card Text | Paragraph 3">
         <source>{PR}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R/P}：融钢巨龙得+1/+0直到回合结束。</target>
+        <target state="translated">{R/P}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="6271c5c1-5f39-4908-b838-0f34c74e912e" resname="NPH·89 | Ogre Menial | Card Name">
         <source>Ogre Menial</source>
@@ -1036,7 +1036,7 @@
       </trans-unit>
       <trans-unit id="6271c5c1-5f39-4908-b838-0f34c74e912e" resname="NPH·89 | Ogre Menial | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：卑贱食人魔得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d0a9f49c-f15c-4b2d-b6a5-8efc3c430d87" resname="NPH·90 | Priest of Urabrask | Card Name">
         <source>Priest of Urabrask</source>
@@ -1044,7 +1044,7 @@
       </trans-unit>
       <trans-unit id="d0a9f49c-f15c-4b2d-b6a5-8efc3c430d87" resname="NPH·90 | Priest of Urabrask | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, add {R}{R}{R} to your mana pool.</source>
-        <target state="translated">当洼巴司牧师进战场时，加{R}{R}{R}到你的法术力池中。</target>
+        <target state="translated">当CARDNAME进战场时，加{R}{R}{R}到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="d8cebc2c-a46b-4459-b62b-7fce1a744b11" resname="NPH·91 | Rage Extractor | Card Name">
         <source>Rage Extractor</source>
@@ -1056,7 +1056,7 @@
       </trans-unit>
       <trans-unit id="d8cebc2c-a46b-4459-b62b-7fce1a744b11" resname="NPH·91 | Rage Extractor | Card Text | Paragraph 2">
         <source>Whenever you cast a spell with p in its mana cost, CARDNAME deals damage equal to that spell's converted mana cost to target creature or player.</source>
-        <target state="translated">每当你施放法术力费用中包含{P}的咒语时，炼怒仪对目标生物或牌手造成伤害，其数量等同于该咒语的总法术力费用。</target>
+        <target state="translated">每当你施放法术力费用中包含{P}的咒语时，CARDNAME对目标生物或牌手造成伤害，其数量等同于该咒语的总法术力费用。</target>
       </trans-unit>
       <trans-unit id="2fb022a3-5f9e-491e-8340-087e33f927d6" resname="NPH·92 | Razor Swine | Card Name">
         <source>Razor Swine</source>
@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="3a4874eb-635b-47f0-bbee-6bd8b26e2f10" resname="NPH·94 | Scrapyard Salvo | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target player equal to the number of artifact cards in your graveyard.</source>
-        <target state="translated">废品场迸火对目标牌手造成等同于你坟墓场中神器牌数量的伤害。</target>
+        <target state="translated">CARDNAME对目标牌手造成等同于你坟墓场中神器牌数量的伤害。</target>
       </trans-unit>
       <trans-unit id="c0d1ee33-e247-4ada-bb01-518611cd7d00" resname="NPH·95 | Slag Fiend | Card Name">
         <source>Slag Fiend</source>
@@ -1096,7 +1096,7 @@
       </trans-unit>
       <trans-unit id="c0d1ee33-e247-4ada-bb01-518611cd7d00" resname="NPH·95 | Slag Fiend | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of artifact cards in all graveyards.</source>
-        <target state="translated">熔渣邪鬼的力量和防御力各等同于所有坟墓场中的神器牌之数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于所有坟墓场中的神器牌之数量。</target>
       </trans-unit>
       <trans-unit id="2f510946-34de-4c12-8998-f61887d1a0e1" resname="NPH·96 | Slash Panther | Card Name">
         <source>Slash Panther</source>
@@ -1116,7 +1116,7 @@
       </trans-unit>
       <trans-unit id="4886eb6a-0f6a-4ea7-8e85-4a27d1a6f03b" resname="NPH·97 | Tormentor Exarch | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one — Target creature gets +2/+0 until end of turn; or target creature gets -0/-2 until end of turn.</source>
-        <target state="translated">当折磨督教进战场时，选择一项～目标生物得+2/+0直到回合结束；或目标生物得-0/-2直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～目标生物得+2/+0直到回合结束；或目标生物得-0/-2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b06fcab2-891e-4fa3-8583-068ba56c2e27" resname="NPH·98 | Urabrask the Hidden | Card Name">
         <source>Urabrask the Hidden</source>
@@ -1144,7 +1144,7 @@
       </trans-unit>
       <trans-unit id="aa88011c-a19d-4faa-8da6-86b9980cd571" resname="NPH·100 | Volt Charge | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature or player. Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</source>
-        <target state="translated">电压冲锋对目标生物或牌手造成3点伤害。 增殖。 （你选择任意数量其上有指示物的永久物和／或牌手，然后在其上放置一个它已有之类别的指示物。）</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。 增殖。 （你选择任意数量其上有指示物的永久物和／或牌手，然后在其上放置一个它已有之类别的指示物。）</target>
       </trans-unit>
       <trans-unit id="0b1615ec-21b3-4575-8b02-fd2bccb930ba" resname="NPH·101 | Vulshok Refugee | Card Name">
         <source>Vulshok Refugee</source>
@@ -1160,7 +1160,7 @@
       </trans-unit>
       <trans-unit id="5a7e6c10-d066-4967-932f-5b6c8d74568b" resname="NPH·102 | Whipflare | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each nonartifact creature.</source>
-        <target state="translated">鞭扫火光对每个非神器的生物各造成2点伤害。</target>
+        <target state="translated">CARDNAME对每个非神器的生物各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="ce5b6d19-22e3-4f57-8f4d-a17e982286c7" resname="NPH·103 | Beast Within | Card Name">
         <source>Beast Within</source>
@@ -1188,7 +1188,7 @@
       </trans-unit>
       <trans-unit id="9ddfa4ed-70fb-4e25-875d-df0f973f7294" resname="NPH·105 | Brutalizer Exarch | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one — Search your library for a creature card, reveal it, then shuffle your library and put that card on top of it; or put target noncreature permanent on the bottom of its owner's library.</source>
-        <target state="translated">当蛮横督教进战场时，选择一项～从你的牌库中搜寻一张生物牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上；或将目标非生物永久物置于其拥有者的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～从你的牌库中搜寻一张生物牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上；或将目标非生物永久物置于其拥有者的牌库底。</target>
       </trans-unit>
       <trans-unit id="6d129aa8-b637-451e-8123-5221e08cc2cc" resname="NPH·106 | Chancellor of the Tangle | Card Name">
         <source>Chancellor of the Tangle</source>
@@ -1212,7 +1212,7 @@
       </trans-unit>
       <trans-unit id="04a13825-ab9b-4ffd-9b59-6198181891b9" resname="NPH·107 | Corrosive Gale | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage to each creature with flying.</source>
-        <target state="translated">腐蚀狂风对每个具飞行异能的生物各造成X点伤害。</target>
+        <target state="translated">CARDNAME对每个具飞行异能的生物各造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="5279ac25-8175-44ad-ab7b-dfa17e359a10" resname="NPH·108 | Death-Hood Cobra | Card Name">
         <source>Death-Hood Cobra</source>
@@ -1220,11 +1220,11 @@
       </trans-unit>
       <trans-unit id="5279ac25-8175-44ad-ab7b-dfa17e359a10" resname="NPH·108 | Death-Hood Cobra | Card Text | Paragraph 1">
         <source>{1}{G}: CARDNAME gains reach until end of turn. (It can block creatures with flying.)</source>
-        <target state="translated">{1}{G}：亡者头套眼镜蛇获得延势异能直到回合结束。 （它能阻挡具飞行异能的生物。）</target>
+        <target state="translated">{1}{G}：CARDNAME获得延势异能直到回合结束。 （它能阻挡具飞行异能的生物。）</target>
       </trans-unit>
       <trans-unit id="5279ac25-8175-44ad-ab7b-dfa17e359a10" resname="NPH·108 | Death-Hood Cobra | Card Text | Paragraph 2">
         <source>{1}{G}: CARDNAME gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)</source>
-        <target state="translated">{1}{G}：亡者头套眼镜蛇获得死触异能直到回合结束。 （它对生物造成的任何数量伤害都足以消灭后者。）</target>
+        <target state="translated">{1}{G}：CARDNAME获得死触异能直到回合结束。 （它对生物造成的任何数量伤害都足以消灭后者。）</target>
       </trans-unit>
       <trans-unit id="000ce65b-5347-4a88-81af-be9053e4d3f3" resname="NPH·109 | Fresh Meat | Card Name">
         <source>Fresh Meat</source>
@@ -1256,7 +1256,7 @@
       </trans-unit>
       <trans-unit id="370f8ef5-c809-43cc-903a-077fad33cd30" resname="NPH·112 | Greenhilt Trainee | Card Text | Paragraph 1">
         <source>{T}: Target creature gets +4/+4 until end of turn. Activate this ability only if CARDNAME's power is 4 or greater.</source>
-        <target state="translated">{T}：目标生物得+4/+4直到回合结束。 只可以于碧柄学员的力量大于或等于4时起动此异能。</target>
+        <target state="translated">{T}：目标生物得+4/+4直到回合结束。 只可以于CARDNAME的力量大于或等于4时起动此异能。</target>
       </trans-unit>
       <trans-unit id="1c3bdbeb-c376-42bd-af2a-251cd7ac704c" resname="NPH·113 | Leeching Bite | Card Name">
         <source>Leeching Bite</source>
@@ -1272,7 +1272,7 @@
       </trans-unit>
       <trans-unit id="2d2c6a6d-5b59-47d7-b290-df3640d9555f" resname="NPH·114 | Maul Splicer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield.</source>
-        <target state="translated">当殴击接合师进战场时，将两个3/3无色魔像衍生神器生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将两个3/3无色魔像衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="2d2c6a6d-5b59-47d7-b290-df3640d9555f" resname="NPH·114 | Maul Splicer | Card Text | Paragraph 2">
         <source>Golem creatures you control have trample.</source>
@@ -1312,7 +1312,7 @@
       </trans-unit>
       <trans-unit id="bdcd1b8e-9f1f-48a3-b7a1-43a32cc03bb1" resname="NPH·117 | Mycosynth Fiend | Card Text | Paragraph 1">
         <source>CARDNAME gets +1/+1 for each poison counter your opponents have.</source>
-        <target state="translated">你的所有对手每有一个中毒指示物，构生菌邪鬼便得+1/+1。</target>
+        <target state="translated">你的所有对手每有一个中毒指示物，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="1bdd1243-1d14-496a-9b7a-0c5b34461361" resname="NPH·118 | Noxious Revival | Card Name">
         <source>Noxious Revival</source>
@@ -1352,7 +1352,7 @@
       </trans-unit>
       <trans-unit id="cfc79ac6-ffc6-4506-9dea-e20176f960ea" resname="NPH·121 | Spinebiter | Card Text | Paragraph 2">
         <source>You may have CARDNAME assign its combat damage as though it weren't blocked.</source>
-        <target state="translated">你可以让嚼脊兽如同未受阻挡地分配战斗伤害。</target>
+        <target state="translated">你可以让CARDNAME如同未受阻挡地分配战斗伤害。</target>
       </trans-unit>
       <trans-unit id="e2fab443-0f4b-45ea-8a6d-435b93803409" resname="NPH·122 | Thundering Tanadon | Card Name">
         <source>Thundering Tanadon</source>
@@ -1380,7 +1380,7 @@
       </trans-unit>
       <trans-unit id="cc6ea52f-4b24-45ff-99e1-4d0e1bd42875" resname="NPH·124 | Viridian Betrayers | Card Text | Paragraph 1">
         <source>CARDNAME has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</source>
-        <target state="translated">只要任一对手已中毒，暗碧族叛徒便具有侵染异能。 （它会以-1/-1指示物的方式对生物造成伤害，并以中毒指示物的方式对牌手造成伤害。）</target>
+        <target state="translated">只要任一对手已中毒，CARDNAME便具有侵染异能。 （它会以-1/-1指示物的方式对生物造成伤害，并以中毒指示物的方式对牌手造成伤害。）</target>
       </trans-unit>
       <trans-unit id="666eb9a5-b105-45c1-be3e-7ac5cc650338" resname="NPH·125 | Viridian Harvest | Card Name">
         <source>Viridian Harvest</source>
@@ -1400,7 +1400,7 @@
       </trans-unit>
       <trans-unit id="273b982d-bca2-4418-8618-c711d28fc901" resname="NPH·126 | Vital Splicer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.</source>
-        <target state="translated">当活力接合师进战场时，将一个3/3无色魔像衍生神器生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将一个3/3无色魔像衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="273b982d-bca2-4418-8618-c711d28fc901" resname="NPH·126 | Vital Splicer | Card Text | Paragraph 2">
         <source>{1}: Regenerate target Golem you control.</source>
@@ -1456,7 +1456,7 @@
       </trans-unit>
       <trans-unit id="cd114ec3-d286-4c70-a122-3043bc53cc88" resname="NPH·130 | Batterskull | Card Text | Paragraph 3">
         <source>{3}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{3}：将颅击槌移回其拥有者手上。</target>
+        <target state="translated">{3}：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="cd114ec3-d286-4c70-a122-3043bc53cc88" resname="NPH·130 | Batterskull | Card Text | Paragraph 4">
         <source>Equip {5}</source>
@@ -1476,7 +1476,7 @@
       </trans-unit>
       <trans-unit id="506597cc-48f9-4098-a229-2b3b3c0de944" resname="NPH·132 | Caged Sun | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于遭囚太阳进战场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种颜色。</target>
       </trans-unit>
       <trans-unit id="506597cc-48f9-4098-a229-2b3b3c0de944" resname="NPH·132 | Caged Sun | Card Text | Paragraph 2">
         <source>Creatures you control of the chosen color get +1/+1.</source>
@@ -1492,11 +1492,11 @@
       </trans-unit>
       <trans-unit id="14d5a8f3-05b6-4bb7-bbe1-e753e22cbb50" resname="NPH·133 | Conversion Chamber | Card Text | Paragraph 1">
         <source>{2}, {T}: Exile target artifact card from a graveyard. Put a charge counter on CARDNAME.</source>
-        <target state="translated">{2}，{T}：将目标神器牌从坟墓场放逐。 在转化室上放置一个充电指示物。</target>
+        <target state="translated">{2}，{T}：将目标神器牌从坟墓场放逐。 在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="14d5a8f3-05b6-4bb7-bbe1-e753e22cbb50" resname="NPH·133 | Conversion Chamber | Card Text | Paragraph 2">
         <source>{2}, {T}, Remove a charge counter from CARDNAME: Put a 3/3 colorless Golem artifact creature token onto the battlefield.</source>
-        <target state="translated">{2}，{T}，从转化室上移去一个充电指示物：将一个3/3无色魔像衍生神器生物放进战场。</target>
+        <target state="translated">{2}，{T}，从CARDNAME上移去一个充电指示物：将一个3/3无色魔像衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="0fd8c918-62d9-41be-a3e1-32ddac71b7e7" resname="NPH·134 | Darksteel Relic | Card Name">
         <source>Darksteel Relic</source>
@@ -1504,7 +1504,7 @@
       </trans-unit>
       <trans-unit id="0fd8c918-62d9-41be-a3e1-32ddac71b7e7" resname="NPH·134 | Darksteel Relic | Card Text | Paragraph 1">
         <source>CARDNAME is indestructible. (Effects that say &amp;quot;destroy&amp;quot; don't destroy it.)</source>
-        <target state="translated">玄铁遗宝不会毁坏。 （注明「消灭」的效应不会消灭它。）</target>
+        <target state="translated">CARDNAME不会毁坏。 （注明「消灭」的效应不会消灭它。）</target>
       </trans-unit>
       <trans-unit id="ff9c4451-dd17-4859-a31d-62ed2430c63c" resname="NPH·135 | Etched Monstrosity | Card Name">
         <source>Etched Monstrosity</source>
@@ -1512,11 +1512,11 @@
       </trans-unit>
       <trans-unit id="ff9c4451-dd17-4859-a31d-62ed2430c63c" resname="NPH·135 | Etched Monstrosity | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with five -1/-1 counters on it.</source>
-        <target state="translated">蚀刻巨兽进战场时上面有五个-1/-1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有五个-1/-1指示物。</target>
       </trans-unit>
       <trans-unit id="ff9c4451-dd17-4859-a31d-62ed2430c63c" resname="NPH·135 | Etched Monstrosity | Card Text | Paragraph 2">
         <source>{W}{U}{B}{R}{G}, Remove five -1/-1 counters from CARDNAME: Target player draws three cards.</source>
-        <target state="translated">{W}{U}{B}{R}{G}，从蚀刻巨兽上移去五个-1/-1指示物：目标牌手抓三张牌。</target>
+        <target state="translated">{W}{U}{B}{R}{G}，从CARDNAME上移去五个-1/-1指示物：目标牌手抓三张牌。</target>
       </trans-unit>
       <trans-unit id="ccde7ebb-90de-4174-a1c5-75fc9384deaa" resname="NPH·136 | Gremlin Mine | Card Name">
         <source>Gremlin Mine</source>
@@ -1524,11 +1524,11 @@
       </trans-unit>
       <trans-unit id="ccde7ebb-90de-4174-a1c5-75fc9384deaa" resname="NPH·136 | Gremlin Mine | Card Text | Paragraph 1">
         <source>{1}, {T}, Sacrifice CARDNAME: CARDNAME deals 4 damage to target artifact creature.</source>
-        <target state="translated">{1}，{T}，牺牲怪灵地雷：怪灵地雷对目标神器生物造成4点伤害。</target>
+        <target state="translated">{1}，{T}，牺牲CARDNAME：CARDNAME对目标神器生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="ccde7ebb-90de-4174-a1c5-75fc9384deaa" resname="NPH·136 | Gremlin Mine | Card Text | Paragraph 2">
         <source>{1}, {T}, Sacrifice CARDNAME: Remove up to four charge counters from target noncreature artifact.</source>
-        <target state="translated">{1}，{T}，牺牲怪灵地雷：从目标非生物的神器上移去至多四个充电指示物。</target>
+        <target state="translated">{1}，{T}，牺牲CARDNAME：从目标非生物的神器上移去至多四个充电指示物。</target>
       </trans-unit>
       <trans-unit id="43502078-5349-4e29-8e7d-277654a9a71e" resname="NPH·137 | Hex Parasite | Card Name">
         <source>Hex Parasite</source>
@@ -1536,7 +1536,7 @@
       </trans-unit>
       <trans-unit id="43502078-5349-4e29-8e7d-277654a9a71e" resname="NPH·137 | Hex Parasite | Card Text | Paragraph 1">
         <source>{X}{PB}: Remove up to X counters from target permanent. For each counter removed this way, CARDNAME gets +1/+0 until end of turn. ({PB} can be paid with either {B} or 2 life.)</source>
-        <target state="translated">{X}{B/P}：从目标永久物上移去至多X个指示物。 每以此法移去一个指示物，邪术寄生虫便得+1/+0直到回合结束。 （{B/P}可用{B}或2点生命来支付。）</target>
+        <target state="translated">{X}{B/P}：从目标永久物上移去至多X个指示物。 每以此法移去一个指示物，CARDNAME便得+1/+0直到回合结束。 （{B/P}可用{B}或2点生命来支付。）</target>
       </trans-unit>
       <trans-unit id="95e4e445-8333-4cb4-b4fb-80957fae0b97" resname="NPH·138 | Hovermyr | Card Name">
         <source>Hovermyr</source>
@@ -1552,7 +1552,7 @@
       </trans-unit>
       <trans-unit id="abbaf916-067d-4834-a55c-b400fe0d8c1f" resname="NPH·139 | Immolating Souleater | Card Text | Paragraph 1">
         <source>{PR}: CARDNAME gets +1/+0 until end of turn. ({PR} can be paid with either {R} or 2 life.)</source>
-        <target state="translated">{R/P}：燃焰食灵妖得+1/+0直到回合结束。 （{R/P}可用{R}或2点生命来支付。）</target>
+        <target state="translated">{R/P}：CARDNAME得+1/+0直到回合结束。 （{R/P}可用{R}或2点生命来支付。）</target>
       </trans-unit>
       <trans-unit id="171d5213-5bb4-4f5b-9ddd-e2a7ac092ec6" resname="NPH·140 | Insatiable Souleater | Card Name">
         <source>Insatiable Souleater</source>
@@ -1560,7 +1560,7 @@
       </trans-unit>
       <trans-unit id="171d5213-5bb4-4f5b-9ddd-e2a7ac092ec6" resname="NPH·140 | Insatiable Souleater | Card Text | Paragraph 1">
         <source>{PG}: CARDNAME gains trample until end of turn. ({PG} can be paid with either {G} or 2 life.)</source>
-        <target state="translated">{G/P}：无餍食灵妖获得践踏异能直到回合结束。 （{G/P}可用{G}或2点生命来支付。）</target>
+        <target state="translated">{G/P}：CARDNAME获得践踏异能直到回合结束。 （{G/P}可用{G}或2点生命来支付。）</target>
       </trans-unit>
       <trans-unit id="c5e72c64-cb0e-4a04-97d0-3537bb0420cd" resname="NPH·141 | Isolation Cell | Card Name">
         <source>Isolation Cell</source>
@@ -1576,7 +1576,7 @@
       </trans-unit>
       <trans-unit id="91678632-ebe6-41b6-9250-cd3ffd63663b" resname="NPH·142 | Kiln Walker | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +3/+0 until end of turn.</source>
-        <target state="translated">每当火炉行者攻击时，它得+3/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，它得+3/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8c418159-b5d1-48e9-9a31-707f49d6733b" resname="NPH·143 | Lashwrithe | Card Name">
         <source>Lashwrithe</source>
@@ -1608,7 +1608,7 @@
       </trans-unit>
       <trans-unit id="097f7ab8-01fa-4699-943a-32075aecebc2" resname="NPH·145 | Mycosynth Wellspring | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</source>
-        <target state="translated">当构生菌涌泉进战场或从战场进入坟墓场时，你可以从你的牌库中搜寻一张基本地牌，展示该牌，并将它置入你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场或从战场进入坟墓场时，你可以从你的牌库中搜寻一张基本地牌，展示该牌，并将它置入你手上，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="290c6036-02a3-43fa-b0d4-af3818794c3c" resname="NPH·146 | Myr Superion | Card Name">
         <source>Myr Superion</source>
@@ -1616,7 +1616,7 @@
       </trans-unit>
       <trans-unit id="290c6036-02a3-43fa-b0d4-af3818794c3c" resname="NPH·146 | Myr Superion | Card Text | Paragraph 1">
         <source>Spend only mana produced by creatures to cast CARDNAME.</source>
-        <target state="translated">只能以生物产生的法术力来施放精壮秘耳。</target>
+        <target state="translated">只能以生物产生的法术力来施放CARDNAME。</target>
       </trans-unit>
       <trans-unit id="4ed51dbc-bbec-4c78-a71e-26322a8d2439" resname="NPH·147 | Necropouncer | Card Name">
         <source>Necropouncer</source>
@@ -1652,7 +1652,7 @@
       </trans-unit>
       <trans-unit id="a069cc07-55eb-4ddb-a548-cbf463d078d3" resname="NPH·149 | Pestilent Souleater | Card Text | Paragraph 1">
         <source>{PB}: CARDNAME gains infect until end of turn. ({PB} can be paid with either {B} or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</source>
-        <target state="translated">{B/P}：瘟疫食灵妖获得侵染异能直到回合结束。 （{B/P}可用{B}或2点生命来支付。 具侵染的生物会以-1/-1指示物的方式对生物造成伤害，并以中毒指示物的方式对牌手造成伤害。）</target>
+        <target state="translated">{B/P}：CARDNAME获得侵染异能直到回合结束。 （{B/P}可用{B}或2点生命来支付。 具侵染的生物会以-1/-1指示物的方式对生物造成伤害，并以中毒指示物的方式对牌手造成伤害。）</target>
       </trans-unit>
       <trans-unit id="1687b5a7-7013-409a-ba8d-9cd8b5bb08f3" resname="NPH·150 | Phyrexian Hulk | Card Name">
         <source>Phyrexian Hulk</source>
@@ -1672,11 +1672,11 @@
       </trans-unit>
       <trans-unit id="b2ec7b95-667f-43ed-b310-b657befd55a2" resname="NPH·152 | Shrine of Boundless Growth | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始或每当你施放绿色咒语时，在不息成长祭祠上放置一个充电指示物。</target>
+        <target state="translated">在你的维持开始或每当你施放绿色咒语时，在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="b2ec7b95-667f-43ed-b310-b657befd55a2" resname="NPH·152 | Shrine of Boundless Growth | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Add {1} to your mana pool for each charge counter on CARDNAME.</source>
-        <target state="translated">{T}，牺牲不息成长祭祠：不息成长祭祠上每有一个充电指示物，便加{1}到你的法术力池中。</target>
+        <target state="translated">{T}，牺牲CARDNAME：CARDNAME上每有一个充电指示物，便加{1}到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="d1a8afef-fa50-4aeb-94de-a4d90b1e5631" resname="NPH·153 | Shrine of Burning Rage | Card Name">
         <source>Shrine of Burning Rage</source>
@@ -1684,11 +1684,11 @@
       </trans-unit>
       <trans-unit id="d1a8afef-fa50-4aeb-94de-a4d90b1e5631" resname="NPH·153 | Shrine of Burning Rage | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始或每当你施放红色咒语时，在火热愤怒祭祠上放置一个充电指示物。</target>
+        <target state="translated">在你的维持开始或每当你施放红色咒语时，在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="d1a8afef-fa50-4aeb-94de-a4d90b1e5631" resname="NPH·153 | Shrine of Burning Rage | Card Text | Paragraph 2">
         <source>{3}, {T}, Sacrifice CARDNAME: CARDNAME deals damage equal to the number of charge counters on it to target creature or player.</source>
-        <target state="translated">{3}，{T}，牺牲火热愤怒祭祠：火热愤怒祭祠对目标生物或牌手造成伤害，其数量等同于火热愤怒祭祠上充电指示物的数量。</target>
+        <target state="translated">{3}，{T}，牺牲CARDNAME：CARDNAME对目标生物或牌手造成伤害，其数量等同于CARDNAME上充电指示物的数量。</target>
       </trans-unit>
       <trans-unit id="61873223-f378-4478-9cf3-f1326eb76834" resname="NPH·154 | Shrine of Limitless Power | Card Name">
         <source>Shrine of Limitless Power</source>
@@ -1696,11 +1696,11 @@
       </trans-unit>
       <trans-unit id="61873223-f378-4478-9cf3-f1326eb76834" resname="NPH·154 | Shrine of Limitless Power | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep or whenever you cast a black spell, put a charge counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始或每当你施放黑色咒语时，在无尽力量祭祠上放置一个充电指示物。</target>
+        <target state="translated">在你的维持开始或每当你施放黑色咒语时，在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="61873223-f378-4478-9cf3-f1326eb76834" resname="NPH·154 | Shrine of Limitless Power | Card Text | Paragraph 2">
         <source>{4}, {T}, Sacrifice CARDNAME: Target player discards a card for each charge counter on CARDNAME.</source>
-        <target state="translated">{4}，{T}，牺牲无尽力量祭祠：无尽力量祭祠上每有一个充电指示物，目标牌手便弃一张牌。</target>
+        <target state="translated">{4}，{T}，牺牲CARDNAME：CARDNAME上每有一个充电指示物，目标牌手便弃一张牌。</target>
       </trans-unit>
       <trans-unit id="d13563c7-abe0-4760-9b4c-841de47dbc46" resname="NPH·155 | Shrine of Loyal Legions | Card Name">
         <source>Shrine of Loyal Legions</source>
@@ -1708,11 +1708,11 @@
       </trans-unit>
       <trans-unit id="d13563c7-abe0-4760-9b4c-841de47dbc46" resname="NPH·155 | Shrine of Loyal Legions | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始或每当你施放白色咒语时，在忠贞军团祭祠上放置一个充电指示物。</target>
+        <target state="translated">在你的维持开始或每当你施放白色咒语时，在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="d13563c7-abe0-4760-9b4c-841de47dbc46" resname="NPH·155 | Shrine of Loyal Legions | Card Text | Paragraph 2">
         <source>{3}, {T}, Sacrifice CARDNAME: Put a 1/1 colorless Myr artifact creature token onto the battlefield for each charge counter on CARDNAME.</source>
-        <target state="translated">{3}，{T}，牺牲忠贞军团祭祠：忠贞军团祭祠上每有一个充电指示物，便将一个1/1无色秘耳衍生神器生物放进战场。</target>
+        <target state="translated">{3}，{T}，牺牲CARDNAME：CARDNAME上每有一个充电指示物，便将一个1/1无色秘耳衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="9b150924-f83c-410e-aaab-ff2d06c9d356" resname="NPH·156 | Shrine of Piercing Vision | Card Name">
         <source>Shrine of Piercing Vision</source>
@@ -1720,11 +1720,11 @@
       </trans-unit>
       <trans-unit id="9b150924-f83c-410e-aaab-ff2d06c9d356" resname="NPH·156 | Shrine of Piercing Vision | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep or whenever you cast a blue spell, put a charge counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始或每当你施放蓝色咒语时，在锐利视线祭祠上放置一个充电指示物。</target>
+        <target state="translated">在你的维持开始或每当你施放蓝色咒语时，在CARDNAME上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="9b150924-f83c-410e-aaab-ff2d06c9d356" resname="NPH·156 | Shrine of Piercing Vision | Card Text | Paragraph 2">
         <source>{T}, Sacrifice CARDNAME: Look at the top X cards of your library, where X is the number of charge counters on CARDNAME. Put one of those cards into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">{T}，牺牲锐利视线祭祠：检视你牌库顶的X张牌，X为锐利视线祭祠上的充电指示物数量。 将其中一张置于你手上，其余的牌则以任意顺序置于你的牌库底。</target>
+        <target state="translated">{T}，牺牲CARDNAME：检视你牌库顶的X张牌，X为CARDNAME上的充电指示物数量。 将其中一张置于你手上，其余的牌则以任意顺序置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="d44746d5-3d34-4480-b4cd-c66de72f0622" resname="NPH·157 | Sickleslicer | Card Name">
         <source>Sickleslicer</source>
@@ -1756,7 +1756,7 @@
       </trans-unit>
       <trans-unit id="1a84bada-ed6a-4e97-8a0c-05b7cb32d66f" resname="NPH·159 | Spellskite | Card Text | Paragraph 1">
         <source>{PU}: Change a target of target spell or ability to CARDNAME. ({PU} can be paid with either {U} or 2 life.)</source>
-        <target state="translated">{U/P}：将目标咒语或异能的目标改为蔑咒兽。 （{U/P}可用{U}或2点生命来支付。）</target>
+        <target state="translated">{U/P}：将目标咒语或异能的目标改为CARDNAME。 （{U/P}可用{U}或2点生命来支付。）</target>
       </trans-unit>
       <trans-unit id="12414fc0-bb24-4244-baf4-adad0125376e" resname="NPH·160 | Surge Node | Card Name">
         <source>Surge Node</source>
@@ -1764,11 +1764,11 @@
       </trans-unit>
       <trans-unit id="12414fc0-bb24-4244-baf4-adad0125376e" resname="NPH·160 | Surge Node | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with six charge counters on it.</source>
-        <target state="translated">翻腾节点进战场时上面有六个充电指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有六个充电指示物。</target>
       </trans-unit>
       <trans-unit id="12414fc0-bb24-4244-baf4-adad0125376e" resname="NPH·160 | Surge Node | Card Text | Paragraph 2">
         <source>{1}, {T}, Remove a charge counter from CARDNAME: Put a charge counter on target artifact.</source>
-        <target state="translated">{1}，{T}，从翻腾节点上移去一个充电指示物：在目标神器上放置一个充电指示物。</target>
+        <target state="translated">{1}，{T}，从CARDNAME上移去一个充电指示物：在目标神器上放置一个充电指示物。</target>
       </trans-unit>
       <trans-unit id="fab5bc6c-8943-4078-866a-5d02f9be0eef" resname="NPH·161 | Sword of War and Peace | Card Name">
         <source>Sword of War and Peace</source>
@@ -1780,7 +1780,7 @@
       </trans-unit>
       <trans-unit id="fab5bc6c-8943-4078-866a-5d02f9be0eef" resname="NPH·161 | Sword of War and Peace | Card Text | Paragraph 2">
         <source>Whenever equipped creature deals combat damage to a player, CARDNAME deals damage to that player equal to the number of cards in his or her hand and you gain 1 life for each card in your hand.</source>
-        <target state="translated">每当佩带此武具的生物对任一牌手造成战斗伤害时，战宁剑对该牌手造成等同于其手牌数量的伤害，且你每有一张手牌便获得1点生命。</target>
+        <target state="translated">每当佩带此武具的生物对任一牌手造成战斗伤害时，CARDNAME对该牌手造成等同于其手牌数量的伤害，且你每有一张手牌便获得1点生命。</target>
       </trans-unit>
       <trans-unit id="fab5bc6c-8943-4078-866a-5d02f9be0eef" resname="NPH·161 | Sword of War and Peace | Card Text | Paragraph 3">
         <source>Equip {2}</source>
@@ -1800,7 +1800,7 @@
       </trans-unit>
       <trans-unit id="b5263269-9f64-43de-9e82-408644dbc628" resname="NPH·163 | Trespassing Souleater | Card Text | Paragraph 1">
         <source>{PU}: CARDNAME is unblockable this turn. ({PU} can be paid with either {U} or 2 life.)</source>
-        <target state="translated">{U/P}：入侵食灵妖本回合不能被阻挡。 （{U/P}可用{U}或2点生命来支付。）</target>
+        <target state="translated">{U/P}：CARDNAME本回合不能被阻挡。 （{U/P}可用{U}或2点生命来支付。）</target>
       </trans-unit>
       <trans-unit id="495d520b-7560-4ecb-ae62-143eeec5682f" resname="NPH·164 | Unwinding Clock | Card Name">
         <source>Unwinding Clock</source>

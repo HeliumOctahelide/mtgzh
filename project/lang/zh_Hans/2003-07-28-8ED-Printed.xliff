@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="552cc36c-4d02-44ee-b36a-f58ff14c6f3d" resname="8ED·1 | Angel of Mercy | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, you gain 3 life.</source>
-        <target state="translated">当慈悲天使进场时，你获得3点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="5c1f25bb-4e27-4e44-887a-f093dc14f861" resname="8ED·1★ | Angel of Mercy | Card Name">
         <source>Angel of Mercy</source>
@@ -26,7 +26,7 @@
       </trans-unit>
       <trans-unit id="5c1f25bb-4e27-4e44-887a-f093dc14f861" resname="8ED·1★ | Angel of Mercy | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you gain 3 life.</source>
-        <target state="translated">当慈悲天使进场时，你获得3点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得3点生命。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="81a5ec5a-b490-456a-98e8-36cf4b836d2a" resname="8ED·S1 | Eager Cadet | Card Name">
@@ -74,7 +74,7 @@
       </trans-unit>
       <trans-unit id="8c78d392-9f2f-4241-9a10-6ac9b1e86154" resname="8ED·3 | Ardent Militia | Card Text | Paragraph 1">
         <source>Attacking doesn't cause CARDNAME to tap.</source>
-        <target state="translated">热心的义勇军攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
       </trans-unit>
       <trans-unit id="5597d1e5-4a8c-426d-a2ad-f797f185ca36" resname="8ED·3★ | Ardent Militia | Card Name">
         <source>Ardent Militia</source>
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="5597d1e5-4a8c-426d-a2ad-f797f185ca36" resname="8ED·3★ | Ardent Militia | Card Text | Paragraph 1">
         <source>Vigilance</source>
-        <target state="translated">热心的义勇军攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="e5131c74-a81b-4927-a1b9-98d2c714ab71" resname="8ED·S3 | Giant Octopus | Card Name">
@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="af5d9362-4f6a-43ad-9494-9c2014a4b5ad" resname="8ED·4 | Avatar of Hope | Card Text | Paragraph 1">
         <source>If you have 3 life or less, CARDNAME costs {6} less to play.</source>
-        <target state="translated">若你的生命少于或等于3，则你使用希望化身的费用减少{6}来使用。</target>
+        <target state="translated">若你的生命少于或等于3，则你使用CARDNAME的费用减少{6}来使用。</target>
       </trans-unit>
       <trans-unit id="af5d9362-4f6a-43ad-9494-9c2014a4b5ad" resname="8ED·4 | Avatar of Hope | Card Text | Paragraph 2">
         <source>Flying (This creature can't be blocked except by creatures with flying.)</source>
@@ -104,7 +104,7 @@
       </trans-unit>
       <trans-unit id="af5d9362-4f6a-43ad-9494-9c2014a4b5ad" resname="8ED·4 | Avatar of Hope | Card Text | Paragraph 3">
         <source>CARDNAME may block any number of creatures.</source>
-        <target state="translated">希望化身可阻挡任意数量的生物。</target>
+        <target state="translated">CARDNAME可阻挡任意数量的生物。</target>
       </trans-unit>
       <trans-unit id="747f55e1-e1a6-4cef-8326-7c8722ffe1a0" resname="8ED·4★ | Avatar of Hope | Card Name">
         <source>Avatar of Hope</source>
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="747f55e1-e1a6-4cef-8326-7c8722ffe1a0" resname="8ED·4★ | Avatar of Hope | Card Text | Paragraph 1">
         <source>If you have 3 or less life, this spell costs {6} less to cast.</source>
-        <target state="translated">若你的生命少于或等于3，则你使用希望化身的费用减少{6}来使用。</target>
+        <target state="translated">若你的生命少于或等于3，则你使用CARDNAME的费用减少{6}来使用。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="747f55e1-e1a6-4cef-8326-7c8722ffe1a0" resname="8ED·4★ | Avatar of Hope | Card Text | Paragraph 2">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="747f55e1-e1a6-4cef-8326-7c8722ffe1a0" resname="8ED·4★ | Avatar of Hope | Card Text | Paragraph 3">
         <source>CARDNAME can block any number of creatures.</source>
-        <target state="translated">希望化身可阻挡任意数量的生物。</target>
+        <target state="translated">CARDNAME可阻挡任意数量的生物。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="7e8cacd1-51e7-48af-a7ae-48832dc34a92" resname="8ED·S4 | Sea Eagle | Card Name">
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="03872618-1428-48c9-8f6d-8edc53560df2" resname="8ED·5 | Aven Cloudchaser | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, destroy target enchantment.</source>
-        <target state="translated">当艾文逐云战士进场时，消灭目标结界。</target>
+        <target state="translated">当CARDNAME进场时，消灭目标结界。</target>
       </trans-unit>
       <trans-unit id="11996023-ebf2-427f-ad36-9bf9c3c7949d" resname="8ED·5★ | Aven Cloudchaser | Card Name">
         <source>Aven Cloudchaser</source>
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="11996023-ebf2-427f-ad36-9bf9c3c7949d" resname="8ED·5★ | Aven Cloudchaser | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target enchantment.</source>
-        <target state="translated">当艾文逐云战士进场时，消灭目标结界。</target>
+        <target state="translated">当CARDNAME进场时，消灭目标结界。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="168821ce-d77c-4294-a9fd-2a30852801ab" resname="8ED·S5 | Vizzerdrix | Card Name">
@@ -175,7 +175,7 @@
       </trans-unit>
       <trans-unit id="7fa12005-465d-40b2-804b-a04cc2686ebd" resname="8ED·6 | Aven Flock | Card Text | Paragraph 2">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">{W}：艾文信众得+0/+1直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME得+0/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5a12645d-eb05-4c31-b872-0ac35cbf06c6" resname="8ED·6★ | Aven Flock | Card Name">
         <source>Aven Flock</source>
@@ -189,7 +189,7 @@
       </trans-unit>
       <trans-unit id="5a12645d-eb05-4c31-b872-0ac35cbf06c6" resname="8ED·6★ | Aven Flock | Card Text | Paragraph 2">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">{W}：艾文信众得+0/+1直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME得+0/+1直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="a9256cc2-d4b5-4103-bda8-2d9c98c4fd7d" resname="8ED·S6 | Enormous Baloth | Card Name">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="21e502c5-ae2f-4d2e-b5d4-0e8f255eebcc" resname="8ED·8 | Blinding Angel | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, that player skips his or her next combat phase.</source>
-        <target state="translated">每当眩目天使对牌手造成战斗伤害时，该牌手略过他的下一个战斗阶段。</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，该牌手略过他的下一个战斗阶段。</target>
       </trans-unit>
       <trans-unit id="d860996a-6d22-4c35-b741-68337ff15bf6" resname="8ED·8★ | Blinding Angel | Card Name">
         <source>Blinding Angel</source>
@@ -242,7 +242,7 @@
       </trans-unit>
       <trans-unit id="d860996a-6d22-4c35-b741-68337ff15bf6" resname="8ED·8★ | Blinding Angel | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, that player skips their next combat phase.</source>
-        <target state="translated">每当眩目天使对牌手造成战斗伤害时，该牌手略过他的下一个战斗阶段。</target>
+        <target state="translated">每当CARDNAME对牌手造成战斗伤害时，该牌手略过他的下一个战斗阶段。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="80972578-36fb-4bc2-9593-f9b10fb8424c" resname="8ED·9 | Chastise | Card Name">
@@ -359,7 +359,7 @@
       </trans-unit>
       <trans-unit id="0d47101c-ead0-42a6-b37b-0e5d294959c9" resname="8ED·15 | Crossbow Infantry | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 1 damage to target attacking or blocking creature.</source>
-        <target state="translated">{T}：十字弓步兵对目标进行攻击或阻挡的生物造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标进行攻击或阻挡的生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="ddf09dc8-ef87-4eed-801e-e4289985011f" resname="8ED·15★ | Crossbow Infantry | Card Name">
         <source>Crossbow Infantry</source>
@@ -368,7 +368,7 @@
       </trans-unit>
       <trans-unit id="ddf09dc8-ef87-4eed-801e-e4289985011f" resname="8ED·15★ | Crossbow Infantry | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 1 damage to target attacking or blocking creature.</source>
-        <target state="translated">{T}：十字弓步兵对目标进行攻击或阻挡的生物造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标进行攻击或阻挡的生物造成1点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="4907c728-f08d-4c14-96a2-c92f09dfa6d2" resname="8ED·16 | Demystify | Card Name">
@@ -399,7 +399,7 @@
       </trans-unit>
       <trans-unit id="bfeb0854-87e7-4236-9791-8fe601704200" resname="8ED·17 | Diving Griffin | Card Text | Paragraph 2">
         <source>Attacking doesn't cause CARDNAME to tap.</source>
-        <target state="translated">俯冲狮鹫攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
       </trans-unit>
       <trans-unit id="4e1e4260-c555-48d4-b779-b97e3639e729" resname="8ED·17★ | Diving Griffin | Card Name">
         <source>Diving Griffin</source>
@@ -408,7 +408,7 @@
       </trans-unit>
       <trans-unit id="4e1e4260-c555-48d4-b779-b97e3639e729" resname="8ED·17★ | Diving Griffin | Card Text | Paragraphs">
         <source>Flying, vigilance</source>
-        <target state="translated">飞行（只有具飞行异能的生物才能阻挡它。）\n俯冲狮鹫攻击时不需横置。</target>
+        <target state="translated">飞行（只有具飞行异能的生物才能阻挡它。）\nCARDNAME攻击时不需横置。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="b2341478-2a91-4ce8-881a-21e826b55c34" resname="8ED·18 | Elite Archers | Card Name">
@@ -417,7 +417,7 @@
       </trans-unit>
       <trans-unit id="b2341478-2a91-4ce8-881a-21e826b55c34" resname="8ED·18 | Elite Archers | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 3 damage to target attacking or blocking creature.</source>
-        <target state="translated">{T}：菁英箭手对目标进行攻击或阻挡的生物造成3点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标进行攻击或阻挡的生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="48af300f-ed3a-4b69-9bef-f568b27927c4" resname="8ED·18★ | Elite Archers | Card Name">
         <source>Elite Archers</source>
@@ -426,7 +426,7 @@
       </trans-unit>
       <trans-unit id="48af300f-ed3a-4b69-9bef-f568b27927c4" resname="8ED·18★ | Elite Archers | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 3 damage to target attacking or blocking creature.</source>
-        <target state="translated">{T}：菁英箭手对目标进行攻击或阻挡的生物造成3点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标进行攻击或阻挡的生物造成3点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="ba1839ea-567e-44eb-983f-c1a570ba5c82" resname="8ED·19 | Elite Javelineer | Card Name">
@@ -435,7 +435,7 @@
       </trans-unit>
       <trans-unit id="ba1839ea-567e-44eb-983f-c1a570ba5c82" resname="8ED·19 | Elite Javelineer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks, it deals 1 damage to target attacking creature.</source>
-        <target state="translated">每当菁英掷枪手进行阻挡时，它对目标进行攻击的生物造成1点伤害。</target>
+        <target state="translated">每当CARDNAME进行阻挡时，它对目标进行攻击的生物造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="390c82ae-1b19-48cf-9a7c-edf0f031e66e" resname="8ED·19★ | Elite Javelineer | Card Name">
         <source>Elite Javelineer</source>
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="390c82ae-1b19-48cf-9a7c-edf0f031e66e" resname="8ED·19★ | Elite Javelineer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks, it deals 1 damage to target attacking creature.</source>
-        <target state="translated">每当菁英掷枪手进行阻挡时，它对目标进行攻击的生物造成1点伤害。</target>
+        <target state="translated">每当CARDNAME进行阻挡时，它对目标进行攻击的生物造成1点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="45f95890-0258-431c-b639-c0aba27b8039" resname="8ED·20 | Glorious Anthem | Card Name">
@@ -534,7 +534,7 @@
       </trans-unit>
       <trans-unit id="fa797080-aa3b-4285-a47a-878a3e8e584f" resname="8ED·25 | Honor Guard | Card Text | Paragraph 1">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">{W}：仪队兵得+0/+1直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME得+0/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="067fa231-4aa4-46ef-917c-fbfcbb8714af" resname="8ED·25★ | Honor Guard | Card Name">
         <source>Honor Guard</source>
@@ -543,7 +543,7 @@
       </trans-unit>
       <trans-unit id="067fa231-4aa4-46ef-917c-fbfcbb8714af" resname="8ED·25★ | Honor Guard | Card Text | Paragraph 1">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">{W}：仪队兵得+0/+1直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME得+0/+1直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="592d08a6-730c-45a3-9d17-d724d2bdfbcd" resname="8ED·26 | Intrepid Hero | Card Name">
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="cf9df1cc-9de3-42a6-9c28-f2d8db75322a" resname="8ED·28 | Karma | Card Text | Paragraph 1">
         <source>At the beginning of each player's upkeep, CARDNAME deals damage to that player equal to the number of Swamps he or she controls. (Your upkeep step is after you untap and before you draw.)</source>
-        <target state="translated">在每位牌手的维持开始时，业障对该牌手造成伤害，其数量等同于由他所操控的沼泽数量。（维持步骤是在重置之后、抓牌之前的时段。）</target>
+        <target state="translated">在每位牌手的维持开始时，CARDNAME对该牌手造成伤害，其数量等同于由他所操控的沼泽数量。（维持步骤是在重置之后、抓牌之前的时段。）</target>
       </trans-unit>
       <trans-unit id="a146f69a-f9d1-4124-a108-434a1cd913e9" resname="8ED·28★ | Karma | Card Name">
         <source>Karma</source>
@@ -597,7 +597,7 @@
       </trans-unit>
       <trans-unit id="a146f69a-f9d1-4124-a108-434a1cd913e9" resname="8ED·28★ | Karma | Card Text | Paragraph 1">
         <source>At the beginning of each player's upkeep, CARDNAME deals damage to that player equal to the number of Swamps they control.</source>
-        <target state="translated">在每位牌手的维持开始时，业障对该牌手造成伤害，其数量等同于由他所操控的沼泽数量。（维持步骤是在重置之后、抓牌之前的时段。）</target>
+        <target state="translated">在每位牌手的维持开始时，CARDNAME对该牌手造成伤害，其数量等同于由他所操控的沼泽数量。（维持步骤是在重置之后、抓牌之前的时段。）</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="2fc58f97-39ee-4d89-884f-88f9edc3459f" resname="8ED·29 | Master Decoy | Card Name">
@@ -660,7 +660,7 @@
       </trans-unit>
       <trans-unit id="0dc85607-dfdd-4989-b299-c68adb8c7159" resname="8ED·32 | Oracle's Attendants | Card Text | Paragraph 1">
         <source>{T}: All damage that would be dealt to target creature this turn by a source of your choice is dealt to CARDNAME instead.</source>
-        <target state="translated">{T}：选择一个来源，把此来源于本回合中将对目标生物造成的所有伤害，改为对神谕使随员造成之。</target>
+        <target state="translated">{T}：选择一个来源，把此来源于本回合中将对目标生物造成的所有伤害，改为对CARDNAME造成之。</target>
       </trans-unit>
       <trans-unit id="826a2390-112b-4a60-91d9-c394e6a3e65d" resname="8ED·32★ | Oracle's Attendants | Card Name">
         <source>Oracle's Attendants</source>
@@ -669,7 +669,7 @@
       </trans-unit>
       <trans-unit id="826a2390-112b-4a60-91d9-c394e6a3e65d" resname="8ED·32★ | Oracle's Attendants | Card Text | Paragraph 1">
         <source>{T}: All damage that would be dealt to target creature this turn by a source of your choice is dealt to CARDNAME instead.</source>
-        <target state="translated">{T}：选择一个来源，把此来源于本回合中将对目标生物造成的所有伤害，改为对神谕使随员造成之。</target>
+        <target state="translated">{T}：选择一个来源，把此来源于本回合中将对目标生物造成的所有伤害，改为对CARDNAME造成之。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="9b8a9d48-ca39-4275-ba1e-f584a3b647df" resname="8ED·33 | Pacifism | Card Name">
@@ -714,7 +714,7 @@
       </trans-unit>
       <trans-unit id="7a25bf0b-7de0-4e71-ae3e-59a6665dc903" resname="8ED·35 | Rain of Blades | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each attacking creature.</source>
-        <target state="translated">剑雨对每个进行攻击的生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个进行攻击的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="39600c44-df38-455a-a06d-1bcac7c519cb" resname="8ED·35★ | Rain of Blades | Card Name">
         <source>Rain of Blades</source>
@@ -723,7 +723,7 @@
       </trans-unit>
       <trans-unit id="39600c44-df38-455a-a06d-1bcac7c519cb" resname="8ED·35★ | Rain of Blades | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each attacking creature.</source>
-        <target state="translated">剑雨对每个进行攻击的生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个进行攻击的生物各造成1点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="6023b3c7-53bc-4490-8f9b-beb858b068e8" resname="8ED·36 | Razorfoot Griffin | Card Name">
@@ -876,7 +876,7 @@
       </trans-unit>
       <trans-unit id="80ae1da2-f752-481c-a0e8-3c73f6b4ccbe" resname="8ED·44 | Seasoned Marshal | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may tap target creature.</source>
-        <target state="translated">每当经验老到的元帅攻击时，你可以横置目标生物。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以横置目标生物。</target>
       </trans-unit>
       <trans-unit id="fc7de3d2-3a98-49dd-810a-0dbba8f8e004" resname="8ED·44★ | Seasoned Marshal | Card Name">
         <source>Seasoned Marshal</source>
@@ -885,7 +885,7 @@
       </trans-unit>
       <trans-unit id="fc7de3d2-3a98-49dd-810a-0dbba8f8e004" resname="8ED·44★ | Seasoned Marshal | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, you may tap target creature.</source>
-        <target state="translated">每当经验老到的元帅攻击时，你可以横置目标生物。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以横置目标生物。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="b089b409-2156-4c94-890f-e8804ab5a50c" resname="8ED·45 | Serra Angel | Card Name">
@@ -898,7 +898,7 @@
       </trans-unit>
       <trans-unit id="b089b409-2156-4c94-890f-e8804ab5a50c" resname="8ED·45 | Serra Angel | Card Text | Paragraph 2">
         <source>Attacking doesn't cause CARDNAME to tap.</source>
-        <target state="translated">撒拉天使攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
       </trans-unit>
       <trans-unit id="ccd7b4cf-1413-4816-8bef-4e7ab101ccd2" resname="8ED·45★ | Serra Angel | Card Name">
         <source>Serra Angel</source>
@@ -907,7 +907,7 @@
       </trans-unit>
       <trans-unit id="ccd7b4cf-1413-4816-8bef-4e7ab101ccd2" resname="8ED·45★ | Serra Angel | Card Text | Paragraphs">
         <source>Flying, vigilance</source>
-        <target state="translated">飞行（只有具飞行异能的生物才能阻挡它。）\n撒拉天使攻击时不需横置。</target>
+        <target state="translated">飞行（只有具飞行异能的生物才能阻挡它。）\nCARDNAME攻击时不需横置。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="7810eec1-9bb4-480f-9074-712ad9eb8fba" resname="8ED·46 | Solidarity | Card Name">
@@ -952,7 +952,7 @@
       </trans-unit>
       <trans-unit id="013a1d59-af2a-4ae1-826e-88bd77c7ce5d" resname="8ED·48 | Standing Troops | Card Text | Paragraph 1">
         <source>Attacking doesn't cause CARDNAME to tap.</source>
-        <target state="translated">常驻军队攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
       </trans-unit>
       <trans-unit id="cbf40017-d331-4eac-90dc-9e7413f1c8ac" resname="8ED·48★ | Standing Troops | Card Name">
         <source>Standing Troops</source>
@@ -961,7 +961,7 @@
       </trans-unit>
       <trans-unit id="cbf40017-d331-4eac-90dc-9e7413f1c8ac" resname="8ED·48★ | Standing Troops | Card Text | Paragraph 1">
         <source>Vigilance</source>
-        <target state="translated">常驻军队攻击时不需横置。</target>
+        <target state="translated">CARDNAME攻击时不需横置。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="04a162ae-dfe1-43e0-adf7-3d1365f3a681" resname="8ED·49 | Staunch Defenders | Card Name">
@@ -970,7 +970,7 @@
       </trans-unit>
       <trans-unit id="04a162ae-dfe1-43e0-adf7-3d1365f3a681" resname="8ED·49 | Staunch Defenders | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, you gain 4 life.</source>
-        <target state="translated">当坚贞的守卫进场时，你获得4点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得4点生命。</target>
       </trans-unit>
       <trans-unit id="60b767ff-7a4a-499f-8608-aa7ae9139df4" resname="8ED·49★ | Staunch Defenders | Card Name">
         <source>Staunch Defenders</source>
@@ -979,7 +979,7 @@
       </trans-unit>
       <trans-unit id="60b767ff-7a4a-499f-8608-aa7ae9139df4" resname="8ED·49★ | Staunch Defenders | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 4 life.</source>
-        <target state="translated">当坚贞的守卫进场时，你获得4点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得4点生命。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="b383bd61-0f23-4d3e-a946-b8438a52234d" resname="8ED·50 | Story Circle | Card Name">
@@ -988,7 +988,7 @@
       </trans-unit>
       <trans-unit id="b383bd61-0f23-4d3e-a946-b8438a52234d" resname="8ED·50 | Story Circle | Card Text | Paragraph 1">
         <source>As CARDNAME comes into play, choose a color.</source>
-        <target state="translated">于诵传仪典进场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进场时，选择一种颜色。</target>
       </trans-unit>
       <trans-unit id="b383bd61-0f23-4d3e-a946-b8438a52234d" resname="8ED·50 | Story Circle | Card Text | Paragraph 2">
         <source>{W}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.</source>
@@ -1001,7 +1001,7 @@
       </trans-unit>
       <trans-unit id="33cebcd2-4199-425a-adfc-059f842259e4" resname="8ED·50★ | Story Circle | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于诵传仪典进场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进场时，选择一种颜色。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="33cebcd2-4199-425a-adfc-059f842259e4" resname="8ED·50★ | Story Circle | Card Text | Paragraph 2">
@@ -1041,7 +1041,7 @@
       </trans-unit>
       <trans-unit id="7261bcea-27e0-417f-b3bf-7089c1e8bf1e" resname="8ED·52 | Sunweb | Card Text | Paragraph 3">
         <source>CARDNAME can't block creatures with power 2 or less.</source>
-        <target state="translated">日光之网不能阻挡力量小于或等于2的生物。</target>
+        <target state="translated">CARDNAME不能阻挡力量小于或等于2的生物。</target>
       </trans-unit>
       <trans-unit id="30ed97ad-8ff1-42fb-af77-a45e5d138c8b" resname="8ED·52★ | Sunweb | Card Name">
         <source>Sunweb</source>
@@ -1060,7 +1060,7 @@
       </trans-unit>
       <trans-unit id="30ed97ad-8ff1-42fb-af77-a45e5d138c8b" resname="8ED·52★ | Sunweb | Card Text | Paragraph 3">
         <source>CARDNAME can't block creatures with power 2 or less.</source>
-        <target state="translated">日光之网不能阻挡力量小于或等于2的生物。</target>
+        <target state="translated">CARDNAME不能阻挡力量小于或等于2的生物。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="ec270d53-042e-4b11-b0f4-6416348b8fff" resname="8ED·53 | Sword Dancer | Card Name">
@@ -1105,7 +1105,7 @@
       </trans-unit>
       <trans-unit id="bb78fad6-71d8-49a2-8e32-34675aaec796" resname="8ED·55 | Venerable Monk | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, you gain 2 life.</source>
-        <target state="translated">当可敬的修行僧进场时，你获得2点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="f55caf83-8d60-4f22-ba42-086723e38daf" resname="8ED·55★ | Venerable Monk | Card Name">
         <source>Venerable Monk</source>
@@ -1114,7 +1114,7 @@
       </trans-unit>
       <trans-unit id="f55caf83-8d60-4f22-ba42-086723e38daf" resname="8ED·55★ | Venerable Monk | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 2 life.</source>
-        <target state="translated">当可敬的修行僧进场时，你获得2点生命。</target>
+        <target state="translated">当CARDNAME进场时，你获得2点生命。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="8bcbe7e6-a584-4c9d-b319-40babff8ec26" resname="8ED·56 | Wall of Swords | Card Name">
@@ -1226,7 +1226,7 @@
       </trans-unit>
       <trans-unit id="adfc5265-7e38-4f2e-85ae-08f34eaffb89" resname="8ED·61 | Aven Fisher | Card Text | Paragraph 2">
         <source>When CARDNAME is put into a graveyard from play, you may draw a card.</source>
-        <target state="translated">当艾文渔人从场上置入坟墓场时，你可以抓一张牌。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，你可以抓一张牌。</target>
       </trans-unit>
       <trans-unit id="9eb2265d-e1dc-40f0-bfc0-c20d1d80dd3c" resname="8ED·61★ | Aven Fisher | Card Name">
         <source>Aven Fisher</source>
@@ -1240,7 +1240,7 @@
       </trans-unit>
       <trans-unit id="9eb2265d-e1dc-40f0-bfc0-c20d1d80dd3c" resname="8ED·61★ | Aven Fisher | Card Text | Paragraph 2">
         <source>When CARDNAME dies, you may draw a card.</source>
-        <target state="translated">当艾文渔人从场上置入坟墓场时，你可以抓一张牌。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，你可以抓一张牌。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="83f46988-c3ee-42e9-ade6-0b6302b8b952" resname="8ED·62 | Balance of Power | Card Name">
@@ -1321,7 +1321,7 @@
       </trans-unit>
       <trans-unit id="9b152c0d-ba43-49c6-9bb5-1d20a9f411f6" resname="8ED·66 | Coastal Hornclaw | Card Text | Paragraph 1">
         <source>Sacrifice a land: CARDNAME gains flying until end of turn. (It can't be blocked except by creatures with flying.)</source>
-        <target state="translated">牺牲一个地：海岸鸿爪鸟获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
+        <target state="translated">牺牲一个地：CARDNAME获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
       </trans-unit>
       <trans-unit id="fee8c0f8-f673-471a-8728-1c33b70e5a27" resname="8ED·66★ | Coastal Hornclaw | Card Name">
         <source>Coastal Hornclaw</source>
@@ -1330,7 +1330,7 @@
       </trans-unit>
       <trans-unit id="fee8c0f8-f673-471a-8728-1c33b70e5a27" resname="8ED·66★ | Coastal Hornclaw | Card Text | Paragraph 1">
         <source>Sacrifice a land: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">牺牲一个地：海岸鸿爪鸟获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
+        <target state="translated">牺牲一个地：CARDNAME获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="21d65495-4d73-46fa-bd38-155f4639649a" resname="8ED·67 | Coastal Piracy | Card Name">
@@ -1438,7 +1438,7 @@
       </trans-unit>
       <trans-unit id="fbbacff5-c650-4835-b5a1-f747a5db5fd6" resname="8ED·73 | Daring Apprentice | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Counter target spell.</source>
-        <target state="translated">{T}，牺牲大胆的学徒：反击目标咒语。</target>
+        <target state="translated">{T}，牺牲CARDNAME：反击目标咒语。</target>
       </trans-unit>
       <trans-unit id="5d1413a8-dfe8-4b3a-a75e-35d70d8cf904" resname="8ED·73★ | Daring Apprentice | Card Name">
         <source>Daring Apprentice</source>
@@ -1447,7 +1447,7 @@
       </trans-unit>
       <trans-unit id="5d1413a8-dfe8-4b3a-a75e-35d70d8cf904" resname="8ED·73★ | Daring Apprentice | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Counter target spell.</source>
-        <target state="translated">{T}，牺牲大胆的学徒：反击目标咒语。</target>
+        <target state="translated">{T}，牺牲CARDNAME：反击目标咒语。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="217c899e-f624-4791-af64-b1b1e2ac53cd" resname="8ED·74 | Deflection | Card Name">
@@ -1550,7 +1550,7 @@
       </trans-unit>
       <trans-unit id="b8c53ee6-9fe0-459e-903f-214a25a07634" resname="8ED·79 | Fleeting Image | Card Text | Paragraph 2">
         <source>{1}{U}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{1}{U}：将飞逝幻象移回其拥有者手上。</target>
+        <target state="translated">{1}{U}：将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="63fd1567-e878-44ea-a6eb-a042e95e3bb5" resname="8ED·79★ | Fleeting Image | Card Name">
         <source>Fleeting Image</source>
@@ -1564,7 +1564,7 @@
       </trans-unit>
       <trans-unit id="63fd1567-e878-44ea-a6eb-a042e95e3bb5" resname="8ED·79★ | Fleeting Image | Card Text | Paragraph 2">
         <source>{1}{U}: Return CARDNAME to its owner's hand.</source>
-        <target state="translated">{1}{U}：将飞逝幻象移回其拥有者手上。</target>
+        <target state="translated">{1}{U}：将CARDNAME移回其拥有者手上。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="45a7d379-3fb5-40eb-ba3c-7b51b7c5f57e" resname="8ED·80 | Flight | Card Name">
@@ -1744,7 +1744,7 @@
       </trans-unit>
       <trans-unit id="89e40516-99ec-45fb-be51-c8503fa4811e" resname="8ED·90 | Merchant of Secrets | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, draw a card.</source>
-        <target state="translated">当机密商贩进场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="98130e65-fe9e-4a48-a424-5855768e3cd2" resname="8ED·90★ | Merchant of Secrets | Card Name">
         <source>Merchant of Secrets</source>
@@ -1753,7 +1753,7 @@
       </trans-unit>
       <trans-unit id="98130e65-fe9e-4a48-a424-5855768e3cd2" resname="8ED·90★ | Merchant of Secrets | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当机密商贩进场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进场时，抓一张牌。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="bb5385d2-ca5d-4fb9-934b-b7cc8b38ac89" resname="8ED·91 | Merchant Scroll | Card Name">
@@ -1798,7 +1798,7 @@
       </trans-unit>
       <trans-unit id="bef3f3aa-b54d-433f-9798-3b0fd1755094" resname="8ED·93 | Phantom Warrior | Card Text | Paragraph 1">
         <source>CARDNAME is unblockable.</source>
-        <target state="translated">幽魅战士不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="700d79fa-9e6b-447e-9d64-af9666cc0b0b" resname="8ED·93★ | Phantom Warrior | Card Name">
         <source>Phantom Warrior</source>
@@ -1807,7 +1807,7 @@
       </trans-unit>
       <trans-unit id="700d79fa-9e6b-447e-9d64-af9666cc0b0b" resname="8ED·93★ | Phantom Warrior | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">幽魅战士不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="aeab5d7d-2f44-4372-8884-a5c847c92f92" resname="8ED·94 | Puppeteer | Card Name">
@@ -1892,7 +1892,7 @@
       </trans-unit>
       <trans-unit id="c21f6c39-f879-452f-a643-f503d88206d6" resname="8ED·98 | Sage Owl | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, look at the top four cards of your library, then put them back in any order.</source>
-        <target state="translated">当睿智的猫头鹰进场时，检视你牌库顶的四张牌，然后将它们以任意顺序置回牌库顶。</target>
+        <target state="translated">当CARDNAME进场时，检视你牌库顶的四张牌，然后将它们以任意顺序置回牌库顶。</target>
       </trans-unit>
       <trans-unit id="84531ce6-64cd-4d89-875b-7073f423dd41" resname="8ED·98★ | Sage Owl | Card Name">
         <source>Sage Owl</source>
@@ -1906,7 +1906,7 @@
       </trans-unit>
       <trans-unit id="84531ce6-64cd-4d89-875b-7073f423dd41" resname="8ED·98★ | Sage Owl | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, look at the top four cards of your library, then put them back in any order.</source>
-        <target state="translated">当睿智的猫头鹰进场时，检视你牌库顶的四张牌，然后将它们以任意顺序置回牌库顶。</target>
+        <target state="translated">当CARDNAME进场时，检视你牌库顶的四张牌，然后将它们以任意顺序置回牌库顶。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="9a5094b8-085f-4a68-81bf-b1a7ab423ac4" resname="8ED·99 | Sea Monster | Card Name">
@@ -1915,7 +1915,7 @@
       </trans-unit>
       <trans-unit id="9a5094b8-085f-4a68-81bf-b1a7ab423ac4" resname="8ED·99 | Sea Monster | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless defending player controls an Island.</source>
-        <target state="translated">除非防御牌手操控海岛，否则大海妖不能攻击。</target>
+        <target state="translated">除非防御牌手操控海岛，否则CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="9b1ee578-1e36-4058-9ecf-ce488a4ef21c" resname="8ED·99★ | Sea Monster | Card Name">
         <source>Sea Monster</source>
@@ -1924,7 +1924,7 @@
       </trans-unit>
       <trans-unit id="9b1ee578-1e36-4058-9ecf-ce488a4ef21c" resname="8ED·99★ | Sea Monster | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless defending player controls an Island.</source>
-        <target state="translated">除非防御牌手操控海岛，否则大海妖不能攻击。</target>
+        <target state="translated">除非防御牌手操控海岛，否则CARDNAME不能攻击。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="fed441d0-b8c8-4d63-80ff-cc4fb47d0b26" resname="8ED·100 | Shifting Sky | Card Name">
@@ -1933,7 +1933,7 @@
       </trans-unit>
       <trans-unit id="fed441d0-b8c8-4d63-80ff-cc4fb47d0b26" resname="8ED·100 | Shifting Sky | Card Text | Paragraph 1">
         <source>As CARDNAME comes into play, choose a color.</source>
-        <target state="translated">于变幻长空进场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进场时，选择一种颜色。</target>
       </trans-unit>
       <trans-unit id="fed441d0-b8c8-4d63-80ff-cc4fb47d0b26" resname="8ED·100 | Shifting Sky | Card Text | Paragraph 2">
         <source>All nonland permanents are the chosen color.</source>
@@ -1946,7 +1946,7 @@
       </trans-unit>
       <trans-unit id="76ffece9-d4d4-4adb-a87c-8be464b9040f" resname="8ED·100★ | Shifting Sky | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于变幻长空进场时，选择一种颜色。</target>
+        <target state="translated">于CARDNAME进场时，选择一种颜色。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="76ffece9-d4d4-4adb-a87c-8be464b9040f" resname="8ED·100★ | Shifting Sky | Card Text | Paragraph 2">
@@ -1960,7 +1960,7 @@
       </trans-unit>
       <trans-unit id="a9020f16-4c26-4a7b-8b5c-1d8df3e910a9" resname="8ED·101 | Sneaky Homunculus | Card Text | Paragraph 1">
         <source>CARDNAME can't block or be blocked by creatures with power 2 or greater.</source>
-        <target state="translated">鬼祟童妖不能阻挡力量大于或等于2的生物，亦不能被前述的生物阻挡。</target>
+        <target state="translated">CARDNAME不能阻挡力量大于或等于2的生物，亦不能被前述的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="b0f4e160-68e3-4ae1-999f-3553d73475ef" resname="8ED·101★ | Sneaky Homunculus | Card Name">
         <source>Sneaky Homunculus</source>
@@ -1969,7 +1969,7 @@
       </trans-unit>
       <trans-unit id="b0f4e160-68e3-4ae1-999f-3553d73475ef" resname="8ED·101★ | Sneaky Homunculus | Card Text | Paragraph 1">
         <source>CARDNAME can't block or be blocked by creatures with power 2 or greater.</source>
-        <target state="translated">鬼祟童妖不能阻挡力量大于或等于2的生物，亦不能被前述的生物阻挡。</target>
+        <target state="translated">CARDNAME不能阻挡力量大于或等于2的生物，亦不能被前述的生物阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="cca0925d-c1e8-438c-9d40-c57ad974ed5b" resname="8ED·102 | Spiketail Hatchling | Card Name">
@@ -1982,7 +1982,7 @@
       </trans-unit>
       <trans-unit id="cca0925d-c1e8-438c-9d40-c57ad974ed5b" resname="8ED·102 | Spiketail Hatchling | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Counter target spell unless its controller pays {1}.</source>
-        <target state="translated">牺牲钉尾幼雏：除非目标咒语的操控者支付{1}，否则反击该咒语。</target>
+        <target state="translated">牺牲CARDNAME：除非目标咒语的操控者支付{1}，否则反击该咒语。</target>
       </trans-unit>
       <trans-unit id="6d7bd303-272e-46c9-b495-dcc18cdd7fa5" resname="8ED·102★ | Spiketail Hatchling | Card Name">
         <source>Spiketail Hatchling</source>
@@ -1996,7 +1996,7 @@
       </trans-unit>
       <trans-unit id="6d7bd303-272e-46c9-b495-dcc18cdd7fa5" resname="8ED·102★ | Spiketail Hatchling | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Counter target spell unless its controller pays {1}.</source>
-        <target state="translated">牺牲钉尾幼雏：除非目标咒语的操控者支付{1}，否则反击该咒语。</target>
+        <target state="translated">牺牲CARDNAME：除非目标咒语的操控者支付{1}，否则反击该咒语。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="810f874e-98e1-402b-b48e-14c3e2a624f0" resname="8ED·103 | Steal Artifact | Card Name">
@@ -2081,7 +2081,7 @@
       </trans-unit>
       <trans-unit id="ed3a1c44-4f2b-4277-935c-a337776c023a" resname="8ED·107 | Thieving Magpie | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage to an opponent, you draw a card.</source>
-        <target state="translated">每当窃鹊向对手造成伤害时，你抓一张牌。</target>
+        <target state="translated">每当CARDNAME向对手造成伤害时，你抓一张牌。</target>
       </trans-unit>
       <trans-unit id="fc0931dc-c401-48e8-8ec2-19aa44cef58c" resname="8ED·107★ | Thieving Magpie | Card Name">
         <source>Thieving Magpie</source>
@@ -2095,7 +2095,7 @@
       </trans-unit>
       <trans-unit id="fc0931dc-c401-48e8-8ec2-19aa44cef58c" resname="8ED·107★ | Thieving Magpie | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage to an opponent, draw a card.</source>
-        <target state="translated">每当窃鹊向对手造成伤害时，你抓一张牌。</target>
+        <target state="translated">每当CARDNAME向对手造成伤害时，你抓一张牌。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="08147258-2319-49d5-bfb1-cc4f817d9c72" resname="8ED·108 | Tidal Kraken | Card Name">
@@ -2104,7 +2104,7 @@
       </trans-unit>
       <trans-unit id="08147258-2319-49d5-bfb1-cc4f817d9c72" resname="8ED·108 | Tidal Kraken | Card Text | Paragraph 1">
         <source>CARDNAME is unblockable.</source>
-        <target state="translated">潮汐巨怪不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="2d2a82f2-0035-4501-b57e-9a4395d614f9" resname="8ED·108★ | Tidal Kraken | Card Name">
         <source>Tidal Kraken</source>
@@ -2113,7 +2113,7 @@
       </trans-unit>
       <trans-unit id="2d2a82f2-0035-4501-b57e-9a4395d614f9" resname="8ED·108★ | Tidal Kraken | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">潮汐巨怪不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="f5a23417-3419-4edc-a722-b695e676a3ce" resname="8ED·109 | Trade Routes | Card Name">
@@ -2243,7 +2243,7 @@
       </trans-unit>
       <trans-unit id="a0111ef4-f0be-4af3-981f-aa19a17a3d7b" resname="8ED·115 | Wrath of Marit Lage | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, tap all red creatures.</source>
-        <target state="translated">当玛莉雷基之怒进场时，横置所有红色生物。</target>
+        <target state="translated">当CARDNAME进场时，横置所有红色生物。</target>
       </trans-unit>
       <trans-unit id="a0111ef4-f0be-4af3-981f-aa19a17a3d7b" resname="8ED·115 | Wrath of Marit Lage | Card Text | Paragraph 2">
         <source>Red creatures don't untap during their controllers' untap steps.</source>
@@ -2256,7 +2256,7 @@
       </trans-unit>
       <trans-unit id="190aadce-a309-48fd-a6b0-97f978d7b1c4" resname="8ED·115★ | Wrath of Marit Lage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, tap all red creatures.</source>
-        <target state="translated">当玛莉雷基之怒进场时，横置所有红色生物。</target>
+        <target state="translated">当CARDNAME进场时，横置所有红色生物。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="190aadce-a309-48fd-a6b0-97f978d7b1c4" resname="8ED·115★ | Wrath of Marit Lage | Card Text | Paragraph 2">
@@ -2301,7 +2301,7 @@
       </trans-unit>
       <trans-unit id="68672104-44da-491b-930e-a5ec5740f9a4" resname="8ED·117 | Abyssal Specter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage to a player, that player discards a card from his or her hand.</source>
-        <target state="translated">每当深渊幽灵对牌手造成伤害时，该牌手从其手上弃掉一张牌。</target>
+        <target state="translated">每当CARDNAME对牌手造成伤害时，该牌手从其手上弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="fa54bc77-d2cd-4000-bc3f-74075b84d77f" resname="8ED·117★ | Abyssal Specter | Card Name">
         <source>Abyssal Specter</source>
@@ -2315,7 +2315,7 @@
       </trans-unit>
       <trans-unit id="fa54bc77-d2cd-4000-bc3f-74075b84d77f" resname="8ED·117★ | Abyssal Specter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals damage to a player, that player discards a card.</source>
-        <target state="translated">每当深渊幽灵对牌手造成伤害时，该牌手从其手上弃掉一张牌。</target>
+        <target state="translated">每当CARDNAME对牌手造成伤害时，该牌手从其手上弃掉一张牌。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="705692ad-763b-42aa-8524-21dc32df3f10" resname="8ED·118 | Ambition's Cost | Card Name">
@@ -2382,7 +2382,7 @@
       </trans-unit>
       <trans-unit id="8bae0ce4-8fb6-415b-8689-62ac06ffcdcd" resname="8ED·121s | Carrion Wall | Card Text | Paragraph 2">
         <source>{1}{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{1}{B}：重生腐肉墙。</target>
+        <target state="translated">{1}{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="4b5ac075-1796-484e-97b9-ddd00433a40c" resname="8ED·121★ | Carrion Wall | Card Name">
         <source>Carrion Wall</source>
@@ -2398,7 +2398,7 @@
       </trans-unit>
       <trans-unit id="4b5ac075-1796-484e-97b9-ddd00433a40c" resname="8ED·121★ | Carrion Wall | Card Text | Paragraph 2">
         <source>{1}{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{1}{B}：重生腐肉墙。</target>
+        <target state="translated">{1}{B}：重生CARDNAME。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。
 此牌为和谐版本，画家为Pete Venters。但MTGJSON未区分此牌闪卡版本的和谐版和非和谐版。</note>
       </trans-unit>
@@ -2444,7 +2444,7 @@
       </trans-unit>
       <trans-unit id="f6404e26-353a-478e-81db-03499be8e24b" resname="8ED·124 | Death Pit Offering | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, sacrifice all creatures you control.</source>
-        <target state="translated">当死渊活祭进场时，牺牲所有由你操控的生物。</target>
+        <target state="translated">当CARDNAME进场时，牺牲所有由你操控的生物。</target>
       </trans-unit>
       <trans-unit id="f6404e26-353a-478e-81db-03499be8e24b" resname="8ED·124 | Death Pit Offering | Card Text | Paragraph 2">
         <source>Creatures you control get +2/+2.</source>
@@ -2457,7 +2457,7 @@
       </trans-unit>
       <trans-unit id="4558bef2-2c41-41a3-b248-b2c816d332a4" resname="8ED·124★ | Death Pit Offering | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice all creatures you control.</source>
-        <target state="translated">当死渊活祭进场时，牺牲所有由你操控的生物。</target>
+        <target state="translated">当CARDNAME进场时，牺牲所有由你操控的生物。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="4558bef2-2c41-41a3-b248-b2c816d332a4" resname="8ED·124★ | Death Pit Offering | Card Text | Paragraph 2">
@@ -2491,7 +2491,7 @@
       </trans-unit>
       <trans-unit id="27a4e022-a5d9-4798-8f04-39c6ce627761" resname="8ED·126 | Deathgazer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.</source>
-        <target state="translated">每当致命妖瞳阻挡非黑色生物或被非黑色生物阻挡，在战斗结束时消灭该生物。</target>
+        <target state="translated">每当CARDNAME阻挡非黑色生物或被非黑色生物阻挡，在战斗结束时消灭该生物。</target>
       </trans-unit>
       <trans-unit id="1dcc58fb-0c13-449c-b3ae-d4e009ea11e4" resname="8ED·126★ | Deathgazer | Card Name">
         <source>Deathgazer</source>
@@ -2500,7 +2500,7 @@
       </trans-unit>
       <trans-unit id="1dcc58fb-0c13-449c-b3ae-d4e009ea11e4" resname="8ED·126★ | Deathgazer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.</source>
-        <target state="translated">每当致命妖瞳阻挡非黑色生物或被非黑色生物阻挡，在战斗结束时消灭该生物。</target>
+        <target state="translated">每当CARDNAME阻挡非黑色生物或被非黑色生物阻挡，在战斗结束时消灭该生物。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="cd4c5c2f-0c1e-44e8-a7f8-2dc2954eacd8" resname="8ED·127 | Deepwood Ghoul | Card Name">
@@ -2509,7 +2509,7 @@
       </trans-unit>
       <trans-unit id="cd4c5c2f-0c1e-44e8-a7f8-2dc2954eacd8" resname="8ED·127 | Deepwood Ghoul | Card Text | Paragraph 1">
         <source>Pay 2 life: Regenerate CARDNAME.</source>
-        <target state="translated">支付2点生命：重生深邃林食尸鬼。</target>
+        <target state="translated">支付2点生命：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="86d8ac7d-beca-4ac1-b9f1-3a5a29ca901e" resname="8ED·127★ | Deepwood Ghoul | Card Name">
         <source>Deepwood Ghoul</source>
@@ -2518,7 +2518,7 @@
       </trans-unit>
       <trans-unit id="86d8ac7d-beca-4ac1-b9f1-3a5a29ca901e" resname="8ED·127★ | Deepwood Ghoul | Card Text | Paragraph 1">
         <source>Pay 2 life: Regenerate CARDNAME.</source>
-        <target state="translated">支付2点生命：重生深邃林食尸鬼。</target>
+        <target state="translated">支付2点生命：重生CARDNAME。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="7c7e0f9b-2c02-4e9a-ab86-270fad193de0" resname="8ED·128 | Diabolic Tutor | Card Name">
@@ -2545,7 +2545,7 @@
       </trans-unit>
       <trans-unit id="ead266ab-36c7-4ebd-a9b6-b6f5b20d70be" resname="8ED·129s | Drudge Skeletons | Card Text | Paragraph 1">
         <source>{B}: Regenerate CARDNAME. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</source>
-        <target state="translated">{B}：重生苦力骷髅妖。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="ceb7aa7d-0d68-4b53-981f-1505f0dab055" resname="8ED·129★ | Drudge Skeletons | Card Name">
         <source>Drudge Skeletons</source>
@@ -2555,7 +2555,7 @@
       </trans-unit>
       <trans-unit id="ceb7aa7d-0d68-4b53-981f-1505f0dab055" resname="8ED·129★ | Drudge Skeletons | Card Text | Paragraph 1">
         <source>{B}: Regenerate CARDNAME. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</source>
-        <target state="translated">{B}：重生苦力骷髅妖。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。
 此牌为和谐版本，画家为Arnie Swekel。但MTGJSON未区分此牌闪卡版本的和谐版和非和谐版。</note>
       </trans-unit>
@@ -2632,7 +2632,7 @@
       </trans-unit>
       <trans-unit id="2c574bf0-0fad-4cde-a75e-88d899a890ee" resname="8ED·133 | Fallen Angel | Card Text | Paragraph 2">
         <source>Sacrifice a creature: CARDNAME gets +2/+1 until end of turn.</source>
-        <target state="translated">牺牲一个生物：堕天使得+2/+1直到回合结束。</target>
+        <target state="translated">牺牲一个生物：CARDNAME得+2/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="04e4aa36-cf55-4c7c-94c3-337a3da10bb3" resname="8ED·133★ | Fallen Angel | Card Name">
         <source>Fallen Angel</source>
@@ -2646,7 +2646,7 @@
       </trans-unit>
       <trans-unit id="04e4aa36-cf55-4c7c-94c3-337a3da10bb3" resname="8ED·133★ | Fallen Angel | Card Text | Paragraph 2">
         <source>Sacrifice a creature: CARDNAME gets +2/+1 until end of turn.</source>
-        <target state="translated">牺牲一个生物：堕天使得+2/+1直到回合结束。</target>
+        <target state="translated">牺牲一个生物：CARDNAME得+2/+1直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="b18630f0-29de-4437-9c69-5f61b6f6fda5" resname="8ED·134 | Fear | Card Name">
@@ -2655,7 +2655,7 @@
       </trans-unit>
       <trans-unit id="b18630f0-29de-4437-9c69-5f61b6f6fda5" resname="8ED·134 | Fear | Card Text | Paragraph 1">
         <source>Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">受此结界的生物具有恐惧异能。（此生物只能被神器和／或黑色生物阻挡。）</target>
+        <target state="translated">受此结界的生物具有CARDNAME异能。（此生物只能被神器和／或黑色生物阻挡。）</target>
       </trans-unit>
       <trans-unit id="74e5ccd6-8b39-4bbf-b2a1-901a6058498f" resname="8ED·134★ | Fear | Card Name">
         <source>Fear</source>
@@ -2664,7 +2664,7 @@
       </trans-unit>
       <trans-unit id="74e5ccd6-8b39-4bbf-b2a1-901a6058498f" resname="8ED·134★ | Fear | Card Text | Paragraphs">
         <source>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">受此结界的生物具有恐惧异能。（此生物只能被神器和／或黑色生物阻挡。）</target>
+        <target state="translated">受此结界的生物具有CARDNAME异能。（此生物只能被神器和／或黑色生物阻挡。）</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="68b79ee0-0a1b-474c-b68c-6e4ec69c018c" resname="8ED·135 | Giant Cockroach | Card Name">
@@ -2718,7 +2718,7 @@
       </trans-unit>
       <trans-unit id="2679472e-39a5-4a28-a04e-962c393fbcc4" resname="8ED·138 | Gravedigger | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, you may return target creature card from your graveyard to your hand.</source>
-        <target state="translated">当掘墓怪进场时，你可以将目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进场时，你可以将目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="9cdf87dd-6a29-4312-9fd0-5493d65a5856" resname="8ED·138★ | Gravedigger | Card Name">
         <source>Gravedigger</source>
@@ -2727,7 +2727,7 @@
       </trans-unit>
       <trans-unit id="9cdf87dd-6a29-4312-9fd0-5493d65a5856" resname="8ED·138★ | Gravedigger | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may return target creature card from your graveyard to your hand.</source>
-        <target state="translated">当掘墓怪进场时，你可以将目标生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进场时，你可以将目标生物牌从你的坟墓场移回你手上。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="1cb3eddb-cd89-4cec-92b4-4006dece36a8" resname="8ED·139 | Larceny | Card Name">
@@ -2754,7 +2754,7 @@
       </trans-unit>
       <trans-unit id="53cf28d4-939c-495a-a6eb-e4f52a62e150" resname="8ED·140 | Looming Shade | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：昏暗阴魂得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b500c957-0ca0-4f68-a046-74dedf960368" resname="8ED·140★ | Looming Shade | Card Name">
         <source>Looming Shade</source>
@@ -2763,7 +2763,7 @@
       </trans-unit>
       <trans-unit id="b500c957-0ca0-4f68-a046-74dedf960368" resname="8ED·140★ | Looming Shade | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：昏暗阴魂得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="27d4b539-0e45-49ca-96fa-5df1ccb3b235" resname="8ED·141 | Lord of the Undead | Card Name">
@@ -2799,7 +2799,7 @@
       </trans-unit>
       <trans-unit id="cd2ee72e-68d3-46b9-abc6-08532ce412b2" resname="8ED·142 | Maggot Carrier | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, each player loses 1 life.</source>
-        <target state="translated">当病蛆带原体进场时，每位牌手各失去1点生命。</target>
+        <target state="translated">当CARDNAME进场时，每位牌手各失去1点生命。</target>
       </trans-unit>
       <trans-unit id="4aa250a2-f3e2-42b0-aea0-7816f60f4d1d" resname="8ED·142★ | Maggot Carrier | Card Name">
         <source>Maggot Carrier</source>
@@ -2808,7 +2808,7 @@
       </trans-unit>
       <trans-unit id="4aa250a2-f3e2-42b0-aea0-7816f60f4d1d" resname="8ED·142★ | Maggot Carrier | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each player loses 1 life.</source>
-        <target state="translated">当病蛆带原体进场时，每位牌手各失去1点生命。</target>
+        <target state="translated">当CARDNAME进场时，每位牌手各失去1点生命。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="82d8a020-fa68-4db6-bbe8-671bff043e06" resname="8ED·143 | Megrim | Card Name">
@@ -2817,7 +2817,7 @@
       </trans-unit>
       <trans-unit id="82d8a020-fa68-4db6-bbe8-671bff043e06" resname="8ED·143 | Megrim | Card Text | Paragraph 1">
         <source>Whenever an opponent discards a card from his or her hand, CARDNAME deals 2 damage to that player.</source>
-        <target state="translated">每当对手从其手上弃掉一张牌时，偏头痛对该牌手造成2点伤害。</target>
+        <target state="translated">每当对手从其手上弃掉一张牌时，CARDNAME对该牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="aa8d6f7d-ced6-414d-89d0-792975548cb7" resname="8ED·143★ | Megrim | Card Name">
         <source>Megrim</source>
@@ -2826,7 +2826,7 @@
       </trans-unit>
       <trans-unit id="aa8d6f7d-ced6-414d-89d0-792975548cb7" resname="8ED·143★ | Megrim | Card Text | Paragraph 1">
         <source>Whenever an opponent discards a card, CARDNAME deals 2 damage to that player.</source>
-        <target state="translated">每当对手从其手上弃掉一张牌时，偏头痛对该牌手造成2点伤害。</target>
+        <target state="translated">每当对手从其手上弃掉一张牌时，CARDNAME对该牌手造成2点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="0b780692-9c74-4283-a1ca-63f991dcc2c3" resname="8ED·144 | Mind Rot | Card Name">
@@ -2929,7 +2929,7 @@
       </trans-unit>
       <trans-unit id="c5c0d60f-0824-4498-81da-2c65980e3f98" resname="8ED·149 | Nekrataal | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, destroy target nonartifact, nonblack creature. That creature can't be regenerated.</source>
-        <target state="translated">当尼可拉塔进场时，消灭目标非神器且非黑色的生物。该生物不能重生。</target>
+        <target state="translated">当CARDNAME进场时，消灭目标非神器且非黑色的生物。该生物不能重生。</target>
       </trans-unit>
       <trans-unit id="d8d195ba-9e07-43b1-b49b-b5706cd14bc5" resname="8ED·149★ | Nekrataal | Card Name">
         <source>Nekrataal</source>
@@ -2943,7 +2943,7 @@
       </trans-unit>
       <trans-unit id="d8d195ba-9e07-43b1-b49b-b5706cd14bc5" resname="8ED·149★ | Nekrataal | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.</source>
-        <target state="translated">当尼可拉塔进场时，消灭目标非神器且非黑色的生物。该生物不能重生。</target>
+        <target state="translated">当CARDNAME进场时，消灭目标非神器且非黑色的生物。该生物不能重生。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="dd088c4d-3e21-4979-b30f-4ec98a6c81df" resname="8ED·150 | Nightmare | Card Name">
@@ -2956,7 +2956,7 @@
       </trans-unit>
       <trans-unit id="dd088c4d-3e21-4979-b30f-4ec98a6c81df" resname="8ED·150 | Nightmare | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of Swamps you control.</source>
-        <target state="translated">梦魇的力量及防御力各等同于由你操控的沼泽之数量。</target>
+        <target state="translated">CARDNAME的力量及防御力各等同于由你操控的沼泽之数量。</target>
       </trans-unit>
       <trans-unit id="92c79db0-731a-4aa5-b69f-f21e031815d4" resname="8ED·150★ | Nightmare | Card Name">
         <source>Nightmare</source>
@@ -2970,7 +2970,7 @@
       </trans-unit>
       <trans-unit id="92c79db0-731a-4aa5-b69f-f21e031815d4" resname="8ED·150★ | Nightmare | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of Swamps you control.</source>
-        <target state="translated">梦魇的力量及防御力各等同于由你操控的沼泽之数量。</target>
+        <target state="translated">CARDNAME的力量及防御力各等同于由你操控的沼泽之数量。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="72c39fda-9a33-4464-99b0-4dbbf5eb7e2a" resname="8ED·151 | Persecute | Card Name">
@@ -3015,7 +3015,7 @@
       </trans-unit>
       <trans-unit id="284f9e91-9318-44d9-995b-8c00752a3b01" resname="8ED·153 | Phyrexian Plaguelord | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Target creature gets -4/-4 until end of turn.</source>
-        <target state="translated">{T}，牺牲非瑞克西亚疫病王：目标生物得-4/-4直到回合结束。</target>
+        <target state="translated">{T}，牺牲CARDNAME：目标生物得-4/-4直到回合结束。</target>
       </trans-unit>
       <trans-unit id="284f9e91-9318-44d9-995b-8c00752a3b01" resname="8ED·153 | Phyrexian Plaguelord | Card Text | Paragraph 2">
         <source>Sacrifice a creature: Target creature gets -1/-1 until end of turn.</source>
@@ -3028,7 +3028,7 @@
       </trans-unit>
       <trans-unit id="eb3e2495-f8c9-4fcf-9a25-7cb591b06752" resname="8ED·153★ | Phyrexian Plaguelord | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Target creature gets -4/-4 until end of turn.</source>
-        <target state="translated">{T}，牺牲非瑞克西亚疫病王：目标生物得-4/-4直到回合结束。</target>
+        <target state="translated">{T}，牺牲CARDNAME：目标生物得-4/-4直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="eb3e2495-f8c9-4fcf-9a25-7cb591b06752" resname="8ED·153★ | Phyrexian Plaguelord | Card Text | Paragraph 2">
@@ -3078,7 +3078,7 @@
       </trans-unit>
       <trans-unit id="e45931d2-3fbf-4509-aa41-13d7839578df" resname="8ED·156 | Primeval Shambler | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：野地跛行兽得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="14e061c1-cdfe-4c0c-9043-3976f2a6b561" resname="8ED·156★ | Primeval Shambler | Card Name">
         <source>Primeval Shambler</source>
@@ -3087,7 +3087,7 @@
       </trans-unit>
       <trans-unit id="14e061c1-cdfe-4c0c-9043-3976f2a6b561" resname="8ED·156★ | Primeval Shambler | Card Text | Paragraph 1">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：野地跛行兽得+1/+1直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="cc29ec6b-555e-4472-8bd4-d7e898edabce" resname="8ED·157 | Raise Dead | Card Name">
@@ -3114,7 +3114,7 @@
       </trans-unit>
       <trans-unit id="0ee0ece8-2598-40d4-a222-27e3b34c01a1" resname="8ED·158 | Ravenous Rats | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, target opponent discards a card from his or her hand.</source>
-        <target state="translated">当贪吃老鼠进场时，目标对手从其手上弃掉一张牌。</target>
+        <target state="translated">当CARDNAME进场时，目标对手从其手上弃掉一张牌。</target>
       </trans-unit>
       <trans-unit id="427c971b-60f6-4757-bdb3-d43102f57f3f" resname="8ED·158★ | Ravenous Rats | Card Name">
         <source>Ravenous Rats</source>
@@ -3123,7 +3123,7 @@
       </trans-unit>
       <trans-unit id="427c971b-60f6-4757-bdb3-d43102f57f3f" resname="8ED·158★ | Ravenous Rats | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent discards a card.</source>
-        <target state="translated">当贪吃老鼠进场时，目标对手从其手上弃掉一张牌。</target>
+        <target state="translated">当CARDNAME进场时，目标对手从其手上弃掉一张牌。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="4ed8b7de-a72f-429f-a99c-438af59de19e" resname="8ED·159 | Royal Assassin | Card Name">
@@ -3159,7 +3159,7 @@
       </trans-unit>
       <trans-unit id="dfcf5fb1-391c-472a-8b06-503162e458d7" resname="8ED·161 | Serpent Warrior | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, you lose 3 life.</source>
-        <target state="translated">当巨蛇战士进场时，你失去3点生命。</target>
+        <target state="translated">当CARDNAME进场时，你失去3点生命。</target>
       </trans-unit>
       <trans-unit id="7249a548-0d1e-4965-8767-7e386203231c" resname="8ED·161★ | Serpent Warrior | Card Name">
         <source>Serpent Warrior</source>
@@ -3168,7 +3168,7 @@
       </trans-unit>
       <trans-unit id="7249a548-0d1e-4965-8767-7e386203231c" resname="8ED·161★ | Serpent Warrior | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you lose 3 life.</source>
-        <target state="translated">当巨蛇战士进场时，你失去3点生命。</target>
+        <target state="translated">当CARDNAME进场时，你失去3点生命。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="df1cb775-3a45-4f2c-9c45-febda6434c59" resname="8ED·162 | Sever Soul | Card Name">
@@ -3258,7 +3258,7 @@
       </trans-unit>
       <trans-unit id="711dfcd8-3083-4876-ac3f-1f7c6924382a" resname="8ED·166 | Spineless Thug | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">软脚流氓不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="cf974056-2f7a-4b2c-8b39-a371a322037b" resname="8ED·166★ | Spineless Thug | Card Name">
         <source>Spineless Thug</source>
@@ -3267,7 +3267,7 @@
       </trans-unit>
       <trans-unit id="cf974056-2f7a-4b2c-8b39-a371a322037b" resname="8ED·166★ | Spineless Thug | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">软脚流氓不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="2690a627-23c5-46a4-b508-a5bc6ecc08d7" resname="8ED·167 | Swarm of Rats | Card Name">
@@ -3276,7 +3276,7 @@
       </trans-unit>
       <trans-unit id="2690a627-23c5-46a4-b508-a5bc6ecc08d7" resname="8ED·167 | Swarm of Rats | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of Rats you control.</source>
-        <target state="translated">老鼠暴群的力量等同于由你操控之老鼠的数量。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控之老鼠的数量。</target>
       </trans-unit>
       <trans-unit id="ae6b7304-6b3f-4c1c-a936-d1a1e0ec21f0" resname="8ED·167★ | Swarm of Rats | Card Name">
         <source>Swarm of Rats</source>
@@ -3285,7 +3285,7 @@
       </trans-unit>
       <trans-unit id="ae6b7304-6b3f-4c1c-a936-d1a1e0ec21f0" resname="8ED·167★ | Swarm of Rats | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of Rats you control.</source>
-        <target state="translated">老鼠暴群的力量等同于由你操控之老鼠的数量。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控之老鼠的数量。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="eda4c410-c19c-435d-bbb4-2448ea3eeb21" resname="8ED·168 | Underworld Dreams | Card Name">
@@ -3294,7 +3294,7 @@
       </trans-unit>
       <trans-unit id="eda4c410-c19c-435d-bbb4-2448ea3eeb21" resname="8ED·168 | Underworld Dreams | Card Text | Paragraph 1">
         <source>Whenever an opponent draws a card, CARDNAME deals 1 damage to him or her.</source>
-        <target state="translated">每当对手抓一张牌时，地底幻梦对他造成1点伤害。</target>
+        <target state="translated">每当对手抓一张牌时，CARDNAME对他造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="209f89e0-a577-4bd1-8cdf-9572896e6a3d" resname="8ED·168★ | Underworld Dreams | Card Name">
         <source>Underworld Dreams</source>
@@ -3303,7 +3303,7 @@
       </trans-unit>
       <trans-unit id="209f89e0-a577-4bd1-8cdf-9572896e6a3d" resname="8ED·168★ | Underworld Dreams | Card Text | Paragraph 1">
         <source>Whenever an opponent draws a card, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">每当对手抓一张牌时，地底幻梦对他造成1点伤害。</target>
+        <target state="translated">每当对手抓一张牌时，CARDNAME对他造成1点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="7dd14a78-d306-43b1-b824-e04c96ce9155" resname="8ED·169 | Unholy Strength | Card Name">
@@ -3334,7 +3334,7 @@
       </trans-unit>
       <trans-unit id="6e5235e5-deb7-49eb-82a8-858d3ee7c91b" resname="8ED·170 | Vampiric Spirit | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, you lose 4 life.</source>
-        <target state="translated">当吸血精怪进场时，你失去4点生命。</target>
+        <target state="translated">当CARDNAME进场时，你失去4点生命。</target>
       </trans-unit>
       <trans-unit id="b4934546-a53c-41ee-98be-6bb6d9df1071" resname="8ED·170★ | Vampiric Spirit | Card Name">
         <source>Vampiric Spirit</source>
@@ -3348,7 +3348,7 @@
       </trans-unit>
       <trans-unit id="b4934546-a53c-41ee-98be-6bb6d9df1071" resname="8ED·170★ | Vampiric Spirit | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you lose 4 life.</source>
-        <target state="translated">当吸血精怪进场时，你失去4点生命。</target>
+        <target state="translated">当CARDNAME进场时，你失去4点生命。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="edf7cf9e-cb8d-49ae-af5b-0da7f283e677" resname="8ED·171 | Vicious Hunger | Card Name">
@@ -3357,7 +3357,7 @@
       </trans-unit>
       <trans-unit id="edf7cf9e-cb8d-49ae-af5b-0da7f283e677" resname="8ED·171 | Vicious Hunger | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature and you gain 2 life.</source>
-        <target state="translated">邪恶饥渴对目标生物造成2点伤害，并且你获得2点生命。</target>
+        <target state="translated">CARDNAME对目标生物造成2点伤害，并且你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="6203c511-c149-4f37-ab89-7862a0cc7fa0" resname="8ED·171★ | Vicious Hunger | Card Name">
         <source>Vicious Hunger</source>
@@ -3366,7 +3366,7 @@
       </trans-unit>
       <trans-unit id="6203c511-c149-4f37-ab89-7862a0cc7fa0" resname="8ED·171★ | Vicious Hunger | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature and you gain 2 life.</source>
-        <target state="translated">邪恶饥渴对目标生物造成2点伤害，并且你获得2点生命。</target>
+        <target state="translated">CARDNAME对目标生物造成2点伤害，并且你获得2点生命。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="ffd41ebd-91a8-4972-8f93-3306e68519f9" resname="8ED·172 | Warped Devotion | Card Name">
@@ -3429,7 +3429,7 @@
       </trans-unit>
       <trans-unit id="f3c2a5d1-cdf0-4551-aad0-c6590fb3c018" resname="8ED·175 | Anaba Shaman | Card Text | Paragraph 1">
         <source>{R}, {T}: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">{R}，{T}：阿那巴祭师对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{R}，{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="142260bd-4e4f-4057-b124-4744cea698d7" resname="8ED·175★ | Anaba Shaman | Card Name">
         <source>Anaba Shaman</source>
@@ -3438,7 +3438,7 @@
       </trans-unit>
       <trans-unit id="142260bd-4e4f-4057-b124-4744cea698d7" resname="8ED·175★ | Anaba Shaman | Card Text | Paragraph 1">
         <source>{R}, {T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{R}，{T}：阿那巴祭师对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{R}，{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="46092f3f-7ef9-4967-b47b-40747a8cf37d" resname="8ED·176 | Balduvian Barbarians | Card Name">
@@ -3456,7 +3456,7 @@
       </trans-unit>
       <trans-unit id="5de4525e-6c9d-4396-9280-6fed9802123a" resname="8ED·177 | Blaze | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to target creature or player.</source>
-        <target state="translated">焰球对目标生物或牌手造成X点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="8c16f310-a492-4cea-86d2-b0ba5df9891b" resname="8ED·177★ | Blaze | Card Name">
         <source>Blaze</source>
@@ -3465,7 +3465,7 @@
       </trans-unit>
       <trans-unit id="8c16f310-a492-4cea-86d2-b0ba5df9891b" resname="8ED·177★ | Blaze | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to any target.</source>
-        <target state="translated">焰球对目标生物或牌手造成X点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成X点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="2d75a5e3-4bec-4c2c-a9ad-f894cde292fd" resname="8ED·178 | Blood Moon | Card Name">
@@ -3492,7 +3492,7 @@
       </trans-unit>
       <trans-unit id="b021f1ea-4db1-40fb-a5dc-af13be53ad15" resname="8ED·179 | Bloodshot Cyclops | Card Text | Paragraph 1">
         <source>{T}, Sacrifice a creature: CARDNAME deals damage equal to the sacrificed creature's power to target creature or player.</source>
-        <target state="translated">{T}，牺牲一个生物：血丝独眼巨人对目标生物或牌手造成伤害，其数量等同于所牺牲生物的力量。</target>
+        <target state="translated">{T}，牺牲一个生物：CARDNAME对目标生物或牌手造成伤害，其数量等同于所牺牲生物的力量。</target>
       </trans-unit>
       <trans-unit id="a2a2cc8b-4244-46ba-bf58-c2005c3678e8" resname="8ED·179★ | Bloodshot Cyclops | Card Name">
         <source>Bloodshot Cyclops</source>
@@ -3501,7 +3501,7 @@
       </trans-unit>
       <trans-unit id="a2a2cc8b-4244-46ba-bf58-c2005c3678e8" resname="8ED·179★ | Bloodshot Cyclops | Card Text | Paragraph 1">
         <source>{T}, Sacrifice a creature: CARDNAME deals damage equal to the sacrificed creature's power to any target.</source>
-        <target state="translated">{T}，牺牲一个生物：血丝独眼巨人对目标生物或牌手造成伤害，其数量等同于所牺牲生物的力量。</target>
+        <target state="translated">{T}，牺牲一个生物：CARDNAME对目标生物或牌手造成伤害，其数量等同于所牺牲生物的力量。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="15a0087c-4e0f-4547-b441-b5a517c00b91" resname="8ED·180 | Boil | Card Name">
@@ -3550,7 +3550,7 @@
       </trans-unit>
       <trans-unit id="e9654472-b9b7-48aa-98d3-611807cf6d88" resname="8ED·182 | Cinder Wall | Card Text | Paragraph 2">
         <source>When CARDNAME blocks, destroy it at end of combat.</source>
-        <target state="translated">当煤墙进行阻挡，在战斗结束时将其消灭。</target>
+        <target state="translated">当CARDNAME进行阻挡，在战斗结束时将其消灭。</target>
       </trans-unit>
       <trans-unit id="ba1aa661-e00f-4d53-adcc-717e26dc97be" resname="8ED·182★ | Cinder Wall | Card Name">
         <source>Cinder Wall</source>
@@ -3564,7 +3564,7 @@
       </trans-unit>
       <trans-unit id="ba1aa661-e00f-4d53-adcc-717e26dc97be" resname="8ED·182★ | Cinder Wall | Card Text | Paragraph 2">
         <source>When CARDNAME blocks, destroy it at end of combat.</source>
-        <target state="translated">当煤墙进行阻挡，在战斗结束时将其消灭。</target>
+        <target state="translated">当CARDNAME进行阻挡，在战斗结束时将其消灭。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="d09770e0-24c0-4842-b31b-61e746ed89d7" resname="8ED·183 | Demolish | Card Name">
@@ -3685,7 +3685,7 @@
       </trans-unit>
       <trans-unit id="82db30ff-5f50-41b1-acdf-0a0e1a364410" resname="8ED·189 | Goblin Glider | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">精灵滑翔翼不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="e2d24d46-25b6-422a-af9f-e389ba4ec397" resname="8ED·189★ | Goblin Glider | Card Name">
         <source>Goblin Glider</source>
@@ -3699,7 +3699,7 @@
       </trans-unit>
       <trans-unit id="e2d24d46-25b6-422a-af9f-e389ba4ec397" resname="8ED·189★ | Goblin Glider | Card Text | Paragraph 2">
         <source>CARDNAME can't block.</source>
-        <target state="translated">精灵滑翔翼不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="c5448159-0516-4f35-a212-c3e1efa84c71" resname="8ED·190 | Goblin King | Card Name">
@@ -3726,7 +3726,7 @@
       </trans-unit>
       <trans-unit id="0837dd6a-d413-40a4-a684-ec637a4f3d4a" resname="8ED·191 | Goblin Raider | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">精灵突击队不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="750d34c5-2a25-4b2c-80b2-1205d0580fcc" resname="8ED·191★ | Goblin Raider | Card Name">
         <source>Goblin Raider</source>
@@ -3735,7 +3735,7 @@
       </trans-unit>
       <trans-unit id="750d34c5-2a25-4b2c-80b2-1205d0580fcc" resname="8ED·191★ | Goblin Raider | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">精灵突击队不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="63535f0e-dc14-420e-bcb7-b5ef8fafb93f" resname="8ED·192 | Guerrilla Tactics | Card Name">
@@ -3744,11 +3744,11 @@
       </trans-unit>
       <trans-unit id="63535f0e-dc14-420e-bcb7-b5ef8fafb93f" resname="8ED·192 | Guerrilla Tactics | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">游击策略对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="63535f0e-dc14-420e-bcb7-b5ef8fafb93f" resname="8ED·192 | Guerrilla Tactics | Card Text | Paragraph 2">
         <source>When a spell or ability an opponent controls causes you to discard CARDNAME from your hand, CARDNAME deals 4 damage to target creature or player.</source>
-        <target state="translated">当由对手所操控的咒语或异能使得你从手上弃掉游击策略时，游击策略对目标生物或牌手造成4点伤害。</target>
+        <target state="translated">当由对手所操控的咒语或异能使得你从手上弃掉CARDNAME时，CARDNAME对目标生物或牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="81348b40-0fc5-4aeb-b8fa-30eaa2d528f9" resname="8ED·192★ | Guerrilla Tactics | Card Name">
         <source>Guerrilla Tactics</source>
@@ -3757,12 +3757,12 @@
       </trans-unit>
       <trans-unit id="81348b40-0fc5-4aeb-b8fa-30eaa2d528f9" resname="8ED·192★ | Guerrilla Tactics | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">游击策略对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="81348b40-0fc5-4aeb-b8fa-30eaa2d528f9" resname="8ED·192★ | Guerrilla Tactics | Card Text | Paragraph 2">
         <source>When a spell or ability an opponent controls causes you to discard CARDNAME, CARDNAME deals 4 damage to any target.</source>
-        <target state="translated">当由对手所操控的咒语或异能使得你从手上弃掉游击策略时，游击策略对目标生物或牌手造成4点伤害。</target>
+        <target state="translated">当由对手所操控的咒语或异能使得你从手上弃掉CARDNAME时，CARDNAME对目标生物或牌手造成4点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="abf6e6c0-ddea-4d15-ab1a-5c7d9fa69d51" resname="8ED·193 | Hammer of Bogardan | Card Name">
@@ -3771,11 +3771,11 @@
       </trans-unit>
       <trans-unit id="abf6e6c0-ddea-4d15-ab1a-5c7d9fa69d51" resname="8ED·193 | Hammer of Bogardan | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature or player.</source>
-        <target state="translated">博卡登之锤对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="abf6e6c0-ddea-4d15-ab1a-5c7d9fa69d51" resname="8ED·193 | Hammer of Bogardan | Card Text | Paragraph 2">
         <source>{2}{R}{R}{R}: Return CARDNAME from your graveyard to your hand. Play this ability only during your upkeep. (Your upkeep step is after you untap and before you draw.)</source>
-        <target state="translated">{2}{R}{R}{R}：将博卡登之锤从你坟墓场中移回你手上。你只可以于你的维持中使用此异能。（维持步骤是在重置之后、抓牌之前的时段。）</target>
+        <target state="translated">{2}{R}{R}{R}：将CARDNAME从你坟墓场中移回你手上。你只可以于你的维持中使用此异能。（维持步骤是在重置之后、抓牌之前的时段。）</target>
       </trans-unit>
       <trans-unit id="cff985e4-915a-4790-a3a7-4013c2b7c3a5" resname="8ED·193★ | Hammer of Bogardan | Card Name">
         <source>Hammer of Bogardan</source>
@@ -3784,12 +3784,12 @@
       </trans-unit>
       <trans-unit id="cff985e4-915a-4790-a3a7-4013c2b7c3a5" resname="8ED·193★ | Hammer of Bogardan | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">博卡登之锤对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="cff985e4-915a-4790-a3a7-4013c2b7c3a5" resname="8ED·193★ | Hammer of Bogardan | Card Text | Paragraph 2">
         <source>{2}{R}{R}{R}: Return CARDNAME from your graveyard to your hand. Activate only during your upkeep.</source>
-        <target state="translated">{2}{R}{R}{R}：将博卡登之锤从你坟墓场中移回你手上。你只可以于你的维持中使用此异能。（维持步骤是在重置之后、抓牌之前的时段。）</target>
+        <target state="translated">{2}{R}{R}{R}：将CARDNAME从你坟墓场中移回你手上。你只可以于你的维持中使用此异能。（维持步骤是在重置之后、抓牌之前的时段。）</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="f3afb143-fd69-4197-96f4-62d5d90a894c" resname="8ED·194 | Hill Giant | Card Name">
@@ -3807,7 +3807,7 @@
       </trans-unit>
       <trans-unit id="dc1a5428-9bb4-4e2b-ba94-fccd321ce537" resname="8ED·195 | Hulking Cyclops | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">笨拙独眼巨人不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="664e402d-cdde-43fd-9899-2ea5d04d29b7" resname="8ED·195★ | Hulking Cyclops | Card Name">
         <source>Hulking Cyclops</source>
@@ -3816,7 +3816,7 @@
       </trans-unit>
       <trans-unit id="664e402d-cdde-43fd-9899-2ea5d04d29b7" resname="8ED·195★ | Hulking Cyclops | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">笨拙独眼巨人不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="bf6895de-9c74-49a0-a71c-1e55a6897dfa" resname="8ED·196 | Inferno | Card Name">
@@ -3825,7 +3825,7 @@
       </trans-unit>
       <trans-unit id="bf6895de-9c74-49a0-a71c-1e55a6897dfa" resname="8ED·196 | Inferno | Card Text | Paragraph 1">
         <source>CARDNAME deals 6 damage to each creature and each player.</source>
-        <target state="translated">炼狱对每个生物与每位牌手各造成6点伤害。</target>
+        <target state="translated">CARDNAME对每个生物与每位牌手各造成6点伤害。</target>
       </trans-unit>
       <trans-unit id="98644803-d626-436e-a86f-457005a30da9" resname="8ED·196★ | Inferno | Card Name">
         <source>Inferno</source>
@@ -3834,7 +3834,7 @@
       </trans-unit>
       <trans-unit id="98644803-d626-436e-a86f-457005a30da9" resname="8ED·196★ | Inferno | Card Text | Paragraph 1">
         <source>CARDNAME deals 6 damage to each creature and each player.</source>
-        <target state="translated">炼狱对每个生物与每位牌手各造成6点伤害。</target>
+        <target state="translated">CARDNAME对每个生物与每位牌手各造成6点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="4ddcf8a1-7337-41e9-b3b1-013f23b92eb0" resname="8ED·197 | Lava Axe | Card Name">
@@ -3843,7 +3843,7 @@
       </trans-unit>
       <trans-unit id="4ddcf8a1-7337-41e9-b3b1-013f23b92eb0" resname="8ED·197 | Lava Axe | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to target player.</source>
-        <target state="translated">熔岩斧对目标牌手造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标牌手造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="a83376e9-f3ac-4548-a4de-d471c158b1f0" resname="8ED·197★ | Lava Axe | Card Name">
         <source>Lava Axe</source>
@@ -3852,7 +3852,7 @@
       </trans-unit>
       <trans-unit id="a83376e9-f3ac-4548-a4de-d471c158b1f0" resname="8ED·197★ | Lava Axe | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to target player or planeswalker.</source>
-        <target state="translated">熔岩斧对目标牌手造成5点伤害。</target>
+        <target state="translated">CARDNAME对目标牌手造成5点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="cf83d5c7-a17c-4350-9432-92a01421b39a" resname="8ED·198 | Lava Hounds | Card Name">
@@ -3865,7 +3865,7 @@
       </trans-unit>
       <trans-unit id="cf83d5c7-a17c-4350-9432-92a01421b39a" resname="8ED·198 | Lava Hounds | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, it deals 4 damage to you.</source>
-        <target state="translated">当熔岩猎犬进场时，它对你造成4点伤害。</target>
+        <target state="translated">当CARDNAME进场时，它对你造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="2010739e-005c-4a26-b744-03b9072792a4" resname="8ED·198★ | Lava Hounds | Card Name">
         <source>Lava Hounds</source>
@@ -3879,7 +3879,7 @@
       </trans-unit>
       <trans-unit id="2010739e-005c-4a26-b744-03b9072792a4" resname="8ED·198★ | Lava Hounds | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, it deals 4 damage to you.</source>
-        <target state="translated">当熔岩猎犬进场时，它对你造成4点伤害。</target>
+        <target state="translated">当CARDNAME进场时，它对你造成4点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="b27a1067-8dff-485a-8781-39d61585c521" resname="8ED·199 | Lesser Gargadon | Card Name">
@@ -3888,7 +3888,7 @@
       </trans-unit>
       <trans-unit id="b27a1067-8dff-485a-8781-39d61585c521" resname="8ED·199 | Lesser Gargadon | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks or blocks, sacrifice a land.</source>
-        <target state="translated">每当小型乳齿巨象进行攻击或阻挡时，牺牲一个地。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，牺牲一个地。</target>
       </trans-unit>
       <trans-unit id="a7329366-a32e-40a8-a438-b92336231ce0" resname="8ED·199★ | Lesser Gargadon | Card Name">
         <source>Lesser Gargadon</source>
@@ -3897,7 +3897,7 @@
       </trans-unit>
       <trans-unit id="a7329366-a32e-40a8-a438-b92336231ce0" resname="8ED·199★ | Lesser Gargadon | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks or blocks, sacrifice a land.</source>
-        <target state="translated">每当小型乳齿巨象进行攻击或阻挡时，牺牲一个地。</target>
+        <target state="translated">每当CARDNAME进行攻击或阻挡时，牺牲一个地。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="a20fee0e-93b8-4dc0-b156-8237271ae66c" resname="8ED·200 | Lightning Blast | Card Name">
@@ -3906,7 +3906,7 @@
       </trans-unit>
       <trans-unit id="a20fee0e-93b8-4dc0-b156-8237271ae66c" resname="8ED·200 | Lightning Blast | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to target creature or player.</source>
-        <target state="translated">闪电冲击波对目标生物或牌手造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="419e447f-dc16-4b01-b701-145c75e6047c" resname="8ED·200★ | Lightning Blast | Card Name">
         <source>Lightning Blast</source>
@@ -3915,7 +3915,7 @@
       </trans-unit>
       <trans-unit id="419e447f-dc16-4b01-b701-145c75e6047c" resname="8ED·200★ | Lightning Blast | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to any target.</source>
-        <target state="translated">闪电冲击波对目标生物或牌手造成4点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成4点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="00cf2252-5ead-47df-8150-06c81dc47584" resname="8ED·201 | Lightning Elemental | Card Name">
@@ -3942,7 +3942,7 @@
       </trans-unit>
       <trans-unit id="d1042a84-4550-4ff3-933e-a9c2d26d1bd3" resname="8ED·202 | Mana Clash | Card Text | Paragraph 1">
         <source>You and target opponent each flip a coin. CARDNAME deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.</source>
-        <target state="translated">你和目标对手各掷一枚硬币，法术力碰撞对每位掷出反面的牌手各造成1点伤害。重复此步骤，直到双方的硬币同时出现正面为止。</target>
+        <target state="translated">你和目标对手各掷一枚硬币，CARDNAME对每位掷出反面的牌手各造成1点伤害。重复此步骤，直到双方的硬币同时出现正面为止。</target>
       </trans-unit>
       <trans-unit id="d1a54ce6-d1a7-4c25-8210-3dbd98c46460" resname="8ED·202★ | Mana Clash | Card Name">
         <source>Mana Clash</source>
@@ -3951,7 +3951,7 @@
       </trans-unit>
       <trans-unit id="d1a54ce6-d1a7-4c25-8210-3dbd98c46460" resname="8ED·202★ | Mana Clash | Card Text | Paragraph 1">
         <source>You and target opponent each flip a coin. CARDNAME deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.</source>
-        <target state="translated">你和目标对手各掷一枚硬币，法术力碰撞对每位掷出反面的牌手各造成1点伤害。重复此步骤，直到双方的硬币同时出现正面为止。</target>
+        <target state="translated">你和目标对手各掷一枚硬币，CARDNAME对每位掷出反面的牌手各造成1点伤害。重复此步骤，直到双方的硬币同时出现正面为止。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="c4e98c12-b5b3-4b0f-af4e-7f2d28dc8637" resname="8ED·203 | Mogg Sentry | Card Name">
@@ -3960,7 +3960,7 @@
       </trans-unit>
       <trans-unit id="c4e98c12-b5b3-4b0f-af4e-7f2d28dc8637" resname="8ED·203 | Mogg Sentry | Card Text | Paragraph 1">
         <source>Whenever an opponent plays a spell, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">每当任何对手使用咒语时，莫葛哨兵得+2/+2直到回合结束。</target>
+        <target state="translated">每当任何对手使用咒语时，CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="be1d54f2-8a3c-4d9a-be05-bbb45cc88e3b" resname="8ED·203★ | Mogg Sentry | Card Name">
         <source>Mogg Sentry</source>
@@ -3969,7 +3969,7 @@
       </trans-unit>
       <trans-unit id="be1d54f2-8a3c-4d9a-be05-bbb45cc88e3b" resname="8ED·203★ | Mogg Sentry | Card Text | Paragraph 1">
         <source>Whenever an opponent casts a spell, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">每当任何对手使用咒语时，莫葛哨兵得+2/+2直到回合结束。</target>
+        <target state="translated">每当任何对手使用咒语时，CARDNAME得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="c85f9623-5900-473c-a3b1-f98473b9a545" resname="8ED·204 | Obliterate | Card Name">
@@ -3978,7 +3978,7 @@
       </trans-unit>
       <trans-unit id="c85f9623-5900-473c-a3b1-f98473b9a545" resname="8ED·204 | Obliterate | Card Text | Paragraph 1">
         <source>CARDNAME can't be countered.</source>
-        <target state="translated">全数抹煞不能被反击。</target>
+        <target state="translated">CARDNAME不能被反击。</target>
       </trans-unit>
       <trans-unit id="c85f9623-5900-473c-a3b1-f98473b9a545" resname="8ED·204 | Obliterate | Card Text | Paragraph 2">
         <source>Destroy all artifacts, creatures, and lands. They can't be regenerated.</source>
@@ -3991,7 +3991,7 @@
       </trans-unit>
       <trans-unit id="1021bcbd-566c-4f31-b148-0517b96a63db" resname="8ED·204★ | Obliterate | Card Text | Paragraph 1">
         <source>This spell can't be countered.</source>
-        <target state="translated">全数抹煞不能被反击。</target>
+        <target state="translated">CARDNAME不能被反击。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="1021bcbd-566c-4f31-b148-0517b96a63db" resname="8ED·204★ | Obliterate | Card Text | Paragraph 2">
@@ -4005,7 +4005,7 @@
       </trans-unit>
       <trans-unit id="1765dee9-ab94-4ca5-9cd7-cf8e228fdd68" resname="8ED·205 | Ogre Taskmaster | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">食人魔工头不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="30c31b9d-903c-4b37-9d61-3c2fb49ee1c2" resname="8ED·205★ | Ogre Taskmaster | Card Name">
         <source>Ogre Taskmaster</source>
@@ -4014,7 +4014,7 @@
       </trans-unit>
       <trans-unit id="30c31b9d-903c-4b37-9d61-3c2fb49ee1c2" resname="8ED·205★ | Ogre Taskmaster | Card Text | Paragraph 1">
         <source>CARDNAME can't block.</source>
-        <target state="translated">食人魔工头不能进行阻挡。</target>
+        <target state="translated">CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="42641800-e209-4326-ae28-77ec83ac4b75" resname="8ED·206 | Okk | Card Name">
@@ -4023,11 +4023,11 @@
       </trans-unit>
       <trans-unit id="42641800-e209-4326-ae28-77ec83ac4b75" resname="8ED·206 | Okk | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless a creature with greater power also attacks.</source>
-        <target state="translated">除非和力量较高的生物同时攻击，否则欧葛不能攻击。</target>
+        <target state="translated">除非和力量较高的生物同时攻击，否则CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="42641800-e209-4326-ae28-77ec83ac4b75" resname="8ED·206 | Okk | Card Text | Paragraph 2">
         <source>CARDNAME can't block unless a creature with greater power also blocks.</source>
-        <target state="translated">除非和力量较高的生物同时进行阻挡，否则欧葛不能进行阻挡。</target>
+        <target state="translated">除非和力量较高的生物同时进行阻挡，否则CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="4737c35a-3f90-4ed6-bce5-5761879c2185" resname="8ED·206★ | Okk | Card Name">
         <source>Okk</source>
@@ -4036,12 +4036,12 @@
       </trans-unit>
       <trans-unit id="4737c35a-3f90-4ed6-bce5-5761879c2185" resname="8ED·206★ | Okk | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless a creature with greater power also attacks.</source>
-        <target state="translated">除非和力量较高的生物同时攻击，否则欧葛不能攻击。</target>
+        <target state="translated">除非和力量较高的生物同时攻击，否则CARDNAME不能攻击。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="4737c35a-3f90-4ed6-bce5-5761879c2185" resname="8ED·206★ | Okk | Card Text | Paragraph 2">
         <source>CARDNAME can't block unless a creature with greater power also blocks.</source>
-        <target state="translated">除非和力量较高的生物同时进行阻挡，否则欧葛不能进行阻挡。</target>
+        <target state="translated">除非和力量较高的生物同时进行阻挡，否则CARDNAME不能进行阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="d5d114ae-f574-45dd-903b-7d46d1121294" resname="8ED·207 | Orcish Artillery | Card Name">
@@ -4050,7 +4050,7 @@
       </trans-unit>
       <trans-unit id="d5d114ae-f574-45dd-903b-7d46d1121294" resname="8ED·207 | Orcish Artillery | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 2 damage to target creature or player and 3 damage to you.</source>
-        <target state="translated">{T}：半兽人的大炮对目标生物或牌手造成2点伤害，并且对你造成3点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成2点伤害，并且对你造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="5096e808-64a3-43b7-8555-28576fc574c1" resname="8ED·207★ | Orcish Artillery | Card Name">
         <source>Orcish Artillery</source>
@@ -4059,7 +4059,7 @@
       </trans-unit>
       <trans-unit id="5096e808-64a3-43b7-8555-28576fc574c1" resname="8ED·207★ | Orcish Artillery | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 2 damage to any target and 3 damage to you.</source>
-        <target state="translated">{T}：半兽人的大炮对目标生物或牌手造成2点伤害，并且对你造成3点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标生物或牌手造成2点伤害，并且对你造成3点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="7f3948e0-8597-4927-90ce-affa949e3013" resname="8ED·208 | Orcish Spy | Card Name">
@@ -4104,7 +4104,7 @@
       </trans-unit>
       <trans-unit id="34ec6e8f-a8be-4efe-8082-d807378066b1" resname="8ED·210 | Pyroclasm | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each creature.</source>
-        <target state="translated">烈火断层对每个生物各造成2点伤害。</target>
+        <target state="translated">CARDNAME对每个生物各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="fc79823f-7ae1-4c22-9c11-8c729eea6c4f" resname="8ED·210★ | Pyroclasm | Card Name">
         <source>Pyroclasm</source>
@@ -4113,7 +4113,7 @@
       </trans-unit>
       <trans-unit id="fc79823f-7ae1-4c22-9c11-8c729eea6c4f" resname="8ED·210★ | Pyroclasm | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each creature.</source>
-        <target state="translated">烈火断层对每个生物各造成2点伤害。</target>
+        <target state="translated">CARDNAME对每个生物各造成2点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="dabea8c3-630f-4b19-8d1e-47998b39866f" resname="8ED·211 | Pyrotechnics | Card Name">
@@ -4122,7 +4122,7 @@
       </trans-unit>
       <trans-unit id="dabea8c3-630f-4b19-8d1e-47998b39866f" resname="8ED·211 | Pyrotechnics | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage divided as you choose among any number of target creatures and/or players.</source>
-        <target state="translated">烟火术造成4点伤害，你可任意分配至任意数量的目标生物和／或牌手。</target>
+        <target state="translated">CARDNAME造成4点伤害，你可任意分配至任意数量的目标生物和／或牌手。</target>
       </trans-unit>
       <trans-unit id="447231d2-31b3-4e4c-bc2e-ab97203ab205" resname="8ED·211★ | Pyrotechnics | Card Name">
         <source>Pyrotechnics</source>
@@ -4131,7 +4131,7 @@
       </trans-unit>
       <trans-unit id="447231d2-31b3-4e4c-bc2e-ab97203ab205" resname="8ED·211★ | Pyrotechnics | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage divided as you choose among any number of targets.</source>
-        <target state="translated">烟火术造成4点伤害，你可任意分配至任意数量的目标生物和／或牌手。</target>
+        <target state="translated">CARDNAME造成4点伤害，你可任意分配至任意数量的目标生物和／或牌手。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="165dc9fc-22b3-48ac-b446-5599af75917e" resname="8ED·212 | Raging Goblin | Card Name">
@@ -4194,7 +4194,7 @@
       </trans-unit>
       <trans-unit id="43d9c248-2360-4fdc-9a0f-49d350c11e95" resname="8ED·215 | Ridgeline Rager | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：凸脊狂兽得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="3b58c329-bd50-4b7c-80c8-77eaf0b40a20" resname="8ED·215★ | Ridgeline Rager | Card Name">
         <source>Ridgeline Rager</source>
@@ -4203,7 +4203,7 @@
       </trans-unit>
       <trans-unit id="3b58c329-bd50-4b7c-80c8-77eaf0b40a20" resname="8ED·215★ | Ridgeline Rager | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：凸脊狂兽得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="d805f1f4-ac45-404d-b52c-4d5eb019e24a" resname="8ED·216 | Rukh Egg | Card Name">
@@ -4212,7 +4212,7 @@
       </trans-unit>
       <trans-unit id="d805f1f4-ac45-404d-b52c-4d5eb019e24a" resname="8ED·216 | Rukh Egg | Card Text | Paragraph 1">
         <source>When CARDNAME is put into a graveyard from play, put a 4/4 red Rukh creature token with flying into play at end of turn.</source>
-        <target state="translated">当鲁克鸟蛋从场上进入坟墓场，在回合结束时将一个4/4红色，具飞行异能的鲁克鸟衍生物放置进场。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场，在回合结束时将一个4/4红色，具飞行异能的鲁克鸟衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="99a2fbef-a340-4c08-9c77-a157948cacdf" resname="8ED·216★ | Rukh Egg | Card Name">
         <source>Rukh Egg</source>
@@ -4221,7 +4221,7 @@
       </trans-unit>
       <trans-unit id="99a2fbef-a340-4c08-9c77-a157948cacdf" resname="8ED·216★ | Rukh Egg | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.</source>
-        <target state="translated">当鲁克鸟蛋从场上进入坟墓场，在回合结束时将一个4/4红色，具飞行异能的鲁克鸟衍生物放置进场。</target>
+        <target state="translated">当CARDNAME从场上进入坟墓场，在回合结束时将一个4/4红色，具飞行异能的鲁克鸟衍生物放置进场。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="c85964eb-c586-4e62-9a19-6a665e6ad98d" resname="8ED·217 | Sabretooth Tiger | Card Name">
@@ -4248,7 +4248,7 @@
       </trans-unit>
       <trans-unit id="61afd3c5-7103-4247-8bb9-747532ae4265" resname="8ED·218 | Searing Wind | Card Text | Paragraph 1">
         <source>CARDNAME deals 10 damage to target creature or player.</source>
-        <target state="translated">炙热之风对目标生物或牌手造成10点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成10点伤害。</target>
       </trans-unit>
       <trans-unit id="4037b513-a733-4184-91f4-5e5848120dd6" resname="8ED·218★ | Searing Wind | Card Name">
         <source>Searing Wind</source>
@@ -4257,7 +4257,7 @@
       </trans-unit>
       <trans-unit id="4037b513-a733-4184-91f4-5e5848120dd6" resname="8ED·218★ | Searing Wind | Card Text | Paragraph 1">
         <source>CARDNAME deals 10 damage to any target.</source>
-        <target state="translated">炙热之风对目标生物或牌手造成10点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成10点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="91464144-afb8-4fff-bf5c-2d9bfca408ca" resname="8ED·219 | Seismic Assault | Card Name">
@@ -4266,7 +4266,7 @@
       </trans-unit>
       <trans-unit id="91464144-afb8-4fff-bf5c-2d9bfca408ca" resname="8ED·219 | Seismic Assault | Card Text | Paragraph 1">
         <source>Discard a land card from your hand: CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">从你手上弃掉一张地牌：地动来袭对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">从你手上弃掉一张地牌：CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="3261ab03-6e00-41b8-a863-2b72d1ffbb9a" resname="8ED·219★ | Seismic Assault | Card Name">
         <source>Seismic Assault</source>
@@ -4275,7 +4275,7 @@
       </trans-unit>
       <trans-unit id="3261ab03-6e00-41b8-a863-2b72d1ffbb9a" resname="8ED·219★ | Seismic Assault | Card Text | Paragraph 1">
         <source>Discard a land card: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">从你手上弃掉一张地牌：地动来袭对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">从你手上弃掉一张地牌：CARDNAME对目标生物或牌手造成2点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="818401a7-593d-4f04-a782-9fa486b8c2f6" resname="8ED·220 | Shatter | Card Name">
@@ -4306,7 +4306,7 @@
       </trans-unit>
       <trans-unit id="e9ac007d-1616-449c-92d5-1d321235e733" resname="8ED·221 | Shivan Dragon | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：西瓦巨龙得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d08a0542-f72a-422d-a8cf-3d37fdb5d375" resname="8ED·221★ | Shivan Dragon | Card Name">
         <source>Shivan Dragon</source>
@@ -4320,7 +4320,7 @@
       </trans-unit>
       <trans-unit id="d08a0542-f72a-422d-a8cf-3d37fdb5d375" resname="8ED·221★ | Shivan Dragon | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：西瓦巨龙得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="daef5f10-ccb5-4304-b04f-b52a7d2f4158" resname="8ED·222 | Shock | Card Name">
@@ -4329,7 +4329,7 @@
       </trans-unit>
       <trans-unit id="daef5f10-ccb5-4304-b04f-b52a7d2f4158" resname="8ED·222 | Shock | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">电震对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="0f568875-9ccb-487f-8977-cce816bb3a28" resname="8ED·222★ | Shock | Card Name">
         <source>Shock</source>
@@ -4338,7 +4338,7 @@
       </trans-unit>
       <trans-unit id="0f568875-9ccb-487f-8977-cce816bb3a28" resname="8ED·222★ | Shock | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">电震对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="49fe44af-5d8f-44ee-b767-2267917cf4bf" resname="8ED·223 | Shock Troops | Card Name">
@@ -4347,7 +4347,7 @@
       </trans-unit>
       <trans-unit id="49fe44af-5d8f-44ee-b767-2267917cf4bf" resname="8ED·223 | Shock Troops | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: CARDNAME deals 2 damage to target creature or player.</source>
-        <target state="translated">牺牲震撼部队：震撼部队对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">牺牲CARDNAME：CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="c749a38c-8c58-4fdf-903d-6e05eb993858" resname="8ED·223★ | Shock Troops | Card Name">
         <source>Shock Troops</source>
@@ -4356,7 +4356,7 @@
       </trans-unit>
       <trans-unit id="c749a38c-8c58-4fdf-903d-6e05eb993858" resname="8ED·223★ | Shock Troops | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: It deals 2 damage to any target.</source>
-        <target state="translated">牺牲震撼部队：震撼部队对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">牺牲CARDNAME：CARDNAME对目标生物或牌手造成2点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="dfdfe2a9-1323-4f15-b2ce-d8dd404b914d" resname="8ED·224 | Sizzle | Card Name">
@@ -4365,7 +4365,7 @@
       </trans-unit>
       <trans-unit id="dfdfe2a9-1323-4f15-b2ce-d8dd404b914d" resname="8ED·224 | Sizzle | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to each opponent.</source>
-        <target state="translated">嘶爆对每位对手各造成3点伤害。</target>
+        <target state="translated">CARDNAME对每位对手各造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="5d39efe8-9676-4e82-8e5e-0ed2f4bcbcac" resname="8ED·224★ | Sizzle | Card Name">
         <source>Sizzle</source>
@@ -4374,7 +4374,7 @@
       </trans-unit>
       <trans-unit id="5d39efe8-9676-4e82-8e5e-0ed2f4bcbcac" resname="8ED·224★ | Sizzle | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to each opponent.</source>
-        <target state="translated">嘶爆对每位对手各造成3点伤害。</target>
+        <target state="translated">CARDNAME对每位对手各造成3点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="61bf7f43-c8db-417e-8600-3124f5fab097" resname="8ED·225 | Stone Rain | Card Name">
@@ -4401,7 +4401,7 @@
       </trans-unit>
       <trans-unit id="74fe1060-3069-46b7-9a84-916d87b30e6e" resname="8ED·226 | Sudden Impact | Card Text | Paragraph 1">
         <source>CARDNAME deals damage equal to the number of cards in target player's hand to that player.</source>
-        <target state="translated">猛然撞击对目标牌手造成等同于该牌手之手牌数量的伤害。</target>
+        <target state="translated">CARDNAME对目标牌手造成等同于该牌手之手牌数量的伤害。</target>
       </trans-unit>
       <trans-unit id="58bee47e-cd0f-422a-855d-325fa49879a7" resname="8ED·226★ | Sudden Impact | Card Name">
         <source>Sudden Impact</source>
@@ -4410,7 +4410,7 @@
       </trans-unit>
       <trans-unit id="58bee47e-cd0f-422a-855d-325fa49879a7" resname="8ED·226★ | Sudden Impact | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to target player equal to the number of cards in that player's hand.</source>
-        <target state="translated">猛然撞击对目标牌手造成等同于该牌手之手牌数量的伤害。</target>
+        <target state="translated">CARDNAME对目标牌手造成等同于该牌手之手牌数量的伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="c9e8ad32-a701-4b77-bb7e-0e440e4072da" resname="8ED·227 | Thieves' Auction | Card Name">
@@ -4437,7 +4437,7 @@
       </trans-unit>
       <trans-unit id="7d47f27d-5a25-4d2a-b2a2-027b579b881b" resname="8ED·228 | Tremor | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature without flying.</source>
-        <target state="translated">地动对每个不具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个不具飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="0fef4049-8ec2-49c0-8a0a-1b057c558695" resname="8ED·228★ | Tremor | Card Name">
         <source>Tremor</source>
@@ -4446,7 +4446,7 @@
       </trans-unit>
       <trans-unit id="0fef4049-8ec2-49c0-8a0a-1b057c558695" resname="8ED·228★ | Tremor | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature without flying.</source>
-        <target state="translated">地动对每个不具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">CARDNAME对每个不具飞行异能的生物各造成1点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="7fe7c1b5-6077-4b6c-a26b-8201f49dad10" resname="8ED·229 | Two-Headed Dragon | Card Name">
@@ -4459,15 +4459,15 @@
       </trans-unit>
       <trans-unit id="7fe7c1b5-6077-4b6c-a26b-8201f49dad10" resname="8ED·229 | Two-Headed Dragon | Card Text | Paragraph 2">
         <source>{1}{R}: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">{1}{R}：双头龙得+2/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="7fe7c1b5-6077-4b6c-a26b-8201f49dad10" resname="8ED·229 | Two-Headed Dragon | Card Text | Paragraph 3">
         <source>CARDNAME can't be blocked except by two or more creatures.</source>
-        <target state="translated">双头龙只能被两个或两个以上的生物阻挡。</target>
+        <target state="translated">CARDNAME只能被两个或两个以上的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="7fe7c1b5-6077-4b6c-a26b-8201f49dad10" resname="8ED·229 | Two-Headed Dragon | Card Text | Paragraph 4">
         <source>CARDNAME may block an additional creature.</source>
-        <target state="translated">双头龙可以额外多阻挡一个生物。</target>
+        <target state="translated">CARDNAME可以额外多阻挡一个生物。</target>
       </trans-unit>
       <trans-unit id="105068c1-a5e5-4248-82b6-a521ba1e5205" resname="8ED·229★ | Two-Headed Dragon | Card Name">
         <source>Two-Headed Dragon</source>
@@ -4481,17 +4481,17 @@
       </trans-unit>
       <trans-unit id="105068c1-a5e5-4248-82b6-a521ba1e5205" resname="8ED·229★ | Two-Headed Dragon | Card Text | Paragraph 2">
         <source>Menace (This creature can't be blocked except by two or more creatures.)</source>
-        <target state="translated">{1}{R}：双头龙得+2/+0直到回合结束。</target>
+        <target state="translated">{1}{R}：CARDNAME得+2/+0直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="105068c1-a5e5-4248-82b6-a521ba1e5205" resname="8ED·229★ | Two-Headed Dragon | Card Text | Paragraph 3">
         <source>CARDNAME can block an additional creature each combat.</source>
-        <target state="translated">双头龙只能被两个或两个以上的生物阻挡。</target>
+        <target state="translated">CARDNAME只能被两个或两个以上的生物阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="105068c1-a5e5-4248-82b6-a521ba1e5205" resname="8ED·229★ | Two-Headed Dragon | Card Text | Paragraph 4">
         <source>{1}{R}: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">双头龙可以额外多阻挡一个生物。</target>
+        <target state="translated">CARDNAME可以额外多阻挡一个生物。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="60e80de4-1d8f-4a4a-8108-5d3c36dce07b" resname="8ED·230 | Viashino Sandstalker | Card Name">
@@ -4504,7 +4504,7 @@
       </trans-unit>
       <trans-unit id="60e80de4-1d8f-4a4a-8108-5d3c36dce07b" resname="8ED·230 | Viashino Sandstalker | Card Text | Paragraph 2">
         <source>At end of turn, return CARDNAME to its owner's hand. (Return it only if it's in play.)</source>
-        <target state="translated">在回合结束时，将凡尔西诺沙潜者移回其拥有者手上。（若它在场上，才将其移回手上）</target>
+        <target state="translated">在回合结束时，将CARDNAME移回其拥有者手上。（若它在场上，才将其移回手上）</target>
       </trans-unit>
       <trans-unit id="14230e3a-2088-4ebc-bf09-4b438ee894ed" resname="8ED·230★ | Viashino Sandstalker | Card Name">
         <source>Viashino Sandstalker</source>
@@ -4518,7 +4518,7 @@
       </trans-unit>
       <trans-unit id="14230e3a-2088-4ebc-bf09-4b438ee894ed" resname="8ED·230★ | Viashino Sandstalker | Card Text | Paragraph 2">
         <source>At the beginning of the end step, return CARDNAME to its owner's hand. (Return it only if it's on the battlefield.)</source>
-        <target state="translated">在回合结束时，将凡尔西诺沙潜者移回其拥有者手上。（若它在场上，才将其移回手上）</target>
+        <target state="translated">在回合结束时，将CARDNAME移回其拥有者手上。（若它在场上，才将其移回手上）</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="59c47e6a-71d8-4eba-ad05-0e6745f81600" resname="8ED·231 | Volcanic Hammer | Card Name">
@@ -4527,7 +4527,7 @@
       </trans-unit>
       <trans-unit id="59c47e6a-71d8-4eba-ad05-0e6745f81600" resname="8ED·231 | Volcanic Hammer | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature or player.</source>
-        <target state="translated">火山锤对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="d539abc6-d00a-4969-ae0f-feb189b90428" resname="8ED·231★ | Volcanic Hammer | Card Name">
         <source>Volcanic Hammer</source>
@@ -4536,7 +4536,7 @@
       </trans-unit>
       <trans-unit id="d539abc6-d00a-4969-ae0f-feb189b90428" resname="8ED·231★ | Volcanic Hammer | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">火山锤对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="718da336-ad97-41a6-86bd-4f124e2cc716" resname="8ED·232 | Wall of Stone | Card Name">
@@ -4626,7 +4626,7 @@
       </trans-unit>
       <trans-unit id="def682d0-6091-49c8-ac46-da0884b8cdb3" resname="8ED·236 | Canopy Spider | Card Text | Paragraph 1">
         <source>CARDNAME may block as though it had flying.</source>
-        <target state="translated">林冠蜘蛛可以视同具有飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。</target>
       </trans-unit>
       <trans-unit id="b8e8f4bf-2634-4f9e-9898-7cbb618c8230" resname="8ED·236★ | Canopy Spider | Card Name">
         <source>Canopy Spider</source>
@@ -4635,7 +4635,7 @@
       </trans-unit>
       <trans-unit id="b8e8f4bf-2634-4f9e-9898-7cbb618c8230" resname="8ED·236★ | Canopy Spider | Card Text | Paragraph 1">
         <source>Reach (This creature can block creatures with flying.)</source>
-        <target state="translated">林冠蜘蛛可以视同具有飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="e1ce4bab-6eb1-421f-b425-7bb0076defc7" resname="8ED·237 | Choke | Card Name">
@@ -4725,7 +4725,7 @@
       </trans-unit>
       <trans-unit id="4a1da8da-12b2-47aa-9565-92d305061798" resname="8ED·242 | Elvish Lyrist | Card Text | Paragraph 1">
         <source>{G}, {T}, Sacrifice CARDNAME: Destroy target enchantment.</source>
-        <target state="translated">{G}，{T}，牺牲地精诗人：消灭目标结界。</target>
+        <target state="translated">{G}，{T}，牺牲CARDNAME：消灭目标结界。</target>
       </trans-unit>
       <trans-unit id="d4580c08-939d-4c41-9f61-997584f191e9" resname="8ED·242★ | Elvish Lyrist | Card Name">
         <source>Elvish Lyrist</source>
@@ -4734,7 +4734,7 @@
       </trans-unit>
       <trans-unit id="d4580c08-939d-4c41-9f61-997584f191e9" resname="8ED·242★ | Elvish Lyrist | Card Text | Paragraph 1">
         <source>{G}, {T}, Sacrifice CARDNAME: Destroy target enchantment.</source>
-        <target state="translated">{G}，{T}，牺牲地精诗人：消灭目标结界。</target>
+        <target state="translated">{G}，{T}，牺牲CARDNAME：消灭目标结界。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="88244522-1cf3-40a6-9ff7-bb78f2151b60" resname="8ED·243 | Elvish Pioneer | Card Name">
@@ -4743,7 +4743,7 @@
       </trans-unit>
       <trans-unit id="88244522-1cf3-40a6-9ff7-bb78f2151b60" resname="8ED·243 | Elvish Pioneer | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, you may put a basic land card from your hand into play tapped.</source>
-        <target state="translated">当地精拓荒者进场时，你可以从你手上将一张基本地牌横置进场。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你手上将一张基本地牌横置进场。</target>
       </trans-unit>
       <trans-unit id="a7311553-f028-4246-94e3-7bcbf3870aed" resname="8ED·243★ | Elvish Pioneer | Card Name">
         <source>Elvish Pioneer</source>
@@ -4752,7 +4752,7 @@
       </trans-unit>
       <trans-unit id="a7311553-f028-4246-94e3-7bcbf3870aed" resname="8ED·243★ | Elvish Pioneer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may put a basic land card from your hand onto the battlefield tapped.</source>
-        <target state="translated">当地精拓荒者进场时，你可以从你手上将一张基本地牌横置进场。</target>
+        <target state="translated">当CARDNAME进场时，你可以从你手上将一张基本地牌横置进场。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="7031bb78-d35c-4d69-b4d2-df0418add14c" resname="8ED·244 | Elvish Piper | Card Name">
@@ -4779,7 +4779,7 @@
       </trans-unit>
       <trans-unit id="47ebab87-fd0c-43d0-bde1-e36065d764dd" resname="8ED·245 | Elvish Scrapper | Card Text | Paragraph 1">
         <source>{G}, {T}, Sacrifice CARDNAME: Destroy target artifact.</source>
-        <target state="translated">{G}，{T}，牺牲地精拆解手：消灭目标神器。</target>
+        <target state="translated">{G}，{T}，牺牲CARDNAME：消灭目标神器。</target>
       </trans-unit>
       <trans-unit id="f5d85820-dded-4739-99c9-44ecfb0b3752" resname="8ED·245★ | Elvish Scrapper | Card Name">
         <source>Elvish Scrapper</source>
@@ -4788,7 +4788,7 @@
       </trans-unit>
       <trans-unit id="f5d85820-dded-4739-99c9-44ecfb0b3752" resname="8ED·245★ | Elvish Scrapper | Card Text | Paragraph 1">
         <source>{G}, {T}, Sacrifice CARDNAME: Destroy target artifact.</source>
-        <target state="translated">{G}，{T}，牺牲地精拆解手：消灭目标神器。</target>
+        <target state="translated">{G}，{T}，牺牲CARDNAME：消灭目标神器。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="5c512d95-df1a-4712-8bba-7e20047d419f" resname="8ED·246 | Emperor Crocodile | Card Name">
@@ -4797,7 +4797,7 @@
       </trans-unit>
       <trans-unit id="5c512d95-df1a-4712-8bba-7e20047d419f" resname="8ED·246 | Emperor Crocodile | Card Text | Paragraph 1">
         <source>When you control no other creatures, sacrifice CARDNAME.</source>
-        <target state="translated">当你未操控其他生物时，牺牲帝王鳄鱼。</target>
+        <target state="translated">当你未操控其他生物时，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="88eb31da-b350-4cf7-b851-21e48e3270d0" resname="8ED·246★ | Emperor Crocodile | Card Name">
         <source>Emperor Crocodile</source>
@@ -4806,7 +4806,7 @@
       </trans-unit>
       <trans-unit id="88eb31da-b350-4cf7-b851-21e48e3270d0" resname="8ED·246★ | Emperor Crocodile | Card Text | Paragraph 1">
         <source>When you control no other creatures, sacrifice CARDNAME.</source>
-        <target state="translated">当你未操控其他生物时，牺牲帝王鳄鱼。</target>
+        <target state="translated">当你未操控其他生物时，牺牲CARDNAME。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="c5be15b0-e754-4d1f-a36f-901c20641a40" resname="8ED·247 | Fecundity | Card Name">
@@ -4851,7 +4851,7 @@
       </trans-unit>
       <trans-unit id="5d621fad-3a50-4910-a302-23ae9e77ebde" resname="8ED·249 | Foratog | Card Text | Paragraph 1">
         <source>{G}, Sacrifice a Forest: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">{G}，牺牲一个树林：树木阿托格得+2/+2直到回合结束。</target>
+        <target state="translated">{G}，牺牲一个树林：CARDNAME得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="56fb6e41-bbbe-4f32-bb0a-9dc8295ff9c8" resname="8ED·249★ | Foratog | Card Name">
         <source>Foratog</source>
@@ -4860,7 +4860,7 @@
       </trans-unit>
       <trans-unit id="56fb6e41-bbbe-4f32-bb0a-9dc8295ff9c8" resname="8ED·249★ | Foratog | Card Text | Paragraph 1">
         <source>{G}, Sacrifice a Forest: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">{G}，牺牲一个树林：树木阿托格得+2/+2直到回合结束。</target>
+        <target state="translated">{G}，牺牲一个树林：CARDNAME得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="79324f73-25cd-477a-b4f0-fd3e1319e451" resname="8ED·250 | Fungusaur | Card Name">
@@ -4869,7 +4869,7 @@
       </trans-unit>
       <trans-unit id="79324f73-25cd-477a-b4f0-fd3e1319e451" resname="8ED·250 | Fungusaur | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt damage, put a +1/+1 counter on it. (The damage is dealt before the counter is put on.)</source>
-        <target state="translated">每当真菌兽受到伤害时，在其上放置一个+1/+1指示物。（先受到伤害，然后才放置指示物）</target>
+        <target state="translated">每当CARDNAME受到伤害时，在其上放置一个+1/+1指示物。（先受到伤害，然后才放置指示物）</target>
       </trans-unit>
       <trans-unit id="b30a3398-892c-4481-af2d-76ac437f9277" resname="8ED·250★ | Fungusaur | Card Name">
         <source>Fungusaur</source>
@@ -4878,7 +4878,7 @@
       </trans-unit>
       <trans-unit id="b30a3398-892c-4481-af2d-76ac437f9277" resname="8ED·250★ | Fungusaur | Card Text | Paragraph 1">
         <source>Whenever CARDNAME is dealt damage, put a +1/+1 counter on it.</source>
-        <target state="translated">每当真菌兽受到伤害时，在其上放置一个+1/+1指示物。（先受到伤害，然后才放置指示物）</target>
+        <target state="translated">每当CARDNAME受到伤害时，在其上放置一个+1/+1指示物。（先受到伤害，然后才放置指示物）</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="81c125cd-ea49-4511-a78c-42c1f7ce802d" resname="8ED·251 | Fyndhorn Elder | Card Name">
@@ -4923,7 +4923,7 @@
       </trans-unit>
       <trans-unit id="10e9dd66-8580-4c96-9ab9-cc392dc6ee74" resname="8ED·253 | Giant Badger | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks, it gets +2/+2 until end of turn.</source>
-        <target state="translated">每当巨獾进行阻挡时，它得+2/+2直到回合结束。</target>
+        <target state="translated">每当CARDNAME进行阻挡时，它得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="3c5d5046-c23b-4414-a752-0f2a27abc745" resname="8ED·253★ | Giant Badger | Card Name">
         <source>Giant Badger</source>
@@ -4932,7 +4932,7 @@
       </trans-unit>
       <trans-unit id="3c5d5046-c23b-4414-a752-0f2a27abc745" resname="8ED·253★ | Giant Badger | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks, it gets +2/+2 until end of turn.</source>
-        <target state="translated">每当巨獾进行阻挡时，它得+2/+2直到回合结束。</target>
+        <target state="translated">每当CARDNAME进行阻挡时，它得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="1210c342-1473-44ae-bcaa-e6b3ef9aea90" resname="8ED·254 | Giant Growth | Card Name">
@@ -4959,7 +4959,7 @@
       </trans-unit>
       <trans-unit id="4632f3d9-9cdf-4871-9771-e8a8b1eaed52" resname="8ED·255 | Giant Spider | Card Text | Paragraph 1">
         <source>CARDNAME may block as though it had flying.</source>
-        <target state="translated">巨型蜘蛛可以视同具有飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。</target>
       </trans-unit>
       <trans-unit id="fd2be9ed-7bac-4b80-a03b-a08ec11a05f4" resname="8ED·255★ | Giant Spider | Card Name">
         <source>Giant Spider</source>
@@ -4968,7 +4968,7 @@
       </trans-unit>
       <trans-unit id="fd2be9ed-7bac-4b80-a03b-a08ec11a05f4" resname="8ED·255★ | Giant Spider | Card Text | Paragraph 1">
         <source>Reach (This creature can block creatures with flying.)</source>
-        <target state="translated">巨型蜘蛛可以视同具有飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="72d5d8b0-e22d-4bb3-9e36-5038601d22f7" resname="8ED·256 | Grizzly Bears | Card Name">
@@ -4986,7 +4986,7 @@
       </trans-unit>
       <trans-unit id="fffce2f7-b619-4483-a75e-916343194641" resname="8ED·257 | Horned Troll | Card Text | Paragraph 1">
         <source>{G}: Regenerate CARDNAME.</source>
-        <target state="translated">{G}：重生角巨魔。</target>
+        <target state="translated">{G}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="ec43c17e-c2b6-4435-b27a-93672537c471" resname="8ED·257★ | Horned Troll | Card Name">
         <source>Horned Troll</source>
@@ -4995,7 +4995,7 @@
       </trans-unit>
       <trans-unit id="ec43c17e-c2b6-4435-b27a-93672537c471" resname="8ED·257★ | Horned Troll | Card Text | Paragraph 1">
         <source>{G}: Regenerate CARDNAME.</source>
-        <target state="translated">{G}：重生角巨魔。</target>
+        <target state="translated">{G}：重生CARDNAME。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="edda2de4-22f6-4d33-b182-3ae5d105f1f6" resname="8ED·258 | Hunted Wumpus | Card Name">
@@ -5004,7 +5004,7 @@
       </trans-unit>
       <trans-unit id="edda2de4-22f6-4d33-b182-3ae5d105f1f6" resname="8ED·258 | Hunted Wumpus | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, each other player may put a creature card from his or her hand into play.</source>
-        <target state="translated">当捕获的狮头象进场时，其他每位牌手都可以从手上将一张生物牌在其操控下放置进场。</target>
+        <target state="translated">当CARDNAME进场时，其他每位牌手都可以从手上将一张生物牌在其操控下放置进场。</target>
       </trans-unit>
       <trans-unit id="03523c81-ab2e-4c15-97b0-d5b85d7c62b6" resname="8ED·258★ | Hunted Wumpus | Card Name">
         <source>Hunted Wumpus</source>
@@ -5013,7 +5013,7 @@
       </trans-unit>
       <trans-unit id="03523c81-ab2e-4c15-97b0-d5b85d7c62b6" resname="8ED·258★ | Hunted Wumpus | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each other player may put a creature card from their hand onto the battlefield.</source>
-        <target state="translated">当捕获的狮头象进场时，其他每位牌手都可以从手上将一张生物牌在其操控下放置进场。</target>
+        <target state="translated">当CARDNAME进场时，其他每位牌手都可以从手上将一张生物牌在其操控下放置进场。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="a9d664dc-4477-46b3-9dd7-022c94090254" resname="8ED·259 | Lhurgoyf | Card Name">
@@ -5022,7 +5022,7 @@
       </trans-unit>
       <trans-unit id="a9d664dc-4477-46b3-9dd7-022c94090254" resname="8ED·259 | Lhurgoyf | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.</source>
-        <target state="translated">拉高耶夫的力量等同于所有坟墓场内生物牌的数量，其防御力等同于前述的数量加1。</target>
+        <target state="translated">CARDNAME的力量等同于所有坟墓场内生物牌的数量，其防御力等同于前述的数量加1。</target>
       </trans-unit>
       <trans-unit id="10b1d394-6135-4064-971b-8df515e7ba50" resname="8ED·259★ | Lhurgoyf | Card Name">
         <source>Lhurgoyf</source>
@@ -5031,7 +5031,7 @@
       </trans-unit>
       <trans-unit id="10b1d394-6135-4064-971b-8df515e7ba50" resname="8ED·259★ | Lhurgoyf | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.</source>
-        <target state="translated">拉高耶夫的力量等同于所有坟墓场内生物牌的数量，其防御力等同于前述的数量加1。</target>
+        <target state="translated">CARDNAME的力量等同于所有坟墓场内生物牌的数量，其防御力等同于前述的数量加1。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="93a22646-0e36-491e-9b90-39fad60d64bf" resname="8ED·260 | Living Terrain | Card Name">
@@ -5058,7 +5058,7 @@
       </trans-unit>
       <trans-unit id="05ce566a-9385-47a5-8420-f3ffcd88eae9" resname="8ED·261 | Llanowar Behemoth | Card Text | Paragraph 1">
         <source>Tap an untapped creature you control: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">横置一个由你操控且未横置的生物：罗堰贝西摩斯得+1/+1直到回合结束。</target>
+        <target state="translated">横置一个由你操控且未横置的生物：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="4c8f2115-c003-432d-8cef-b901cdaf3510" resname="8ED·261★ | Llanowar Behemoth | Card Name">
         <source>Llanowar Behemoth</source>
@@ -5067,7 +5067,7 @@
       </trans-unit>
       <trans-unit id="4c8f2115-c003-432d-8cef-b901cdaf3510" resname="8ED·261★ | Llanowar Behemoth | Card Text | Paragraph 1">
         <source>Tap an untapped creature you control: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">横置一个由你操控且未横置的生物：罗堰贝西摩斯得+1/+1直到回合结束。</target>
+        <target state="translated">横置一个由你操控且未横置的生物：CARDNAME得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="309d32e9-c9b0-46bb-8d99-1ddd2e34a60b" resname="8ED·262 | Lone Wolf | Card Name">
@@ -5076,7 +5076,7 @@
       </trans-unit>
       <trans-unit id="309d32e9-c9b0-46bb-8d99-1ddd2e34a60b" resname="8ED·262 | Lone Wolf | Card Text | Paragraph 1">
         <source>You may have CARDNAME deal its combat damage to defending player as though it weren't blocked.</source>
-        <target state="translated">你可以令独行狼如同未受阻挡地对防御牌手造成战斗伤害。</target>
+        <target state="translated">你可以令CARDNAME如同未受阻挡地对防御牌手造成战斗伤害。</target>
       </trans-unit>
       <trans-unit id="dd0c0701-9e5f-42d1-b269-b33225d6a54b" resname="8ED·262★ | Lone Wolf | Card Name">
         <source>Lone Wolf</source>
@@ -5085,7 +5085,7 @@
       </trans-unit>
       <trans-unit id="dd0c0701-9e5f-42d1-b269-b33225d6a54b" resname="8ED·262★ | Lone Wolf | Card Text | Paragraph 1">
         <source>You may have CARDNAME assign its combat damage as though it weren't blocked.</source>
-        <target state="translated">你可以令独行狼如同未受阻挡地对防御牌手造成战斗伤害。</target>
+        <target state="translated">你可以令CARDNAME如同未受阻挡地对防御牌手造成战斗伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="a5362cf9-a55b-4df5-941e-d738a68281cf" resname="8ED·263 | Lure | Card Name">
@@ -5112,7 +5112,7 @@
       </trans-unit>
       <trans-unit id="728aea83-5817-4ec9-8d73-3043089c17d4" resname="8ED·264 | Maro | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of cards in your hand.</source>
-        <target state="translated">玛洛的力量和防御力各等同于你的手牌数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你的手牌数量。</target>
       </trans-unit>
       <trans-unit id="9695a29d-fd19-422b-a5a7-15cd218c8876" resname="8ED·264★ | Maro | Card Name">
         <source>Maro</source>
@@ -5121,7 +5121,7 @@
       </trans-unit>
       <trans-unit id="9695a29d-fd19-422b-a5a7-15cd218c8876" resname="8ED·264★ | Maro | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of cards in your hand.</source>
-        <target state="translated">玛洛的力量和防御力各等同于你的手牌数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于你的手牌数量。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="5b136d50-732b-4265-97c4-1caaa4a54be1" resname="8ED·265 | Might of Oaks | Card Name">
@@ -5256,7 +5256,7 @@
       </trans-unit>
       <trans-unit id="70a4e884-b36c-4fde-84bb-a19a3ce160ae" resname="8ED·273 | Primeval Force | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, sacrifice it unless you sacrifice three Forests.</source>
-        <target state="translated">当太古之力进场时，除非你牺牲三个树林，否则消灭太古之力。</target>
+        <target state="translated">当CARDNAME进场时，除非你牺牲三个树林，否则消灭CARDNAME。</target>
       </trans-unit>
       <trans-unit id="61af954f-e0ee-43cb-830a-225c8fb46850" resname="8ED·273★ | Primeval Force | Card Name">
         <source>Primeval Force</source>
@@ -5265,7 +5265,7 @@
       </trans-unit>
       <trans-unit id="61af954f-e0ee-43cb-830a-225c8fb46850" resname="8ED·273★ | Primeval Force | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, sacrifice it unless you sacrifice three Forests.</source>
-        <target state="translated">当太古之力进场时，除非你牺牲三个树林，否则消灭太古之力。</target>
+        <target state="translated">当CARDNAME进场时，除非你牺牲三个树林，否则消灭CARDNAME。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="01d56cde-e186-41e7-bcb2-80736a989678" resname="8ED·274 | Rampant Growth | Card Name">
@@ -5292,7 +5292,7 @@
       </trans-unit>
       <trans-unit id="2a97c91d-66bd-417a-9c13-4ac4d9ddd7f7" resname="8ED·275 | Regeneration | Card Text | Paragraph 1">
         <source>{G}: Regenerate enchanted creature.</source>
-        <target state="translated">{G}：重生受此结界的生物。</target>
+        <target state="translated">{G}：CARDNAME受此结界的生物。</target>
       </trans-unit>
       <trans-unit id="2d78aef4-a4cf-4a6a-80c0-0695a93d3342" resname="8ED·275★ | Regeneration | Card Name">
         <source>Regeneration</source>
@@ -5301,7 +5301,7 @@
       </trans-unit>
       <trans-unit id="2d78aef4-a4cf-4a6a-80c0-0695a93d3342" resname="8ED·275★ | Regeneration | Card Text | Paragraphs">
         <source>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\n{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</source>
-        <target state="translated">{G}：重生受此结界的生物。</target>
+        <target state="translated">{G}：CARDNAME受此结界的生物。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="0dbd99aa-af0a-489d-9be1-d3aaa0a1f5a4" resname="8ED·276 | Revive | Card Name">
@@ -5328,11 +5328,11 @@
       </trans-unit>
       <trans-unit id="33f7e788-8fc7-49f3-804b-2d7f96852d4b" resname="8ED·277 | Rhox | Card Text | Paragraph 1">
         <source>You may have CARDNAME deal its combat damage to defending player as though it weren't blocked.</source>
-        <target state="translated">你可以令罗克犀龙如同未受阻挡地对防御牌手造成战斗伤害。</target>
+        <target state="translated">你可以令CARDNAME如同未受阻挡地对防御牌手造成战斗伤害。</target>
       </trans-unit>
       <trans-unit id="33f7e788-8fc7-49f3-804b-2d7f96852d4b" resname="8ED·277 | Rhox | Card Text | Paragraph 2">
         <source>{2}{G}: Regenerate CARDNAME.</source>
-        <target state="translated">{2}{G}：重生罗克犀龙。</target>
+        <target state="translated">{2}{G}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f6761729-b8e1-4a84-a4eb-3b5fc9485867" resname="8ED·277★ | Rhox | Card Name">
         <source>Rhox</source>
@@ -5341,12 +5341,12 @@
       </trans-unit>
       <trans-unit id="f6761729-b8e1-4a84-a4eb-3b5fc9485867" resname="8ED·277★ | Rhox | Card Text | Paragraph 1">
         <source>You may have CARDNAME assign its combat damage as though it weren't blocked.</source>
-        <target state="translated">你可以令罗克犀龙如同未受阻挡地对防御牌手造成战斗伤害。</target>
+        <target state="translated">你可以令CARDNAME如同未受阻挡地对防御牌手造成战斗伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="f6761729-b8e1-4a84-a4eb-3b5fc9485867" resname="8ED·277★ | Rhox | Card Text | Paragraph 2">
         <source>{2}{G}: Regenerate CARDNAME. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</source>
-        <target state="translated">{2}{G}：重生罗克犀龙。</target>
+        <target state="translated">{2}{G}：重生CARDNAME。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="4d62152d-463b-464d-b3c2-8b404ee1f80e" resname="8ED·278 | Rushwood Dryad | Card Name">
@@ -5382,11 +5382,11 @@
       </trans-unit>
       <trans-unit id="bfeeb515-7d3d-4678-a480-32485b197afb" resname="8ED·280 | Spitting Spider | Card Text | Paragraph 1">
         <source>CARDNAME may block as though it had flying.</source>
-        <target state="translated">喷液蜘蛛可以视同具有飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。</target>
       </trans-unit>
       <trans-unit id="bfeeb515-7d3d-4678-a480-32485b197afb" resname="8ED·280 | Spitting Spider | Card Text | Paragraph 2">
         <source>Sacrifice a land: CARDNAME deals 1 damage to each creature with flying.</source>
-        <target state="translated">牺牲一个地：喷液蜘蛛对每个具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">牺牲一个地：CARDNAME对每个具飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="f5b8b3d8-aa1f-473b-a85f-912aea8fa207" resname="8ED·280★ | Spitting Spider | Card Name">
         <source>Spitting Spider</source>
@@ -5395,12 +5395,12 @@
       </trans-unit>
       <trans-unit id="f5b8b3d8-aa1f-473b-a85f-912aea8fa207" resname="8ED·280★ | Spitting Spider | Card Text | Paragraph 1">
         <source>Reach (This creature can block creatures with flying.)</source>
-        <target state="translated">喷液蜘蛛可以视同具有飞行异能地进行阻挡。</target>
+        <target state="translated">CARDNAME可以视同具有飞行异能地进行阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="f5b8b3d8-aa1f-473b-a85f-912aea8fa207" resname="8ED·280★ | Spitting Spider | Card Text | Paragraph 2">
         <source>Sacrifice a land: CARDNAME deals 1 damage to each creature with flying.</source>
-        <target state="translated">牺牲一个地：喷液蜘蛛对每个具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">牺牲一个地：CARDNAME对每个具飞行异能的生物各造成1点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="3abaf631-ce63-47c8-8883-04f942f2e7ba" resname="8ED·281 | Spreading Algae | Card Name">
@@ -5409,7 +5409,7 @@
       </trans-unit>
       <trans-unit id="3abaf631-ce63-47c8-8883-04f942f2e7ba" resname="8ED·281 | Spreading Algae | Card Text | Paragraph 1">
         <source>CARDNAME can enchant only a Swamp.</source>
-        <target state="translated">遍地野藻只能结附于沼泽上。</target>
+        <target state="translated">CARDNAME只能结附于沼泽上。</target>
       </trans-unit>
       <trans-unit id="3abaf631-ce63-47c8-8883-04f942f2e7ba" resname="8ED·281 | Spreading Algae | Card Text | Paragraph 2">
         <source>When enchanted land becomes tapped, destroy that land.</source>
@@ -5417,7 +5417,7 @@
       </trans-unit>
       <trans-unit id="3abaf631-ce63-47c8-8883-04f942f2e7ba" resname="8ED·281 | Spreading Algae | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from play, return CARDNAME to its owner's hand.</source>
-        <target state="translated">当遍地野藻从场上置入坟墓场时，将遍地野藻移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="ae057c0c-1993-4e1c-a7c3-a3be8fa5616d" resname="8ED·281★ | Spreading Algae | Card Name">
         <source>Spreading Algae</source>
@@ -5426,7 +5426,7 @@
       </trans-unit>
       <trans-unit id="ae057c0c-1993-4e1c-a7c3-a3be8fa5616d" resname="8ED·281★ | Spreading Algae | Card Text | Paragraph 1">
         <source>Enchant Swamp</source>
-        <target state="translated">遍地野藻只能结附于沼泽上。</target>
+        <target state="translated">CARDNAME只能结附于沼泽上。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="ae057c0c-1993-4e1c-a7c3-a3be8fa5616d" resname="8ED·281★ | Spreading Algae | Card Text | Paragraph 2">
@@ -5436,7 +5436,7 @@
       </trans-unit>
       <trans-unit id="ae057c0c-1993-4e1c-a7c3-a3be8fa5616d" resname="8ED·281★ | Spreading Algae | Card Text | Paragraph 3">
         <source>When CARDNAME is put into a graveyard from the battlefield, return CARDNAME to its owner's hand.</source>
-        <target state="translated">当遍地野藻从场上置入坟墓场时，将遍地野藻移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，将CARDNAME移回其拥有者手上。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="04ff34fb-7bc5-4484-ad73-067363a2cc16" resname="8ED·282 | Stream of Life | Card Name">
@@ -5463,7 +5463,7 @@
       </trans-unit>
       <trans-unit id="12fa0c8c-f069-4f3b-b049-90e1089346ef" resname="8ED·283 | Thorn Elemental | Card Text | Paragraph 1">
         <source>You may have CARDNAME deal its combat damage to defending player as though it weren't blocked.</source>
-        <target state="translated">你可以令刺棘元素如同未受阻挡地对防御牌手造成战斗伤害。</target>
+        <target state="translated">你可以令CARDNAME如同未受阻挡地对防御牌手造成战斗伤害。</target>
       </trans-unit>
       <trans-unit id="a9277322-b379-4d2f-bb39-ae448d414c9c" resname="8ED·283★ | Thorn Elemental | Card Name">
         <source>Thorn Elemental</source>
@@ -5472,7 +5472,7 @@
       </trans-unit>
       <trans-unit id="a9277322-b379-4d2f-bb39-ae448d414c9c" resname="8ED·283★ | Thorn Elemental | Card Text | Paragraph 1">
         <source>You may have CARDNAME assign its combat damage as though it weren't blocked.</source>
-        <target state="translated">你可以令刺棘元素如同未受阻挡地对防御牌手造成战斗伤害。</target>
+        <target state="translated">你可以令CARDNAME如同未受阻挡地对防御牌手造成战斗伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="fe86493d-e350-40c4-b65f-de63c2f0a91a" resname="8ED·284 | Trained Armodon | Card Name">
@@ -5571,7 +5571,7 @@
       </trans-unit>
       <trans-unit id="da7aa861-556b-43a1-bf57-1efbbd438975" resname="8ED·289 | Wood Elves | Card Text | Paragraph 1">
         <source>When CARDNAME comes into play, search your library for a Forest card and put that card into play. Then shuffle your library.</source>
-        <target state="translated">当林木地精进场时，从你的牌库中搜寻一张树林牌，并将之放置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，从你的牌库中搜寻一张树林牌，并将之放置进场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="8da2f237-5dc3-4fc7-a0c2-1a0d325ebfbf" resname="8ED·289★ | Wood Elves | Card Name">
         <source>Wood Elves</source>
@@ -5580,7 +5580,7 @@
       </trans-unit>
       <trans-unit id="8da2f237-5dc3-4fc7-a0c2-1a0d325ebfbf" resname="8ED·289★ | Wood Elves | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, search your library for a Forest card, put that card onto the battlefield, then shuffle.</source>
-        <target state="translated">当林木地精进场时，从你的牌库中搜寻一张树林牌，并将之放置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进场时，从你的牌库中搜寻一张树林牌，并将之放置进场。然后将你的牌库洗牌。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="88ed4258-eeb8-4c50-9119-8c54331bd219" resname="8ED·290 | Yavimaya Enchantress | Card Name">
@@ -5589,7 +5589,7 @@
       </trans-unit>
       <trans-unit id="88ed4258-eeb8-4c50-9119-8c54331bd219" resname="8ED·290 | Yavimaya Enchantress | Card Text | Paragraph 1">
         <source>CARDNAME gets +1/+1 for each enchantment in play.</source>
-        <target state="translated">场上每有一个结界，亚维马雅咒术师便得+1/+1。</target>
+        <target state="translated">场上每有一个结界，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="b986f77f-e05b-4c31-824f-d6f746985de1" resname="8ED·290★ | Yavimaya Enchantress | Card Name">
         <source>Yavimaya Enchantress</source>
@@ -5598,7 +5598,7 @@
       </trans-unit>
       <trans-unit id="b986f77f-e05b-4c31-824f-d6f746985de1" resname="8ED·290★ | Yavimaya Enchantress | Card Text | Paragraph 1">
         <source>CARDNAME gets +1/+1 for each enchantment on the battlefield.</source>
-        <target state="translated">场上每有一个结界，亚维马雅咒术师便得+1/+1。</target>
+        <target state="translated">场上每有一个结界，CARDNAME便得+1/+1。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="6ffd2437-04e7-44e4-becc-15be62735b42" resname="8ED·291 | Aladdin's Ring | Card Name">
@@ -5607,7 +5607,7 @@
       </trans-unit>
       <trans-unit id="6ffd2437-04e7-44e4-becc-15be62735b42" resname="8ED·291 | Aladdin's Ring | Card Text | Paragraph 1">
         <source>{8}, {T}: CARDNAME deals 4 damage to target creature or player.</source>
-        <target state="translated">{8}，{T}：阿拉丁戒指对目标生物或牌手造成4点伤害。</target>
+        <target state="translated">{8}，{T}：CARDNAME对目标生物或牌手造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="d77c025c-c30c-4e1f-a530-726fd742f663" resname="8ED·291★ | Aladdin's Ring | Card Name">
         <source>Aladdin's Ring</source>
@@ -5616,7 +5616,7 @@
       </trans-unit>
       <trans-unit id="d77c025c-c30c-4e1f-a530-726fd742f663" resname="8ED·291★ | Aladdin's Ring | Card Text | Paragraph 1">
         <source>{8}, {T}: CARDNAME deals 4 damage to any target.</source>
-        <target state="translated">{8}，{T}：阿拉丁戒指对目标生物或牌手造成4点伤害。</target>
+        <target state="translated">{8}，{T}：CARDNAME对目标生物或牌手造成4点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="91cc6efd-43cc-4350-bd44-9f20c5a4fdd0" resname="8ED·292 | Beast of Burden | Card Name">
@@ -5625,7 +5625,7 @@
       </trans-unit>
       <trans-unit id="91cc6efd-43cc-4350-bd44-9f20c5a4fdd0" resname="8ED·292 | Beast of Burden | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of creatures in play.</source>
-        <target state="translated">重驮兽的力量和防御力各等同于场上生物的数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于场上生物的数量。</target>
       </trans-unit>
       <trans-unit id="6ec1aa1c-0b44-49d6-9222-38edf04cd7f9" resname="8ED·292★ | Beast of Burden | Card Name">
         <source>Beast of Burden</source>
@@ -5634,7 +5634,7 @@
       </trans-unit>
       <trans-unit id="6ec1aa1c-0b44-49d6-9222-38edf04cd7f9" resname="8ED·292★ | Beast of Burden | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of creatures on the battlefield.</source>
-        <target state="translated">重驮兽的力量和防御力各等同于场上生物的数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于场上生物的数量。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="7dc61a67-7fab-484c-aa2b-615353138440" resname="8ED·293 | Brass Herald | Card Name">
@@ -5643,11 +5643,11 @@
       </trans-unit>
       <trans-unit id="7dc61a67-7fab-484c-aa2b-615353138440" resname="8ED·293 | Brass Herald | Card Text | Paragraph 1">
         <source>As CARDNAME comes into play, choose a creature type.</source>
-        <target state="translated">于黄铜传令使进场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="7dc61a67-7fab-484c-aa2b-615353138440" resname="8ED·293 | Brass Herald | Card Text | Paragraph 2">
         <source>When CARDNAME comes into play, reveal the top four cards of your library. Put all creature cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">当黄铜传令使进场时，展示你牌库顶的四张牌。将所有以此法展示，且为该类别的生物牌置于你手上，并将其余的牌置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进场时，展示你牌库顶的四张牌。将所有以此法展示，且为该类别的生物牌置于你手上，并将其余的牌置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="7dc61a67-7fab-484c-aa2b-615353138440" resname="8ED·293 | Brass Herald | Card Text | Paragraph 3">
         <source>Creatures of the chosen type get +1/+1.</source>
@@ -5660,12 +5660,12 @@
       </trans-unit>
       <trans-unit id="d34e9659-fc22-42f8-b118-6b46b4fab409" resname="8ED·293★ | Brass Herald | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于黄铜传令使进场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进场时，选择一种生物类别。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="d34e9659-fc22-42f8-b118-6b46b4fab409" resname="8ED·293★ | Brass Herald | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, reveal the top four cards of your library. Put all creature cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">当黄铜传令使进场时，展示你牌库顶的四张牌。将所有以此法展示，且为该类别的生物牌置于你手上，并将其余的牌置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进场时，展示你牌库顶的四张牌。将所有以此法展示，且为该类别的生物牌置于你手上，并将其余的牌置于你的牌库底。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="d34e9659-fc22-42f8-b118-6b46b4fab409" resname="8ED·293★ | Brass Herald | Card Text | Paragraph 3">
@@ -5733,7 +5733,7 @@
       </trans-unit>
       <trans-unit id="30d893a2-400c-459d-a26d-31f1f3b0642e" resname="8ED·297 | Dingus Egg | Card Text | Paragraph 1">
         <source>Whenever a land is put into a graveyard from play, CARDNAME deals 2 damage to that land's controller.</source>
-        <target state="translated">每当一个地从场上置入坟墓场时，爆地蛋对该地的操控者造成2点伤害。</target>
+        <target state="translated">每当一个地从场上置入坟墓场时，CARDNAME对该地的操控者造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="ff6bf8b4-b3fe-437e-9c6b-f3f495c8c5fc" resname="8ED·297★ | Dingus Egg | Card Name">
         <source>Dingus Egg</source>
@@ -5742,7 +5742,7 @@
       </trans-unit>
       <trans-unit id="ff6bf8b4-b3fe-437e-9c6b-f3f495c8c5fc" resname="8ED·297★ | Dingus Egg | Card Text | Paragraph 1">
         <source>Whenever a land is put into a graveyard from the battlefield, CARDNAME deals 2 damage to that land's controller.</source>
-        <target state="translated">每当一个地从场上置入坟墓场时，爆地蛋对该地的操控者造成2点伤害。</target>
+        <target state="translated">每当一个地从场上置入坟墓场时，CARDNAME对该地的操控者造成2点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="1129d16c-de2b-4d21-a0fd-b63e4ba95d8d" resname="8ED·298 | Disrupting Scepter | Card Name">
@@ -5823,7 +5823,7 @@
       </trans-unit>
       <trans-unit id="bde003e6-d674-42cd-9537-91928730e7dd" resname="8ED·302 | Fodder Cannon | Card Text | Paragraph 1">
         <source>{4}, {T}, Sacrifice a creature: CARDNAME deals 4 damage to target creature.</source>
-        <target state="translated">{4}，{T}，牺牲一个生物：粮秣大炮对目标生物造成4点伤害。</target>
+        <target state="translated">{4}，{T}，牺牲一个生物：CARDNAME对目标生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="f42717c4-e5f5-42de-a29d-f74333131efd" resname="8ED·302★ | Fodder Cannon | Card Name">
         <source>Fodder Cannon</source>
@@ -5832,7 +5832,7 @@
       </trans-unit>
       <trans-unit id="f42717c4-e5f5-42de-a29d-f74333131efd" resname="8ED·302★ | Fodder Cannon | Card Text | Paragraph 1">
         <source>{4}, {T}, Sacrifice a creature: CARDNAME deals 4 damage to target creature.</source>
-        <target state="translated">{4}，{T}，牺牲一个生物：粮秣大炮对目标生物造成4点伤害。</target>
+        <target state="translated">{4}，{T}，牺牲一个生物：CARDNAME对目标生物造成4点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="661236e2-a414-4a08-b7f7-704f1a2952a8" resname="8ED·303 | Howling Mine | Card Name">
@@ -5841,7 +5841,7 @@
       </trans-unit>
       <trans-unit id="661236e2-a414-4a08-b7f7-704f1a2952a8" resname="8ED·303 | Howling Mine | Card Text | Paragraph 1">
         <source>At the beginning of each player's draw step, if CARDNAME is untapped, that player draws a card.</source>
-        <target state="translated">在每位牌手的抓牌步骤开始时，若嚎叫的矿井并未横置，则该牌手抓一张牌。</target>
+        <target state="translated">在每位牌手的抓牌步骤开始时，若CARDNAME并未横置，则该牌手抓一张牌。</target>
       </trans-unit>
       <trans-unit id="1b1d4f69-d4ff-4cd7-bbfe-f648efc89063" resname="8ED·303★ | Howling Mine | Card Name">
         <source>Howling Mine</source>
@@ -5850,7 +5850,7 @@
       </trans-unit>
       <trans-unit id="1b1d4f69-d4ff-4cd7-bbfe-f648efc89063" resname="8ED·303★ | Howling Mine | Card Text | Paragraph 1">
         <source>At the beginning of each player's draw step, if CARDNAME is untapped, that player draws an additional card.</source>
-        <target state="translated">在每位牌手的抓牌步骤开始时，若嚎叫的矿井并未横置，则该牌手抓一张牌。</target>
+        <target state="translated">在每位牌手的抓牌步骤开始时，若CARDNAME并未横置，则该牌手抓一张牌。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="ec6d1e6b-80af-4eb1-be3c-62ab74315777" resname="8ED·304 | Iron Star | Card Name">
@@ -5931,7 +5931,7 @@
       </trans-unit>
       <trans-unit id="c66c9c30-35c4-4813-a766-a54a418baf8b" resname="8ED·308 | Patagia Golem | Card Text | Paragraph 1">
         <source>{3}: CARDNAME gains flying until end of turn. (It can't be blocked except by creatures with flying.)</source>
-        <target state="translated">{3}：翼翅魔像获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
+        <target state="translated">{3}：CARDNAME获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
       </trans-unit>
       <trans-unit id="8d74b775-a011-41b6-8732-7a0cb91e030e" resname="8ED·308★ | Patagia Golem | Card Name">
         <source>Patagia Golem</source>
@@ -5940,7 +5940,7 @@
       </trans-unit>
       <trans-unit id="8d74b775-a011-41b6-8732-7a0cb91e030e" resname="8ED·308★ | Patagia Golem | Card Text | Paragraph 1">
         <source>{3}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">{3}：翼翅魔像获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
+        <target state="translated">{3}：CARDNAME获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="c62f8d95-be99-4c3b-9c75-f5cc1cb43c44" resname="8ED·309 | Phyrexian Colossus | Card Name">
@@ -5949,15 +5949,15 @@
       </trans-unit>
       <trans-unit id="c62f8d95-be99-4c3b-9c75-f5cc1cb43c44" resname="8ED·309 | Phyrexian Colossus | Card Text | Paragraph 1">
         <source>CARDNAME doesn't untap during your untap step.</source>
-        <target state="translated">非瑞克西亚巨像于你的重置步骤中不能重置。</target>
+        <target state="translated">CARDNAME于你的重置步骤中不能重置。</target>
       </trans-unit>
       <trans-unit id="c62f8d95-be99-4c3b-9c75-f5cc1cb43c44" resname="8ED·309 | Phyrexian Colossus | Card Text | Paragraph 2">
         <source>Pay 8 life: Untap CARDNAME.</source>
-        <target state="translated">支付8点生命：重置非瑞克西亚巨像。</target>
+        <target state="translated">支付8点生命：重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="c62f8d95-be99-4c3b-9c75-f5cc1cb43c44" resname="8ED·309 | Phyrexian Colossus | Card Text | Paragraph 3">
         <source>CARDNAME can't be blocked except by three or more creatures.</source>
-        <target state="translated">非瑞克西亚巨像只能被三个或更多的生物阻挡。</target>
+        <target state="translated">CARDNAME只能被三个或更多的生物阻挡。</target>
       </trans-unit>
       <trans-unit id="2203600a-470e-4631-abbc-2c5bf9aa3613" resname="8ED·309★ | Phyrexian Colossus | Card Name">
         <source>Phyrexian Colossus</source>
@@ -5966,17 +5966,17 @@
       </trans-unit>
       <trans-unit id="2203600a-470e-4631-abbc-2c5bf9aa3613" resname="8ED·309★ | Phyrexian Colossus | Card Text | Paragraph 1">
         <source>CARDNAME doesn't untap during your untap step.</source>
-        <target state="translated">非瑞克西亚巨像于你的重置步骤中不能重置。</target>
+        <target state="translated">CARDNAME于你的重置步骤中不能重置。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="2203600a-470e-4631-abbc-2c5bf9aa3613" resname="8ED·309★ | Phyrexian Colossus | Card Text | Paragraph 2">
         <source>Pay 8 life: Untap CARDNAME.</source>
-        <target state="translated">支付8点生命：重置非瑞克西亚巨像。</target>
+        <target state="translated">支付8点生命：重置CARDNAME。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="2203600a-470e-4631-abbc-2c5bf9aa3613" resname="8ED·309★ | Phyrexian Colossus | Card Text | Paragraph 3">
         <source>CARDNAME can't be blocked except by three or more creatures.</source>
-        <target state="translated">非瑞克西亚巨像只能被三个或更多的生物阻挡。</target>
+        <target state="translated">CARDNAME只能被三个或更多的生物阻挡。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="ba64af09-2af7-4630-a3c4-e1aa90f2a9fb" resname="8ED·310 | Phyrexian Hulk | Card Name">
@@ -6012,7 +6012,7 @@
       </trans-unit>
       <trans-unit id="1d652801-7f22-41b5-b19c-90efe5d8c0a8" resname="8ED·312 | Rod of Ruin | Card Text | Paragraph 1">
         <source>{3}, {T}: CARDNAME deals 1 damage to target creature or player.</source>
-        <target state="translated">{3}，{T}：遗迹棍棒对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{3}，{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="ce12200b-1d29-4f76-8131-6faae141492b" resname="8ED·312★ | Rod of Ruin | Card Name">
         <source>Rod of Ruin</source>
@@ -6021,7 +6021,7 @@
       </trans-unit>
       <trans-unit id="ce12200b-1d29-4f76-8131-6faae141492b" resname="8ED·312★ | Rod of Ruin | Card Text | Paragraph 1">
         <source>{3}, {T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{3}，{T}：遗迹棍棒对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">{3}，{T}：CARDNAME对目标生物或牌手造成1点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="ccc3a7b4-ff44-4909-ab8d-35ba5d187815" resname="8ED·313 | Skull of Orm | Card Name">
@@ -6066,7 +6066,7 @@
       </trans-unit>
       <trans-unit id="6dddaa2b-d836-49bd-9d2f-da2cc4a2bff4" resname="8ED·315 | Star Compass | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">繁星罗盘须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="6dddaa2b-d836-49bd-9d2f-da2cc4a2bff4" resname="8ED·315 | Star Compass | Card Text | Paragraph 2">
         <source>{T}: Add to your mana pool one mana of any color a basic land you control could produce.</source>
@@ -6079,7 +6079,7 @@
       </trans-unit>
       <trans-unit id="29cfc596-8857-4862-a404-e4a3f6710ddb" resname="8ED·315★ | Star Compass | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">繁星罗盘须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="29cfc596-8857-4862-a404-e4a3f6710ddb" resname="8ED·315★ | Star Compass | Card Text | Paragraph 2">
@@ -6147,7 +6147,7 @@
       </trans-unit>
       <trans-unit id="0b1e748b-c836-45f1-96af-ced0cc5aed9f" resname="8ED·319 | Vexing Arcanix | Card Text | Paragraph 1">
         <source>{3}, {T}: Target player names a card, then reveals the top card of his or her library. If it's the named card, the player puts it into his or her hand. Otherwise, the player puts it into his or her graveyard and CARDNAME deals 2 damage to him or her.</source>
-        <target state="translated">{3}，{T}：目标牌手说出一个牌名，然后展示其牌库顶牌。若该牌的名称是你所说的名称，则该牌手将该牌置于其手上。若不是，则该牌手将该牌置入其坟墓场，并且艾卡尼思乱心具对他造成2点伤害。</target>
+        <target state="translated">{3}，{T}：目标牌手说出一个牌名，然后展示其牌库顶牌。若该牌的名称是你所说的名称，则该牌手将该牌置于其手上。若不是，则该牌手将该牌置入其坟墓场，并且CARDNAME对他造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="a55cd438-3d1f-4abe-a10a-90838b0eb6ff" resname="8ED·319★ | Vexing Arcanix | Card Name">
         <source>Vexing Arcanix</source>
@@ -6156,7 +6156,7 @@
       </trans-unit>
       <trans-unit id="a55cd438-3d1f-4abe-a10a-90838b0eb6ff" resname="8ED·319★ | Vexing Arcanix | Card Text | Paragraph 1">
         <source>{3}, {T}: Target player chooses a card name, then reveals the top card of their library. If that card has the chosen name, that player puts it into their hand. Otherwise, they put it into their graveyard and CARDNAME deals 2 damage to them.</source>
-        <target state="translated">{3}，{T}：目标牌手说出一个牌名，然后展示其牌库顶牌。若该牌的名称是你所说的名称，则该牌手将该牌置于其手上。若不是，则该牌手将该牌置入其坟墓场，并且艾卡尼思乱心具对他造成2点伤害。</target>
+        <target state="translated">{3}，{T}：目标牌手说出一个牌名，然后展示其牌库顶牌。若该牌的名称是你所说的名称，则该牌手将该牌置于其手上。若不是，则该牌手将该牌置入其坟墓场，并且CARDNAME对他造成2点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="b4f34f06-7f89-4f2b-8979-8219ac1c4560" resname="8ED·320 | Wall of Spears | Card Name">
@@ -6210,7 +6210,7 @@
       </trans-unit>
       <trans-unit id="03220cab-fc78-4323-bd34-b8dbebe35597" resname="8ED·322 | City of Brass | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes tapped, it deals 1 damage to you.</source>
-        <target state="translated">每当黄铜之都成为横置时，它对你造成1点伤害。</target>
+        <target state="translated">每当CARDNAME成为横置时，它对你造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="03220cab-fc78-4323-bd34-b8dbebe35597" resname="8ED·322 | City of Brass | Card Text | Paragraph 2">
         <source>{T}: Add one mana of any color to your mana pool.</source>
@@ -6223,7 +6223,7 @@
       </trans-unit>
       <trans-unit id="4cf58637-1560-4851-b4f9-9fa564de4fd6" resname="8ED·322★ | City of Brass | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes tapped, it deals 1 damage to you.</source>
-        <target state="translated">每当黄铜之都成为横置时，它对你造成1点伤害。</target>
+        <target state="translated">每当CARDNAME成为横置时，它对你造成1点伤害。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="4cf58637-1560-4851-b4f9-9fa564de4fd6" resname="8ED·322★ | City of Brass | Card Text | Paragraph 2">
@@ -6237,7 +6237,7 @@
       </trans-unit>
       <trans-unit id="9513c206-b578-4973-93cc-077e5a6658b0" resname="8ED·323 | Coastal Tower | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">海岸楼塔须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="9513c206-b578-4973-93cc-077e5a6658b0" resname="8ED·323 | Coastal Tower | Card Text | Paragraph 2">
         <source>{T}: Add {W} or {U} to your mana pool.</source>
@@ -6250,7 +6250,7 @@
       </trans-unit>
       <trans-unit id="25271fc6-a6dc-4761-8374-8a4c41702a79" resname="8ED·323★ | Coastal Tower | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">海岸楼塔须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="25271fc6-a6dc-4761-8374-8a4c41702a79" resname="8ED·323★ | Coastal Tower | Card Text | Paragraph 2">
@@ -6264,7 +6264,7 @@
       </trans-unit>
       <trans-unit id="66e7061a-3b13-466e-b4d0-2769a179b985" resname="8ED·324 | Elfhame Palace | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">地精乡宫殿须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="66e7061a-3b13-466e-b4d0-2769a179b985" resname="8ED·324 | Elfhame Palace | Card Text | Paragraph 2">
         <source>{T}: Add {G} or {W} to your mana pool.</source>
@@ -6277,7 +6277,7 @@
       </trans-unit>
       <trans-unit id="c2038371-f6c8-4676-97f3-9e878b096ff7" resname="8ED·324★ | Elfhame Palace | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">地精乡宫殿须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="c2038371-f6c8-4676-97f3-9e878b096ff7" resname="8ED·324★ | Elfhame Palace | Card Text | Paragraph 2">
@@ -6291,7 +6291,7 @@
       </trans-unit>
       <trans-unit id="3ac23896-d4c9-4543-9edc-1d1bb5c74611" resname="8ED·325 | Salt Marsh | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">咸沼须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="3ac23896-d4c9-4543-9edc-1d1bb5c74611" resname="8ED·325 | Salt Marsh | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {B} to your mana pool.</source>
@@ -6304,7 +6304,7 @@
       </trans-unit>
       <trans-unit id="6d850d74-d751-4644-b5bb-5dc62a00f42c" resname="8ED·325★ | Salt Marsh | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">咸沼须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="6d850d74-d751-4644-b5bb-5dc62a00f42c" resname="8ED·325★ | Salt Marsh | Card Text | Paragraph 2">
@@ -6318,7 +6318,7 @@
       </trans-unit>
       <trans-unit id="e008d427-b029-409e-b93a-efa86c8777c3" resname="8ED·326 | Shivan Oasis | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">西瓦绿洲须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="e008d427-b029-409e-b93a-efa86c8777c3" resname="8ED·326 | Shivan Oasis | Card Text | Paragraph 2">
         <source>{T}: Add {R} or {G} to your mana pool.</source>
@@ -6331,7 +6331,7 @@
       </trans-unit>
       <trans-unit id="1690a710-e869-4d96-8aa2-991d73b1d46a" resname="8ED·326★ | Shivan Oasis | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">西瓦绿洲须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="1690a710-e869-4d96-8aa2-991d73b1d46a" resname="8ED·326★ | Shivan Oasis | Card Text | Paragraph 2">
@@ -6345,7 +6345,7 @@
       </trans-unit>
       <trans-unit id="6f98c5c9-cd15-40f7-9aa1-575906df3eda" resname="8ED·327 | Urborg Volcano | Card Text | Paragraph 1">
         <source>CARDNAME comes into play tapped.</source>
-        <target state="translated">乌尔博格火山须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="6f98c5c9-cd15-40f7-9aa1-575906df3eda" resname="8ED·327 | Urborg Volcano | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {R} to your mana pool.</source>
@@ -6358,7 +6358,7 @@
       </trans-unit>
       <trans-unit id="7e652c20-78d6-4330-aa53-e393b775614d" resname="8ED·327★ | Urborg Volcano | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">乌尔博格火山须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="7e652c20-78d6-4330-aa53-e393b775614d" resname="8ED·327★ | Urborg Volcano | Card Text | Paragraph 2">
@@ -6372,7 +6372,7 @@
       </trans-unit>
       <trans-unit id="5eedb94c-058e-4c3a-96cf-e6624c03d26e" resname="8ED·328 | Urza's Mine | Card Text | Paragraph 1">
         <source>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控克撒的矿脉、克撒的塔和克撒的动力炉，则改为加{2}到你的法术力池中。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控CARDNAME、克撒的塔和克撒的动力炉，则改为加{2}到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="99cf2e06-90cc-4acc-8874-5cd4b2a4abf9" resname="8ED·328★ | Urza's Mine | Card Name">
         <source>Urza's Mine</source>
@@ -6381,7 +6381,7 @@
       </trans-unit>
       <trans-unit id="99cf2e06-90cc-4acc-8874-5cd4b2a4abf9" resname="8ED·328★ | Urza's Mine | Card Text | Paragraph 1">
         <source>{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控克撒的矿脉、克撒的塔和克撒的动力炉，则改为加{2}到你的法术力池中。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控CARDNAME、克撒的塔和克撒的动力炉，则改为加{2}到你的法术力池中。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="4499c80b-72af-485c-9106-22967b5252cd" resname="8ED·329 | Urza's Power Plant | Card Name">
@@ -6390,7 +6390,7 @@
       </trans-unit>
       <trans-unit id="4499c80b-72af-485c-9106-22967b5252cd" resname="8ED·329 | Urza's Power Plant | Card Text | Paragraph 1">
         <source>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控克撒的矿脉、克撒的塔和克撒的动力炉，则改为加{2}到你的法术力池中。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控克撒的矿脉、克撒的塔和CARDNAME，则改为加{2}到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="60b1bbc3-eab3-4e30-8ebc-f4ef5ef0282b" resname="8ED·329★ | Urza's Power Plant | Card Name">
         <source>Urza's Power Plant</source>
@@ -6399,7 +6399,7 @@
       </trans-unit>
       <trans-unit id="60b1bbc3-eab3-4e30-8ebc-f4ef5ef0282b" resname="8ED·329★ | Urza's Power Plant | Card Text | Paragraph 1">
         <source>{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控克撒的矿脉、克撒的塔和克撒的动力炉，则改为加{2}到你的法术力池中。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控克撒的矿脉、克撒的塔和CARDNAME，则改为加{2}到你的法术力池中。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="86c6dc88-ef09-4b37-b9e8-c483cccd0e0e" resname="8ED·330 | Urza's Tower | Card Name">
@@ -6408,7 +6408,7 @@
       </trans-unit>
       <trans-unit id="86c6dc88-ef09-4b37-b9e8-c483cccd0e0e" resname="8ED·330 | Urza's Tower | Card Text | Paragraph 1">
         <source>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控克撒的矿脉、克撒的塔和克撒的动力炉，则改为加{3}到你的法术力池中。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控克撒的矿脉、CARDNAME和克撒的动力炉，则改为加{3}到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="3ce1817d-1870-4011-809f-aef3841e779a" resname="8ED·330★ | Urza's Tower | Card Name">
         <source>Urza's Tower</source>
@@ -6417,7 +6417,7 @@
       </trans-unit>
       <trans-unit id="3ce1817d-1870-4011-809f-aef3841e779a" resname="8ED·330★ | Urza's Tower | Card Text | Paragraph 1">
         <source>{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控克撒的矿脉、克撒的塔和克撒的动力炉，则改为加{3}到你的法术力池中。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。若你同时操控克撒的矿脉、CARDNAME和克撒的动力炉，则改为加{3}到你的法术力池中。</target>
         <note xmlns:from="developer">第七版开始，核心系列开始印刷闪卡，且闪卡是黑边而非平卡的白边，因此MTGJSON将闪卡和平卡分为两张不同的牌。</note>
       </trans-unit>
       <trans-unit id="a37c667a-f035-49b2-9f34-9831e186ae82" resname="8ED·331 | Plains | Card Name">

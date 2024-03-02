@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="afc5e47f-cf61-440b-a9c5-35330e50e932" resname="CMD·32 | Soul Snare | Card Text | Paragraph 1">
         <source>{W}, Sacrifice CARDNAME: Exile target creature that's attacking you or a planeswalker you control.</source>
-        <target state="translated">{W}，牺牲灵魂圈套：放逐目标正向你或由你操控之鹏洛客进行攻击的生物。</target>
+        <target state="translated">{W}，牺牲CARDNAME：放逐目标正向你或由你操控之鹏洛客进行攻击的生物。</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
       <trans-unit id="df694a49-604a-4060-9c57-09c933fe1071" resname="CMD·36 | Vow of Duty | Card Name">
@@ -124,12 +124,12 @@
       </trans-unit>
       <trans-unit id="8b2aaca2-2aed-49a7-b001-cd603ac81fc0" resname="CMD·98 | Sewer Nemesis | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a player.</source>
-        <target state="translated">于暗渠宿敌进战场时，选择一位牌手。</target>
+        <target state="translated">于CARDNAME进战场时，选择一位牌手。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="8b2aaca2-2aed-49a7-b001-cd603ac81fc0" resname="CMD·98 | Sewer Nemesis | Card Text | Paragraph 2">
         <source>CARDNAME's power and toughness are each equal to the number of cards in the chosen player's graveyard.</source>
-        <target state="translated">暗渠宿敌的力量和防御力各等同于所选牌手坟墓场中牌的数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于所选牌手坟墓场中牌的数量。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="8b2aaca2-2aed-49a7-b001-cd603ac81fc0" resname="CMD·98 | Sewer Nemesis | Card Text | Paragraph 3">
@@ -194,7 +194,7 @@
       </trans-unit>
       <trans-unit id="5d2a73cf-8172-46ad-af6d-ae9cad33b225" resname="CMD·128 | Magmatic Force | Card Text | Paragraph 1">
         <source>At the beginning of each upkeep, CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">在每个维持开始时，岩浆元气兽对任意一个目标造成3点伤害。</target>
+        <target state="translated">在每个维持开始时，CARDNAME对任意一个目标造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自BBD（2018-06-08）；</note>
       </trans-unit>
       <trans-unit id="0c5a02b2-849e-467b-b8a7-0c9e352cfb99" resname="CMD·129 | Mana-Charged Dragon | Card Name">
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="714cd47b-88f6-448d-9242-481935565250" resname="CMD·159 | Hornet Queen | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, create four 1/1 green Insect creature tokens with flying and deathtouch.</source>
-        <target state="translated">当蜂后进战场时，派出四个1/1绿色，具飞行与死触异能的昆虫衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出四个1/1绿色，具飞行与死触异能的昆虫衍生生物。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="c669fb72-1dfe-498d-9f4e-f17e060b0b93" resname="CMD·161 | Hydra Omnivore | Card Name">
@@ -254,7 +254,7 @@
       </trans-unit>
       <trans-unit id="c669fb72-1dfe-498d-9f4e-f17e060b0b93" resname="CMD·161 | Hydra Omnivore | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals combat damage to an opponent, it deals that much damage to each other opponent.</source>
-        <target state="translated">每当杂食多头龙向任一对手造成战斗伤害时，它向每位其他对手各造成等量的伤害。</target>
+        <target state="translated">每当CARDNAME向任一对手造成战斗伤害时，它向每位其他对手各造成等量的伤害。</target>
         <note xmlns:from="developer">中文数据来自CNS（2014-06-06）；</note>
       </trans-unit>
       <trans-unit id="371ceb58-f498-4616-a7f0-eb118fe2e4ff" resname="CMD·170 | Scavenging Ooze | Card Name">
@@ -264,7 +264,7 @@
       </trans-unit>
       <trans-unit id="371ceb58-f498-4616-a7f0-eb118fe2e4ff" resname="CMD·170 | Scavenging Ooze | Card Text | Paragraph 1">
         <source>{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on CARDNAME and you gain 1 life.</source>
-        <target state="translated">{G}：将目标牌从坟墓场放逐。如果它是生物牌，则在腐食流浆上放置一个+1/+1指示物，且你获得1点生命。</target>
+        <target state="translated">{G}：将目标牌从坟墓场放逐。如果它是生物牌，则在CARDNAME上放置一个+1/+1指示物，且你获得1点生命。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="eca64cae-3aab-48bf-9d92-e42f05cf9017" resname="CMD·175 | Tribute to the Wild | Card Name">
@@ -304,7 +304,7 @@
       </trans-unit>
       <trans-unit id="cb073d5b-9515-492d-9b2d-0f64e85f1da8" resname="CMD·181 | Animar, Soul of Elements | Card Text | Paragraph 2">
         <source>Whenever you cast a creature spell, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你施放生物咒语时，在元素之魂阿尼玛上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你施放生物咒语时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="cb073d5b-9515-492d-9b2d-0f64e85f1da8" resname="CMD·181 | Animar, Soul of Elements | Card Text | Paragraph 3">
@@ -354,7 +354,7 @@
       </trans-unit>
       <trans-unit id="91194df8-4066-4235-a829-2b688ba4afcb" resname="CMD·200 | Ghave, Guru of Spores | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with five +1/+1 counters on it.</source>
-        <target state="translated">孢子上师凯福进战场时上面有五个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有五个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="91194df8-4066-4235-a829-2b688ba4afcb" resname="CMD·200 | Ghave, Guru of Spores | Card Text | Paragraph 2">
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="4b71d89b-7ba4-406f-8736-ac62b9864f21" resname="CMD·206 | Kaalia of the Vast | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.</source>
-        <target state="translated">每当穹境的卡莉雅攻击任一对手时，你可以将一张天使，恶魔或龙生物牌从你手上横置放进战场，且正向该对手进行攻击。</target>
+        <target state="translated">每当CARDNAME攻击任一对手时，你可以将一张天使，恶魔或龙生物牌从你手上横置放进战场，且正向该对手进行攻击。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="c7eb0144-34f8-43e1-95fe-f2ca62d88e5d" resname="CMD·207 | Karador, Ghost Chieftain | Card Name">
@@ -404,7 +404,7 @@
       </trans-unit>
       <trans-unit id="20ffedd2-0575-4050-b687-fa1212966c46" resname="CMD·210 | The Mimeoplasm | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.</source>
-        <target state="translated">于拟生原浆进战场时，你可以将两张生物牌从坟墓场放逐。若你如此作，则它便当作这些牌其中之一的复制品来进入战场，且上面额外有等同于另一张牌之力量的+1/+1指示物。</target>
+        <target state="translated">于CARDNAME进战场时，你可以将两张生物牌从坟墓场放逐。若你如此作，则它便当作这些牌其中之一的复制品来进入战场，且上面额外有等同于另一张牌之力量的+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="e2cc5d00-c8b8-4670-aee3-b14f40ffaefa" resname="CMD·213 | Nin, the Pain Artist | Card Name">
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="6724ff50-717c-4334-8014-0ee897d7735a" resname="CMD·227 | Skullbriar, the Walking Grave | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, put a +1/+1 counter on it.</source>
-        <target state="translated">每当自行丘墓碎骨藤对任一牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，在其上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="6724ff50-717c-4334-8014-0ee897d7735a" resname="CMD·227 | Skullbriar, the Walking Grave | Card Text | Paragraph 3">
@@ -479,7 +479,7 @@
       </trans-unit>
       <trans-unit id="a5b7d724-531c-4f2f-913d-542e4034dca2" resname="CMD·234 | Vish Kal, Blood Arbiter | Card Text | Paragraph 2">
         <source>Sacrifice a creature: Put X +1/+1 counters on CARDNAME, where X is the sacrificed creature's power.</source>
-        <target state="translated">牺牲一个生物：在鲜血仲裁者威许卡尔上放置X个+1/+1指示物，X为所牺牲之生物的力量。</target>
+        <target state="translated">牺牲一个生物：在CARDNAME上放置X个+1/+1指示物，X为所牺牲之生物的力量。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="a5b7d724-531c-4f2f-913d-542e4034dca2" resname="CMD·234 | Vish Kal, Blood Arbiter | Card Text | Paragraph 3">

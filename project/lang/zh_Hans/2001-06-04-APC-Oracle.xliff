@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="a7af8350-9a51-437c-a55e-19f3e07acfa9" resname="APC·1 | Angelfire Crusader | Card Text | Paragraph 1">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">红：天使焰圣战军得+1/+0直到回合结束。</target>
+        <target state="translated">红：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="0e417461-a230-4548-bcc1-71377487f21b" resname="APC·2 | Coalition Flag | Card Name">
         <source>Coalition Flag</source>
@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="0e417461-a230-4548-bcc1-71377487f21b" resname="APC·2 | Coalition Flag | Card Text | Paragraphs">
         <source>Enchant creature you control\nEnchanted creature is a Flagbearer.\nWhile an opponent is choosing targets as part of casting a spell they control or activating an ability they control, that player must choose at least one Flagbearer on the battlefield if able.</source>
-        <target state="translated">联盟军旗只能结附于由你操控的生物上。受此结界的生物类别成为旗手。若对手所使用的咒语或异能可以场上的任何旗手为目标，则该牌手所选择的目标中至少要包括一个旗手。</target>
+        <target state="translated">CARDNAME只能结附于由你操控的生物上。受此结界的生物类别成为旗手。若对手所使用的咒语或异能可以场上的任何旗手为目标，则该牌手所选择的目标中至少要包括一个旗手。</target>
       </trans-unit>
       <trans-unit id="c5b7be3e-b4af-46d4-bcc6-b44c651f2012" resname="APC·3 | Coalition Honor Guard | Card Name">
         <source>Coalition Honor Guard</source>
@@ -50,7 +50,7 @@
       </trans-unit>
       <trans-unit id="36a52c3a-2f58-4b4d-b3c6-f9a08e25c7de" resname="APC·6 | Degavolver | Card Text | Paragraphs">
         <source>Kicker {1}{B} and/or {R} (You may pay an additional {1}{B} and/or {R} as you cast this spell.)\nIf CARDNAME was kicked with its {1}{B} kicker, it enters the battlefield with two +1/+1 counters on it and with &amp;quot;Pay 3 life: Regenerate CARDNAME.&amp;quot;\nIf CARDNAME was kicked with its {R} kicker, it enters the battlefield with a +1/+1 counter on it and with first strike.</source>
-        <target state="translated">增幅1黑和／或红若你已支付其1黑的增幅费用，则狄迦进化体进场时上面有两个+1/+1指示物，并具有「支付3点生命：重生狄迦进化体。」若你已支付其红的增幅费用，则狄迦进化体进场时上面有一个+1/+1指示物，并具有先攻异能。</target>
+        <target state="translated">增幅1黑和／或红若你已支付其1黑的增幅费用，则CARDNAME进场时上面有两个+1/+1指示物，并具有「支付3点生命：重生CARDNAME。」若你已支付其红的增幅费用，则CARDNAME进场时上面有一个+1/+1指示物，并具有先攻异能。</target>
       </trans-unit>
       <trans-unit id="1e5061e4-a76d-4a7c-b196-96c81f94e0e5" resname="APC·7 | Diversionary Tactics | Card Name">
         <source>Diversionary Tactics</source>
@@ -74,7 +74,7 @@
       </trans-unit>
       <trans-unit id="38138bb4-25ea-4aaf-8b1c-e9e60678fc6b" resname="APC·9 | Enlistment Officer | Card Text | Paragraphs">
         <source>First strike\nWhen CARDNAME enters the battlefield, reveal the top four cards of your library. Put all Soldier cards revealed this way into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">先攻当募兵官员进场时，展示你牌库顶上的四张牌。将所有以此法展示的士兵牌置于你的手上，并将其余的牌置于你的牌库底。</target>
+        <target state="translated">先攻当CARDNAME进场时，展示你牌库顶上的四张牌。将所有以此法展示的士兵牌置于你的手上，并将其余的牌置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="1695e0ba-005a-4652-aea7-e1d1f9ff5d66" resname="APC·10 | False Dawn | Card Name">
         <source>False Dawn</source>
@@ -90,7 +90,7 @@
       </trans-unit>
       <trans-unit id="ccca800f-e850-4bec-95d0-70280b51b7a7" resname="APC·11 | Gerrard Capashen | Card Text | Paragraphs">
         <source>At the beginning of your upkeep, you gain 1 life for each card in target opponent's hand.\n{3}{W}: Tap target creature. Activate only if CARDNAME is attacking.</source>
-        <target state="translated">在你的维持开始时，目标对手每有一张手牌，你便获得1点生命。3白：横置目标生物。你只能在杰拉尔德·卡帕轩进行攻击时使用此异能。</target>
+        <target state="translated">在你的维持开始时，目标对手每有一张手牌，你便获得1点生命。3白：横置目标生物。你只能在CARDNAME进行攻击时使用此异能。</target>
       </trans-unit>
       <trans-unit id="78d2d11b-12e4-4810-a32d-8f1cdda3ec49" resname="APC·12 | Haunted Angel | Card Name">
         <source>Haunted Angel</source>
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="78d2d11b-12e4-4810-a32d-8f1cdda3ec49" resname="APC·12 | Haunted Angel | Card Text | Paragraphs">
         <source>Flying\nWhen CARDNAME dies, exile CARDNAME and each other player creates a 3/3 black Angel creature token with flying.</source>
-        <target state="translated">飞行当暗祟天使从场上置入坟墓场时，将暗祟天使移出对战，并且每位其他牌手各将一个3/3黑色，具有飞行异能的天使衍生物放置进场。</target>
+        <target state="translated">飞行当CARDNAME从场上置入坟墓场时，将CARDNAME移出对战，并且每位其他牌手各将一个3/3黑色，具有飞行异能的天使衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="3a4d395e-d7d6-4e93-9761-b0bae63b7b1c" resname="APC·13 | Helionaut | Card Name">
         <source>Helionaut</source>
@@ -151,7 +151,7 @@
       </trans-unit>
       <trans-unit id="13099abe-721e-42b4-9666-9e6b5f1d75c9" resname="APC·17 | Spectral Lynx | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{B}：重生魂魅山猫。（此生物下一次将被消灭时，改为将它横置、移出战斗，并治愈其上所有伤害。）</target>
+        <target state="translated">{B}：重生CARDNAME。（此生物下一次将被消灭时，改为将它横置、移出战斗，并治愈其上所有伤害。）</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="e0f8e16a-55f0-4147-a01a-dba7938f31c4" resname="APC·18 | Standard Bearer | Card Name">
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="69063cc2-4f6e-4cce-bb09-ccd57b69b993" resname="APC·21 | Cetavolver | Card Text | Paragraphs">
         <source>Kicker {1}{R} and/or {G} (You may pay an additional {1}{R} and/or {G} as you cast this spell.)\nIf CARDNAME was kicked with its {1}{R} kicker, it enters the battlefield with two +1/+1 counters on it and with first strike.\nIf CARDNAME was kicked with its {G} kicker, it enters the battlefield with a +1/+1 counter on it and with trample.</source>
-        <target state="translated">增幅1红和／或绿若你已支付其1红的增幅费用，则塞塔进化体进场时上面有两个+1/+1指示物，并具有先攻异能。若你已支付其绿的增幅费用，则塞塔进化体进场时上面有一个+1/+1指示物，并具有践踏异能。</target>
+        <target state="translated">增幅1红和／或绿若你已支付其1红的增幅费用，则CARDNAME进场时上面有两个+1/+1指示物，并具有先攻异能。若你已支付其绿的增幅费用，则CARDNAME进场时上面有一个+1/+1指示物，并具有践踏异能。</target>
       </trans-unit>
       <trans-unit id="f87aaa74-26c6-4057-84b9-a007383684a5" resname="APC·22 | Coastal Drake | Card Name">
         <source>Coastal Drake</source>
@@ -234,7 +234,7 @@
       </trans-unit>
       <trans-unit id="a010d2b1-960d-4032-a47a-61fe0998bee3" resname="APC·27 | Jilt | Card Text | Paragraphs">
         <source>Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nReturn target creature to its owner's hand. If this spell was kicked, it deals 2 damage to another target creature.</source>
-        <target state="translated">增幅1红（你使用此咒语时可以额外支付1红）将目标生物移回其拥有者手上。若你已支付其增幅费用，则遗弃再对另一个目标生物造成2点伤害。</target>
+        <target state="translated">增幅1红（你使用此咒语时可以额外支付1红）将目标生物移回其拥有者手上。若你已支付其增幅费用，则CARDNAME再对另一个目标生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="b0441eef-392e-4af4-b189-2f1fb8bf3fca" resname="APC·28 | Living Airship | Card Name">
         <source>Living Airship</source>
@@ -242,7 +242,7 @@
       </trans-unit>
       <trans-unit id="b0441eef-392e-4af4-b189-2f1fb8bf3fca" resname="APC·28 | Living Airship | Card Text | Paragraphs">
         <source>Flying\n{2}{G}: Regenerate CARDNAME.</source>
-        <target state="translated">飞行2绿：重生生体飞船。</target>
+        <target state="translated">飞行2绿：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="c6f56714-0baa-48f9-8da1-50d9279e759c" resname="APC·29 | Reef Shaman | Card Name">
         <source>Reef Shaman</source>
@@ -266,7 +266,7 @@
       </trans-unit>
       <trans-unit id="80b7cd5d-e81a-4729-b5d3-45587756413a" resname="APC·31 | Tidal Courier | Card Text | Paragraphs">
         <source>When CARDNAME enters the battlefield, reveal the top four cards of your library. Put all Merfolk cards revealed this way into your hand and the rest on the bottom of your library in any order.\n{3}{U}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">当乘潮讯使进场时，展示你牌库顶上的四张牌。将所有以此法展示的人鱼牌置于你的手上，并将其余的牌置于你的牌库底。3蓝：乘潮讯使获得飞行异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进场时，展示你牌库顶上的四张牌。将所有以此法展示的人鱼牌置于你的手上，并将其余的牌置于你的牌库底。3蓝：CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="c575e2cb-3990-4c73-b81c-e16311ec6bbb" resname="APC·32 | Unnatural Selection | Card Name">
         <source>Unnatural Selection</source>
@@ -290,7 +290,7 @@
       </trans-unit>
       <trans-unit id="6e866093-89a3-458d-8ebc-de805ef7885e" resname="APC·34 | Whirlpool Drake | Card Text | Paragraphs">
         <source>Flying\nWhen CARDNAME enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.\nWhen CARDNAME dies, shuffle the cards from your hand into your library, then draw that many cards.</source>
-        <target state="translated">飞行当漩涡龙兽进场时，将你的手牌洗入你的牌库中，然后抓等量的牌。当漩涡龙兽从场上置入坟墓场时，将你的手牌洗入你的牌库中，然后抓等量的牌。</target>
+        <target state="translated">飞行当CARDNAME进场时，将你的手牌洗入你的牌库中，然后抓等量的牌。当CARDNAME从场上置入坟墓场时，将你的手牌洗入你的牌库中，然后抓等量的牌。</target>
       </trans-unit>
       <trans-unit id="0de47f44-8c5e-4114-9064-145d2d8813c6" resname="APC·35 | Whirlpool Rider | Card Name">
         <source>Whirlpool Rider</source>
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="0de47f44-8c5e-4114-9064-145d2d8813c6" resname="APC·35 | Whirlpool Rider | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.</source>
-        <target state="translated">当漩涡骑兵进场时，将你的手牌洗入你的牌库中，然后抓等量的牌。</target>
+        <target state="translated">当CARDNAME进场时，将你的手牌洗入你的牌库中，然后抓等量的牌。</target>
       </trans-unit>
       <trans-unit id="01f891ca-4e6a-4710-b1cf-5dabb5e1ad93" resname="APC·36 | Whirlpool Warrior | Card Name">
         <source>Whirlpool Warrior</source>
@@ -306,7 +306,7 @@
       </trans-unit>
       <trans-unit id="01f891ca-4e6a-4710-b1cf-5dabb5e1ad93" resname="APC·36 | Whirlpool Warrior | Card Text | Paragraphs">
         <source>When CARDNAME enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.\n{R}, Sacrifice CARDNAME: Each player shuffles the cards from their hand into their library, then draws that many cards.</source>
-        <target state="translated">当漩涡战士进场时，将你的手牌洗入你的牌库中，然后抓等量的牌。红，牺牲漩涡战士：每位牌手将其手牌洗入其牌库中，然后抓等量的牌。</target>
+        <target state="translated">当CARDNAME进场时，将你的手牌洗入你的牌库中，然后抓等量的牌。红，牺牲CARDNAME：每位牌手将其手牌洗入其牌库中，然后抓等量的牌。</target>
       </trans-unit>
       <trans-unit id="9b78028c-3ebd-432d-b628-e1fa284f08f3" resname="APC·37 | Dead Ringers | Card Name">
         <source>Dead Ringers</source>
@@ -322,7 +322,7 @@
       </trans-unit>
       <trans-unit id="445127d4-8afb-47cf-b2a1-564540b1fdae" resname="APC·38 | Desolation Angel | Card Text | Paragraphs">
         <source>Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)\nFlying\nWhen CARDNAME enters the battlefield, destroy all lands you control. If it was kicked, destroy all lands instead.</source>
-        <target state="translated">增幅白白（你使用此咒语时可以额外支付白白）飞行当荒芜天使进场时，消灭所有由你操控的地。若你已支付其增幅费用，则改为消灭所有地。</target>
+        <target state="translated">增幅白白（你使用此咒语时可以额外支付白白）飞行当CARDNAME进场时，消灭所有由你操控的地。若你已支付其增幅费用，则改为消灭所有地。</target>
       </trans-unit>
       <trans-unit id="7c5a6fa8-d422-4e56-9e7b-2ff2fc8aecfe" resname="APC·39 | Foul Presence | Card Name">
         <source>Foul Presence</source>
@@ -338,7 +338,7 @@
       </trans-unit>
       <trans-unit id="f8f76edc-6067-43bd-9582-1d59caf91597" resname="APC·40 | Grave Defiler | Card Text | Paragraphs">
         <source>When CARDNAME enters the battlefield, reveal the top four cards of your library. Put all Zombie cards revealed this way into your hand and the rest on the bottom of your library in any order.\n{1}{B}: Regenerate CARDNAME.</source>
-        <target state="translated">当墓场污者进场时，展示你牌库顶上的四张牌。将所有以此法展示的灵俑牌置于你的手上，并将其余的牌置于你的牌库底。1黑：重生墓场污者。</target>
+        <target state="translated">当CARDNAME进场时，展示你牌库顶上的四张牌。将所有以此法展示的灵俑牌置于你的手上，并将其余的牌置于你的牌库底。1黑：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="12317075-92a2-4b3a-a694-3b764132beaf" resname="APC·41 | Last Caress | Card Name">
         <source>Last Caress</source>
@@ -386,7 +386,7 @@
       </trans-unit>
       <trans-unit id="232c32d9-9b0c-458d-b1b3-e4219bd34c82" resname="APC·46 | Necravolver | Card Text | Paragraphs">
         <source>Kicker {1}{G} and/or {W} (You may pay an additional {1}{G} and/or {W} as you cast this spell.)\nIf CARDNAME was kicked with its {1}{G} kicker, it enters the battlefield with two +1/+1 counters on it and with trample.\nIf CARDNAME was kicked with its {W} kicker, it enters the battlefield with a +1/+1 counter on it and with &amp;quot;Whenever CARDNAME deals damage, you gain that much life.&amp;quot;</source>
-        <target state="translated">增幅1绿和／或白若你已支付其1绿的增幅费用，则涅夸进化体进场时上面有两个+1/+1指示物，并具有践踏异能。若你已支付其白的增幅费用，则涅夸进化体进场时上面有一个+1/+1指示物，并具有「每当涅夸进化体造成伤害时，你便获得与该伤害等量的生命。」</target>
+        <target state="translated">增幅1绿和／或白若你已支付其1绿的增幅费用，则CARDNAME进场时上面有两个+1/+1指示物，并具有践踏异能。若你已支付其白的增幅费用，则CARDNAME进场时上面有一个+1/+1指示物，并具有「每当CARDNAME造成伤害时，你便获得与该伤害等量的生命。」</target>
       </trans-unit>
       <trans-unit id="84e19975-e3e1-453b-b902-a1b1fc1d8504" resname="APC·47 | Phyrexian Arena | Card Name">
         <source>Phyrexian Arena</source>
@@ -405,7 +405,7 @@
       </trans-unit>
       <trans-unit id="47c80cdd-4287-4ecb-992b-f265cd422098" resname="APC·48 | Phyrexian Gargantua | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you draw two cards and you lose 2 life.</source>
-        <target state="translated">当非瑞克西亚巨罡兽进战场时，你抓两张牌且失去2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你抓两张牌且失去2点生命。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="3a92d454-3f23-45bf-921f-25b0da4ce138" resname="APC·50 | Planar Despair | Card Name">
@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="1fb8c277-3154-47c9-835f-327cac297a5e" resname="APC·54 | Zombie Boa | Card Text | Paragraph 1">
         <source>{1}{B}: Choose a color. Whenever CARDNAME becomes blocked by a creature of that color this turn, destroy that creature. Activate only as a sorcery.</source>
-        <target state="translated">1黑：选择一种颜色。于本回合中，每当灵俑蟒蛇被该色的生物阻挡时，消灭该生物。你只可以于你能够使用法术的时机下使用此异能。</target>
+        <target state="translated">1黑：选择一种颜色。于本回合中，每当CARDNAME被该色的生物阻挡时，消灭该生物。你只可以于你能够使用法术的时机下使用此异能。</target>
       </trans-unit>
       <trans-unit id="518145f3-9919-4ed6-9e2e-772ee349ea57" resname="APC·55 | Bloodfire Colossus | Card Name">
         <source>Bloodfire Colossus</source>
@@ -462,7 +462,7 @@
       </trans-unit>
       <trans-unit id="518145f3-9919-4ed6-9e2e-772ee349ea57" resname="APC·55 | Bloodfire Colossus | Card Text | Paragraph 1">
         <source>{R}, Sacrifice CARDNAME: It deals 6 damage to each creature and each player.</source>
-        <target state="translated">{R}，牺牲血焰巨像：血焰巨像对每个生物和每位牌手各造成6点伤害。</target>
+        <target state="translated">{R}，牺牲CARDNAME：CARDNAME对每个生物和每位牌手各造成6点伤害。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="86b5c38e-7d74-4862-8187-f5db4a3d1e0f" resname="APC·56 | Bloodfire Dwarf | Card Name">
@@ -471,7 +471,7 @@
       </trans-unit>
       <trans-unit id="86b5c38e-7d74-4862-8187-f5db4a3d1e0f" resname="APC·56 | Bloodfire Dwarf | Card Text | Paragraph 1">
         <source>{R}, Sacrifice CARDNAME: It deals 1 damage to each creature without flying.</source>
-        <target state="translated">红，牺牲血焰矮人：血焰矮人对每个不具飞行异能的生物各造成1点伤害。</target>
+        <target state="translated">红，牺牲CARDNAME：CARDNAME对每个不具飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="2639e9b7-ed8c-48fd-a8b7-b99d8dad4bc0" resname="APC·57 | Bloodfire Infusion | Card Name">
         <source>Bloodfire Infusion</source>
@@ -479,7 +479,7 @@
       </trans-unit>
       <trans-unit id="2639e9b7-ed8c-48fd-a8b7-b99d8dad4bc0" resname="APC·57 | Bloodfire Infusion | Card Text | Paragraphs">
         <source>Enchant creature you control\n{R}, Sacrifice enchanted creature: CARDNAME deals damage equal to the sacrificed creature's power to each creature.</source>
-        <target state="translated">血焰灌输只能结附于由你操控的生物上。红，牺牲受此结界的生物：血焰灌输对每个生物各造成等同于受此结界的生物之力量的伤害。</target>
+        <target state="translated">CARDNAME只能结附于由你操控的生物上。红，牺牲受此结界的生物：CARDNAME对每个生物各造成等同于受此结界的生物之力量的伤害。</target>
       </trans-unit>
       <trans-unit id="1442b1f3-8c2c-4553-906f-c864fcdc6ae5" resname="APC·58 | Bloodfire Kavu | Card Name">
         <source>Bloodfire Kavu</source>
@@ -487,7 +487,7 @@
       </trans-unit>
       <trans-unit id="1442b1f3-8c2c-4553-906f-c864fcdc6ae5" resname="APC·58 | Bloodfire Kavu | Card Text | Paragraph 1">
         <source>{R}, Sacrifice CARDNAME: It deals 2 damage to each creature.</source>
-        <target state="translated">红，牺牲血焰卡甫：血焰卡甫对每个生物各造成2点伤害。</target>
+        <target state="translated">红，牺牲CARDNAME：CARDNAME对每个生物各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="2e7291da-1d14-4763-8691-c67136ab67c7" resname="APC·59 | Desolation Giant | Card Name">
         <source>Desolation Giant</source>
@@ -496,7 +496,7 @@
       </trans-unit>
       <trans-unit id="2e7291da-1d14-4763-8691-c67136ab67c7" resname="APC·59 | Desolation Giant | Card Text | Paragraphs">
         <source>Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)\nWhen CARDNAME enters the battlefield, destroy all other creatures you control. If it was kicked, destroy all other creatures instead.</source>
-        <target state="translated">增幅{W}{W}（你施放此咒语时可以额外支付{W}{W}。）当荒芜巨人进战场时，消灭所有由你操控的其他生物。若它已增幅，则改为消灭所有其他生物。</target>
+        <target state="translated">增幅{W}{W}（你施放此咒语时可以额外支付{W}{W}。）当CARDNAME进战场时，消灭所有由你操控的其他生物。若它已增幅，则改为消灭所有其他生物。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="48ab243e-d08d-4ece-9725-4bb5f67b1c92" resname="APC·60 | Dwarven Landslide | Card Name">
@@ -513,7 +513,7 @@
       </trans-unit>
       <trans-unit id="03c08df5-f5e7-4498-ac80-25ccbe304b26" resname="APC·61 | Dwarven Patrol | Card Text | Paragraphs">
         <source>CARDNAME doesn't untap during your untap step.\nWhenever you cast a nonred spell, untap CARDNAME.</source>
-        <target state="translated">矮人巡逻队在你的重置步骤中不可重置。每当你使用非红色的咒语时，重置矮人巡逻队。</target>
+        <target state="translated">CARDNAME在你的重置步骤中不可重置。每当你使用非红色的咒语时，重置CARDNAME。</target>
       </trans-unit>
       <trans-unit id="b6b2cd77-9552-48b1-80cb-26966323c1ea" resname="APC·62 | Goblin Ringleader | Card Name">
         <source>Goblin Ringleader</source>
@@ -527,7 +527,7 @@
       </trans-unit>
       <trans-unit id="b6b2cd77-9552-48b1-80cb-26966323c1ea" resname="APC·62 | Goblin Ringleader | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">当鬼怪魁首进战场时，展示你牌库顶的四张牌。将以此法展示的所有鬼怪牌置于你手上，其余则以任意顺序置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，展示你牌库顶的四张牌。将以此法展示的所有鬼怪牌置于你手上，其余则以任意顺序置于你的牌库底。</target>
         <note xmlns:from="developer">中文数据来自M20（2019-07-12）；</note>
       </trans-unit>
       <trans-unit id="ceef2761-7301-42de-8f54-49b8cd1e457b" resname="APC·63 | Illuminate | Card Name">
@@ -536,7 +536,7 @@
       </trans-unit>
       <trans-unit id="ceef2761-7301-42de-8f54-49b8cd1e457b" resname="APC·63 | Illuminate | Card Text | Paragraphs">
         <source>Kicker {2}{R} and/or {3}{U} (You may pay an additional {2}{R} and/or {3}{U} as you cast this spell.)\nCARDNAME deals X damage to target creature. If this spell was kicked with its {2}{R} kicker, it deals X damage to that creature's controller. If this spell was kicked with its {3}{U} kicker, you draw X cards.</source>
-        <target state="translated">增幅2红和／或3蓝（你使用此咒语时可以额外支付2红和／或3蓝）烨焰对目标生物造成X点伤害。若你已支付其2红的增幅费用，则烨焰亦对该生物的操控者造成X点伤害。若你已支付其3蓝的增幅费用，则你抓X张牌。</target>
+        <target state="translated">增幅2红和／或3蓝（你使用此咒语时可以额外支付2红和／或3蓝）CARDNAME对目标生物造成X点伤害。若你已支付其2红的增幅费用，则CARDNAME亦对该生物的操控者造成X点伤害。若你已支付其3蓝的增幅费用，则你抓X张牌。</target>
       </trans-unit>
       <trans-unit id="158aa5a8-2769-4a8a-b457-001abc862b35" resname="APC·64 | Kavu Glider | Card Name">
         <source>Kavu Glider</source>
@@ -544,7 +544,7 @@
       </trans-unit>
       <trans-unit id="158aa5a8-2769-4a8a-b457-001abc862b35" resname="APC·64 | Kavu Glider | Card Text | Paragraphs">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.\n{U}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">白：滑翔卡甫得+0/+1直到回合结束。蓝：滑翔卡甫获得飞行异能直到回合结束。</target>
+        <target state="translated">白：CARDNAME得+0/+1直到回合结束。蓝：CARDNAME获得飞行异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="097decb6-03bd-4a84-ab9a-75becf85cae8" resname="APC·65 | Minotaur Tactician | Card Name">
         <source>Minotaur Tactician</source>
@@ -552,7 +552,7 @@
       </trans-unit>
       <trans-unit id="097decb6-03bd-4a84-ab9a-75becf85cae8" resname="APC·65 | Minotaur Tactician | Card Text | Paragraphs">
         <source>Haste\nCARDNAME gets +1/+1 as long as you control a white creature.\nCARDNAME gets +1/+1 as long as you control a blue creature.</source>
-        <target state="translated">敏捷（你操控该生物的该回合中，它便可以攻击以及横置）只要你操控任何白色生物，牛头怪战术家便得+1/+1。只要你操控任何蓝色生物，牛头怪战术家便得+1/+1。</target>
+        <target state="translated">敏捷（你操控该生物的该回合中，它便可以攻击以及横置）只要你操控任何白色生物，CARDNAME便得+1/+1。只要你操控任何蓝色生物，CARDNAME便得+1/+1。</target>
       </trans-unit>
       <trans-unit id="41462d43-4f9f-46ba-b79d-434597e74b6b" resname="APC·66 | Raka Disciple | Card Name">
         <source>Raka Disciple</source>
@@ -568,7 +568,7 @@
       </trans-unit>
       <trans-unit id="62cab0be-589c-42a0-a297-1faaec46c73f" resname="APC·67 | Raka Sanctuary | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, if you control a white or blue permanent, CARDNAME deals 1 damage to target creature. If you control a white permanent and a blue permanent, CARDNAME deals 3 damage instead.</source>
-        <target state="translated">在你的维持开始时，若你操控白色或蓝色的永久物，拉卡圣域便对目标生物造成1点伤害。若你同时操控白色永久物及蓝色永久物，则改为拉卡圣域对该生物造成3点伤害。</target>
+        <target state="translated">在你的维持开始时，若你操控白色或蓝色的永久物，CARDNAME便对目标生物造成1点伤害。若你同时操控白色永久物及蓝色永久物，则改为CARDNAME对该生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="43787e24-0b7d-4005-8db4-68544476bd34" resname="APC·68 | Rakavolver | Card Name">
         <source>Rakavolver</source>
@@ -576,7 +576,7 @@
       </trans-unit>
       <trans-unit id="43787e24-0b7d-4005-8db4-68544476bd34" resname="APC·68 | Rakavolver | Card Text | Paragraphs">
         <source>Kicker {1}{W} and/or {U} (You may pay an additional {1}{W} and/or {U} as you cast this spell.)\nIf CARDNAME was kicked with its {1}{W} kicker, it enters the battlefield with two +1/+1 counters on it and with &amp;quot;Whenever CARDNAME deals damage, you gain that much life.&amp;quot;\nIf CARDNAME was kicked with its {U} kicker, it enters the battlefield with a +1/+1 counter on it and with flying.</source>
-        <target state="translated">增幅1白和／或蓝若你已支付其1白的增幅费用，拉卡进化体进场时上面有两个+1/+1指示物，并具有「每当拉卡进化体造成伤害时，你便获得与该伤害等量的生命。」若你已支付其蓝的增幅费用，拉卡进化体进场时上面有一个+1/+1指示物，并具有飞行异能。</target>
+        <target state="translated">增幅1白和／或蓝若你已支付其1白的增幅费用，CARDNAME进场时上面有两个+1/+1指示物，并具有「每当CARDNAME造成伤害时，你便获得与该伤害等量的生命。」若你已支付其蓝的增幅费用，CARDNAME进场时上面有一个+1/+1指示物，并具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="4a6c869c-74c2-42b6-bb23-a2f481c4b673" resname="APC·69 | Smash | Card Name">
         <source>Smash</source>
@@ -639,7 +639,7 @@
       </trans-unit>
       <trans-unit id="5e685a8c-fba6-495f-ac0f-1ff5456b22d0" resname="APC·75 | Anavolver | Card Text | Paragraphs">
         <source>Kicker {1}{U} and/or {B} (You may pay an additional {1}{U} and/or {B} as you cast this spell.)\nIf CARDNAME was kicked with its {1}{U} kicker, it enters the battlefield with two +1/+1 counters on it and with flying.\nIf CARDNAME was kicked with its {B} kicker, it enters the battlefield with a +1/+1 counter on it and with &amp;quot;Pay 3 life: Regenerate CARDNAME.&amp;quot;</source>
-        <target state="translated">增幅1蓝和／或黑若你已支付其1蓝的增幅费用，则阿纳进化体进场时上面有两个+1/+1指示物，并具有飞行异能。若你已支付其黑的增幅费用，则阿纳进化体进场时上面有一个+1/+1指示物，并具有「支付3点生命：重生阿纳进化体。」</target>
+        <target state="translated">增幅1蓝和／或黑若你已支付其1蓝的增幅费用，则CARDNAME进场时上面有两个+1/+1指示物，并具有飞行异能。若你已支付其黑的增幅费用，则CARDNAME进场时上面有一个+1/+1指示物，并具有「支付3点生命：重生CARDNAME。」</target>
       </trans-unit>
       <trans-unit id="3f230831-023c-41aa-832e-16ac81e68588" resname="APC·76 | Bog Gnarr | Card Name">
         <source>Bog Gnarr</source>
@@ -647,7 +647,7 @@
       </trans-unit>
       <trans-unit id="3f230831-023c-41aa-832e-16ac81e68588" resname="APC·76 | Bog Gnarr | Card Text | Paragraph 1">
         <source>Whenever a player casts a black spell, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">每当任何牌手使用黑色咒语时，腐沼嚎龙便得+2/+2直到回合结束。</target>
+        <target state="translated">每当任何牌手使用黑色咒语时，CARDNAME便得+2/+2直到回合结束。</target>
       </trans-unit>
       <trans-unit id="f1ffc5f8-ff1c-4733-b046-8679fa16371b" resname="APC·77 | Gaea's Balance | Card Name">
         <source>Gaea's Balance</source>
@@ -655,7 +655,7 @@
       </trans-unit>
       <trans-unit id="f1ffc5f8-ff1c-4733-b046-8679fa16371b" resname="APC·77 | Gaea's Balance | Card Text | Paragraphs">
         <source>As an additional cost to cast this spell, sacrifice five lands.\nSearch your library for a land card of each basic land type, put those cards onto the battlefield, then shuffle.</source>
-        <target state="translated">牺牲五张地，以作为使用盖亚的平衡之额外费用。从你的牌库中，每一种基本地类别的地牌各搜寻一张，并将它们放置进场。然后将你的牌库洗牌。</target>
+        <target state="translated">牺牲五张地，以作为使用CARDNAME之额外费用。从你的牌库中，每一种基本地类别的地牌各搜寻一张，并将它们放置进场。然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="ee38eeae-918b-4d19-b37a-175ac5db37a4" resname="APC·78 | Glade Gnarr | Card Name">
         <source>Glade Gnarr</source>
@@ -663,7 +663,7 @@
       </trans-unit>
       <trans-unit id="ee38eeae-918b-4d19-b37a-175ac5db37a4" resname="APC·78 | Glade Gnarr | Card Text | Paragraph 1">
         <source>Whenever a player casts a blue spell, CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">每当任何牌手使用蓝色咒语时，林隙嚎龙便得+2/+2 直到回合结束。</target>
+        <target state="translated">每当任何牌手使用蓝色咒语时，CARDNAME便得+2/+2 直到回合结束。</target>
       </trans-unit>
       <trans-unit id="5fdf502f-445d-4724-b7d0-8fdd5bf557a8" resname="APC·79 | Kavu Howler | Card Name">
         <source>Kavu Howler</source>
@@ -671,7 +671,7 @@
       </trans-unit>
       <trans-unit id="5fdf502f-445d-4724-b7d0-8fdd5bf557a8" resname="APC·79 | Kavu Howler | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, reveal the top four cards of your library. Put all Kavu cards revealed this way into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">当咆哮卡甫进场时，展示你牌库顶上的四张牌。将所有以此法展示的卡甫牌置于你的手上，并将其余的牌置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进场时，展示你牌库顶上的四张牌。将所有以此法展示的卡甫牌置于你的手上，并将其余的牌置于你的牌库底。</target>
       </trans-unit>
       <trans-unit id="79adc3af-5fa3-4cb6-9bbc-52ede0c69263" resname="APC·80 | Kavu Mauler | Card Name">
         <source>Kavu Mauler</source>
@@ -679,7 +679,7 @@
       </trans-unit>
       <trans-unit id="79adc3af-5fa3-4cb6-9bbc-52ede0c69263" resname="APC·80 | Kavu Mauler | Card Text | Paragraphs">
         <source>Trample\nWhenever CARDNAME attacks, it gets +1/+1 until end of turn for each other attacking Kavu.</source>
-        <target state="translated">践踏每当虐杀卡甫攻击时，每有一个其他的卡甫同时进行攻击，虐杀卡甫便得+1/+1直到回合结束。</target>
+        <target state="translated">践踏每当CARDNAME攻击时，每有一个其他的卡甫同时进行攻击，CARDNAME便得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="90b10608-8917-4337-ad60-ab31ab8c0fc4" resname="APC·81 | Lay of the Land | Card Name">
         <source>Lay of the Land</source>
@@ -698,7 +698,7 @@
       </trans-unit>
       <trans-unit id="21049fee-a748-4856-99ae-3a225a168532" resname="APC·82 | Penumbra Bobcat | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a 2/1 black Cat creature token.</source>
-        <target state="translated">当罔两野猫死去时，派出一个2/1黑色的猫衍生生物。</target>
+        <target state="translated">当CARDNAME死去时，派出一个2/1黑色的猫衍生生物。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="ee334211-4109-46ff-8676-856048221a1c" resname="APC·83 | Penumbra Kavu | Card Name">
@@ -707,7 +707,7 @@
       </trans-unit>
       <trans-unit id="ee334211-4109-46ff-8676-856048221a1c" resname="APC·83 | Penumbra Kavu | Card Text | Paragraph 1">
         <source>When CARDNAME dies, create a 3/3 black Kavu creature token.</source>
-        <target state="translated">当罔两卡甫从场上置入坟墓场时，将一个3/3黑色的卡甫衍生物放置进场。</target>
+        <target state="translated">当CARDNAME从场上置入坟墓场时，将一个3/3黑色的卡甫衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="ae3dffe7-ecaf-4cf0-a43e-8e2746282992" resname="APC·84 | Penumbra Wurm | Card Name">
         <source>Penumbra Wurm</source>
@@ -715,7 +715,7 @@
       </trans-unit>
       <trans-unit id="ae3dffe7-ecaf-4cf0-a43e-8e2746282992" resname="APC·84 | Penumbra Wurm | Card Text | Paragraphs">
         <source>Trample\nWhen CARDNAME dies, create a 6/6 black Wurm creature token with trample.</source>
-        <target state="translated">践踏当罔两亚龙从场上置入坟墓场时，将一个6/6黑色，具有践踏异能的亚龙衍生物放置进场。</target>
+        <target state="translated">践踏当CARDNAME从场上置入坟墓场时，将一个6/6黑色，具有践踏异能的亚龙衍生物放置进场。</target>
       </trans-unit>
       <trans-unit id="32ad3f87-9f25-455f-9933-3b0b0eaad467" resname="APC·85 | Savage Gorilla | Card Name">
         <source>Savage Gorilla</source>
@@ -723,7 +723,7 @@
       </trans-unit>
       <trans-unit id="32ad3f87-9f25-455f-9933-3b0b0eaad467" resname="APC·85 | Savage Gorilla | Card Text | Paragraph 1">
         <source>{U}{B}, {T}, Sacrifice CARDNAME: Target creature gets -3/-3 until end of turn. Draw a card.</source>
-        <target state="translated">蓝黑，横置，牺牲粗野大猩猩：目标生物得-3/-3直到回合结束。抓一张牌。</target>
+        <target state="translated">蓝黑，横置，牺牲CARDNAME：目标生物得-3/-3直到回合结束。抓一张牌。</target>
       </trans-unit>
       <trans-unit id="87aab031-4e44-44cd-89a7-6cffc7288cd1" resname="APC·86 | Strength of Night | Card Name">
         <source>Strength of Night</source>
@@ -745,7 +745,7 @@
       </trans-unit>
       <trans-unit id="fd67d17e-23d2-47a0-a10b-c3d63cbf969a" resname="APC·87 | Sylvan Messenger | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">当森林信驿进战场时，展示你牌库顶的四张牌。将以此法展示的所有妖精牌置于你手上，其余则以任意顺序置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，展示你牌库顶的四张牌。将以此法展示的所有妖精牌置于你手上，其余则以任意顺序置于你的牌库底。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="a6e2b7e9-d52b-478e-b118-e890a81fd471" resname="APC·88 | Symbiotic Deployment | Card Name">
@@ -802,7 +802,7 @@
       </trans-unit>
       <trans-unit id="7d9e0a23-d2a8-40a6-9076-ed6fb539141b" resname="APC·94 | Cromat | Card Text | Paragraphs">
         <source>{W}{B}: Destroy target creature blocking or blocked by CARDNAME.\n{U}{R}: CARDNAME gains flying until end of turn.\n{B}{G}: Regenerate CARDNAME.\n{R}{W}: CARDNAME gets +1/+1 until end of turn.\n{G}{U}: Put CARDNAME on top of its owner's library.</source>
-        <target state="translated">白黑：消灭阻挡克罗玛特，或是被克罗玛特所阻挡的目标生物。蓝红：克罗玛特获得飞行异能直到回合结束。黑绿：重生克罗玛特。红白：克罗玛特得+1/+1直到回合结束。绿蓝：将克罗玛特置于其拥有者的牌库顶上。</target>
+        <target state="translated">白黑：消灭阻挡CARDNAME，或是被CARDNAME所阻挡的目标生物。蓝红：CARDNAME获得飞行异能直到回合结束。黑绿：重生CARDNAME。红白：CARDNAME得+1/+1直到回合结束。绿蓝：将CARDNAME置于其拥有者的牌库顶上。</target>
       </trans-unit>
       <trans-unit id="0e893dd4-8c37-496e-bc39-cd83d42b4cc4" resname="APC·95 | Death Grasp | Card Name">
         <source>Death Grasp</source>
@@ -811,7 +811,7 @@
       </trans-unit>
       <trans-unit id="0e893dd4-8c37-496e-bc39-cd83d42b4cc4" resname="APC·95 | Death Grasp | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to any target. You gain X life.</source>
-        <target state="translated">死亡之攫对目标生物或牌手造成X点伤害。你获得X点生命。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成X点伤害。你获得X点生命。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="4c643d87-50bc-4380-b1d6-0a465eef5dbf" resname="APC·96 | Death Mutation | Card Name">
@@ -828,7 +828,7 @@
       </trans-unit>
       <trans-unit id="2b85dadb-351f-4975-a2c3-febf5e80bc85" resname="APC·97 | Ebony Treefolk | Card Text | Paragraph 1">
         <source>{B}{G}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">黑绿：黑檀树妖得+1/+1直到回合结束。</target>
+        <target state="translated">黑绿：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d610a9d5-c650-45ad-a9b0-b55113701e05" resname="APC·98 | Fervent Charge | Card Name">
         <source>Fervent Charge</source>
@@ -844,7 +844,7 @@
       </trans-unit>
       <trans-unit id="c57abdab-d99c-418c-818d-b06a8722d733" resname="APC·99 | Flowstone Charger | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +3/-3 until end of turn.</source>
-        <target state="translated">每当液石冲锋兽攻击时，它得+3/-3直到回合结束。</target>
+        <target state="translated">每当CARDNAME攻击时，它得+3/-3直到回合结束。</target>
       </trans-unit>
       <trans-unit id="8a564432-c2b3-4cf6-b4bc-2e2600b92911" resname="APC·101 | Gaea's Skyfolk | Card Name">
         <source>Gaea's Skyfolk</source>
@@ -870,7 +870,7 @@
       </trans-unit>
       <trans-unit id="c684407e-277a-4e32-a978-cdac9548acce" resname="APC·103 | Goblin Legionnaire | Card Text | Paragraphs">
         <source>{R}, Sacrifice CARDNAME: It deals 2 damage to any target.\n{W}, Sacrifice CARDNAME: Prevent the next 2 damage that would be dealt to any target this turn.</source>
-        <target state="translated">红，牺牲精灵军团兵：精灵军团兵对目标生物或牌手造成2点伤害。白，牺牲精灵军团兵：于本回合中，防止接下来将对目标生物或牌手造成的2点伤害。</target>
+        <target state="translated">红，牺牲CARDNAME：CARDNAME对目标生物或牌手造成2点伤害。白，牺牲CARDNAME：于本回合中，防止接下来将对目标生物或牌手造成的2点伤害。</target>
       </trans-unit>
       <trans-unit id="2100844c-6a41-40f5-b7f8-9b426d5a6945" resname="APC·104 | Goblin Trenches | Card Name">
         <source>Goblin Trenches</source>
@@ -904,7 +904,7 @@
       </trans-unit>
       <trans-unit id="4eb114a4-44e5-4375-92b8-00a0b0acbe94" resname="APC·106 | Jungle Barrier | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当丛林屏障进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="7dc3d054-6266-4ce0-89ed-f8b170794f2e" resname="APC·107 | Last Stand | Card Name">
@@ -913,7 +913,7 @@
       </trans-unit>
       <trans-unit id="7dc3d054-6266-4ce0-89ed-f8b170794f2e" resname="APC·107 | Last Stand | Card Text | Paragraph 1">
         <source>Target opponent loses 2 life for each Swamp you control. CARDNAME deals damage to target creature equal to the number of Mountains you control. Create a 1/1 green Saproling creature token for each Forest you control. You gain 2 life for each Plains you control. Draw a card for each Island you control, then discard that many cards.</source>
-        <target state="translated">你每操控一张沼泽，目标对手便失去2点生命。奋抗到底对目标生物造成等同于由你操控的山脉数量之伤害。你每操控一张树林，便将一个1/1绿色的腐生物衍生物放置进场。你每操控一张平原，便获得2点生命。你抓取若干牌，其数量等同于由你操控的海岛数量，然后从你的手上弃掉等量的牌。</target>
+        <target state="translated">你每操控一张沼泽，目标对手便失去2点生命。CARDNAME对目标生物造成等同于由你操控的山脉数量之伤害。你每操控一张树林，便将一个1/1绿色的腐生物衍生物放置进场。你每操控一张平原，便获得2点生命。你抓取若干牌，其数量等同于由你操控的海岛数量，然后从你的手上弃掉等量的牌。</target>
       </trans-unit>
       <trans-unit id="6518d0c5-58ee-4089-bf19-5030d4319681" resname="APC·108 | Lightning Angel | Card Name">
         <source>Lightning Angel</source>
@@ -947,7 +947,7 @@
       </trans-unit>
       <trans-unit id="d8a49d29-6d01-4b1d-80c8-9e5378a76878" resname="APC·111 | Minotaur Illusionist | Card Text | Paragraphs">
         <source>{1}{U}: CARDNAME gains shroud until end of turn. (It can't be the target of spells or abilities.)\n{R}, Sacrifice CARDNAME: It deals damage equal to its power to target creature.</source>
-        <target state="translated">1蓝：牛头怪幻术师本回合不能成为咒语或异能的目标。红，牺牲牛头怪幻术师：牛头怪幻术师对目标生物造成等同于牛头怪幻术师力量的伤害。</target>
+        <target state="translated">1蓝：CARDNAME本回合不能成为咒语或异能的目标。红，牺牲CARDNAME：CARDNAME对目标生物造成等同于CARDNAME力量的伤害。</target>
       </trans-unit>
       <trans-unit id="f098a28c-5f9b-4a2c-b109-c342365eb948" resname="APC·112 | Mystic Snake | Card Name">
         <source>Mystic Snake</source>
@@ -961,7 +961,7 @@
       </trans-unit>
       <trans-unit id="f098a28c-5f9b-4a2c-b109-c342365eb948" resname="APC·112 | Mystic Snake | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, counter target spell.</source>
-        <target state="translated">当秘术异蛇进战场时，反击目标咒语。</target>
+        <target state="translated">当CARDNAME进战场时，反击目标咒语。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="c1c48c58-3532-4022-9eec-1a870385cbf3" resname="APC·113 | Overgrown Estate | Card Name">
@@ -979,7 +979,7 @@
       </trans-unit>
       <trans-unit id="ae4cbb33-4947-49f0-b612-a92141fbfaa6" resname="APC·114 | Pernicious Deed | Card Text | Paragraph 1">
         <source>{X}, Sacrifice CARDNAME: Destroy each artifact, creature, and enchantment with mana value X or less.</source>
-        <target state="translated">{X}，牺牲毒契：消灭所有总法术力费用等于或小于X的神器、生物和结界。</target>
+        <target state="translated">{X}，牺牲CARDNAME：消灭所有总法术力费用等于或小于X的神器、生物和结界。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="b17807b9-8feb-48ac-813a-829577f5b9e8" resname="APC·115 | Powerstone Minefield | Card Name">
@@ -988,7 +988,7 @@
       </trans-unit>
       <trans-unit id="b17807b9-8feb-48ac-813a-829577f5b9e8" resname="APC·115 | Powerstone Minefield | Card Text | Paragraph 1">
         <source>Whenever a creature attacks or blocks, CARDNAME deals 2 damage to it.</source>
-        <target state="translated">每当任何生物攻击或进行阻挡时，动力石雷区对它造成2点伤害。</target>
+        <target state="translated">每当任何生物攻击或进行阻挡时，CARDNAME对它造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="79f74291-c452-4a60-bf5f-73efad6583d4" resname="APC·116 | Prophetic Bolt | Card Name">
         <source>Prophetic Bolt</source>
@@ -997,7 +997,7 @@
       </trans-unit>
       <trans-unit id="79f74291-c452-4a60-bf5f-73efad6583d4" resname="APC·116 | Prophetic Bolt | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to any target. Look at the top four cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">预言之雷对任意一个目标造成4点伤害。检视你牌库顶的四张牌。将其中一张置于你手上，其余以任意顺序置于你的牌库底。</target>
+        <target state="translated">CARDNAME对任意一个目标造成4点伤害。检视你牌库顶的四张牌。将其中一张置于你手上，其余以任意顺序置于你的牌库底。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="17fce298-3338-4f41-8156-ab6322951a76" resname="APC·117 | Putrid Warrior | Card Name">
@@ -1006,7 +1006,7 @@
       </trans-unit>
       <trans-unit id="17fce298-3338-4f41-8156-ab6322951a76" resname="APC·117 | Putrid Warrior | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals damage, choose one —\n• Each player loses 1 life.\n• Each player gains 1 life.</source>
-        <target state="translated">每当腐臭战士造成伤害时，选择一项～每位牌手各失去1点生命；或每位牌手各获得1点生命。</target>
+        <target state="translated">每当CARDNAME造成伤害时，选择一项～每位牌手各失去1点生命；或每位牌手各获得1点生命。</target>
       </trans-unit>
       <trans-unit id="83c74012-6060-4fad-aa73-6e6afd33c482" resname="APC·118 | Quicksilver Dagger | Card Name">
         <source>Quicksilver Dagger</source>
@@ -1029,7 +1029,7 @@
       </trans-unit>
       <trans-unit id="99829552-917a-4373-9772-4255dff542d6" resname="APC·119 | Razorfin Hunter | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">横置：锐鳍猎手对目标生物或牌手造成1点伤害。</target>
+        <target state="translated">横置：CARDNAME对目标生物或牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="425e0ca4-8592-4802-b7c4-6e3323edd78c" resname="APC·120 | Soul Link | Card Name">
         <source>Soul Link</source>
@@ -1046,17 +1046,17 @@
       </trans-unit>
       <trans-unit id="b96d6e67-f690-4f19-bb25-a7c2d2aaf42f" resname="APC·121 | Spiritmonger | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage to a creature, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当心灵贩子对任一生物造成伤害时，在心灵贩子上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME对任一生物造成伤害时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="b96d6e67-f690-4f19-bb25-a7c2d2aaf42f" resname="APC·121 | Spiritmonger | Card Text | Paragraph 2">
         <source>{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{B}：重生心灵贩子。</target>
+        <target state="translated">{B}：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="b96d6e67-f690-4f19-bb25-a7c2d2aaf42f" resname="APC·121 | Spiritmonger | Card Text | Paragraph 3">
         <source>{G}: CARDNAME becomes the color of your choice until end of turn.</source>
-        <target state="translated">{G}：选择一种颜色，心灵贩子成为该色直到回合结束。</target>
+        <target state="translated">{G}：选择一种颜色，CARDNAME成为该色直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="e682a705-9341-4d1e-a9c5-d428e50b9a03" resname="APC·122 | Squee's Embrace | Card Name">
@@ -1081,7 +1081,7 @@
       </trans-unit>
       <trans-unit id="c2a70297-2a7b-4a0c-ace5-cd61bfe6dafd" resname="APC·124 | Suffocating Blast | Card Text | Paragraph 1">
         <source>Counter target spell and CARDNAME deals 3 damage to target creature.</source>
-        <target state="translated">反击目标咒语，并且窒息冲击波对目标生物造成3点伤害。</target>
+        <target state="translated">反击目标咒语，并且CARDNAME对目标生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="b584dfd1-a56c-406e-8504-47ea136dc102" resname="APC·125 | Temporal Spring | Card Name">
         <source>Temporal Spring</source>
@@ -1128,7 +1128,7 @@
       </trans-unit>
       <trans-unit id="f98f4538-5b5b-475d-b98f-49d01dae6f04" resname="APC·128 | Fire | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage divided as you choose among one or two targets.</source>
-        <target state="translated">热火对任意一个或两个目标造成共2点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对任意一个或两个目标造成共2点伤害，你可以任意分配。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="f98f4538-5b5b-475d-b98f-49d01dae6f04" resname="APC·128 | Ice | Card Name">
@@ -1233,12 +1233,12 @@
       </trans-unit>
       <trans-unit id="89bd60a7-2ba4-4fce-bf74-2ea9b8fd4dbe" resname="APC·133 | Brass Herald | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于黄铜传令使进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="89bd60a7-2ba4-4fce-bf74-2ea9b8fd4dbe" resname="APC·133 | Brass Herald | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, reveal the top four cards of your library. Put all creature cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.</source>
-        <target state="translated">当黄铜传令使进战场时，展示你牌库顶的四张牌。将所有以此法展示的该类别生物牌置于你手上，其余则以任意顺序置于你的牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，展示你牌库顶的四张牌。将所有以此法展示的该类别生物牌置于你手上，其余则以任意顺序置于你的牌库底。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="89bd60a7-2ba4-4fce-bf74-2ea9b8fd4dbe" resname="APC·133 | Brass Herald | Card Text | Paragraph 3">
@@ -1253,7 +1253,7 @@
       </trans-unit>
       <trans-unit id="ded8b992-a1c2-4e43-ad0a-ea3995a3c8b8" resname="APC·134 | Dodecapod | Card Text | Paragraph 1">
         <source>If a spell or ability an opponent controls causes you to discard CARDNAME, put it onto the battlefield with two +1/+1 counters on it instead of putting it into your graveyard.</source>
-        <target state="translated">如果由对手操控的咒语或异能使得你弃掉打肢怪，则改为将它放进战场且上面有两个+1/+1指示物，而非置入你的坟墓场。</target>
+        <target state="translated">如果由对手操控的咒语或异能使得你弃掉CARDNAME，则改为将它放进战场且上面有两个+1/+1指示物，而非置入你的坟墓场。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="eec581b8-e509-420c-b142-afaa6dd06cc8" resname="APC·135 | Dragon Arch | Card Name">
@@ -1272,7 +1272,7 @@
       </trans-unit>
       <trans-unit id="98527fc6-4f4c-4ded-9e72-49186b7e5bd3" resname="APC·136 | Emblazoned Golem | Card Text | Paragraphs">
         <source>Kicker {X} (You may pay an additional {X} as you cast this spell.)\nSpend only colored mana on X. No more than one mana of each color may be spent this way.\nIf CARDNAME was kicked, it enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">增幅X（你使用此咒语时可以额外支付X）只能以有色法术力支付X，并且每种颜色最多只能以此法支付一点法术力。若你已支付其增幅费用，则纹章魔像进场时上面有X个+1/+1指示物。</target>
+        <target state="translated">增幅X（你使用此咒语时可以额外支付X）只能以有色法术力支付X，并且每种颜色最多只能以此法支付一点法术力。若你已支付其增幅费用，则CARDNAME进场时上面有X个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="385d8691-b9bd-4b4d-86db-7a7cc6181104" resname="APC·137 | Legacy Weapon | Card Name">
         <source>Legacy Weapon</source>
@@ -1286,7 +1286,7 @@
       </trans-unit>
       <trans-unit id="385d8691-b9bd-4b4d-86db-7a7cc6181104" resname="APC·137 | Legacy Weapon | Card Text | Paragraph 2">
         <source>If CARDNAME would be put into a graveyard from anywhere, reveal CARDNAME and shuffle it into its owner's library instead.</source>
-        <target state="translated">如果远古神兵将从任何区域进入坟墓场，则改为展示远古神兵，并将它洗入其拥有者的牌库。</target>
+        <target state="translated">如果CARDNAME将从任何区域进入坟墓场，则改为展示CARDNAME，并将它洗入其拥有者的牌库。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="f623ae51-5f15-4153-b2ed-d03b57b7db54" resname="APC·138 | Mask of Intolerance | Card Name">
@@ -1295,7 +1295,7 @@
       </trans-unit>
       <trans-unit id="f623ae51-5f15-4153-b2ed-d03b57b7db54" resname="APC·138 | Mask of Intolerance | Card Text | Paragraph 1">
         <source>At the beginning of each player's upkeep, if there are four or more basic land types among lands that player controls, CARDNAME deals 3 damage to that player.</source>
-        <target state="translated">在每位牌手的维持开始时，若在该牌手所操控的地之中，有四种或更多种基本地类别，偏执的面具便对该牌手造成3点伤害。</target>
+        <target state="translated">在每位牌手的维持开始时，若在该牌手所操控的地之中，有四种或更多种基本地类别，CARDNAME便对该牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="a9c25e71-0140-48fe-8b9e-33b4b50c5c12" resname="APC·139 | Battlefield Forge | Card Name">
         <source>Battlefield Forge</source>
@@ -1309,7 +1309,7 @@
       </trans-unit>
       <trans-unit id="a9c25e71-0140-48fe-8b9e-33b4b50c5c12" resname="APC·139 | Battlefield Forge | Card Text | Paragraph 2">
         <source>{T}: Add {R} or {W}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{R}或{W}。战场融炉对你造成1点伤害。</target>
+        <target state="translated">{T}：加{R}或{W}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自BRO（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="144dd08e-451e-4438-b572-7a138e1a15f3" resname="APC·140 | Caves of Koilos | Card Name">
@@ -1324,7 +1324,7 @@
       </trans-unit>
       <trans-unit id="144dd08e-451e-4438-b572-7a138e1a15f3" resname="APC·140 | Caves of Koilos | Card Text | Paragraph 2">
         <source>{T}: Add {W} or {B}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{W}或{B}。喀洛斯洞窟对你造成1点伤害。</target>
+        <target state="translated">{T}：加{W}或{B}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMU（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="610b7cd5-5532-45a9-acfe-24a818034d1c" resname="APC·141 | Llanowar Wastes | Card Name">
@@ -1339,7 +1339,7 @@
       </trans-unit>
       <trans-unit id="610b7cd5-5532-45a9-acfe-24a818034d1c" resname="APC·141 | Llanowar Wastes | Card Text | Paragraph 2">
         <source>{T}: Add {B} or {G}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{B}或{G}。罗堰荒野对你造成1点伤害。</target>
+        <target state="translated">{T}：加{B}或{G}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自BRO（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="c3403143-2b4e-4408-b138-c856bbc1e9a5" resname="APC·142 | Shivan Reef | Card Name">
@@ -1354,7 +1354,7 @@
       </trans-unit>
       <trans-unit id="c3403143-2b4e-4408-b138-c856bbc1e9a5" resname="APC·142 | Shivan Reef | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {R}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{U}或{R}。西瓦暗礁对你造成1点伤害。</target>
+        <target state="translated">{T}：加{U}或{R}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMU（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="177ee102-d981-4fc3-9f09-9dd07755f22c" resname="APC·143 | Yavimaya Coast | Card Name">
@@ -1369,7 +1369,7 @@
       </trans-unit>
       <trans-unit id="177ee102-d981-4fc3-9f09-9dd07755f22c" resname="APC·143 | Yavimaya Coast | Card Text | Paragraph 2">
         <source>{T}: Add {G} or {U}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{G}或{U}。亚维马雅海岸对你造成1点伤害。</target>
+        <target state="translated">{T}：加{G}或{U}。CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自DMU（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="1ae5a4cc-eb0f-4195-847f-d5464a086c82" resname="PAPC·100 | Fungal Shambler | Card Name">
@@ -1379,7 +1379,7 @@
       </trans-unit>
       <trans-unit id="1ae5a4cc-eb0f-4195-847f-d5464a086c82" resname="PAPC·100 | Fungal Shambler | Card Text | Paragraphs">
         <source>Trample\nWhenever CARDNAME deals damage to an opponent, you draw a card and that opponent discards a card.</source>
-        <target state="translated">践踏每当真菌跛行兽对任何对手造成伤害时，你抓一张牌并且该对手从其手上弃掉一张牌。</target>
+        <target state="translated">践踏每当CARDNAME对任何对手造成伤害时，你抓一张牌并且该对手从其手上弃掉一张牌。</target>
         <note xmlns:from="developer">中文数据来自APC（2001-06-04）；</note>
       </trans-unit>
     </body>

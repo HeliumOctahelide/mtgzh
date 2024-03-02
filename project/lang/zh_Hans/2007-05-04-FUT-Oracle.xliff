@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="2bf69645-d1f1-4836-bdc3-76874abcfd5f" resname="FUT·1 | Angel of Salvation | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, prevent the next 5 damage that would be dealt this turn to any number of targets, divided as you choose.</source>
-        <target state="translated">当救助天使进战场时，防止本回合中接下来将对任意数量的目标造成之共5点伤害，你可以任意分配。</target>
+        <target state="translated">当CARDNAME进战场时，防止本回合中接下来将对任意数量的目标造成之共5点伤害，你可以任意分配。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="1c1fdf86-22aa-4c18-a971-8ff1fd8b3de1" resname="FUT·2 | Augur il-Vec | Card Name">
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="1c1fdf86-22aa-4c18-a971-8ff1fd8b3de1" resname="FUT·2 | Augur il-Vec | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: You gain 4 life. Activate only during your upkeep.</source>
-        <target state="translated">牺牲维克黜人卜算师：你获得4点生命。 你只可以于你的维持中使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：你获得4点生命。 你只可以于你的维持中使用此异能。</target>
       </trans-unit>
       <trans-unit id="12220d53-3356-4541-aa43-a0de6ed3f7d0" resname="FUT·3 | Barren Glory | Card Name">
         <source>Barren Glory</source>
@@ -40,7 +40,7 @@
       </trans-unit>
       <trans-unit id="12220d53-3356-4541-aa43-a0de6ed3f7d0" resname="FUT·3 | Barren Glory | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, if you control no permanents other than CARDNAME and have no cards in hand, you win the game.</source>
-        <target state="translated">在你的维持开始时，若你除了荒芜之耀以外未操控任何永久物且没有手牌，你便赢得这盘游戏。</target>
+        <target state="translated">在你的维持开始时，若你除了CARDNAME以外未操控任何永久物且没有手牌，你便赢得这盘游戏。</target>
       </trans-unit>
       <trans-unit id="cb6989fd-05cf-4169-96c0-37c556454b92" resname="FUT·4 | Chronomantic Escape | Card Name">
         <source>Chronomantic Escape</source>
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="cb6989fd-05cf-4169-96c0-37c556454b92" resname="FUT·4 | Chronomantic Escape | Card Text | Paragraph 1">
         <source>Until your next turn, creatures can't attack you. Exile CARDNAME with three time counters on it.</source>
-        <target state="translated">直到你的下一个回合，生物不能攻击你。 将趋吉避凶移出对战，且上面有三个计时指示物。</target>
+        <target state="translated">直到你的下一个回合，生物不能攻击你。 将CARDNAME移出对战，且上面有三个计时指示物。</target>
       </trans-unit>
       <trans-unit id="cb6989fd-05cf-4169-96c0-37c556454b92" resname="FUT·4 | Chronomantic Escape | Card Text | Paragraph 2">
         <source>Suspend 3—{2}{W} (Rather than cast this card from your hand, you may pay {2}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</source>
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="f704cd76-dca8-4526-b03f-7e3753d8fbb5" resname="FUT·6 | Even the Odds | Card Text | Paragraph 1">
         <source>Cast this spell only if you control fewer creatures than each opponent.</source>
-        <target state="translated">你只可以于由你操控的生物数量比任一对手都少时使用抵销劣势。</target>
+        <target state="translated">你只可以于由你操控的生物数量比任一对手都少时使用CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f704cd76-dca8-4526-b03f-7e3753d8fbb5" resname="FUT·6 | Even the Odds | Card Text | Paragraph 2">
         <source>Create three 1/1 white Soldier creature tokens.</source>
@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="bca127ef-349e-4380-875d-49c14fa03b18" resname="FUT·8 | Intervention Pact | Card Text | Paragraphs">
         <source>The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.\nAt the beginning of your next upkeep, pay {1}{W}{W}. If you don't, you lose the game.</source>
-        <target state="translated">干预条约是白色。\n选择一个来源，于本回合中，防止该来源下一次将对你造成的伤害。 你获得等同于以此法所防止的伤害之生命。\n在你下个维持开始时，支付{1}{W}{W}。 若你不如此作，则你输掉这盘游戏。</target>
+        <target state="translated">CARDNAME是白色。\n选择一个来源，于本回合中，防止该来源下一次将对你造成的伤害。 你获得等同于以此法所防止的伤害之生命。\n在你下个维持开始时，支付{1}{W}{W}。 若你不如此作，则你输掉这盘游戏。</target>
       </trans-unit>
       <trans-unit id="46b0f9cb-f848-460e-94cc-d85b23133d6e" resname="FUT·9 | Judge Unworthy | Card Name">
         <source>Judge Unworthy</source>
@@ -105,7 +105,7 @@
       </trans-unit>
       <trans-unit id="46b0f9cb-f848-460e-94cc-d85b23133d6e" resname="FUT·9 | Judge Unworthy | Card Text | Paragraph 1">
         <source>Choose target attacking or blocking creature. Scry 3, then reveal the top card of your library. CARDNAME deals damage equal to that card's mana value to that creature.</source>
-        <target state="translated">选择目标进行攻击或阻挡的生物。占卜3，然后展示你的牌库顶牌。审判恶徒对该生物造成伤害，其数量等同于所展示之牌的总法术力费用。</target>
+        <target state="translated">选择目标进行攻击或阻挡的生物。占卜3，然后展示你的牌库顶牌。CARDNAME对该生物造成伤害，其数量等同于所展示之牌的总法术力费用。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="84b23129-25b2-4870-9462-ab12718ae7be" resname="FUT·10 | Knight of Sursi | Card Name">
@@ -135,7 +135,7 @@
       </trans-unit>
       <trans-unit id="834bfc49-9411-4a0f-b79b-d0d35f898952" resname="FUT·11 | Lost Auramancers | Card Text | Paragraph 2">
         <source>When CARDNAME dies, if it had no time counters on it, you may search your library for an enchantment card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">当迷失灵气法师死去时，若其上没有计时指示物，则你可以从你的牌库中搜寻一张结界牌，将之放进战场，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME死去时，若其上没有计时指示物，则你可以从你的牌库中搜寻一张结界牌，将之放进战场，然后将你的牌库洗牌。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="20dcdda9-66a2-401f-9e1b-5603f771f56f" resname="FUT·12 | Magus of the Moat | Card Name">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="823bdf79-998f-4d7c-834d-7a474cfa895e" resname="FUT·14 | Saltskitter | Card Text | Paragraph 1">
         <source>Whenever another creature enters the battlefield, exile CARDNAME. Return CARDNAME to the battlefield under its owner's control at the beginning of the next end step.</source>
-        <target state="translated">每当另一个生物进场时，将盐丘掠龙移出对战。 在回合结束时，将盐丘掠龙在其拥有者的操控下返回场上。</target>
+        <target state="translated">每当另一个生物进场时，将CARDNAME移出对战。 在回合结束时，将CARDNAME在其拥有者的操控下返回场上。</target>
       </trans-unit>
       <trans-unit id="7de6aeea-0144-4148-b7a6-47b703f64af9" resname="FUT·15 | Samite Censer-Bearer | Card Name">
         <source>Samite Censer-Bearer</source>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="7de6aeea-0144-4148-b7a6-47b703f64af9" resname="FUT·15 | Samite Censer-Bearer | Card Text | Paragraph 1">
         <source>{W}, Sacrifice CARDNAME: Prevent the next 1 damage that would be dealt to each creature you control this turn.</source>
-        <target state="translated">{W}，牺牲撒姆尼香炉师：于本回合中，防止接下来将对由你操控之每个生物所造成的1点伤害。</target>
+        <target state="translated">{W}，牺牲CARDNAME：于本回合中，防止接下来将对由你操控之每个生物所造成的1点伤害。</target>
       </trans-unit>
       <trans-unit id="e6639e3d-b0c4-4c08-83d5-f3fc58fac9b2" resname="FUT·16 | Scout's Warning | Card Name">
         <source>Scout's Warning</source>
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="ec0d6477-9c50-4196-a04f-da73b5a07e01" resname="FUT·17 | Spirit en-Dal | Card Text | Paragraph 2">
         <source>Forecast — {1}{W}, Reveal CARDNAME from your hand: Target creature gains shadow until end of turn. (Activate only during your upkeep and only once each turn.)</source>
-        <target state="translated">预报～{1}{W}，从你手上展示达奥族精怪：目标生物获得次元幽影异能直到回合结束。 （你只可以于你的维持中使用此异能，且每回合只能使用一次。）</target>
+        <target state="translated">预报～{1}{W}，从你手上展示CARDNAME：目标生物获得次元幽影异能直到回合结束。 （你只可以于你的维持中使用此异能，且每回合只能使用一次。）</target>
       </trans-unit>
       <trans-unit id="5b8ede8a-5317-4662-b964-a9bd202a4aab" resname="FUT·18 | Aven Mindcensor | Card Name">
         <source>Aven Mindcensor</source>
@@ -271,7 +271,7 @@
       </trans-unit>
       <trans-unit id="bb02f692-80a9-4740-afde-cb4792d24774" resname="FUT·23 | Imperial Mask | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, if it's not a token, each of your teammates creates a token that's a copy of CARDNAME.</source>
-        <target state="translated">当皇家面具进场时，若它并非衍生物，则你的每位队友将一个衍生物放置进场，且该衍生物为皇家面具的复制。</target>
+        <target state="translated">当CARDNAME进场时，若它并非衍生物，则你的每位队友将一个衍生物放置进场，且该衍生物为CARDNAME的复制。</target>
       </trans-unit>
       <trans-unit id="bb02f692-80a9-4740-afde-cb4792d24774" resname="FUT·23 | Imperial Mask | Card Text | Paragraph 2">
         <source>You have hexproof. (You can't be the target of spells or abilities your opponents control.)</source>
@@ -327,7 +327,7 @@
       </trans-unit>
       <trans-unit id="7a9a3aeb-a316-4b1e-927b-36c3f999f2c3" resname="FUT·28 | Oriss, Samite Guardian | Card Text | Paragraph 2">
         <source>Grandeur — Discard another card named CARDNAME: Target player can't cast spells this turn, and creatures that player controls can't attack this turn.</source>
-        <target state="translated">声威～弃掉另一张名称为撒姆尼守护者欧莉丝的牌：于本回合中，目标牌手不能使用咒语，且由该牌手所操控的生物不能攻击。</target>
+        <target state="translated">声威～弃掉另一张名称为CARDNAME的牌：于本回合中，目标牌手不能使用咒语，且由该牌手所操控的生物不能攻击。</target>
       </trans-unit>
       <trans-unit id="4edfd70c-2923-4813-bf14-04194518163c" resname="FUT·29 | Patrician's Scorn | Card Name">
         <source>Patrician's Scorn</source>
@@ -335,7 +335,7 @@
       </trans-unit>
       <trans-unit id="4edfd70c-2923-4813-bf14-04194518163c" resname="FUT·29 | Patrician's Scorn | Card Text | Paragraph 1">
         <source>If you've cast another white spell this turn, you may cast this spell without paying its mana cost.</source>
-        <target state="translated">如果你本回合中使用过其它白色咒语，则你使用显贵的轻蔑时可以不支付其法术力费用。</target>
+        <target state="translated">如果你本回合中使用过其它白色咒语，则你使用CARDNAME时可以不支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="4edfd70c-2923-4813-bf14-04194518163c" resname="FUT·29 | Patrician's Scorn | Card Text | Paragraph 2">
         <source>Destroy all enchantments.</source>
@@ -359,7 +359,7 @@
       </trans-unit>
       <trans-unit id="c7599618-cbd9-4013-b0a5-4ba77fd52ab4" resname="FUT·32 | Aven Augur | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Return up to two target creatures to their owners' hands. Activate only during your upkeep.</source>
-        <target state="translated">牺牲艾文卜算师：将至多两个目标生物移回其拥有者手上。 你只可以于你的维持中使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：将至多两个目标生物移回其拥有者手上。 你只可以于你的维持中使用此异能。</target>
       </trans-unit>
       <trans-unit id="727f9f4b-a8b6-47bd-9830-e69d118fe671" resname="FUT·33 | Cloudseeder | Card Name">
         <source>Cloudseeder</source>
@@ -383,7 +383,7 @@
       </trans-unit>
       <trans-unit id="6a51026a-ae3c-4fa1-ac1e-96d44ae55b82" resname="FUT·34 | Cryptic Annelid | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, scry 1, then scry 2, then scry 3. (To scry X, look at the top X cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</source>
-        <target state="translated">当墓穴环节兽进战场时，占卜1，然后占卜2，然后占卜3。（占卜X的流程是检视你牌库顶的X张牌，然后将其中任意数量的牌以任意顺序置于你的牌库底，其余则以任意顺序置于你的牌库顶。）</target>
+        <target state="translated">当CARDNAME进战场时，占卜1，然后占卜2，然后占卜3。（占卜X的流程是检视你牌库顶的X张牌，然后将其中任意数量的牌以任意顺序置于你的牌库底，其余则以任意顺序置于你的牌库顶。）</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="e821d337-4bc5-4401-ac9b-34adf4012b73" resname="FUT·35 | Delay | Card Name">
@@ -455,7 +455,7 @@
       </trans-unit>
       <trans-unit id="9c102f29-6f3f-4f97-8177-4307586bd1b2" resname="FUT·39 | Maelstrom Djinn | Card Text | Paragraph 3">
         <source>When CARDNAME is turned face up, put two time counters on it and it gains vanishing. (At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</source>
-        <target state="translated">当涡卷巨灵翻回正面时，在其上放置两个计时指示物且它获得消逝。 （在你的维持开始时，从其上移去一个计时指示物。 当移去最后一个时，将它牺牲。）</target>
+        <target state="translated">当CARDNAME翻回正面时，在其上放置两个计时指示物且它获得消逝。 （在你的维持开始时，从其上移去一个计时指示物。 当移去最后一个时，将它牺牲。）</target>
       </trans-unit>
       <trans-unit id="7025e614-7d08-4915-a985-3b876f1bdd1c" resname="FUT·40 | Magus of the Future | Card Name">
         <source>Magus of the Future</source>
@@ -505,7 +505,7 @@
       </trans-unit>
       <trans-unit id="8e6d881a-f7b1-471f-bc0b-64a79bb491c9" resname="FUT·43 | Reality Strobe | Card Text | Paragraph 1">
         <source>Return target permanent to its owner's hand. Exile CARDNAME with three time counters on it.</source>
-        <target state="translated">将目标永久物移回其拥有者手上。 将实相光闪移出对战，且上面有三个计时指示物。</target>
+        <target state="translated">将目标永久物移回其拥有者手上。 将CARDNAME移出对战，且上面有三个计时指示物。</target>
       </trans-unit>
       <trans-unit id="8e6d881a-f7b1-471f-bc0b-64a79bb491c9" resname="FUT·43 | Reality Strobe | Card Text | Paragraph 2">
         <source>Suspend 3—{2}{U} (Rather than cast this card from your hand, you may pay {2}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</source>
@@ -537,7 +537,7 @@
       </trans-unit>
       <trans-unit id="06111178-685d-4bda-8325-1db142d5801c" resname="FUT·45 | Unblinking Bleb | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another permanent is turned face up, you may scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</source>
-        <target state="translated">每当睁眼水泡或另一个永久物翻回正面时，你可以占卜2。 （检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
+        <target state="translated">每当CARDNAME或另一个永久物翻回正面时，你可以占卜2。 （检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
       </trans-unit>
       <trans-unit id="0e84fc99-4045-4518-b588-512a675f2933" resname="FUT·46 | Venser, Shaper Savant | Card Name">
         <source>Venser, Shaper Savant</source>
@@ -551,7 +551,7 @@
       </trans-unit>
       <trans-unit id="0e84fc99-4045-4518-b588-512a675f2933" resname="FUT·46 | Venser, Shaper Savant | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return target spell or permanent to its owner's hand.</source>
-        <target state="translated">当塑形学者凡瑟进战场时，将目标咒语或永久物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标咒语或永久物移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="fbedfc40-7c2f-4a6e-8157-219cafca3548" resname="FUT·47 | Venser's Diffusion | Card Name">
@@ -607,7 +607,7 @@
       </trans-unit>
       <trans-unit id="799538af-e497-457b-b096-ee6f342f51b5" resname="FUT·51 | Linessa, Zephyr Mage | Card Text | Paragraph 2">
         <source>Grandeur — Discard another card named CARDNAME: Target player returns a creature they control to its owner's hand, then repeats this process for an artifact, an enchantment, and a land.</source>
-        <target state="translated">声威～弃掉另一张名称为西风法师黎奈莎的牌：目标牌手将由他操控的一个生物移回其拥有者手上，然后为一个神器，一个结界，以及一个地重复此流程。</target>
+        <target state="translated">声威～弃掉另一张名称为CARDNAME的牌：目标牌手将由他操控的一个生物移回其拥有者手上，然后为一个神器，一个结界，以及一个地重复此流程。</target>
       </trans-unit>
       <trans-unit id="4e946be1-4ed6-4e2c-9782-3f630f8a8e1f" resname="FUT·52 | Logic Knot | Card Name">
         <source>Logic Knot</source>
@@ -644,7 +644,7 @@
       </trans-unit>
       <trans-unit id="f76b3746-2e2c-4560-a2d2-e7b5b92833b2" resname="FUT·54 | Narcomoeba | Card Text | Paragraph 2">
         <source>When CARDNAME is put into your graveyard from your library, you may put it onto the battlefield.</source>
-        <target state="translated">当梦生阿米巴从你的牌库进入你坟墓场时，你可以将它放进战场。</target>
+        <target state="translated">当CARDNAME从你的牌库进入你坟墓场时，你可以将它放进战场。</target>
         <note xmlns:from="developer">中文数据来自RVR（2024-01-12）；</note>
       </trans-unit>
       <trans-unit id="3dab4f64-2a91-409a-b83b-45b22afd22ff" resname="FUT·55 | Nix | Card Name">
@@ -662,12 +662,12 @@
       </trans-unit>
       <trans-unit id="77a425d3-a0b7-4d8d-8013-a27c59758b28" resname="FUT·56 | Sarcomite Myr | Card Text | Paragraph 1">
         <source>{2}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">{2}：振肌秘耳获得飞行异能直到回合结束。</target>
+        <target state="translated">{2}：CARDNAME获得飞行异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="77a425d3-a0b7-4d8d-8013-a27c59758b28" resname="FUT·56 | Sarcomite Myr | Card Text | Paragraph 2">
         <source>{2}, Sacrifice CARDNAME: Draw a card.</source>
-        <target state="translated">{2}，牺牲振肌秘耳：抓一张牌。</target>
+        <target state="translated">{2}，牺牲CARDNAME：抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="061d2f8f-1166-4579-9609-d8ba5db79172" resname="FUT·57 | Second Wind | Card Name">
@@ -684,7 +684,7 @@
       </trans-unit>
       <trans-unit id="48cb3fa8-555f-4df6-994e-cf01896f7470" resname="FUT·58 | Shapeshifter's Marrow | Card Text | Paragraph 1">
         <source>At the beginning of each opponent's upkeep, that player reveals the top card of their library. If it's a creature card, the player puts the card into their graveyard and CARDNAME becomes a copy of that card. (If it does, it loses this ability.)</source>
-        <target state="translated">在每位对手的维持开始时，该牌手展示其牌库顶牌。 若展示出生物牌，则该牌手将该牌置于其坟墓场，且变形兽精华成为该牌的复制。 （它在复制后会失去此异能。）</target>
+        <target state="translated">在每位对手的维持开始时，该牌手展示其牌库顶牌。 若展示出生物牌，则该牌手将该牌置于其坟墓场，且CARDNAME成为该牌的复制。 （它在复制后会失去此异能。）</target>
       </trans-unit>
       <trans-unit id="79cc73ea-3f07-4d11-9961-dc31ac598b73" resname="FUT·59 | Spellweaver Volute | Card Name">
         <source>Spellweaver Volute</source>
@@ -696,7 +696,7 @@
       </trans-unit>
       <trans-unit id="79cc73ea-3f07-4d11-9961-dc31ac598b73" resname="FUT·59 | Spellweaver Volute | Card Text | Paragraph 2">
         <source>Whenever you cast a sorcery spell, copy the enchanted instant card. You may cast the copy without paying its mana cost. If you do, exile the enchanted card and attach CARDNAME to another instant card in a graveyard.</source>
-        <target state="translated">每当你使用任一法术咒语时，复制受此结界的瞬间牌。 你可以使用此复制，并且不需支付其法术力费用。 若你如此作，则将受此结界的牌移出对战，且将织咒涡旋结附在另一张在坟墓场的瞬间牌。</target>
+        <target state="translated">每当你使用任一法术咒语时，复制受此结界的瞬间牌。 你可以使用此复制，并且不需支付其法术力费用。 若你如此作，则将受此结界的牌移出对战，且将CARDNAME结附在另一张在坟墓场的瞬间牌。</target>
       </trans-unit>
       <trans-unit id="0808b800-9f5f-42ef-8cd0-c04e64945adf" resname="FUT·60 | Spin into Myth | Card Name">
         <source>Spin into Myth</source>
@@ -716,7 +716,7 @@
       </trans-unit>
       <trans-unit id="496eb37d-5c8f-4dd7-a0a7-3ed1bd2210d6" resname="FUT·61 | Vedalken Aethermage | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return target Sliver to its owner's hand.</source>
-        <target state="translated">当维多肯乙太法师进场时，将目标裂片妖移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进场时，将目标裂片妖移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="496eb37d-5c8f-4dd7-a0a7-3ed1bd2210d6" resname="FUT·61 | Vedalken Aethermage | Card Text | Paragraph 3">
         <source>Wizardcycling {3} ({3}, Discard this card: Search your library for a Wizard card, reveal it, put it into your hand, then shuffle.)</source>
@@ -743,11 +743,11 @@
       </trans-unit>
       <trans-unit id="945404d5-9e44-45e7-84fd-5f8c893e7d27" resname="FUT·63 | Augur of Skulls | Card Text | Paragraph 1">
         <source>{1}{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{1}{B}：重生颅骨卜算师。</target>
+        <target state="translated">{1}{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="945404d5-9e44-45e7-84fd-5f8c893e7d27" resname="FUT·63 | Augur of Skulls | Card Text | Paragraph 2">
         <source>Sacrifice CARDNAME: Target player discards two cards. Activate only during your upkeep.</source>
-        <target state="translated">牺牲颅骨卜算师：目标牌手弃两张牌。 你只可以于你的维持中使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：目标牌手弃两张牌。 你只可以于你的维持中使用此异能。</target>
       </trans-unit>
       <trans-unit id="192bc089-696d-41b4-a02f-d7dc166feedd" resname="FUT·64 | Cutthroat il-Dal | Card Name">
         <source>Cutthroat il-Dal</source>
@@ -756,7 +756,7 @@
       </trans-unit>
       <trans-unit id="192bc089-696d-41b4-a02f-d7dc166feedd" resname="FUT·64 | Cutthroat il-Dal | Card Text | Paragraph 1">
         <source>Hellbent — CARDNAME has shadow as long as you have no cards in hand. (It can block or be blocked by only creatures with shadow.)</source>
-        <target state="translated">背水战～只要你没有手牌，达奥黜人割喉客便具有次元幽影异能。（它只能阻挡具次元幽影异能的生物，亦只能被具此异能的生物阻挡。）</target>
+        <target state="translated">背水战～只要你没有手牌，CARDNAME便具有次元幽影异能。（它只能阻挡具次元幽影异能的生物，亦只能被具此异能的生物阻挡。）</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="2c34e6aa-0414-45ba-b6eb-1ac4255d7de8" resname="FUT·65 | Festering March | Card Name">
@@ -765,7 +765,7 @@
       </trans-unit>
       <trans-unit id="2c34e6aa-0414-45ba-b6eb-1ac4255d7de8" resname="FUT·65 | Festering March | Card Text | Paragraph 1">
         <source>Creatures your opponents control get -1/-1 until end of turn. Exile CARDNAME with three time counters on it.</source>
-        <target state="translated">由对手操控的生物得-1/-1直到回合结束。 将溃伤行进移出对战，且上面有三个计时指示物。</target>
+        <target state="translated">由对手操控的生物得-1/-1直到回合结束。 将CARDNAME移出对战，且上面有三个计时指示物。</target>
       </trans-unit>
       <trans-unit id="2c34e6aa-0414-45ba-b6eb-1ac4255d7de8" resname="FUT·65 | Festering March | Card Text | Paragraph 2">
         <source>Suspend 3—{2}{B} (Rather than cast this card from your hand, you may pay {2}{B} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</source>
@@ -794,7 +794,7 @@
       </trans-unit>
       <trans-unit id="e1d301f6-1ae2-4e26-a736-e59c7a8f2198" resname="FUT·67 | Grave Peril | Card Text | Paragraph 1">
         <source>When a nonblack creature enters the battlefield, sacrifice CARDNAME. If you do, destroy that creature.</source>
-        <target state="translated">当一个非黑色的生物进战场时，牺牲涉险墓地。若你如此作，则消灭该生物。</target>
+        <target state="translated">当一个非黑色的生物进战场时，牺牲CARDNAME。若你如此作，则消灭该生物。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="34603c3e-1078-48ca-9350-7d90c290b721" resname="FUT·68 | Ichor Slick | Card Name">
@@ -862,7 +862,7 @@
       </trans-unit>
       <trans-unit id="11a431fa-e98c-434a-9138-b4bcc86edde8" resname="FUT·72 | Nihilith | Card Text | Paragraph 3">
         <source>Whenever a card is put into an opponent's graveyard from anywhere, if CARDNAME is suspended, you may remove a time counter from CARDNAME.</source>
-        <target state="translated">每当一张牌从任何区域进入任一对手的坟墓场时，若凝虚姿已延缓，则你可以从其上移去一个计时指示物。</target>
+        <target state="translated">每当一张牌从任何区域进入任一对手的坟墓场时，若CARDNAME已延缓，则你可以从其上移去一个计时指示物。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="0cd5486b-c6f4-4cfc-9590-8ffc78b48b0a" resname="FUT·73 | Oblivion Crown | Card Name">
@@ -903,7 +903,7 @@
       </trans-unit>
       <trans-unit id="14e82edf-8acc-4024-bb88-f727f632b061" resname="FUT·75 | Putrid Cyclops | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, scry 1, then reveal the top card of your library. CARDNAME gets -X/-X until end of turn, where X is that card's mana value. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)</source>
-        <target state="translated">当腐臭独眼巨人进场时，占卜1，然后展示你的牌库顶牌。 腐臭独眼巨人得-X/-X直到回合结束，X为该牌的总法术力费用。 （占卜1的流程是检视你的牌库顶牌，然后你可以将该牌置于你牌库底。）</target>
+        <target state="translated">当CARDNAME进场时，占卜1，然后展示你的牌库顶牌。 CARDNAME得-X/-X直到回合结束，X为该牌的总法术力费用。 （占卜1的流程是检视你的牌库顶牌，然后你可以将该牌置于你牌库底。）</target>
       </trans-unit>
       <trans-unit id="e6faa406-aa7a-49ce-a42e-00e98f3fb74e" resname="FUT·76 | Shimian Specter | Card Name">
         <source>Shimian Specter</source>
@@ -917,7 +917,7 @@
       </trans-unit>
       <trans-unit id="e6faa406-aa7a-49ce-a42e-00e98f3fb74e" resname="FUT·76 | Shimian Specter | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, that player reveals their hand. You choose a nonland card from it. Search that player's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles.</source>
-        <target state="translated">每当希米安幽灵向任一牌手造成战斗伤害时，该牌手展示其手牌。你选择其中一张非地的牌。从该牌手的坟墓场、手牌、以及牌库中搜寻所有与该牌同名的牌并将它们放逐。然后该牌手将其牌库洗牌。</target>
+        <target state="translated">每当CARDNAME向任一牌手造成战斗伤害时，该牌手展示其手牌。你选择其中一张非地的牌。从该牌手的坟墓场、手牌、以及牌库中搜寻所有与该牌同名的牌并将它们放逐。然后该牌手将其牌库洗牌。</target>
         <note xmlns:from="developer">中文数据来自M13（2012-07-13）；</note>
       </trans-unit>
       <trans-unit id="4e783332-ea4e-4330-ba91-d23e5a58a7eb" resname="FUT·77 | Skirk Ridge Exhumer | Card Name">
@@ -955,7 +955,7 @@
       </trans-unit>
       <trans-unit id="6006922b-20f8-4f38-9522-9851541a6de5" resname="FUT·79 | Stronghold Rats | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, each player discards a card.</source>
-        <target state="translated">每当城塞老鼠对任一牌手造成战斗伤害时，每位牌手弃一张牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，每位牌手弃一张牌。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="2879e7a1-0256-4116-be22-7c9972e4ce0b" resname="FUT·80 | Bitter Ordeal | Card Name">
@@ -977,12 +977,12 @@
       </trans-unit>
       <trans-unit id="52c44610-6d4b-4c14-839f-2c085badec90" resname="FUT·81 | Bridge from Below | Card Text | Paragraph 1">
         <source>Whenever a nontoken creature is put into your graveyard from the battlefield, if CARDNAME is in your graveyard, create a 2/2 black Zombie creature token.</source>
-        <target state="translated">每当一个非衍生物的生物从战场进入你的坟墓场时，若阴界渡桥在你的坟墓场中，则派出一个2/2黑色灵俑衍生生物。</target>
+        <target state="translated">每当一个非衍生物的生物从战场进入你的坟墓场时，若CARDNAME在你的坟墓场中，则派出一个2/2黑色灵俑衍生生物。</target>
         <note xmlns:from="developer">中文数据来自SPG（2023-11-17）；</note>
       </trans-unit>
       <trans-unit id="52c44610-6d4b-4c14-839f-2c085badec90" resname="FUT·81 | Bridge from Below | Card Text | Paragraph 2">
         <source>When a creature is put into an opponent's graveyard from the battlefield, if CARDNAME is in your graveyard, exile CARDNAME.</source>
-        <target state="translated">当一个生物从战场进入对手的坟墓场时，若阴界渡桥在你的坟墓场中，则放逐阴界渡桥。</target>
+        <target state="translated">当一个生物从战场进入对手的坟墓场时，若CARDNAME在你的坟墓场中，则放逐CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自SPG（2023-11-17）；</note>
       </trans-unit>
       <trans-unit id="8cddafc8-57d6-456e-af58-4b7f45e195d5" resname="FUT·82 | Death Rattle | Card Name">
@@ -1040,7 +1040,7 @@
       </trans-unit>
       <trans-unit id="0f0a08a8-bbb9-4816-b03c-af4d729fce45" resname="FUT·86 | Grave Scrabbler | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if its madness cost was paid, you may return target creature card from a graveyard to its owner's hand.</source>
-        <target state="translated">当墓地翻拣怪进战场时，若曾支付其疯魔费用，则你可以将目标生物牌从坟墓场移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，若曾支付其疯魔费用，则你可以将目标生物牌从坟墓场移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="20c3f515-de7d-41eb-8ba0-532f4c13ac39" resname="FUT·88 | Mass of Ghouls | Card Name">
@@ -1115,7 +1115,7 @@
       </trans-unit>
       <trans-unit id="4d1c04fb-213f-4be1-9bba-94c737826bf8" resname="FUT·94 | Arc Blade | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to any target. Exile CARDNAME with three time counters on it.</source>
-        <target state="translated">弧锋光对任意一个目标造成2点伤害。放逐弧锋光，且上面有三个计时指示物。</target>
+        <target state="translated">CARDNAME对任意一个目标造成2点伤害。放逐CARDNAME，且上面有三个计时指示物。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="4d1c04fb-213f-4be1-9bba-94c737826bf8" resname="FUT·94 | Arc Blade | Card Text | Paragraph 2">
@@ -1147,7 +1147,7 @@
       </trans-unit>
       <trans-unit id="ae256118-3a7c-4b6e-b716-ba1ddfb4fb85" resname="FUT·96 | Char-Rumbler | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{R}：隆响煤妖得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="cc78dbef-315c-4f9b-8a1a-76a62a941182" resname="FUT·97 | Emberwilde Augur | Card Name">
@@ -1156,7 +1156,7 @@
       </trans-unit>
       <trans-unit id="cc78dbef-315c-4f9b-8a1a-76a62a941182" resname="FUT·97 | Emberwilde Augur | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: It deals 3 damage to target player or planeswalker. Activate only during your upkeep.</source>
-        <target state="translated">牺牲烈烬卜算师：烈烬卜算师对目标牌手造成3点伤害。 你只可以于你的维持中使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：CARDNAME对目标牌手造成3点伤害。 你只可以于你的维持中使用此异能。</target>
       </trans-unit>
       <trans-unit id="930ff9ec-6b97-445e-b274-7c8c5fe0c0fc" resname="FUT·98 | Fatal Attraction | Card Name">
         <source>Fatal Attraction</source>
@@ -1168,11 +1168,11 @@
       </trans-unit>
       <trans-unit id="930ff9ec-6b97-445e-b274-7c8c5fe0c0fc" resname="FUT·98 | Fatal Attraction | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, it deals 2 damage to enchanted creature.</source>
-        <target state="translated">当致命吸引力进场时，它对受此结界的生物造成2点伤害。</target>
+        <target state="translated">当CARDNAME进场时，它对受此结界的生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="930ff9ec-6b97-445e-b274-7c8c5fe0c0fc" resname="FUT·98 | Fatal Attraction | Card Text | Paragraph 3">
         <source>At the beginning of your upkeep, CARDNAME deals 4 damage to enchanted creature.</source>
-        <target state="translated">在你的维持开始时，致命吸引力对受此结界的生物造成4点伤害。</target>
+        <target state="translated">在你的维持开始时，CARDNAME对受此结界的生物造成4点伤害。</target>
       </trans-unit>
       <trans-unit id="8af5c695-d0f4-4ea7-bc12-f3a24d5b6a11" resname="FUT·99 | Gathan Raiders | Card Name">
         <source>Gathan Raiders</source>
@@ -1181,7 +1181,7 @@
       </trans-unit>
       <trans-unit id="8af5c695-d0f4-4ea7-bc12-f3a24d5b6a11" resname="FUT·99 | Gathan Raiders | Card Text | Paragraph 1">
         <source>Hellbent — CARDNAME gets +2/+2 as long as you have no cards in hand.</source>
-        <target state="translated">背水战～只要你没有手牌，迦沙突击队便得+2/+2。</target>
+        <target state="translated">背水战～只要你没有手牌，CARDNAME便得+2/+2。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="8af5c695-d0f4-4ea7-bc12-f3a24d5b6a11" resname="FUT·99 | Gathan Raiders | Card Text | Paragraph 2">
@@ -1229,11 +1229,11 @@
       </trans-unit>
       <trans-unit id="31e0713c-dbf4-4403-ae69-58fd483e2481" resname="FUT·102 | Molten Disaster | Card Text | Paragraph 2">
         <source>If this spell was kicked, it has split second. (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)</source>
-        <target state="translated">若曾支付其增幅费用，则熔融灾祸具有转瞬。 （只要此咒语在堆叠上，牌手便不能使用咒语或不是法术力异能的起动式异能。）</target>
+        <target state="translated">若曾支付其增幅费用，则CARDNAME具有转瞬。 （只要此咒语在堆叠上，牌手便不能使用咒语或不是法术力异能的起动式异能。）</target>
       </trans-unit>
       <trans-unit id="31e0713c-dbf4-4403-ae69-58fd483e2481" resname="FUT·102 | Molten Disaster | Card Text | Paragraph 3">
         <source>CARDNAME deals X damage to each creature without flying and each player.</source>
-        <target state="translated">熔融灾祸对每位牌手与每个不具飞行异能的生物各造成X点伤害。</target>
+        <target state="translated">CARDNAME对每位牌手与每个不具飞行异能的生物各造成X点伤害。</target>
       </trans-unit>
       <trans-unit id="8f332ef3-335a-494d-a90f-61a9e9834ccd" resname="FUT·103 | Pact of the Titan | Card Name">
         <source>Pact of the Titan</source>
@@ -1269,7 +1269,7 @@
       </trans-unit>
       <trans-unit id="338be9e2-c0b8-4b69-b7b6-6ba9927a3a4d" resname="FUT·105 | Riddle of Lightning | Card Text | Paragraph 1">
         <source>Choose any target. Scry 3, then reveal the top card of your library. CARDNAME deals damage equal to that card's mana value to that permanent or player.</source>
-        <target state="translated">选择任意一个目标。占卜3，然后展示你的牌库顶牌。闪电谜题对该永久物或牌手造成伤害，其数量等同于所展示之牌的总法术力费用。</target>
+        <target state="translated">选择任意一个目标。占卜3，然后展示你的牌库顶牌。CARDNAME对该永久物或牌手造成伤害，其数量等同于所展示之牌的总法术力费用。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="670c1a05-0dd2-4535-aa7f-ed33bbe92681" resname="FUT·106 | Rift Elemental | Card Name">
@@ -1279,7 +1279,7 @@
       </trans-unit>
       <trans-unit id="670c1a05-0dd2-4535-aa7f-ed33bbe92681" resname="FUT·106 | Rift Elemental | Card Text | Paragraph 1">
         <source>{1}{R}, Remove a time counter from a permanent you control or suspended card you own: CARDNAME gets +2/+0 until end of turn.</source>
-        <target state="translated">{1}{R}，从由你操控的永久物或由你拥有且已延缓的牌上移去一个计时指示物：时缝元素得+2/+0直到回合结束。</target>
+        <target state="translated">{1}{R}，从由你操控的永久物或由你拥有且已延缓的牌上移去一个计时指示物：CARDNAME得+2/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="bede410a-8b5c-48c0-8f5d-d8bd17e0b86b" resname="FUT·107 | Scourge of Kher Ridges | Card Name">
@@ -1292,11 +1292,11 @@
       </trans-unit>
       <trans-unit id="bede410a-8b5c-48c0-8f5d-d8bd17e0b86b" resname="FUT·107 | Scourge of Kher Ridges | Card Text | Paragraph 2">
         <source>{1}{R}: CARDNAME deals 2 damage to each creature without flying.</source>
-        <target state="translated">{1}{R}：喀尔山脊祸害对每个不具飞行异能的生物各造成2点伤害。</target>
+        <target state="translated">{1}{R}：CARDNAME对每个不具飞行异能的生物各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="bede410a-8b5c-48c0-8f5d-d8bd17e0b86b" resname="FUT·107 | Scourge of Kher Ridges | Card Text | Paragraph 3">
         <source>{5}{R}: CARDNAME deals 6 damage to each other creature with flying.</source>
-        <target state="translated">{5}{R}：喀尔山脊祸害对每个具飞行异能的其它生物各造成6点伤害。</target>
+        <target state="translated">{5}{R}：CARDNAME对每个具飞行异能的其它生物各造成6点伤害。</target>
       </trans-unit>
       <trans-unit id="75d3e0ff-7738-4f5e-b35a-b9494095ab9f" resname="FUT·108 | Shivan Sand-Mage | Card Name">
         <source>Shivan Sand-Mage</source>
@@ -1305,7 +1305,7 @@
       </trans-unit>
       <trans-unit id="75d3e0ff-7738-4f5e-b35a-b9494095ab9f" resname="FUT·108 | Shivan Sand-Mage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose one —</source>
-        <target state="translated">当西瓦砂法师进战场时，选择一项～</target>
+        <target state="translated">当CARDNAME进战场时，选择一项～</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="75d3e0ff-7738-4f5e-b35a-b9494095ab9f" resname="FUT·108 | Shivan Sand-Mage | Card Text | Paragraph 2">
@@ -1338,7 +1338,7 @@
       </trans-unit>
       <trans-unit id="b930b146-d132-454f-b35d-4a247c14c054" resname="FUT·110 | Bloodshot Trainee | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 4 damage to target creature. Activate only if CARDNAME's power is 4 or greater.</source>
-        <target state="translated">{T}：血丝学员对目标生物造成4点伤害。只能于血丝学员的力量等于或大于4时起动此异能。</target>
+        <target state="translated">{T}：CARDNAME对目标生物造成4点伤害。只能于CARDNAME的力量等于或大于4时起动此异能。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="179bec14-2e22-43eb-8854-b70a97dd023b" resname="FUT·111 | Boldwyr Intimidator | Card Name">
@@ -1395,11 +1395,11 @@
       </trans-unit>
       <trans-unit id="a60475e5-0d37-4af0-b717-da4c8dea45ac" resname="FUT·115 | Ghostfire | Card Text | Paragraph 1">
         <source>CARDNAME is colorless.</source>
-        <target state="translated">灵火是无色。</target>
+        <target state="translated">CARDNAME是无色。</target>
       </trans-unit>
       <trans-unit id="a60475e5-0d37-4af0-b717-da4c8dea45ac" resname="FUT·115 | Ghostfire | Card Text | Paragraph 2">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">灵火对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="31716a43-2522-46ff-a9a4-b6952cd41f11" resname="FUT·116 | Grinning Ignus | Card Name">
         <source>Grinning Ignus</source>
@@ -1408,7 +1408,7 @@
       </trans-unit>
       <trans-unit id="31716a43-2522-46ff-a9a4-b6952cd41f11" resname="FUT·116 | Grinning Ignus | Card Text | Paragraph 1">
         <source>{R}, Return CARDNAME to its owner's hand: Add {C}{C}{R}. Activate only as a sorcery.</source>
-        <target state="translated">{R}，将蔑笑火灵移回其拥有者手上：加{C}{C}{R}。只能于法术时机起动。</target>
+        <target state="translated">{R}，将CARDNAME移回其拥有者手上：加{C}{C}{R}。只能于法术时机起动。</target>
         <note xmlns:from="developer">中文数据来自STX（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="3b41cef7-bb16-4d89-9900-dc6d1f5200f0" resname="FUT·117 | Henchfiend of Ukor | Card Name">
@@ -1428,7 +1428,7 @@
       </trans-unit>
       <trans-unit id="3b41cef7-bb16-4d89-9900-dc6d1f5200f0" resname="FUT·117 | Henchfiend of Ukor | Card Text | Paragraph 3">
         <source>{B/R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{B/R}：乌寇的悍魔得+1/+0直到回合结束。</target>
+        <target state="translated">{B/R}：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="0c876479-5040-4d36-b43a-54d7fc9160c1" resname="FUT·118 | Homing Sliver | Card Name">
@@ -1460,7 +1460,7 @@
       </trans-unit>
       <trans-unit id="cee5e9e3-e3ae-4e1b-a8fb-48c523631105" resname="FUT·119 | Shah of Naar Isle | Card Text | Paragraph 3">
         <source>When CARDNAME's echo cost is paid, each opponent may draw up to three cards.</source>
-        <target state="translated">当支付纳尔岛主的返响费用时，每位对手可以各抓至多三张牌。</target>
+        <target state="translated">当支付CARDNAME的返响费用时，每位对手可以各抓至多三张牌。</target>
       </trans-unit>
       <trans-unit id="4b232c36-bff1-4f5e-98a6-ce6a98591aa6" resname="FUT·120 | Skizzik Surger | Card Name">
         <source>Skizzik Surger</source>
@@ -1498,7 +1498,7 @@
       </trans-unit>
       <trans-unit id="1b2db053-3da0-4c3a-9b36-0eff6477540d" resname="FUT·122 | Storm Entity | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with a +1/+1 counter on it for each other spell cast this turn.</source>
-        <target state="translated">风暴灵进战场时上面有数个+1/+1指示物，其数量为本回合中施放过的其他咒语数量。</target>
+        <target state="translated">CARDNAME进战场时上面有数个+1/+1指示物，其数量为本回合中施放过的其他咒语数量。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="0b06bd73-c45a-4560-bd8d-413608c5f89e" resname="FUT·123 | Tarox Bladewing | Card Name">
@@ -1511,7 +1511,7 @@
       </trans-unit>
       <trans-unit id="0b06bd73-c45a-4560-bd8d-413608c5f89e" resname="FUT·123 | Tarox Bladewing | Card Text | Paragraph 2">
         <source>Grandeur — Discard another card named CARDNAME: CARDNAME gets +X/+X until end of turn, where X is its power.</source>
-        <target state="translated">声威～弃掉另一张名称为锋翼塔洛兹的牌：锋翼塔洛兹得+X/+X直到回合结束，X为其力量。</target>
+        <target state="translated">声威～弃掉另一张名称为CARDNAME的牌：CARDNAME得+X/+X直到回合结束，X为其力量。</target>
       </trans-unit>
       <trans-unit id="88a85be1-9de5-4f96-9fd1-15f3f17c4bea" resname="FUT·124 | Thunderblade Charge | Card Name">
         <source>Thunderblade Charge</source>
@@ -1519,11 +1519,11 @@
       </trans-unit>
       <trans-unit id="88a85be1-9de5-4f96-9fd1-15f3f17c4bea" resname="FUT·124 | Thunderblade Charge | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">雷刃冲锋对目标生物或牌手造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="88a85be1-9de5-4f96-9fd1-15f3f17c4bea" resname="FUT·124 | Thunderblade Charge | Card Text | Paragraph 2">
         <source>Whenever one or more creatures you control deal combat damage to a player, if CARDNAME is in your graveyard, you may pay {2}{R}{R}{R}. If you do, you may cast it without paying its mana cost.</source>
-        <target state="translated">每当由你操控的一个或数个生物对某牌手造成战斗伤害时，若雷刃冲锋在你的坟墓场中，你可以支付{2}{R}{R}{R}。 若你如此作，则使用它且不需支付其法术力费用。</target>
+        <target state="translated">每当由你操控的一个或数个生物对某牌手造成战斗伤害时，若CARDNAME在你的坟墓场中，你可以支付{2}{R}{R}{R}。 若你如此作，则使用它且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="f2b2fa14-b08b-4cb9-bd77-c9da1dfa91d4" resname="FUT·125 | Cyclical Evolution | Card Name">
         <source>Cyclical Evolution</source>
@@ -1531,7 +1531,7 @@
       </trans-unit>
       <trans-unit id="f2b2fa14-b08b-4cb9-bd77-c9da1dfa91d4" resname="FUT·125 | Cyclical Evolution | Card Text | Paragraph 1">
         <source>Target creature gets +3/+3 until end of turn. Exile CARDNAME with three time counters on it.</source>
-        <target state="translated">目标生物得+3/+3直到回合结束。 将周期演化移出对战，且上面有三个计时指示物。</target>
+        <target state="translated">目标生物得+3/+3直到回合结束。 将CARDNAME移出对战，且上面有三个计时指示物。</target>
       </trans-unit>
       <trans-unit id="f2b2fa14-b08b-4cb9-bd77-c9da1dfa91d4" resname="FUT·125 | Cyclical Evolution | Card Text | Paragraph 2">
         <source>Suspend 3—{2}{G} (Rather than cast this card from your hand, you may pay {2}{G} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, you may cast it without paying its mana cost.)</source>
@@ -1572,7 +1572,7 @@
       </trans-unit>
       <trans-unit id="d19216a1-4fe2-496e-9ef4-6ac652e5b7ca" resname="FUT·128 | Kavu Primarch | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with four +1/+1 counters on it.</source>
-        <target state="translated">如果卡甫大君已增幅，则它进战场时上面有四个+1/+1指示物。</target>
+        <target state="translated">如果CARDNAME已增幅，则它进战场时上面有四个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="1c8c9473-97f4-4875-8f06-d3a70d4cbe6d" resname="FUT·129 | Llanowar Augur | Card Name">
@@ -1581,7 +1581,7 @@
       </trans-unit>
       <trans-unit id="1c8c9473-97f4-4875-8f06-d3a70d4cbe6d" resname="FUT·129 | Llanowar Augur | Card Text | Paragraph 1">
         <source>Sacrifice CARDNAME: Target creature gets +3/+3 and gains trample until end of turn. Activate only during your upkeep.</source>
-        <target state="translated">牺牲罗堰卜算师：目标生物得+3/+3且获得践踏异能直到回合结束。 你只可以于你的维持中使用此异能。</target>
+        <target state="translated">牺牲CARDNAME：目标生物得+3/+3且获得践踏异能直到回合结束。 你只可以于你的维持中使用此异能。</target>
       </trans-unit>
       <trans-unit id="bf831ed3-d3ae-43ac-82ca-4984c05dde86" resname="FUT·130 | Llanowar Empath | Card Name">
         <source>Llanowar Empath</source>
@@ -1590,7 +1590,7 @@
       </trans-unit>
       <trans-unit id="bf831ed3-d3ae-43ac-82ca-4984c05dde86" resname="FUT·130 | Llanowar Empath | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, scry 2, then reveal the top card of your library. If it's a creature card, put it into your hand. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</source>
-        <target state="translated">当罗堰共感者进战场时，占卜2，然后展示你的牌库顶牌。若该牌是生物牌，则将它置于你手上。（占卜2的流程是检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
+        <target state="translated">当CARDNAME进战场时，占卜2，然后展示你的牌库顶牌。若该牌是生物牌，则将它置于你手上。（占卜2的流程是检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="b23f0074-40ad-4057-a672-42ed4f9564c0" resname="FUT·131 | Llanowar Mentor | Card Name">
@@ -1649,7 +1649,7 @@
       </trans-unit>
       <trans-unit id="5e09949e-c8cd-4bb4-9ed4-699abbc7ad3c" resname="FUT·135 | Ravaging Riftwurm | Card Text | Paragraph 3">
         <source>If CARDNAME was kicked, it enters the battlefield with three additional time counters on it.</source>
-        <target state="translated">若曾支付其增幅费用，则蹂躏时缝亚龙进场时上面额外有三个计时指示物。</target>
+        <target state="translated">若曾支付其增幅费用，则CARDNAME进场时上面额外有三个计时指示物。</target>
       </trans-unit>
       <trans-unit id="847dbbbc-e069-4a90-bc47-c28418bb8540" resname="FUT·136 | Riftsweeper | Card Name">
         <source>Riftsweeper</source>
@@ -1657,7 +1657,7 @@
       </trans-unit>
       <trans-unit id="847dbbbc-e069-4a90-bc47-c28418bb8540" resname="FUT·136 | Riftsweeper | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, choose target face-up exiled card. Its owner shuffles it into their library.</source>
-        <target state="translated">当时缝荡空师进场时，选择目标牌面朝上且被移出对战的牌。 其拥有者将它洗入其牌库。</target>
+        <target state="translated">当CARDNAME进场时，选择目标牌面朝上且被移出对战的牌。 其拥有者将它洗入其牌库。</target>
       </trans-unit>
       <trans-unit id="811458c7-dcdc-43ef-8c3e-a90e21ce315e" resname="FUT·137 | Rites of Flourishing | Card Name">
         <source>Rites of Flourishing</source>
@@ -1712,12 +1712,12 @@
       </trans-unit>
       <trans-unit id="b9d3d285-8327-4dba-911b-ff03b186f6b8" resname="FUT·140 | Utopia Mycon | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a spore counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在乌托菌上放置一个芽孢指示物。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个芽孢指示物。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="b9d3d285-8327-4dba-911b-ff03b186f6b8" resname="FUT·140 | Utopia Mycon | Card Text | Paragraph 2">
         <source>Remove three spore counters from CARDNAME: Create a 1/1 green Saproling creature token.</source>
-        <target state="translated">从乌托菌上移去三个芽孢指示物：派出一个1/1绿色腐生物衍生生物。</target>
+        <target state="translated">从CARDNAME上移去三个芽孢指示物：派出一个1/1绿色腐生物衍生生物。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="b9d3d285-8327-4dba-911b-ff03b186f6b8" resname="FUT·140 | Utopia Mycon | Card Text | Paragraph 3">
@@ -1745,7 +1745,7 @@
       </trans-unit>
       <trans-unit id="1a74fcde-7685-402c-9b2a-245aa75d75c1" resname="FUT·142 | Baru, Fist of Krosa | Card Text | Paragraph 2">
         <source>Grandeur — Discard another card named CARDNAME: Create an X/X green Wurm creature token, where X is the number of lands you control.</source>
-        <target state="translated">声威～弃掉另一张名称为克洛萨之拳巴鲁的牌：将一个X/X绿色亚龙衍生物放置进场，X为由你操控的地之数量。</target>
+        <target state="translated">声威～弃掉另一张名称为CARDNAME的牌：将一个X/X绿色亚龙衍生物放置进场，X为由你操控的地之数量。</target>
       </trans-unit>
       <trans-unit id="5807814f-7b18-431a-8031-898ff70ad69f" resname="FUT·143 | Centaur Omenreader | Card Name">
         <source>Centaur Omenreader</source>
@@ -1753,7 +1753,7 @@
       </trans-unit>
       <trans-unit id="5807814f-7b18-431a-8031-898ff70ad69f" resname="FUT·143 | Centaur Omenreader | Card Text | Paragraph 1">
         <source>As long as CARDNAME is tapped, creature spells you cast cost {2} less to cast.</source>
-        <target state="translated">只要识兆半人马为横置，你使用的生物咒语费用便减少{2}来使用。</target>
+        <target state="translated">只要CARDNAME为横置，你使用的生物咒语费用便减少{2}来使用。</target>
       </trans-unit>
       <trans-unit id="03998e86-ef67-4329-b106-61252f3f532a" resname="FUT·144 | Edge of Autumn | Card Name">
         <source>Edge of Autumn</source>
@@ -1819,7 +1819,7 @@
       </trans-unit>
       <trans-unit id="335c3aa3-af89-44ce-955a-69e12d83175f" resname="FUT·150 | Quagnoth | Card Text | Paragraph 3">
         <source>When a spell or ability an opponent controls causes you to discard CARDNAME, return it to your hand.</source>
-        <target state="translated">当由对手所操控的咒语或异能令你弃掉奎格诺司时，将它移回你手上。</target>
+        <target state="translated">当由对手所操控的咒语或异能令你弃掉CARDNAME时，将它移回你手上。</target>
       </trans-unit>
       <trans-unit id="231eb017-2945-4915-8032-c09894e88d49" resname="FUT·151 | Spellwild Ouphe | Card Name">
         <source>Spellwild Ouphe</source>
@@ -1827,7 +1827,7 @@
       </trans-unit>
       <trans-unit id="231eb017-2945-4915-8032-c09894e88d49" resname="FUT·151 | Spellwild Ouphe | Card Text | Paragraph 1">
         <source>Spells that target CARDNAME cost {2} less to cast.</source>
-        <target state="translated">以喜咒奥夫为目标的咒语费用减少{2}来使用。</target>
+        <target state="translated">以CARDNAME为目标的咒语费用减少{2}来使用。</target>
       </trans-unit>
       <trans-unit id="cdc8f3f3-4ff4-4943-8ae0-c1af78a5ae16" resname="FUT·152 | Sporoloth Ancient | Card Name">
         <source>Sporoloth Ancient</source>
@@ -1836,7 +1836,7 @@
       </trans-unit>
       <trans-unit id="cdc8f3f3-4ff4-4943-8ae0-c1af78a5ae16" resname="FUT·152 | Sporoloth Ancient | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, put a spore counter on CARDNAME.</source>
-        <target state="translated">在你的维持开始时，在孢身洛司先人上放置一个芽孢指示物。</target>
+        <target state="translated">在你的维持开始时，在CARDNAME上放置一个芽孢指示物。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="cdc8f3f3-4ff4-4943-8ae0-c1af78a5ae16" resname="FUT·152 | Sporoloth Ancient | Card Text | Paragraph 2">
@@ -1851,7 +1851,7 @@
       </trans-unit>
       <trans-unit id="b6876d9e-0908-43ac-8542-09c7aa02b5ba" resname="FUT·153 | Tarmogoyf | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.</source>
-        <target state="translated">塔莫耶夫的力量等同于所有坟墓场中牌的牌张类别数量，其防御力等同于该数量加1。</target>
+        <target state="translated">CARDNAME的力量等同于所有坟墓场中牌的牌张类别数量，其防御力等同于该数量加1。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="783a50a0-9394-4d97-856f-21eb126a0018" resname="FUT·154 | Thornweald Archer | Card Name">
@@ -1881,7 +1881,7 @@
       </trans-unit>
       <trans-unit id="ec73e1ba-b543-4c64-aa89-164eef1d15d6" resname="FUT·156 | Glittering Wish | Card Text | Paragraph 1">
         <source>You may reveal a multicolored card you own from outside the game and put it into your hand. Exile CARDNAME.</source>
-        <target state="translated">你可以从游戏外展示一张由你拥有的多色牌，并将它置于你手上。放逐彩华祈愿。</target>
+        <target state="translated">你可以从游戏外展示一张由你拥有的多色牌，并将它置于你手上。放逐CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="1f437128-3a87-4958-97d0-3940d8761cba" resname="FUT·157 | Jhoira of the Ghitu | Card Name">
@@ -1921,7 +1921,7 @@
       </trans-unit>
       <trans-unit id="b893ab56-44a6-4b3c-bb3e-6deec298cbce" resname="FUT·160 | Cloud Key | Card Text | Paragraph 1">
         <source>As CARDNAME enters the battlefield, choose artifact, creature, enchantment, instant, or sorcery.</source>
-        <target state="translated">于云钥进战场时，选择神器，生物，结界，瞬间或法术。</target>
+        <target state="translated">于CARDNAME进战场时，选择神器，生物，结界，瞬间或法术。</target>
         <note xmlns:from="developer">中文数据来自BRR（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="b893ab56-44a6-4b3c-bb3e-6deec298cbce" resname="FUT·160 | Cloud Key | Card Text | Paragraph 2">
@@ -1941,12 +1941,12 @@
       </trans-unit>
       <trans-unit id="7a7c98b0-d64d-4d0a-b284-1187a8e7095e" resname="FUT·161 | Coalition Relic | Card Text | Paragraph 2">
         <source>{T}: Put a charge counter on CARDNAME.</source>
-        <target state="translated">{T}：在联盟遗宝上放置一个充电指示物。</target>
+        <target state="translated">{T}：在CARDNAME上放置一个充电指示物。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="7a7c98b0-d64d-4d0a-b284-1187a8e7095e" resname="FUT·161 | Coalition Relic | Card Text | Paragraph 3">
         <source>At the beginning of your precombat main phase, remove all charge counters from CARDNAME. Add one mana of any color for each charge counter removed this way.</source>
-        <target state="translated">在你战斗前的行动阶段开始时，移去联盟遗宝上的所有充电指示物。每以此法移去一个充电指示物，便加一点任意颜色的法术力。</target>
+        <target state="translated">在你战斗前的行动阶段开始时，移去CARDNAME上的所有充电指示物。每以此法移去一个充电指示物，便加一点任意颜色的法术力。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="7971f6a6-c26c-4f8f-8de7-afc40563967d" resname="FUT·162 | Epochrasite | Card Name">
@@ -1956,12 +1956,12 @@
       </trans-unit>
       <trans-unit id="7971f6a6-c26c-4f8f-8de7-afc40563967d" resname="FUT·162 | Epochrasite | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with three +1/+1 counters on it if you didn't cast it from your hand.</source>
-        <target state="translated">如果你并非从你手上施放时代寄生虫，则它进战场时上面有三个+1/+1指示物。</target>
+        <target state="translated">如果你并非从你手上施放CARDNAME，则它进战场时上面有三个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="7971f6a6-c26c-4f8f-8de7-afc40563967d" resname="FUT·162 | Epochrasite | Card Text | Paragraph 2">
         <source>When CARDNAME dies, exile it with three time counters on it and it gains suspend. (At the beginning of its owner's upkeep, they remove a time counter. When the last is removed, they may cast this card without paying its mana cost. It has haste.)</source>
-        <target state="translated">当时代寄生虫死去时，将它放逐并在其上放置三个计时指示物，且其获得延缓异能。（在你的维持开始时，从其上移去一个计时指示物。当移去最后一个时，则施放此牌且不需支付其法术力费用。它具有敏捷异能。）</target>
+        <target state="translated">当CARDNAME死去时，将它放逐并在其上放置三个计时指示物，且其获得延缓异能。（在你的维持开始时，从其上移去一个计时指示物。当移去最后一个时，则施放此牌且不需支付其法术力费用。它具有敏捷异能。）</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="b242b7dd-a632-4024-a69a-179a63fb93a8" resname="FUT·163 | Sliversmith | Card Name">
@@ -1984,7 +1984,7 @@
       </trans-unit>
       <trans-unit id="6efa61f0-c7bd-49e2-9d66-bf15ad0e9d03" resname="FUT·164 | Soultether Golem | Card Text | Paragraph 2">
         <source>Whenever another creature enters the battlefield under your control, put a time counter on CARDNAME.</source>
-        <target state="translated">每当另一个生物在你的操控下进场时，在灵缚魔像上放置一个计时指示物。</target>
+        <target state="translated">每当另一个生物在你的操控下进场时，在CARDNAME上放置一个计时指示物。</target>
       </trans-unit>
       <trans-unit id="e9f13705-6ede-4c29-a2b4-a082bf69e9c5" resname="FUT·165 | Sword of the Meek | Card Name">
         <source>Sword of the Meek</source>
@@ -2003,7 +2003,7 @@
       </trans-unit>
       <trans-unit id="e9f13705-6ede-4c29-a2b4-a082bf69e9c5" resname="FUT·165 | Sword of the Meek | Card Text | Paragraph 3">
         <source>Whenever a 1/1 creature enters the battlefield under your control, you may return CARDNAME from your graveyard to the battlefield, then attach it to that creature.</source>
-        <target state="translated">每当一个1/1生物在你的操控下进战场时，你可以将驯良之剑从你的坟墓场移回战场，然后将它贴附在该生物上。</target>
+        <target state="translated">每当一个1/1生物在你的操控下进战场时，你可以将CARDNAME从你的坟墓场移回战场，然后将它贴附在该生物上。</target>
         <note xmlns:from="developer">中文数据来自BRR（2022-11-18）；</note>
       </trans-unit>
       <trans-unit id="3705d3e4-317e-460d-b16e-e57238a19070" resname="FUT·166 | Veilstone Amulet | Card Name">
@@ -2048,7 +2048,7 @@
       </trans-unit>
       <trans-unit id="8f7f06e8-d8ee-435c-965c-8e1302a8ec10" resname="FUT·169 | Dakmor Salvage | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">达克玛沉骸须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="8f7f06e8-d8ee-435c-965c-8e1302a8ec10" resname="FUT·169 | Dakmor Salvage | Card Text | Paragraph 2">
         <source>{T}: Add {B}.</source>
@@ -2064,7 +2064,7 @@
       </trans-unit>
       <trans-unit id="3a6d546d-df98-4cb4-a68b-2a0c8bac5a72" resname="FUT·170 | Keldon Megaliths | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">凯尔顿石柱须横置进场。</target>
+        <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
       <trans-unit id="3a6d546d-df98-4cb4-a68b-2a0c8bac5a72" resname="FUT·170 | Keldon Megaliths | Card Text | Paragraph 2">
         <source>{T}: Add {R}.</source>
@@ -2072,7 +2072,7 @@
       </trans-unit>
       <trans-unit id="3a6d546d-df98-4cb4-a68b-2a0c8bac5a72" resname="FUT·170 | Keldon Megaliths | Card Text | Paragraph 3">
         <source>Hellbent — {1}{R}, {T}: CARDNAME deals 1 damage to any target. Activate only if you have no cards in hand.</source>
-        <target state="translated">背水战～{1}{R}，{T}：凯尔顿石柱对目标生物或牌手造成1点伤害。 你只可以于你没有手牌时使用此异能。</target>
+        <target state="translated">背水战～{1}{R}，{T}：CARDNAME对目标生物或牌手造成1点伤害。 你只可以于你没有手牌时使用此异能。</target>
       </trans-unit>
       <trans-unit id="04d07c6b-1afa-4321-b4f9-f22e81a0b818" resname="FUT·171 | Llanowar Reborn | Card Name">
         <source>Llanowar Reborn</source>
@@ -2081,7 +2081,7 @@
       </trans-unit>
       <trans-unit id="04d07c6b-1afa-4321-b4f9-f22e81a0b818" resname="FUT·171 | Llanowar Reborn | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">复生罗堰须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="04d07c6b-1afa-4321-b4f9-f22e81a0b818" resname="FUT·171 | Llanowar Reborn | Card Text | Paragraph 2">
@@ -2101,7 +2101,7 @@
       </trans-unit>
       <trans-unit id="18bde721-8fa0-4f69-9909-b4864929e676" resname="FUT·172 | New Benalia | Card Text | Paragraphs">
         <source>CARDNAME enters the battlefield tapped.\nWhen CARDNAME enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {W}.</source>
-        <target state="translated">新宾纳里亚须横置进战场。当新宾纳里亚进战场时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）{T}：加{W}到你的法术力池中。</target>
+        <target state="translated">CARDNAME须横置进战场。当CARDNAME进战场时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）{T}：加{W}到你的法术力池中。</target>
         <note xmlns:from="developer">中文数据来自C15（2015-11-13）；</note>
       </trans-unit>
       <trans-unit id="a9e80f06-ea05-4151-920f-7ddc88952169" resname="FUT·173 | Tolaria West | Card Name">
@@ -2111,7 +2111,7 @@
       </trans-unit>
       <trans-unit id="a9e80f06-ea05-4151-920f-7ddc88952169" resname="FUT·173 | Tolaria West | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">陶拉里亚西境须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="a9e80f06-ea05-4151-920f-7ddc88952169" resname="FUT·173 | Tolaria West | Card Text | Paragraph 2">
@@ -2131,7 +2131,7 @@
       </trans-unit>
       <trans-unit id="8cee476d-42e1-4997-87af-73e18f542167" resname="FUT·174 | Dryad Arbor | Card Text | Paragraph 1">
         <source>(CARDNAME isn't a spell, it's affected by summoning sickness, and it has &amp;quot;{T}: Add {G}.&amp;quot;)</source>
-        <target state="translated">（树灵乔木不是咒语，会受召唤失调影响，且具有「{T}：加{G}。」）</target>
+        <target state="translated">（CARDNAME不是咒语，会受召唤失调影响，且具有「{T}：加{G}。」）</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="81e7d329-ef6a-45f3-82b6-37a3606c00bc" resname="FUT·175 | Graven Cairns | Card Name">
@@ -2231,7 +2231,7 @@
       </trans-unit>
       <trans-unit id="92d07c87-4f7e-48a4-949a-087dd391d1d4" resname="PFUT·87★ | Korlash, Heir to Blackblade | Card Text | Paragraph 1">
         <source>CARDNAME's power and toughness are each equal to the number of Swamps you control.</source>
-        <target state="translated">乌锋传人寇列许的力量和防御力各等同于由你操控的沼泽之数量。</target>
+        <target state="translated">CARDNAME的力量和防御力各等同于由你操控的沼泽之数量。</target>
         <note xmlns:from="developer">中文数据来自FUT（2007-05-04）；</note>
       </trans-unit>
       <trans-unit id="92d07c87-4f7e-48a4-949a-087dd391d1d4" resname="PFUT·87★ | Korlash, Heir to Blackblade | Card Text | Paragraph 2">
@@ -2241,7 +2241,7 @@
       </trans-unit>
       <trans-unit id="92d07c87-4f7e-48a4-949a-087dd391d1d4" resname="PFUT·87★ | Korlash, Heir to Blackblade | Card Text | Paragraph 3">
         <source>Grandeur — Discard another card named CARDNAME: Search your library for up to two Swamp cards, put them onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">声威～弃掉另一张名称为乌锋传人寇列许的牌：从你的牌库中搜寻至多两张沼泽牌，将它们横置进场，然后将你的牌库洗牌。</target>
+        <target state="translated">声威～弃掉另一张名称为CARDNAME的牌：从你的牌库中搜寻至多两张沼泽牌，将它们横置进场，然后将你的牌库洗牌。</target>
         <note xmlns:from="developer">中文数据来自FUT（2007-05-04）；</note>
       </trans-unit>
     </body>

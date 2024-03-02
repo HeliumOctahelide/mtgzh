@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="9e14db1c-0a05-47d2-9f27-df881f7f37ab" resname="DRK·1 | Angry Mob | Card Text | Paragraph 2">
         <source>As long as it's your turn, CARDNAME's power and toughness are each equal to 2 plus the number of Swamps your opponents control. As long as it's not your turn, CARDNAME's power and toughness are each 2.</source>
-        <target state="translated">在你的回合中，忿怒的暴民之力量和防御力皆等于所有对手所操控的沼泽数加2。在其他回合中，忿怒的暴民之力量和防御力皆等于2。</target>
+        <target state="translated">在你的回合中，CARDNAME之力量和防御力皆等于所有对手所操控的沼泽数加2。在其他回合中，CARDNAME之力量和防御力皆等于2。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="22d4761d-acf2-4cb3-86a8-a3f30420a92e" resname="DRK·2 | Blood of the Martyr | Card Name">
@@ -124,7 +124,7 @@
       </trans-unit>
       <trans-unit id="4eef9bb7-cd3c-422e-a93b-90d98684675a" resname="DRK·19 | Witch Hunter | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 1 damage to target player or planeswalker.</source>
-        <target state="translated">{T}：猎巫人对目标牌手造成1点伤害。</target>
+        <target state="translated">{T}：CARDNAME对目标牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="4eef9bb7-cd3c-422e-a93b-90d98684675a" resname="DRK·19 | Witch Hunter | Card Text | Paragraph 2">
@@ -154,7 +154,7 @@
       </trans-unit>
       <trans-unit id="13453abe-3f05-4956-8493-382d7d2af699" resname="DRK·22 | Dance of Many | Card Text | Paragraphs">
         <source>When CARDNAME enters the battlefield, create a token that's a copy of target nontoken creature.\nWhen CARDNAME leaves the battlefield, exile the token.\nWhen the token leaves the battlefield, sacrifice CARDNAME.\nAt the beginning of your upkeep, sacrifice CARDNAME unless you pay {U}{U}.</source>
-        <target state="translated">在你的维持阶段中，支付oUoU，否则埋葬群魔之舞。\n当你使用群魔之舞时，选择目标召唤牌。当群魔之舞进场时，放置一个衍生物进场，将该衍生物视为该召唤牌的完整复制品。若群魔之舞或是该衍生物其中一者离场，则埋葬另一者。</target>
+        <target state="translated">在你的维持阶段中，支付oUoU，否则埋葬CARDNAME。\n当你使用CARDNAME时，选择目标召唤牌。当CARDNAME进场时，放置一个衍生物进场，将该衍生物视为该召唤牌的完整复制品。若CARDNAME或是该衍生物其中一者离场，则埋葬另一者。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="9dd6a230-6bc0-499c-b7fd-4aaa2569f98f" resname="DRK·23 | Deep Water | Card Name">
@@ -199,7 +199,7 @@
       </trans-unit>
       <trans-unit id="db591b28-37e5-4e7c-ae4d-d761262b12d0" resname="DRK·28 | Ghost Ship | Card Text | Paragraph 2">
         <source>{U}{U}{U}: Regenerate CARDNAME.</source>
-        <target state="translated">{U}{U}{U}：重生鬼船。</target>
+        <target state="translated">{U}{U}{U}：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="53ec4a19-0f2f-4713-a869-58832484648d" resname="DRK·29 | Giant Shark | Card Name">
@@ -219,17 +219,17 @@
       </trans-unit>
       <trans-unit id="b638d9be-c533-45c3-92f9-fabf56edc2df" resname="DRK·30 | Leviathan | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield tapped and doesn't untap during your untap step.</source>
-        <target state="translated">海怪须横置进场，且于你的重置步骤中不能重置。</target>
+        <target state="translated">CARDNAME须横置进场，且于你的重置步骤中不能重置。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="b638d9be-c533-45c3-92f9-fabf56edc2df" resname="DRK·30 | Leviathan | Card Text | Paragraph 3">
         <source>At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以牺牲两个海岛。 若你如此做，则重置海怪。</target>
+        <target state="translated">在你的维持开始时，你可以牺牲两个海岛。 若你如此做，则重置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="b638d9be-c533-45c3-92f9-fabf56edc2df" resname="DRK·30 | Leviathan | Card Text | Paragraph 4">
         <source>CARDNAME can't attack unless you sacrifice two Islands. (This cost is paid as attackers are declared.)</source>
-        <target state="translated">除非你牺牲两个海岛，否则海怪不能攻击。</target>
+        <target state="translated">除非你牺牲两个海岛，否则CARDNAME不能攻击。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="f857a00a-82e0-4227-86ee-1f9c7ca232ae" resname="DRK·31 | Mana Vortex | Card Name">
@@ -254,7 +254,7 @@
       </trans-unit>
       <trans-unit id="0ee810a5-f0f9-4b73-8194-3d1344784050" resname="DRK·33 | Mind Bomb | Card Text | Paragraph 1">
         <source>Each player may discard up to three cards. CARDNAME deals damage to each player equal to 3 minus the number of cards they discarded this way.</source>
-        <target state="translated">心灵炸弹对每名玩家造成3点伤害。每名玩家皆可选择弃掉一张牌，以防止心灵炸弹对他造成的1点伤害。每名玩家最多可因此弃掉三张牌。</target>
+        <target state="translated">CARDNAME对每名玩家造成3点伤害。每名玩家皆可选择弃掉一张牌，以防止CARDNAME对他造成的1点伤害。每名玩家最多可因此弃掉三张牌。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="fec3275e-4491-43a8-9f23-d7b48177c103" resname="DRK·34 | Psychic Allergy | Card Name">
@@ -289,7 +289,7 @@
       </trans-unit>
       <trans-unit id="825496e5-19c7-4f50-8070-0265a58608dc" resname="DRK·39 | Ashes to Ashes | Card Text | Paragraph 1">
         <source>Exile two target nonartifact creatures. CARDNAME deals 5 damage to you.</source>
-        <target state="translated">将两个目标非神器的生物移出游戏，土归土对你造成5点伤害。</target>
+        <target state="translated">将两个目标非神器的生物移出游戏，CARDNAME对你造成5点伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="66eaa7d6-48b2-4b35-a834-790edd679e0e" resname="DRK·40 | Banshee | Card Name">
@@ -314,7 +314,7 @@
       </trans-unit>
       <trans-unit id="d64c9153-bc6d-4a64-885f-c039a5487a31" resname="DRK·42 | Bog Rats | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked by Walls.</source>
-        <target state="translated">腐沼老鼠不能被墙阻挡。</target>
+        <target state="translated">CARDNAME不能被墙阻挡。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="9fc0d070-8a42-4d5e-8f2b-ceb59147de6f" resname="DRK·43 | Curse Artifact | Card Name">
@@ -354,7 +354,7 @@
       </trans-unit>
       <trans-unit id="a213450f-02f4-4c08-8da8-891ebfa8e237" resname="DRK·49 | Murk Dwellers | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks and isn't blocked, it gets +2/+0 until end of combat.</source>
-        <target state="translated">如果黑暗栖息者进行攻击且未被阻挡，则它得到+2/+0直到回合结束。</target>
+        <target state="translated">如果CARDNAME进行攻击且未被阻挡，则它得到+2/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="348a467a-4661-4fdb-af1d-9171a1a930d9" resname="DRK·50 | Nameless Race | Card Name">
@@ -389,7 +389,7 @@
       </trans-unit>
       <trans-unit id="848ad6d5-3a7e-4d6b-9929-36465796871f" resname="DRK·54 | Uncle Istvan | Card Text | Paragraph 1">
         <source>Prevent all damage that would be dealt to CARDNAME by creatures.</source>
-        <target state="translated">防止生物将对尹曼叔叔造成的所有伤害。</target>
+        <target state="translated">防止生物将对CARDNAME造成的所有伤害。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="ee30efdb-f1f1-497f-80a6-ec961db67c1d" resname="DRK·55 | Word of Binding | Card Name">
@@ -409,7 +409,7 @@
       </trans-unit>
       <trans-unit id="c1ba83ab-83f5-421d-bba1-0f925870b5c8" resname="DRK·57 | Ball Lightning | Card Text | Paragraphs">
         <source>Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nHaste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, sacrifice CARDNAME.</source>
-        <target state="translated">践踏，敏捷\n在结束步骤开始时，牺牲爆雷炼球。</target>
+        <target state="translated">践踏，敏捷\n在结束步骤开始时，牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="78373616-e2d6-4ccf-998f-09f02bea45b4" resname="DRK·58 | Blood Moon | Card Name">
@@ -429,7 +429,7 @@
       </trans-unit>
       <trans-unit id="ba2cc4a6-fdcc-4082-801a-d2c50e560e8d" resname="DRK·59 | Brothers of Fire | Card Text | Paragraph 1">
         <source>{1}{R}{R}: CARDNAME deals 1 damage to any target and 1 damage to you.</source>
-        <target state="translated">o1oRoR：祝融兄弟对你及目标生物或玩家造成1点伤害。</target>
+        <target state="translated">o1oRoR：CARDNAME对你及目标生物或玩家造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="72746a5d-faa1-44b7-97b5-0ef9302a3c13" resname="DRK·60 | Cave People | Card Name">
@@ -439,7 +439,7 @@
       </trans-unit>
       <trans-unit id="72746a5d-faa1-44b7-97b5-0ef9302a3c13" resname="DRK·60 | Cave People | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +1/-2 until end of turn.</source>
-        <target state="translated">若洞穴人攻击，则它得到+1/-2直到回合结束。</target>
+        <target state="translated">若CARDNAME攻击，则它得到+1/-2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="72746a5d-faa1-44b7-97b5-0ef9302a3c13" resname="DRK·60 | Cave People | Card Text | Paragraph 2">
@@ -479,7 +479,7 @@
       </trans-unit>
       <trans-unit id="8a538b9d-351e-40bb-be11-9ba08c16352b" resname="DRK·65 | Goblin Digging Team | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Destroy target Wall.</source>
-        <target state="translated">ocT，牺牲精灵挖掘队：消灭目标墙</target>
+        <target state="translated">ocT，牺牲CARDNAME：消灭目标墙</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="7135a569-e5d3-4a1f-924b-bdb86926b4e1" resname="DRK·66 | Goblin Hero | Card Name">
@@ -514,7 +514,7 @@
       </trans-unit>
       <trans-unit id="a6b61512-5b24-424c-966f-36b595781e14" resname="DRK·71 | Inferno | Card Text | Paragraph 1">
         <source>CARDNAME deals 6 damage to each creature and each player.</source>
-        <target state="translated">炼狱对每个生物与每位牌手各造成6点伤害。</target>
+        <target state="translated">CARDNAME对每个生物与每位牌手各造成6点伤害。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="72955141-d990-459f-adbe-7d3d0f5f6c95" resname="DRK·72 | Mana Clash | Card Name">
@@ -524,7 +524,7 @@
       </trans-unit>
       <trans-unit id="72955141-d990-459f-adbe-7d3d0f5f6c95" resname="DRK·72 | Mana Clash | Card Text | Paragraph 1">
         <source>You and target opponent each flip a coin. CARDNAME deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.</source>
-        <target state="translated">你和目标对手各掷一枚硬币， 法术力碰撞对每位掷出反面的牌手各造成1点伤害。 重复此步骤，直到双方的硬币同时出现正面为止。</target>
+        <target state="translated">你和目标对手各掷一枚硬币， CARDNAME对每位掷出反面的牌手各造成1点伤害。 重复此步骤，直到双方的硬币同时出现正面为止。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="65a10fd5-506e-46bf-87e6-fde134c0dc04" resname="DRK·73 | Orc General | Card Name">
@@ -549,7 +549,7 @@
       </trans-unit>
       <trans-unit id="f395278e-6d74-4f35-af9d-21bad7b19763" resname="DRK·76 | Elves of Deep Shadow | Card Text | Paragraph 1">
         <source>{T}: Add {B}. CARDNAME deals 1 damage to you.</source>
-        <target state="translated">{T}：加{B}到你的法术力池中。 深黯地精对你造成1点伤害。</target>
+        <target state="translated">{T}：加{B}到你的法术力池中。 CARDNAME对你造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自RAV（2005-10-07）；</note>
       </trans-unit>
       <trans-unit id="0e1ae3d6-6d96-4db6-bbc4-cee91bae6cf7" resname="DRK·77 | Gaea's Touch | Card Name">
@@ -579,7 +579,7 @@
       </trans-unit>
       <trans-unit id="109cce7a-96f7-4e67-878a-bd5c93ea8643" resname="DRK·81 | Marsh Viper | Card Text | Paragraph 1">
         <source>Whenever CARDNAME deals damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)</source>
-        <target state="translated">如果有玩家被沼地毒蛇伤害，则该玩家获得两个中毒指示物。若任何玩家获得十个或以上的中毒指示物，该玩家即输掉此盘游戏。</target>
+        <target state="translated">如果有玩家被CARDNAME伤害，则该玩家获得两个中毒指示物。若任何玩家获得十个或以上的中毒指示物，该玩家即输掉此盘游戏。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="9d5911b5-a54e-4ebb-9c36-d4dc8e97bb4b" resname="DRK·82 | Niall Silvain | Card Name">
@@ -614,7 +614,7 @@
       </trans-unit>
       <trans-unit id="8e99870c-b2b9-431b-b8a8-3f4a80aa8fa5" resname="DRK·87 | Scavenger Folk | Card Text | Paragraph 1">
         <source>{G}, {T}, Sacrifice CARDNAME: Destroy target artifact.</source>
-        <target state="translated">绿，ocT，牺牲拾荒者：消灭目标神器。</target>
+        <target state="translated">绿，ocT，牺牲CARDNAME：消灭目标神器。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="7011356e-7516-4ca0-ac54-d30af7ce03a2" resname="DRK·88 | Spitting Slug | Card Name">
@@ -624,7 +624,7 @@
       </trans-unit>
       <trans-unit id="7011356e-7516-4ca0-ac54-d30af7ce03a2" resname="DRK·88 | Spitting Slug | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked, you may pay {1}{G}. If you do, CARDNAME gains first strike until end of turn. Otherwise, each creature blocking or blocked by CARDNAME gains first strike until end of turn.</source>
-        <target state="translated">每当喷吐蛞蝓阻挡或被阻挡时，你可以支付{1}{G}。 若你如此作，则喷吐蛞蝓获得先攻异能直到回合结束。 若否，则每个阻挡喷吐蛞蝓，或被喷吐蛞蝓阻挡的生物获得先攻异能直到回合结束。</target>
+        <target state="translated">每当CARDNAME阻挡或被阻挡时，你可以支付{1}{G}。 若你如此作，则CARDNAME获得先攻异能直到回合结束。 若否，则每个阻挡CARDNAME，或被CARDNAME阻挡的生物获得先攻异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="35ffc69e-26f2-434f-8c89-2df108dd984a" resname="DRK·89 | Tracker | Card Name">
@@ -784,7 +784,7 @@
       </trans-unit>
       <trans-unit id="0f9668ba-d26d-4484-b4b8-6fb91fbfb617" resname="DRK·112 | Tormod's Crypt | Card Text | Paragraph 1">
         <source>{T}, Sacrifice CARDNAME: Exile target player's graveyard.</source>
-        <target state="translated">{T}，牺牲托玛墓穴：放逐目标牌手的坟墓场。</target>
+        <target state="translated">{T}，牺牲CARDNAME：放逐目标牌手的坟墓场。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="64c19977-ac7d-4ce7-925c-33a7503420f5" resname="DRK·113 | Tower of Coireall | Card Name">
@@ -804,7 +804,7 @@
       </trans-unit>
       <trans-unit id="9023c078-4169-498b-8626-a4862e0631f8" resname="DRK·115 | War Barge | Card Text | Paragraph 1">
         <source>{3}: Target creature gains islandwalk until end of turn. When CARDNAME leaves the battlefield this turn, destroy that creature. A creature destroyed this way can't be regenerated. (A creature with islandwalk can't be blocked as long as defending player controls an Island.)</source>
-        <target state="translated">{3}：目标生物获得海岛行者异能直到回合结束。 当战船本回合离场时，牺牲该生物。 以此法被消灭的生物不能重生。</target>
+        <target state="translated">{3}：目标生物获得海岛行者异能直到回合结束。 当CARDNAME本回合离场时，牺牲该生物。 以此法被消灭的生物不能重生。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="76e5ee8a-34e5-4a2e-a04e-9fcdc7e53dda" resname="DRK·116 | City of Shadows | Card Name">
@@ -834,7 +834,7 @@
       </trans-unit>
       <trans-unit id="0d48fb47-1bed-4791-a014-504515f3d36f" resname="DRK·118 | Safe Haven | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, you may sacrifice CARDNAME. If you do, return each card exiled with CARDNAME to the battlefield under its owner's control.</source>
-        <target state="translated">在你的维持开始时，你可以牺牲安全庇护地。 若你如此作，将所有以安全庇护地移出对战的牌在其拥有者的操控下放置进场。</target>
+        <target state="translated">在你的维持开始时，你可以牺牲CARDNAME。 若你如此作，将所有以CARDNAME移出对战的牌在其拥有者的操控下放置进场。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="6f75946b-1690-43cc-993c-d4e451a1a41c" resname="DRK·119 | Sorrow's Path | Card Name">

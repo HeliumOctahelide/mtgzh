@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="b09aee5c-8b9e-46c2-b4d4-508062f8af05" resname="LEG·7 | D'Avenant Archer | Card Text | Paragraph 1">
         <source>{T}: CARDNAME deals 1 damage to target attacking or blocking creature.</source>
-        <target state="translated">ocT：阿维农箭手对目标进行攻击或阻挡的生物造成1点伤害。</target>
+        <target state="translated">ocT：CARDNAME对目标进行攻击或阻挡的生物造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="9eae0ba1-1383-4505-b4e7-4f17dd8f20c5" resname="LEG·8 | Divine Intervention | Card Name">
@@ -309,7 +309,7 @@
       </trans-unit>
       <trans-unit id="ff78eef1-efaa-4a12-bf5d-fec83c14aff8" resname="LEG·45 | Anti-Magic Aura | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature can't be the target of spells and can't be enchanted by other Auras.</source>
-        <target state="translated">受此结界的生物不可成为结界、瞬间及法术之目标。此效应不会埋葬反魔法灵气本身（其他在此生物上的结界则因它们的目标现在已不合法，而立即被埋葬）。</target>
+        <target state="translated">受此结界的生物不可成为结界、瞬间及法术之目标。此效应不会埋葬CARDNAME本身（其他在此生物上的结界则因它们的目标现在已不合法，而立即被埋葬）。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="fb5f13a2-0896-4230-8957-6ad1cb2b895b" resname="LEG·46 | Azure Drake | Card Name">
@@ -484,7 +484,7 @@
       </trans-unit>
       <trans-unit id="33296718-0625-4422-a65c-b21cf99c52ec" resname="LEG·70 | Recall | Card Text | Paragraph 1">
         <source>Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile CARDNAME.</source>
-        <target state="translated">从你的手牌中选择并弃掉X张牌，再自你的坟墓场中移回同样数量的牌到你的手上。将召还移出游戏。</target>
+        <target state="translated">从你的手牌中选择并弃掉X张牌，再自你的坟墓场中移回同样数量的牌到你的手上。将CARDNAME移出游戏。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="a9b07dc4-21ad-410b-8f8a-2b034253bfee" resname="LEG·71 | Relic Bind | Card Name">
@@ -599,7 +599,7 @@
       </trans-unit>
       <trans-unit id="25a173fd-e10c-45f8-a6e5-ad7a747a8050" resname="LEG·86 | Zephyr Falcon | Card Text | Paragraphs">
         <source>Flying, vigilance</source>
-        <target state="translated">飞行\n西风猎鹰攻击时不须横置</target>
+        <target state="translated">飞行\nCARDNAME攻击时不须横置</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="a69e2cf8-5ecb-485a-92a2-b4e0a7959f1f" resname="LEG·87 | Abomination | Card Name">
@@ -674,7 +674,7 @@
       </trans-unit>
       <trans-unit id="b060f747-f65c-4ee0-923a-76298cb51a03" resname="LEG·96 | Evil Eye of Orms-by-Gore | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked except by Walls.</source>
-        <target state="translated">欧拜高的邪眼只能被墙阻挡。</target>
+        <target state="translated">CARDNAME只能被墙阻挡。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="0f4174e4-0be8-49b5-8c52-22001790f6eb" resname="LEG·97 | Fallen Angel | Card Name">
@@ -689,7 +689,7 @@
       </trans-unit>
       <trans-unit id="0f4174e4-0be8-49b5-8c52-22001790f6eb" resname="LEG·97 | Fallen Angel | Card Text | Paragraph 2">
         <source>Sacrifice a creature: CARDNAME gets +2/+1 until end of turn.</source>
-        <target state="translated">牺牲一个生物：堕天使得+2/+1直到回合结束。</target>
+        <target state="translated">牺牲一个生物：CARDNAME得+2/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="20275678-3488-43d8-a93b-993e2267ab07" resname="LEG·98 | Ghosts of the Damned | Card Name">
@@ -799,7 +799,7 @@
       </trans-unit>
       <trans-unit id="cc564f84-0d6e-4e09-a58d-a694d918cf12" resname="LEG·114 | Pit Scorpion | Card Text | Paragraphs">
         <source>Whenever CARDNAME deals damage to a player, that player gets a poison counter. (A player with ten or more poison counters loses the game.)</source>
-        <target state="translated">如果暗渊蝎子伤害任何玩家，则该玩家得一中毒指示物。若任何玩家得到十个或以上的中毒指示物，\n则输掉此盘游戏。</target>
+        <target state="translated">如果CARDNAME伤害任何玩家，则该玩家得一中毒指示物。若任何玩家得到十个或以上的中毒指示物，\n则输掉此盘游戏。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="94e2aa9e-af6a-41c6-99a8-ca9335730ddb" resname="LEG·115 | Quagmire | Card Name">
@@ -824,7 +824,7 @@
       </trans-unit>
       <trans-unit id="f3020304-7a39-411e-b055-3ade72b4bff8" resname="LEG·118 | Syphon Soul | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to each other player. You gain life equal to the damage dealt this way.</source>
-        <target state="translated">吸魂对每位其他牌手各造成2点伤害。你获得等同于以此法所造成的伤害之生命。</target>
+        <target state="translated">CARDNAME对每位其他牌手各造成2点伤害。你获得等同于以此法所造成的伤害之生命。</target>
         <note xmlns:from="developer">中文数据来自CNS（2014-06-06）；</note>
       </trans-unit>
       <trans-unit id="d8f49b3d-7fcb-4169-9298-cdf7a1dbe3f5" resname="LEG·119 | Takklemaggot | Card Name">
@@ -844,7 +844,7 @@
       </trans-unit>
       <trans-unit id="14c45416-a826-42e9-9967-8838158cf16d" resname="LEG·121 | The Wretched | Card Text | Paragraph 1">
         <source>At end of combat, gain control of all creatures blocking CARDNAME for as long as you control CARDNAME.</source>
-        <target state="translated">在战斗结束时，你获得所有阻挡卑劣者之生物的操控权，直到你失去卑劣者的操控权为止。</target>
+        <target state="translated">在战斗结束时，你获得所有阻挡CARDNAME之生物的操控权，直到你失去CARDNAME的操控权为止。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="eda7177f-1354-4008-aaaa-2c8b823ed5e9" resname="LEG·122 | Touch of Darkness | Card Name">
@@ -864,7 +864,7 @@
       </trans-unit>
       <trans-unit id="a0e8f8d8-eac0-451c-a167-be84667a8e3d" resname="LEG·124 | Underworld Dreams | Card Text | Paragraph 1">
         <source>Whenever an opponent draws a card, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">每当任一对手抓一张牌时，地底幻梦对该牌手造成1点伤害。</target>
+        <target state="translated">每当任一对手抓一张牌时，CARDNAME对该牌手造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自THB（2020-01-24）；</note>
       </trans-unit>
       <trans-unit id="6a6a6f50-7b86-461e-80a7-e35d0e7cf52f" resname="LEG·125 | Vampire Bats | Card Name">
@@ -879,7 +879,7 @@
       </trans-unit>
       <trans-unit id="6a6a6f50-7b86-461e-80a7-e35d0e7cf52f" resname="LEG·125 | Vampire Bats | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gets +1/+0 until end of turn. Activate no more than twice each turn.</source>
-        <target state="translated">{B}：吸血蝙蝠得+1/+0直到回合结束。 此异能每回合中最多只能使用两次。</target>
+        <target state="translated">{B}：CARDNAME得+1/+0直到回合结束。 此异能每回合中最多只能使用两次。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="d7533a72-77d1-40cd-b3a1-7597d566c428" resname="LEG·126 | Walking Dead | Card Name">
@@ -949,7 +949,7 @@
       </trans-unit>
       <trans-unit id="b5883762-ca0a-4932-8d2a-41a45796a5f8" resname="LEG·137 | Chain Lightning | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target. Then that player or that permanent's controller may pay {R}{R}. If the player does, they may copy this spell and may choose a new target for that copy.</source>
-        <target state="translated">连锁闪电对任意一个目标造成3点伤害。然后该牌手或该永久物的操控者可以支付{R}{R}。如果该牌手如此作，则其可以复制此咒语，且可以为该复制品选择新的目标。</target>
+        <target state="translated">CARDNAME对任意一个目标造成3点伤害。然后该牌手或该永久物的操控者可以支付{R}{R}。如果该牌手如此作，则其可以复制此咒语，且可以为该复制品选择新的目标。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="a432d6ae-a17f-484b-ad55-4b4b6674ba8d" resname="LEG·138 | Crevasse | Card Name">
@@ -974,7 +974,7 @@
       </trans-unit>
       <trans-unit id="96f73f9c-1c4e-4343-bfa0-cc5c4a7a562e" resname="LEG·140 | Crimson Manticore | Card Text | Paragraph 2">
         <source>{R}, {T}: CARDNAME deals 1 damage to target attacking or blocking creature.</source>
-        <target state="translated">oR，ocT：赤色的翼狮对目标攻击或防御生物造成1点伤害。</target>
+        <target state="translated">oR，ocT：CARDNAME对目标攻击或防御生物造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="7af6b119-7db4-49dd-aaa4-044b8c133f13" resname="LEG·141 | Crookshank Kobolds | Card Name">
@@ -1104,12 +1104,12 @@
       </trans-unit>
       <trans-unit id="a46e47e1-8639-48f7-94c4-5f9e9666839a" resname="LEG·160 | Primordial Ooze | Card Text | Paragraph 1">
         <source>CARDNAME attacks each combat if able.</source>
-        <target state="translated">在每回合若原生的流浆能够攻击则必须攻击。</target>
+        <target state="translated">在每回合若CARDNAME能够攻击则必须攻击。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="a46e47e1-8639-48f7-94c4-5f9e9666839a" resname="LEG·160 | Primordial Ooze | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, put a +1/+1 counter on CARDNAME. Then you may pay {X}, where X is the number of +1/+1 counters on it. If you don't, tap CARDNAME and it deals X damage to you.</source>
-        <target state="translated">在你的维持阶段中，放一个+1/+1指示物在原生的流浆上，然后支付oX，此X等于其上该种指示物的数量；否则横置原生的流浆且它对你造成X点伤害。</target>
+        <target state="translated">在你的维持阶段中，放一个+1/+1指示物在CARDNAME上，然后支付oX，此X等于其上该种指示物的数量；否则横置CARDNAME且它对你造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="2646284b-a94d-4c99-98d4-7becbb473e2b" resname="LEG·161 | Pyrotechnics | Card Name">
@@ -1119,7 +1119,7 @@
       </trans-unit>
       <trans-unit id="2646284b-a94d-4c99-98d4-7becbb473e2b" resname="LEG·161 | Pyrotechnics | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage divided as you choose among any number of targets.</source>
-        <target state="translated">烟火术对任意数量的目标生物和／或牌手造成共4点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对任意数量的目标生物和／或牌手造成共4点伤害，你可以任意分配。</target>
         <note xmlns:from="developer">中文数据来自FRF（2015-01-23）；</note>
       </trans-unit>
       <trans-unit id="1c3b33bf-3074-406e-86f3-2a9843cf4862" resname="LEG·162 | Quarum Trench Gnomes | Card Name">
@@ -1184,7 +1184,7 @@
       </trans-unit>
       <trans-unit id="186fd917-8d65-4de5-8546-a32a5f6d3bab" resname="LEG·172 | Winds of Change | Card Text | Paragraph 1">
         <source>Each player shuffles the cards from their hand into their library, then draws that many cards.</source>
-        <target state="translated">每个玩家计算自己手上牌的数量，然后将这些牌放进他的牌库中洗牌。此后，抓取等数量的牌（当你使用转变之风时，它不算是你手上的牌）。</target>
+        <target state="translated">每个玩家计算自己手上牌的数量，然后将这些牌放进他的牌库中洗牌。此后，抓取等数量的牌（当你使用CARDNAME时，它不算是你手上的牌）。</target>
         <note xmlns:from="developer">中文数据来自POR（1997-05-01）；</note>
       </trans-unit>
       <trans-unit id="640a161d-ad7b-4e5b-8f2d-d3753cb9daa3" resname="LEG·173 | Aisling Leprechaun | Card Name">
@@ -1274,7 +1274,7 @@
       </trans-unit>
       <trans-unit id="ad1d349b-b5ab-4b2b-9b39-f8d8f6374aa5" resname="LEG·183 | Elven Riders | Card Text | Paragraph 1">
         <source>CARDNAME can't be blocked except by Walls and/or creatures with flying.</source>
-        <target state="translated">地精骑队只能被墙和／或具飞行异能的生物阻挡。</target>
+        <target state="translated">CARDNAME只能被墙和／或具飞行异能的生物阻挡。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="a3e81250-52c3-49f6-be43-17c34339e177" resname="LEG·184 | Emerald Dragonfly | Card Name">
@@ -1369,12 +1369,12 @@
       </trans-unit>
       <trans-unit id="9d9b9eb8-6367-4ab5-8e00-a9c9e1d69032" resname="LEG·198 | Rabid Wombat | Card Text | Paragraph 1">
         <source>Vigilance</source>
-        <target state="translated">疯狂袋熊攻击时不须横置。</target>
+        <target state="translated">CARDNAME攻击时不须横置。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="9d9b9eb8-6367-4ab5-8e00-a9c9e1d69032" resname="LEG·198 | Rabid Wombat | Card Text | Paragraph 2">
         <source>CARDNAME gets +2/+2 for each Aura attached to it.</source>
-        <target state="translated">疯狂袋熊上的每个生物结界使它得到+2/+2。</target>
+        <target state="translated">CARDNAME上的每个生物结界使它得到+2/+2。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="adf3ab1a-5714-4b69-bc51-3752312b2d1f" resname="LEG·199 | Radjan Spirit | Card Name">
@@ -1464,7 +1464,7 @@
       </trans-unit>
       <trans-unit id="eba294e7-7097-4bc3-b396-72e85dd4f441" resname="LEG·211 | Whirling Dervish | Card Text | Paragraph 2">
         <source>At the beginning of each end step, if CARDNAME dealt damage to an opponent this turn, put a +1/+1 counter on it.</source>
-        <target state="translated">在回合结束时，若苦修士本回合曾向对手造成伤害，则在其上放置一个+1/+1指示物。</target>
+        <target state="translated">在回合结束时，若CARDNAME本回合曾向对手造成伤害，则在其上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="0c8b1f49-550e-405f-b17c-1d94589494ad" resname="LEG·212 | Willow Satyr | Card Name">
@@ -1479,7 +1479,7 @@
       </trans-unit>
       <trans-unit id="fb846366-2105-4999-8af1-a11687f42e17" resname="LEG·213 | Winter Blast | Card Text | Paragraph 1">
         <source>Tap X target creatures. CARDNAME deals 2 damage to each of those creatures with flying.</source>
-        <target state="translated">横置X只生物，暴风雪对其中每只具飞行异能的生物造成2点伤害。</target>
+        <target state="translated">横置X只生物，CARDNAME对其中每只具飞行异能的生物造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="ba5aee52-095e-4c69-93eb-5adac11ed1fc" resname="LEG·214 | Wolverine Pack | Card Name">
@@ -1519,7 +1519,7 @@
       </trans-unit>
       <trans-unit id="2c1dbc62-ceb5-4540-ae38-901e5deafc75" resname="LEG·218 | Arcades Sabboth | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {G}{W}{U}.</source>
-        <target state="translated">在你的维持开始时，除非你支付{G}{W}{U}，否则牺牲阿卡迪萨巴斯。</target>
+        <target state="translated">在你的维持开始时，除非你支付{G}{W}{U}，否则牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="2c1dbc62-ceb5-4540-ae38-901e5deafc75" resname="LEG·218 | Arcades Sabboth | Card Text | Paragraph 3">
@@ -1529,7 +1529,7 @@
       </trans-unit>
       <trans-unit id="2c1dbc62-ceb5-4540-ae38-901e5deafc75" resname="LEG·218 | Arcades Sabboth | Card Text | Paragraph 4">
         <source>{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">{W}：阿卡迪萨巴斯得+0/+1直到回合结束。</target>
+        <target state="translated">{W}：CARDNAME得+0/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="acce83cf-965b-4e45-8efb-63f814df7a35" resname="LEG·219 | Axelrod Gunnarson | Card Name">
@@ -1679,12 +1679,12 @@
       </trans-unit>
       <trans-unit id="729feb73-4581-4f9d-ba47-bece72481b86" resname="LEG·246 | Nicol Bolas | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {U}{B}{R}.</source>
-        <target state="translated">在你的维持开始时，除非你支付{U}{B}{R}，否则牺牲尼可波拉斯。</target>
+        <target state="translated">在你的维持开始时，除非你支付{U}{B}{R}，否则牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="729feb73-4581-4f9d-ba47-bece72481b86" resname="LEG·246 | Nicol Bolas | Card Text | Paragraph 3">
         <source>Whenever CARDNAME deals damage to an opponent, that player discards their hand.</source>
-        <target state="translated">每当尼可波拉斯向任一对手造成伤害时，该牌手弃掉其手牌。</target>
+        <target state="translated">每当CARDNAME向任一对手造成伤害时，该牌手弃掉其手牌。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="ad64874d-ce33-4e0a-bcca-723f129ef415" resname="LEG·247 | Palladia-Mors | Card Name">
@@ -1769,7 +1769,7 @@
       </trans-unit>
       <trans-unit id="a277775a-6b48-4238-a618-3ae94c4cc85c" resname="LEG·260 | Stangg | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create CARDNAME Twin, a legendary 3/4 red and green Human Warrior creature token. Exile that token when CARDNAME leaves the battlefield. Sacrifice CARDNAME when that token leaves the battlefield.</source>
-        <target state="translated">当史坦格进战场时，派出一个传奇的3/4，红绿双色，名称为史坦格双身的人类／战士衍生生物。当史坦格离开战场时，放逐该衍生物。当该衍生物离开战场时，牺牲史坦格。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个传奇的3/4，红绿双色，名称为CARDNAME双身的人类／战士衍生生物。当CARDNAME离开战场时，放逐该衍生物。当该衍生物离开战场时，牺牲CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自A25（2018-03-16）；</note>
       </trans-unit>
       <trans-unit id="587075f3-a568-4089-83ca-fe1e473c025d" resname="LEG·261 | Sunastian Falconer | Card Name">
@@ -1874,7 +1874,7 @@
       </trans-unit>
       <trans-unit id="6f8f11b5-3ba8-4913-b76a-fb469a74864d" resname="LEG·278 | Gauntlets of Chaos | Card Text | Paragraph 1">
         <source>{5}, Sacrifice CARDNAME: Exchange control of target artifact, creature, or land you control and target permanent an opponent controls that shares one of those types with it. If those permanents are exchanged this way, destroy all Auras attached to them.</source>
-        <target state="translated">o5，牺牲混乱护手：将目标由你所操控的神器、生物或地之操控权，与一个目标对手所操控的同种类永久物之操控权交换。埋葬这些永久物上的所有结界。</target>
+        <target state="translated">o5，牺牲CARDNAME：将目标由你所操控的神器、生物或地之操控权，与一个目标对手所操控的同种类永久物之操控权交换。埋葬这些永久物上的所有结界。</target>
         <note xmlns:from="developer">中文数据来自5ED（1997-03-24）；</note>
       </trans-unit>
       <trans-unit id="4671fa01-4a9e-4cd9-8154-b0d45e11b702" resname="LEG·279 | Green Mana Battery | Card Name">

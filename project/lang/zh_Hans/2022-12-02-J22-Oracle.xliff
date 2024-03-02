@@ -12,7 +12,7 @@
       </trans-unit>
       <trans-unit id="ea531418-6c7c-4e23-b681-6bfdd4a3eb79" resname="J22·1 | Agrus Kos, Eternal Soldier | Card Text | Paragraph 2">
         <source>Whenever CARDNAME becomes the target of an ability that targets only it, you may pay {1}{R/W}. If you do, copy that ability for each other creature you control that ability could target. Each copy targets a different one of those creatures. ({R/W} can be paid with either {R} or {W}.)</source>
-        <target state="translated">每当不朽士兵阿固寇斯成为异能的目标，且该异能仅以它为目标时，你可以支付{1}{R/W}。若你如此作，则该异能每能以一个由你操控的其他生物为目标，便将该异能复制一次。每个复制品都要以这些生物之一为目标，且不能重复选择。（{R/W}可用{R}或{W}来支付。）</target>
+        <target state="translated">每当CARDNAME成为异能的目标，且该异能仅以它为目标时，你可以支付{1}{R/W}。若你如此作，则该异能每能以一个由你操控的其他生物为目标，便将该异能复制一次。每个复制品都要以这些生物之一为目标，且不能重复选择。（{R/W}可用{R}或{W}来支付。）</target>
       </trans-unit>
       <trans-unit id="f45e1832-1070-4d12-aba9-dcad47a02eda" resname="J22·2 | Angelic Cub | Card Name">
         <source>Angelic Cub</source>
@@ -20,11 +20,11 @@
       </trans-unit>
       <trans-unit id="f45e1832-1070-4d12-aba9-dcad47a02eda" resname="J22·2 | Angelic Cub | Card Text | Paragraph 1">
         <source>Whenever CARDNAME becomes the target of a spell or ability for the first time each turn, put a +1/+1 counter on it.</source>
-        <target state="translated">每当幼狮天使每回合首度成为咒语或异能的目标时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">每当CARDNAME每回合首度成为咒语或异能的目标时，在其上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="f45e1832-1070-4d12-aba9-dcad47a02eda" resname="J22·2 | Angelic Cub | Card Text | Paragraph 2">
         <source>As long as CARDNAME has three or more +1/+1 counters on it, it has flying.</source>
-        <target state="translated">只要幼狮天使上有三个或更多+1/+1指示物，它便具有飞行异能。</target>
+        <target state="translated">只要CARDNAME上有三个或更多+1/+1指示物，它便具有飞行异能。</target>
       </trans-unit>
       <trans-unit id="94a1a840-bcdc-4d6f-a28d-9805578473f6" resname="J22·3 | Chains of Custody | Card Name">
         <source>Chains of Custody</source>
@@ -36,7 +36,7 @@
       </trans-unit>
       <trans-unit id="94a1a840-bcdc-4d6f-a28d-9805578473f6" resname="J22·3 | Chains of Custody | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile target nonland permanent an opponent controls until CARDNAME leaves the battlefield.</source>
-        <target state="translated">当监护锁链进战场时，放逐目标由对手操控的非地永久物，直到监护锁链离开战场为止。</target>
+        <target state="translated">当CARDNAME进战场时，放逐目标由对手操控的非地永久物，直到CARDNAME离开战场为止。</target>
       </trans-unit>
       <trans-unit id="94a1a840-bcdc-4d6f-a28d-9805578473f6" resname="J22·3 | Chains of Custody | Card Text | Paragraph 3">
         <source>Enchanted creature has ward {2}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</source>
@@ -84,11 +84,11 @@
       </trans-unit>
       <trans-unit id="a6649e6c-bbd8-43db-9f3f-a24b32aed4e4" resname="J22·7 | Magnanimous Magistrate | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with five reprieve counters on it.</source>
-        <target state="translated">宽宏执政官进战场时上面有五个免难指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有五个免难指示物。</target>
       </trans-unit>
       <trans-unit id="a6649e6c-bbd8-43db-9f3f-a24b32aed4e4" resname="J22·7 | Magnanimous Magistrate | Card Text | Paragraph 2">
         <source>Whenever another nontoken creature you control dies, if its mana value was 1 or greater, you may remove that many reprieve counters from CARDNAME. If you do, return that card to the battlefield under its owner's control.</source>
-        <target state="translated">每当另一个由你操控且非衍生物的生物死去时，若它的法术力值等于或大于1，则你可以从宽宏执政官上移去等量的免难指示物。若你如此作，则将该牌在其拥有者的操控下移回战场。</target>
+        <target state="translated">每当另一个由你操控且非衍生物的生物死去时，若它的法术力值等于或大于1，则你可以从CARDNAME上移去等量的免难指示物。若你如此作，则将该牌在其拥有者的操控下移回战场。</target>
       </trans-unit>
       <trans-unit id="952cb0b3-a6b7-4279-8833-3d8890b2d005" resname="J22·8 | Preston, the Vanisher | Card Name">
         <source>Preston, the Vanisher</source>
@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="61561585-f4fb-4e47-a65a-0c43a855ebcf" resname="J22·9 | Alandra, Sky Dreamer | Card Text | Paragraph 2">
         <source>Whenever you draw your fifth card each turn, CARDNAME and Drakes you control each get +X/+X until end of turn, where X is the number of cards in your hand.</source>
-        <target state="translated">每当你抓每回合中你的第五张牌时，空梦师雅岚卓和由你操控的龙兽各得+X/+X直到回合结束，X为你的手牌数量。</target>
+        <target state="translated">每当你抓每回合中你的第五张牌时，CARDNAME和由你操控的龙兽各得+X/+X直到回合结束，X为你的手牌数量。</target>
       </trans-unit>
       <trans-unit id="1f69f0bf-6626-4418-9335-b79d75c99df1" resname="J22·10 | Biblioplex Kraken | Card Name">
         <source>Biblioplex Kraken</source>
@@ -120,11 +120,11 @@
       </trans-unit>
       <trans-unit id="1f69f0bf-6626-4418-9335-b79d75c99df1" resname="J22·10 | Biblioplex Kraken | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</source>
-        <target state="translated">当茂典阁巨海兽进战场时，占卜3。（检视你牌库顶的三张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
+        <target state="translated">当CARDNAME进战场时，占卜3。（检视你牌库顶的三张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
       </trans-unit>
       <trans-unit id="1f69f0bf-6626-4418-9335-b79d75c99df1" resname="J22·10 | Biblioplex Kraken | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may return another creature you control to its owner's hand. If you do, CARDNAME can't be blocked this turn.</source>
-        <target state="translated">每当茂典阁巨海兽攻击时，你可以将另一个由你操控的生物移回其拥有者手上。若你如此作，则茂典阁巨海兽本回合不能被阻挡。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以将另一个由你操控的生物移回其拥有者手上。若你如此作，则CARDNAME本回合不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="74004b11-53dc-475c-8d29-cf52403456cf" resname="J22·11 | Hold for Questioning | Card Name">
         <source>Hold for Questioning</source>
@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="74004b11-53dc-475c-8d29-cf52403456cf" resname="J22·11 | Hold for Questioning | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, tap enchanted permanent and investigate. (Create a Clue token. It's an artifact with &amp;quot;{2}, Sacrifice this artifact: Draw a card.&amp;quot;)</source>
-        <target state="translated">当扣押讯问进战场时，横置所结附的永久物并探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
+        <target state="translated">当CARDNAME进战场时，横置所结附的永久物并探查。（派出一个线索衍生物。它是具有「{2}，牺牲此神器：抓一张牌」的神器。）</target>
       </trans-unit>
       <trans-unit id="74004b11-53dc-475c-8d29-cf52403456cf" resname="J22·11 | Hold for Questioning | Card Text | Paragraph 3">
         <source>Enchanted permanent doesn't untap during its controller's untap step and its activated abilities can't be activated.</source>
@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="1e1d50c3-3219-49cb-8f63-c1faff93215c" resname="J22·12 | Isu the Abominable | Card Text | Paragraph 3">
         <source>Whenever another snow permanent enters the battlefield under your control, you may pay {G}, {W}, or {U}. If you do, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当另一个雪境永久物在你的操控下进战场时，你可以支付{G}，{W}或{U}。若你如此作，则在雪宝伊须上放置一个+1/+1指示物。</target>
+        <target state="translated">每当另一个雪境永久物在你的操控下进战场时，你可以支付{G}，{W}或{U}。若你如此作，则在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="0ba97da8-0106-4e8b-b58b-8f2d63e3d618" resname="J22·13 | Kenessos, Priest of Thassa | Card Name">
         <source>Kenessos, Priest of Thassa</source>
@@ -184,11 +184,11 @@
       </trans-unit>
       <trans-unit id="42aacf99-39d1-4299-8557-6cc10ce9e35f" resname="J22·15 | Merfolk Pupil | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card, then discard a card.</source>
-        <target state="translated">当人鱼学子进战场时，抓一张牌，然后弃一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌，然后弃一张牌。</target>
       </trans-unit>
       <trans-unit id="42aacf99-39d1-4299-8557-6cc10ce9e35f" resname="J22·15 | Merfolk Pupil | Card Text | Paragraph 2">
         <source>{1}{U}, Exile CARDNAME from your graveyard: Draw a card, then discard a card.</source>
-        <target state="translated">{1}{U}，从你的坟墓场放逐人鱼学子：抓一张牌，然后弃一张牌。</target>
+        <target state="translated">{1}{U}，从你的坟墓场放逐CARDNAME：抓一张牌，然后弃一张牌。</target>
       </trans-unit>
       <trans-unit id="8a0567fb-2b4f-4fa9-8dfe-df4e665a4c5c" resname="J22·16 | Pirated Copy | Card Name">
         <source>Pirated Copy</source>
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="8a0567fb-2b4f-4fa9-8dfe-df4e665a4c5c" resname="J22·16 | Pirated Copy | Card Text | Paragraph 1">
         <source>You may have CARDNAME enter the battlefield as a copy of any creature on the battlefield, except it's a Pirate in addition to its other types and it has &amp;quot;Whenever this creature or another creature with the same name deals combat damage to a player, you draw a card.&amp;quot;</source>
-        <target state="translated">你可以使剽窃复体当成战场上任一生物的复制品来进入战场，但它额外具有海盗此类别，且具有「每当此生物或另一个与之同名的生物对任一牌手造成战斗伤害时，你抓一张牌。」</target>
+        <target state="translated">你可以使CARDNAME当成战场上任一生物的复制品来进入战场，但它额外具有海盗此类别，且具有「每当此生物或另一个与之同名的生物对任一牌手造成战斗伤害时，你抓一张牌。」</target>
       </trans-unit>
       <trans-unit id="2cebbfa1-e709-45bb-9b86-c6b09e7866b2" resname="J22·17 | Soul Read | Card Name">
         <source>Soul Read</source>
@@ -232,7 +232,7 @@
       </trans-unit>
       <trans-unit id="2fce5989-a2a0-4825-b90a-a1f78659b6e0" resname="J22·19 | Ashcoat of the Shadow Swarm | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks or blocks, other Rats you control get +X/+X until end of turn, where X is the number of Rats you control.</source>
-        <target state="translated">每当影群灰衣攻击或阻挡时，由你操控的其他老鼠得+X/+X直到回合结束，X为由你操控的老鼠数量。</target>
+        <target state="translated">每当CARDNAME攻击或阻挡时，由你操控的其他老鼠得+X/+X直到回合结束，X为由你操控的老鼠数量。</target>
       </trans-unit>
       <trans-unit id="2fce5989-a2a0-4825-b90a-a1f78659b6e0" resname="J22·19 | Ashcoat of the Shadow Swarm | Card Text | Paragraph 2">
         <source>At the beginning of your end step, you may mill four cards. If you do, return up to two Rat creature cards from your graveyard to your hand. (To mill a card, put the top card of your library into your graveyard.)</source>
@@ -244,11 +244,11 @@
       </trans-unit>
       <trans-unit id="37d4f19b-3c4e-4aa0-90f5-6cf397a5ad6d" resname="J22·20 | Conductor of Cacophony | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with two +1/+1 counters on it.</source>
-        <target state="translated">乱调指挥魔进战场时上面有两个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="37d4f19b-3c4e-4aa0-90f5-6cf397a5ad6d" resname="J22·20 | Conductor of Cacophony | Card Text | Paragraph 2">
         <source>{B}, Remove a +1/+1 counter from CARDNAME: It deals 1 damage to each other creature and each player.</source>
-        <target state="translated">{B}，从乱调指挥魔上移去一个+1/+1指示物：它对每个其他生物和每位牌手各造成1点伤害。</target>
+        <target state="translated">{B}，从CARDNAME上移去一个+1/+1指示物：它对每个其他生物和每位牌手各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="e5e3a9e1-fafe-4859-a550-7ae09804aced" resname="J22·21 | Creeping Bloodsucker | Card Name">
         <source>Creeping Bloodsucker</source>
@@ -256,7 +256,7 @@
       </trans-unit>
       <trans-unit id="e5e3a9e1-fafe-4859-a550-7ae09804aced" resname="J22·21 | Creeping Bloodsucker | Card Text | Paragraph 1">
         <source>At the beginning of your upkeep, CARDNAME deals 1 damage to each opponent. You gain life equal to the damage dealt this way.</source>
-        <target state="translated">在你的维持开始时，匍行吸血怪向每位对手各造成1点伤害。你获得等同于以此法所造成的伤害之生命。</target>
+        <target state="translated">在你的维持开始时，CARDNAME向每位对手各造成1点伤害。你获得等同于以此法所造成的伤害之生命。</target>
       </trans-unit>
       <trans-unit id="9c78da23-e7ec-4a3d-9f79-09fb86993b26" resname="J22·22 | Deadly Plot | Card Name">
         <source>Deadly Plot</source>
@@ -280,7 +280,7 @@
       </trans-unit>
       <trans-unit id="5e9abb9b-5d52-401f-aa6b-189aad72bfc2" resname="J22·23 | Disciple of Perdition | Card Text | Paragraph 1">
         <source>When CARDNAME dies, choose one. If you have exactly 13 life, you may choose both.</source>
-        <target state="translated">当坏灭信徒死去时，选择一项。如果你的总生命正好为13，则你可以两项都选。</target>
+        <target state="translated">当CARDNAME死去时，选择一项。如果你的总生命正好为13，则你可以两项都选。</target>
       </trans-unit>
       <trans-unit id="5e9abb9b-5d52-401f-aa6b-189aad72bfc2" resname="J22·23 | Disciple of Perdition | Card Text | Paragraph 2">
         <source>• You draw a card and you lose 1 life.</source>
@@ -296,7 +296,7 @@
       </trans-unit>
       <trans-unit id="c93dc52c-6f62-45cc-a5e2-95f794e04b94" resname="J22·24 | Ossuary Rats | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, it deals X damage to target creature or planeswalker an opponent controls, where X is the number of creature cards in your graveyard.</source>
-        <target state="translated">当藏骨堂老鼠进战场时，它向目标由对手操控的生物或鹏洛客造成X点伤害，X为你坟墓场中的生物牌数量。</target>
+        <target state="translated">当CARDNAME进战场时，它向目标由对手操控的生物或鹏洛客造成X点伤害，X为你坟墓场中的生物牌数量。</target>
       </trans-unit>
       <trans-unit id="d9afd47b-ff94-4fdd-bb04-bdf9b8b61a6d" resname="J22·25 | Rodolf Duskbringer | Card Name">
         <source>Rodolf Duskbringer</source>
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="d9afd47b-ff94-4fdd-bb04-bdf9b8b61a6d" resname="J22·25 | Rodolf Duskbringer | Card Text | Paragraph 2">
         <source>Whenever you gain life, CARDNAME gains indestructible until end of turn.</source>
-        <target state="translated">每当你获得生命时，暮光使者朗多夫获得不灭异能直到回合结束。</target>
+        <target state="translated">每当你获得生命时，CARDNAME获得不灭异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d9afd47b-ff94-4fdd-bb04-bdf9b8b61a6d" resname="J22·25 | Rodolf Duskbringer | Card Text | Paragraph 3">
         <source>At the beginning of your end step, you may pay {1}{W/B}. When you do, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the amount of life you gained this turn.</source>
@@ -320,7 +320,7 @@
       </trans-unit>
       <trans-unit id="9fdd4db9-8cab-4df2-ae65-0d7546c2d06b" resname="J22·26 | Skullslither Worm | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, each opponent discards a card. For each opponent who can't, put two +1/+1 counters on CARDNAME.</source>
-        <target state="translated">当滑骨蠕虫进战场时，每位对手各弃一张牌。每有一位无法如此作的对手，便在滑骨蠕虫上放置两个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，每位对手各弃一张牌。每有一位无法如此作的对手，便在CARDNAME上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="ff36347c-1fc1-4493-8e45-ef3372ecce45" resname="J22·27 | Suspicious Shambler | Card Name">
         <source>Suspicious Shambler</source>
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="ff36347c-1fc1-4493-8e45-ef3372ecce45" resname="J22·27 | Suspicious Shambler | Card Text | Paragraph 1">
         <source>{4}{B}{B}, Exile CARDNAME from your graveyard: Create two 2/2 black Zombie creature tokens. Activate only as a sorcery.</source>
-        <target state="translated">{4}{B}{B}，从你的坟墓场放逐可疑跛行怪：派出两个2/2黑色灵俑衍生生物。只能于法术时机起动。</target>
+        <target state="translated">{4}{B}{B}，从你的坟墓场放逐CARDNAME：派出两个2/2黑色灵俑衍生生物。只能于法术时机起动。</target>
       </trans-unit>
       <trans-unit id="5db59164-f0b1-4b5a-b821-ad0b2e1612d1" resname="J22·28 | Termination Facilitator | Card Name">
         <source>Termination Facilitator</source>
@@ -352,7 +352,7 @@
       </trans-unit>
       <trans-unit id="2a012f05-0009-42cf-8a69-07140b2a2aef" resname="J22·29 | Ardoz, Cobbler of War | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or another creature enters the battlefield under your control, that creature gets +2/+0 until end of turn.</source>
-        <target state="translated">每当兴战补匠阿朵兹或另一个生物在你操控下进战场时，该生物得+2/+0直到回合结束。</target>
+        <target state="translated">每当CARDNAME或另一个生物在你操控下进战场时，该生物得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2a012f05-0009-42cf-8a69-07140b2a2aef" resname="J22·29 | Ardoz, Cobbler of War | Card Text | Paragraph 3">
         <source>{3}{R}: Create a 1/1 red Goblin creature token with haste. Activate only as a sorcery.</source>
@@ -368,7 +368,7 @@
       </trans-unit>
       <trans-unit id="85c18d01-62cd-45c2-94b8-a63a4239311d" resname="J22·30 | Auntie Blyte, Bad Influence | Card Text | Paragraph 2">
         <source>Whenever a source you control deals damage to you, put that many +1/+1 counters on CARDNAME.</source>
-        <target state="translated">每当一个由你操控的来源对你造成伤害时，在谗言魔小碧阿姨上放置等量的+1/+1指示物。</target>
+        <target state="translated">每当一个由你操控的来源对你造成伤害时，在CARDNAME上放置等量的+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="85c18d01-62cd-45c2-94b8-a63a4239311d" resname="J22·30 | Auntie Blyte, Bad Influence | Card Text | Paragraph 3">
         <source>{1}{R}, {T}, Remove X +1/+1 counters from Auntie Blyte: It deals X damage to any target.</source>
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit id="bbcbad10-475e-41cf-b3fb-68c1ca6c2caa" resname="J22·31 | Brazen Cannonade | Card Text | Paragraph 1">
         <source>Whenever an attacking creature you control dies, CARDNAME deals 2 damage to each opponent.</source>
-        <target state="translated">每当一个由你操控且进行攻击的生物死去时，莽霸联盟炮击向每位对手各造成2点伤害。</target>
+        <target state="translated">每当一个由你操控且进行攻击的生物死去时，CARDNAME向每位对手各造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="bbcbad10-475e-41cf-b3fb-68c1ca6c2caa" resname="J22·31 | Brazen Cannonade | Card Text | Paragraph 2">
         <source>Raid — At the beginning of your postcombat main phase, if you attacked with a creature this turn, exile the top card of your library. Until end of combat on your next turn, you may play that card.</source>
@@ -392,7 +392,7 @@
       </trans-unit>
       <trans-unit id="4d581e4f-77a7-4ad1-a263-882babffded8" resname="J22·32 | Coalborn Entity | Card Text | Paragraph 1">
         <source>{2}{R}: CARDNAME deals 1 damage to target creature token, player, or planeswalker.</source>
-        <target state="translated">{2}{R}：煤火灵对目标衍生生物，牌手或鹏洛客造成1点伤害。</target>
+        <target state="translated">{2}{R}：CARDNAME对目标衍生生物，牌手或鹏洛客造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="ec6ce176-a4f3-44dd-b66a-a23b6cf512e4" resname="J22·33 | Daring Piracy | Card Name">
         <source>Daring Piracy</source>
@@ -408,7 +408,7 @@
       </trans-unit>
       <trans-unit id="529e62a1-a32f-477a-ae5c-955f3df2a628" resname="J22·34 | Goblin Researcher | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile the top card of your library. During any turn you attacked with CARDNAME, you may play that card.</source>
-        <target state="translated">当鬼怪学究进战场时，放逐你的牌库顶牌。于你以鬼怪学究攻击过的回合中，你可以使用该牌。</target>
+        <target state="translated">当CARDNAME进战场时，放逐你的牌库顶牌。于你以CARDNAME攻击过的回合中，你可以使用该牌。</target>
       </trans-unit>
       <trans-unit id="8faf1d83-3b6b-4e07-a024-3dfd37c29814" resname="J22·35 | Mizzix, Replica Rider | Card Name">
         <source>Mizzix, Replica Rider</source>
@@ -432,7 +432,7 @@
       </trans-unit>
       <trans-unit id="298f1ab2-4c66-4d91-8f6a-1bad230632df" resname="J22·36 | Ogre Battlecaster | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may cast target instant or sorcery card from your graveyard by paying {R}{R} in addition to its other costs. If that spell would be put into a graveyard, exile it instead. When you cast that spell, CARDNAME gets +X/+0 until end of turn, where X is that spell's mana value.</source>
-        <target state="translated">每当战咒食人魔攻击时，你可以从你的坟墓场中施放目标瞬间或法术牌，但在其他费用以外，还须额外支付{R}{R}。若该咒语将进入坟墓场，则改为将它放逐。当你施放该咒语时，战咒食人魔得+X/+0直到回合结束，X为该咒语的法术力值。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以从你的坟墓场中施放目标瞬间或法术牌，但在其他费用以外，还须额外支付{R}{R}。若该咒语将进入坟墓场，则改为将它放逐。当你施放该咒语时，CARDNAME得+X/+0直到回合结束，X为该咒语的法术力值。</target>
       </trans-unit>
       <trans-unit id="f48b3f46-0e62-4f44-8064-857cd3040659" resname="J22·37 | Plundering Predator | Card Name">
         <source>Plundering Predator</source>
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="f48b3f46-0e62-4f44-8064-857cd3040659" resname="J22·37 | Plundering Predator | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may discard a card. If you do, draw a card.</source>
-        <target state="translated">当劫夺掠龙进战场时，你可以弃一张牌。若你如此作，则抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以弃一张牌。若你如此作，则抓一张牌。</target>
       </trans-unit>
       <trans-unit id="c575ed35-6357-4b48-9d20-e4249577142b" resname="J22·38 | Benevolent Hydra | Card Name">
         <source>Benevolent Hydra</source>
@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="c575ed35-6357-4b48-9d20-e4249577142b" resname="J22·38 | Benevolent Hydra | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">善心多头龙进战场时上面有X个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="c575ed35-6357-4b48-9d20-e4249577142b" resname="J22·38 | Benevolent Hydra | Card Text | Paragraph 2">
         <source>If one or more +1/+1 counters would be put on another creature you control, that many plus one +1/+1 counters are put on it instead.</source>
@@ -460,7 +460,7 @@
       </trans-unit>
       <trans-unit id="c575ed35-6357-4b48-9d20-e4249577142b" resname="J22·38 | Benevolent Hydra | Card Text | Paragraph 3">
         <source>{T}, Remove a +1/+1 counter from CARDNAME: Put a +1/+1 counter on another target creature you control.</source>
-        <target state="translated">{T}，从善心多头龙上移去一个+1/+1指示物：在另一个目标由你操控的生物上放置一个+1/+1指示物。</target>
+        <target state="translated">{T}，从CARDNAME上移去一个+1/+1指示物：在另一个目标由你操控的生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="67f55ef7-8479-4d56-9801-cb4fd5526e73" resname="J22·39 | Giant Ladybug | Card Name">
         <source>Giant Ladybug</source>
@@ -472,7 +472,7 @@
       </trans-unit>
       <trans-unit id="67f55ef7-8479-4d56-9801-cb4fd5526e73" resname="J22·39 | Giant Ladybug | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">当巨型瓢虫进战场时，你可以从你牌库中搜寻一张基本地牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张基本地牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
       </trans-unit>
       <trans-unit id="8b71345a-c3e8-4b35-beb7-6347e41d7626" resname="J22·40 | Kibo, Uktabi Prince | Card Name">
         <source>Kibo, Uktabi Prince</source>
@@ -496,7 +496,7 @@
       </trans-unit>
       <trans-unit id="3eee6f29-ef06-47f6-99af-fb0ff88f09d0" resname="J22·41 | Mild-Mannered Librarian | Card Text | Paragraph 1">
         <source>{3}{G}: CARDNAME becomes a Werewolf. Put two +1/+1 counters on it and you draw a card. Activate only once.</source>
-        <target state="translated">{3}{G}：谦恭图书管理员成为狼人。在其上放置两个+1/+1指示物且你抓一张牌。只能起动一次。</target>
+        <target state="translated">{3}{G}：CARDNAME成为狼人。在其上放置两个+1/+1指示物且你抓一张牌。只能起动一次。</target>
       </trans-unit>
       <trans-unit id="fbb0a91b-246b-4c1f-9b98-2ad6ff1ba124" resname="J22·42 | Primeval Herald | Card Name">
         <source>Primeval Herald</source>
@@ -508,7 +508,7 @@
       </trans-unit>
       <trans-unit id="fbb0a91b-246b-4c1f-9b98-2ad6ff1ba124" resname="J22·42 | Primeval Herald | Card Text | Paragraph 2">
         <source>Whenever CARDNAME enters the battlefield or attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">每当太古传令使进战场或攻击时，你可以从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
+        <target state="translated">每当CARDNAME进战场或攻击时，你可以从你牌库中搜寻一张基本地牌，将之横置放进战场，然后洗牌。</target>
       </trans-unit>
       <trans-unit id="57218779-7e18-4fa2-a0bb-c07052951a78" resname="J22·43 | Rampaging Growth | Card Name">
         <source>Rampaging Growth</source>
@@ -552,7 +552,7 @@
       </trans-unit>
       <trans-unit id="b14a22aa-0f79-4497-a7ff-08d92d14bc0f" resname="J22·46 | Towering Gibbon | Card Text | Paragraph 2">
         <source>CARDNAME's power is equal to the greatest mana value among creatures you control.</source>
-        <target state="translated">雄立长臂猿的力量等同于由你操控之生物中的最大法术力值。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控之生物中的最大法术力值。</target>
       </trans-unit>
       <trans-unit id="4eafc507-973a-4aec-91b9-c29d70b0e25d" resname="J22·47 | Zask, Skittering Swarmlord | Card Name">
         <source>Zask, Skittering Swarmlord</source>
@@ -576,7 +576,7 @@
       </trans-unit>
       <trans-unit id="0de6fc60-89ad-4c6f-a734-5344e5b954fa" resname="J22·48 | Dutiful Replicator | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may pay {1}. When you do, create a token that's a copy of target token you control not named CARDNAME.</source>
-        <target state="translated">当尽责摹形械进战场时，你可以支付{1}。当你如此作时，派出一个衍生物，此衍生物为目标由你操控且名称不为尽责摹形械之衍生物的复制品。</target>
+        <target state="translated">当CARDNAME进战场时，你可以支付{1}。当你如此作时，派出一个衍生物，此衍生物为目标由你操控且名称不为CARDNAME之衍生物的复制品。</target>
       </trans-unit>
       <trans-unit id="9d986229-c8d5-462c-bf74-ae94326a5aa0" resname="J22·49 | Infernal Idol | Card Name">
         <source>Infernal Idol</source>
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="9d986229-c8d5-462c-bf74-ae94326a5aa0" resname="J22·49 | Infernal Idol | Card Text | Paragraph 2">
         <source>{1}{B}{B}, {T}, Sacrifice CARDNAME: You draw two cards and you lose 2 life.</source>
-        <target state="translated">{1}{B}{B}，{T}，牺牲炼狱雕像：你抓两张牌且失去2点生命。</target>
+        <target state="translated">{1}{B}{B}，{T}，牺牲CARDNAME：你抓两张牌且失去2点生命。</target>
       </trans-unit>
       <trans-unit id="9526bea2-8d47-4a82-a617-6c57c7abc69a" resname="J22·50 | Instruments of War | Card Name">
         <source>Instruments of War</source>
@@ -600,7 +600,7 @@
       </trans-unit>
       <trans-unit id="9526bea2-8d47-4a82-a617-6c57c7abc69a" resname="J22·50 | Instruments of War | Card Text | Paragraph 2">
         <source>As CARDNAME enters the battlefield, choose a creature type.</source>
-        <target state="translated">于战事用具进战场时，选择一种生物类别。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种生物类别。</target>
       </trans-unit>
       <trans-unit id="9526bea2-8d47-4a82-a617-6c57c7abc69a" resname="J22·50 | Instruments of War | Card Text | Paragraph 3">
         <source>Creatures you control of the chosen type get +1/+1.</source>
@@ -612,11 +612,11 @@
       </trans-unit>
       <trans-unit id="909b15e4-c6c8-44bf-a993-13a97de40e36" resname="J22·51 | Planar Atlas | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">时空图集须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="909b15e4-c6c8-44bf-a993-13a97de40e36" resname="J22·51 | Planar Atlas | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may look at the top four cards of your library. If you do, reveal up to one land card from among them, then put that card on top of your library and the rest on the bottom in a random order.</source>
-        <target state="translated">当时空图集进战场时，你可以检视你牌库顶的四张牌。若你如此作，则展示其中至多一张地牌，然后将该牌置于你的牌库顶，其余则以随机顺序置于你牌库底。</target>
+        <target state="translated">当CARDNAME进战场时，你可以检视你牌库顶的四张牌。若你如此作，则展示其中至多一张地牌，然后将该牌置于你的牌库顶，其余则以随机顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="909b15e4-c6c8-44bf-a993-13a97de40e36" resname="J22·51 | Planar Atlas | Card Text | Paragraph 3">
         <source>{T}: Add {C}.</source>

@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="5c0a3339-6fde-41c1-aefd-18fdd6208718" resname="CP3·1 | Honored Hierarch | Card Text | Paragraphs">
         <source>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as CARDNAME is renowned, it has vigilance and &amp;quot;{T}: Add one mana of any color.&amp;quot;</source>
-        <target state="translated">铭勇1（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置一个+1/+1指示物且它已铭勇。）只要荣耀大主教已铭勇，它便具有警戒异能与「{T}：加一点任意颜色的法术力到你的法术力池中。」</target>
+        <target state="translated">铭勇1（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置一个+1/+1指示物且它已铭勇。）只要CARDNAME已铭勇，它便具有警戒异能与「{T}：加一点任意颜色的法术力到你的法术力池中。」</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="8d96bc2b-2e31-4654-b192-c3f023d9fde6" resname="ORI·1 | Akroan Jailer | Card Name">
@@ -26,7 +26,7 @@
       </trans-unit>
       <trans-unit id="82a2e1d9-6763-4024-a18b-982d96395553" resname="ORI·2 | Ampryn Tactician | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, creatures you control get +1/+1 until end of turn.</source>
-        <target state="translated">当安普林策士进战场时，由你操控的生物得+1/+1直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，由你操控的生物得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="36d060c9-8385-40af-87eb-b4688ebb8e7c" resname="ORI·3 | Anointer of Champions | Card Name">
         <source>Anointer of Champions</source>
@@ -42,7 +42,7 @@
       </trans-unit>
       <trans-unit id="1af50bf1-c51e-4592-86bf-4197ec85a45d" resname="ORI·4 | Archangel of Tithes | Card Text | Paragraphs">
         <source>Flying\nAs long as CARDNAME is untapped, creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.\nAs long as CARDNAME is attacking, creatures can't block unless their controller pays {1} for each of those creatures.</source>
-        <target state="translated">飞行只要什一税大天使未横置，则对每个生物而言，除非其操控者为其支付{1}，否则它不能攻击你或由你操控的鹏洛客。只要什一税大天使正进行攻击，则对每个生物而言，除非其操控者为其支付{1}，否则它不能进行阻挡。</target>
+        <target state="translated">飞行只要CARDNAME未横置，则对每个生物而言，除非其操控者为其支付{1}，否则它不能攻击你或由你操控的鹏洛客。只要CARDNAME正进行攻击，则对每个生物而言，除非其操控者为其支付{1}，否则它不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="b0060e75-a5a4-4d9a-894c-45bb7e2feffc" resname="ORI·6 | Aven Battle Priest | Card Name">
         <source>Aven Battle Priest</source>
@@ -50,7 +50,7 @@
       </trans-unit>
       <trans-unit id="b0060e75-a5a4-4d9a-894c-45bb7e2feffc" resname="ORI·6 | Aven Battle Priest | Card Text | Paragraphs">
         <source>Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen CARDNAME enters the battlefield, you gain 3 life.</source>
-        <target state="translated">飞行（此生物只能被具飞行或延势异能的生物阻挡。）当艾文战斗僧侣进战场时，你获得3点生命。</target>
+        <target state="translated">飞行（此生物只能被具飞行或延势异能的生物阻挡。）当CARDNAME进战场时，你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="150dd602-5f61-4f1e-a422-e64c079de141" resname="ORI·7 | Blessed Spirits | Card Name">
         <source>Blessed Spirits</source>
@@ -64,7 +64,7 @@
       </trans-unit>
       <trans-unit id="150dd602-5f61-4f1e-a422-e64c079de141" resname="ORI·7 | Blessed Spirits | Card Text | Paragraph 2">
         <source>Whenever you cast an enchantment spell, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当你施放结界咒语时，在福佑精怪上放置一个+1/+1指示物。</target>
+        <target state="translated">每当你施放结界咒语时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="cfcea783-e9f0-4d44-ac74-5aee9a07aa69" resname="ORI·10 | Cleric of the Forward Order | Card Name">
@@ -74,7 +74,7 @@
       </trans-unit>
       <trans-unit id="cfcea783-e9f0-4d44-ac74-5aee9a07aa69" resname="ORI·10 | Cleric of the Forward Order | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you gain 2 life for each creature you control named CARDNAME.</source>
-        <target state="translated">当前锋团僧侣进战场时，你每操控一个名称为前锋团僧侣的生物，便获得2点生命。</target>
+        <target state="translated">当CARDNAME进战场时，你每操控一个名称为CARDNAME的生物，便获得2点生命。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="301a1b68-2890-4702-a90e-bad8d309c40d" resname="ORI·11 | Consul's Lieutenant | Card Name">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="301a1b68-2890-4702-a90e-bad8d309c40d" resname="ORI·11 | Consul's Lieutenant | Card Text | Paragraphs">
         <source>First strike\nRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nWhenever CARDNAME attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn.</source>
-        <target state="translated">先攻铭勇1（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置一个+1/+1指示物且它已铭勇。）每当执政副官攻击时，若它已铭勇，则由你操控且进行攻击的其他生物得+1/+1直到回合结束。</target>
+        <target state="translated">先攻铭勇1（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置一个+1/+1指示物且它已铭勇。）每当CARDNAME攻击时，若它已铭勇，则由你操控且进行攻击的其他生物得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="76549fc3-5798-4c70-bb70-802b6f597eb7" resname="ORI·12 | Enlightened Ascetic | Card Name">
         <source>Enlightened Ascetic</source>
@@ -91,7 +91,7 @@
       </trans-unit>
       <trans-unit id="76549fc3-5798-4c70-bb70-802b6f597eb7" resname="ORI·12 | Enlightened Ascetic | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may destroy target enchantment.</source>
-        <target state="translated">当启化苦修士进战场时，你可以消灭目标结界。</target>
+        <target state="translated">当CARDNAME进战场时，你可以消灭目标结界。</target>
       </trans-unit>
       <trans-unit id="b059bd3e-451c-445a-b299-544c82fc0eb9" resname="ORI·13 | Enshrouding Mist | Card Name">
         <source>Enshrouding Mist</source>
@@ -139,7 +139,7 @@
       </trans-unit>
       <trans-unit id="2b904b1c-bf35-4bc1-8022-7f632160733d" resname="ORI·18 | Heavy Infantry | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, tap target creature an opponent controls.</source>
-        <target state="translated">当重装步兵进战场时，横置目标由对手操控的生物。</target>
+        <target state="translated">当CARDNAME进战场时，横置目标由对手操控的生物。</target>
       </trans-unit>
       <trans-unit id="d0c21a35-4b70-4de4-93ff-c0ccabdc39e0" resname="ORI·19 | Hixus, Prison Warden | Card Name">
         <source>Hixus, Prison Warden</source>
@@ -147,7 +147,7 @@
       </trans-unit>
       <trans-unit id="d0c21a35-4b70-4de4-93ff-c0ccabdc39e0" resname="ORI·19 | Hixus, Prison Warden | Card Text | Paragraphs">
         <source>Flash (You may cast this spell any time you could cast an instant.)\nWhenever a creature deals combat damage to you, if CARDNAME entered the battlefield this turn, exile that creature until Hixus leaves the battlefield. (That creature returns under its owner's control.)</source>
-        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）每当一个生物对你造成战斗伤害时，若典狱长希瑟思是于本回合进战场，则放逐该生物，直到希瑟思离开战场为止。（该生物会在其拥有者的操控下移回。）</target>
+        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）每当一个生物对你造成战斗伤害时，若CARDNAME是于本回合进战场，则放逐该生物，直到希瑟思离开战场为止。（该生物会在其拥有者的操控下移回。）</target>
       </trans-unit>
       <trans-unit id="b9de5f39-b07a-4272-8992-ed971132c9c4" resname="ORI·20 | Knight of the Pilgrim's Road | Card Name">
         <source>Knight of the Pilgrim's Road</source>
@@ -185,7 +185,7 @@
       </trans-unit>
       <trans-unit id="1b5c0526-ac1f-40ca-a597-bf004f2e2377" resname="ORI·28 | Patron of the Valiant | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on each creature you control with a +1/+1 counter on it.</source>
-        <target state="translated">当豪杰守护使进战场时，在每个由你操控且其上有+1/+1指示物的生物上各放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在每个由你操控且其上有+1/+1指示物的生物上各放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="60a4b00c-5bd5-4931-be05-121f09a3fae4" resname="ORI·29 | Relic Seeker | Card Name">
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="60a4b00c-5bd5-4931-be05-121f09a3fae4" resname="ORI·29 | Relic Seeker | Card Text | Paragraph 2">
         <source>When CARDNAME becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">当遗宝探寻客铭勇时，你可以从你的牌库中搜寻一张武具牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME铭勇时，你可以从你的牌库中搜寻一张武具牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="0a7b01ce-2729-4b70-ae0a-b9a1007be78f" resname="ORI·30 | Sentinel of the Eternal Watch | Card Name">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="904cb2f5-eb62-4416-8236-d2fbeadf1dc4" resname="ORI·35 | Swift Reckoning | Card Text | Paragraphs">
         <source>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may cast CARDNAME as though it had flash. (You may cast it any time you could cast an instant.)\nDestroy target tapped creature.</source>
-        <target state="translated">精熟咒语～如果你坟墓场中有两张或更多的瞬间和／或法术牌，则你可以将报应迅至视同具有闪现异能地来施放。（你可以于你能够施放瞬间的时机下施放之。）消灭目标已横置的生物。</target>
+        <target state="translated">精熟咒语～如果你坟墓场中有两张或更多的瞬间和／或法术牌，则你可以将CARDNAME视同具有闪现异能地来施放。（你可以于你能够施放瞬间的时机下施放之。）消灭目标已横置的生物。</target>
       </trans-unit>
       <trans-unit id="b9ef727b-3e67-46d2-80f9-b1d483977b05" resname="ORI·36 | Topan Freeblade | Card Name">
         <source>Topan Freeblade</source>
@@ -314,7 +314,7 @@
       </trans-unit>
       <trans-unit id="4200b101-19d3-4442-bddd-3eb77d5f99a9" resname="ORI·43 | Alhammarret, High Arbiter | Card Text | Paragraphs">
         <source>Flying\nAs CARDNAME enters the battlefield, each opponent reveals their hand. You choose the name of a nonland card revealed this way.\nYour opponents can't cast spells with the chosen name (as long as this creature is on the battlefield).</source>
-        <target state="translated">飞行于高等仲裁者阿哈玛瑞特进战场时，每位对手各展示其手牌。你选择一个以此法展示之非地牌的名称。所有对手都不能施放具该名称的咒语。（只要此生物在战场上，对手就不能如此作。）</target>
+        <target state="translated">飞行于CARDNAME进战场时，每位对手各展示其手牌。你选择一个以此法展示之非地牌的名称。所有对手都不能施放具该名称的咒语。（只要此生物在战场上，对手就不能如此作。）</target>
       </trans-unit>
       <trans-unit id="15058f91-d266-4804-96af-fc050b6c8436" resname="ORI·44 | Anchor to the Aether | Card Name">
         <source>Anchor to the Aether</source>
@@ -342,7 +342,7 @@
       </trans-unit>
       <trans-unit id="1ae6c87f-003b-44b7-96fd-ab8fca9af6f1" resname="ORI·46 | Aspiring Aeronaut | Card Text | Paragraphs">
         <source>Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen CARDNAME enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.</source>
-        <target state="translated">飞行（此生物只能被具飞行或延势异能的生物阻挡。）当雄心空行师进战场时，将一个1/1无色，具飞行异能的振翼机衍生神器生物放进战场。</target>
+        <target state="translated">飞行（此生物只能被具飞行或延势异能的生物阻挡。）当CARDNAME进战场时，将一个1/1无色，具飞行异能的振翼机衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="2c42ab35-6050-42b2-9c3c-3252f2e69442" resname="ORI·48 | Calculated Dismissal | Card Name">
         <source>Calculated Dismissal</source>
@@ -376,7 +376,7 @@
       </trans-unit>
       <trans-unit id="007b526c-5387-4ed4-a320-b826d507e014" resname="ORI·52 | Deep-Sea Terror | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless there are seven or more cards in your graveyard.</source>
-        <target state="translated">除非你的坟墓场中有七张或更多牌，否则深海惧蛇不能攻击。</target>
+        <target state="translated">除非你的坟墓场中有七张或更多牌，否则CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="3d344f86-a02d-4de3-82c1-2586dd9ddbfe" resname="ORI·53 | Disciple of the Ring | Card Name">
         <source>Disciple of the Ring</source>
@@ -395,7 +395,7 @@
       </trans-unit>
       <trans-unit id="3d344f86-a02d-4de3-82c1-2586dd9ddbfe" resname="ORI·53 | Disciple of the Ring | Card Text | Paragraph 3">
         <source>• CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">•环塔门徒得+1/+1直到回合结束。</target>
+        <target state="translated">•CARDNAME得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="3d344f86-a02d-4de3-82c1-2586dd9ddbfe" resname="ORI·53 | Disciple of the Ring | Card Text | Paragraph 4">
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="1c487f1a-a51d-449c-827d-c7b9381acb34" resname="ORI·57 | Faerie Miscreant | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if you control another creature named CARDNAME, draw a card.</source>
-        <target state="translated">当仙灵恶徒进战场时，若你操控另一个名称为仙灵恶徒的生物，则抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，若你操控另一个名称为CARDNAME的生物，则抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自M20（2019-07-12）；</note>
       </trans-unit>
       <trans-unit id="94ca53de-cffb-4740-b318-a4ebfb3a31af" resname="ORI·58 | Harbinger of the Tides | Card Name">
@@ -438,12 +438,12 @@
       </trans-unit>
       <trans-unit id="94ca53de-cffb-4740-b318-a4ebfb3a31af" resname="ORI·58 | Harbinger of the Tides | Card Text | Paragraph 1">
         <source>You may cast CARDNAME as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)</source>
-        <target state="translated">如果你施放潮兆人鱼时多支付{2}，你便可以将其视同具闪现异能地来施放。</target>
+        <target state="translated">如果你施放CARDNAME时多支付{2}，你便可以将其视同具闪现异能地来施放。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="94ca53de-cffb-4740-b318-a4ebfb3a31af" resname="ORI·58 | Harbinger of the Tides | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may return target tapped creature an opponent controls to its owner's hand.</source>
-        <target state="translated">当潮兆人鱼进战场时，你可以将目标由对手操控且已横置的生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标由对手操控且已横置的生物移回其拥有者手上。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="eeaaa583-bdd3-448a-921e-527df5f7f548" resname="ORI·59 | Hydrolash | Card Name">
@@ -474,7 +474,7 @@
       </trans-unit>
       <trans-unit id="33b8553d-d326-4280-bc3a-2fffdd377cd2" resname="ORI·62 | Jhessian Thief | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, draw a card.</source>
-        <target state="translated">每当介斯盗贼对任一牌手造成战斗伤害时，抓一张牌。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="762d568d-a2d6-449b-85c2-a92755efe4c3" resname="ORI·64 | Mizzium Meddler | Card Name">
@@ -483,7 +483,7 @@
       </trans-unit>
       <trans-unit id="762d568d-a2d6-449b-85c2-a92755efe4c3" resname="ORI·64 | Mizzium Meddler | Card Text | Paragraphs">
         <source>Flash (You may cast this spell any time you could cast an instant.)\nWhen CARDNAME enters the battlefield, you may change a target of target spell or ability to CARDNAME.</source>
-        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）当米捷干涉师进战场时，你可以将目标咒语或异能的一个目标改为米捷干涉师。</target>
+        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）当CARDNAME进战场时，你可以将目标咒语或异能的一个目标改为CARDNAME。</target>
       </trans-unit>
       <trans-unit id="0b9b968d-b0cc-411d-9366-8358be28aef2" resname="ORI·66 | Nivix Barrier | Card Name">
         <source>Nivix Barrier</source>
@@ -491,7 +491,7 @@
       </trans-unit>
       <trans-unit id="0b9b968d-b0cc-411d-9366-8358be28aef2" resname="ORI·66 | Nivix Barrier | Card Text | Paragraphs">
         <source>Flash (You may cast this spell any time you could cast an instant.)\nDefender (This creature can't attack.)\nWhen CARDNAME enters the battlefield, target attacking creature gets -4/-0 until end of turn.</source>
-        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）守军（此生物不能攻击。）当尼米斯障壁进战场时，目标进行攻击的生物得-4/-0直到回合结束。</target>
+        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）守军（此生物不能攻击。）当CARDNAME进战场时，目标进行攻击的生物得-4/-0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="67a105f8-0c01-4c09-a3bf-8c912b6dc741" resname="ORI·67 | Psychic Rebuttal | Card Name">
         <source>Psychic Rebuttal</source>
@@ -523,7 +523,7 @@
       </trans-unit>
       <trans-unit id="e5634d1a-ca4b-4528-9e0e-b88f1025d434" resname="ORI·72 | Separatist Voidmage | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may return target creature to its owner's hand.</source>
-        <target state="translated">当独立派销法师进战场时，你可以将目标生物移回其拥有者手上。</target>
+        <target state="translated">当CARDNAME进战场时，你可以将目标生物移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="e2a48455-dde4-4263-9146-af547c0aad48" resname="ORI·75 | Soulblade Djinn | Card Name">
         <source>Soulblade Djinn</source>
@@ -571,7 +571,7 @@
       </trans-unit>
       <trans-unit id="0feb66d2-c50f-4296-af2f-b374c57443b0" resname="ORI·83 | Whirler Rogue | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.</source>
-        <target state="translated">当旋翼浪客进战场时，派出两个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出两个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="0feb66d2-c50f-4296-af2f-b374c57443b0" resname="ORI·83 | Whirler Rogue | Card Text | Paragraph 2">
@@ -585,7 +585,7 @@
       </trans-unit>
       <trans-unit id="2465eafc-453c-4e4f-b369-0951b8a4b7bf" resname="ORI·84 | Willbreaker | Card Text | Paragraph 1">
         <source>Whenever a creature an opponent controls becomes the target of a spell or ability you control, gain control of that creature for as long as you control CARDNAME.</source>
-        <target state="translated">每当一个由对手操控的生物成为由你操控之咒语或异能的目标时，于你操控破志师的时段内，获得该生物的操控权。</target>
+        <target state="translated">每当一个由对手操控的生物成为由你操控之咒语或异能的目标时，于你操控CARDNAME的时段内，获得该生物的操控权。</target>
       </trans-unit>
       <trans-unit id="3d896df9-f897-4786-b1a1-d2375e81c9ef" resname="ORI·87 | Consecrated by Blood | Card Name">
         <source>Consecrated by Blood</source>
@@ -618,7 +618,7 @@
       </trans-unit>
       <trans-unit id="2b62a4c2-e66d-4fc3-8703-a90b84f567bf" resname="ORI·91 | Deadbridge Shaman | Card Text | Paragraph 1">
         <source>When CARDNAME dies, target opponent discards a card.</source>
-        <target state="translated">当亡桥祭师死去时，目标对手弃一张牌。</target>
+        <target state="translated">当CARDNAME死去时，目标对手弃一张牌。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="82c04014-91f9-4197-b4b4-f62c4739a5c2" resname="ORI·92 | Demonic Pact | Card Name">
@@ -627,7 +627,7 @@
       </trans-unit>
       <trans-unit id="82c04014-91f9-4197-b4b4-f62c4739a5c2" resname="ORI·92 | Demonic Pact | Card Text | Paragraphs">
         <source>At the beginning of your upkeep, choose one that hasn't been chosen —\n• CARDNAME deals 4 damage to any target and you gain 4 life.\n• Target opponent discards two cards.\n• Draw two cards.\n• You lose the game.</source>
-        <target state="translated">在你的维持开始时，选择一项，且不得是此前选过的～• 恶魔契约对目标生物或牌手造成4点伤害且你获得4点生命。• 目标对手弃两张牌。• 抓两张牌。• 你输掉这盘游戏。</target>
+        <target state="translated">在你的维持开始时，选择一项，且不得是此前选过的～• CARDNAME对目标生物或牌手造成4点伤害且你获得4点生命。• 目标对手弃两张牌。• 抓两张牌。• 你输掉这盘游戏。</target>
       </trans-unit>
       <trans-unit id="04a09fe4-d7a0-4065-968d-0837c3eafda0" resname="ORI·93 | Despoiler of Souls | Card Name">
         <source>Despoiler of Souls</source>
@@ -635,7 +635,7 @@
       </trans-unit>
       <trans-unit id="04a09fe4-d7a0-4065-968d-0837c3eafda0" resname="ORI·93 | Despoiler of Souls | Card Text | Paragraphs">
         <source>CARDNAME can't block.\n{B}{B}, Exile two other creature cards from your graveyard: Return CARDNAME from your graveyard to the battlefield.</source>
-        <target state="translated">掠灵怪不能进行阻挡。{B}{B}，从你坟墓场中放逐两张其他生物牌：将掠灵怪从你的坟墓场移回战场。</target>
+        <target state="translated">CARDNAME不能进行阻挡。{B}{B}，从你坟墓场中放逐两张其他生物牌：将CARDNAME从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="f5972911-2d41-4a0c-8a8f-b3d35a6594d8" resname="ORI·94 | Erebos's Titan | Card Name">
         <source>Erebos's Titan</source>
@@ -643,7 +643,7 @@
       </trans-unit>
       <trans-unit id="f5972911-2d41-4a0c-8a8f-b3d35a6594d8" resname="ORI·94 | Erebos's Titan | Card Text | Paragraphs">
         <source>As long as your opponents control no creatures, CARDNAME has indestructible. (Damage and effects that say &amp;quot;destroy&amp;quot; don't destroy it.)\nWhenever a creature card leaves an opponent's graveyard, you may discard a card. If you do, return CARDNAME from your graveyard to your hand.</source>
-        <target state="translated">只要所有对手均未操控任何生物，厄睿柏斯的泰坦便具有不灭异能。（伤害与注明「消灭」的效应不会将它消灭。）每当一张生物牌离开对手的坟墓场时，你可以弃一张牌。若你如此作，则将厄睿柏斯的泰坦从你的坟墓场移回你手上。</target>
+        <target state="translated">只要所有对手均未操控任何生物，CARDNAME便具有不灭异能。（伤害与注明「消灭」的效应不会将它消灭。）每当一张生物牌离开对手的坟墓场时，你可以弃一张牌。若你如此作，则将CARDNAME从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="7f8aaaf1-6b21-465d-8450-0718beb9106b" resname="ORI·95 | Eyeblight Assassin | Card Name">
         <source>Eyeblight Assassin</source>
@@ -652,7 +652,7 @@
       </trans-unit>
       <trans-unit id="7f8aaaf1-6b21-465d-8450-0718beb9106b" resname="ORI·95 | Eyeblight Assassin | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.</source>
-        <target state="translated">当碍眼杀手进战场时，目标由对手操控的生物得-1/-1直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，目标由对手操控的生物得-1/-1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="d73484db-5fd0-4a01-83fd-54748cc21a0f" resname="ORI·96 | Eyeblight Massacre | Card Name">
@@ -677,7 +677,7 @@
       </trans-unit>
       <trans-unit id="891718e9-bef3-470a-80c5-514f7f43abe8" resname="ORI·97 | Fetid Imp | Card Text | Paragraph 2">
         <source>{B}: CARDNAME gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)</source>
-        <target state="translated">{B}：腥臭小恶魔获得死触异能直到回合结束。</target>
+        <target state="translated">{B}：CARDNAME获得死触异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="c9667cae-6801-434b-9d91-ea1f2bd2449e" resname="ORI·99 | Gilt-Leaf Winnower | Card Name">
@@ -692,7 +692,7 @@
       </trans-unit>
       <trans-unit id="c9667cae-6801-434b-9d91-ea1f2bd2449e" resname="ORI·99 | Gilt-Leaf Winnower | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, you may destroy target non-Elf creature whose power and toughness aren't equal.</source>
-        <target state="translated">当金叶筛除者进战场时，你可以消灭目标力量与防御力不相等的非妖精生物。</target>
+        <target state="translated">当CARDNAME进战场时，你可以消灭目标力量与防御力不相等的非妖精生物。</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="e05572ba-3a26-41f5-96c1-960ec9367178" resname="ORI·100 | Gnarlroot Trapper | Card Name">
@@ -715,7 +715,7 @@
       </trans-unit>
       <trans-unit id="85880be1-65b2-432f-8788-79716e4c8066" resname="ORI·101 | Graveblade Marauder | Card Text | Paragraph 2">
         <source>Whenever CARDNAME deals combat damage to a player, that player loses life equal to the number of creature cards in your graveyard.</source>
-        <target state="translated">每当墓刃劫掠者对任一牌手造成战斗伤害时，该牌手失去等同于你坟墓场中生物牌数量的生命。</target>
+        <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，该牌手失去等同于你坟墓场中生物牌数量的生命。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="d1ead8cc-5b7d-4a6d-a56f-95da91a958d2" resname="ORI·102 | Infernal Scarring | Card Name">
@@ -772,7 +772,7 @@
       </trans-unit>
       <trans-unit id="70861692-1eb2-4cb1-8d7f-b881386c37d1" resname="ORI·108 | Malakir Cullblade | Card Text | Paragraph 1">
         <source>Whenever a creature an opponent controls dies, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当一个由对手操控的生物死去时，在马拉奇汰锋手上放置一个+1/+1指示物。</target>
+        <target state="translated">每当一个由对手操控的生物死去时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="3afe7891-09d5-470e-aa41-71d89249875b" resname="ORI·110 | Necromantic Summons | Card Name">
         <source>Necromantic Summons</source>
@@ -797,7 +797,7 @@
       </trans-unit>
       <trans-unit id="118ba6f2-a2f0-4554-ad87-a932c951cdd4" resname="ORI·112 | Priest of the Blood Rite | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 5/5 black Demon creature token with flying.</source>
-        <target state="translated">当血仪僧侣进战场时，派出一个5/5黑色，具飞行异能的恶魔衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个5/5黑色，具飞行异能的恶魔衍生生物。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="118ba6f2-a2f0-4554-ad87-a932c951cdd4" resname="ORI·112 | Priest of the Blood Rite | Card Text | Paragraph 2">
@@ -811,7 +811,7 @@
       </trans-unit>
       <trans-unit id="7335da62-3b59-4c73-a19e-b1733393ed88" resname="ORI·113 | Rabid Bloodsucker | Card Text | Paragraphs">
         <source>Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen CARDNAME enters the battlefield, each player loses 2 life.</source>
-        <target state="translated">飞行（只有具飞行或延势异能的生物才能阻挡它。）当狂疾吸血怪进战场时，每位牌手各失去2点生命。</target>
+        <target state="translated">飞行（只有具飞行或延势异能的生物才能阻挡它。）当CARDNAME进战场时，每位牌手各失去2点生命。</target>
       </trans-unit>
       <trans-unit id="db3d5e9d-07e8-43e1-aaf0-1f9e4ed2834a" resname="ORI·115 | Reave Soul | Card Name">
         <source>Reave Soul</source>
@@ -838,7 +838,7 @@
       </trans-unit>
       <trans-unit id="fd8061d2-84ce-4e4a-9911-ffc9833749da" resname="ORI·119 | Shambling Ghoul | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">跛行食尸鬼须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="cbb8edd0-4573-4b52-a3ea-83ed19dbf58d" resname="ORI·120 | Tainted Remedy | Card Name">
@@ -855,7 +855,7 @@
       </trans-unit>
       <trans-unit id="3290c60a-f9a0-464d-a15e-8473a6d50d96" resname="ORI·121 | Thornbow Archer | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, each opponent who doesn't control an Elf loses 1 life.</source>
-        <target state="translated">每当棘弓射手攻击时，每位未操控妖精的对手各失去1点生命。</target>
+        <target state="translated">每当CARDNAME攻击时，每位未操控妖精的对手各失去1点生命。</target>
       </trans-unit>
       <trans-unit id="bf659f2f-983c-4a62-a969-4176e5fbe193" resname="ORI·123 | Touch of Moonglove | Card Name">
         <source>Touch of Moonglove</source>
@@ -872,7 +872,7 @@
       </trans-unit>
       <trans-unit id="36afdfd4-8db7-45b6-9b6d-b9293fe6c26d" resname="ORI·124 | Undead Servant | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 2/2 black Zombie creature token for each card named CARDNAME in your graveyard.</source>
-        <target state="translated">当不死仆从进战场时，你坟墓场中每有一张名称为不死仆从的牌，便派出一个2/2黑色灵俑衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，你坟墓场中每有一张名称为CARDNAME的牌，便派出一个2/2黑色灵俑衍生生物。</target>
         <note xmlns:from="developer">中文数据来自M20（2019-07-12）；</note>
       </trans-unit>
       <trans-unit id="5994b7b0-3bca-480b-b265-ed269f15c17e" resname="ORI·125 | Unholy Hunger | Card Name">
@@ -895,7 +895,7 @@
       </trans-unit>
       <trans-unit id="cb7a2770-9a20-4f52-aac4-24502f50e374" resname="ORI·127 | Abbot of Keral Keep | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.</source>
-        <target state="translated">当科瑞尔要塞僧长进战场时，放逐你的牌库顶牌。直到回合结束，你可以使用该牌。</target>
+        <target state="translated">当CARDNAME进战场时，放逐你的牌库顶牌。直到回合结束，你可以使用该牌。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="186581c7-81a6-4c27-b8a9-ff7f7a4b1d40" resname="ORI·128 | Acolyte of the Inferno | Card Name">
@@ -904,7 +904,7 @@
       </trans-unit>
       <trans-unit id="186581c7-81a6-4c27-b8a9-ff7f7a4b1d40" resname="ORI·128 | Acolyte of the Inferno | Card Text | Paragraphs">
         <source>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nWhenever CARDNAME becomes blocked by a creature, it deals 2 damage to that creature.</source>
-        <target state="translated">铭勇1（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置一个+1/+1指示物且它已铭勇。）每当炼狱侍僧被一个生物阻挡时，它对该生物造成2点伤害。</target>
+        <target state="translated">铭勇1（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置一个+1/+1指示物且它已铭勇。）每当CARDNAME被一个生物阻挡时，它对该生物造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="31913547-460c-45b3-be23-89f0e3a43325" resname="ORI·130 | Akroan Sergeant | Card Name">
         <source>Akroan Sergeant</source>
@@ -938,7 +938,7 @@
       </trans-unit>
       <trans-unit id="369d837a-a19b-457c-8146-cc1766a63ec1" resname="ORI·134 | Call of the Full Moon | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature gets +3/+2 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of each upkeep, if a player cast two or more spells last turn, sacrifice CARDNAME.</source>
-        <target state="translated">结附于生物所结附的生物得+3/+2且具有践踏异能。（它攻击时造成之过量战斗伤害能对防御牌手或鹏洛客造成之。）在每个维持开始时，若某牌手上回合施放了两个或更多咒语，牺牲满月的呼唤。</target>
+        <target state="translated">结附于生物所结附的生物得+3/+2且具有践踏异能。（它攻击时造成之过量战斗伤害能对防御牌手或鹏洛客造成之。）在每个维持开始时，若某牌手上回合施放了两个或更多咒语，牺牲CARDNAME。</target>
       </trans-unit>
       <trans-unit id="7d4c90de-49aa-43ed-a18a-f7f96268e5eb" resname="ORI·137 | Chandra's Ignition | Card Name">
         <source>Chandra's Ignition</source>
@@ -963,7 +963,7 @@
       </trans-unit>
       <trans-unit id="3607d63b-82ab-44f0-aef5-d9063e17c76f" resname="ORI·142 | Enthralling Victor | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, gain control of target creature an opponent controls with power 2 or less until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)</source>
-        <target state="translated">当威服英豪进战场时，获得目标由对手操控且力量等于或小于2的生物之操控权直到回合结束。重置该生物。它获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，获得目标由对手操控且力量等于或小于2的生物之操控权直到回合结束。重置该生物。它获得敏捷异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自BBD（2018-06-08）；</note>
       </trans-unit>
       <trans-unit id="42eca98e-a164-4f70-a0b0-7a604863f30b" resname="ORI·143 | Exquisite Firecraft | Card Name">
@@ -973,7 +973,7 @@
       </trans-unit>
       <trans-unit id="42eca98e-a164-4f70-a0b0-7a604863f30b" resname="ORI·143 | Exquisite Firecraft | Card Text | Paragraph 1">
         <source>CARDNAME deals 4 damage to any target.</source>
-        <target state="translated">精巧火术对任意一个目标造成4点伤害。</target>
+        <target state="translated">CARDNAME对任意一个目标造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自TSR（2021-03-19）；</note>
       </trans-unit>
       <trans-unit id="42eca98e-a164-4f70-a0b0-7a604863f30b" resname="ORI·143 | Exquisite Firecraft | Card Text | Paragraph 2">
@@ -987,7 +987,7 @@
       </trans-unit>
       <trans-unit id="5b81a589-44bf-4441-9079-1ae66d067519" resname="ORI·145 | Fiery Impulse | Card Text | Paragraphs">
         <source>CARDNAME deals 2 damage to target creature.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, CARDNAME deals 3 damage instead.</source>
-        <target state="translated">暴烈冲动对目标生物造成2点伤害。精熟咒语～如果你坟墓场中有两张或更多的瞬间和／或法术牌，则改为暴烈冲动对该生物造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成2点伤害。精熟咒语～如果你坟墓场中有两张或更多的瞬间和／或法术牌，则改为CARDNAME对该生物造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="55051412-8749-4b65-ac76-c20ef57fd2e3" resname="ORI·146 | Firefiend Elemental | Card Name">
         <source>Firefiend Elemental</source>
@@ -1014,7 +1014,7 @@
       </trans-unit>
       <trans-unit id="2e4a0c29-a759-465f-9136-9d709b6f30fc" resname="ORI·148 | Ghirapur Aether Grid | Card Text | Paragraph 1">
         <source>Tap two untapped artifacts you control: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">横置两个由你操控且未横置的神器：吉拉波乙太网对任意一个目标造成1点伤害。</target>
+        <target state="translated">横置两个由你操控且未横置的神器：CARDNAME对任意一个目标造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="f05cafb6-8812-42bb-ad14-3dde4bcb7034" resname="ORI·149 | Ghirapur Gearcrafter | Card Name">
@@ -1023,7 +1023,7 @@
       </trans-unit>
       <trans-unit id="f05cafb6-8812-42bb-ad14-3dde4bcb7034" resname="ORI·149 | Ghirapur Gearcrafter | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying. (A creature with flying can't be blocked except by creatures with flying or reach.)</source>
-        <target state="translated">当吉拉波机械匠进战场时，将一个1/1无色，具飞行异能的振翼机衍生神器生物放进战场。（只有具飞行或延势异能的生物才能阻挡具飞行异能的生物。）</target>
+        <target state="translated">当CARDNAME进战场时，将一个1/1无色，具飞行异能的振翼机衍生神器生物放进战场。（只有具飞行或延势异能的生物才能阻挡具飞行异能的生物。）</target>
       </trans-unit>
       <trans-unit id="e2779415-9e0e-4c61-b590-e15ac089cf30" resname="ORI·150 | Goblin Glory Chaser | Card Name">
         <source>Goblin Glory Chaser</source>
@@ -1031,7 +1031,7 @@
       </trans-unit>
       <trans-unit id="e2779415-9e0e-4c61-b590-e15ac089cf30" resname="ORI·150 | Goblin Glory Chaser | Card Text | Paragraphs">
         <source>Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as CARDNAME is renowned, it has menace. (It can't be blocked except by two or more creatures.)</source>
-        <target state="translated">铭勇1（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置一个+1/+1指示物且它已铭勇。）只要逐耀鬼怪已铭勇，它便具有威慑异能。（它只能被两个或更多生物阻挡。）</target>
+        <target state="translated">铭勇1（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置一个+1/+1指示物且它已铭勇。）只要CARDNAME已铭勇，它便具有威慑异能。（它只能被两个或更多生物阻挡。）</target>
       </trans-unit>
       <trans-unit id="ee44df88-45a4-46ef-a8bd-f7fb7b9542b8" resname="ORI·152 | Infectious Bloodlust | Card Name">
         <source>Infectious Bloodlust</source>
@@ -1039,7 +1039,7 @@
       </trans-unit>
       <trans-unit id="ee44df88-45a4-46ef-a8bd-f7fb7b9542b8" resname="ORI·152 | Infectious Bloodlust | Card Text | Paragraphs">
         <source>Enchant creature\nEnchanted creature gets +2/+1, has haste, and attacks each combat if able.\nWhen enchanted creature dies, you may search your library for a card named CARDNAME, reveal it, put it into your hand, then shuffle.</source>
-        <target state="translated">结附于生物所结附的生物得+2/+1，具有敏捷异能，且每回合若能攻击，则必须攻击。当所结附的生物死去时，你可以从你牌库中搜寻一张名称为流布嗜血欲的牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
+        <target state="translated">结附于生物所结附的生物得+2/+1，具有敏捷异能，且每回合若能攻击，则必须攻击。当所结附的生物死去时，你可以从你牌库中搜寻一张名称为CARDNAME的牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="c1ccaeed-9670-4432-8a45-d5c06119fa9f" resname="ORI·153 | Lightning Javelin | Card Name">
         <source>Lightning Javelin</source>
@@ -1047,7 +1047,7 @@
       </trans-unit>
       <trans-unit id="c1ccaeed-9670-4432-8a45-d5c06119fa9f" resname="ORI·153 | Lightning Javelin | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to any target. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</source>
-        <target state="translated">闪电标枪对目标生物或牌手造成3点伤害。占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="1a129f22-dd7e-4b2c-a514-a2ac55bb5661" resname="ORI·154 | Mage-Ring Bully | Card Name">
         <source>Mage-Ring Bully</source>
@@ -1055,7 +1055,7 @@
       </trans-unit>
       <trans-unit id="1a129f22-dd7e-4b2c-a514-a2ac55bb5661" resname="ORI·154 | Mage-Ring Bully | Card Text | Paragraphs">
         <source>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nCARDNAME attacks each combat if able.</source>
-        <target state="translated">灵技（每当你施放非生物咒语时，此生物得+1/+1直到回合结束。）法师环塔恶霸每回合若能攻击，则必须攻击。</target>
+        <target state="translated">灵技（每当你施放非生物咒语时，此生物得+1/+1直到回合结束。）CARDNAME每回合若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="f00192e0-439d-43b2-882c-90a2d52103f8" resname="ORI·155 | Magmatic Insight | Card Name">
         <source>Magmatic Insight</source>
@@ -1063,7 +1063,7 @@
       </trans-unit>
       <trans-unit id="f00192e0-439d-43b2-882c-90a2d52103f8" resname="ORI·155 | Magmatic Insight | Card Text | Paragraphs">
         <source>As an additional cost to cast this spell, discard a land card.\nDraw two cards.</source>
-        <target state="translated">弃一张地牌，以作为施放岩浆洞察的额外费用。抓两张牌。</target>
+        <target state="translated">弃一张地牌，以作为施放CARDNAME的额外费用。抓两张牌。</target>
       </trans-unit>
       <trans-unit id="d99fd073-c249-4cd2-9d71-be417c88c493" resname="ORI·156 | Molten Vortex | Card Name">
         <source>Molten Vortex</source>
@@ -1071,7 +1071,7 @@
       </trans-unit>
       <trans-unit id="d99fd073-c249-4cd2-9d71-be417c88c493" resname="ORI·156 | Molten Vortex | Card Text | Paragraph 1">
         <source>{R}, Discard a land card: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{R}，弃一张地牌：热融漩涡对目标生物或牌手造成2点伤害。</target>
+        <target state="translated">{R}，弃一张地牌：CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="0dcafa9e-3637-42ca-bdb2-45a2b5da7294" resname="ORI·157 | Pia and Kiran Nalaar | Card Name">
         <source>Pia and Kiran Nalaar</source>
@@ -1080,12 +1080,12 @@
       </trans-unit>
       <trans-unit id="0dcafa9e-3637-42ca-bdb2-45a2b5da7294" resname="ORI·157 | Pia and Kiran Nalaar | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.</source>
-        <target state="translated">当琵雅纳拉与基岚纳拉进战场时，派出两个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出两个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="0dcafa9e-3637-42ca-bdb2-45a2b5da7294" resname="ORI·157 | Pia and Kiran Nalaar | Card Text | Paragraph 2">
         <source>{2}{R}, Sacrifice an artifact: CARDNAME deals 2 damage to any target.</source>
-        <target state="translated">{2}{R}，牺牲一个神器：琵雅纳拉与基岚纳拉对任意一个目标造成2点伤害。</target>
+        <target state="translated">{2}{R}，牺牲一个神器：CARDNAME对任意一个目标造成2点伤害。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="3191a8fd-2c54-4e47-9d5a-692bb38c811f" resname="ORI·158 | Prickleboar | Card Name">
@@ -1094,7 +1094,7 @@
       </trans-unit>
       <trans-unit id="3191a8fd-2c54-4e47-9d5a-692bb38c811f" resname="ORI·158 | Prickleboar | Card Text | Paragraph 1">
         <source>As long as it's your turn, CARDNAME gets +2/+0 and has first strike. (It deals combat damage before creatures without first strike.)</source>
-        <target state="translated">只要是在你的回合中，带刺野猪便得+2/+0且具有先攻异能。（它会比不具先攻异能的生物提前造成战斗伤害。）</target>
+        <target state="translated">只要是在你的回合中，CARDNAME便得+2/+0且具有先攻异能。（它会比不具先攻异能的生物提前造成战斗伤害。）</target>
       </trans-unit>
       <trans-unit id="5d9404b2-f0ea-4a31-bc7b-6748574c57d3" resname="ORI·159 | Ravaging Blaze | Card Name">
         <source>Ravaging Blaze</source>
@@ -1103,12 +1103,12 @@
       </trans-unit>
       <trans-unit id="5d9404b2-f0ea-4a31-bc7b-6748574c57d3" resname="ORI·159 | Ravaging Blaze | Card Text | Paragraph 1">
         <source>CARDNAME deals X damage to target creature.</source>
-        <target state="translated">肆虐火光对目标生物造成X点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="5d9404b2-f0ea-4a31-bc7b-6748574c57d3" resname="ORI·159 | Ravaging Blaze | Card Text | Paragraph 2">
         <source>Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, CARDNAME also deals X damage to that creature's controller.</source>
-        <target state="translated">精熟咒语～如果你坟墓场中有两张或更多的瞬间和／或法术牌，则肆虐火光再对该生物的操控者造成X点伤害。</target>
+        <target state="translated">精熟咒语～如果你坟墓场中有两张或更多的瞬间和／或法术牌，则CARDNAME再对该生物的操控者造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自CMM（2023-08-04）；</note>
       </trans-unit>
       <trans-unit id="38d600b0-8649-424a-acad-879f3067b55e" resname="ORI·160 | Scab-Clan Berserker | Card Name">
@@ -1117,7 +1117,7 @@
       </trans-unit>
       <trans-unit id="38d600b0-8649-424a-acad-879f3067b55e" resname="ORI·160 | Scab-Clan Berserker | Card Text | Paragraphs">
         <source>Haste\nRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nWhenever an opponent casts a noncreature spell, if CARDNAME is renowned, CARDNAME deals 2 damage to that player.</source>
-        <target state="translated">敏捷铭勇1（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置一个+1/+1指示物且它已铭勇。）每当任一对手施放非生物咒语时，若司凯族狂战士已铭勇，则司凯族狂战士对该牌手造成2点伤害。</target>
+        <target state="translated">敏捷铭勇1（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置一个+1/+1指示物且它已铭勇。）每当任一对手施放非生物咒语时，若CARDNAME已铭勇，则CARDNAME对该牌手造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="a60d957b-f71a-403e-82fe-30ea87d1e142" resname="ORI·161 | Seismic Elemental | Card Name">
         <source>Seismic Elemental</source>
@@ -1125,7 +1125,7 @@
       </trans-unit>
       <trans-unit id="a60d957b-f71a-403e-82fe-30ea87d1e142" resname="ORI·161 | Seismic Elemental | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, creatures without flying can't block this turn.</source>
-        <target state="translated">当地动元素进战场时，不具飞行异能的生物本回合不能进行阻挡。</target>
+        <target state="translated">当CARDNAME进战场时，不具飞行异能的生物本回合不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="c5f0d87a-8f37-4598-9106-c3545dadf6fd" resname="ORI·162 | Skyraker Giant | Card Name">
         <source>Skyraker Giant</source>
@@ -1144,7 +1144,7 @@
       </trans-unit>
       <trans-unit id="3c9289dd-f1a3-4be5-8ed1-4b4dd4e97743" resname="ORI·164 | Subterranean Scout | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target creature with power 2 or less can't be blocked this turn.</source>
-        <target state="translated">当地底斥候进战场时，目标力量等于或小于2的生物本回合不能被阻挡。</target>
+        <target state="translated">当CARDNAME进战场时，目标力量等于或小于2的生物本回合不能被阻挡。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="a5e6c48a-29d0-40ae-aac6-df7319873f50" resname="ORI·165 | Thopter Engineer | Card Name">
@@ -1154,7 +1154,7 @@
       </trans-unit>
       <trans-unit id="a5e6c48a-29d0-40ae-aac6-df7319873f50" resname="ORI·165 | Thopter Engineer | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.</source>
-        <target state="translated">当振翼机工程师进战场时，派出一个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
+        <target state="translated">当CARDNAME进战场时，派出一个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
         <note xmlns:from="developer">中文数据来自C21（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="a5e6c48a-29d0-40ae-aac6-df7319873f50" resname="ORI·165 | Thopter Engineer | Card Text | Paragraph 2">
@@ -1168,7 +1168,7 @@
       </trans-unit>
       <trans-unit id="7fc075ee-16e9-4cf5-bbb0-7b3b4b9eb3f4" resname="ORI·167 | Volcanic Rambler | Card Text | Paragraph 1">
         <source>{2}{R}: CARDNAME deals 1 damage to target player or planeswalker.</source>
-        <target state="translated">{2}{R}：火山漫游灵对目标牌手造成1点伤害。</target>
+        <target state="translated">{2}{R}：CARDNAME对目标牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="c5178301-f766-48d3-af07-6bd6f822c725" resname="ORI·168 | Aerial Volley | Card Name">
         <source>Aerial Volley</source>
@@ -1176,7 +1176,7 @@
       </trans-unit>
       <trans-unit id="c5178301-f766-48d3-af07-6bd6f822c725" resname="ORI·168 | Aerial Volley | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage divided as you choose among one, two, or three target creatures with flying.</source>
-        <target state="translated">对空齐射对一个，两个或三个目标具飞行异能的生物造成共3点伤害，你可以任意分配。</target>
+        <target state="translated">CARDNAME对一个，两个或三个目标具飞行异能的生物造成共3点伤害，你可以任意分配。</target>
       </trans-unit>
       <trans-unit id="e3b62616-c1a3-45f7-a329-f1305c462eaf" resname="ORI·169 | Animist's Awakening | Card Name">
         <source>Animist's Awakening</source>
@@ -1193,7 +1193,7 @@
       </trans-unit>
       <trans-unit id="f03d4e0d-bddd-4835-91b8-11c2f15e54c3" resname="ORI·170 | Caustic Caterpillar | Card Text | Paragraph 1">
         <source>{1}{G}, Sacrifice CARDNAME: Destroy target artifact or enchantment.</source>
-        <target state="translated">{1}{G}，牺牲腐蚀毛虫：消灭目标神器或结界。</target>
+        <target state="translated">{1}{G}，牺牲CARDNAME：消灭目标神器或结界。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="3759fc28-9adb-41ed-851c-566a3a424e09" resname="ORI·171 | Conclave Naturalists | Card Name">
@@ -1203,7 +1203,7 @@
       </trans-unit>
       <trans-unit id="3759fc28-9adb-41ed-851c-566a3a424e09" resname="ORI·171 | Conclave Naturalists | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may destroy target artifact or enchantment.</source>
-        <target state="translated">当盟会归真师进战场时，你可以消灭目标神器或结界。</target>
+        <target state="translated">当CARDNAME进战场时，你可以消灭目标神器或结界。</target>
         <note xmlns:from="developer">中文数据来自2XM（2020-08-07）；</note>
       </trans-unit>
       <trans-unit id="91c143a9-c642-425a-a469-a9d158e43c21" resname="ORI·172 | Dwynen, Gilt-Leaf Daen | Card Name">
@@ -1223,7 +1223,7 @@
       </trans-unit>
       <trans-unit id="91c143a9-c642-425a-a469-a9d158e43c21" resname="ORI·172 | Dwynen, Gilt-Leaf Daen | Card Text | Paragraph 3">
         <source>Whenever CARDNAME attacks, you gain 1 life for each attacking Elf you control.</source>
-        <target state="translated">每当金叶猎领德维恩攻击时，你每操控一个进行攻击的妖精，便获得1点生命。</target>
+        <target state="translated">每当CARDNAME攻击时，你每操控一个进行攻击的妖精，便获得1点生命。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="c203722b-3f16-4b6c-9b2e-18169d3f80c9" resname="ORI·173 | Dwynen's Elite | Card Name">
@@ -1233,7 +1233,7 @@
       </trans-unit>
       <trans-unit id="c203722b-3f16-4b6c-9b2e-18169d3f80c9" resname="ORI·173 | Dwynen's Elite | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, if you control another Elf, create a 1/1 green Elf Warrior creature token.</source>
-        <target state="translated">当德维恩的精兵进战场时，若你操控另一个妖精，则派出一个1/1绿色妖精／战士衍生生物。</target>
+        <target state="translated">当CARDNAME进战场时，若你操控另一个妖精，则派出一个1/1绿色妖精／战士衍生生物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="554a8769-c840-4c9d-9959-b075c174457b" resname="ORI·174 | Elemental Bond | Card Name">
@@ -1268,7 +1268,7 @@
       </trans-unit>
       <trans-unit id="b1d0eb3b-00b9-42ca-9f7d-5543bffc3480" resname="ORI·179 | The Great Aurora | Card Text | Paragraph 1">
         <source>Each player shuffles all cards from their hand and all permanents they own into their library, then draws that many cards. Each player may put any number of land cards from their hand onto the battlefield. Exile CARDNAME.</source>
-        <target state="translated">每位牌手将其所有手牌和由他拥有的所有永久物洗入其牌库，然后各抓等量的牌。每位牌手可以将任意数量的地牌从其手上放进战场。放逐伟大极光。</target>
+        <target state="translated">每位牌手将其所有手牌和由他拥有的所有永久物洗入其牌库，然后各抓等量的牌。每位牌手可以将任意数量的地牌从其手上放进战场。放逐CARDNAME。</target>
       </trans-unit>
       <trans-unit id="ffeca7a7-2a14-4166-9e89-0f4eb94b79f5" resname="ORI·180 | Herald of the Pantheon | Card Name">
         <source>Herald of the Pantheon</source>
@@ -1308,7 +1308,7 @@
       </trans-unit>
       <trans-unit id="1a08e5ab-1ff9-4470-ab28-fea19bb79845" resname="ORI·186 | Managorger Hydra | Card Text | Paragraph 2">
         <source>Whenever a player casts a spell, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">每当任一牌手施放咒语时，在吞魔多头龙上放置一个+1/+1指示物。</target>
+        <target state="translated">每当任一牌手施放咒语时，在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自MOC（2023-04-21）；</note>
       </trans-unit>
       <trans-unit id="3b09e36a-ad53-44ae-8586-2b658e3c533c" resname="ORI·187 | Mantle of Webs | Card Name">
@@ -1341,7 +1341,7 @@
       </trans-unit>
       <trans-unit id="1caad298-52cb-46f1-8212-fe657ab80159" resname="ORI·193 | Outland Colossus | Card Text | Paragraphs">
         <source>Renown 6 (When this creature deals combat damage to a player, if it isn't renowned, put six +1/+1 counters on it and it becomes renowned.)\nCARDNAME can't be blocked by more than one creature.</source>
-        <target state="translated">铭勇6（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置六个+1/+1指示物且它已铭勇。）离乡巨汉不能被多于一个生物阻挡。</target>
+        <target state="translated">铭勇6（当此生物对任一牌手造成战斗伤害时，若它未铭勇，则在其上放置六个+1/+1指示物且它已铭勇。）CARDNAME不能被多于一个生物阻挡。</target>
       </trans-unit>
       <trans-unit id="f0b3d8f7-6a41-49ba-b111-d34a345394c0" resname="ORI·194 | Pharika's Disciple | Card Name">
         <source>Pharika's Disciple</source>
@@ -1389,7 +1389,7 @@
       </trans-unit>
       <trans-unit id="873d901f-1425-4a0e-a820-015dcf4803f6" resname="ORI·202 | Undercity Troll | Card Text | Paragraph 2">
         <source>{2}{G}: Regenerate CARDNAME. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</source>
-        <target state="translated">{2}{G}：重生地底城巨魔。</target>
+        <target state="translated">{2}{G}：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自IMA（2017-11-17）；</note>
       </trans-unit>
       <trans-unit id="e693a7e7-d95e-4cd8-9524-ca5fc517189a" resname="ORI·203 | Valeron Wardens | Card Name">
@@ -1422,7 +1422,7 @@
       </trans-unit>
       <trans-unit id="a706d4bb-0b44-4e43-b340-7de799c086b8" resname="ORI·207 | Woodland Bellower | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may search your library for a nonlegendary green creature card with mana value 3 or less, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">当林地咆哮兽进战场时，你可以从你的牌库中搜寻一张总法术力费用等于或小于3且非传奇的绿色生物牌，将之放进战场，然后将你的牌库洗牌。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你的牌库中搜寻一张总法术力费用等于或小于3且非传奇的绿色生物牌，将之放进战场，然后将你的牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="f75c0783-936d-4fa2-bdcb-01dae7a67fdb" resname="ORI·209 | Zendikar's Roil | Card Name">
         <source>Zendikar's Roil</source>
@@ -1441,7 +1441,7 @@
       </trans-unit>
       <trans-unit id="332769b1-1eb5-4c77-8317-27addc28650b" resname="ORI·210 | Blazing Hellhound | Card Text | Paragraph 1">
         <source>{1}, Sacrifice another creature: CARDNAME deals 1 damage to any target.</source>
-        <target state="translated">{1}，牺牲另一个生物：炽焰地狱犬对任意一个目标造成1点伤害。</target>
+        <target state="translated">{1}，牺牲另一个生物：CARDNAME对任意一个目标造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自2X2（2022-07-08）；</note>
       </trans-unit>
       <trans-unit id="644bb558-113e-4e49-a395-7e0036c3419c" resname="ORI·211 | Blood-Cursed Knight | Card Name">
@@ -1450,7 +1450,7 @@
       </trans-unit>
       <trans-unit id="644bb558-113e-4e49-a395-7e0036c3419c" resname="ORI·211 | Blood-Cursed Knight | Card Text | Paragraph 1">
         <source>As long as you control an enchantment, CARDNAME gets +1/+1 and has lifelink. (Damage dealt by this creature also causes you to gain that much life.)</source>
-        <target state="translated">只要你操控结界，血诅骑士便得+1/+1且具有系命异能。（此生物所造成的伤害会让你获得等量的生命。）</target>
+        <target state="translated">只要你操控结界，CARDNAME便得+1/+1且具有系命异能。（此生物所造成的伤害会让你获得等量的生命。）</target>
       </trans-unit>
       <trans-unit id="660befe5-9c98-4aa3-9ca7-e643eaf91490" resname="ORI·212 | Bounding Krasis | Card Name">
         <source>Bounding Krasis</source>
@@ -1458,7 +1458,7 @@
       </trans-unit>
       <trans-unit id="660befe5-9c98-4aa3-9ca7-e643eaf91490" resname="ORI·212 | Bounding Krasis | Card Text | Paragraphs">
         <source>Flash (You may cast this spell any time you could cast an instant.)\nWhen CARDNAME enters the battlefield, you may tap or untap target creature.</source>
-        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）当弹跃融合体进战场时，你可以横置或重置目标生物。</target>
+        <target state="translated">闪现（你可以于你能够施放瞬间的时机下施放此咒语。）当CARDNAME进战场时，你可以横置或重置目标生物。</target>
       </trans-unit>
       <trans-unit id="9aa11f30-f2b7-4279-9176-c336c74538bf" resname="ORI·213 | Citadel Castellan | Card Name">
         <source>Citadel Castellan</source>
@@ -1482,7 +1482,7 @@
       </trans-unit>
       <trans-unit id="6ebc94e5-a595-43ab-929b-426009190669" resname="ORI·215 | Possessed Skaab | Card Text | Paragraphs">
         <source>When CARDNAME enters the battlefield, return target instant, sorcery, or creature card from your graveyard to your hand.\nIf CARDNAME would die, exile it instead.</source>
-        <target state="translated">当着魔尸嵌进战场时，将目标瞬间，法术或生物牌从你的坟墓场移回你手上。如果着魔尸嵌将死去，则改为将它放逐。</target>
+        <target state="translated">当CARDNAME进战场时，将目标瞬间，法术或生物牌从你的坟墓场移回你手上。如果CARDNAME将死去，则改为将它放逐。</target>
       </trans-unit>
       <trans-unit id="5299a549-06cf-47e8-b6cd-7e44d9f1efb8" resname="ORI·216 | Reclusive Artificer | Card Name">
         <source>Reclusive Artificer</source>
@@ -1490,7 +1490,7 @@
       </trans-unit>
       <trans-unit id="5299a549-06cf-47e8-b6cd-7e44d9f1efb8" resname="ORI·216 | Reclusive Artificer | Card Text | Paragraphs">
         <source>Haste (This creature can attack and {T} as soon as it comes under your control.)\nWhen CARDNAME enters the battlefield, you may have it deal damage to target creature equal to the number of artifacts you control.</source>
-        <target state="translated">敏捷（此生物受你操控时便能攻击与{T}。）当隐居神器师进战场时，你可以令它对目标生物造成伤害，其数量等同于由你操控的神器数量。</target>
+        <target state="translated">敏捷（此生物受你操控时便能攻击与{T}。）当CARDNAME进战场时，你可以令它对目标生物造成伤害，其数量等同于由你操控的神器数量。</target>
       </trans-unit>
       <trans-unit id="304687b1-2294-4144-b2bd-7e36f9aaac34" resname="ORI·217 | Shaman of the Pack | Card Name">
         <source>Shaman of the Pack</source>
@@ -1499,7 +1499,7 @@
       </trans-unit>
       <trans-unit id="304687b1-2294-4144-b2bd-7e36f9aaac34" resname="ORI·217 | Shaman of the Pack | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, target opponent loses life equal to the number of Elves you control.</source>
-        <target state="translated">当猎群祭师进战场时，目标对手失去等同于由你操控之妖精数量的生命。</target>
+        <target state="translated">当CARDNAME进战场时，目标对手失去等同于由你操控之妖精数量的生命。</target>
         <note xmlns:from="developer">中文数据来自KHC（2021-02-05）；</note>
       </trans-unit>
       <trans-unit id="dd20971a-11aa-452b-8507-0f48229062a0" resname="ORI·218 | Thunderclap Wyvern | Card Name">
@@ -1528,7 +1528,7 @@
       </trans-unit>
       <trans-unit id="eb12b1d8-c53e-4d48-89e5-2168ff34a853" resname="ORI·219 | Zendikar Incarnate | Card Text | Paragraph 1">
         <source>CARDNAME's power is equal to the number of lands you control.</source>
-        <target state="translated">赞迪卡化身的力量等同于由你操控的地数量。</target>
+        <target state="translated">CARDNAME的力量等同于由你操控的地数量。</target>
       </trans-unit>
       <trans-unit id="251f89c5-d4da-4754-83fa-218c8864ef41" resname="ORI·220 | Alchemist's Vial | Card Name">
         <source>Alchemist's Vial</source>
@@ -1537,12 +1537,12 @@
       </trans-unit>
       <trans-unit id="251f89c5-d4da-4754-83fa-218c8864ef41" resname="ORI·220 | Alchemist's Vial | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当炼金术士药瓶进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="251f89c5-d4da-4754-83fa-218c8864ef41" resname="ORI·220 | Alchemist's Vial | Card Text | Paragraph 2">
         <source>{1}, {T}, Sacrifice CARDNAME: Target creature can't attack or block this turn.</source>
-        <target state="translated">{1}，{T}，牺牲炼金术士药瓶：目标生物本回合不能进行攻击或阻挡。</target>
+        <target state="translated">{1}，{T}，牺牲CARDNAME：目标生物本回合不能进行攻击或阻挡。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="70afb856-6697-411b-b1aa-e9290a0bfd68" resname="ORI·221 | Alhammarret's Archive | Card Name">
@@ -1566,7 +1566,7 @@
       </trans-unit>
       <trans-unit id="43361897-f853-4cab-a132-5af48dad3b54" resname="ORI·223 | Bonded Construct | Card Text | Paragraph 1">
         <source>CARDNAME can't attack alone.</source>
-        <target state="translated">奉从组构体不能单独进行攻击。</target>
+        <target state="translated">CARDNAME不能单独进行攻击。</target>
       </trans-unit>
       <trans-unit id="f2c65947-bc1d-4f47-b60b-2f76ab5ebde9" resname="ORI·225 | Chief of the Foundry | Card Name">
         <source>Chief of the Foundry</source>
@@ -1584,7 +1584,7 @@
       </trans-unit>
       <trans-unit id="7e8916b7-f5e4-4fae-8db8-9859d69212ec" resname="ORI·227 | Guardian Automaton | Card Text | Paragraph 1">
         <source>When CARDNAME dies, you gain 3 life.</source>
-        <target state="translated">当守护机械兽死去时，你获得3点生命。</target>
+        <target state="translated">当CARDNAME死去时，你获得3点生命。</target>
       </trans-unit>
       <trans-unit id="791c21fb-fc78-4106-9a42-abc73f41ab8b" resname="ORI·229 | Hangarback Walker | Card Name">
         <source>Hangarback Walker</source>
@@ -1593,17 +1593,17 @@
       </trans-unit>
       <trans-unit id="791c21fb-fc78-4106-9a42-abc73f41ab8b" resname="ORI·229 | Hangarback Walker | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">行走机库进战场时上面有X个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="791c21fb-fc78-4106-9a42-abc73f41ab8b" resname="ORI·229 | Hangarback Walker | Card Text | Paragraph 2">
         <source>When CARDNAME dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on CARDNAME.</source>
-        <target state="translated">当行走机库死去时，其上每有一个+1/+1指示物，便派出一个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
+        <target state="translated">当CARDNAME死去时，其上每有一个+1/+1指示物，便派出一个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="791c21fb-fc78-4106-9a42-abc73f41ab8b" resname="ORI·229 | Hangarback Walker | Card Text | Paragraph 3">
         <source>{1}, {T}: Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{1}，{T}：在行走机库上放置一个+1/+1指示物。</target>
+        <target state="translated">{1}，{T}：在CARDNAME上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">中文数据来自J22（2022-12-02）；</note>
       </trans-unit>
       <trans-unit id="1ba006c8-0ffc-4e68-9a55-c7b842d3add9" resname="ORI·230 | Helm of the Gods | Card Name">
@@ -1620,7 +1620,7 @@
       </trans-unit>
       <trans-unit id="7c60473d-5065-4e63-bfc2-a041a8ca48ed" resname="ORI·232 | Mage-Ring Responder | Card Text | Paragraphs">
         <source>CARDNAME doesn't untap during your untap step.\n{7}: Untap CARDNAME.\nWhenever CARDNAME attacks, it deals 7 damage to target creature defending player controls.</source>
-        <target state="translated">法师环塔守卫于你的重置步骤中不能重置。{7}：重置法师环塔守卫。每当法师环塔守卫攻击时，它对目标由防御牌手操控的生物造成7点伤害。</target>
+        <target state="translated">CARDNAME于你的重置步骤中不能重置。{7}：重置CARDNAME。每当CARDNAME攻击时，它对目标由防御牌手操控的生物造成7点伤害。</target>
       </trans-unit>
       <trans-unit id="c33ba4e5-217f-47e3-a6ce-f935a70c7566" resname="ORI·234 | Orbs of Warding | Card Name">
         <source>Orbs of Warding</source>
@@ -1636,7 +1636,7 @@
       </trans-unit>
       <trans-unit id="403f99de-493a-4f0f-81e4-fcd29d6e9340" resname="ORI·235 | Prism Ring | Card Text | Paragraphs">
         <source>As CARDNAME enters the battlefield, choose a color.\nWhenever you cast a spell of the chosen color, you gain 1 life.</source>
-        <target state="translated">于光楔戒指进战场时，选择一种颜色。每当你施放该色的咒语时，你获得1点生命。</target>
+        <target state="translated">于CARDNAME进战场时，选择一种颜色。每当你施放该色的咒语时，你获得1点生命。</target>
       </trans-unit>
       <trans-unit id="1163ce9f-cf22-422e-a4b5-0240b88e2816" resname="ORI·236 | Pyromancer's Goggles | Card Name">
         <source>Pyromancer's Goggles</source>
@@ -1654,7 +1654,7 @@
       </trans-unit>
       <trans-unit id="07f7ba4d-26bb-4631-a135-f27d94f376d1" resname="ORI·237 | Ramroller | Card Text | Paragraphs">
         <source>CARDNAME attacks each combat if able.\nCARDNAME gets +2/+0 as long as you control another artifact.</source>
-        <target state="translated">冲城车每回合若能攻击，则必须攻击。只要你操控另一个神器，冲城车便得+2/+0。</target>
+        <target state="translated">CARDNAME每回合若能攻击，则必须攻击。只要你操控另一个神器，CARDNAME便得+2/+0。</target>
       </trans-unit>
       <trans-unit id="f134f242-cbb5-4a3d-bfd4-46e8b8669b4b" resname="ORI·239 | Sigil of Valor | Card Name">
         <source>Sigil of Valor</source>
@@ -1697,7 +1697,7 @@
       </trans-unit>
       <trans-unit id="5dfce9be-67a2-4e8a-a71f-e88f64067691" resname="ORI·241 | Throwing Knife | Card Text | Paragraphs">
         <source>Equipped creature gets +2/+0.\nWhenever equipped creature attacks, you may sacrifice CARDNAME. If you do, CARDNAME deals 2 damage to any target.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</source>
-        <target state="translated">佩带此武具的生物得+2/+0。每当佩带此武具的生物攻击时，你可以牺牲飞刀。若你如此作，则飞刀对目标生物或牌手造成2点伤害。佩带{2}（{2}：装备在目标由你操控的生物上。佩带的时机视同法术。）</target>
+        <target state="translated">佩带此武具的生物得+2/+0。每当佩带此武具的生物攻击时，你可以牺牲CARDNAME。若你如此作，则CARDNAME对目标生物或牌手造成2点伤害。佩带{2}（{2}：装备在目标由你操控的生物上。佩带的时机视同法术。）</target>
       </trans-unit>
       <trans-unit id="9c1b3e7d-0fd8-4324-be7b-382e75ae9c17" resname="ORI·242 | Veteran's Sidearm | Card Name">
         <source>Veteran's Sidearm</source>
@@ -1721,7 +1721,7 @@
       </trans-unit>
       <trans-unit id="73f29e03-0a71-46cd-992e-7baa61f16ac5" resname="ORI·247 | Foundry of the Consuls | Card Text | Paragraphs">
         <source>{T}: Add {C}.\n{5}, {T}, Sacrifice CARDNAME: Create two 1/1 colorless Thopter artifact creature tokens with flying.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。{5}，{T}，牺牲执政官铸造厂：将两个1/1无色，具飞行异能的振翼机衍生神器生物放进战场。</target>
+        <target state="translated">{T}：加{1}到你的法术力池中。{5}，{T}，牺牲CARDNAME：将两个1/1无色，具飞行异能的振翼机衍生神器生物放进战场。</target>
       </trans-unit>
       <trans-unit id="4988180b-a374-43fd-b299-fb61c781df2e" resname="ORI·249 | Mage-Ring Network | Card Name">
         <source>Mage-Ring Network</source>
@@ -1735,12 +1735,12 @@
       </trans-unit>
       <trans-unit id="4988180b-a374-43fd-b299-fb61c781df2e" resname="ORI·249 | Mage-Ring Network | Card Text | Paragraph 2">
         <source>{1}, {T}: Put a storage counter on CARDNAME.</source>
-        <target state="translated">{1}，{T}：在法师环塔魔力网上放置一个储藏指示物。</target>
+        <target state="translated">{1}，{T}：在CARDNAME上放置一个储藏指示物。</target>
         <note xmlns:from="developer">中文数据来自C21（2021-04-23）；</note>
       </trans-unit>
       <trans-unit id="4988180b-a374-43fd-b299-fb61c781df2e" resname="ORI·249 | Mage-Ring Network | Card Text | Paragraph 3">
         <source>{T}, Remove any number of storage counters from CARDNAME: Add {C} for each storage counter removed this way.</source>
-        <target state="translated">{T}，从法师环塔魔力网上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加{C}。</target>
+        <target state="translated">{T}，从CARDNAME上移去任意数量的储藏指示物：每以此法移去一个储藏指示物，便加{C}。</target>
         <note xmlns:from="developer">中文数据来自C21（2021-04-23）；</note>
       </trans-unit>
     </body>

@@ -9,7 +9,7 @@
       </trans-unit>
       <trans-unit id="249cfc69-062a-43d4-9f09-7a8ba976f899" resname="PS15·23 | Kytheon, Hero of Akros | Card Text | Paragraphs">
         <source>At end of combat, if CARDNAME and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.\n{2}{W}: Kytheon gains indestructible until end of turn.</source>
-        <target state="translated">在战斗结束时，若阿喀洛斯英雄库忒昂和至少两个其他生物在本次战斗中攻击过，则放逐库忒昂，然后将他在其拥有者的操控下移回战场且已转化。{2}{W}：库忒昂获得不灭异能直到回合结束。</target>
+        <target state="translated">在战斗结束时，若CARDNAME和至少两个其他生物在本次战斗中攻击过，则放逐库忒昂，然后将他在其拥有者的操控下移回战场且已转化。{2}{W}：库忒昂获得不灭异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="249cfc69-062a-43d4-9f09-7a8ba976f899" resname="PS15·23 | Gideon, Battle-Forged | Card Name">
@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="249cfc69-062a-43d4-9f09-7a8ba976f899" resname="PS15·23 | Gideon, Battle-Forged | Card Text | Paragraphs">
         <source>[+2]: Up to one target creature an opponent controls attacks CARDNAME during its controller's next turn if able.\n[+1]: Until your next turn, target creature gains indestructible. Untap that creature.\n[0]: Until end of turn, CARDNAME becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.</source>
-        <target state="translated">+2：至多一个目标由对手操控的生物于其操控者的下一个回合中若能攻击百战基定，则须如此作。+1：直到你的下一个回合，目标生物获得不灭异能。重置该生物。0：直到回合结束，百战基定成为4/4，具不灭异能的人类／士兵生物，且仍是鹏洛客。防止本回合中将对他造成的所有伤害。</target>
+        <target state="translated">+2：至多一个目标由对手操控的生物于其操控者的下一个回合中若能攻击CARDNAME，则须如此作。+1：直到你的下一个回合，目标生物获得不灭异能。重置该生物。0：直到回合结束，CARDNAME成为4/4，具不灭异能的人类／士兵生物，且仍是鹏洛客。防止本回合中将对他造成的所有伤害。</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="e7b5705f-dc56-41af-a781-8a41aaa7c5b8" resname="PS15·60 | Jace, Vryn's Prodigy | Card Name">
@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id="e7b5705f-dc56-41af-a781-8a41aaa7c5b8" resname="PS15·60 | Jace, Vryn's Prodigy | Card Text | Paragraph 1">
         <source>{T}: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile CARDNAME, then return him to the battlefield transformed under his owner's control.</source>
-        <target state="translated">{T}：抓一张牌，然后弃一张牌。如果你的坟墓场中有五张或更多牌，则放逐维林逸才杰斯，然后将他在其拥有者的操控下移回战场且已转化。</target>
+        <target state="translated">{T}：抓一张牌，然后弃一张牌。如果你的坟墓场中有五张或更多牌，则放逐CARDNAME，然后将他在其拥有者的操控下移回战场且已转化。</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="e7b5705f-dc56-41af-a781-8a41aaa7c5b8" resname="PS15·60 | Jace, Telepath Unbound | Card Name">
@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="d93a27d8-26cf-410b-a8a9-707239134951" resname="PS15·106 | Liliana, Heretical Healer | Card Text | Paragraphs">
         <source>Lifelink\nWhenever another nontoken creature you control dies, exile CARDNAME, then return her to the battlefield transformed under her owner's control. If you do, create a 2/2 black Zombie creature token.</source>
-        <target state="translated">系命每当另一个由你操控且非衍生物的生物死去时，放逐异端治疗师莉莲娜，然后将她在其拥有者的操控下移回战场且已转化。若你如此作，则将一个2/2黑色灵俑衍生生物放进战场。</target>
+        <target state="translated">系命每当另一个由你操控且非衍生物的生物死去时，放逐CARDNAME，然后将她在其拥有者的操控下移回战场且已转化。若你如此作，则将一个2/2黑色灵俑衍生生物放进战场。</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="d93a27d8-26cf-410b-a8a9-707239134951" resname="PS15·106 | Liliana, Defiant Necromancer | Card Name">
@@ -69,7 +69,7 @@
       </trans-unit>
       <trans-unit id="2b567975-53b5-4716-831d-e65612285d51" resname="PS15·135 | Chandra, Fire of Kaladesh | Card Text | Paragraphs">
         <source>Whenever you cast a red spell, untap CARDNAME.\n{T}: CARDNAME deals 1 damage to target player or planeswalker. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.</source>
-        <target state="translated">每当你施放红色咒语时，重置卡拉德许之火茜卓。{T}：卡拉德许之火茜卓对目标牌手造成1点伤害。如果茜卓本回合已造成3点或更多伤害，则放逐她，然后将她在其拥有者的操控下移回战场且已转化。</target>
+        <target state="translated">每当你施放红色咒语时，重置CARDNAME。{T}：CARDNAME对目标牌手造成1点伤害。如果茜卓本回合已造成3点或更多伤害，则放逐她，然后将她在其拥有者的操控下移回战场且已转化。</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="2b567975-53b5-4716-831d-e65612285d51" resname="PS15·135 | Chandra, Roaring Flame | Card Name">
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="2b567975-53b5-4716-831d-e65612285d51" resname="PS15·135 | Chandra, Roaring Flame | Card Text | Paragraphs">
         <source>[+1]: CARDNAME deals 2 damage to target player or planeswalker.\n[−2]: CARDNAME deals 2 damage to target creature.\n[−7]: CARDNAME deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with &amp;quot;At the beginning of your upkeep, this emblem deals 3 damage to you.&amp;quot;</source>
-        <target state="translated">+1：咆哮烈焰茜卓对目标牌手造成2点伤害。−2：咆哮烈焰茜卓对目标生物造成2点伤害。−7：咆哮烈焰茜卓向每位对手各造成6点伤害。以此法受到伤害的每位牌手均获得具有「在你的维持开始时，此徽记对你造成3点伤害」的徽记。</target>
+        <target state="translated">+1：CARDNAME对目标牌手造成2点伤害。−2：CARDNAME对目标生物造成2点伤害。−7：CARDNAME向每位对手各造成6点伤害。以此法受到伤害的每位牌手均获得具有「在你的维持开始时，此徽记对你造成3点伤害」的徽记。</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="008b1ea5-1a8d-4a9d-b208-421fea2f9c58" resname="PS15·189 | Nissa, Vastwood Seer | Card Name">
@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="008b1ea5-1a8d-4a9d-b208-421fea2f9c58" resname="PS15·189 | Nissa, Vastwood Seer | Card Text | Paragraphs">
         <source>When CARDNAME enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle.\nWhenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.</source>
-        <target state="translated">当广林预言师妮莎进战场时，你可以从你牌库中搜寻一张基本的树林牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。每当一个地在你的操控下进战场时，若你操控七个或更多地，则放逐妮莎，然后将她在其拥有者的操控下移回战场且已转化。</target>
+        <target state="translated">当CARDNAME进战场时，你可以从你牌库中搜寻一张基本的树林牌，展示该牌，将它置于你手上，然后将你的牌库洗牌。每当一个地在你的操控下进战场时，若你操控七个或更多地，则放逐妮莎，然后将她在其拥有者的操控下移回战场且已转化。</target>
         <note xmlns:from="developer">中文数据来自ORI（2015-07-17）；</note>
       </trans-unit>
       <trans-unit id="008b1ea5-1a8d-4a9d-b208-421fea2f9c58" resname="PS15·189 | Nissa, Sage Animist | Card Name">

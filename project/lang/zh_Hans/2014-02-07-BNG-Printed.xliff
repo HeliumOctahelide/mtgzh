@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="cd8980af-c3fa-4027-917a-4a3d441c0a75" resname="BNG·1 | Acolyte's Reward | Card Text | Paragraph 1">
         <source>Prevent the next X damage that would be dealt to target creature this turn, where X is your devotion to white. If damage is prevented this way, CARDNAME deals that much damage to target creature or player. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</source>
-        <target state="translated">于本回合中，防止接下来将对目标生物造成的X点伤害，X为你的白色献力。如果以此法防止伤害，则侍僧的报偿对目标生物或牌手造成等量的伤害。（由你操控之永久物的法术力费用当中每含有一个{W}，你的白色献力就加一。）</target>
+        <target state="translated">于本回合中，防止接下来将对目标生物造成的X点伤害，X为你的白色献力。如果以此法防止伤害，则CARDNAME对目标生物或牌手造成等量的伤害。（由你操控之永久物的法术力费用当中每含有一个{W}，你的白色献力就加一。）</target>
       </trans-unit>
       <trans-unit id="fe23019a-e432-4a27-8acb-b17728a1e8b0" resname="BNG·2 | Akroan Phalanx | Card Name">
         <source>Akroan Phalanx</source>
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="d55e85c3-234e-49c4-a307-96fb4497eea8" resname="BNG·3 | Akroan Skyguard | Card Text | Paragraph 2">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">勇行～每当你施放一个以阿喀洛斯空护卫为目标的咒语时，在阿喀洛斯空护卫上放置一个+1/+1指示物。</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="8e6c4afb-6a94-4519-91c6-9824fed2892c" resname="BNG·4 | Archetype of Courage | Card Name">
         <source>Archetype of Courage</source>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="f54eb705-6326-4bac-bf0e-68d42db7a270" resname="BNG·5 | Brimaz, King of Oreskos | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield attacking.</source>
-        <target state="translated">每当俄瑞恣狮王布黎玛攻击时，将一个1/1白色，具警戒异能的猫／士兵衍生生物放进战场且正进行攻击。</target>
+        <target state="translated">每当CARDNAME攻击时，将一个1/1白色，具警戒异能的猫／士兵衍生生物放进战场且正进行攻击。</target>
       </trans-unit>
       <trans-unit id="f54eb705-6326-4bac-bf0e-68d42db7a270" resname="BNG·5 | Brimaz, King of Oreskos | Card Text | Paragraph 3">
         <source>Whenever Brimaz blocks a creature, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield blocking that creature.</source>
@@ -80,7 +80,7 @@
       </trans-unit>
       <trans-unit id="4d16283b-b5bb-48e8-8c97-db5ad74fd544" resname="BNG·7 | Eidolon of Countless Battles | Card Text | Paragraph 2">
         <source>CARDNAME and enchanted creature each get +1/+1 for each creature you control and +1/+1 for each Aura you control.</source>
-        <target state="translated">对百战幻灵与所结附的生物而言，你每操控一个生物，它们便各得+1/+1，且你每操控一个灵气，它们便各得+1/+1。</target>
+        <target state="translated">对CARDNAME与所结附的生物而言，你每操控一个生物，它们便各得+1/+1，且你每操控一个灵气，它们便各得+1/+1。</target>
       </trans-unit>
       <trans-unit id="982eed00-e9fe-4d0f-a2b7-9606aa7926a1" resname="BNG·8 | Elite Skirmisher | Card Name">
         <source>Elite Skirmisher</source>
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="982eed00-e9fe-4d0f-a2b7-9606aa7926a1" resname="BNG·8 | Elite Skirmisher | Card Text | Paragraph 1">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, you may tap target creature.</source>
-        <target state="translated">勇行～每当你施放一个以精英侦卫为目标的咒语时，你可以橫置目标生物。</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，你可以橫置目标生物。</target>
       </trans-unit>
       <trans-unit id="e0741582-0c7b-4d5b-83a9-dd8862de1f24" resname="BNG·9 | Ephara's Radiance | Card Name">
         <source>Ephara's Radiance</source>
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="984c2db0-5a79-47b8-8a42-5674c6d9d0fd" resname="BNG·14 | God-Favored General | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, you may pay {2}{W}. If you do, put two 1/1 white Soldier enchantment creature tokens onto the battlefield.</source>
-        <target state="translated">启悟～每当神泽将领成为未横置时，你可以支付{2}{W}。若你如此作，将两个1/1白色士兵衍生结界生物放进战场。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，你可以支付{2}{W}。若你如此作，将两个1/1白色士兵衍生结界生物放进战场。</target>
       </trans-unit>
       <trans-unit id="70cd7d2b-e9c4-4900-89a0-f6eb0c6cb22b" resname="BNG·15 | Great Hart | Card Name">
         <source>Great Hart</source>
@@ -164,7 +164,7 @@
       </trans-unit>
       <trans-unit id="b569fadd-d9ca-4b0d-bee2-9d45574e56f0" resname="BNG·16 | Griffin Dreamfinder | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, return target enchantment card from your graveyard to your hand.</source>
-        <target state="translated">当觅梦狮鹫进战场时，将目标结界牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标结界牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="7917f2ee-f093-4ffb-83ed-a181b14b5957" resname="BNG·17 | Hero of Iroas | Card Name">
         <source>Hero of Iroas</source>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="7917f2ee-f093-4ffb-83ed-a181b14b5957" resname="BNG·17 | Hero of Iroas | Card Text | Paragraph 2">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">勇行～每当你施放一个以伊洛安斯的英雄为目标的咒语时，在伊洛安斯的英雄上放置一个+1/+1指示物。</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="ffeb407d-6a42-488a-9869-83da3047e45d" resname="BNG·18 | Hold at Bay | Card Name">
         <source>Hold at Bay</source>
@@ -196,7 +196,7 @@
       </trans-unit>
       <trans-unit id="e6b29f36-e84d-402e-9ab7-935fd2e7532d" resname="BNG·19 | Loyal Pegasus | Card Text | Paragraph 2">
         <source>CARDNAME can't attack or block alone.</source>
-        <target state="translated">忠诚飞马不能单独进行攻击或阻挡。</target>
+        <target state="translated">CARDNAME不能单独进行攻击或阻挡。</target>
       </trans-unit>
       <trans-unit id="9e29f95c-aeed-4cb6-a43b-2748a5dd6138" resname="BNG·20 | Mortal's Ardor | Card Name">
         <source>Mortal's Ardor</source>
@@ -224,7 +224,7 @@
       </trans-unit>
       <trans-unit id="064435e7-20ea-4ba4-b039-a945afeeb5c6" resname="BNG·22 | Oreskos Sun Guide | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, you gain 2 life.</source>
-        <target state="translated">启悟～每当俄瑞恣太阳向导成为未横置时，你获得2点生命。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，你获得2点生命。</target>
       </trans-unit>
       <trans-unit id="f95a0bf4-10c7-4afa-8cf6-e31196cc2bd5" resname="BNG·23 | Ornitharch | Card Name">
         <source>Ornitharch</source>
@@ -240,7 +240,7 @@
       </trans-unit>
       <trans-unit id="f95a0bf4-10c7-4afa-8cf6-e31196cc2bd5" resname="BNG·23 | Ornitharch | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, put two 1/1 white Bird creature tokens with flying onto the battlefield.</source>
-        <target state="translated">当百鸟统领进战场时，若未支付其致敬费用，则将两个1/1白色，具飞行异能的鸟衍生生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，则将两个1/1白色，具飞行异能的鸟衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="1d1d6d76-f399-475a-b5cd-544bd7c6d967" resname="BNG·24 | Plea for Guidance | Card Name">
         <source>Plea for Guidance</source>
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="177ece7c-b979-4a31-ba5f-6a8a382f2862" resname="BNG·26 | Silent Sentinel | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, you may return target enchantment card from your graveyard to the battlefield.</source>
-        <target state="translated">每当沉静哨卫攻击时，你可以将目标结界牌从你的坟墓场移回战场。</target>
+        <target state="translated">每当CARDNAME攻击时，你可以将目标结界牌从你的坟墓场移回战场。</target>
       </trans-unit>
       <trans-unit id="f44e5128-e146-4e46-b313-a40d82719d1d" resname="BNG·27 | Spirit of the Labyrinth | Card Name">
         <source>Spirit of the Labyrinth</source>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit id="adb38717-97d5-4763-9e6c-46251df704ed" resname="BNG·29 | Vanguard of Brimaz | Card Text | Paragraph 2">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield.</source>
-        <target state="translated">勇行～每当你施放一个以布黎玛先锋为目标的咒语时，将一个1/1白色，具警戒异能的猫／士兵衍生生物放进战场。</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，将一个1/1白色，具警戒异能的猫／士兵衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="06c8b3b9-f0fb-4cc1-8916-82ee2c74f089" resname="BNG·30 | Aerie Worshippers | Card Name">
         <source>Aerie Worshippers</source>
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="06c8b3b9-f0fb-4cc1-8916-82ee2c74f089" resname="BNG·30 | Aerie Worshippers | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, you may pay {2}{U}. If you do, put a 2/2 blue Bird enchantment creature token with flying onto the battlefield.</source>
-        <target state="translated">启悟～每当巢居朝拜者成为未横置时，你可以支付{2}{U}。若你如此作，则将一个2/2蓝色，具飞行异能的鸟衍生结界生物放进战场。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，你可以支付{2}{U}。若你如此作，则将一个2/2蓝色，具飞行异能的鸟衍生结界生物放进战场。</target>
       </trans-unit>
       <trans-unit id="32e58ba3-4202-4f91-b27f-7528d27c1d5c" resname="BNG·31 | Arbiter of the Ideal | Card Name">
         <source>Arbiter of the Ideal</source>
@@ -320,7 +320,7 @@
       </trans-unit>
       <trans-unit id="32e58ba3-4202-4f91-b27f-7528d27c1d5c" resname="BNG·31 | Arbiter of the Ideal | Card Text | Paragraph 2">
         <source>Inspired — Whenever CARDNAME becomes untapped, reveal the top card of your library. If it's an artifact, creature, or land card, you may put it onto the battlefield with a manifestation counter on it. That permanent is an enchantment in addition to its other types.</source>
-        <target state="translated">启悟～每当理念仲裁者成为未横置时，展示你的牌库顶牌。如果它是神器、生物或地牌，你可以将之放进战场且上面有一个具现指示物。该永久物额外具有「结界」此类别。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，展示你的牌库顶牌。如果它是神器、生物或地牌，你可以将之放进战场且上面有一个具现指示物。该永久物额外具有「结界」此类别。</target>
       </trans-unit>
       <trans-unit id="3de0f770-b62b-4a9d-bea7-6bb7bc2020ad" resname="BNG·32 | Archetype of Imagination | Card Name">
         <source>Archetype of Imagination</source>
@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="6e576f7a-0390-4514-aaed-20406fe6acdf" resname="BNG·33 | Chorus of the Tides | Card Text | Paragraph 2">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)</source>
-        <target state="translated">勇行～每当你施放一个以浪潮韵集为目标的咒语时，占卜1。（占卜1的流程是检视你牌库顶的牌，然后你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，占卜1。（占卜1的流程是检视你牌库顶的牌，然后你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="bd445b01-34af-4132-a9fe-a03858624492" resname="BNG·34 | Crypsis | Card Name">
         <source>Crypsis</source>
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="4ab7c6a7-8214-4644-8f2e-ec74d2aff27e" resname="BNG·35 | Deepwater Hypnotist | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, target creature an opponent controls gets -3/-0 until end of turn.</source>
-        <target state="translated">启悟～每当深海催眠师成为未横置时，目标由对手操控的生物得-3/-0直到回合结束。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，目标由对手操控的生物得-3/-0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="65b9964e-cfe0-4400-b903-3f590889f88d" resname="BNG·36 | Divination | Card Name">
         <source>Divination</source>
@@ -380,7 +380,7 @@
       </trans-unit>
       <trans-unit id="fa167147-68ca-49af-98d3-538474ea1158" resname="BNG·37 | Eternity Snare | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当恒久绊索进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="fa167147-68ca-49af-98d3-538474ea1158" resname="BNG·37 | Eternity Snare | Card Text | Paragraph 3">
         <source>Enchanted creature doesn't untap during its controller's untap step.</source>
@@ -416,7 +416,7 @@
       </trans-unit>
       <trans-unit id="9a79cee0-6023-42bc-a934-69b99fd5fb02" resname="BNG·40 | Flitterstep Eidolon | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked.</source>
-        <target state="translated">迅步幻灵不能被阻挡。</target>
+        <target state="translated">CARDNAME不能被阻挡。</target>
       </trans-unit>
       <trans-unit id="9a79cee0-6023-42bc-a934-69b99fd5fb02" resname="BNG·40 | Flitterstep Eidolon | Card Text | Paragraph 3">
         <source>Enchanted creature gets +1/+1 and can't be blocked.</source>
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="7a2a4b24-096a-4d36-a872-73fa4552bb35" resname="BNG·41 | Floodtide Serpent | Card Text | Paragraph 1">
         <source>CARDNAME can't attack unless you return an enchantment you control to its owner's hand. (This cost is paid as attackers are declared.)</source>
-        <target state="translated">除非你将一个由你操控的结界移回其拥有者手上，否则潮汛巨蛇不能攻击。（于宣告攻击者时支付此费用。）</target>
+        <target state="translated">除非你将一个由你操控的结界移回其拥有者手上，否则CARDNAME不能攻击。（于宣告攻击者时支付此费用。）</target>
       </trans-unit>
       <trans-unit id="12ae69b3-afa5-4763-a0c8-c3d9d96f6ddc" resname="BNG·42 | Kraken of the Straits | Card Name">
         <source>Kraken of the Straits</source>
@@ -436,7 +436,7 @@
       </trans-unit>
       <trans-unit id="12ae69b3-afa5-4763-a0c8-c3d9d96f6ddc" resname="BNG·42 | Kraken of the Straits | Card Text | Paragraph 1">
         <source>Creatures with power less than the number of Islands you control can't block CARDNAME.</source>
-        <target state="translated">力量小于由你操控之海岛数量的生物不能阻挡海峡巨海兽。</target>
+        <target state="translated">力量小于由你操控之海岛数量的生物不能阻挡CARDNAME。</target>
       </trans-unit>
       <trans-unit id="af9adca9-3e69-474f-896d-bb05b1d67252" resname="BNG·43 | Meletis Astronomer | Card Name">
         <source>Meletis Astronomer</source>
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="af9adca9-3e69-474f-896d-bb05b1d67252" resname="BNG·43 | Meletis Astronomer | Card Text | Paragraph 1">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, look at the top three cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</source>
-        <target state="translated">勇行～每当你施放一个以迈勒提斯占星家为目标的咒语时，检视你牌库顶的三张牌。你可以展示其中的一张结界牌，并将其置于你手上。将其余的牌以任意顺序置于你牌库底。</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，检视你牌库顶的三张牌。你可以展示其中的一张结界牌，并将其置于你手上。将其余的牌以任意顺序置于你牌库底。</target>
       </trans-unit>
       <trans-unit id="87912ae7-3edc-4ea2-9b4b-caf2bc149ad1" resname="BNG·44 | Mindreaver | Card Name">
         <source>Mindreaver</source>
@@ -452,11 +452,11 @@
       </trans-unit>
       <trans-unit id="87912ae7-3edc-4ea2-9b4b-caf2bc149ad1" resname="BNG·44 | Mindreaver | Card Text | Paragraph 1">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, exile the top three cards of target player's library.</source>
-        <target state="translated">勇行～每当你施放一个以裂灵师为目标的咒语时，放逐目标牌手牌库顶的三张牌。</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，放逐目标牌手牌库顶的三张牌。</target>
       </trans-unit>
       <trans-unit id="87912ae7-3edc-4ea2-9b4b-caf2bc149ad1" resname="BNG·44 | Mindreaver | Card Text | Paragraph 2">
         <source>{U}{U}, Sacrifice CARDNAME: Counter target spell with the same name as a card exiled with CARDNAME.</source>
-        <target state="translated">{U}{U}，牺牲裂灵师：反击目标咒语，且该咒语之名称须与以裂灵师放逐的某张牌相同。</target>
+        <target state="translated">{U}{U}，牺牲CARDNAME：反击目标咒语，且该咒语之名称须与以CARDNAME放逐的某张牌相同。</target>
       </trans-unit>
       <trans-unit id="a940d859-3fb1-4946-8277-b7c503605b1e" resname="BNG·45 | Nullify | Card Name">
         <source>Nullify</source>
@@ -496,7 +496,7 @@
       </trans-unit>
       <trans-unit id="f9cff40b-9cae-47d0-8df4-c287a17a33e4" resname="BNG·48 | Perplexing Chimera | Card Text | Paragraph 1">
         <source>Whenever an opponent casts a spell, you may exchange control of CARDNAME and that spell. If you do, you may choose new targets for the spell. (If the spell becomes a permanent, you control that permanent.)</source>
-        <target state="translated">每当任一对手施放咒语时，你可以交换扰志盖美拉与该咒语的操控权。若你如此作，你可以为该咒语选择新的目标。（如果该咒语成为永久物，则你操控该永久物。）</target>
+        <target state="translated">每当任一对手施放咒语时，你可以交换CARDNAME与该咒语的操控权。若你如此作，你可以为该咒语选择新的目标。（如果该咒语成为永久物，则你操控该永久物。）</target>
       </trans-unit>
       <trans-unit id="4fe8c0b9-fdf4-4fc0-aa7c-774546cdd792" resname="BNG·49 | Retraction Helix | Card Name">
         <source>Retraction Helix</source>
@@ -520,7 +520,7 @@
       </trans-unit>
       <trans-unit id="5ba93d9a-94cd-4d90-860a-f567793a5be4" resname="BNG·50 | Siren of the Fanged Coast | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, gain control of target creature.</source>
-        <target state="translated">当毒牙海岸塞连进战场时，若未支付其致敬费用，则获得目标生物的操控权。</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，则获得目标生物的操控权。</target>
       </trans-unit>
       <trans-unit id="ba33f00d-dbed-4bfb-a295-90f729be98de" resname="BNG·51 | Sphinx's Disciple | Card Name">
         <source>Sphinx's Disciple</source>
@@ -532,7 +532,7 @@
       </trans-unit>
       <trans-unit id="ba33f00d-dbed-4bfb-a295-90f729be98de" resname="BNG·51 | Sphinx's Disciple | Card Text | Paragraph 2">
         <source>Inspired — Whenever CARDNAME becomes untapped, draw a card.</source>
-        <target state="translated">启悟～每当史芬斯的信徒成为未横置时，抓一张牌。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="44744725-6ba7-40bd-b25b-788a1032ecf4" resname="BNG·52 | Stratus Walk | Card Name">
         <source>Stratus Walk</source>
@@ -544,7 +544,7 @@
       </trans-unit>
       <trans-unit id="44744725-6ba7-40bd-b25b-788a1032ecf4" resname="BNG·52 | Stratus Walk | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当漫步云端进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="44744725-6ba7-40bd-b25b-788a1032ecf4" resname="BNG·52 | Stratus Walk | Card Text | Paragraph 3">
         <source>Enchanted creature has flying.</source>
@@ -576,11 +576,11 @@
       </trans-unit>
       <trans-unit id="69fcad7f-2740-49ff-a448-4b232c456e16" resname="BNG·55 | Tromokratis | Card Text | Paragraph 1">
         <source>CARDNAME has hexproof unless it's attacking or blocking.</source>
-        <target state="translated">除非它正进行攻击或阻挡，否则卓莫克雷提便具有辟邪异能。</target>
+        <target state="translated">除非它正进行攻击或阻挡，否则CARDNAME便具有辟邪异能。</target>
       </trans-unit>
       <trans-unit id="69fcad7f-2740-49ff-a448-4b232c456e16" resname="BNG·55 | Tromokratis | Card Text | Paragraph 2">
         <source>CARDNAME can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)</source>
-        <target state="translated">除非由防御牌手操控的所有生物均阻挡之，否则卓莫克雷提便不能被阻挡。（如果由该牌手操控的任一生物不阻挡此生物，则它便不能被阻挡。）</target>
+        <target state="translated">除非由防御牌手操控的所有生物均阻挡之，否则CARDNAME便不能被阻挡。（如果由该牌手操控的任一生物不阻挡此生物，则它便不能被阻挡。）</target>
       </trans-unit>
       <trans-unit id="5cb7ca2b-c5de-4c8a-91cb-8dd8ab5387d8" resname="BNG·56 | Vortex Elemental | Card Name">
         <source>Vortex Elemental</source>
@@ -588,11 +588,11 @@
       </trans-unit>
       <trans-unit id="5cb7ca2b-c5de-4c8a-91cb-8dd8ab5387d8" resname="BNG·56 | Vortex Elemental | Card Text | Paragraph 1">
         <source>{U}: Put CARDNAME and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle their libraries.</source>
-        <target state="translated">{U}：将漩涡元素与阻挡它或它所阻挡的每个生物分别置于其拥有者的牌库顶，然后这些牌手将其牌库洗牌。</target>
+        <target state="translated">{U}：将CARDNAME与阻挡它或它所阻挡的每个生物分别置于其拥有者的牌库顶，然后这些牌手将其牌库洗牌。</target>
       </trans-unit>
       <trans-unit id="5cb7ca2b-c5de-4c8a-91cb-8dd8ab5387d8" resname="BNG·56 | Vortex Elemental | Card Text | Paragraph 2">
         <source>{3}{U}{U}: Target creature blocks CARDNAME this turn if able.</source>
-        <target state="translated">{3}{U}{U}：目标生物本回合若能阻挡漩涡元素，则须阻挡之。</target>
+        <target state="translated">{3}{U}{U}：目标生物本回合若能阻挡CARDNAME，则须阻挡之。</target>
       </trans-unit>
       <trans-unit id="fcabd4c7-093f-4ef6-8b89-b08565c48e3c" resname="BNG·57 | Whelming Wave | Card Name">
         <source>Whelming Wave</source>
@@ -620,7 +620,7 @@
       </trans-unit>
       <trans-unit id="86acd1cc-5238-4734-a324-b4cecffc0bab" resname="BNG·59 | Ashiok's Adept | Card Text | Paragraph 1">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, each opponent discards a card.</source>
-        <target state="translated">勇行～每当你施放一个以安梭苛的专家为目标的咒语时，每位对手各弃一张牌。</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，每位对手各弃一张牌。</target>
       </trans-unit>
       <trans-unit id="894f3f5f-586d-45e4-9af7-4de80e44dfae" resname="BNG·60 | Asphyxiate | Card Name">
         <source>Asphyxiate</source>
@@ -648,7 +648,7 @@
       </trans-unit>
       <trans-unit id="5f1e9195-a711-4f4d-9d53-d5d230c092ef" resname="BNG·62 | Black Oak of Odunos | Card Text | Paragraph 2">
         <source>{B}, Tap another untapped creature you control: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}，横置另一个由你操控且未横置的生物：俄渡诺陵黑橡树妖得+1/+1直到回合结束。</target>
+        <target state="translated">{B}，横置另一个由你操控且未横置的生物：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
       <trans-unit id="342196b9-ab65-4922-864e-00f067153261" resname="BNG·63 | Champion of Stray Souls | Card Name">
         <source>Champion of Stray Souls</source>
@@ -660,7 +660,7 @@
       </trans-unit>
       <trans-unit id="342196b9-ab65-4922-864e-00f067153261" resname="BNG·63 | Champion of Stray Souls | Card Text | Paragraph 2">
         <source>{5}{B}{B}: Put CARDNAME on top of your library from your graveyard.</source>
-        <target state="translated">{5}{B}{B}：将孤魂斗士从你的坟墓场置于你的牌库顶。</target>
+        <target state="translated">{5}{B}{B}：将CARDNAME从你的坟墓场置于你的牌库顶。</target>
       </trans-unit>
       <trans-unit id="a51db556-b3e8-4628-9e39-6353023b0696" resname="BNG·64 | Claim of Erebos | Card Name">
         <source>Claim of Erebos</source>
@@ -692,7 +692,7 @@
       </trans-unit>
       <trans-unit id="f75f3d3f-925d-45ef-92e6-22aca22e5451" resname="BNG·66 | Eater of Hope | Card Text | Paragraph 2">
         <source>{B}, Sacrifice another creature: Regenerate CARDNAME.</source>
-        <target state="translated">{B}，牺牲另一个生物：重生希望噬魔。</target>
+        <target state="translated">{B}，牺牲另一个生物：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="f75f3d3f-925d-45ef-92e6-22aca22e5451" resname="BNG·66 | Eater of Hope | Card Text | Paragraph 3">
         <source>{2}{B}, Sacrifice two other creatures: Destroy target creature.</source>
@@ -712,7 +712,7 @@
       </trans-unit>
       <trans-unit id="f15cd233-e27b-4cfd-aa4e-18040d1de22f" resname="BNG·68 | Fate Unraveler | Card Text | Paragraph 1">
         <source>Whenever an opponent draws a card, CARDNAME deals 1 damage to that player.</source>
-        <target state="translated">每当任一对手抓一张牌时，析命巫婆对该牌手造成1点伤害。</target>
+        <target state="translated">每当任一对手抓一张牌时，CARDNAME对该牌手造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="a55878ec-a903-4694-8709-e29fa88b2c28" resname="BNG·69 | Fated Return | Card Name">
         <source>Fated Return</source>
@@ -728,7 +728,7 @@
       </trans-unit>
       <trans-unit id="4a829bb0-6a84-46de-9c2d-14176cf542e6" resname="BNG·70 | Felhide Brawler | Card Text | Paragraph 1">
         <source>CARDNAME can't block unless you control another Minotaur.</source>
-        <target state="translated">除非你操控另一个牛头怪，否则惊怖喧哗兵不能进行阻挡。</target>
+        <target state="translated">除非你操控另一个牛头怪，否则CARDNAME不能进行阻挡。</target>
       </trans-unit>
       <trans-unit id="1c236a33-fb20-41f4-8946-beb65d1cf684" resname="BNG·71 | Forlorn Pseudamma | Card Name">
         <source>Forlorn Pseudamma</source>
@@ -740,7 +740,7 @@
       </trans-unit>
       <trans-unit id="1c236a33-fb20-41f4-8946-beb65d1cf684" resname="BNG·71 | Forlorn Pseudamma | Card Text | Paragraph 2">
         <source>Inspired — Whenever CARDNAME becomes untapped, you may pay {2}{B}. If you do, put a 2/2 black Zombie enchantment creature token onto the battlefield.</source>
-        <target state="translated">启悟～每当渴子鬼母成为未横置时，你可以支付{2}{B}。若你如此作，将一个2/2黑色灵俑衍生结界生物放进战场。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，你可以支付{2}{B}。若你如此作，将一个2/2黑色灵俑衍生结界生物放进战场。</target>
       </trans-unit>
       <trans-unit id="05445d18-3590-4216-9392-9438d9f9395d" resname="BNG·72 | Forsaken Drifters | Card Name">
         <source>Forsaken Drifters</source>
@@ -748,7 +748,7 @@
       </trans-unit>
       <trans-unit id="05445d18-3590-4216-9392-9438d9f9395d" resname="BNG·72 | Forsaken Drifters | Card Text | Paragraph 1">
         <source>When CARDNAME dies, put the top four cards of your library into your graveyard.</source>
-        <target state="translated">当孤零漂泊者死去时，将你牌库顶的四张牌置入你的坟墓场。</target>
+        <target state="translated">当CARDNAME死去时，将你牌库顶的四张牌置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="8ce5e6c4-02c8-4602-96d6-19dad34f7804" resname="BNG·73 | Gild | Card Name">
         <source>Gild</source>
@@ -768,7 +768,7 @@
       </trans-unit>
       <trans-unit id="4eb0ce84-560f-4e39-a0ab-7bd710d541cc" resname="BNG·74 | Grisly Transformation | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当骇人转化进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="4eb0ce84-560f-4e39-a0ab-7bd710d541cc" resname="BNG·74 | Grisly Transformation | Card Text | Paragraph 3">
         <source>Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)</source>
@@ -800,7 +800,7 @@
       </trans-unit>
       <trans-unit id="093d2e4c-f2c4-4d4e-a1b7-200327ce23b0" resname="BNG·76 | Marshmist Titan | Card Text | Paragraph 1">
         <source>CARDNAME costs {X} less to cast, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)</source>
-        <target state="translated">沼雾泰坦减少{X}来施放，X为你的黑色献力。（由你操控之永久物的法术力费用当中每含有一个{B}，你的黑色献力就加一。）</target>
+        <target state="translated">CARDNAME减少{X}来施放，X为你的黑色献力。（由你操控之永久物的法术力费用当中每含有一个{B}，你的黑色献力就加一。）</target>
       </trans-unit>
       <trans-unit id="a0955932-8ca9-4896-882c-2969fe7c7818" resname="BNG·77 | Necrobite | Card Name">
         <source>Necrobite</source>
@@ -828,11 +828,11 @@
       </trans-unit>
       <trans-unit id="a5d1eda4-ac34-4905-9022-59f91d38dbb3" resname="BNG·79 | Odunos River Trawler | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, return target enchantment creature card from your graveyard to your hand.</source>
-        <target state="translated">当俄渡诺陵捕捞客进战场时，将目标结界生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">当CARDNAME进战场时，将目标结界生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="a5d1eda4-ac34-4905-9022-59f91d38dbb3" resname="BNG·79 | Odunos River Trawler | Card Text | Paragraph 2">
         <source>{W}, Sacrifice CARDNAME: Return target enchantment creature card from your graveyard to your hand.</source>
-        <target state="translated">{W}，牺牲俄渡诺陵捕捞客：将目标结界生物牌从你的坟墓场移回你手上。</target>
+        <target state="translated">{W}，牺牲CARDNAME：将目标结界生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
       <trans-unit id="8ce8891f-b44c-4be4-878e-9fc45a9dc9cb" resname="BNG·80 | Pain Seer | Card Name">
         <source>Pain Seer</source>
@@ -840,7 +840,7 @@
       </trans-unit>
       <trans-unit id="8ce8891f-b44c-4be4-878e-9fc45a9dc9cb" resname="BNG·80 | Pain Seer | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost.</source>
-        <target state="translated">启悟～每当苦痛预言师成为未横置时，展示你的牌库顶牌，并将该牌置于你手上。你失去等同于该牌之总法术力费用的生命。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，展示你的牌库顶牌，并将该牌置于你手上。你失去等同于该牌之总法术力费用的生命。</target>
       </trans-unit>
       <trans-unit id="fb129def-4055-4b12-9944-39406b451553" resname="BNG·81 | Sanguimancy | Card Name">
         <source>Sanguimancy</source>
@@ -856,11 +856,11 @@
       </trans-unit>
       <trans-unit id="dfb16d4f-ed42-4b19-9e45-330db88eea9b" resname="BNG·82 | Servant of Tymaret | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, each opponent loses 1 life. You gain life equal to the life lost this way.</source>
-        <target state="translated">启悟～每当提玛瑞的仆从成为未横置时，每位对手各失去1点生命。你获得若干生命，其数量等同于以此法失去的生命总和。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，每位对手各失去1点生命。你获得若干生命，其数量等同于以此法失去的生命总和。</target>
       </trans-unit>
       <trans-unit id="dfb16d4f-ed42-4b19-9e45-330db88eea9b" resname="BNG·82 | Servant of Tymaret | Card Text | Paragraph 2">
         <source>{2}{B}: Regenerate CARDNAME.</source>
-        <target state="translated">{2}{B}：重生提玛瑞的仆从。</target>
+        <target state="translated">{2}{B}：重生CARDNAME。</target>
       </trans-unit>
       <trans-unit id="1c2b1eeb-6cc9-48a7-a068-afa1011c45f2" resname="BNG·83 | Shrike Harpy | Card Name">
         <source>Shrike Harpy</source>
@@ -876,7 +876,7 @@
       </trans-unit>
       <trans-unit id="1c2b1eeb-6cc9-48a7-a068-afa1011c45f2" resname="BNG·83 | Shrike Harpy | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, target opponent sacrifices a creature.</source>
-        <target state="translated">当钩嘴哈痞进战场时，若未支付其致敬费用，则目标对手牺牲一个生物。</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，则目标对手牺牲一个生物。</target>
       </trans-unit>
       <trans-unit id="017e8cfb-7cb0-403c-b8be-abee22369661" resname="BNG·84 | Spiteful Returned | Card Name">
         <source>Spiteful Returned</source>
@@ -888,7 +888,7 @@
       </trans-unit>
       <trans-unit id="017e8cfb-7cb0-403c-b8be-abee22369661" resname="BNG·84 | Spiteful Returned | Card Text | Paragraph 2">
         <source>Whenever CARDNAME or enchanted creature attacks, defending player loses 2 life.</source>
-        <target state="translated">每当怨毒转世者或所结附的生物攻击时，防御牌手失去2点生命。</target>
+        <target state="translated">每当CARDNAME或所结附的生物攻击时，防御牌手失去2点生命。</target>
       </trans-unit>
       <trans-unit id="017e8cfb-7cb0-403c-b8be-abee22369661" resname="BNG·84 | Spiteful Returned | Card Text | Paragraph 3">
         <source>Enchanted creature gets +1/+1.</source>
@@ -900,7 +900,7 @@
       </trans-unit>
       <trans-unit id="757948b3-8cb2-4709-9bbf-031c2bf6d4c5" resname="BNG·85 | Warchanter of Mogis | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, target creature you control gains intimidate until end of turn. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)</source>
-        <target state="translated">启悟～每当墨癸斯的战颂师成为未横置时，目标由你操控的生物获得威吓异能直到回合结束。（具威吓异能的生物只能被神器生物和／或与它有共通颜色的生物阻挡。）</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，目标由你操控的生物获得威吓异能直到回合结束。（具威吓异能的生物只能被神器生物和／或与它有共通颜色的生物阻挡。）</target>
       </trans-unit>
       <trans-unit id="a99bcecd-0b5a-4806-824b-4885fcad1449" resname="BNG·86 | Weight of the Underworld | Card Name">
         <source>Weight of the Underworld</source>
@@ -920,7 +920,7 @@
       </trans-unit>
       <trans-unit id="decb529f-44fd-409d-932f-be9c403f12f6" resname="BNG·87 | Akroan Conscriptor | Card Text | Paragraph 1">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.</source>
-        <target state="translated">勇行～每当你施放一个以阿喀洛斯征兵员为目标的咒语时，获得另一个目标生物的操控权直到回合结束。重置该生物。它获得敏捷异能直到回合结束。</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，获得另一个目标生物的操控权直到回合结束。重置该生物。它获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="13946413-c76d-41a8-a699-404fd56b2067" resname="BNG·88 | Archetype of Aggression | Card Name">
         <source>Archetype of Aggression</source>
@@ -940,7 +940,7 @@
       </trans-unit>
       <trans-unit id="4df70b14-5d67-4a92-aaba-72480c621d10" resname="BNG·89 | Bolt of Keranos | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</source>
-        <target state="translated">刻拉诺斯的电击对目标生物或牌手造成3点伤害。占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="71a25c69-8e57-4a44-955a-da1541bbe0fe" resname="BNG·90 | Cyclops of One-Eyed Pass | Card Name">
         <source>Cyclops of One-Eyed Pass</source>
@@ -968,7 +968,7 @@
       </trans-unit>
       <trans-unit id="a018d5ea-5229-40ca-b7c5-31d3e8ebb894" resname="BNG·92 | Everflame Eidolon | Card Text | Paragraph 2">
         <source>{R}: CARDNAME gets +1/+0 until end of turn. If it's an Aura, enchanted creature gets +1/+0 until end of turn instead.</source>
-        <target state="translated">{R}：永火幻灵得+1/+0直到回合结束。如果它是灵气，则改为所结附的生物得+1/+0直到回合结束。</target>
+        <target state="translated">{R}：CARDNAME得+1/+0直到回合结束。如果它是灵气，则改为所结附的生物得+1/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="a018d5ea-5229-40ca-b7c5-31d3e8ebb894" resname="BNG·92 | Everflame Eidolon | Card Text | Paragraph 3">
         <source>Enchanted creature gets +1/+1.</source>
@@ -988,7 +988,7 @@
       </trans-unit>
       <trans-unit id="66ea1aeb-bd42-4960-b40f-e7c2fd1efb5c" resname="BNG·94 | Fated Conflagration | Card Text | Paragraph 1">
         <source>CARDNAME deals 5 damage to target creature or planeswalker. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</source>
-        <target state="translated">命定烈焰对目标生物或鹏洛客造成5点伤害。如果是在你的回合中，则占卜2。（检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
+        <target state="translated">CARDNAME对目标生物或鹏洛客造成5点伤害。如果是在你的回合中，则占卜2。（检视你牌库顶的两张牌，然后将其中任意数量的牌以任意顺序置于你牌库底，其余则以任意顺序置于你牌库顶。）</target>
       </trans-unit>
       <trans-unit id="c6e7884c-2d66-42d1-87d1-1341a6fa52d8" resname="BNG·95 | Fearsome Temper | Card Name">
         <source>Fearsome Temper</source>
@@ -1008,7 +1008,7 @@
       </trans-unit>
       <trans-unit id="bbbbe4ce-d6a6-428d-aeee-1c316f358777" resname="BNG·96 | Felhide Spiritbinder | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, you may pay {1}{R}. If you do, put a token onto the battlefield that's a copy of another target creature except it's an enchantment in addition to its other types. It gains haste. Exile it at the beginning of the next end step.</source>
-        <target state="translated">启悟～每当惊怖通灵师成为未横置时，你可以支付{1}{R}。若你如此作，则将一个衍生物放进战场，该衍生物为另一个目标生物之复制品，但额外具有「结界」此类别。它获得敏捷异能。在下一个结束步骤开始时，将它放逐。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，你可以支付{1}{R}。若你如此作，则将一个衍生物放进战场，该衍生物为另一个目标生物之复制品，但额外具有「结界」此类别。它获得敏捷异能。在下一个结束步骤开始时，将它放逐。</target>
       </trans-unit>
       <trans-unit id="a36bca58-e92f-4496-92d6-5ecba7a0424d" resname="BNG·97 | Flame-Wreathed Phoenix | Card Name">
         <source>Flame-Wreathed Phoenix</source>
@@ -1024,7 +1024,7 @@
       </trans-unit>
       <trans-unit id="a36bca58-e92f-4496-92d6-5ecba7a0424d" resname="BNG·97 | Flame-Wreathed Phoenix | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, it gains haste and &amp;quot;When this creature dies, return it to its owner's hand.&amp;quot;</source>
-        <target state="translated">当覆火凤凰进战场时，若未支付其致敬费用，则它获得敏捷异能与「当此生物死去时，将它移回其拥有者手上。」</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，则它获得敏捷异能与「当此生物死去时，将它移回其拥有者手上。」</target>
       </trans-unit>
       <trans-unit id="4fd44170-ded7-4895-8950-bfa9d19e471d" resname="BNG·98 | Forgestoker Dragon | Card Name">
         <source>Forgestoker Dragon</source>
@@ -1036,7 +1036,7 @@
       </trans-unit>
       <trans-unit id="4fd44170-ded7-4895-8950-bfa9d19e471d" resname="BNG·98 | Forgestoker Dragon | Card Text | Paragraph 2">
         <source>{1}{R}: CARDNAME deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if CARDNAME is attacking.</source>
-        <target state="translated">{1}{R}：锻焰巨龙对目标生物造成1点伤害。该生物本次战斗中不能进行阻挡。只能于锻焰巨龙进行攻击时起动此异能。</target>
+        <target state="translated">{1}{R}：CARDNAME对目标生物造成1点伤害。该生物本次战斗中不能进行阻挡。只能于CARDNAME进行攻击时起动此异能。</target>
       </trans-unit>
       <trans-unit id="e6d4c13b-95ef-49df-b349-26e0fec109ad" resname="BNG·99 | Impetuous Sunchaser | Card Name">
         <source>Impetuous Sunchaser</source>
@@ -1048,7 +1048,7 @@
       </trans-unit>
       <trans-unit id="e6d4c13b-95ef-49df-b349-26e0fec109ad" resname="BNG·99 | Impetuous Sunchaser | Card Text | Paragraph 2">
         <source>CARDNAME attacks each turn if able.</source>
-        <target state="translated">急切逐日者每回合若能攻击，则必须攻击。</target>
+        <target state="translated">CARDNAME每回合若能攻击，则必须攻击。</target>
       </trans-unit>
       <trans-unit id="56d1dcab-7e46-4ff1-91f6-77352ef0cd90" resname="BNG·100 | Kragma Butcher | Card Name">
         <source>Kragma Butcher</source>
@@ -1056,7 +1056,7 @@
       </trans-unit>
       <trans-unit id="56d1dcab-7e46-4ff1-91f6-77352ef0cd90" resname="BNG·100 | Kragma Butcher | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, it gets +2/+0 until end of turn.</source>
-        <target state="translated">启悟～每当夸格玛屠夫成为未横置时，它得+2/+0直到回合结束。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，它得+2/+0直到回合结束。</target>
       </trans-unit>
       <trans-unit id="b2af8746-033d-4a8a-b62d-ab5addb33d4d" resname="BNG·101 | Lightning Volley | Card Name">
         <source>Lightning Volley</source>
@@ -1092,7 +1092,7 @@
       </trans-unit>
       <trans-unit id="ddb1931e-c282-47a7-9382-608de6ec8efa" resname="BNG·103 | Oracle of Bones | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, you may cast an instant or sorcery card from your hand without paying its mana cost.</source>
-        <target state="translated">当头骨先知进战场时，若未支付其致敬费用，你可以从你手上施放一张瞬间或法术牌，且不需支付其法术力费用。</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，你可以从你手上施放一张瞬间或法术牌，且不需支付其法术力费用。</target>
       </trans-unit>
       <trans-unit id="9eef1b9b-58f1-40af-a7c2-06cdaf1ec974" resname="BNG·104 | Pharagax Giant | Card Name">
         <source>Pharagax Giant</source>
@@ -1104,7 +1104,7 @@
       </trans-unit>
       <trans-unit id="9eef1b9b-58f1-40af-a7c2-06cdaf1ec974" resname="BNG·104 | Pharagax Giant | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, CARDNAME deals 5 damage to each opponent.</source>
-        <target state="translated">当法拉伽斯巨人进战场时，若未支付其致敬费用，则法拉伽斯巨人向每位对手各造成5点伤害。</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，则CARDNAME向每位对手各造成5点伤害。</target>
       </trans-unit>
       <trans-unit id="b26ff2fa-82de-4831-9341-a446abf9ed03" resname="BNG·105 | Pinnacle of Rage | Card Name">
         <source>Pinnacle of Rage</source>
@@ -1112,7 +1112,7 @@
       </trans-unit>
       <trans-unit id="b26ff2fa-82de-4831-9341-a446abf9ed03" resname="BNG·105 | Pinnacle of Rage | Card Text | Paragraph 1">
         <source>CARDNAME deals 3 damage to each of two target creatures and/or players.</source>
-        <target state="translated">怒火天顶对两个目标生物和／或牌手各造成3点伤害。</target>
+        <target state="translated">CARDNAME对两个目标生物和／或牌手各造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="188adefd-a808-4991-80be-53249c24df8f" resname="BNG·106 | Reckless Reveler | Card Name">
         <source>Reckless Reveler</source>
@@ -1120,7 +1120,7 @@
       </trans-unit>
       <trans-unit id="188adefd-a808-4991-80be-53249c24df8f" resname="BNG·106 | Reckless Reveler | Card Text | Paragraph 1">
         <source>{R}, Sacrifice CARDNAME: Destroy target artifact.</source>
-        <target state="translated">{R}，牺牲鲁莽狂欢人：消灭目标神器。</target>
+        <target state="translated">{R}，牺牲CARDNAME：消灭目标神器。</target>
       </trans-unit>
       <trans-unit id="c656ad1b-e85b-4b0c-b538-506afe4a9da5" resname="BNG·107 | Rise to the Challenge | Card Name">
         <source>Rise to the Challenge</source>
@@ -1136,7 +1136,7 @@
       </trans-unit>
       <trans-unit id="7fc6a735-cbf5-4af2-b15c-7ced82f0d9da" resname="BNG·108 | Satyr Firedancer | Card Text | Paragraph 1">
         <source>Whenever an instant or sorcery spell you control deals damage to an opponent, CARDNAME deals that much damage to target creature that player controls.</source>
-        <target state="translated">每当由你操控的瞬间或法术咒语向对手造成伤害时，舞火羊蹄人对目标由该牌手操控的生物造成等量的伤害。</target>
+        <target state="translated">每当由你操控的瞬间或法术咒语向对手造成伤害时，CARDNAME对目标由该牌手操控的生物造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="3bc2c65e-3cba-4813-9949-87e15f592247" resname="BNG·109 | Satyr Nyx-Smith | Card Name">
         <source>Satyr Nyx-Smith</source>
@@ -1148,7 +1148,7 @@
       </trans-unit>
       <trans-unit id="3bc2c65e-3cba-4813-9949-87e15f592247" resname="BNG·109 | Satyr Nyx-Smith | Card Text | Paragraph 2">
         <source>Inspired — Whenever CARDNAME becomes untapped, you may pay {2}{R}. If you do, put a 3/1 red Elemental enchantment creature token with haste onto the battlefield.</source>
-        <target state="translated">启悟～每当铸灵羊蹄人成为未横置时，你可以支付{2}{R}。若你如此作，将一个3/1红色，具敏捷异能的元素衍生结界生物放进战场。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，你可以支付{2}{R}。若你如此作，将一个3/1红色，具敏捷异能的元素衍生结界生物放进战场。</target>
       </trans-unit>
       <trans-unit id="273f25fc-9c9f-4b73-a28b-1461d8fcd443" resname="BNG·110 | Scouring Sands | Card Name">
         <source>Scouring Sands</source>
@@ -1156,7 +1156,7 @@
       </trans-unit>
       <trans-unit id="273f25fc-9c9f-4b73-a28b-1461d8fcd443" resname="BNG·110 | Scouring Sands | Card Text | Paragraph 1">
         <source>CARDNAME deals 1 damage to each creature your opponents control. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</source>
-        <target state="translated">砂暴扫荡向由对手操控的每个生物各造成1点伤害。占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">CARDNAME向由对手操控的每个生物各造成1点伤害。占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="bb43fd07-d281-447d-88bf-c53498c2cf20" resname="BNG·111 | Searing Blood | Card Name">
         <source>Searing Blood</source>
@@ -1164,7 +1164,7 @@
       </trans-unit>
       <trans-unit id="bb43fd07-d281-447d-88bf-c53498c2cf20" resname="BNG·111 | Searing Blood | Card Text | Paragraph 1">
         <source>CARDNAME deals 2 damage to target creature. When that creature dies this turn, CARDNAME deals 3 damage to the creature's controller.</source>
-        <target state="translated">炙热鲜血对目标生物造成2点伤害。当该生物于本回合中死去时，炙热鲜血对该生物的操控者造成3点伤害。</target>
+        <target state="translated">CARDNAME对目标生物造成2点伤害。当该生物于本回合中死去时，CARDNAME对该生物的操控者造成3点伤害。</target>
       </trans-unit>
       <trans-unit id="d397bdc3-a866-45be-8740-185d9ccf29c4" resname="BNG·112 | Stormcaller of Keranos | Card Name">
         <source>Stormcaller of Keranos</source>
@@ -1192,7 +1192,7 @@
       </trans-unit>
       <trans-unit id="c28fa4f8-4b87-41dc-802d-dfd160ccf1a8" resname="BNG·113 | Thunder Brute | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, it gains haste until end of turn.</source>
-        <target state="translated">当雷鸣蛮汉进战场时，若未支付其致敬费用，则它获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，则它获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="d361851d-e2d4-4912-ba08-81913f6b6e08" resname="BNG·114 | Thunderous Might | Card Name">
         <source>Thunderous Might</source>
@@ -1284,7 +1284,7 @@
       </trans-unit>
       <trans-unit id="41810472-ba24-44b6-886c-f8906ff0a7df" resname="BNG·122 | Graverobber Spider | Card Text | Paragraph 2">
         <source>{3}{B}: CARDNAME gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn.</source>
-        <target state="translated">{3}{B}：盗墓蜘蛛得+X/+X直到回合结束，X为你坟墓场中生物牌的数量。此异能每回合只能起动一次。</target>
+        <target state="translated">{3}{B}：CARDNAME得+X/+X直到回合结束，X为你坟墓场中生物牌的数量。此异能每回合只能起动一次。</target>
       </trans-unit>
       <trans-unit id="f022c0c3-6331-47be-b07f-9768930afd3a" resname="BNG·123 | Hero of Leina Tower | Card Name">
         <source>Hero of Leina Tower</source>
@@ -1292,7 +1292,7 @@
       </trans-unit>
       <trans-unit id="f022c0c3-6331-47be-b07f-9768930afd3a" resname="BNG·123 | Hero of Leina Tower | Card Text | Paragraph 1">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, you may pay {X}. If you do, put X +1/+1 counters on CARDNAME.</source>
-        <target state="translated">勇行～每当你施放一个以莱纳塔英雄为目标的咒语时，你可以支付{X}。若你如此作，则在莱纳塔英雄上放置X个+1/+1指示物。</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，你可以支付{X}。若你如此作，则在CARDNAME上放置X个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="cef2323c-3e35-4ac6-9f07-2c0584371f9e" resname="BNG·124 | Hunter's Prowess | Card Name">
         <source>Hunter's Prowess</source>
@@ -1312,7 +1312,7 @@
       </trans-unit>
       <trans-unit id="bc036932-38c2-42df-9922-2d901028f2b8" resname="BNG·125 | Karametra's Favor | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, draw a card.</source>
-        <target state="translated">当卡拉美特拉的眷顾进战场时，抓一张牌。</target>
+        <target state="translated">当CARDNAME进战场时，抓一张牌。</target>
       </trans-unit>
       <trans-unit id="bc036932-38c2-42df-9922-2d901028f2b8" resname="BNG·125 | Karametra's Favor | Card Text | Paragraph 3">
         <source>Enchanted creature has &amp;quot;{T}: Add one mana of any color to your mana pool.&amp;quot;</source>
@@ -1344,7 +1344,7 @@
       </trans-unit>
       <trans-unit id="ee0683b2-8bc2-4c6a-964e-b909693b68c1" resname="BNG·128 | Nessian Demolok | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, destroy target noncreature permanent.</source>
-        <target state="translated">当奈西安迪默洛兽进战场时，若未支付其致敬费用，则消灭目标非生物的永久物。</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，则消灭目标非生物的永久物。</target>
       </trans-unit>
       <trans-unit id="65368cf0-7d92-4248-b930-633fd023065b" resname="BNG·129 | Nessian Wilds Ravager | Card Name">
         <source>Nessian Wilds Ravager</source>
@@ -1356,7 +1356,7 @@
       </trans-unit>
       <trans-unit id="65368cf0-7d92-4248-b930-633fd023065b" resname="BNG·129 | Nessian Wilds Ravager | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, you may have CARDNAME fight another target creature. (Each deals damage equal to its power to the other.)</source>
-        <target state="translated">当奈西安荒野噬怪进战场时，若未支付其致敬费用，则你可以让奈西安荒野噬怪与另一个目标生物互斗。（它们各向对方造成等同于本身力量的伤害。）</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，则你可以让CARDNAME与另一个目标生物互斗。（它们各向对方造成等同于本身力量的伤害。）</target>
       </trans-unit>
       <trans-unit id="cd8447c3-4fce-4971-a3d7-e5671fe269f5" resname="BNG·130 | Noble Quarry | Card Name">
         <source>Noble Quarry</source>
@@ -1368,7 +1368,7 @@
       </trans-unit>
       <trans-unit id="cd8447c3-4fce-4971-a3d7-e5671fe269f5" resname="BNG·130 | Noble Quarry | Card Text | Paragraph 2">
         <source>All creatures able to block CARDNAME or enchanted creature do so.</source>
-        <target state="translated">所有能够阻挡尊贵猎物或所结附的生物之生物皆须阻挡之。</target>
+        <target state="translated">所有能够阻挡CARDNAME或所结附的生物之生物皆须阻挡之。</target>
       </trans-unit>
       <trans-unit id="cd8447c3-4fce-4971-a3d7-e5671fe269f5" resname="BNG·130 | Noble Quarry | Card Text | Paragraph 3">
         <source>Enchanted creature gets +1/+1.</source>
@@ -1400,7 +1400,7 @@
       </trans-unit>
       <trans-unit id="80856020-f569-4d73-8c44-7b48535a69e8" resname="BNG·133 | Pheres-Band Raiders | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, you may pay {2}{G}. If you do, put a 3/3 green Centaur enchantment creature token onto the battlefield.</source>
-        <target state="translated">启悟～每当斐力兹族突击队成为未横置时，你可以支付{2}{G}。若你如此作，则将一个3/3绿色半人马衍生结界生物放进战场。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，你可以支付{2}{G}。若你如此作，则将一个3/3绿色半人马衍生结界生物放进战场。</target>
       </trans-unit>
       <trans-unit id="a2d7e7d1-70ee-450b-8018-ff373cc91c68" resname="BNG·134 | Pheres-Band Tromper | Card Name">
         <source>Pheres-Band Tromper</source>
@@ -1408,7 +1408,7 @@
       </trans-unit>
       <trans-unit id="a2d7e7d1-70ee-450b-8018-ff373cc91c68" resname="BNG·134 | Pheres-Band Tromper | Card Text | Paragraph 1">
         <source>Inspired — Whenever CARDNAME becomes untapped, put a +1/+1 counter on it.</source>
-        <target state="translated">启悟～每当斐力兹族重跺者成为未横置时，在其上放置一个+1/+1指示物。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，在其上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="bcfaace7-86e2-427e-97b1-b09dfdd30fee" resname="BNG·135 | Raised by Wolves | Card Name">
         <source>Raised by Wolves</source>
@@ -1420,7 +1420,7 @@
       </trans-unit>
       <trans-unit id="bcfaace7-86e2-427e-97b1-b09dfdd30fee" resname="BNG·135 | Raised by Wolves | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put two 2/2 green Wolf creature tokens onto the battlefield.</source>
-        <target state="translated">当出身狼群进战场时，将两个2/2绿色的狼衍生生物放进战场。</target>
+        <target state="translated">当CARDNAME进战场时，将两个2/2绿色的狼衍生生物放进战场。</target>
       </trans-unit>
       <trans-unit id="bcfaace7-86e2-427e-97b1-b09dfdd30fee" resname="BNG·135 | Raised by Wolves | Card Text | Paragraph 3">
         <source>Enchanted creature gets +1/+1 for each Wolf you control.</source>
@@ -1432,7 +1432,7 @@
       </trans-unit>
       <trans-unit id="13c5a1ce-932a-4b3d-8b86-ed920e646afc" resname="BNG·136 | Satyr Wayfinder | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard.</source>
-        <target state="translated">当引路羊蹄人进战场时，展示你牌库顶的四张牌。你可以将其中一张地牌置于你手上。将其余的牌置入你的坟墓场。</target>
+        <target state="translated">当CARDNAME进战场时，展示你牌库顶的四张牌。你可以将其中一张地牌置于你手上。将其余的牌置入你的坟墓场。</target>
       </trans-unit>
       <trans-unit id="baef76dc-7cef-449b-b8a7-e038887129d9" resname="BNG·137 | Scourge of Skola Vale | Card Name">
         <source>Scourge of Skola Vale</source>
@@ -1444,11 +1444,11 @@
       </trans-unit>
       <trans-unit id="baef76dc-7cef-449b-b8a7-e038887129d9" resname="BNG·137 | Scourge of Skola Vale | Card Text | Paragraph 2">
         <source>CARDNAME enters the battlefield with two +1/+1 counters on it.</source>
-        <target state="translated">斯科拉河谷祸害进战场时上面有两个+1/+1指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="baef76dc-7cef-449b-b8a7-e038887129d9" resname="BNG·137 | Scourge of Skola Vale | Card Text | Paragraph 3">
         <source>{T}, Sacrifice another creature: Put a number of +1/+1 counters on CARDNAME equal to the sacrificed creature's toughness.</source>
-        <target state="translated">{T}，牺牲另一个生物：在斯科拉河谷祸害上放置若干+1/+1指示物，其数量等同于所牺牲之生物的防御力。</target>
+        <target state="translated">{T}，牺牲另一个生物：在CARDNAME上放置若干+1/+1指示物，其数量等同于所牺牲之生物的防御力。</target>
       </trans-unit>
       <trans-unit id="e5579755-4718-406a-bba6-27f1f2811e59" resname="BNG·138 | Setessan Oathsworn | Card Name">
         <source>Setessan Oathsworn</source>
@@ -1456,7 +1456,7 @@
       </trans-unit>
       <trans-unit id="e5579755-4718-406a-bba6-27f1f2811e59" resname="BNG·138 | Setessan Oathsworn | Card Text | Paragraph 1">
         <source>Heroic — Whenever you cast a spell that targets CARDNAME, put two +1/+1 counters on CARDNAME.</source>
-        <target state="translated">勇行～每当你施放一个以瑟特萨盟誓人为目标的咒语时，在瑟特萨盟誓人上放置两个+1/+1指示物。</target>
+        <target state="translated">勇行～每当你施放一个以CARDNAME为目标的咒语时，在CARDNAME上放置两个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="03af8b3b-a897-43e2-a87d-833da93edc41" resname="BNG·139 | Setessan Starbreaker | Card Name">
         <source>Setessan Starbreaker</source>
@@ -1464,7 +1464,7 @@
       </trans-unit>
       <trans-unit id="03af8b3b-a897-43e2-a87d-833da93edc41" resname="BNG·139 | Setessan Starbreaker | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, you may destroy target Aura.</source>
-        <target state="translated">当瑟特萨殒星客进战场时，你可以消灭目标灵气。</target>
+        <target state="translated">当CARDNAME进战场时，你可以消灭目标灵气。</target>
       </trans-unit>
       <trans-unit id="40eb76b3-b527-4ed8-8ce3-d3de48562b6e" resname="BNG·140 | Skyreaping | Card Name">
         <source>Skyreaping</source>
@@ -1472,7 +1472,7 @@
       </trans-unit>
       <trans-unit id="40eb76b3-b527-4ed8-8ce3-d3de48562b6e" resname="BNG·140 | Skyreaping | Card Text | Paragraph 1">
         <source>CARDNAME deals damage to each creature with flying equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)</source>
-        <target state="translated">刈空扫击对每个具飞行异能的生物各造成伤害，其数量等同于你的绿色献力。（由你操控之永久物的法术力费用当中每含有一个{G}，你的绿色献力就加一。）</target>
+        <target state="translated">CARDNAME对每个具飞行异能的生物各造成伤害，其数量等同于你的绿色献力。（由你操控之永久物的法术力费用当中每含有一个{G}，你的绿色献力就加一。）</target>
       </trans-unit>
       <trans-unit id="08b10bd7-3f8b-426f-acdf-5a9559b9bc7d" resname="BNG·141 | Snake of the Golden Grove | Card Name">
         <source>Snake of the Golden Grove</source>
@@ -1484,7 +1484,7 @@
       </trans-unit>
       <trans-unit id="08b10bd7-3f8b-426f-acdf-5a9559b9bc7d" resname="BNG·141 | Snake of the Golden Grove | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, you gain 4 life.</source>
-        <target state="translated">当金森巨蚺进战场时，若未支付其致敬费用，则你获得4点生命。</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，则你获得4点生命。</target>
       </trans-unit>
       <trans-unit id="1776ebd7-91fc-49e1-a978-f2012162d1cf" resname="BNG·142 | Swordwise Centaur | Card Name">
         <source>Swordwise Centaur</source>
@@ -1540,7 +1540,7 @@
       </trans-unit>
       <trans-unit id="6e480d04-9a35-463e-928e-8da3556629e6" resname="BNG·146 | Ephara's Enlightenment | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, put a +1/+1 counter on enchanted creature.</source>
-        <target state="translated">当厄芳拉的启蒙进战场时，在所结附的生物上放置一个+1/+1指示物。</target>
+        <target state="translated">当CARDNAME进战场时，在所结附的生物上放置一个+1/+1指示物。</target>
       </trans-unit>
       <trans-unit id="6e480d04-9a35-463e-928e-8da3556629e6" resname="BNG·146 | Ephara's Enlightenment | Card Text | Paragraph 3">
         <source>Enchanted creature has flying.</source>
@@ -1548,7 +1548,7 @@
       </trans-unit>
       <trans-unit id="6e480d04-9a35-463e-928e-8da3556629e6" resname="BNG·146 | Ephara's Enlightenment | Card Text | Paragraph 4">
         <source>Whenever a creature enters the battlefield under your control, you may return CARDNAME to its owner's hand.</source>
-        <target state="translated">每当一个生物在你的操控下进战场时，你可以将厄芳拉的启蒙移回其拥有者手上。</target>
+        <target state="translated">每当一个生物在你的操控下进战场时，你可以将CARDNAME移回其拥有者手上。</target>
       </trans-unit>
       <trans-unit id="3687799c-81bd-4c49-902a-2a96863629c3" resname="BNG·147 | Fanatic of Xenagos | Card Name">
         <source>Fanatic of Xenagos</source>
@@ -1564,7 +1564,7 @@
       </trans-unit>
       <trans-unit id="3687799c-81bd-4c49-902a-2a96863629c3" resname="BNG·147 | Fanatic of Xenagos | Card Text | Paragraph 3">
         <source>When CARDNAME enters the battlefield, if tribute wasn't paid, it gets +1/+1 and gains haste until end of turn.</source>
-        <target state="translated">当谢纳戈斯的狂徒进战场时，若未支付其致敬费用，则它得+1/+1且获得敏捷异能直到回合结束。</target>
+        <target state="translated">当CARDNAME进战场时，若未支付其致敬费用，则它得+1/+1且获得敏捷异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="74050cb3-ba99-475d-9124-726e498fb68e" resname="BNG·148 | Karametra, God of Harvests | Card Name">
         <source>Karametra, God of Harvests</source>
@@ -1664,7 +1664,7 @@
       </trans-unit>
       <trans-unit id="990f4438-aa74-4460-8bac-93480d0bb0dc" resname="BNG·155 | Siren of the Silent Song | Card Text | Paragraph 2">
         <source>Inspired — Whenever CARDNAME becomes untapped, each opponent discards a card, then puts the top card of his or her library into his or her graveyard.</source>
-        <target state="translated">启悟～每当默曲塞连成为未横置时，每位对手各弃一张牌，然后将其牌库顶牌置入其坟墓场。</target>
+        <target state="translated">启悟～每当CARDNAME成为未横置时，每位对手各弃一张牌，然后将其牌库顶牌置入其坟墓场。</target>
       </trans-unit>
       <trans-unit id="3184b138-1109-4195-9d96-4f190164e98b" resname="BNG·156 | Xenagos, God of Revels | Card Name">
         <source>Xenagos, God of Revels</source>
@@ -1688,11 +1688,11 @@
       </trans-unit>
       <trans-unit id="a72b8011-c712-418f-869e-42fda3dc0830" resname="BNG·157 | Astral Cornucopia | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield with X charge counters on it.</source>
-        <target state="translated">星幽羊角进战场时上面有X个充电指示物。</target>
+        <target state="translated">CARDNAME进战场时上面有X个充电指示物。</target>
       </trans-unit>
       <trans-unit id="a72b8011-c712-418f-869e-42fda3dc0830" resname="BNG·157 | Astral Cornucopia | Card Text | Paragraph 2">
         <source>{T}: Choose a color. Add one mana of that color to your mana pool for each charge counter on CARDNAME.</source>
-        <target state="translated">{T}：选择一种颜色。星幽羊角上每有一个充电指示物，便加一点该色法术力到你的法术力池中。</target>
+        <target state="translated">{T}：选择一种颜色。CARDNAME上每有一个充电指示物，便加一点该色法术力到你的法术力池中。</target>
       </trans-unit>
       <trans-unit id="d745dd92-9f7a-44a4-a27f-2ff17753db1c" resname="BNG·158 | Gorgon's Head | Card Name">
         <source>Gorgon's Head</source>
@@ -1728,7 +1728,7 @@
       </trans-unit>
       <trans-unit id="e4c1371b-ffec-41c7-8fc1-acb2bd538080" resname="BNG·160 | Pillar of War | Card Text | Paragraph 2">
         <source>As long as CARDNAME is enchanted, it can attack as though it didn't have defender.</source>
-        <target state="translated">只要好战雕柱上结附了灵气，它便能视同不具守军异能地进行攻击。</target>
+        <target state="translated">只要CARDNAME上结附了灵气，它便能视同不具守军异能地进行攻击。</target>
       </trans-unit>
       <trans-unit id="cfeca720-3163-4391-b90d-5f7aa5f5987b" resname="BNG·161 | Siren Song Lyre | Card Name">
         <source>Siren Song Lyre</source>
@@ -1756,11 +1756,11 @@
       </trans-unit>
       <trans-unit id="c657a645-f454-4eaf-be0d-15c9989fa4ef" resname="BNG·163 | Temple of Enlightenment | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">启蒙殿堂须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="c657a645-f454-4eaf-be0d-15c9989fa4ef" resname="BNG·163 | Temple of Enlightenment | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</source>
-        <target state="translated">当启蒙殿堂进战场时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">当CARDNAME进战场时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="c657a645-f454-4eaf-be0d-15c9989fa4ef" resname="BNG·163 | Temple of Enlightenment | Card Text | Paragraph 3">
         <source>{T}: Add {W} or {U} to your mana pool.</source>
@@ -1772,11 +1772,11 @@
       </trans-unit>
       <trans-unit id="52f50818-aede-4667-883a-e0339d86d870" resname="BNG·164 | Temple of Malice | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">恶意殿堂须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="52f50818-aede-4667-883a-e0339d86d870" resname="BNG·164 | Temple of Malice | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</source>
-        <target state="translated">当恶意殿堂进战场时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">当CARDNAME进战场时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="52f50818-aede-4667-883a-e0339d86d870" resname="BNG·164 | Temple of Malice | Card Text | Paragraph 3">
         <source>{T}: Add {B} or {R} to your mana pool.</source>
@@ -1788,11 +1788,11 @@
       </trans-unit>
       <trans-unit id="b0830054-b140-49c3-90cb-24e2502757be" resname="BNG·165 | Temple of Plenty | Card Text | Paragraph 1">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">丰足殿堂须横置进战场。</target>
+        <target state="translated">CARDNAME须横置进战场。</target>
       </trans-unit>
       <trans-unit id="b0830054-b140-49c3-90cb-24e2502757be" resname="BNG·165 | Temple of Plenty | Card Text | Paragraph 2">
         <source>When CARDNAME enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</source>
-        <target state="translated">当丰足殿堂进战场时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
+        <target state="translated">当CARDNAME进战场时，占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
       <trans-unit id="b0830054-b140-49c3-90cb-24e2502757be" resname="BNG·165 | Temple of Plenty | Card Text | Paragraph 3">
         <source>{T}: Add {G} or {W} to your mana pool.</source>
