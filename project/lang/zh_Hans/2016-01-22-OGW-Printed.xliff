@@ -22,6 +22,10 @@
         <source>Whenever another colorless creature enters the battlefield under your control, you may change CARDNAME's base power and toughness to that creature's power and toughness until end of turn.</source>
         <target state="translated">每当另一个无色生物在你的操控下进战场时，你可以将CARDNAME的基础力量与防御力更改为该生物的力量与防御力直到回合结束。</target>
       </trans-unit>
+      <trans-unit id="311a05b1-042d-47e7-9fd7-6e8abe8fc578" resname="OGW·2 | Eldrazi Mimic | Flavor Text">
+        <source>It is consistently inconsistent.</source>
+        <target state="translated">其以无常为常。</target>
+      </trans-unit>
       <trans-unit id="6bba7509-db77-414f-926f-1f28a4117831" resname="OGW·3 | Endbringer | Card Name">
         <source>Endbringer</source>
         <target state="translated">终结恶体</target>
@@ -58,6 +62,10 @@
         <source>Discard a card with converted mana cost X: Counter target spell with converted mana cost X.</source>
         <target state="translated">弃一张总法术力费用为X的牌：反击目标总法术力费用为X的咒语。</target>
       </trans-unit>
+      <trans-unit id="f06fc6e0-b22c-40d3-bb53-d5ec400d921c" resname="OGW·4 | Kozilek, the Great Distortion | Flavor Text">
+        <source>A void as cryptic as reality itself.</source>
+        <target state="translated">如现实般神秘的虚无。</target>
+      </trans-unit>
       <trans-unit id="b75585bd-fdd8-44d1-8c7c-b96df5fc473e" resname="OGW·5 | Kozilek's Pathfinder | Card Name">
         <source>Kozilek's Pathfinder</source>
         <target state="translated">寇基雷寻径体</target>
@@ -65,6 +73,10 @@
       <trans-unit id="b75585bd-fdd8-44d1-8c7c-b96df5fc473e" resname="OGW·5 | Kozilek's Pathfinder | Card Text | Paragraph 1">
         <source>{C}: Target creature can't block CARDNAME this turn. ({C} represents colorless mana.)</source>
         <target state="translated">{C}：目标生物本回合不能阻挡CARDNAME。（{C}代表无色法术力。）</target>
+      </trans-unit>
+      <trans-unit id="b75585bd-fdd8-44d1-8c7c-b96df5fc473e" resname="OGW·5 | Kozilek's Pathfinder | Flavor Text">
+        <source>&amp;quot;We didn't know where it came from or where it was going. All we knew was that we did not matter.&amp;quot;\n—Akiri, kor line-slinger</source>
+        <target state="translated">「我们不知道它从何处来，又往何处去。只知道我们并不重要。」 ～寇族掷索人娅奇丽</target>
       </trans-unit>
       <trans-unit id="3906b61a-3865-4dfd-ae06-a7d2a608851a" resname="OGW·6 | Matter Reshaper | Card Name">
         <source>Matter Reshaper</source>
@@ -94,6 +106,10 @@
         <source>Whenever CARDNAME becomes the target of a spell an opponent controls, counter that spell unless its controller discards a card.</source>
         <target state="translated">每当CARDNAME成为由对手操控之咒语的目标时，除非该咒语的操控者弃一张牌，否则反击之。</target>
       </trans-unit>
+      <trans-unit id="52d4b652-a830-4fd4-94bb-c17c227f2928" resname="OGW·7 | Reality Smasher | Flavor Text">
+        <source>As easy to stop as it is to comprehend.</source>
+        <target state="translated">想阻止它就像想看透它一样困难。</target>
+      </trans-unit>
       <trans-unit id="4e2acf70-7625-4b77-83c1-0e08436da31f" resname="OGW·8 | Spatial Contortion | Card Name">
         <source>Spatial Contortion</source>
         <target state="translated">空间扭曲</target>
@@ -105,6 +121,10 @@
       <trans-unit id="4e2acf70-7625-4b77-83c1-0e08436da31f" resname="OGW·8 | Spatial Contortion | Card Text | Paragraph 2">
         <source>Target creature gets +3/-3 until end of turn.</source>
         <target state="translated">目标生物得+3/-3直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="4e2acf70-7625-4b77-83c1-0e08436da31f" resname="OGW·8 | Spatial Contortion | Flavor Text">
+        <source>&amp;quot;For those without the Planeswalker spark, the merest touch of the Blind Eternities can kill.&amp;quot;\n—Ugin</source>
+        <target state="translated">「对于没有鹏洛客火花的众生而言，哪怕轻微触碰黑暗虚空都会丧命。」 ～乌金</target>
       </trans-unit>
       <trans-unit id="bffc360e-db41-48f3-9365-680d55046e04" resname="OGW·9 | Thought-Knot Seer | Card Name">
         <source>Thought-Knot Seer</source>
@@ -138,6 +158,10 @@
         <source>CARDNAME gets +1/+1 for each land you control named Wastes.</source>
         <target state="translated">你每操控一个名称为荒野的地，CARDNAME便得+1/+1。</target>
       </trans-unit>
+      <trans-unit id="34f635ac-ad6d-4a13-a08e-64c8e2b9779c" resname="OGW·10 | Walker of the Wastes | Flavor Text">
+        <source>In the absence of life, something yet grows.</source>
+        <target state="translated">没有生命之处自有他物成长。</target>
+      </trans-unit>
       <trans-unit id="c7f517b9-ac10-4710-8ef1-ced1253d5ecf" resname="OGW·11 | Warden of Geometries | Card Name">
         <source>Warden of Geometries</source>
         <target state="translated">地界护卫</target>
@@ -149,6 +173,10 @@
       <trans-unit id="c7f517b9-ac10-4710-8ef1-ced1253d5ecf" resname="OGW·11 | Warden of Geometries | Card Text | Paragraph 2">
         <source>{T}: Add {C} to your mana pool. ({C} represents colorless mana.)</source>
         <target state="translated">{T}：加{C}到你的法术力池中。（{C}代表无色法术力。）</target>
+      </trans-unit>
+      <trans-unit id="c7f517b9-ac10-4710-8ef1-ced1253d5ecf" resname="OGW·11 | Warden of Geometries | Flavor Text">
+        <source>The wastelands disorient even the most experienced scouts, making them easy prey for Kozilek's drones.</source>
+        <target state="translated">即使是经验最丰富的斥候也会在荒野中迷途，成为寇基雷奴兽的囊中之物。</target>
       </trans-unit>
       <trans-unit id="f2ef4db8-b51c-4f52-84f1-6fee31c4a14c" resname="OGW·12 | Warping Wail | Card Name">
         <source>Warping Wail</source>
@@ -194,6 +222,10 @@
         <source>Vigilance</source>
         <target state="translated">警戒</target>
       </trans-unit>
+      <trans-unit id="0e54ac79-fbaa-4385-869b-aaf31e33a11f" resname="OGW·14 | Affa Protector | Flavor Text">
+        <source>&amp;quot;Through all the terrors we face, I hold on to the memory of the world before the Eldrazi came. I'd like to see that world again.&amp;quot;</source>
+        <target state="translated">「纵经诸般惧象洗礼，奥札奇降临前的世界景象仍烙印在我脑海之中。我还想再见到那样的世界。」</target>
+      </trans-unit>
       <trans-unit id="fd7d7c93-5622-45ca-9359-110685d9162c" resname="OGW·15 | Allied Reinforcements | Card Name">
         <source>Allied Reinforcements</source>
         <target state="translated">盟军增援</target>
@@ -201,6 +233,10 @@
       <trans-unit id="fd7d7c93-5622-45ca-9359-110685d9162c" resname="OGW·15 | Allied Reinforcements | Card Text | Paragraph 1">
         <source>Put two 2/2 white Knight Ally creature tokens onto the battlefield.</source>
         <target state="translated">将两个2/2白色骑士／伙伴衍生生物放进战场。</target>
+      </trans-unit>
+      <trans-unit id="fd7d7c93-5622-45ca-9359-110685d9162c" resname="OGW·15 | Allied Reinforcements | Flavor Text">
+        <source>&amp;quot;Our formation was scattered after Sea Gate fell. If you're fighting the Eldrazi, consider us your newest recruits.&amp;quot;</source>
+        <target state="translated">「我们的部队在海户沦陷时就已冲散。如果你要去打奥札奇，就把我们算成你的人。」</target>
       </trans-unit>
       <trans-unit id="4719ac60-2cff-4abb-b9cc-b677d3ac945c" resname="OGW·16 | Call the Gatewatch | Card Name">
         <source>Call the Gatewatch</source>
@@ -210,6 +246,10 @@
         <source>Search your library for a planeswalker card, reveal it, and put it into your hand. Then shuffle your library.</source>
         <target state="translated">从你的牌库中搜寻一张鹏洛客牌，展示该牌，并将它置于你手上。然后将你的牌库洗牌。</target>
       </trans-unit>
+      <trans-unit id="4719ac60-2cff-4abb-b9cc-b677d3ac945c" resname="OGW·16 | Call the Gatewatch | Flavor Text">
+        <source>&amp;quot;I've heard it said that a Planeswalker is someone who can always run from danger. But Gideon's right: we're also the ones who can choose to stay.&amp;quot;\n—Jace Beleren</source>
+        <target state="translated">「我曾听人说鹏洛客遇到危险时总会脱身自保。但基定说得没错：我们遇到危险时也能留下应对。」 ～杰斯贝连</target>
+      </trans-unit>
       <trans-unit id="f77977e8-25d8-4531-a6fc-8c46e6904670" resname="OGW·17 | Dazzling Reflection | Card Name">
         <source>Dazzling Reflection</source>
         <target state="translated">炫亮反射</target>
@@ -217,6 +257,10 @@
       <trans-unit id="f77977e8-25d8-4531-a6fc-8c46e6904670" resname="OGW·17 | Dazzling Reflection | Card Text | Paragraph 1">
         <source>You gain life equal to target creature's power. The next time that creature would deal damage this turn, prevent that damage.</source>
         <target state="translated">你获得等同于目标生物力量的生命。防止该生物下一次在本回合中将造成的伤害。</target>
+      </trans-unit>
+      <trans-unit id="f77977e8-25d8-4531-a6fc-8c46e6904670" resname="OGW·17 | Dazzling Reflection | Flavor Text">
+        <source>&amp;quot;The light of a felidar's horns can give even an Eldrazi pause.&amp;quot;\n—Zarra, lullmage</source>
+        <target state="translated">「晶角兽犄角折射出的华美光芒，连奥札奇都会为之驻足。」 ～息法师刹拉</target>
       </trans-unit>
       <trans-unit id="819d11eb-960b-4116-ba09-f03bff88b4e7" resname="OGW·18 | Expedition Raptor | Card Name">
         <source>Expedition Raptor</source>
@@ -250,6 +294,10 @@
         <source>Destroy target attacking creature.</source>
         <target state="translated">消灭目标进行攻击的生物。</target>
       </trans-unit>
+      <trans-unit id="2f468338-bb66-4db0-a883-69095566092b" resname="OGW·20 | Immolating Glare | Flavor Text">
+        <source>&amp;quot;The sun can warm your skin or blister it, nurture your crops or wither them, light your path or blind you. She is a fickle friend, but a far worse enemy.&amp;quot;\n—Nazra of the Stone Havens</source>
+        <target state="translated">「太阳能温暖肌肤、滋养作物、照亮道路，也会炙伤皮肤、晒枯农田、灼盲双眼。她是捉摸不透的朋友，更是难以对付的强敌。」 ～石庇所的娜姿拉</target>
+      </trans-unit>
       <trans-unit id="a30f26f7-5181-4bf1-9084-5563b4996a3c" resname="OGW·21 | Iona's Blessing | Card Name">
         <source>Iona's Blessing</source>
         <target state="translated">艾欧娜的祝福</target>
@@ -262,6 +310,10 @@
         <source>Enchanted creature gets +2/+2, has vigilance, and can block an additional creature.</source>
         <target state="translated">所结附的生物得+2/+2，具有警戒异能，且能额外多阻挡一个生物。</target>
       </trans-unit>
+      <trans-unit id="a30f26f7-5181-4bf1-9084-5563b4996a3c" resname="OGW·21 | Iona's Blessing | Flavor Text">
+        <source>&amp;quot;Walk now in my light. When the rest of the world closes its eyes, you will still see.&amp;quot;\n—Iona</source>
+        <target state="translated">「在我的光明中前行。当周遭世界紧闭双目，你眼也仍能见得他物。」 ～艾欧娜</target>
+      </trans-unit>
       <trans-unit id="1ca698e3-1249-4a08-be04-bae3bd944e99" resname="OGW·22 | Isolation Zone | Card Name">
         <source>Isolation Zone</source>
         <target state="translated">隔离区</target>
@@ -269,6 +321,10 @@
       <trans-unit id="1ca698e3-1249-4a08-be04-bae3bd944e99" resname="OGW·22 | Isolation Zone | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, exile target creature or enchantment an opponent controls until CARDNAME leaves the battlefield. (That permanent returns under its owner's control.)</source>
         <target state="translated">当CARDNAME进战场时，放逐目标由对手操控的生物或结界，直到CARDNAME离开战场为止。（该永久物会在其拥有者的操控下移回。）</target>
+      </trans-unit>
+      <trans-unit id="1ca698e3-1249-4a08-be04-bae3bd944e99" resname="OGW·22 | Isolation Zone | Flavor Text">
+        <source>When properly aligned, hedrons become powerful tools of binding.</source>
+        <target state="translated">晶石只要妥当布阵，就能成为强大的束缚工具。</target>
       </trans-unit>
       <trans-unit id="5ce587ba-f23a-4548-a5b8-fca54984d4b4" resname="OGW·23 | Kor Scythemaster | Card Name">
         <source>Kor Scythemaster</source>
@@ -278,6 +334,10 @@
         <source>CARDNAME has first strike as long as it's attacking.</source>
         <target state="translated">只要CARDNAME正进行攻击，它便具有先攻异能。</target>
       </trans-unit>
+      <trans-unit id="5ce587ba-f23a-4548-a5b8-fca54984d4b4" resname="OGW·23 | Kor Scythemaster | Flavor Text">
+        <source>The kor of Zendikar are known for quiet determination in the face of overwhelming odds.</source>
+        <target state="translated">赞迪卡的寇族拥有在极端不利情势下仍能处变不惊的名声。</target>
+      </trans-unit>
       <trans-unit id="54938334-ebad-4dde-82e6-8c854aef4a91" resname="OGW·24 | Kor Sky Climber | Card Name">
         <source>Kor Sky Climber</source>
         <target state="translated">攀空寇族</target>
@@ -285,6 +345,10 @@
       <trans-unit id="54938334-ebad-4dde-82e6-8c854aef4a91" resname="OGW·24 | Kor Sky Climber | Card Text | Paragraph 1">
         <source>{1}{W}: CARDNAME gains flying until end of turn.</source>
         <target state="translated">{1}{W}：CARDNAME获得飞行异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="54938334-ebad-4dde-82e6-8c854aef4a91" resname="OGW·24 | Kor Sky Climber | Flavor Text">
+        <source>&amp;quot;With rope, I can fly as far as the rope can reach. But with light, the sky is the limit.&amp;quot;</source>
+        <target state="translated">「绳索做缆，线长纵腾跃。光束为索，天高任翱翔。」</target>
       </trans-unit>
       <trans-unit id="ef0dbb08-d124-46da-bfb1-af7ef4a18179" resname="OGW·25 | Linvala, the Preserver | Card Name">
         <source>Linvala, the Preserver</source>
@@ -310,6 +374,10 @@
         <source>Creatures you control get +1/+0 and gain indestructible until end of turn. (Damage and effects that say &amp;quot;destroy&amp;quot; don't destroy them.)</source>
         <target state="translated">直到回合结束，由你操控的生物得+1/+0且获得不灭异能。（伤害与注明「消灭」的效应不会将它们消灭。）</target>
       </trans-unit>
+      <trans-unit id="30cace63-91ca-493c-b67f-740fbbf06370" resname="OGW·26 | Make a Stand | Flavor Text">
+        <source>For a moment they stood tall, all fear forgotten.</source>
+        <target state="translated">他们在那一刻忘却所有恐惧，奋勇抗敌。</target>
+      </trans-unit>
       <trans-unit id="a35d3113-6cb7-4b74-94a3-8160d9ac1b89" resname="OGW·27 | Makindi Aeronaut | Card Name">
         <source>Makindi Aeronaut</source>
         <target state="translated">马钦迪空行师</target>
@@ -317,6 +385,10 @@
       <trans-unit id="a35d3113-6cb7-4b74-94a3-8160d9ac1b89" resname="OGW·27 | Makindi Aeronaut | Card Text | Paragraph 1">
         <source>Flying</source>
         <target state="translated">飞行</target>
+      </trans-unit>
+      <trans-unit id="a35d3113-6cb7-4b74-94a3-8160d9ac1b89" resname="OGW·27 | Makindi Aeronaut | Flavor Text">
+        <source>&amp;quot;The Eldrazi have surprised us before. It's my job to make sure that never happens again.&amp;quot;</source>
+        <target state="translated">「奥札奇曾让我们措手不及。我的职责是保证不会重蹈覆辙。」</target>
       </trans-unit>
       <trans-unit id="4e25089b-5a5f-4cb5-9261-be6cb6b45b22" resname="OGW·28 | Mighty Leap | Card Name">
         <source>Mighty Leap</source>
@@ -326,6 +398,10 @@
         <source>Target creature gets +2/+2 and gains flying until end of turn.</source>
         <target state="translated">直到回合结束，目标生物得+2/+2且获得飞行异能。</target>
       </trans-unit>
+      <trans-unit id="4e25089b-5a5f-4cb5-9261-be6cb6b45b22" resname="OGW·28 | Mighty Leap | Flavor Text">
+        <source>&amp;quot;We may have lost faith in our gods, but we are far from losing faith in ourselves.&amp;quot;\n—Munda, ambush leader</source>
+        <target state="translated">「我们可能已失去对神明的信念，但我们远未失去对自己的信心。」 ～伏击领袖蒙达</target>
+      </trans-unit>
       <trans-unit id="0dfb21b1-95a5-446d-afc6-aede81ee5a0d" resname="OGW·29 | Munda's Vanguard | Card Name">
         <source>Munda's Vanguard</source>
         <target state="translated">蒙达的先锋</target>
@@ -333,6 +409,10 @@
       <trans-unit id="0dfb21b1-95a5-446d-afc6-aede81ee5a0d" resname="OGW·29 | Munda's Vanguard | Card Text | Paragraph 1">
         <source>Cohort — {T}, Tap an untapped Ally you control: Put a +1/+1 counter on each creature you control.</source>
         <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：在每个由你操控的生物上各放置一个+1/+1指示物。</target>
+      </trans-unit>
+      <trans-unit id="0dfb21b1-95a5-446d-afc6-aede81ee5a0d" resname="OGW·29 | Munda's Vanguard | Flavor Text">
+        <source>&amp;quot;Do not let yourselves fall now. Zendikar is depending on us—on you!&amp;quot;</source>
+        <target state="translated">「现在还不是垂头丧气的时候。赞迪卡仰赖着我们～也仰赖着各位！」</target>
       </trans-unit>
       <trans-unit id="97976ade-c6ec-4068-be6b-953255b86a79" resname="OGW·30 | Oath of Gideon | Card Name">
         <source>Oath of Gideon</source>
@@ -346,6 +426,10 @@
         <source>Each planeswalker you control enters the battlefield with an additional loyalty counter on it.</source>
         <target state="translated">每个由你操控的鹏洛客进战场时上面额外有一个忠诚指示物。</target>
       </trans-unit>
+      <trans-unit id="97976ade-c6ec-4068-be6b-953255b86a79" resname="OGW·30 | Oath of Gideon | Flavor Text">
+        <source>&amp;quot;For justice and peace, I will keep watch.&amp;quot;</source>
+        <target state="translated">「为了正义与和平，我将挚诚守护。」</target>
+      </trans-unit>
       <trans-unit id="9b255d34-04fa-4d3b-9fc1-8f980ef1f054" resname="OGW·31 | Ondu War Cleric | Card Name">
         <source>Ondu War Cleric</source>
         <target state="translated">昂度战僧</target>
@@ -353,6 +437,10 @@
       <trans-unit id="9b255d34-04fa-4d3b-9fc1-8f980ef1f054" resname="OGW·31 | Ondu War Cleric | Card Text | Paragraph 1">
         <source>Cohort — {T}, Tap an untapped Ally you control: You gain 2 life.</source>
         <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：你获得2点生命。</target>
+      </trans-unit>
+      <trans-unit id="9b255d34-04fa-4d3b-9fc1-8f980ef1f054" resname="OGW·31 | Ondu War Cleric | Flavor Text">
+        <source>&amp;quot;I will follow the light of Iona into battle, and I will know no fear.&amp;quot;</source>
+        <target state="translated">「我将追随艾欧娜的明光加入战场，也将无所畏惧。」</target>
       </trans-unit>
       <trans-unit id="2ecacff4-87b9-4cc1-bfbe-019cfda82d17" resname="OGW·32 | Relief Captain | Card Name">
         <source>Relief Captain</source>
@@ -362,6 +450,10 @@
         <source>When CARDNAME enters the battlefield, support 3. (Put a +1/+1 counter on each of up to three other target creatures.)</source>
         <target state="translated">当CARDNAME进战场时，支援3。（在至多三个其他目标生物上各放置一个+1/+1指示物。）</target>
       </trans-unit>
+      <trans-unit id="2ecacff4-87b9-4cc1-bfbe-019cfda82d17" resname="OGW·32 | Relief Captain | Flavor Text">
+        <source>Sometimes gestures of support are small. Sometimes not.</source>
+        <target state="translated">援助有时只是聊表心意。有时这份心意却大得惊人。</target>
+      </trans-unit>
       <trans-unit id="76dadfd8-8492-4c55-827c-cd4e6a40ae97" resname="OGW·33 | Searing Light | Card Name">
         <source>Searing Light</source>
         <target state="translated">炙热明光</target>
@@ -369,6 +461,10 @@
       <trans-unit id="76dadfd8-8492-4c55-827c-cd4e6a40ae97" resname="OGW·33 | Searing Light | Card Text | Paragraph 1">
         <source>Destroy target attacking or blocking creature with power 2 or less.</source>
         <target state="translated">消灭目标进行攻击或阻挡，且力量等于或小于2的生物。</target>
+      </trans-unit>
+      <trans-unit id="76dadfd8-8492-4c55-827c-cd4e6a40ae97" resname="OGW·33 | Searing Light | Flavor Text">
+        <source>&amp;quot;Light can lay bare our fears. It can also make them go away.&amp;quot;\n—Nazra of the Stone Havens</source>
+        <target state="translated">「明光能揭露我们的恐惧，同时也能将其驱散。」 ～石庇所的娜姿拉</target>
       </trans-unit>
       <trans-unit id="49d11865-a1ea-4f2e-b7da-31630c6d0272" resname="OGW·34 | Shoulder to Shoulder | Card Name">
         <source>Shoulder to Shoulder</source>
@@ -382,6 +478,10 @@
         <source>Draw a card.</source>
         <target state="translated">抓一张牌。</target>
       </trans-unit>
+      <trans-unit id="49d11865-a1ea-4f2e-b7da-31630c6d0272" resname="OGW·34 | Shoulder to Shoulder | Flavor Text">
+        <source>&amp;quot;Sea Gate may have fallen, but we still stand. We still fight.&amp;quot;\n—Gideon Jura</source>
+        <target state="translated">「海户或已沦陷，我们还未倒下。我们还要战斗。」 ～基定尤拉</target>
+      </trans-unit>
       <trans-unit id="5677bd49-69eb-41dc-8e64-2df3b7f5c45f" resname="OGW·35 | Spawnbinder Mage | Card Name">
         <source>Spawnbinder Mage</source>
         <target state="translated">束裔法师</target>
@@ -389,6 +489,10 @@
       <trans-unit id="5677bd49-69eb-41dc-8e64-2df3b7f5c45f" resname="OGW·35 | Spawnbinder Mage | Card Text | Paragraph 1">
         <source>Cohort — {T}, Tap an untapped Ally you control: Tap target creature.</source>
         <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：横置目标生物。</target>
+      </trans-unit>
+      <trans-unit id="5677bd49-69eb-41dc-8e64-2df3b7f5c45f" resname="OGW·35 | Spawnbinder Mage | Flavor Text">
+        <source>&amp;quot;Follow me. Step lightly. And resist the urge to kick them.&amp;quot;</source>
+        <target state="translated">「跟着我走。脚步放轻。忍住不要踹它们。」</target>
       </trans-unit>
       <trans-unit id="539dbdfe-3e32-409d-8e1e-aeb0c56656a7" resname="OGW·36 | Steppe Glider | Card Name">
         <source>Steppe Glider</source>
@@ -402,6 +506,10 @@
         <source>{1}{W}: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn.</source>
         <target state="translated">{1}{W}：直到回合结束，目标其上有+1/+1指示物的生物获得飞行与警戒异能。</target>
       </trans-unit>
+      <trans-unit id="539dbdfe-3e32-409d-8e1e-aeb0c56656a7" resname="OGW·36 | Steppe Glider | Flavor Text">
+        <source>It glides over the landscape. It also happens to be one.</source>
+        <target state="translated">它掠过地面景物。它本身就是地面一景。</target>
+      </trans-unit>
       <trans-unit id="e1b98e63-f23d-432a-86ae-f88bdad2f648" resname="OGW·37 | Stone Haven Outfitter | Card Name">
         <source>Stone Haven Outfitter</source>
         <target state="translated">石庇所验装兵</target>
@@ -414,6 +522,10 @@
         <source>Whenever an equipped creature you control dies, draw a card.</source>
         <target state="translated">每当一个由你操控且已佩带武具的生物死去时，抓一张牌。</target>
       </trans-unit>
+      <trans-unit id="e1b98e63-f23d-432a-86ae-f88bdad2f648" resname="OGW·37 | Stone Haven Outfitter | Flavor Text">
+        <source>The makers and menders are the first called to battle and the last to leave.</source>
+        <target state="translated">造兵铸匠最先响应战斗召唤，最后离开战场。</target>
+      </trans-unit>
       <trans-unit id="a5b1ec11-48c3-49d8-9dcd-1da5ffaf9184" resname="OGW·38 | Stoneforge Acolyte | Card Name">
         <source>Stoneforge Acolyte</source>
         <target state="translated">锻石侍僧</target>
@@ -421,6 +533,10 @@
       <trans-unit id="a5b1ec11-48c3-49d8-9dcd-1da5ffaf9184" resname="OGW·38 | Stoneforge Acolyte | Card Text | Paragraph 1">
         <source>Cohort — {T}, Tap an untapped Ally you control: Look at the top four cards of your library. You may reveal an Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</source>
         <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：检视你牌库顶的四张牌。你可以展示其中一张武具牌，并将其置于你手上。将其余的牌以任意顺序置于你牌库底。</target>
+      </trans-unit>
+      <trans-unit id="a5b1ec11-48c3-49d8-9dcd-1da5ffaf9184" resname="OGW·38 | Stoneforge Acolyte | Flavor Text">
+        <source>&amp;quot;The stone speaks. We are merely interpreters.&amp;quot;</source>
+        <target state="translated">「石头有灵。我们只是遵其言语行事。」</target>
       </trans-unit>
       <trans-unit id="c99f0dc1-c8cf-4733-a874-5ae57b38258e" resname="OGW·39 | Wall of Resurgence | Card Name">
         <source>Wall of Resurgence</source>
@@ -457,6 +573,10 @@
       <trans-unit id="4eb60957-0811-40c3-a92b-cce3e6a94745" resname="OGW·41 | Blinding Drone | Card Text | Paragraph 2">
         <source>{C}, {T}: Tap target creature. ({C} represents colorless mana.)</source>
         <target state="translated">{C}，{T}：横置目标生物。（{C}代表无色法术力。）</target>
+      </trans-unit>
+      <trans-unit id="4eb60957-0811-40c3-a92b-cce3e6a94745" resname="OGW·41 | Blinding Drone | Flavor Text">
+        <source>&amp;quot;Zendikar's true gods have risen. Whether in reverence or agony, all the world will kneel.&amp;quot;\n—Ayli, high priest of the Eternal Pilgrims</source>
+        <target state="translated">「赞迪卡的真神已现身。无论是出于敬畏或是痛苦，整个世界都会屈服。」 ～坚信朝圣客高阶僧侣艾栗</target>
       </trans-unit>
       <trans-unit id="bbe4bb6f-bec6-49d2-99d7-e3750a0ea03f" resname="OGW·42 | Cultivator Drone | Card Name">
         <source>Cultivator Drone</source>
@@ -534,6 +654,10 @@
         <source>{3}{C}: Draw a card. ({C} represents colorless mana.)</source>
         <target state="translated">{3}{C}：抓一张牌。（{C}代表无色法术力。）</target>
       </trans-unit>
+      <trans-unit id="03ee2d7e-50ee-4f5a-b787-cf9669a892f3" resname="OGW·46 | Prophet of Distortion | Flavor Text">
+        <source>It doesn't twist words. It twists worlds.</source>
+        <target state="translated">它扭曲的不是言语，而是世界。</target>
+      </trans-unit>
       <trans-unit id="2dee6dca-9c7e-4347-bea7-7fecc69e5827" resname="OGW·47 | Slip Through Space | Card Name">
         <source>Slip Through Space</source>
         <target state="translated">滑越空间</target>
@@ -549,6 +673,10 @@
       <trans-unit id="2dee6dca-9c7e-4347-bea7-7fecc69e5827" resname="OGW·47 | Slip Through Space | Card Text | Paragraph 3">
         <source>Draw a card.</source>
         <target state="translated">抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="2dee6dca-9c7e-4347-bea7-7fecc69e5827" resname="OGW·47 | Slip Through Space | Flavor Text">
+        <source>The Eldrazi twisted in a direction that had no name, and a frontal assault became a panicked rout.</source>
+        <target state="translated">奥札奇向未名方向扭曲，瞬间就将正面突袭化作慌乱溃败。</target>
       </trans-unit>
       <trans-unit id="46f9eeb2-22f6-4bdb-bbf8-f53774cc6226" resname="OGW·48 | Thought Harvester | Card Name">
         <source>Thought Harvester</source>
@@ -566,6 +694,10 @@
         <source>Whenever you cast a colorless spell, target opponent exiles the top card of his or her library.</source>
         <target state="translated">每当你施放无色咒语时，目标对手放逐其牌库顶牌。</target>
       </trans-unit>
+      <trans-unit id="46f9eeb2-22f6-4bdb-bbf8-f53774cc6226" resname="OGW·48 | Thought Harvester | Flavor Text">
+        <source>&amp;quot;I never thought I'd miss the gomazoa.&amp;quot;\n—Trinda, Hada spy patrol</source>
+        <target state="translated">「我从未想过我竟会怀念格玛佐雅。」 ～哈达巡侦员琴达</target>
+      </trans-unit>
       <trans-unit id="4bf13c5e-3968-48ad-ba08-99ba58873223" resname="OGW·49 | Void Shatter | Card Name">
         <source>Void Shatter</source>
         <target state="translated">粉碎虚空</target>
@@ -578,9 +710,17 @@
         <source>Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.</source>
         <target state="translated">反击目标咒语。如果以此法反击该咒语，则改为将它放逐，而非置入其拥有者的坟墓场。</target>
       </trans-unit>
+      <trans-unit id="4bf13c5e-3968-48ad-ba08-99ba58873223" resname="OGW·49 | Void Shatter | Flavor Text">
+        <source>Eldrazi break concentration like glass.</source>
+        <target state="translated">奥札奇如打碎玻璃一般粉碎专念。</target>
+      </trans-unit>
       <trans-unit id="783794e3-fe0c-4014-ae5a-6c249af23ddc" resname="OGW·50 | Ancient Crab | Card Name">
         <source>Ancient Crab</source>
         <target state="translated">远古蟹</target>
+      </trans-unit>
+      <trans-unit id="783794e3-fe0c-4014-ae5a-6c249af23ddc" resname="OGW·50 | Ancient Crab | Flavor Text">
+        <source>After the fall of Sea Gate and the draining of the Halimar basin, the crab set off to find a new home.</source>
+        <target state="translated">海户沦陷，哈利玛海盆干涸之后，螃蟹开始寻找新的家园。</target>
       </trans-unit>
       <trans-unit id="dd83129b-7e8c-4cc5-a7b3-e0ae221d7ad4" resname="OGW·51 | Comparative Analysis | Card Name">
         <source>Comparative Analysis</source>
@@ -593,6 +733,10 @@
       <trans-unit id="dd83129b-7e8c-4cc5-a7b3-e0ae221d7ad4" resname="OGW·51 | Comparative Analysis | Card Text | Paragraph 2">
         <source>Target player draws two cards.</source>
         <target state="translated">目标牌手抓两张牌。</target>
+      </trans-unit>
+      <trans-unit id="dd83129b-7e8c-4cc5-a7b3-e0ae221d7ad4" resname="OGW·51 | Comparative Analysis | Flavor Text">
+        <source>&amp;quot;Our time grows short. If we wish to vanquish the Eldrazi, we must unlock the hedrons' secrets.&amp;quot;\n—Jace Beleren</source>
+        <target state="translated">「我们的时间越来越少。如果想要击垮奥札奇，我们必须揭开晶石的秘密。」 ～杰斯贝连</target>
       </trans-unit>
       <trans-unit id="49dd3963-a4d7-4992-b6f8-753996390bbf" resname="OGW·52 | Containment Membrane | Card Name">
         <source>Containment Membrane</source>
@@ -634,6 +778,10 @@
         <source>When CARDNAME dies, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.</source>
         <target state="translated">当CARDNAME死去时，你可以在目标由你操控的地上放置三个+1/+1指示物。若你如此作，则该地成为0/0，具敏捷异能的元素生物，且仍然是地。</target>
       </trans-unit>
+      <trans-unit id="bff62270-57ed-4706-bedf-11f60ae2da43" resname="OGW·54 | Cyclone Sire | Flavor Text">
+        <source>The rampaging Roil creates life out of the most volatile elements.</source>
+        <target state="translated">盛怒的狂搅能赋最为无形的元素以生命。</target>
+      </trans-unit>
       <trans-unit id="3821122c-c495-42b0-b8f6-3f469967f16d" resname="OGW·55 | Gift of Tusks | Card Name">
         <source>Gift of Tusks</source>
         <target state="translated">象牙赋礼</target>
@@ -641,6 +789,10 @@
       <trans-unit id="3821122c-c495-42b0-b8f6-3f469967f16d" resname="OGW·55 | Gift of Tusks | Card Text | Paragraph 1">
         <source>Until end of turn, target creature loses all abilities and becomes a green Elephant with base power and toughness 3/3.</source>
         <target state="translated">直到回合结束，目标生物失去所有异能，且成为基础力量与防御力为3/3的绿色象。</target>
+      </trans-unit>
+      <trans-unit id="3821122c-c495-42b0-b8f6-3f469967f16d" resname="OGW·55 | Gift of Tusks | Flavor Text">
+        <source>It's an experience you'll never forget.</source>
+        <target state="translated">此般经历会令你永生难忘。</target>
       </trans-unit>
       <trans-unit id="6cf33069-013f-43ab-9a31-e67bb6dc996d" resname="OGW·56 | Grip of the Roil | Card Name">
         <source>Grip of the Roil</source>
@@ -686,6 +838,10 @@
         <source>Flying</source>
         <target state="translated">飞行</target>
       </trans-unit>
+      <trans-unit id="0a5b059f-2fa3-474f-9c74-6d4021703add" resname="OGW·58 | Jwar Isle Avenger | Flavor Text">
+        <source>Though solitary by nature, the sphinxes did not hesitate to join in the fight against the Eldrazi.</source>
+        <target state="translated">虽然史芬斯生性孤僻，但也毫不犹豫加入大军，共同对抗奥札奇。</target>
+      </trans-unit>
       <trans-unit id="026c499d-3d5b-4f65-a824-f78f146b82ef" resname="OGW·59 | Negate | Card Name">
         <source>Negate</source>
         <target state="translated">失效</target>
@@ -693,6 +849,10 @@
       <trans-unit id="026c499d-3d5b-4f65-a824-f78f146b82ef" resname="OGW·59 | Negate | Card Text | Paragraph 1">
         <source>Counter target noncreature spell.</source>
         <target state="translated">反击目标非生物咒语。</target>
+      </trans-unit>
+      <trans-unit id="026c499d-3d5b-4f65-a824-f78f146b82ef" resname="OGW·59 | Negate | Flavor Text">
+        <source>&amp;quot;Eventually, everything returns to silence.&amp;quot;\n—Zarra, lullmage</source>
+        <target state="translated">「万物终归静寂。」 ～息法师刹拉</target>
       </trans-unit>
       <trans-unit id="e8e7b007-a14b-40b2-9de7-38545c50a073" resname="OGW·60 | Oath of Jace | Card Name">
         <source>Oath of Jace</source>
@@ -705,6 +865,10 @@
       <trans-unit id="e8e7b007-a14b-40b2-9de7-38545c50a073" resname="OGW·60 | Oath of Jace | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, scry X, where X is the number of planeswalkers you control.</source>
         <target state="translated">在你的维持开始时，占卜X，X为由你操控的鹏洛客数量。</target>
+      </trans-unit>
+      <trans-unit id="e8e7b007-a14b-40b2-9de7-38545c50a073" resname="OGW·60 | Oath of Jace | Flavor Text">
+        <source>&amp;quot;For the sake of the Multiverse, I will keep watch.&amp;quot;</source>
+        <target state="translated">「为了整个多重宇宙，我将挚诚守护。」</target>
       </trans-unit>
       <trans-unit id="33ff1000-1a4e-43f6-aa02-1dbe9fac6901" resname="OGW·61 | Overwhelming Denial | Card Name">
         <source>Overwhelming Denial</source>
@@ -730,6 +894,10 @@
         <source>Return up to two target creatures your opponents control to their owners' hands. Target player draws two cards.</source>
         <target state="translated">将至多两个目标由对手操控的生物移回其拥有者手上。目标牌手抓两张牌。</target>
       </trans-unit>
+      <trans-unit id="3d878c10-de5e-4224-98ce-d49902b5ab8b" resname="OGW·62 | Roiling Waters | Flavor Text">
+        <source>&amp;quot;The Roil may be unpredictable, but it is not uncontrollable.&amp;quot;\n—Noyan Dar, Tazeem roilmage</source>
+        <target state="translated">「狂搅或难预测，但非无从掌控。」 ～塔晋狂搅法师诺言达</target>
+      </trans-unit>
       <trans-unit id="866f92a3-2738-4e0f-adda-3ff9227dc17a" resname="OGW·63 | Sphinx of the Final Word | Card Name">
         <source>Sphinx of the Final Word</source>
         <target state="translated">终局史芬斯</target>
@@ -746,6 +914,10 @@
         <source>Instant and sorcery spells you control can't be countered by spells or abilities.</source>
         <target state="translated">由你操控的瞬间和法术咒语不能被咒语或异能反击。</target>
       </trans-unit>
+      <trans-unit id="866f92a3-2738-4e0f-adda-3ff9227dc17a" resname="OGW·63 | Sphinx of the Final Word | Flavor Text">
+        <source>He answers questions as readily as he asks them, but his answer is always &amp;quot;no.&amp;quot;</source>
+        <target state="translated">他随时准备提问，也时刻准备作答，但他的答案永远是「不」。</target>
+      </trans-unit>
       <trans-unit id="75234f6d-a2da-42dd-a668-8db8f341e7f0" resname="OGW·64 | Sweep Away | Card Name">
         <source>Sweep Away</source>
         <target state="translated">清扫</target>
@@ -754,6 +926,10 @@
         <source>Return target creature to its owner's hand. If that creature is attacking, you may put it on top of its owner's library instead.</source>
         <target state="translated">将目标生物移回其拥有者手上。如果该生物正进行攻击，则你可以改为将它置于其拥有者的牌库顶。</target>
       </trans-unit>
+      <trans-unit id="75234f6d-a2da-42dd-a668-8db8f341e7f0" resname="OGW·64 | Sweep Away | Flavor Text">
+        <source>The Roil takes many forms. It also takes many victims.</source>
+        <target state="translated">狂搅有多种形态。它也有许多牺牲者。</target>
+      </trans-unit>
       <trans-unit id="0d4ddc45-cd67-4b2c-84d0-4604783fd8e7" resname="OGW·65 | Umara Entangler | Card Name">
         <source>Umara Entangler</source>
         <target state="translated">乌玛拉缠网客</target>
@@ -761,6 +937,10 @@
       <trans-unit id="0d4ddc45-cd67-4b2c-84d0-4604783fd8e7" resname="OGW·65 | Umara Entangler | Card Text | Paragraph 1">
         <source>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</source>
         <target state="translated">灵技（每当你施放非生物咒语时，此生物得+1/+1直到回合结束。）</target>
+      </trans-unit>
+      <trans-unit id="0d4ddc45-cd67-4b2c-84d0-4604783fd8e7" resname="OGW·65 | Umara Entangler | Flavor Text">
+        <source>&amp;quot;Sea Gate is gone, the Halimar basin empty. But rebuild the seawall and give these waters time, and they will fill the basin anew.&amp;quot;</source>
+        <target state="translated">「海户已不复存在，哈利玛海盆也已干涸。但只要我们重建海墙，假以海洋时日，便能使海盆重焕新机。」</target>
       </trans-unit>
       <trans-unit id="6f87292c-0140-44d7-881e-2e8c9ff737a1" resname="OGW·66 | Unity of Purpose | Card Name">
         <source>Unity of Purpose</source>
@@ -773,6 +953,10 @@
       <trans-unit id="6f87292c-0140-44d7-881e-2e8c9ff737a1" resname="OGW·66 | Unity of Purpose | Card Text | Paragraph 2">
         <source>Untap each creature you control with a +1/+1 counter on it.</source>
         <target state="translated">重置每个由你操控且其上有+1/+1指示物的生物。</target>
+      </trans-unit>
+      <trans-unit id="6f87292c-0140-44d7-881e-2e8c9ff737a1" resname="OGW·66 | Unity of Purpose | Flavor Text">
+        <source>Faced with the novel problem of inspiring an army, Jace asked himself: &amp;quot;What would Gideon say?&amp;quot;</source>
+        <target state="translated">杰斯面临需要鼓舞部队士气这道全新难题，他自问：「这时基定会说什么？」</target>
       </trans-unit>
       <trans-unit id="50460cce-ee1c-4384-bb0c-d90616e0d2e9" resname="OGW·67 | Bearer of Silence | Card Name">
         <source>Bearer of Silence</source>
@@ -806,6 +990,10 @@
         <source>{3}{C}, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. ({C} represents colorless mana.)</source>
         <target state="translated">{3}{C}，从你的坟墓场放逐一张生物牌：目标对手失去若干生命，其数量等同于所放逐牌的力量。（{C}代表无色法术力。）</target>
       </trans-unit>
+      <trans-unit id="e2b26769-4705-4b09-94b4-1063e67041d1" resname="OGW·68 | Dread Defiler | Flavor Text">
+        <source>It left behind an echoing emptiness more horrible than the grave.</source>
+        <target state="translated">它所经之处只余虚空反响回荡，比墓地本身更为慑人。</target>
+      </trans-unit>
       <trans-unit id="996da623-1c34-4545-a800-648238ea91ae" resname="OGW·69 | Essence Depleter | Card Name">
         <source>Essence Depleter</source>
         <target state="translated">耗魂奴兽</target>
@@ -817,6 +1005,10 @@
       <trans-unit id="996da623-1c34-4545-a800-648238ea91ae" resname="OGW·69 | Essence Depleter | Card Text | Paragraph 2">
         <source>{1}{C}: Target opponent loses 1 life and you gain 1 life. ({C} represents colorless mana.)</source>
         <target state="translated">{1}{C}：目标对手失去1点生命且你获得1点生命。（{C}代表无色法术力。）</target>
+      </trans-unit>
+      <trans-unit id="996da623-1c34-4545-a800-648238ea91ae" resname="OGW·69 | Essence Depleter | Flavor Text">
+        <source>When Kozilek emerged at Sea Gate, his brood lineage swarmed to the surface.</source>
+        <target state="translated">寇基雷现身海户之时，其巢窝血脉后裔蜂拥而出。</target>
       </trans-unit>
       <trans-unit id="77899cb2-4d87-4c2d-99ae-1ae75bc5dc86" resname="OGW·70 | Flaying Tendrils | Card Name">
         <source>Flaying Tendrils</source>
@@ -830,6 +1022,10 @@
         <source>All creatures get -2/-2 until end of turn. If a creature would die this turn, exile it instead.</source>
         <target state="translated">所有生物得-2/-2直到回合结束。如果本回合中有生物将死去，则改为将它放逐。</target>
       </trans-unit>
+      <trans-unit id="77899cb2-4d87-4c2d-99ae-1ae75bc5dc86" resname="OGW·70 | Flaying Tendrils | Flavor Text">
+        <source>Only one Eldrazi stood against them, yet the defenders were outnumbered.</source>
+        <target state="translated">对手只有一个奥札奇，但守军人数还是不够。</target>
+      </trans-unit>
       <trans-unit id="f8585871-24a2-41d7-ae12-29aabfbc9ccc" resname="OGW·71 | Havoc Sower | Card Name">
         <source>Havoc Sower</source>
         <target state="translated">传劫恶体</target>
@@ -841,6 +1037,10 @@
       <trans-unit id="f8585871-24a2-41d7-ae12-29aabfbc9ccc" resname="OGW·71 | Havoc Sower | Card Text | Paragraph 2">
         <source>{1}{C}: CARDNAME gets +2/+1 until end of turn. ({C} represents colorless mana.)</source>
         <target state="translated">{1}{C}：CARDNAME得+2/+1直到回合结束。（{C}代表无色法术力。）</target>
+      </trans-unit>
+      <trans-unit id="f8585871-24a2-41d7-ae12-29aabfbc9ccc" resname="OGW·71 | Havoc Sower | Flavor Text">
+        <source>It grew with a terrible swiftness.</source>
+        <target state="translated">它的生长速度快得可怕。</target>
       </trans-unit>
       <trans-unit id="88c9d8c5-333b-4281-b923-b4a060927bbc" resname="OGW·72 | Inverter of Truth | Card Name">
         <source>Inverter of Truth</source>
@@ -858,6 +1058,10 @@
         <source>When CARDNAME enters the battlefield, exile all cards from your library face down, then shuffle all cards from your graveyard into your library.</source>
         <target state="translated">当CARDNAME进战场时，面朝下地放逐你牌库中所有的牌，然后将所有在你坟墓场中的牌洗回你的牌库。</target>
       </trans-unit>
+      <trans-unit id="88c9d8c5-333b-4281-b923-b4a060927bbc" resname="OGW·72 | Inverter of Truth | Flavor Text">
+        <source>In its shadow, everything changed.</source>
+        <target state="translated">阴影所及，万事俱变。</target>
+      </trans-unit>
       <trans-unit id="a384cd5b-2c6c-4969-bb62-a017e2fc9794" resname="OGW·73 | Kozilek's Shrieker | Card Name">
         <source>Kozilek's Shrieker</source>
         <target state="translated">寇基雷鸣体</target>
@@ -869,6 +1073,10 @@
       <trans-unit id="a384cd5b-2c6c-4969-bb62-a017e2fc9794" resname="OGW·73 | Kozilek's Shrieker | Card Text | Paragraph 2">
         <source>{C}: CARDNAME gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures. {C} represents colorless mana.)</source>
         <target state="translated">{C}：直到回合结束，CARDNAME得+1/+0且获得威慑异能。（它只能被两个或更多生物阻挡。{C}代表无色法术力。）</target>
+      </trans-unit>
+      <trans-unit id="a384cd5b-2c6c-4969-bb62-a017e2fc9794" resname="OGW·73 | Kozilek's Shrieker | Flavor Text">
+        <source>Listen to the sound of defeat.</source>
+        <target state="translated">聆听失败的声音。</target>
       </trans-unit>
       <trans-unit id="d80665ae-fcb2-48fd-95be-8768293bcef7" resname="OGW·74 | Kozilek's Translator | Card Name">
         <source>Kozilek's Translator</source>
@@ -882,6 +1090,10 @@
         <source>Pay 1 life: Add {C} to your mana pool. Activate this ability only once each turn. ({C} represents colorless mana.)</source>
         <target state="translated">支付1点生命：加{C}到你的法术力池中。此异能每回合中只能起动一次。（{C}代表无色法术力。）</target>
       </trans-unit>
+      <trans-unit id="d80665ae-fcb2-48fd-95be-8768293bcef7" resname="OGW·74 | Kozilek's Translator | Flavor Text">
+        <source>From nothingness, sustenance.</source>
+        <target state="translated">从虚无处生给养。</target>
+      </trans-unit>
       <trans-unit id="24e30acf-b30f-4bb3-b80e-dc7e9559da51" resname="OGW·75 | Oblivion Strike | Card Name">
         <source>Oblivion Strike</source>
         <target state="translated">遗忘挥击</target>
@@ -894,6 +1106,10 @@
         <source>Exile target creature.</source>
         <target state="translated">放逐目标生物。</target>
       </trans-unit>
+      <trans-unit id="24e30acf-b30f-4bb3-b80e-dc7e9559da51" resname="OGW·75 | Oblivion Strike | Flavor Text">
+        <source>It's bad enough to be torn to pieces. It's worse by far to be torn from the world itself.</source>
+        <target state="translated">粉身碎骨已够糟，抹销归虚则更惨。</target>
+      </trans-unit>
       <trans-unit id="162f3fb8-75b7-4cd7-9d6c-27dd76197aa5" resname="OGW·76 | Reaver Drone | Card Name">
         <source>Reaver Drone</source>
         <target state="translated">裂肢奴兽</target>
@@ -905,6 +1121,10 @@
       <trans-unit id="162f3fb8-75b7-4cd7-9d6c-27dd76197aa5" resname="OGW·76 | Reaver Drone | Card Text | Paragraph 2">
         <source>At the beginning of your upkeep, you lose 1 life unless you control another colorless creature.</source>
         <target state="translated">在你的维持开始时，除非你操控另一个无色生物，否则你失去1点生命。</target>
+      </trans-unit>
+      <trans-unit id="162f3fb8-75b7-4cd7-9d6c-27dd76197aa5" resname="OGW·76 | Reaver Drone | Flavor Text">
+        <source>Kozilek's brood infiltrates and deceives. The spawn of Ulamog mindlessly consume.</source>
+        <target state="translated">寇基雷脉系还晓得渗透和欺瞒，钨拉莫的后裔则只会盲目吞噬。</target>
       </trans-unit>
       <trans-unit id="be57a5aa-44f1-483f-9274-aa68f5a2bf1f" resname="OGW·77 | Sifter of Skulls | Card Name">
         <source>Sifter of Skulls</source>
@@ -934,6 +1154,10 @@
         <source>Whenever you cast a colorless spell, CARDNAME gets +1/+0 until end of turn.</source>
         <target state="translated">每当你施放无色咒语时，CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
+      <trans-unit id="eb00fa72-bcda-4081-9048-e13752da8d46" resname="OGW·78 | Sky Scourer | Flavor Text">
+        <source>&amp;quot;The Eldrazi are nothing if not thorough.&amp;quot;\n—Jace Beleren</source>
+        <target state="translated">「奥札奇就是一切都要做到彻底。」 ～杰斯贝连</target>
+      </trans-unit>
       <trans-unit id="275b1185-49aa-45ae-8e2d-12aa469a7d77" resname="OGW·79 | Slaughter Drone | Card Name">
         <source>Slaughter Drone</source>
         <target state="translated">杀戮奴兽</target>
@@ -946,6 +1170,10 @@
         <source>{C}: CARDNAME gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it. {C} represents colorless mana.)</source>
         <target state="translated">{C}：CARDNAME获得死触异能直到回合结束。（它对生物造成的任何数量伤害都足以消灭后者。{C}代表无色法术力。）</target>
       </trans-unit>
+      <trans-unit id="275b1185-49aa-45ae-8e2d-12aa469a7d77" resname="OGW·79 | Slaughter Drone | Flavor Text">
+        <source>It kills what is, making way for what should not be.</source>
+        <target state="translated">它杀灭现存生灵，为异界之物开道。</target>
+      </trans-unit>
       <trans-unit id="ac497133-a44a-4acc-ba7e-8fc1fae7e226" resname="OGW·80 | Unnatural Endurance | Card Name">
         <source>Unnatural Endurance</source>
         <target state="translated">超凡生存力</target>
@@ -957,6 +1185,10 @@
       <trans-unit id="ac497133-a44a-4acc-ba7e-8fc1fae7e226" resname="OGW·80 | Unnatural Endurance | Card Text | Paragraph 2">
         <source>Target creature gets +2/+0 until end of turn. Regenerate it.</source>
         <target state="translated">目标生物得+2/+0直到回合结束。将它重生。</target>
+      </trans-unit>
+      <trans-unit id="ac497133-a44a-4acc-ba7e-8fc1fae7e226" resname="OGW·80 | Unnatural Endurance | Flavor Text">
+        <source>&amp;quot;Eldrazi don't die easy. Sometimes they don't die at all.&amp;quot;\n—Yon Basrel, Oran-Rief survivalist</source>
+        <target state="translated">「奥札奇不易杀死。有时根本死不了。」 ～欧兰黎求生家阳别瑞</target>
       </trans-unit>
       <trans-unit id="ec9ed374-54ad-4b81-b071-0b4668feb282" resname="OGW·81 | Visions of Brutality | Card Name">
         <source>Visions of Brutality</source>
@@ -990,6 +1222,10 @@
         <source>Target opponent exiles two cards from his or her hand and loses 2 life.</source>
         <target state="translated">目标对手从其手上放逐两张牌且失去2点生命。</target>
       </trans-unit>
+      <trans-unit id="0c06d8ec-55ab-4be9-a470-77c79d643d1f" resname="OGW·82 | Witness the End | Flavor Text">
+        <source>&amp;quot;Ulamog stood before us at Sea Gate, ready to succumb . . . and then Kozilek arose. Whatever hope I had for our world died.&amp;quot;\n—Vandri, Kalastria emissary</source>
+        <target state="translated">「我们在海户时曾直面钨拉莫，即将见证其灭亡...而寇基雷恰在此时现身。我对世界仅存的希望也随之破灭。」 ～卡列奇密使凡卓</target>
+      </trans-unit>
       <trans-unit id="6b7e6054-c6b8-4b29-83c5-a2e4e295bdf3" resname="OGW·83 | Corpse Churn | Card Name">
         <source>Corpse Churn</source>
         <target state="translated">尸体翻搅</target>
@@ -997,6 +1233,10 @@
       <trans-unit id="6b7e6054-c6b8-4b29-83c5-a2e4e295bdf3" resname="OGW·83 | Corpse Churn | Card Text | Paragraph 1">
         <source>Put the top three cards of your library into your graveyard, then you may return a creature card from your graveyard to your hand.</source>
         <target state="translated">将你牌库顶的三张牌置入你的坟墓场，然后你可以将一张生物牌从你的坟墓场移回你手上。</target>
+      </trans-unit>
+      <trans-unit id="6b7e6054-c6b8-4b29-83c5-a2e4e295bdf3" resname="OGW·83 | Corpse Churn | Flavor Text">
+        <source>&amp;quot;The distraction of your life has ended. Now your service begins.&amp;quot;\n—Kalitas, thrall of Ulamog</source>
+        <target state="translated">「你生命已逝，便再无需分神。从现在开始好好为我卖命。」 ～钨拉莫鬼卒卡力塔</target>
       </trans-unit>
       <trans-unit id="189abe2f-5899-438b-9f54-3c98e50f037a" resname="OGW·84 | Drana's Chosen | Card Name">
         <source>Drana's Chosen</source>
@@ -1006,6 +1246,10 @@
         <source>Cohort — {T}, Tap an untapped Ally you control: Put a 2/2 black Zombie creature token onto the battlefield tapped.</source>
         <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：将一个2/2黑色灵俑衍生生物横置放进战场。</target>
       </trans-unit>
+      <trans-unit id="189abe2f-5899-438b-9f54-3c98e50f037a" resname="OGW·84 | Drana's Chosen | Flavor Text">
+        <source>&amp;quot;Drana commands me. I command my nulls. And so her bidding is done.&amp;quot;</source>
+        <target state="translated">「哲娜命令我。我指挥躯壳。任务圆满达成。」</target>
+      </trans-unit>
       <trans-unit id="7d692236-92e5-460f-a8fc-8f6c73eba30c" resname="OGW·85 | Grasp of Darkness | Card Name">
         <source>Grasp of Darkness</source>
         <target state="translated">黑暗之攫</target>
@@ -1013,6 +1257,10 @@
       <trans-unit id="7d692236-92e5-460f-a8fc-8f6c73eba30c" resname="OGW·85 | Grasp of Darkness | Card Text | Paragraph 1">
         <source>Target creature gets -4/-4 until end of turn.</source>
         <target state="translated">目标生物得-4/-4直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="7d692236-92e5-460f-a8fc-8f6c73eba30c" resname="OGW·85 | Grasp of Darkness | Flavor Text">
+        <source>&amp;quot;I welcome the use of even the foulest magic if it will rid us of the monstrosities that plague our world.&amp;quot;\n—Munda, ambush leader</source>
+        <target state="translated">「如果能清除荼毒世界的恶怪，再鄙恶的魔法我都愿意运用。」 ～伏击领袖蒙达</target>
       </trans-unit>
       <trans-unit id="17a278d0-f601-4d57-bc3d-2972f8602a69" resname="OGW·86 | Kalitas, Traitor of Ghet | Card Name">
         <source>Kalitas, Traitor of Ghet</source>
@@ -1038,6 +1286,10 @@
         <source>Cohort — {T}, Tap an untapped Ally you control: You draw a card and you lose 1 life.</source>
         <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：你抓一张牌且你失去1点生命。</target>
       </trans-unit>
+      <trans-unit id="72cb3c2c-5d5a-4c9b-a381-ab4dd477d84d" resname="OGW·87 | Malakir Soothsayer | Flavor Text">
+        <source>&amp;quot;Your blood whispers secrets your mind could never comprehend.&amp;quot;</source>
+        <target state="translated">「你血液中透露出的秘密，你的心智永无法领悟。」</target>
+      </trans-unit>
       <trans-unit id="4afe773b-2987-4001-a0fd-9dca414a9129" resname="OGW·88 | Null Caller | Card Name">
         <source>Null Caller</source>
         <target state="translated">躯壳召唤师</target>
@@ -1045,6 +1297,10 @@
       <trans-unit id="4afe773b-2987-4001-a0fd-9dca414a9129" resname="OGW·88 | Null Caller | Card Text | Paragraph 1">
         <source>{3}{B}, Exile a creature card from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield tapped.</source>
         <target state="translated">{3}{B}，从你的坟墓场放逐一张生物牌：将一个2/2黑色灵俑衍生生物横置放进战场。</target>
+      </trans-unit>
+      <trans-unit id="4afe773b-2987-4001-a0fd-9dca414a9129" resname="OGW·88 | Null Caller | Flavor Text">
+        <source>Zendikar's defenders include both healers and vampires. One way or another, the fallen will return to the fight.</source>
+        <target state="translated">赞迪卡保卫者中既有治疗师，又有吸血鬼。他们总有办法让逝者重返战场。</target>
       </trans-unit>
       <trans-unit id="1dde9379-b335-400f-9748-a7ca3e293ee0" resname="OGW·89 | Remorseless Punishment | Card Name">
         <source>Remorseless Punishment</source>
@@ -1054,6 +1310,10 @@
         <source>Target opponent loses 5 life unless that player discards two cards or sacrifices a creature or planeswalker. Repeat this process once.</source>
         <target state="translated">除非目标对手弃两张牌或牺牲一个生物或鹏洛客，否则该牌手失去5点生命。将此流程再重复一次。</target>
       </trans-unit>
+      <trans-unit id="1dde9379-b335-400f-9748-a7ca3e293ee0" resname="OGW·89 | Remorseless Punishment | Flavor Text">
+        <source>&amp;quot;I have suffered a thousand lifetimes of agony on this wretched world. I've far less time to share with you, but I assure you, no less pain.&amp;quot;\n—Ob Nixilis</source>
+        <target state="translated">「我在这令人作呕的世界中承受过万世苦痛。我没有这么多时间跟你们一一细说，但我保证你们受到的痛苦不会比我少。」 ～欧尼希兹</target>
+      </trans-unit>
       <trans-unit id="06ee017c-25ae-4668-8cfe-ae3b55e851aa" resname="OGW·90 | Tar Snare | Card Name">
         <source>Tar Snare</source>
         <target state="translated">焦油圈套</target>
@@ -1061,6 +1321,10 @@
       <trans-unit id="06ee017c-25ae-4668-8cfe-ae3b55e851aa" resname="OGW·90 | Tar Snare | Card Text | Paragraph 1">
         <source>Target creature gets -3/-2 until end of turn.</source>
         <target state="translated">目标生物得-3/-2直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="06ee017c-25ae-4668-8cfe-ae3b55e851aa" resname="OGW·90 | Tar Snare | Flavor Text">
+        <source>The amorphous, magically animated residue known as the Fathom Sludge lurks in the Hagra Cistern, attacking its prey with pseudopods and dragging it down to be digested.</source>
+        <target state="translated">这类受魔法驱使而复生，没有固定形态的残肢被人称作「深潭泥淤」。它们常匿身于赫嘎池沼中，用伪足攻击猎物，而后将其拖入池底彻底吞噬。</target>
       </trans-unit>
       <trans-unit id="595deb86-b6cf-4e4f-a6cf-f5ff128b720d" resname="OGW·91 | Untamed Hunger | Card Name">
         <source>Untamed Hunger</source>
@@ -1074,6 +1338,10 @@
         <source>Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)</source>
         <target state="translated">所结附的生物得+2/+1且具有威慑异能。（它只能被两个或更多生物阻挡。）</target>
       </trans-unit>
+      <trans-unit id="595deb86-b6cf-4e4f-a6cf-f5ff128b720d" resname="OGW·91 | Untamed Hunger | Flavor Text">
+        <source>&amp;quot;Mindlessness is not weakness. When we are lost to hunger we are unstoppable.&amp;quot;\n—Drana, Kalastria bloodchief</source>
+        <target state="translated">「失心疯并非弱点。当饥渴遮蔽我们双眼时，我们无人能挡。」 ～卡列奇血侯哲娜</target>
+      </trans-unit>
       <trans-unit id="3ba8e7aa-9a87-410e-b846-5f5c910585cf" resname="OGW·92 | Vampire Envoy | Card Name">
         <source>Vampire Envoy</source>
         <target state="translated">吸血鬼特使</target>
@@ -1086,6 +1354,10 @@
         <source>Whenever CARDNAME becomes tapped, you gain 1 life.</source>
         <target state="translated">每当CARDNAME成为横置时，你获得1点生命。</target>
       </trans-unit>
+      <trans-unit id="3ba8e7aa-9a87-410e-b846-5f5c910585cf" resname="OGW·92 | Vampire Envoy | Flavor Text">
+        <source>&amp;quot;Zendikar will fight until it has bled its last.&amp;quot;</source>
+        <target state="translated">「赞迪卡会战斗不息，直到流尽最后一滴血。」</target>
+      </trans-unit>
       <trans-unit id="92461f3c-21dc-48a8-b532-9c4e2e1e80b5" resname="OGW·93 | Zulaport Chainmage | Card Name">
         <source>Zulaport Chainmage</source>
         <target state="translated">筑拉波链法师</target>
@@ -1093,6 +1365,10 @@
       <trans-unit id="92461f3c-21dc-48a8-b532-9c4e2e1e80b5" resname="OGW·93 | Zulaport Chainmage | Card Text | Paragraph 1">
         <source>Cohort — {T}, Tap an untapped Ally you control: Target opponent loses 2 life.</source>
         <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：目标对手失去2点生命。</target>
+      </trans-unit>
+      <trans-unit id="92461f3c-21dc-48a8-b532-9c4e2e1e80b5" resname="OGW·93 | Zulaport Chainmage | Flavor Text">
+        <source>The chains obey her. Everything else would do best to get out of her way.</source>
+        <target state="translated">锁链从她使唤。其他东西则避之唯恐不及。</target>
       </trans-unit>
       <trans-unit id="82a42b28-3d1b-4432-b8c9-2d42e4d0e1c5" resname="OGW·94 | Consuming Sinkhole | Card Name">
         <source>Consuming Sinkhole</source>
@@ -1114,6 +1390,10 @@
         <source>• CARDNAME deals 4 damage to target player.</source>
         <target state="translated">• CARDNAME对目标牌手造成4点伤害。</target>
       </trans-unit>
+      <trans-unit id="82a42b28-3d1b-4432-b8c9-2d42e4d0e1c5" resname="OGW·94 | Consuming Sinkhole | Flavor Text">
+        <source>&amp;quot;What will not yield will be consumed.&amp;quot;\n—Ayli, high priest of the Eternal Pilgrims</source>
+        <target state="translated">「不屈服者将被吞噬。」 ～坚信朝圣客高阶僧侣艾栗</target>
+      </trans-unit>
       <trans-unit id="62f3ec85-552d-4e28-939e-ab2c39e3e9c5" resname="OGW·95 | Eldrazi Aggressor | Card Name">
         <source>Eldrazi Aggressor</source>
         <target state="translated">侵略奥札奇</target>
@@ -1125,6 +1405,10 @@
       <trans-unit id="62f3ec85-552d-4e28-939e-ab2c39e3e9c5" resname="OGW·95 | Eldrazi Aggressor | Card Text | Paragraph 2">
         <source>CARDNAME has haste as long as you control another colorless creature.</source>
         <target state="translated">只要你操控另一个无色生物，CARDNAME便具有敏捷异能。</target>
+      </trans-unit>
+      <trans-unit id="62f3ec85-552d-4e28-939e-ab2c39e3e9c5" resname="OGW·95 | Eldrazi Aggressor | Flavor Text">
+        <source>&amp;quot;They employ a foul sort of teamwork.&amp;quot;\n—General Tazri, allied commander</source>
+        <target state="translated">「他们采用一种丑陋的团队合作。」 ～盟军指挥官塔兹莉将军</target>
       </trans-unit>
       <trans-unit id="dfaa8b16-7c12-44e2-8ddb-17608d491c41" resname="OGW·96 | Eldrazi Obligator | Card Name">
         <source>Eldrazi Obligator</source>
@@ -1154,6 +1438,10 @@
         <source>{2}{C}: Each creature with toughness greater than its power can't block this turn. ({C} represents colorless mana.)</source>
         <target state="translated">{2}{C}：所有防御力大于其力量的生物本回合不能进行阻挡。（{C}代表无色法术力。）</target>
       </trans-unit>
+      <trans-unit id="95d9c92d-8b1b-4adc-8015-d50e673b6321" resname="OGW·97 | Immobilizer Eldrazi | Flavor Text">
+        <source>It denied the Zendikari the chance to stand and die fighting.</source>
+        <target state="translated">它连挺身战死的机会都没留给赞迪卡人。</target>
+      </trans-unit>
       <trans-unit id="72765559-0a78-4aa3-827e-cb4612720991" resname="OGW·98 | Kozilek's Return | Card Name">
         <source>Kozilek's Return</source>
         <target state="translated">寇基雷再临</target>
@@ -1182,6 +1470,10 @@
         <source>{C}: CARDNAME gets +2/-2 until end of turn. ({C} represents colorless mana.)</source>
         <target state="translated">{C}：CARDNAME得+2/-2直到回合结束。（{C}代表无色法术力。）</target>
       </trans-unit>
+      <trans-unit id="48669993-ad68-499e-8f2e-bc5c651b4b28" resname="OGW·99 | Maw of Kozilek | Flavor Text">
+        <source>&amp;quot;The Eldrazi make worse than ruins—they make a world where not even ruins stand.&amp;quot;\n—Gideon Jura</source>
+        <target state="translated">「奥札奇让世界比废墟更糟糕～就连废墟也无法存立于此世。」 ～基定尤拉</target>
+      </trans-unit>
       <trans-unit id="c044168d-cb08-493d-98c1-b66b6149fe5a" resname="OGW·100 | Reality Hemorrhage | Card Name">
         <source>Reality Hemorrhage</source>
         <target state="translated">实境溢血</target>
@@ -1194,6 +1486,10 @@
         <source>CARDNAME deals 2 damage to target creature or player.</source>
         <target state="translated">CARDNAME对目标生物或牌手造成2点伤害。</target>
       </trans-unit>
+      <trans-unit id="c044168d-cb08-493d-98c1-b66b6149fe5a" resname="OGW·100 | Reality Hemorrhage | Flavor Text">
+        <source>Tarek could not tell whether he was losing his blood or his mind.</source>
+        <target state="translated">塔瑞克不知道自己是在失血还是在失心。</target>
+      </trans-unit>
       <trans-unit id="6ef4e1e2-7961-47d2-bb55-9168ea201214" resname="OGW·101 | Akoum Flameseeker | Card Name">
         <source>Akoum Flameseeker</source>
         <target state="translated">阿库姆觅焰师</target>
@@ -1201,6 +1497,10 @@
       <trans-unit id="6ef4e1e2-7961-47d2-bb55-9168ea201214" resname="OGW·101 | Akoum Flameseeker | Card Text | Paragraph 1">
         <source>Cohort — {T}, Tap an untapped Ally you control: Discard a card. If you do, draw a card.</source>
         <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：弃一张牌。若你如此作，则抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="6ef4e1e2-7961-47d2-bb55-9168ea201214" resname="OGW·101 | Akoum Flameseeker | Flavor Text">
+        <source>In the face of extinction, the most perilous endeavors can be cause for hope.</source>
+        <target state="translated">在绝境中，最危险的行为也能成为希望所在。</target>
       </trans-unit>
       <trans-unit id="4e269989-bb22-4da4-a374-434a572e8e8f" resname="OGW·102 | Boulder Salvo | Card Name">
         <source>Boulder Salvo</source>
@@ -1214,6 +1514,10 @@
         <source>CARDNAME deals 4 damage to target creature.</source>
         <target state="translated">CARDNAME对目标生物造成4点伤害。</target>
       </trans-unit>
+      <trans-unit id="4e269989-bb22-4da4-a374-434a572e8e8f" resname="OGW·102 | Boulder Salvo | Flavor Text">
+        <source>&amp;quot;If someone claims the sky is falling, I listen.&amp;quot;\n—Yon Basrel, Oran-Rief survivalist</source>
+        <target state="translated">「即使有人说天要塌了，我也会信。」 ～欧兰黎求生家阳别瑞</target>
+      </trans-unit>
       <trans-unit id="ec60192a-19b3-447c-b732-bbcb2d275df6" resname="OGW·103 | Brute Strength | Card Name">
         <source>Brute Strength</source>
         <target state="translated">粗蛮之力</target>
@@ -1221,6 +1525,10 @@
       <trans-unit id="ec60192a-19b3-447c-b732-bbcb2d275df6" resname="OGW·103 | Brute Strength | Card Text | Paragraph 1">
         <source>Target creature gets +3/+1 and gains trample until end of turn.</source>
         <target state="translated">直到回合结束，目标生物得+3/+1且获得践踏异能。</target>
+      </trans-unit>
+      <trans-unit id="ec60192a-19b3-447c-b732-bbcb2d275df6" resname="OGW·103 | Brute Strength | Flavor Text">
+        <source>It's not the size of the rock. It's how badly you want to lift it.</source>
+        <target state="translated">关键不在石头大小，而在于你有多想举起它。</target>
       </trans-unit>
       <trans-unit id="49fdd0d3-7140-4c12-a41c-37eedd986d9e" resname="OGW·104 | Chandra, Flamecaller | Card Name">
         <source>Chandra, Flamecaller</source>
@@ -1250,6 +1558,10 @@
         <source>When CARDNAME enters the battlefield, it deals 2 damage to target opponent.</source>
         <target state="translated">当CARDNAME进战场时，它向目标对手造成2点伤害。</target>
       </trans-unit>
+      <trans-unit id="5a069118-42e4-40e3-a2ba-593ac89b9064" resname="OGW·105 | Cinder Hellion | Flavor Text">
+        <source>Chandra used jets of flame to lure hellions into the path of oncoming Eldrazi.</source>
+        <target state="translated">茜卓利用火焰气流将地狱兽引到奥札奇必经之路。</target>
+      </trans-unit>
       <trans-unit id="432dd78b-9520-4c28-8699-d7ff9c477070" resname="OGW·106 | Devour in Flames | Card Name">
         <source>Devour in Flames</source>
         <target state="translated">火焰吞噬</target>
@@ -1261,6 +1573,10 @@
       <trans-unit id="432dd78b-9520-4c28-8699-d7ff9c477070" resname="OGW·106 | Devour in Flames | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage to target creature or planeswalker.</source>
         <target state="translated">CARDNAME对目标生物或鹏洛客造成5点伤害。</target>
+      </trans-unit>
+      <trans-unit id="432dd78b-9520-4c28-8699-d7ff9c477070" resname="OGW·106 | Devour in Flames | Flavor Text">
+        <source>Ob Nixilis had prepared for every eventuality—except Chandra Nalaar.</source>
+        <target state="translated">欧尼希兹算尽一切～唯独没算到茜卓纳拉。</target>
       </trans-unit>
       <trans-unit id="92f385d1-a6c5-40b7-bc90-6f71b6f815e7" resname="OGW·107 | Embodiment of Fury | Card Name">
         <source>Embodiment of Fury</source>
@@ -1290,6 +1606,10 @@
         <source>Draw a card.</source>
         <target state="translated">抓一张牌。</target>
       </trans-unit>
+      <trans-unit id="59c65eb7-4353-45ce-9c2e-1791c2804ccf" resname="OGW·108 | Expedite | Flavor Text">
+        <source>&amp;quot;I run, and thunder follows.&amp;quot;</source>
+        <target state="translated">「疾步奔行，雷鸣相伴。」</target>
+      </trans-unit>
       <trans-unit id="8c21da73-0dad-4b2b-8cc6-61861bed9410" resname="OGW·109 | Fall of the Titans | Card Name">
         <source>Fall of the Titans</source>
         <target state="translated">巨物殒落</target>
@@ -1301,6 +1621,10 @@
       <trans-unit id="8c21da73-0dad-4b2b-8cc6-61861bed9410" resname="OGW·109 | Fall of the Titans | Card Text | Paragraph 2">
         <source>CARDNAME deals X damage to each of up to two target creatures and/or players.</source>
         <target state="translated">CARDNAME对至多两个目标生物和／或牌手各造成X点伤害。</target>
+      </trans-unit>
+      <trans-unit id="8c21da73-0dad-4b2b-8cc6-61861bed9410" resname="OGW·109 | Fall of the Titans | Flavor Text">
+        <source>As Gideon kept the brood lineages at bay, Chandra incinerated the bound Eldrazi titans.</source>
+        <target state="translated">基定牵制住整波巢窝血脉之后，茜卓便恣意焚烧受缚的奥札奇巨物。</target>
       </trans-unit>
       <trans-unit id="ddf91a4e-97f7-4189-823d-b619bb3b3d55" resname="OGW·110 | Goblin Dark-Dwellers | Card Name">
         <source>Goblin Dark-Dwellers</source>
@@ -1326,6 +1650,10 @@
         <source>Menace (This creature can't be blocked except by two or more creatures.)</source>
         <target state="translated">威慑（此生物只能被两个或更多生物阻挡。）</target>
       </trans-unit>
+      <trans-unit id="5082e0a1-5c3e-4b8c-ba88-290151564133" resname="OGW·111 | Goblin Freerunner | Flavor Text">
+        <source>There are old goblins and ambitious goblins, but very few old, ambitious goblins.</source>
+        <target state="translated">鬼怪里有上了年纪的，也有志在四方的，但很少见上了年纪还志在四方的鬼怪。</target>
+      </trans-unit>
       <trans-unit id="6824f48d-6808-4458-a2fd-1ffd0a10d72a" resname="OGW·112 | Kazuul's Toll Collector | Card Name">
         <source>Kazuul's Toll Collector</source>
         <target state="translated">克卒的强征员</target>
@@ -1333,6 +1661,10 @@
       <trans-unit id="6824f48d-6808-4458-a2fd-1ffd0a10d72a" resname="OGW·112 | Kazuul's Toll Collector | Card Text | Paragraph 1">
         <source>{0}: Attach target Equipment you control to CARDNAME. Activate this ability only any time you could cast a sorcery.</source>
         <target state="translated">{0}：将目标由你操控的武具装备在CARDNAME上。只可以于你能施放法术的时机下起动此异能。</target>
+      </trans-unit>
+      <trans-unit id="6824f48d-6808-4458-a2fd-1ffd0a10d72a" resname="OGW·112 | Kazuul's Toll Collector | Flavor Text">
+        <source>Travelers are advised to bring extra swords, preferably shiny ones.</source>
+        <target state="translated">建议旅行者携带额外刀具，闪亮者为佳。</target>
       </trans-unit>
       <trans-unit id="f570b0cb-2f38-422d-89d6-22c85e085328" resname="OGW·113 | Oath of Chandra | Card Name">
         <source>Oath of Chandra</source>
@@ -1345,6 +1677,10 @@
       <trans-unit id="f570b0cb-2f38-422d-89d6-22c85e085328" resname="OGW·113 | Oath of Chandra | Card Text | Paragraph 2">
         <source>At the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, CARDNAME deals 2 damage to each opponent.</source>
         <target state="translated">在每个结束步骤开始时，若本回合中有鹏洛客在你的操控下进战场，则CARDNAME向每位对手各造成2点伤害。</target>
+      </trans-unit>
+      <trans-unit id="f570b0cb-2f38-422d-89d6-22c85e085328" resname="OGW·113 | Oath of Chandra | Flavor Text">
+        <source>&amp;quot;If it means that people can live in freedom, yeah, I'll keep watch.&amp;quot;</source>
+        <target state="translated">「如果这样能让人们自由生活，当然，我会一直守护。」</target>
       </trans-unit>
       <trans-unit id="69b9eb4b-3ab8-4506-baa4-3a818e7677a3" resname="OGW·114 | Press into Service | Card Name">
         <source>Press into Service</source>
@@ -1365,6 +1701,10 @@
       <trans-unit id="b2c8dad1-278c-4ced-8124-5593b140d361" resname="OGW·115 | Pyromancer's Assault | Card Text | Paragraph 1">
         <source>Whenever you cast your second spell each turn, CARDNAME deals 2 damage to target creature or player.</source>
         <target state="translated">每当你施放每回合中你的第二个咒语时，CARDNAME对目标生物或牌手造成2点伤害。</target>
+      </trans-unit>
+      <trans-unit id="b2c8dad1-278c-4ced-8124-5593b140d361" resname="OGW·115 | Pyromancer's Assault | Flavor Text">
+        <source>Never ask a pyromancer if that's the best she's got.</source>
+        <target state="translated">千万不要讥讽烈焰术士的本领不过如此。</target>
       </trans-unit>
       <trans-unit id="0405b1b9-976a-4aaf-bec6-fa006decea74" resname="OGW·116 | Reckless Bushwhacker | Card Name">
         <source>Reckless Bushwhacker</source>
@@ -1390,6 +1730,10 @@
         <source>CARDNAME deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.</source>
         <target state="translated">CARDNAME对至多两个目标生物各造成1点伤害。这些生物本回合不能进行阻挡。</target>
       </trans-unit>
+      <trans-unit id="736ad6c8-e275-4644-9d1e-d2d380149839" resname="OGW·117 | Sparkmage's Gambit | Flavor Text">
+        <source>&amp;quot;A touch of lightning, and anyone can be taught to dance.&amp;quot;\n—Tobin, sparkmage</source>
+        <target state="translated">「只消闪电轻触，便能舞动众生。」 ～火花法师托宾</target>
+      </trans-unit>
       <trans-unit id="db858823-ae8b-4da1-be6f-aee541e008ae" resname="OGW·118 | Tears of Valakut | Card Name">
         <source>Tears of Valakut</source>
         <target state="translated">瓦拉库之泪</target>
@@ -1401,6 +1745,10 @@
       <trans-unit id="db858823-ae8b-4da1-be6f-aee541e008ae" resname="OGW·118 | Tears of Valakut | Card Text | Paragraph 2">
         <source>CARDNAME deals 5 damage to target creature with flying.</source>
         <target state="translated">CARDNAME对目标具飞行异能的生物造成5点伤害。</target>
+      </trans-unit>
+      <trans-unit id="db858823-ae8b-4da1-be6f-aee541e008ae" resname="OGW·118 | Tears of Valakut | Flavor Text">
+        <source>When Kozilek destroyed Sea Gate, distant Valakut could not contain its grief.</source>
+        <target state="translated">听闻寇基雷毁灭海户，就连地处远方的瓦拉库也无法掩饰其伤悲。</target>
       </trans-unit>
       <trans-unit id="f388be9e-332e-4199-9f30-862d631fa26b" resname="OGW·119 | Tyrant of Valakut | Card Name">
         <source>Tyrant of Valakut</source>
@@ -1429,6 +1777,10 @@
       <trans-unit id="f4ad826d-c7e6-4dfd-991f-15d75b87d504" resname="OGW·120 | Zada's Commando | Card Text | Paragraph 2">
         <source>Cohort — {T}, Tap an untapped Ally you control: CARDNAME deals 1 damage to target opponent.</source>
         <target state="translated">齐力～{T}，横置一个由你操控且未横置的伙伴：CARDNAME对目标对手造成1点伤害。</target>
+      </trans-unit>
+      <trans-unit id="f4ad826d-c7e6-4dfd-991f-15d75b87d504" resname="OGW·120 | Zada's Commando | Flavor Text">
+        <source>&amp;quot;There's a word for someone who brings too much gear to battle: 'survivor.'&amp;quot;\n—Zada of Slab Haven</source>
+        <target state="translated">「我们管带太多装备来打仗的人叫『求生客』。」 ～巨岩庇护地的查妲</target>
       </trans-unit>
       <trans-unit id="a1a644e0-96e5-4b73-873f-1132948cb21f" resname="OGW·121 | Birthing Hulk | Card Name">
         <source>Birthing Hulk</source>
@@ -1482,6 +1834,10 @@
         <source>{C}: CARDNAME gets +1/+2 until end of turn. Activate this ability only once each turn. ({C} represents colorless mana.)</source>
         <target state="translated">{C}：CARDNAME得+1/+2直到回合结束。此异能每回合中只能起动一次。（{C}代表无色法术力。）</target>
       </trans-unit>
+      <trans-unit id="12bc5b4c-a809-43f0-8848-38812ce865c2" resname="OGW·124 | Stalking Drone | Flavor Text">
+        <source>As the Eldrazi adapted to the jungles of Zendikar, some took on the tactics of more familiar predators.</source>
+        <target state="translated">随着对赞迪卡丛林的适应，一部分奥札奇采用了类似掠食者所用的策略。</target>
+      </trans-unit>
       <trans-unit id="f48b0613-127a-4338-aea4-ad0b8aa96d77" resname="OGW·125 | Vile Redeemer | Card Name">
         <source>Vile Redeemer</source>
         <target state="translated">卑劣减损体</target>
@@ -1526,6 +1882,10 @@
         <source>CARDNAME has trample as long as it has a +1/+1 counter on it.</source>
         <target state="translated">只要CARDNAME上面有+1/+1指示物，它便具有践踏异能。</target>
       </trans-unit>
+      <trans-unit id="3f9c87f4-4fa5-4c97-9654-c4acd250f850" resname="OGW·127 | Baloth Pup | Flavor Text">
+        <source>A young baloth channels its energy into playful destructiveness. Over time, it becomes less playful but no less destructive.</source>
+        <target state="translated">巴洛西幼兽精力旺盛，终日翻腾破坏嬉戏。长大之后，它少了些嬉戏，却同样能破坏。</target>
+      </trans-unit>
       <trans-unit id="ff50de00-115f-41ed-892b-aac9bd13b9b9" resname="OGW·128 | Bonds of Mortality | Card Name">
         <source>Bonds of Mortality</source>
         <target state="translated">必亡羁绊</target>
@@ -1538,9 +1898,17 @@
         <source>{G}: Creatures your opponents control lose hexproof and indestructible until end of turn.</source>
         <target state="translated">{G}：由对手操控的生物失去辟邪与不灭异能直到回合结束。</target>
       </trans-unit>
+      <trans-unit id="ff50de00-115f-41ed-892b-aac9bd13b9b9" resname="OGW·128 | Bonds of Mortality | Flavor Text">
+        <source>Jace discovered the leyline pattern needed to anchor Ulamog and Kozilek to reality, but it was Nissa who could trace it on her world.</source>
+        <target state="translated">杰斯发现了能够将钨拉莫和寇基雷缚身实界的地脉阵法，但在妮莎的世界只有她才能完成布阵。</target>
+      </trans-unit>
       <trans-unit id="cbc8957d-769c-4630-9544-56cea8c847c2" resname="OGW·129 | Canopy Gorger | Card Name">
         <source>Canopy Gorger</source>
         <target state="translated">林冠吞食客</target>
+      </trans-unit>
+      <trans-unit id="cbc8957d-769c-4630-9544-56cea8c847c2" resname="OGW·129 | Canopy Gorger | Flavor Text">
+        <source>The settlement's defenders were glad to have such a massive, ferocious creature join the fight—but less glad to see it flatten their homes along the way.</source>
+        <target state="translated">聚落守军在看到如此庞巨猛兽加入战局时曾欣喜不已～但兴奋之情于亚龙在混战中压扁他们家园后就风消云散。</target>
       </trans-unit>
       <trans-unit id="e194b283-a7d2-4c0a-9ee2-8689a8e911b9" resname="OGW·130 | Elemental Uprising | Card Name">
         <source>Elemental Uprising</source>
@@ -1549,6 +1917,10 @@
       <trans-unit id="e194b283-a7d2-4c0a-9ee2-8689a8e911b9" resname="OGW·130 | Elemental Uprising | Card Text | Paragraph 1">
         <source>Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land. It must be blocked this turn if able.</source>
         <target state="translated">目标由你操控的地成为4/4，具敏捷异能的元素生物直到回合结束。它仍然是地。它本回合若能被阻挡，则须如此作。</target>
+      </trans-unit>
+      <trans-unit id="e194b283-a7d2-4c0a-9ee2-8689a8e911b9" resname="OGW·130 | Elemental Uprising | Flavor Text">
+        <source>&amp;quot;My heart and Zendikar's beat as one. Together we will endure.&amp;quot;\n—Nissa Revane</source>
+        <target state="translated">「我与赞迪卡共脉同心。携手定能共度难关。」 ～妮莎瑞文</target>
       </trans-unit>
       <trans-unit id="b034a95d-4f51-4f04-94c2-dad073ea0f35" resname="OGW·131 | Embodiment of Insight | Card Name">
         <source>Embodiment of Insight</source>
@@ -1586,6 +1958,10 @@
         <source>When CARDNAME enters the battlefield, you may sacrifice a creature or land. If you do, put two +1/+1 counters on CARDNAME.</source>
         <target state="translated">当CARDNAME进战场时，你可以牺牲一个生物或地。若你如此作，则在CARDNAME上放置两个+1/+1指示物。</target>
       </trans-unit>
+      <trans-unit id="0bf92744-0acc-4c7e-819c-51b0696facad" resname="OGW·133 | Harvester Troll | Flavor Text">
+        <source>Having no interest in the greater conflict, the trolls continue to prey upon whatever wanders into their domain.</source>
+        <target state="translated">巨魔对旷世之战漠不关心，继续猎捕闯入他们领地的一切生灵。</target>
+      </trans-unit>
       <trans-unit id="2cdcb985-b0bb-4921-a7e4-3ee6e8f8992b" resname="OGW·134 | Lead by Example | Card Name">
         <source>Lead by Example</source>
         <target state="translated">以身作则</target>
@@ -1593,6 +1969,10 @@
       <trans-unit id="2cdcb985-b0bb-4921-a7e4-3ee6e8f8992b" resname="OGW·134 | Lead by Example | Card Text | Paragraph 1">
         <source>Support 2. (Put a +1/+1 counter on each of up to two target creatures.)</source>
         <target state="translated">支援2。（在至多两个目标生物上各放置一个+1/+1指示物。）</target>
+      </trans-unit>
+      <trans-unit id="2cdcb985-b0bb-4921-a7e4-3ee6e8f8992b" resname="OGW·134 | Lead by Example | Flavor Text">
+        <source>Gideon and Nissa carved a path through the Eldrazi swarm, and their Zendikari allies charged into the fray behind them.</source>
+        <target state="translated">基定和妮莎从奥札奇大军中杀出一条血路，他们的赞迪卡伙伴紧跟其后冲入战局。</target>
       </trans-unit>
       <trans-unit id="affa9314-0021-445e-9496-349254b16bf8" resname="OGW·135 | Loam Larva | Card Name">
         <source>Loam Larva</source>
@@ -1602,6 +1982,10 @@
         <source>When CARDNAME enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.</source>
         <target state="translated">当CARDNAME进战场时，你可以从你的牌库中搜寻一张基本地牌，展示该牌，然后将你的牌库洗牌，并将该牌置于其上。</target>
       </trans-unit>
+      <trans-unit id="affa9314-0021-445e-9496-349254b16bf8" resname="OGW·135 | Loam Larva | Flavor Text">
+        <source>The forest floor of Murasa is home to life as diverse and vibrant as that of the canopy above.</source>
+        <target state="translated">姆拉撒底层林地与上层林冠一般生机勃勃，物种多样。</target>
+      </trans-unit>
       <trans-unit id="fdd4bdd5-1673-4f22-b593-41df8ce95a97" resname="OGW·136 | Natural State | Card Name">
         <source>Natural State</source>
         <target state="translated">异态归真</target>
@@ -1609,6 +1993,10 @@
       <trans-unit id="fdd4bdd5-1673-4f22-b593-41df8ce95a97" resname="OGW·136 | Natural State | Card Text | Paragraph 1">
         <source>Destroy target artifact or enchantment with converted mana cost 3 or less.</source>
         <target state="translated">消灭目标总法术力费用等于或小于3的神器或结界。</target>
+      </trans-unit>
+      <trans-unit id="fdd4bdd5-1673-4f22-b593-41df8ce95a97" resname="OGW·136 | Natural State | Flavor Text">
+        <source>&amp;quot;Killing the Eldrazi is not enough. We must erase all memory of them from this world.&amp;quot;\n—Greenweaver Mina</source>
+        <target state="translated">「光杀死奥札奇还远远不够。我们必须将对它们的记忆从这个世界彻底抹去。」 ～织碧弥娜</target>
       </trans-unit>
       <trans-unit id="456de8f8-f5dc-44fb-81b1-ca653c32be8e" resname="OGW·137 | Netcaster Spider | Card Name">
         <source>Netcaster Spider</source>
@@ -1621,6 +2009,10 @@
       <trans-unit id="456de8f8-f5dc-44fb-81b1-ca653c32be8e" resname="OGW·137 | Netcaster Spider | Card Text | Paragraph 2">
         <source>Whenever CARDNAME blocks a creature with flying, CARDNAME gets +2/+0 until end of turn.</source>
         <target state="translated">每当CARDNAME阻挡一个具飞行异能的生物时，CARDNAME得+2/+0直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="456de8f8-f5dc-44fb-81b1-ca653c32be8e" resname="OGW·137 | Netcaster Spider | Flavor Text">
+        <source>In the jungles of Tazeem, aerial assault is not always advantageous.</source>
+        <target state="translated">在塔晋丛林中，空袭不一定始终占优。</target>
       </trans-unit>
       <trans-unit id="a600b97b-1851-4b1b-a2af-f80e0307c02c" resname="OGW·138 | Nissa, Voice of Zendikar | Card Name">
         <source>Nissa, Voice of Zendikar</source>
@@ -1662,6 +2054,10 @@
         <source>You may spend mana as though it were mana of any color to cast planeswalker spells.</source>
         <target state="translated">你可以将法术力视同任意颜色的法术力来支付施放鹏洛客咒语的费用。</target>
       </trans-unit>
+      <trans-unit id="613513ea-55dd-4ae8-93b2-247e468112a6" resname="OGW·140 | Oath of Nissa | Flavor Text">
+        <source>&amp;quot;For the life of every plane, I will keep watch.&amp;quot;</source>
+        <target state="translated">「为了所有时空上的一切生命，我将挚诚守护。」</target>
+      </trans-unit>
       <trans-unit id="c0c8057f-b45b-4f67-90cd-c808b5e9cbfa" resname="OGW·141 | Pulse of Murasa | Card Name">
         <source>Pulse of Murasa</source>
         <target state="translated">姆拉撒的脉动</target>
@@ -1670,6 +2066,10 @@
         <source>Return target creature or land card from a graveyard to its owner's hand. You gain 6 life.</source>
         <target state="translated">将目标生物或地牌从坟墓场移回其拥有者手上。你获得6点生命。</target>
       </trans-unit>
+      <trans-unit id="c0c8057f-b45b-4f67-90cd-c808b5e9cbfa" resname="OGW·141 | Pulse of Murasa | Flavor Text">
+        <source>&amp;quot;Little flower twirl and bloom, arise from this your rocky tomb. Little warrior slash and brawl, be born again to free us all.&amp;quot;</source>
+        <target state="translated">「幼枝新芳，伸展绽放，嶙峋石冢缠碧藤。幼少勇将，劈敌征战，复苏人世救众生。」</target>
+      </trans-unit>
       <trans-unit id="33df4803-b32d-43ae-ac68-b72e45e10b0c" resname="OGW·142 | Saddleback Lagac | Card Name">
         <source>Saddleback Lagac</source>
         <target state="translated">鞍背勒嘎</target>
@@ -1677,6 +2077,10 @@
       <trans-unit id="33df4803-b32d-43ae-ac68-b72e45e10b0c" resname="OGW·142 | Saddleback Lagac | Card Text | Paragraph 1">
         <source>When CARDNAME enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)</source>
         <target state="translated">当CARDNAME进战场时，支援2。（在至多两个其他目标生物上各放置一个+1/+1指示物。）</target>
+      </trans-unit>
+      <trans-unit id="33df4803-b32d-43ae-ac68-b72e45e10b0c" resname="OGW·142 | Saddleback Lagac | Flavor Text">
+        <source>&amp;quot;A good lagac will carry you through thick and thin. A bad one . . . well, it's a tasty dinner.&amp;quot;\n—Raff Slugeater, goblin shortcutter</source>
+        <target state="translated">「优良的勒嘎会载你共度时艰。而劣等的...嗯，至少他们味道还不错。」 ～抄捷径鬼怪食虫拉夫</target>
       </trans-unit>
       <trans-unit id="ba4736b3-d6ce-4a16-bcb7-67780caeb78c" resname="OGW·143 | Seed Guardian | Card Name">
         <source>Seed Guardian</source>
@@ -1690,6 +2094,10 @@
         <source>When CARDNAME dies, put an X/X green Elemental creature token onto the battlefield, where X is the number of creature cards in your graveyard.</source>
         <target state="translated">当CARDNAME死去时，将一个X/X绿色元素衍生生物放进战场，X为你坟墓场中的生物牌数量。</target>
       </trans-unit>
+      <trans-unit id="ba4736b3-d6ce-4a16-bcb7-67780caeb78c" resname="OGW·143 | Seed Guardian | Flavor Text">
+        <source>It is a reminder that spring will always follow winter.</source>
+        <target state="translated">它提醒人们寒冬过后总是新春。</target>
+      </trans-unit>
       <trans-unit id="4ad1ff9b-306d-47c3-9334-371e4482370b" resname="OGW·144 | Sylvan Advocate | Card Name">
         <source>Sylvan Advocate</source>
         <target state="translated">森林拥护人</target>
@@ -1702,6 +2110,10 @@
         <source>As long as you control six or more lands, CARDNAME and land creatures you control get +2/+2.</source>
         <target state="translated">只要你操控六个或更多地，CARDNAME和由你操控的地生物便得+2/+2。</target>
       </trans-unit>
+      <trans-unit id="4ad1ff9b-306d-47c3-9334-371e4482370b" resname="OGW·144 | Sylvan Advocate | Flavor Text">
+        <source>&amp;quot;The land gives of itself. Its abundance provides, even in times of chaos.&amp;quot;</source>
+        <target state="translated">「大地自给自足。纵是混乱时期，仍有丰裕收成。」</target>
+      </trans-unit>
       <trans-unit id="b073e75b-b432-41a5-a71e-d169fecf774f" resname="OGW·145 | Tajuru Pathwarden | Card Name">
         <source>Tajuru Pathwarden</source>
         <target state="translated">特裘如守径人</target>
@@ -1710,6 +2122,10 @@
         <source>Vigilance, trample</source>
         <target state="translated">警戒，践踏</target>
       </trans-unit>
+      <trans-unit id="b073e75b-b432-41a5-a71e-d169fecf774f" resname="OGW·145 | Tajuru Pathwarden | Flavor Text">
+        <source>&amp;quot;My people blazed these pathways long ago, before the Eldrazi came. We will ride them long after the Eldrazi are gone.&amp;quot;</source>
+        <target state="translated">「我的人民早在奥札奇到来之前就已开辟了这些道路。奥札奇死后我们会继续在此驰骋。」</target>
+      </trans-unit>
       <trans-unit id="e0a1fc4b-ec68-4fd1-af0f-6ccc8c6dee89" resname="OGW·146 | Vines of the Recluse | Card Name">
         <source>Vines of the Recluse</source>
         <target state="translated">隐士藤蔓</target>
@@ -1717,6 +2133,10 @@
       <trans-unit id="e0a1fc4b-ec68-4fd1-af0f-6ccc8c6dee89" resname="OGW·146 | Vines of the Recluse | Card Text | Paragraph 1">
         <source>Target creature gets +1/+2 and gains reach until end of turn. Untap it. (A creature with reach can block creatures with flying.)</source>
         <target state="translated">直到回合结束，目标生物得+1/+2且获得延势异能。将之重置。（具延势异能的生物能阻挡具飞行异能的生物。）</target>
+      </trans-unit>
+      <trans-unit id="e0a1fc4b-ec68-4fd1-af0f-6ccc8c6dee89" resname="OGW·146 | Vines of the Recluse | Flavor Text">
+        <source>&amp;quot;The most elegant solutions are found in nature. You just have to know where to look.&amp;quot;</source>
+        <target state="translated">「最优雅的解决方法藏于自然之间。你只需知道何处觅之便可收归己用。」</target>
       </trans-unit>
       <trans-unit id="67f02bc3-b565-4a38-8313-eb47ff31db8d" resname="OGW·147 | Zendikar Resurgent | Card Name">
         <source>Zendikar Resurgent</source>
@@ -1802,6 +2222,10 @@
         <source>When CARDNAME enters the battlefield, return up to two target creature cards from your graveyard to your hand.</source>
         <target state="translated">当CARDNAME进战场时，将至多两张目标生物牌从你的坟墓场移回你手上。</target>
       </trans-unit>
+      <trans-unit id="8811d210-23e2-4318-9730-7ee3b2021c68" resname="OGW·152 | Baloth Null | Flavor Text">
+        <source>&amp;quot;Humans use pigs to hunt for mushrooms, don't they? It's like that.&amp;quot;\n—Harak, Malakir bloodwitch</source>
+        <target state="translated">「人类会利用猪来找蘑菇，不是吗？这就像那一样。」 ～马拉奇血祭师赫拉克</target>
+      </trans-unit>
       <trans-unit id="5544247d-1f8f-443f-a4c4-d8461db28a79" resname="OGW·153 | Cliffhaven Vampire | Card Name">
         <source>Cliffhaven Vampire</source>
         <target state="translated">崖屋吸血鬼</target>
@@ -1814,6 +2238,10 @@
         <source>Whenever you gain life, each opponent loses 1 life.</source>
         <target state="translated">每当你获得生命时，每位对手各失去1点生命。</target>
       </trans-unit>
+      <trans-unit id="5544247d-1f8f-443f-a4c4-d8461db28a79" resname="OGW·153 | Cliffhaven Vampire | Flavor Text">
+        <source>&amp;quot;My people are no longer slaves to the Eldrazi, beholden to the past. We will determine our own future.&amp;quot;</source>
+        <target state="translated">「我的人民不再是奥札奇的奴隶，也不再受梏于过去。我们将决定自己的未来。」</target>
+      </trans-unit>
       <trans-unit id="65d920b4-81ab-45be-b763-b6114b879357" resname="OGW·154 | Joraga Auxiliary | Card Name">
         <source>Joraga Auxiliary</source>
         <target state="translated">玖瑞加援军</target>
@@ -1822,6 +2250,10 @@
         <source>{4}{G}{W}: Support 2. (Put a +1/+1 counter on each of up to two other target creatures.)</source>
         <target state="translated">{4}{G}{W}：支援2。（在至多两个其他目标生物上各放置一个+1/+1指示物。）</target>
       </trans-unit>
+      <trans-unit id="65d920b4-81ab-45be-b763-b6114b879357" resname="OGW·154 | Joraga Auxiliary | Flavor Text">
+        <source>&amp;quot;Before the battle, I heard them take an oath near the ruins of Sea Gate. I hope they inspire others to keep watch.&amp;quot;</source>
+        <target state="translated">「大战前，我听到他们在海户的遗迹附近立誓。我希望他们能激励其他人继续守护。」</target>
+      </trans-unit>
       <trans-unit id="900d3af7-a03f-4173-8a8a-bd146dec9c0f" resname="OGW·155 | Jori En, Ruin Diver | Card Name">
         <source>Jori En, Ruin Diver</source>
         <target state="translated">遗迹潜师裘黎恩</target>
@@ -1829,6 +2261,10 @@
       <trans-unit id="900d3af7-a03f-4173-8a8a-bd146dec9c0f" resname="OGW·155 | Jori En, Ruin Diver | Card Text | Paragraph 1">
         <source>Whenever you cast your second spell each turn, draw a card.</source>
         <target state="translated">每当你施放每回合中你的第二个咒语时，抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="900d3af7-a03f-4173-8a8a-bd146dec9c0f" resname="OGW·155 | Jori En, Ruin Diver | Flavor Text">
+        <source>&amp;quot;Some relic hunters have given up exploring and gone to fight the Eldrazi. But I know our work is more important than ever. The secrets we uncover could lead to the world's salvation.&amp;quot;</source>
+        <target state="translated">「有些猎宝人已经放弃了探索，转去对抗奥札奇。但我深知我们的工作比过往更为重要。我们发掘出的秘密也许能拯救世界。」</target>
       </trans-unit>
       <trans-unit id="d27ff523-0ff3-480d-ae95-ff5e04483e40" resname="OGW·156 | Mina and Denn, Wildborn | Card Name">
         <source>Mina and Denn, Wildborn</source>
@@ -1841,6 +2277,10 @@
       <trans-unit id="d27ff523-0ff3-480d-ae95-ff5e04483e40" resname="OGW·156 | Mina and Denn, Wildborn | Card Text | Paragraph 2">
         <source>{R}{G}, Return a land you control to its owner's hand: Target creature gains trample until end of turn.</source>
         <target state="translated">{R}{G}，将一个由你操控的地移回其拥有者手上：目标生物获得践踏异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="d27ff523-0ff3-480d-ae95-ff5e04483e40" resname="OGW·156 | Mina and Denn, Wildborn | Flavor Text">
+        <source>Greenweaver Mina and her twin brother Denn lead the last of the Mul Daya into an uncertain future.</source>
+        <target state="translated">织碧弥娜和她的双胞胎兄弟丹恩领导着慕达雅最后的幸存者，迈向未知的未来。</target>
       </trans-unit>
       <trans-unit id="9473fe01-83f6-4432-ab01-f7953d2ca904" resname="OGW·157 | Reflector Mage | Card Name">
         <source>Reflector Mage</source>
@@ -1858,6 +2298,10 @@
         <source>{1}{R}{G}: CARDNAME gets +1/+1 and gains trample until end of turn.</source>
         <target state="translated">{1}{R}{G}：直到回合结束，CARDNAME得+1/+1且获得践踏异能。</target>
       </trans-unit>
+      <trans-unit id="91a52252-46b6-42e5-8cb5-c4f823cd0bf5" resname="OGW·158 | Relentless Hunter | Flavor Text">
+        <source>&amp;quot;I swore to take one head for each member of my family they killed. My task is nowhere near its end.&amp;quot;</source>
+        <target state="translated">「我曾立誓为每位惨死它们手下的家人取回一颗首级。我的任务还远未结束。」</target>
+      </trans-unit>
       <trans-unit id="7bba1b45-d8ae-42fd-b30f-c904640ab173" resname="OGW·159 | Stormchaser Mage | Card Name">
         <source>Stormchaser Mage</source>
         <target state="translated">逐岚法师</target>
@@ -1870,6 +2314,10 @@
         <source>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</source>
         <target state="translated">灵技（每当你施放非生物咒语时，此生物得+1/+1直到回合结束。）</target>
       </trans-unit>
+      <trans-unit id="7bba1b45-d8ae-42fd-b30f-c904640ab173" resname="OGW·159 | Stormchaser Mage | Flavor Text">
+        <source>Roilmages' tactics are as chaotic as the energies they channel.</source>
+        <target state="translated">狂搅法师的战略难以估测，正如他们引导的能量。</target>
+      </trans-unit>
       <trans-unit id="7d47bcb1-b028-4be8-9710-7c390cb984ce" resname="OGW·160 | Weapons Trainer | Card Name">
         <source>Weapons Trainer</source>
         <target state="translated">武器训练师</target>
@@ -1877,6 +2325,10 @@
       <trans-unit id="7d47bcb1-b028-4be8-9710-7c390cb984ce" resname="OGW·160 | Weapons Trainer | Card Text | Paragraph 1">
         <source>Other creatures you control get +1/+0 as long as you control an Equipment.</source>
         <target state="translated">只要你操控武具，由你操控的其他生物便得+1/+0。</target>
+      </trans-unit>
+      <trans-unit id="7d47bcb1-b028-4be8-9710-7c390cb984ce" resname="OGW·160 | Weapons Trainer | Flavor Text">
+        <source>&amp;quot;When I'm done training you, anything will be a deadly weapon.&amp;quot;</source>
+        <target state="translated">「你完成训练之后，任何东西都能成为致命兵器。」</target>
       </trans-unit>
       <trans-unit id="dc3d19ff-b618-4b07-99a8-ea6e7ee72459" resname="OGW·161 | Bone Saw | Card Name">
         <source>Bone Saw</source>
@@ -1889,6 +2341,10 @@
       <trans-unit id="dc3d19ff-b618-4b07-99a8-ea6e7ee72459" resname="OGW·161 | Bone Saw | Card Text | Paragraph 2">
         <source>Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</source>
         <target state="translated">佩带{1}（{1}：装备在目标由你操控的生物上。佩带的时机视同法术。）</target>
+      </trans-unit>
+      <trans-unit id="dc3d19ff-b618-4b07-99a8-ea6e7ee72459" resname="OGW·161 | Bone Saw | Flavor Text">
+        <source>Once a simple tool, it—like everything else on Zendikar—has been turned into a weapon against the Eldrazi.</source>
+        <target state="translated">原本平凡无奇的工具现已成为对抗奥札奇的武器～这正是赞迪卡万物的真实写照。</target>
       </trans-unit>
       <trans-unit id="521ee576-5a51-4353-af38-c461f05d66ce" resname="OGW·162 | Captain's Claws | Card Name">
         <source>Captain's Claws</source>
@@ -1906,6 +2362,10 @@
         <source>Equip {1}</source>
         <target state="translated">佩带{1}</target>
       </trans-unit>
+      <trans-unit id="521ee576-5a51-4353-af38-c461f05d66ce" resname="OGW·162 | Captain's Claws | Flavor Text">
+        <source>Forged for victory in a time of despair.</source>
+        <target state="translated">在绝望时刻为胜利而铸。</target>
+      </trans-unit>
       <trans-unit id="15e54603-af67-497f-afe0-88cfa4d00095" resname="OGW·163 | Chitinous Cloak | Card Name">
         <source>Chitinous Cloak</source>
         <target state="translated">硬壳斗篷</target>
@@ -1918,6 +2378,10 @@
         <source>Equip {3}</source>
         <target state="translated">佩带{3}</target>
       </trans-unit>
+      <trans-unit id="15e54603-af67-497f-afe0-88cfa4d00095" resname="OGW·163 | Chitinous Cloak | Flavor Text">
+        <source>&amp;quot;If we're going to survive, we have to use every tool at our disposal. Especially the disgusting ones.&amp;quot;\n—Ryza, Oran-Rief scout</source>
+        <target state="translated">「如果想要活下去，手边的所有工具都得派上用场。特别是令人恶心的那些。」 ～欧兰黎斥候莱莎</target>
+      </trans-unit>
       <trans-unit id="9f827f92-1df6-4fd0-aa61-ec2e53476f9c" resname="OGW·164 | Hedron Crawler | Card Name">
         <source>Hedron Crawler</source>
         <target state="translated">晶石匍体</target>
@@ -1925,6 +2389,10 @@
       <trans-unit id="9f827f92-1df6-4fd0-aa61-ec2e53476f9c" resname="OGW·164 | Hedron Crawler | Card Text | Paragraph 1">
         <source>{T}: Add {C} to your mana pool. ({C} represents colorless mana.)</source>
         <target state="translated">{T}：加{C}到你的法术力池中。（{C}代表无色法术力。）</target>
+      </trans-unit>
+      <trans-unit id="9f827f92-1df6-4fd0-aa61-ec2e53476f9c" resname="OGW·164 | Hedron Crawler | Flavor Text">
+        <source>&amp;quot;It's endearing, in a mystical, pointy sort of way.&amp;quot;\n—General Tazri, allied commander</source>
+        <target state="translated">「它既神秘又尖锐，挺惹人喜欢。」 ～盟军指挥官塔兹莉将军</target>
       </trans-unit>
       <trans-unit id="6618a854-7d9c-4e57-b959-4c0259cb4d97" resname="OGW·165 | Seer's Lantern | Card Name">
         <source>Seer's Lantern</source>
@@ -1938,6 +2406,10 @@
         <source>{2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</source>
         <target state="translated">{2}，{T}：占卜1。（检视你牌库顶的牌。你可以将该牌置于你的牌库底。）</target>
       </trans-unit>
+      <trans-unit id="6618a854-7d9c-4e57-b959-4c0259cb4d97" resname="OGW·165 | Seer's Lantern | Flavor Text">
+        <source>A light to bring hope in dark times.</source>
+        <target state="translated">黑暗时期的希望之光。</target>
+      </trans-unit>
       <trans-unit id="ae5b78f5-6a49-4433-a42b-5abf5ea60919" resname="OGW·166 | Stoneforge Masterwork | Card Name">
         <source>Stoneforge Masterwork</source>
         <target state="translated">锻石神甲</target>
@@ -1949,6 +2421,10 @@
       <trans-unit id="ae5b78f5-6a49-4433-a42b-5abf5ea60919" resname="OGW·166 | Stoneforge Masterwork | Card Text | Paragraph 2">
         <source>Equip {2}</source>
         <target state="translated">佩带{2}</target>
+      </trans-unit>
+      <trans-unit id="ae5b78f5-6a49-4433-a42b-5abf5ea60919" resname="OGW·166 | Stoneforge Masterwork | Flavor Text">
+        <source>The nomadic kor carry only necessities on their long treks. The coming of the Eldrazi redefined &amp;quot;necessities.&amp;quot;</source>
+        <target state="translated">游牧的寇族在长途迁徙途中只会带上必需品。奥札奇的出现赋予了「必需品」新的含义。</target>
       </trans-unit>
       <trans-unit id="47c90f49-d1eb-420e-bfb6-b834a496860d" resname="OGW·167 | Strider Harness | Card Name">
         <source>Strider Harness</source>
@@ -1962,6 +2438,10 @@
         <source>Equip {1}</source>
         <target state="translated">佩带{1}</target>
       </trans-unit>
+      <trans-unit id="47c90f49-d1eb-420e-bfb6-b834a496860d" resname="OGW·167 | Strider Harness | Flavor Text">
+        <source>&amp;quot;Sometimes being fast is as important as being smart.&amp;quot;\n—Ryza, Oran-Rief scout</source>
+        <target state="translated">「速度有时候和智慧一样重要。」 ～欧兰黎斥候莱莎</target>
+      </trans-unit>
       <trans-unit id="949f41a0-9082-4682-88b8-a29fbcb48d5d" resname="OGW·168 | Cinder Barrens | Card Name">
         <source>Cinder Barrens</source>
         <target state="translated">煤烬瘠地</target>
@@ -1974,6 +2454,10 @@
         <source>{T}: Add {B} or {R} to your mana pool.</source>
         <target state="translated">{T}：加{B}或{R}到你的法术力池中。</target>
       </trans-unit>
+      <trans-unit id="949f41a0-9082-4682-88b8-a29fbcb48d5d" resname="OGW·168 | Cinder Barrens | Flavor Text">
+        <source>A mudflow swallowed the lowlands years ago. All that remains are a bottomless mire and an endless rain of ash.</source>
+        <target state="translated">多年前的一股泥石流吞没了低洼地带。如今此处只余无底泥沼及不尽灰雨。</target>
+      </trans-unit>
       <trans-unit id="7043e193-8051-4f1b-9633-9c1f250d3607" resname="OGW·169 | Corrupted Crossroads | Card Name">
         <source>Corrupted Crossroads</source>
         <target state="translated">腐化会所</target>
@@ -1985,6 +2469,10 @@
       <trans-unit id="7043e193-8051-4f1b-9633-9c1f250d3607" resname="OGW·169 | Corrupted Crossroads | Card Text | Paragraph 2">
         <source>{T}, Pay 1 life: Add one mana of any color to your mana pool. Spend this mana only to cast a spell with devoid.</source>
         <target state="translated">{T}，支付1点生命：加一点任意颜色的法术力到你的法术力池中。此法术力只能用来施放具虚色异能的咒语。</target>
+      </trans-unit>
+      <trans-unit id="7043e193-8051-4f1b-9633-9c1f250d3607" resname="OGW·169 | Corrupted Crossroads | Flavor Text">
+        <source>&amp;quot;Look, and see the future.&amp;quot;\n—Ayli, high priest of the Eternal Pilgrims</source>
+        <target state="translated">「看啊，这就是未来。」 ～坚信朝圣客高阶僧侣艾栗</target>
       </trans-unit>
       <trans-unit id="d491c13c-43e3-4ca3-b888-4edd34dfe14a" resname="OGW·170 | Crumbling Vestige | Card Name">
         <source>Crumbling Vestige</source>
@@ -2030,6 +2518,10 @@
         <source>{T}, Tap an untapped creature you control: Add one mana of any color to your mana pool.</source>
         <target state="translated">{T}，横置一个由你操控且未横置的生物：加一点任意颜色的法术力到你的法术力池中。</target>
       </trans-unit>
+      <trans-unit id="cf08c317-6f2d-47e3-ab5b-8af73fd3e404" resname="OGW·172 | Holdout Settlement | Flavor Text">
+        <source>Even in areas of profound devastation, the hedrons remained intact.</source>
+        <target state="translated">纵便是遭受深刻摧残的地区，晶石仍能保持完好无损。</target>
+      </trans-unit>
       <trans-unit id="6a5bedf1-92b6-465c-afc2-ce8e150a5e57" resname="OGW·173 | Meandering River | Card Name">
         <source>Meandering River</source>
         <target state="translated">蜿蜒河流</target>
@@ -2041,6 +2533,10 @@
       <trans-unit id="6a5bedf1-92b6-465c-afc2-ce8e150a5e57" resname="OGW·173 | Meandering River | Card Text | Paragraph 2">
         <source>{T}: Add {W} or {U} to your mana pool.</source>
         <target state="translated">{T}：加{W}或{U}到你的法术力池中。</target>
+      </trans-unit>
+      <trans-unit id="6a5bedf1-92b6-465c-afc2-ce8e150a5e57" resname="OGW·173 | Meandering River | Flavor Text">
+        <source>The river split into many channels as it flowed to the Halimar Sea. Few travelers could follow the same one twice.</source>
+        <target state="translated">河流奔向哈利玛海途中折出众多支流。鲜有旅人能循着同一条支流走两次。</target>
       </trans-unit>
       <trans-unit id="edbea2b5-eed3-464b-9d5c-9591f309f298" resname="OGW·174 | Mirrorpool | Card Name">
         <source>Mirrorpool</source>
@@ -2106,6 +2602,10 @@
         <source>{2}{C}, {T}: Draw a card. Activate this ability only if you have no cards in hand.</source>
         <target state="translated">{2}{C}，{T}：抓一张牌。只能于你没有手牌时起动此异能。</target>
       </trans-unit>
+      <trans-unit id="cd42576b-9de5-4d77-9d30-1ef5b5a4fd73" resname="OGW·177 | Sea Gate Wreckage | Flavor Text">
+        <source>Once a center for knowledge, Sea Gate now serves as a reminder of what was lost.</source>
+        <target state="translated">海户曾是知识的中心，如今成为铭记惨痛损失的纪念之处。</target>
+      </trans-unit>
       <trans-unit id="6479a246-21ac-490a-aefb-6ed72aabdb88" resname="OGW·178 | Submerged Boneyard | Card Name">
         <source>Submerged Boneyard</source>
         <target state="translated">水下聚骨场</target>
@@ -2117,6 +2617,10 @@
       <trans-unit id="6479a246-21ac-490a-aefb-6ed72aabdb88" resname="OGW·178 | Submerged Boneyard | Card Text | Paragraph 2">
         <source>{T}: Add {U} or {B} to your mana pool.</source>
         <target state="translated">{T}：加{U}或{B}到你的法术力池中。</target>
+      </trans-unit>
+      <trans-unit id="6479a246-21ac-490a-aefb-6ed72aabdb88" resname="OGW·178 | Submerged Boneyard | Flavor Text">
+        <source>&amp;quot;Long after the land has given up the last of its secrets, there will still be mysteries in the depths of the sea.&amp;quot;\n—Kiora</source>
+        <target state="translated">「大地早已显露其所有的秘密，然而深海依然暗藏玄机。」 ～奇奥拉</target>
       </trans-unit>
       <trans-unit id="55d05ff7-f071-4eb3-b10a-203741abdf10" resname="OGW·179 | Timber Gorge | Card Name">
         <source>Timber Gorge</source>
@@ -2130,6 +2634,10 @@
         <source>{T}: Add {R} or {G} to your mana pool.</source>
         <target state="translated">{T}：加{R}或{G}到你的法术力池中。</target>
       </trans-unit>
+      <trans-unit id="55d05ff7-f071-4eb3-b10a-203741abdf10" resname="OGW·179 | Timber Gorge | Flavor Text">
+        <source>Tazeem's embrace is harsh, but for those that call it home, nothing else will do.</source>
+        <target state="translated">虽然塔晋的环境严酷，但对以此为家乡者而言，却是无可替代的所在。</target>
+      </trans-unit>
       <trans-unit id="42787d2b-3f9d-4c29-9ece-e65544eb1340" resname="OGW·180 | Tranquil Expanse | Card Name">
         <source>Tranquil Expanse</source>
         <target state="translated">静谧旷野</target>
@@ -2142,6 +2650,10 @@
         <source>{T}: Add {G} or {W} to your mana pool.</source>
         <target state="translated">{T}：加{G}或{W}到你的法术力池中。</target>
       </trans-unit>
+      <trans-unit id="42787d2b-3f9d-4c29-9ece-e65544eb1340" resname="OGW·180 | Tranquil Expanse | Flavor Text">
+        <source>Despite the chaos of the Roil and the devastation of the Eldrazi, Zendikar is a world of breathtaking beauty.</source>
+        <target state="translated">赞迪卡虽时有狂搅肆虐，饱经奥札奇摧残，其锦绣壮丽的山川景观仍令人赞叹不已。</target>
+      </trans-unit>
       <trans-unit id="87db92c1-ac17-4e32-840e-7ccbcef31bc6" resname="OGW·181 | Unknown Shores | Card Name">
         <source>Unknown Shores</source>
         <target state="translated">无闻海岸</target>
@@ -2153,6 +2665,10 @@
       <trans-unit id="87db92c1-ac17-4e32-840e-7ccbcef31bc6" resname="OGW·181 | Unknown Shores | Card Text | Paragraph 2">
         <source>{1}, {T}: Add one mana of any color to your mana pool.</source>
         <target state="translated">{1}，{T}：加一点任意颜色的法术力到你的法术力池中。</target>
+      </trans-unit>
+      <trans-unit id="87db92c1-ac17-4e32-840e-7ccbcef31bc6" resname="OGW·181 | Unknown Shores | Flavor Text">
+        <source>Kozilek's presence warped the land, stripping away layer after layer.</source>
+        <target state="translated">寇基雷的出现扭曲大地，将其逐层剥落。</target>
       </trans-unit>
       <trans-unit id="dd0ee251-6c79-499b-8366-c281c989b061" resname="OGW·182 | Wandering Fumarole | Card Name">
         <source>Wandering Fumarole</source>

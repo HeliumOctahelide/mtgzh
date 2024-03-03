@@ -10,6 +10,10 @@
         <source>Each other Human you control gets +1/+0 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</source>
         <target state="translated">每个由你操控的其他人类均得+1/+0且各具有守护{1}。（每当所结附的生物成为由对手操控之咒语或异能的目标时，除非该牌手支付{1}，否则反击之。）</target>
       </trans-unit>
+      <trans-unit id="d786f05d-78a2-41b6-a185-111e8c1b216b" resname="MAT·1 | Coppercoat Vanguard | Flavor Text">
+        <source>It was a time for rebuilding, but first Ikoria's wrecked cities had to be cleared of monsters.</source>
+        <target state="translated">现在虽是重建之时，但首要任务却是将游荡于依克黎坏灭都市中怪兽清除干净。</target>
+      </trans-unit>
       <trans-unit id="52ce799e-cb9e-4d74-8b13-a5f4559e13a9" resname="MAT·2 | Deification | Card Name">
         <source>Deification</source>
         <target state="translated">奉若神明</target>
@@ -38,6 +42,10 @@
         <source>Whenever CARDNAME deals combat damage to a player, return target artifact or enchantment card from your graveyard to the battlefield.</source>
         <target state="translated">每当CARDNAME对任一牌手造成战斗伤害时，将目标神器或结界牌从你的坟墓场移回战场。</target>
       </trans-unit>
+      <trans-unit id="553ed1d8-4d5c-48f8-8513-031bd8977d75" resname="MAT·3 | Harnessed Snubhorn | Flavor Text">
+        <source>Survivors put the strength of former war mounts to good use clearing the rubble of Orazca.</source>
+        <target state="translated">战时坐骑原有的充沛精力，正好被幸存者用来清理欧拉兹卡的瓦砾。</target>
+      </trans-unit>
       <trans-unit id="a61a3ba1-af6c-4ddc-aa82-34bfc30867d0" resname="MAT·4 | Metropolis Reformer | Card Name">
         <source>Metropolis Reformer</source>
         <target state="translated">都会变革使</target>
@@ -54,6 +62,10 @@
         <source>Whenever CARDNAME is dealt damage, you gain that much life.</source>
         <target state="translated">每当CARDNAME受到伤害时，你获得等量的生命。</target>
       </trans-unit>
+      <trans-unit id="a61a3ba1-af6c-4ddc-aa82-34bfc30867d0" resname="MAT·4 | Metropolis Reformer | Flavor Text">
+        <source>With their ancient enemy vanquished, the angels of New Capenna turned their eyes to their former captors: demons.</source>
+        <target state="translated">随着远古宿敌尽数败退，新卡佩纳的天使便将目光转向过往囚禁他们的对手：恶魔。</target>
+      </trans-unit>
       <trans-unit id="a027a75f-4faf-4e96-9035-d1f622b9b607" resname="MAT·5 | Spark Rupture | Card Name">
         <source>Spark Rupture</source>
         <target state="translated">火花破裂</target>
@@ -65,6 +77,10 @@
       <trans-unit id="a027a75f-4faf-4e96-9035-d1f622b9b607" resname="MAT·5 | Spark Rupture | Card Text | Paragraph 2">
         <source>Each planeswalker with one or more loyalty counters on it loses all abilities and is a creature with power and toughness each equal to the number of loyalty counters on it.</source>
         <target state="translated">对每个其上有一个或数个忠诚指示物的鹏洛客而言，它失去所有异能，且是力量和防御力各等同于其上忠诚指示物数量的生物。</target>
+      </trans-unit>
+      <trans-unit id="a027a75f-4faf-4e96-9035-d1f622b9b607" resname="MAT·5 | Spark Rupture | Flavor Text">
+        <source>Phyrexia was defeated, but the repercussions of the invasion rippled through the Blind Eternities.</source>
+        <target state="translated">非瑞克西亚虽已被击败，但侵攻余波仍在整个黑暗虚空回荡。</target>
       </trans-unit>
       <trans-unit id="227d0d7d-544b-4736-914d-10d5d752eb42" resname="MAT·6 | Tazri, Stalwart Survivor | Card Name">
         <source>Tazri, Stalwart Survivor</source>
@@ -86,6 +102,10 @@
         <source>Return all noncreature, nonland permanents to their owners' hands.</source>
         <target state="translated">将所有非生物且非地的永久物移回其拥有者手上。</target>
       </trans-unit>
+      <trans-unit id="a81a9eb1-240b-40fd-9282-0f5abec63449" resname="MAT·7 | Filter Out | Flavor Text">
+        <source>The glistening oil had been rendered inert, but planes wouldn't begin to truly heal until every last drop was purged.</source>
+        <target state="translated">虽然残存于各时空内的烁油都已失去活性，但要把每点每滴都涤除干净后，时空才会真正开始愈合。</target>
+      </trans-unit>
       <trans-unit id="f72a9deb-9329-4930-a906-136c26490d52" resname="MAT·8 | Tolarian Contempt | Card Name">
         <source>Tolarian Contempt</source>
         <target state="translated">陶拉里亚式轻蔑</target>
@@ -105,6 +125,10 @@
       <trans-unit id="991c27ed-f53c-48c6-8c12-282f44b8d441" resname="MAT·9 | Training Grounds | Card Text | Paragraph 1">
         <source>Activated abilities of creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.</source>
         <target state="translated">由你操控的生物之起动式异能减少{2}来起动。此效应无法将该费用中的法术力减少到少于一点法术力。</target>
+      </trans-unit>
+      <trans-unit id="991c27ed-f53c-48c6-8c12-282f44b8d441" resname="MAT·9 | Training Grounds | Flavor Text">
+        <source>For those who survived, being prepared for the next crisis became one of the greatest virtues.</source>
+        <target state="translated">对活下来的人来说，时刻做好准备应对下次危机已经成当代的一大美德。</target>
       </trans-unit>
       <trans-unit id="f2785902-2757-406b-bc75-6f05e0edc98d" resname="MAT·10 | Vesuvan Drifter | Card Name">
         <source>Vesuvan Drifter</source>
@@ -141,6 +165,10 @@
       <trans-unit id="424eb4c7-647e-4168-9471-f299e8e77f5f" resname="MAT·12 | Blot Out | Card Text | Paragraph 1">
         <source>Target opponent exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control.</source>
         <target state="translated">目标对手放逐一个由其操控的生物或鹏洛客，且须是由其操控的生物和鹏洛客中法术力值最大者。</target>
+      </trans-unit>
+      <trans-unit id="424eb4c7-647e-4168-9471-f299e8e77f5f" resname="MAT·12 | Blot Out | Flavor Text">
+        <source>After the invasion, many wanted to leave a life of violence. But once you're a Reckoner, you die a Reckoner.</source>
+        <target state="translated">侵攻过后，帮众都厌倦了在刀口上讨生活。只是一入江湖，一生江湖。</target>
       </trans-unit>
       <trans-unit id="d5e0b5cf-39e8-454f-a942-f7865416ef81" resname="MAT·13 | Death-Rattle Oni | Card Name">
         <source>Death-Rattle Oni</source>
@@ -210,6 +238,10 @@
         <source>Whenever CARDNAME attacks, look at the top six cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</source>
         <target state="translated">每当CARDNAME攻击时，检视你牌库顶的六张牌。你可以展示其中一张龙牌并置于你手上。将其余的牌以随机顺序置于你牌库底。</target>
       </trans-unit>
+      <trans-unit id="8361d9e2-b9fc-4d46-a1ba-a24139157f26" resname="MAT·17 | Kolaghan Warmonger | Flavor Text">
+        <source>Conflict is a constant. Only the enemies change.</source>
+        <target state="translated">冲突是常量。敌人是变量。</target>
+      </trans-unit>
       <trans-unit id="179a0525-a142-46f6-9b5b-06a2fbb25556" resname="MAT·18 | Plargg and Nassari | Card Name">
         <source>Plargg and Nassari</source>
         <target state="translated">帕葛与纳撒理</target>
@@ -226,6 +258,10 @@
         <source>Search your library for an artifact card, reveal it, put it into your hand, shuffle, then discard a card at random. If an artifact card was discarded this way, CARDNAME deals 2 damage to each opponent.</source>
         <target state="translated">从你的牌库中搜寻一张神器牌，展示该牌，将它置于你手上，洗牌，然后随机弃一张牌。如果以此法弃掉一张神器牌，则CARDNAME向每位对手各造成2点伤害。</target>
       </trans-unit>
+      <trans-unit id="239165bb-7819-4d54-a84c-2911934253d6" resname="MAT·19 | Reckless Handling | Flavor Text">
+        <source>The relic shattered, and something in Nahiri broke as well.</source>
+        <target state="translated">看着遗宝在眼前破碎，娜希丽心中仿佛也有东西也随之脱落而去。</target>
+      </trans-unit>
       <trans-unit id="8525ae50-7438-492a-98ae-53f0ffeaab51" resname="MAT·20 | Animist's Might | Card Name">
         <source>Animist's Might</source>
         <target state="translated">物灵师之力</target>
@@ -238,6 +274,10 @@
         <source>Target creature you control deals damage equal to twice its power to target creature or planeswalker you don't control.</source>
         <target state="translated">目标由你操控的生物对目标不由你操控的生物或鹏洛客造成伤害，其数量等同于前者力量的两倍。</target>
       </trans-unit>
+      <trans-unit id="8525ae50-7438-492a-98ae-53f0ffeaab51" resname="MAT·20 | Animist's Might | Flavor Text">
+        <source>The creature was unlike any Nissa had seen, but she dealt with it as she would any threat.</source>
+        <target state="translated">虽然这生物跟妮莎此前见过的截然不同，但她仍照应对威胁一般将它制服在地。</target>
+      </trans-unit>
       <trans-unit id="197f5adc-e14b-4c84-896f-ef5f01f7ff57" resname="MAT·21 | Leyline Immersion | Card Name">
         <source>Leyline Immersion</source>
         <target state="translated">地脉通感</target>
@@ -249,6 +289,10 @@
       <trans-unit id="197f5adc-e14b-4c84-896f-ef5f01f7ff57" resname="MAT·21 | Leyline Immersion | Card Text | Paragraph 2">
         <source>Enchanted creature has ward {2} and &amp;quot;{T}: Add five mana in any combination of colors. Spend this mana only to cast spells.&amp;quot;</source>
         <target state="translated">所结附的生物具有守护{2}与「{T}：加五点法术力，其颜色组合由你选择。此法术力只能用来施放咒语。」</target>
+      </trans-unit>
+      <trans-unit id="197f5adc-e14b-4c84-896f-ef5f01f7ff57" resname="MAT·21 | Leyline Immersion | Flavor Text">
+        <source>When Nissa tapped into Zhalfir's leylines, she was shocked to feel not a piece of Dominaria, but a plane all its own.</source>
+        <target state="translated">当妮莎与赛费尔的地脉相联时，她惊奇地发现此处已感受不到多明纳里亚的任何气息，而是作为独立时空存在。</target>
       </trans-unit>
       <trans-unit id="248c76d3-b5cb-4582-be17-7cd1d0cb0f58" resname="MAT·22 | Nissa, Resurgent Animist | Card Name">
         <source>Nissa, Resurgent Animist</source>
@@ -298,6 +342,10 @@
         <source>Undergrowth — Distribute X +1/+1 counters among any number of target creatures you control, where X is the number of creature cards in your graveyard as you cast this spell. Creatures you control gain vigilance until end of turn.</source>
         <target state="translated">朽力～将X个+1/+1指示物分配给任意数量目标由你操控的生物，X为于你施放此咒语时你坟墓场中的生物牌数量。由你操控的生物获得警戒异能直到回合结束。</target>
       </trans-unit>
+      <trans-unit id="acfe6957-d971-413f-b075-01b995f1d7a3" resname="MAT·25 | Undercity Upheaval | Flavor Text">
+        <source>Light shone on parts of the undercity for the first time in centuries.</source>
+        <target state="translated">数百年来，这是首度有阳光照耀在地底城区上。</target>
+      </trans-unit>
       <trans-unit id="0a707ab3-b9b5-422a-8b0f-e963d3ad6606" resname="MAT·26 | Calix, Guided by Fate | Card Name">
         <source>Calix, Guided by Fate</source>
         <target state="translated">命缚丝引凯利斯</target>
@@ -318,6 +366,10 @@
         <source>Return up to one target artifact or enchantment card from your graveyard to the battlefield. Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</source>
         <target state="translated">将至多一张目标神器或结界牌从你的坟墓场移回战场。放逐你牌库顶的两张牌。直到你下一个回合的回合结束，你可以使用这些牌。</target>
       </trans-unit>
+      <trans-unit id="6d925d13-fcd6-417b-b2b2-bbdd114aae78" resname="MAT·27 | Campus Renovation | Flavor Text">
+        <source>Reconstructing the past is Lorehold's specialty.</source>
+        <target state="translated">重构过去乃是衡鉴学院的专长。</target>
+      </trans-unit>
       <trans-unit id="7fcb225c-d18f-4b84-b2fc-91ed84ec30aa" resname="MAT·28 | Cosmic Rebirth | Card Name">
         <source>Cosmic Rebirth</source>
         <target state="translated">寰宇新生</target>
@@ -329,6 +381,10 @@
       <trans-unit id="7fcb225c-d18f-4b84-b2fc-91ed84ec30aa" resname="MAT·28 | Cosmic Rebirth | Card Text | Paragraph 2">
         <source>You gain 3 life.</source>
         <target state="translated">你获得3点生命。</target>
+      </trans-unit>
+      <trans-unit id="7fcb225c-d18f-4b84-b2fc-91ed84ec30aa" resname="MAT·28 | Cosmic Rebirth | Flavor Text">
+        <source>&amp;quot;When all the stories find their ends, a new one shall begin.&amp;quot;\n—*The Endsaga*</source>
+        <target state="translated">「所有传说终结后，必有新章从头起。」\n～《落幕终章》</target>
       </trans-unit>
       <trans-unit id="039e43f2-cf3b-4c60-ac55-d2aafb20eb34" resname="MAT·29 | Danitha, New Benalia's Light | Card Name">
         <source>Danitha, New Benalia's Light</source>
@@ -342,6 +398,10 @@
         <source>Once during each of your turns, you may cast an Aura or Equipment spell from your graveyard.</source>
         <target state="translated">仅于你的每个回合中且限一次，你可以从你坟墓场中施放灵气或结界咒语。</target>
       </trans-unit>
+      <trans-unit id="039e43f2-cf3b-4c60-ac55-d2aafb20eb34" resname="MAT·29 | Danitha, New Benalia's Light | Flavor Text">
+        <source>Danitha had spent her whole life preparing to lead House Capashen, but she mourned that the opportunity had come so soon.</source>
+        <target state="translated">虽然达妮莎这一生都在为领导卡帕轩家族做准备，但她仍为此重任太早落在她身上而悲伤不已。</target>
+      </trans-unit>
       <trans-unit id="8a90d613-a327-4dc7-b0c1-0003fe0171ef" resname="MAT·30 | Feast of the Victorious Dead | Card Name">
         <source>Feast of the Victorious Dead</source>
         <target state="translated">英灵庆功宴</target>
@@ -349,6 +409,10 @@
       <trans-unit id="8a90d613-a327-4dc7-b0c1-0003fe0171ef" resname="MAT·30 | Feast of the Victorious Dead | Card Text | Paragraph 1">
         <source>At the beginning of your end step, if one or more creatures died this turn, you gain that much life and distribute that many +1/+1 counters among creatures you control.</source>
         <target state="translated">在你的结束步骤开始时，若本回合中有一个或数个生物死去，则你获得等量生命，并将等量的+1/+1指示物分配给由你操控的生物。</target>
+      </trans-unit>
+      <trans-unit id="8a90d613-a327-4dc7-b0c1-0003fe0171ef" resname="MAT·30 | Feast of the Victorious Dead | Flavor Text">
+        <source>To hear them tell it, they charged bare-handed into New Phyrexia and beat up Elesh Norn all by themselves.</source>
+        <target state="translated">用他们的话来说，他们就是赤手空拳地冲进了新非瑞克西亚，全拥而上把艾蕾侬痛揍一顿后得胜而归。</target>
       </trans-unit>
       <trans-unit id="6917d51b-eb61-4e7e-8336-8b4adf8d1e39" resname="MAT·31 | Gold-Forged Thopteryx | Card Name">
         <source>Gold-Forged Thopteryx</source>
@@ -362,6 +426,10 @@
         <source>Each legendary permanent you control has ward {2}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</source>
         <target state="translated">每个由你操控的传奇永久物均具有守护{2}。（每当它成为由对手操控之咒语或异能的目标时，除非该牌手支付{2}，否则反击之。）</target>
       </trans-unit>
+      <trans-unit id="6917d51b-eb61-4e7e-8336-8b4adf8d1e39" resname="MAT·31 | Gold-Forged Thopteryx | Flavor Text">
+        <source>Worlds apart, Huatli built a device Saheeli would have been proud of.</source>
+        <target state="translated">虽然两人分处不同世界，但华特莉也造出了一个连莎希莉都会为之骄傲的装置。</target>
+      </trans-unit>
       <trans-unit id="5c0c3860-1dab-4897-8f36-f9be263bba03" resname="MAT·32 | Jirina, Dauntless General | Card Name">
         <source>Jirina, Dauntless General</source>
         <target state="translated">不屈将军杰琳娜</target>
@@ -373,6 +441,10 @@
       <trans-unit id="5c0c3860-1dab-4897-8f36-f9be263bba03" resname="MAT·32 | Jirina, Dauntless General | Card Text | Paragraph 2">
         <source>Sacrifice Jirina: Humans you control gain hexproof and indestructible until end of turn.</source>
         <target state="translated">牺牲杰琳娜：由你操控的人类获得辟邪与不灭异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="5c0c3860-1dab-4897-8f36-f9be263bba03" resname="MAT·32 | Jirina, Dauntless General | Flavor Text">
+        <source>&amp;quot;Our strength lies not in our walls, but in our people.&amp;quot;</source>
+        <target state="translated">「我们的力量并非建于高墙之上，而是深存人民心中。」</target>
       </trans-unit>
       <trans-unit id="fcb93216-885c-4ec5-8b88-6cd51f593c8b" resname="MAT·33 | Jolrael, Voice of Zhalfir | Card Name">
         <source>Jolrael, Voice of Zhalfir</source>
@@ -434,6 +506,10 @@
         <source>At the beginning of your end step, exile any number of nontoken artifacts and/or creatures you control. Return those cards to the battlefield under their owner's control at the beginning of your next upkeep.</source>
         <target state="translated">在你的结束步骤开始时，放逐任意数量由你操控且非衍生物的神器和／或生物。在你的下一个维持开始时，将这些牌在其拥有者的操控下移回战场。</target>
       </trans-unit>
+      <trans-unit id="df9acf30-b4f4-4e99-9763-a3055e91fefb" resname="MAT·37 | Nahiri's Resolve | Flavor Text">
+        <source>&amp;quot;Zendikar is *my* home!&amp;quot;</source>
+        <target state="translated">「赞迪卡是我的家！」</target>
+      </trans-unit>
       <trans-unit id="827ecc44-0b00-4515-8953-bc91fa03705a" resname="MAT·38 | Narset, Enlightened Exile | Card Name">
         <source>Narset, Enlightened Exile</source>
         <target state="translated">受启黜人娜尔施</target>
@@ -446,6 +522,10 @@
         <source>Whenever CARDNAME attacks, exile target noncreature, nonland card with mana value less than Narset's power from a graveyard and copy it. You may cast the copy without paying its mana cost.</source>
         <target state="translated">每当CARDNAME攻击时，将目标既非生物也非地、且法术力值小于娜尔施力量的牌从坟墓场放逐并将它复制。你可以施放该复制品，且不需支付其法术力费用。</target>
       </trans-unit>
+      <trans-unit id="827ecc44-0b00-4515-8953-bc91fa03705a" resname="MAT·38 | Narset, Enlightened Exile | Flavor Text">
+        <source>They called her unique insight a &amp;quot;gift.&amp;quot; Then she saw the truth, and suddenly it was a &amp;quot;threat.&amp;quot;</source>
+        <target state="translated">他们起初将她的独特视界称为「天赋」。但在她看到真相后，这一切转眼就成了「威胁」。</target>
+      </trans-unit>
       <trans-unit id="8ebd7ce4-550d-41ab-8559-97efb234a0a1" resname="MAT·39 | Nashi, Moon's Legacy | Card Name">
         <source>Nashi, Moon's Legacy</source>
         <target state="translated">月智传承哪失</target>
@@ -457,6 +537,10 @@
       <trans-unit id="8ebd7ce4-550d-41ab-8559-97efb234a0a1" resname="MAT·39 | Nashi, Moon's Legacy | Card Text | Paragraph 2">
         <source>Whenever CARDNAME attacks, exile up to one target legendary or Rat card from your graveyard and copy it. You may cast the copy. (You still pay its costs. A copy of a permanent spell becomes a token.)</source>
         <target state="translated">每当CARDNAME攻击时，将至多一张目标传奇或老鼠牌从你的坟墓场放逐并将它复制。你可以施放该复制品。（你依旧要支付其费用，永久物咒语的复制品会成为衍生物。）</target>
+      </trans-unit>
+      <trans-unit id="8ebd7ce4-550d-41ab-8559-97efb234a0a1" resname="MAT·39 | Nashi, Moon's Legacy | Flavor Text">
+        <source>The story circle continues.</source>
+        <target state="translated">传典会仍传颂不息。</target>
       </trans-unit>
       <trans-unit id="da1ff886-d3c8-43e5-8bf0-ba4f0b259781" resname="MAT·40 | Niv-Mizzet, Supreme | Card Name">
         <source>Niv-Mizzet, Supreme</source>
@@ -482,6 +566,10 @@
         <source>Whenever one or more opponents each lose exactly 1 life, put a +1/+1 counter on CARDNAME. Exile the top card of your library. Until your next end step, you may play that card.</source>
         <target state="translated">每当一位或多位对手各失去正好1点生命时，在CARDNAME上放置一个+1/+1指示物。放逐你的牌库顶牌。直到你的下一个结束步骤，你可以使用该牌。</target>
       </trans-unit>
+      <trans-unit id="ddb68233-3683-41bd-9b6e-4f07a1b54244" resname="MAT·41 | Ob Nixilis, Captive Kingpin | Flavor Text">
+        <source>Stranded on New Capenna without a spark, he faced five families out for blood.</source>
+        <target state="translated">没有火花的他如今不仅受困新卡佩纳无法脱身，还要面对五个家族的复仇怒火。</target>
+      </trans-unit>
       <trans-unit id="0ae89461-4bce-4b49-b875-03afc2469fe7" resname="MAT·42 | Pia Nalaar, Consul of Revival | Card Name">
         <source>Pia Nalaar, Consul of Revival</source>
         <target state="translated">复兴执政琵雅纳拉</target>
@@ -494,6 +582,10 @@
         <source>Whenever you play a land from exile or cast a spell from exile, create a 1/1 colorless Thopter artifact creature token with flying.</source>
         <target state="translated">每当你从放逐区使用地或从放逐区施放咒语时，派出一个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
       </trans-unit>
+      <trans-unit id="0ae89461-4bce-4b49-b875-03afc2469fe7" resname="MAT·42 | Pia Nalaar, Consul of Revival | Flavor Text">
+        <source>Renegade turned revolutionary turned rebuilder.</source>
+        <target state="translated">先是乱匠，再成革命家，现为重建师。</target>
+      </trans-unit>
       <trans-unit id="e7651eb7-3cbe-43de-8800-085be19e7f77" resname="MAT·43 | Rebuild the City | Card Name">
         <source>Rebuild the City</source>
         <target state="translated">重建都会</target>
@@ -501,6 +593,10 @@
       <trans-unit id="e7651eb7-3cbe-43de-8800-085be19e7f77" resname="MAT·43 | Rebuild the City | Card Text | Paragraph 1">
         <source>Choose target land. Create three tokens that are copies of it, except they're 3/3 creatures in addition to their other types and they have vigilance and menace. (They're affected by summoning sickness.)</source>
         <target state="translated">选择目标地。派出三个为其复制品的衍生物，但它们是额外是3/3生物，且具有警戒与威慑异能。（它们会受召唤失调影响。）</target>
+      </trans-unit>
+      <trans-unit id="e7651eb7-3cbe-43de-8800-085be19e7f77" resname="MAT·43 | Rebuild the City | Flavor Text">
+        <source>The Phyrexian design had to go, but the materials could be put to good use.</source>
+        <target state="translated">非瑞克西亚式样必得移除，但其材料可善加利用。</target>
       </trans-unit>
       <trans-unit id="cdb53ce7-845c-4c62-98a9-4fc33c67a07b" resname="MAT·44 | Rocco, Street Chef | Card Name">
         <source>Rocco, Street Chef</source>
@@ -525,6 +621,10 @@
       <trans-unit id="a0f3fdb0-47ad-4df6-a95c-a2c81aaf7af5" resname="MAT·45 | Samut, Vizier of Naktamun | Card Text | Paragraph 2">
         <source>Whenever a creature you control deals combat damage to a player, if that creature entered the battlefield this turn, draw a card.</source>
         <target state="translated">每当一个由你操控的生物对任一牌手造成战斗伤害时，若该生物是于本回合进战场，则抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="a0f3fdb0-47ad-4df6-a95c-a2c81aaf7af5" resname="MAT·45 | Samut, Vizier of Naktamun | Flavor Text">
+        <source>&amp;quot;Try to keep up, Djeru. We have lots of work to do.&amp;quot;</source>
+        <target state="translated">「杰鲁，尽量跟上我的脚步。要做的事情还很多。」</target>
       </trans-unit>
       <trans-unit id="6225f139-f6eb-4eb5-9776-159a599d8255" resname="MAT·46 | Sarkhan, Soul Aflame | Card Name">
         <source>Sarkhan, Soul Aflame</source>
@@ -570,6 +670,10 @@
         <source>Each creature you control has &amp;quot;Whenever a mana ability of this creature resolves, put a number of +1/+1 counters on it equal to the amount of mana this creature produced. This ability triggers only once each turn.&amp;quot;</source>
         <target state="translated">每个由你操控的生物均具有「每当此生物的法术力异能结算时，在其上放置若干+1/+1指示物，数量等同于此生物产生的法术力数量。此异能每回合只会触发一次。」</target>
       </trans-unit>
+      <trans-unit id="01a543f0-72fe-4a30-a4a0-356971c1c68a" resname="MAT·48 | Tyvar the Bellicose | Flavor Text">
+        <source>&amp;quot;Today, we become gods again.&amp;quot;</source>
+        <target state="translated">「今天，我们将再度成神。」</target>
+      </trans-unit>
       <trans-unit id="4219b5ea-a252-4d76-a60a-9674340e8ed3" resname="MAT·49 | Karn, Legacy Reforged | Card Name">
         <source>Karn, Legacy Reforged</source>
         <target state="translated">神兵重铸卡恩</target>
@@ -593,6 +697,10 @@
       <trans-unit id="9c07dda8-06dd-499a-9825-dc6b9a73e455" resname="MAT·50 | Drannith Ruins | Card Text | Paragraph 2">
         <source>{2}, {T}: Put two +1/+1 counters on target non-Human creature that entered the battlefield this turn.</source>
         <target state="translated">{2}，{T}：在目标本回合进战场的非人类生物上放置两个+1/+1指示物。</target>
+      </trans-unit>
+      <trans-unit id="9c07dda8-06dd-499a-9825-dc6b9a73e455" resname="MAT·50 | Drannith Ruins | Flavor Text">
+        <source>Like Orn before it, Drannith was reduced to a playground for Ikoria's monsters.</source>
+        <target state="translated">就像此地原址的奥恩城一样，如今的卓尼斯已成为依克黎怪兽的玩乐胜地。</target>
       </trans-unit>
       <trans-unit id="f5a932af-f5bb-452d-803a-b75bd3552b35" resname="MAT·51 | Coppercoat Vanguard | Card Name">
         <source>Coppercoat Vanguard</source>

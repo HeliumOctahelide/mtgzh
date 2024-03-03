@@ -26,6 +26,10 @@
         <source>Enchanted creature gets +2/+2 and has vigilance. (Attacking doesn't cause it to tap.)</source>
         <target state="translated">Enchanted creature gets +2/+2 and has vigilance. (Attacking doesn't cause it to tap.)</target>
       </trans-unit>
+      <trans-unit id="e944e39b-5268-47c0-8b09-2e666315e209" resname="W16·2 | Marked by Honor | Flavor Text">
+        <source>Stand your post for duty. Stand your ground for honor.</source>
+        <target state="translated">Stand your post for duty. Stand your ground for honor.</target>
+      </trans-unit>
       <trans-unit id="8752c1db-b924-4dda-8b71-4c254d0ef2de" resname="W16·3 | Serra Angel | Card Name">
         <source>Serra Angel</source>
         <target state="translated">Serra Angel</target>
@@ -37,6 +41,10 @@
       <trans-unit id="8752c1db-b924-4dda-8b71-4c254d0ef2de" resname="W16·3 | Serra Angel | Card Text | Paragraph 2">
         <source>Vigilance (Attacking doesn't cause this creature to tap.)</source>
         <target state="translated">Vigilance (Attacking doesn't cause this creature to tap.)</target>
+      </trans-unit>
+      <trans-unit id="8752c1db-b924-4dda-8b71-4c254d0ef2de" resname="W16·3 | Serra Angel | Flavor Text">
+        <source>Follow the light. In its absence, follow her.</source>
+        <target state="translated">Follow the light. In its absence, follow her.</target>
       </trans-unit>
       <trans-unit id="01007d7f-e29b-49d5-bc60-44b2fb77ed3d" resname="W16·4 | Air Servant | Card Name">
         <source>Air Servant</source>
@@ -50,6 +58,10 @@
         <source>{2}{U}: Tap target creature with flying.</source>
         <target state="translated">{2}{U}: Tap target creature with flying.</target>
       </trans-unit>
+      <trans-unit id="01007d7f-e29b-49d5-bc60-44b2fb77ed3d" resname="W16·4 | Air Servant | Flavor Text">
+        <source>Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.</source>
+        <target state="translated">Wind is forceful, yet ephemeral. It can knock a dragon out of the sky, yet pass through the smallest crack unhindered.</target>
+      </trans-unit>
       <trans-unit id="c8017c06-82ea-4661-b422-e5b9089842e2" resname="W16·5 | Disperse | Card Name">
         <source>Disperse</source>
         <target state="translated">Disperse</target>
@@ -57,6 +69,10 @@
       <trans-unit id="c8017c06-82ea-4661-b422-e5b9089842e2" resname="W16·5 | Disperse | Card Text | Paragraph 1">
         <source>Return target nonland permanent to its owner's hand.</source>
         <target state="translated">Return target nonland permanent to its owner's hand.</target>
+      </trans-unit>
+      <trans-unit id="c8017c06-82ea-4661-b422-e5b9089842e2" resname="W16·5 | Disperse | Flavor Text">
+        <source>It's pointless to hold on when you have nothing to hold on with.</source>
+        <target state="translated">It's pointless to hold on when you have nothing to hold on with.</target>
       </trans-unit>
       <trans-unit id="da35e1ce-cbfa-499d-b4e0-5857b1587506" resname="W16·6 | Sphinx of Magosi | Card Name">
         <source>Sphinx of Magosi</source>
@@ -70,6 +86,10 @@
         <source>{2}{U}: Draw a card, then put a +1/+1 counter on CARDNAME.</source>
         <target state="translated">{2}{U}: Draw a card, then put a +1/+1 counter on CARDNAME.</target>
       </trans-unit>
+      <trans-unit id="da35e1ce-cbfa-499d-b4e0-5857b1587506" resname="W16·6 | Sphinx of Magosi | Flavor Text">
+        <source>&amp;quot;A riddle is nothing more than a trap for small minds, baited with the promise of understanding.&amp;quot;</source>
+        <target state="translated">&amp;quot;A riddle is nothing more than a trap for small minds, baited with the promise of understanding.&amp;quot;</target>
+      </trans-unit>
       <trans-unit id="8363865b-23f9-4cca-beb4-a5d467caff4c" resname="W16·7 | Mind Rot | Card Name">
         <source>Mind Rot</source>
         <target state="translated">Mind Rot</target>
@@ -77,6 +97,10 @@
       <trans-unit id="8363865b-23f9-4cca-beb4-a5d467caff4c" resname="W16·7 | Mind Rot | Card Text | Paragraph 1">
         <source>Target player discards two cards.</source>
         <target state="translated">Target player discards two cards.</target>
+      </trans-unit>
+      <trans-unit id="8363865b-23f9-4cca-beb4-a5d467caff4c" resname="W16·7 | Mind Rot | Flavor Text">
+        <source>&amp;quot;It saddens me to lose a source of inspiration. This one seemed especially promising.&amp;quot;\n—Ashiok</source>
+        <target state="translated">&amp;quot;It saddens me to lose a source of inspiration. This one seemed especially promising.&amp;quot;\n—Ashiok</target>
       </trans-unit>
       <trans-unit id="afc8ec11-78cc-438f-9e49-50089fd247e6" resname="W16·8 | Nightmare | Card Name">
         <source>Nightmare</source>
@@ -90,6 +114,10 @@
         <source>CARDNAME's power and toughness are each equal to the number of Swamps you control.</source>
         <target state="translated">CARDNAME's power and toughness are each equal to the number of Swamps you control.</target>
       </trans-unit>
+      <trans-unit id="afc8ec11-78cc-438f-9e49-50089fd247e6" resname="W16·8 | Nightmare | Flavor Text">
+        <source>The thunder of its hooves beats dreams into despair.</source>
+        <target state="translated">The thunder of its hooves beats dreams into despair.</target>
+      </trans-unit>
       <trans-unit id="3e28d7bb-4520-4cf4-85c9-c56f5da40d82" resname="W16·9 | Sengir Vampire | Card Name">
         <source>Sengir Vampire</source>
         <target state="translated">Sengir Vampire</target>
@@ -102,9 +130,17 @@
         <source>Whenever a creature dealt damage by CARDNAME this turn dies, put a +1/+1 counter on CARDNAME.</source>
         <target state="translated">Whenever a creature dealt damage by CARDNAME this turn dies, put a +1/+1 counter on CARDNAME.</target>
       </trans-unit>
+      <trans-unit id="3e28d7bb-4520-4cf4-85c9-c56f5da40d82" resname="W16·9 | Sengir Vampire | Flavor Text">
+        <source>Empires rise and fall, but evil is eternal.</source>
+        <target state="translated">Empires rise and fall, but evil is eternal.</target>
+      </trans-unit>
       <trans-unit id="98485e9e-dbac-44dd-a446-ef3ef81830c1" resname="W16·10 | Walking Corpse | Card Name">
         <source>Walking Corpse</source>
         <target state="translated">Walking Corpse</target>
+      </trans-unit>
+      <trans-unit id="98485e9e-dbac-44dd-a446-ef3ef81830c1" resname="W16·10 | Walking Corpse | Flavor Text">
+        <source>&amp;quot;Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared.&amp;quot;\n—Jadar, ghoulcaller of Nephalia</source>
+        <target state="translated">&amp;quot;Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared.&amp;quot;\n—Jadar, ghoulcaller of Nephalia</target>
       </trans-unit>
       <trans-unit id="41eaedf2-38be-4825-a711-3cc0f7659ae3" resname="W16·11 | Borderland Marauder | Card Name">
         <source>Borderland Marauder</source>
@@ -113,6 +149,10 @@
       <trans-unit id="41eaedf2-38be-4825-a711-3cc0f7659ae3" resname="W16·11 | Borderland Marauder | Card Text | Paragraph 1">
         <source>Whenever CARDNAME attacks, it gets +2/+0 until end of turn.</source>
         <target state="translated">Whenever CARDNAME attacks, it gets +2/+0 until end of turn.</target>
+      </trans-unit>
+      <trans-unit id="41eaedf2-38be-4825-a711-3cc0f7659ae3" resname="W16·11 | Borderland Marauder | Flavor Text">
+        <source>Though she is rightly feared, there are relatively few tales of her deeds in battle, for few survive her raids.</source>
+        <target state="translated">Though she is rightly feared, there are relatively few tales of her deeds in battle, for few survive her raids.</target>
       </trans-unit>
       <trans-unit id="9b434a60-0875-47f4-a626-2c9bfa3c9b3b" resname="W16·12 | Cone of Flame | Card Name">
         <source>Cone of Flame</source>
@@ -134,6 +174,10 @@
         <source>{R}: CARDNAME gets +1/+0 until end of turn.</source>
         <target state="translated">{R}: CARDNAME gets +1/+0 until end of turn.</target>
       </trans-unit>
+      <trans-unit id="ca25d8fe-93b3-4d2c-96df-ca6e4f528543" resname="W16·13 | Shivan Dragon | Flavor Text">
+        <source>The undisputed master of the mountains of Shiv.</source>
+        <target state="translated">The undisputed master of the mountains of Shiv.</target>
+      </trans-unit>
       <trans-unit id="e90aaa61-3281-4e8f-9eb3-548896d0c14d" resname="W16·14 | Incremental Growth | Card Name">
         <source>Incremental Growth</source>
         <target state="translated">Incremental Growth</target>
@@ -141,6 +185,10 @@
       <trans-unit id="e90aaa61-3281-4e8f-9eb3-548896d0c14d" resname="W16·14 | Incremental Growth | Card Text | Paragraph 1">
         <source>Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.</source>
         <target state="translated">Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.</target>
+      </trans-unit>
+      <trans-unit id="e90aaa61-3281-4e8f-9eb3-548896d0c14d" resname="W16·14 | Incremental Growth | Flavor Text">
+        <source>&amp;quot;Tie a mouse under a bridge, and your cabbages will triple in size.&amp;quot;\n—Kithkin superstition</source>
+        <target state="translated">&amp;quot;Tie a mouse under a bridge, and your cabbages will triple in size.&amp;quot;\n—Kithkin superstition</target>
       </trans-unit>
       <trans-unit id="2ff4b431-3ca6-436f-aa44-911174538e04" resname="W16·15 | Oakenform | Card Name">
         <source>Oakenform</source>
@@ -153,6 +201,10 @@
       <trans-unit id="2ff4b431-3ca6-436f-aa44-911174538e04" resname="W16·15 | Oakenform | Card Text | Paragraph 2">
         <source>Enchanted creature gets +3/+3.</source>
         <target state="translated">Enchanted creature gets +3/+3.</target>
+      </trans-unit>
+      <trans-unit id="2ff4b431-3ca6-436f-aa44-911174538e04" resname="W16·15 | Oakenform | Flavor Text">
+        <source>&amp;quot;When the beast cloaks itself in the mighty oak, what good is a bow? When the oak wraps itself around the snarling beast, what good is a hatchet?&amp;quot;\n—Dionus, elvish archdruid</source>
+        <target state="translated">&amp;quot;When the beast cloaks itself in the mighty oak, what good is a bow? When the oak wraps itself around the snarling beast, what good is a hatchet?&amp;quot;\n—Dionus, elvish archdruid</target>
       </trans-unit>
       <trans-unit id="d6794f92-1895-41fe-931f-42b0744e9f2e" resname="W16·16 | Soul of the Harvest | Card Name">
         <source>Soul of the Harvest</source>
