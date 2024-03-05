@@ -9447,6 +9447,64 @@
                 <langSet xml:lang="en"><tig><term>phases in</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>跃回</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>move........counter from CARDNAME onto target creature.</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>将.......指示物从CARDNAME移到目标生物上</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>tapped for mana</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>横置以产生法术力</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attacks if able</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>若能攻击，则必须攻击</term></tig></langSet>
+                <note from="translator">参考CLB#805译法</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>beyond the first</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>在第一个......之外每有一个......，便</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>(It can't be blocked except by two or more creatures.)</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>（此生物只能被两个或更多生物阻挡。）</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>（每当一个不具侧面攻击之生物阻挡此生物时，该阻挡生物得-1/-1直到回合结束。）</term></tig></langSet>
+                <note from="translator">异能关键字规则文本</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Exile it at the beginning of the next end step</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>在下一个结束步骤开始时，将它放逐</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enters the battlefield with .......counters on it.</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>进战场时上面有.......指示物</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Return......to it's owner's hand</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>将......移回其拥有者手上</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>(At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless they pay its upkeep cost for each age counter on it.)</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物各支付其维持费用，否则牺牲之。）</term></tig></langSet>
+                <note from="translator">参考CSP#078的翻译</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>(This creature can't be the target of spells or abilities.)</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>（此生物不能成为咒语或异能的目标。）</term></tig></langSet>
+                <note from="translator">异能关键字规则文本</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>named</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>名称为</term></tig></langSet>
+                <note from="translator">参考M21#215的译法</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>The next time a source of your choice would deal damage this turn</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>选择一个来源。于本回合中，.......该来源下一次将对你造成的伤害</term></tig></langSet>
+                <note from="translator">参考CMR#444</note>
+            </termEntry>
         </body>
     </text>
 </martif>
