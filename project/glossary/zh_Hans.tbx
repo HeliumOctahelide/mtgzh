@@ -5978,7 +5978,7 @@
     </langSet>
                 <langSet xml:lang="zh_Hans">
         <tig>
-            <term>鹏洛客（旧译旅法师）</term>
+            <term>鹏洛客</term>
         </tig>
     </langSet>
                 <descrip>一种牌类别。鹏洛客是永久物。参见规则306，“鹏洛客”。</descrip>
@@ -9106,7 +9106,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>for each</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>为……各进行以下流程～</term></tig></langSet>
-                <note from="translator">当For each位于句首时使用</note>
+                <note from="translator">后文的主语是“你”时使用</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>since</term></tig></langSet>
@@ -9348,6 +9348,80 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>gains</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>获得…异能</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>gets</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>得</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>red</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>红色</term></tig></langSet>
+            </termEntry>
+            <termEntry id="2">
+                <langSet xml:lang="en"><tig><term>for each</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>每…，便</term></tig></langSet>
+                <note from="translator">后文只进行一次动作（而非等量次数）时使用</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>1 plus</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>加1</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>your hand</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>你手上</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>of the chosen type</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>该类别的</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>gain</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>获得…点生命</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Return</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>移回</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>green</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>绿色</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>blue</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>蓝色</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>white</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>白色</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>black</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>黑色</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>all</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>所有</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>add</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>加</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>for each</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>对每个…而言</term></tig></langSet>
+                <note from="translator">后文的主语不是“你”时使用</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>attacks each combat if able</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>每次战斗若能攻击，则必须攻击</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>{0}</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>{0}</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>nontoken creature</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>非衍生的生物</term></tig></langSet>
             </termEntry>
         </body>
     </text>
