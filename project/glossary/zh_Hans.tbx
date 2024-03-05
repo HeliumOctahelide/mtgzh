@@ -9203,6 +9203,8 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Cast this spell only</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>只能于…施放此咒语。</term></tig></langSet>
+                <note from="translator">如果有第二个only时机限制：只能于…施放此咒语，且仅限…。&#13;
+如果有第二个非only时机限制：只能于…、…施放此咒语。</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>You</term></tig></langSet>
@@ -9326,6 +9328,34 @@
                 <langSet xml:lang="en"><tig><term>put a...........on each</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>在.........上各放置一个</term></tig></langSet>
                 <note from="translator">参考2X2#165的翻译</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Flip a coin</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>掷一枚硬币</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>lose the flip</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>猜错此掷</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Whenever a player</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>每当任一牌手</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>As an additional cost to cast this spell</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>，以作为施放此咒语的额外费用</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>win the flip</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>猜对此掷</term></tig></langSet>
+            </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>gains</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>获得…点生命</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>gains</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>获得…异能</term></tig></langSet>
             </termEntry>
         </body>
     </text>
