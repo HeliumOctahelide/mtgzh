@@ -2485,6 +2485,30 @@
         <source>{1}{R}{R}: CARDNAME deals 2 damage to target creature with flying and that creature loses flying until end of turn.</source>
         <target state="final">{1}{R}{R}：CARDNAME对目标具有飞行异能的生物造成2点伤害，且该生物失去飞行异能直到回合结束。</target>
       </trans-unit>
+      <trans-unit id="486547cd-d2e7-4c46-9f7b-81c4267d65cc" resname="MIR·162 | Burning Shield Askari | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</source>
+        <target state="final">侧面攻击（每当一个不具侧面攻击异能的生物阻挡此生物时，该阻挡生物得-1/-1直到回合结束。）</target>
+      </trans-unit>
+      <trans-unit id="486547cd-d2e7-4c46-9f7b-81c4267d65cc" resname="MIR·162 | Burning Shield Askari | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{R}{R}: CARDNAME gains first strike until end of turn.</source>
+        <target state="final">{R}{R}：CARDNAME获得先攻异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="ebf8ccb8-57fb-491c-b07d-93348b33a765" resname="MIR·163 | Chaos Charm | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Choose one —</source>
+        <target state="final">选择一项～</target>
+      </trans-unit>
+      <trans-unit id="ebf8ccb8-57fb-491c-b07d-93348b33a765" resname="MIR·163 | Chaos Charm | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>• Destroy target Wall.</source>
+        <target state="final">•消灭目标墙。</target>
+      </trans-unit>
+      <trans-unit id="ebf8ccb8-57fb-491c-b07d-93348b33a765" resname="MIR·163 | Chaos Charm | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>• CARDNAME deals 1 damage to target creature.</source>
+        <target state="final">•CARDNAME对目标生物造成1点伤害。</target>
+      </trans-unit>
+      <trans-unit id="ebf8ccb8-57fb-491c-b07d-93348b33a765" resname="MIR·163 | Chaos Charm | Card Text | Paragraph 4" xml:space="preserve" approved="yes">
+        <source>• Target creature gains haste until end of turn.</source>
+        <target state="final">•目标生物获得敏捷异能直到回合结束。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
