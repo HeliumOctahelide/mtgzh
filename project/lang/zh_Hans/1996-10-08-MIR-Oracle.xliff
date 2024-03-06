@@ -2481,6 +2481,10 @@
         <source>Defender (This creature can't attack.)</source>
         <target state="final">守军 （此生物不能攻击。）</target>
       </trans-unit>
+      <trans-unit id="a194488a-1d6f-4bc3-8f30-82e2c3c91389" resname="MIR·161 | Burning Palm Efreet | Card Text | Paragraph 1" xml:space="preserve">
+        <source>{1}{R}{R}: CARDNAME deals 2 damage to target creature with flying and that creature loses flying until end of turn.</source>
+        <target state="translated">{1}{R}{R}：CARDNAME对目标具有飞行异能的生物造成2点伤害，那个生物失去飞行异能直到回合结束。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
