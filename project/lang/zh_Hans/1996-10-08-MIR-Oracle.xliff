@@ -2557,9 +2557,13 @@
         <source>{U}, {T}: Put target creature you control on top of its owner's library.</source>
         <target state="final">{U}，{T}：将目标由你操控的生物置于其拥有者的牌库顶。</target>
       </trans-unit>
-      <trans-unit id="ad0ece98-5506-4a18-b900-8d1a6cd87385" resname="MIR·8 | Dazzling Beauty | Card Text | Paragraph 3" xml:space="preserve">
+      <trans-unit id="ad0ece98-5506-4a18-b900-8d1a6cd87385" resname="MIR·8 | Dazzling Beauty | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
         <source>Draw a card at the beginning of the next turn's upkeep.</source>
-        <target state="translated">在下个回合的维持开始时，抓一张牌。</target>
+        <target state="final">在下一个回合维持开始时，抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="c9f764d7-4c18-40ef-8373-ef1e2a88007e" resname="MIR·24 | Jabari's Influence | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Gain control of target nonartifact, nonblack creature that attacked you this turn and put a -1/-0 counter on it.</source>
+        <target state="final">获得目标非神器且非黑色的生物的操控权，且须为本回合中攻击过你者，然后在其上放置一个-1/-0指示物。</target>
       </trans-unit>
     </body>
   </file>
