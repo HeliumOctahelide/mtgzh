@@ -42,19 +42,19 @@
         <target state="translated">天界曙光</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
-      <trans-unit id="89fb4c4a-ccdd-4f3c-80cf-356ab7836e16" resname="MIR·6 | Celestial Dawn | Card Text | Paragraph 1">
+      <trans-unit id="89fb4c4a-ccdd-4f3c-80cf-356ab7836e16" resname="MIR·6 | Celestial Dawn | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Lands you control are Plains.</source>
-        <target state="translated">由你操控的地都是平原。</target>
+        <target state="final">由你操控的地都是平原。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
-      <trans-unit id="89fb4c4a-ccdd-4f3c-80cf-356ab7836e16" resname="MIR·6 | Celestial Dawn | Card Text | Paragraph 2">
+      <trans-unit id="89fb4c4a-ccdd-4f3c-80cf-356ab7836e16" resname="MIR·6 | Celestial Dawn | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Nonland permanents you control are white. The same is true for spells you control and nonland cards you own that aren't on the battlefield.</source>
-        <target state="translated">由你所拥有、且不在场上的非地牌，由你操控的咒语，以及由你操控的非地永久物都是白色。</target>
+        <target state="final">由你操控的非地永久物均是白色。由你操控的咒语和由你拥有且不在战场上的非地牌也是如此。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
-      <trans-unit id="89fb4c4a-ccdd-4f3c-80cf-356ab7836e16" resname="MIR·6 | Celestial Dawn | Card Text | Paragraph 3">
+      <trans-unit id="89fb4c4a-ccdd-4f3c-80cf-356ab7836e16" resname="MIR·6 | Celestial Dawn | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
         <source>You may spend white mana as though it were mana of any color. You may spend other mana only as though it were colorless mana.</source>
-        <target state="translated">你可以将白色法术力视为任意颜色的法术力来支付。 其它颜色的法术力只能视为无色法术力。</target>
+        <target state="final">你可以将白色法术力视同任意颜色的法术力来支付费用。 你只能将其他类别的法术力视同无色法术力来支付费用。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="a9319039-db2f-47bf-9ef0-8d3a381d54fb" resname="MIR·7 | Civic Guildmage | Card Name">
@@ -82,9 +82,9 @@
         <target state="translated">依坎都狮鹫</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="3a32778b-e6ff-45ca-8b22-dc97a406faa4" resname="MIR·13 | Ekundu Griffin | Card Text | Paragraph 1">
+      <trans-unit id="3a32778b-e6ff-45ca-8b22-dc97a406faa4" resname="MIR·13 | Ekundu Griffin | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flying, first strike</source>
-        <target state="translated">飞行，先攻</target>
+        <target state="final">飞行，先攻</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="cbac1d27-15e2-4e2f-82ab-625a16e096cb" resname="MIR·14 | Enlightened Tutor | Card Name">
@@ -92,9 +92,9 @@
         <target state="translated">启蒙导师</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
-      <trans-unit id="cbac1d27-15e2-4e2f-82ab-625a16e096cb" resname="MIR·14 | Enlightened Tutor | Card Text | Paragraph 1">
+      <trans-unit id="cbac1d27-15e2-4e2f-82ab-625a16e096cb" resname="MIR·14 | Enlightened Tutor | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Search your library for an artifact or enchantment card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">从你牌库中搜寻一张神器或结界牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
+        <target state="final">从你牌库中搜寻一张神器或结界牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="88f2d15e-490b-4754-8197-ac91653698f7" resname="MIR·15 | Ethereal Champion | Card Name">
@@ -102,9 +102,9 @@
         <target state="translated">幻影斗士</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="88f2d15e-490b-4754-8197-ac91653698f7" resname="MIR·15 | Ethereal Champion | Card Text | Paragraph 1">
+      <trans-unit id="88f2d15e-490b-4754-8197-ac91653698f7" resname="MIR·15 | Ethereal Champion | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Pay 1 life: Prevent the next 1 damage that would be dealt to CARDNAME this turn.</source>
-        <target state="translated">支付1点生命：在本回合中对CARDNAME防止接下来的1点伤害。</target>
+        <target state="final">支付1点生命：于本回合中，防止接下来将对CARDNAME的1点伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="e5657403-7c86-4eb6-84b0-75eedb04a5a2" resname="MIR·16 | Favorable Destiny | Card Name">
@@ -2126,9 +2126,9 @@
         <target state="translated">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
-      <trans-unit id="7b7610f3-f182-404e-80b9-ccd94e174db0" resname="MIR·326 | Flood Plain | Card Text | Paragraph 2">
+      <trans-unit id="7b7610f3-f182-404e-80b9-ccd94e174db0" resname="MIR·326 | Flood Plain | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}, Sacrifice CARDNAME: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张平原或海岛牌，将之放进战场，然后洗牌。</target>
+        <target state="final">{T}，牺牲CARDNAME：从你牌库中搜寻一张平原或海岛牌，将之放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="65f5efac-ef98-4be2-abcc-1aa38bf66b06" resname="MIR·327 | Grasslands | Card Name">
@@ -2136,14 +2136,14 @@
         <target state="translated">牧草原野</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
-      <trans-unit id="65f5efac-ef98-4be2-abcc-1aa38bf66b06" resname="MIR·327 | Grasslands | Card Text | Paragraph 1">
+      <trans-unit id="65f5efac-ef98-4be2-abcc-1aa38bf66b06" resname="MIR·327 | Grasslands | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">CARDNAME须横置进战场。</target>
+        <target state="final">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
-      <trans-unit id="65f5efac-ef98-4be2-abcc-1aa38bf66b06" resname="MIR·327 | Grasslands | Card Text | Paragraph 2">
+      <trans-unit id="65f5efac-ef98-4be2-abcc-1aa38bf66b06" resname="MIR·327 | Grasslands | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}, Sacrifice CARDNAME: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张树林或平原牌，将之放进战场，然后洗牌。</target>
+        <target state="final">{T}，牺牲CARDNAME：从你牌库中搜寻一张树林或平原牌，将之放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="ded4e5c2-4f03-47c1-9843-b98c239ccfea" resname="MIR·328 | Mountain Valley | Card Name">
@@ -2151,14 +2151,14 @@
         <target state="translated">山脉林谷</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
-      <trans-unit id="ded4e5c2-4f03-47c1-9843-b98c239ccfea" resname="MIR·328 | Mountain Valley | Card Text | Paragraph 1">
+      <trans-unit id="ded4e5c2-4f03-47c1-9843-b98c239ccfea" resname="MIR·328 | Mountain Valley | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">CARDNAME须横置进战场。</target>
+        <target state="final">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
-      <trans-unit id="ded4e5c2-4f03-47c1-9843-b98c239ccfea" resname="MIR·328 | Mountain Valley | Card Text | Paragraph 2">
+      <trans-unit id="ded4e5c2-4f03-47c1-9843-b98c239ccfea" resname="MIR·328 | Mountain Valley | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}, Sacrifice CARDNAME: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张山脉或树林牌，将之放进战场，然后洗牌。</target>
+        <target state="final">{T}，牺牲CARDNAME：从你牌库中搜寻一张山脉或树林牌，将之放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="1e21c347-7aaf-42ae-abf3-f1283c5b54e6" resname="MIR·329 | Rocky Tar Pit | Card Name">
@@ -2166,14 +2166,14 @@
         <target state="translated">岩砾焦坑</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
-      <trans-unit id="1e21c347-7aaf-42ae-abf3-f1283c5b54e6" resname="MIR·329 | Rocky Tar Pit | Card Text | Paragraph 1">
+      <trans-unit id="1e21c347-7aaf-42ae-abf3-f1283c5b54e6" resname="MIR·329 | Rocky Tar Pit | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">CARDNAME须横置进战场。</target>
+        <target state="final">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
-      <trans-unit id="1e21c347-7aaf-42ae-abf3-f1283c5b54e6" resname="MIR·329 | Rocky Tar Pit | Card Text | Paragraph 2">
+      <trans-unit id="1e21c347-7aaf-42ae-abf3-f1283c5b54e6" resname="MIR·329 | Rocky Tar Pit | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}, Sacrifice CARDNAME: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张沼泽或山脉牌，将之放进战场，然后洗牌。</target>
+        <target state="final">{T}，牺牲CARDNAME：从你牌库中搜寻一张沼泽或山脉牌，将之放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="b6ed7ca8-fd91-46e3-9149-a3de23c7078e" resname="MIR·330 | Teferi's Isle | Card Name">
@@ -2564,6 +2564,70 @@
       <trans-unit id="c9f764d7-4c18-40ef-8373-ef1e2a88007e" resname="MIR·24 | Jabari's Influence | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Gain control of target nonartifact, nonblack creature that attacked you this turn and put a -1/-0 counter on it.</source>
         <target state="final">获得目标非神器且非黑色的生物的操控权，且须为本回合中攻击过你者，然后在其上放置一个-1/-0指示物。</target>
+      </trans-unit>
+      <trans-unit id="0706acf6-587e-4f29-944a-fdf25aeacb6d" resname="MIR·23 | Ivory Charm | Card Text | Paragraph 4" xml:space="preserve" approved="yes">
+        <source>• Prevent the next 1 damage that would be dealt to any target this turn.</source>
+        <target state="final">•于本回合中，防止接下来将对任意一个目标造成的1点伤害。</target>
+      </trans-unit>
+      <trans-unit id="e5657403-7c86-4eb6-84b0-75eedb04a5a2" resname="MIR·16 | Favorable Destiny | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>Enchanted creature has shroud as long as its controller controls another creature. (It can't be the target of spells or abilities.)</source>
+        <target state="final">只要所结附的生物之操控者操控另一个生物，所结附的生物便具有帷幕异能。（它不能成为咒语或异能的目标。）</target>
+      </trans-unit>
+      <trans-unit id="3a86a2ae-aaf3-4d4d-ae06-ec3d4a539550" resname="MIR·9 | Disempower | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Put target artifact or enchantment on top of its owner's library.</source>
+        <target state="final">将目标神器或结界置于其拥有者的牌库顶。</target>
+      </trans-unit>
+      <trans-unit id="e5657403-7c86-4eb6-84b0-75eedb04a5a2" resname="MIR·16 | Favorable Destiny | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Enchant creature</source>
+        <target state="final">结附于生物</target>
+      </trans-unit>
+      <trans-unit id="e5657403-7c86-4eb6-84b0-75eedb04a5a2" resname="MIR·16 | Favorable Destiny | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Enchanted creature gets +1/+2 as long as it's white.</source>
+        <target state="final">只要所结附的生物是白色，它便得+1/+2。</target>
+      </trans-unit>
+      <trans-unit id="90dedd5e-e2ee-46ec-8541-27f1548b2a2a" resname="MIR·17 | Femeref Healer | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{T}: Prevent the next 1 damage that would be dealt to any target this turn.</source>
+        <target state="final">{T}：于本回合中，防止接下来将对任意一个目标造成的1点伤害。</target>
+      </trans-unit>
+      <trans-unit id="915a2e07-b449-4d94-93e3-e756e891c542" resname="MIR·18 | Femeref Knight | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</source>
+        <target state="final">侧面攻击（每当一个不具侧面攻击异能的生物阻挡此生物时，该阻挡生物得-1/-1直到回合结束。）</target>
+      </trans-unit>
+      <trans-unit id="915a2e07-b449-4d94-93e3-e756e891c542" resname="MIR·18 | Femeref Knight | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{W}: CARDNAME gains vigilance until end of turn.</source>
+        <target state="final">{W}：CARDNAME获得警戒异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="eb28f6e5-c9ef-416e-b315-967d857e7600" resname="MIR·21 | Illumination | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Counter target artifact or enchantment spell. Its controller gains life equal to its mana value.</source>
+        <target state="final">反击目标神器或结界咒语。其操控者获得等同于其法术力值的生命。</target>
+      </trans-unit>
+      <trans-unit id="d7c8e952-f040-4e5b-88f3-f80ad4b3f2f1" resname="MIR·22 | Iron Tusk Elephant | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Trample</source>
+        <target state="final">践踏</target>
+      </trans-unit>
+      <trans-unit id="0706acf6-587e-4f29-944a-fdf25aeacb6d" resname="MIR·23 | Ivory Charm | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Choose one —</source>
+        <target state="final">选择一项～</target>
+      </trans-unit>
+      <trans-unit id="0706acf6-587e-4f29-944a-fdf25aeacb6d" resname="MIR·23 | Ivory Charm | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>• All creatures get -2/-0 until end of turn.</source>
+        <target state="final">•所有生物得-2/-0直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="0706acf6-587e-4f29-944a-fdf25aeacb6d" resname="MIR·23 | Ivory Charm | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>• Tap target creature.</source>
+        <target state="final">•横置目标生物。</target>
+      </trans-unit>
+      <trans-unit id="b0125f79-ff68-4fb9-b309-8d277259f323" resname="MIR·25 | Mangara's Blessing | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>You gain 5 life.</source>
+        <target state="final">你获得5点生命。</target>
+      </trans-unit>
+      <trans-unit id="162dd988-0beb-48e4-9eaa-a08ddb835648" resname="MIR·28 | Mtenda Griffin | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{W}, {T}: Return CARDNAME to its owner's hand and return target Griffin card from your graveyard to your hand. Activate only during your upkeep.</source>
+        <target state="final">{W}，{T}：将CARDNAME移回其拥有者手上并将目标狮鹫从你的坟墓场移回你的手上。只能于你的维持中起动。</target>
+      </trans-unit>
+      <trans-unit id="b6ed7ca8-fd91-46e3-9149-a3de23c7078e" resname="MIR·330 | Teferi's Isle | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>CARDNAME enters the battlefield tapped.</source>
+        <target state="final">CARDNAME须横置进场。</target>
       </trans-unit>
     </body>
   </file>
