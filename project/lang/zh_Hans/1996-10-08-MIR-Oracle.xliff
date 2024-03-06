@@ -2361,6 +2361,10 @@
         <source>{B}: CARDNAME gets +1/+0 until end of turn.</source>
         <target state="final">{B}：CARDNAME得+1/+0直到回合结束。</target>
       </trans-unit>
+      <trans-unit id="00c48e08-9a77-4ba2-8041-90998f7e3812" resname="MIR·119 | Dread Specter | Card Text | Paragraph 1" xml:space="preserve">
+        <source>Whenever CARDNAME blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.</source>
+        <target state="translated">每当CARDNAME进行阻挡或被非黑生物阻挡，在战斗结束时将其消灭。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
