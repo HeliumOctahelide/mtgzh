@@ -812,9 +812,9 @@
         <target state="translated">破坟灵俑</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="6e16f8bc-3200-4a0a-b298-c7e7b4e8376c" resname="MIR·127 | Gravebane Zombie | Card Text | Paragraph 1">
+      <trans-unit id="6e16f8bc-3200-4a0a-b298-c7e7b4e8376c" resname="MIR·127 | Gravebane Zombie | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>If CARDNAME would die, put CARDNAME on top of its owner's library instead.</source>
-        <target state="translated">当CARDNAME将要从场上置入坟墓场时，改为将CARDNAME置于其拥有者的牌库顶。</target>
+        <target state="final">如果CARDNAME将死去，则改为将CARDNAME置于其拥有者的牌库顶。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="33124133-ed2c-4b86-a135-ac76f4fe4da5" resname="MIR·128 | Harbinger of Night | Card Name">
@@ -827,9 +827,9 @@
         <target state="translated">地狱的契约</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
-      <trans-unit id="e62c43bd-59fe-46e3-83f8-c4b37cbc4931" resname="MIR·129 | Infernal Contract | Card Text | Paragraph 1">
+      <trans-unit id="e62c43bd-59fe-46e3-83f8-c4b37cbc4931" resname="MIR·129 | Infernal Contract | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Draw four cards. You lose half your life, rounded up.</source>
-        <target state="translated">抓四张牌。你失去一半生命，小数点后进位。</target>
+        <target state="final">抓四张牌。你失去一半生命，小数点后进位。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="097910fb-7c48-4535-8ffc-b521d08294b0" resname="MIR·130 | Kaervek's Hex | Card Name">
@@ -2389,9 +2389,9 @@
         <source>Players can't gain life.</source>
         <target state="final">牌手不能获得生命。</target>
       </trans-unit>
-      <trans-unit id="fbe072da-0524-492b-af3d-7c2600e915ab" resname="MIR·126 | Grave Servitude | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="fbe072da-0524-492b-af3d-7c2600e915ab" resname="MIR·126 | Grave Servitude | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.</source>
-        <target state="translated">你可以视同具有闪现异能地施放本牌，如果你在非法术时机施放它，则本牌的操控者在下一个清理阶段开始时将它牺牲。</target>
+        <target state="final">你可以将CARDNAME视同具有闪现异能地来施放。如果你是于无法施放法术的时机下施放之，则在下一个清除步骤开始时，它所成之永久物的操控者将它牺牲。</target>
       </trans-unit>
       <trans-unit id="c9dbfc7c-164d-47b8-8f05-987864fca89b" resname="MIR·125 | Forsaken Wastes | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>At the beginning of each player's upkeep, that player loses 1 life.</source>
