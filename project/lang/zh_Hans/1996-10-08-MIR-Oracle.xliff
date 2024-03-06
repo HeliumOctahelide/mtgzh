@@ -2521,6 +2521,18 @@
         <source>Destroy target creature. If a white creature dies this way, CARDNAME deals damage to that creature's controller equal to the creature's power.</source>
         <target state="final">消灭目标生物。如果一个白色生物以此法死去，CARDNAME对该生物的操控者造成等同于该生物力量的伤害。</target>
       </trans-unit>
+      <trans-unit id="05835e35-f4f8-4513-b5a1-9e31b21168f0" resname="MIR·166 | Consuming Ferocity | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Enchant non-Wall creature</source>
+        <target state="final">结附于非墙生物</target>
+      </trans-unit>
+      <trans-unit id="05835e35-f4f8-4513-b5a1-9e31b21168f0" resname="MIR·166 | Consuming Ferocity | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Enchanted creature gets +1/+0.</source>
+        <target state="final">所结附的生物得+1/+0。</target>
+      </trans-unit>
+      <trans-unit id="05835e35-f4f8-4513-b5a1-9e31b21168f0" resname="MIR·166 | Consuming Ferocity | Card Text | Paragraph 3" xml:space="preserve">
+        <source>At the beginning of your upkeep, put a +1/+0 counter on enchanted creature. If that creature has three or more +1/+0 counters on it, it deals damage equal to its power to its controller, then destroy that creature and it can't be regenerated.</source>
+        <target state="translated">在你的维持开始时，在所结附的生物上放置一个+1/+0指示物。如果此生物上有三个或更多+1/+0指示物，则它对其操控者造成等同于其力量的伤害，然后消灭此生物，它不能重生。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
