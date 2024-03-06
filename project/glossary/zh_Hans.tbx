@@ -6043,7 +6043,7 @@
     </langSet>
                 <langSet xml:lang="zh_Hans">
         <tig>
-            <term>牌手</term>
+            <term>(位)牌手</term>
         </tig>
     </langSet>
                 <descrip>游戏中的人之一。参见规则102，“牌手”。</descrip>
@@ -9546,6 +9546,10 @@
                 <langSet xml:lang="en"><tig><term>Mana symbols</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>法术力符号</term></tig></langSet>
                 <note from="translator">即卡牌右上角的标识色。</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>each player</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>每位牌手</term></tig></langSet>
             </termEntry>
         </body>
     </text>
