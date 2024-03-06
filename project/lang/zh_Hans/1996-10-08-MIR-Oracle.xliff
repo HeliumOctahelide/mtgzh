@@ -2345,6 +2345,10 @@
         <source>{1}{B}{B}: Regenerate CARDNAME.</source>
         <target state="final">{1}{B}{B}：重生CARDNAME。</target>
       </trans-unit>
+      <trans-unit id="46daebe4-199e-4580-8a52-1aebc8492d8c" resname="MIR·112 | Catacomb Dragon | Card Text | Paragraph 2" xml:space="preserve">
+        <source>Whenever CARDNAME becomes blocked by a nonartifact, non-Dragon creature, that creature gets -X/-0 until end of turn, where X is half the creature's power, rounded down.</source>
+        <target state="translated">每当CARDNAME被一个非神器或非龙生物阻挡，那个生物获得-X/-0直到回合结束，X是此生物的力量的一半，向下取整。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
