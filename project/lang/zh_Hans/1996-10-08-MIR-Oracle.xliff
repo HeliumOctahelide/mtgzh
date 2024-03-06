@@ -2469,6 +2469,10 @@
         <source>{G}, {T}: Target creature gets +0/+1 until end of turn.</source>
         <target state="final">{G}，{T}：目标生物得+0/+1直到回合结束。</target>
       </trans-unit>
+      <trans-unit id="0ff91a17-0a5f-456f-a431-8505ba29e679" resname="MIR·158 | Blind Fury | Card Text | Paragraph 1" xml:space="preserve">
+        <source>All creatures lose trample until end of turn. If a creature would deal combat damage to a creature this turn, it deals double that damage to that creature instead.</source>
+        <target state="translated">所有生物失去践踏异能直到回合结束。如果本回合一个生物将要对一个生物造成战斗伤害，则它改为造成双倍的伤害。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
