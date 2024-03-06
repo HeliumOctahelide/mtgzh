@@ -6121,7 +6121,7 @@
     </langSet>
                 <langSet xml:lang="zh_Hans">
         <tig>
-            <term>战斗后行动阶段</term>
+            <term>战斗后的行动阶段</term>
         </tig>
     </langSet>
                 <descrip>战斗阶段之后的行动阶段。参见行动阶段。</descrip>
@@ -6160,7 +6160,7 @@
     </langSet>
                 <langSet xml:lang="zh_Hans">
         <tig>
-            <term>战斗前行动阶段</term>
+            <term>战斗前的行动阶段</term>
         </tig>
     </langSet>
                 <descrip>回合中的第一个行动阶段。参见行动阶段。</descrip>
@@ -9500,6 +9500,34 @@
                 <langSet xml:lang="en"><tig><term>The next time a source of your choice would deal damage this turn</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>选择一个来源。于本回合中，.......该来源下一次将对你造成的伤害</term></tig></langSet>
                 <note from="translator">参考CMR#444</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>gain control of</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>获得…的/之操控权</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>this turn</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>(于)本回合中</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>The next time a source of your choice</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>选择一个来源。于本回合中，该来源</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>at the beginning of the next end step</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>在下一个结束步骤开始时</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>charge counter</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>充电指示物</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>remains tapped</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>持续横置的时段内</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>enters the battlefield with</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>进战场时上面有.......指示物</term></tig></langSet>
             </termEntry>
         </body>
     </text>
