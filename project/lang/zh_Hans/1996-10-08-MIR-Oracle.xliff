@@ -792,9 +792,9 @@
         <target state="translated">禁忌墓穴</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="c6168af2-e49b-4c57-91c0-2cac9290a560" resname="MIR·124 | Forbidden Crypt | Card Text | Paragraphs">
+      <trans-unit id="c6168af2-e49b-4c57-91c0-2cac9290a560" resname="MIR·124 | Forbidden Crypt | Card Text | Paragraphs" xml:space="preserve" approved="yes">
         <source>If you would draw a card, return a card from your graveyard to your hand instead. If you can't, you lose the game.\nIf a card would be put into your graveyard from anywhere, exile that card instead.</source>
-        <target state="translated">当你将要抓牌时，改为将你坟墓场中的一张目标牌移回你的手上。若你无法如此做，则你输去这盘游戏。当你要将牌置入坟墓场时，改为将该牌移出游戏。</target>
+        <target state="final">如果你将抓一张牌，则改为将一张目标牌从你的坟墓场移回你手上。若你无法如此作，则你输掉这盘游戏。\n如果某牌将从任何区域进入你的坟墓场，则改为放逐该牌。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="c9dbfc7c-164d-47b8-8f05-987864fca89b" resname="MIR·125 | Forsaken Wastes | Card Name">
@@ -2381,9 +2381,9 @@
         <source>• Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
         <target state="final">•目标生物获得恐惧异能直到回合结束。（它只能被神器生物和／或黑色生物阻挡。）</target>
       </trans-unit>
-      <trans-unit id="4be39d50-1e36-4dac-a923-81fc9f229b8d" resname="MIR·123 | Fetid Horror | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="4be39d50-1e36-4dac-a923-81fc9f229b8d" resname="MIR·123 | Fetid Horror | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
-        <target state="translated">{B}：CARDNAME获得+1/+1直到回合结束。</target>
+        <target state="final">{B}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
     </body>
   </file>
