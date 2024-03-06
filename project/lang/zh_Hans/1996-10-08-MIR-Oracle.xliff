@@ -2533,13 +2533,33 @@
         <source>At the beginning of your upkeep, put a +1/+0 counter on enchanted creature. If that creature has three or more +1/+0 counters on it, it deals damage equal to its power to its controller, then destroy that creature and it can't be regenerated.</source>
         <target state="final">在你的维持开始时，在所结附的生物上放置一个+1/+0指示物。如果该生物上有三个或更多+1/+0指示物，则它对其操控者造成等同于其力量的伤害，然后消灭该生物，它不能重生。</target>
       </trans-unit>
-      <trans-unit id="2e63836c-37af-49c1-84a1-8650ed072805" resname="MIR·168 | Crimson Roc | Card Text | Paragraph 2" xml:space="preserve">
+      <trans-unit id="2e63836c-37af-49c1-84a1-8650ed072805" resname="MIR·168 | Crimson Roc | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Whenever CARDNAME blocks a creature without flying, CARDNAME gets +1/+0 and gains first strike until end of turn.</source>
-        <target state="translated">每当CARDNAME阻挡一个不具飞行异能的生物，CARDNAME得+1/+0且获得先攻异能直到回合结束</target>
+        <target state="final">每当CARDNAME阻挡一个不具飞行异能的生物时，CARDNAME得+1/+0且获得先攻异能直到回合结束。</target>
       </trans-unit>
       <trans-unit id="2e63836c-37af-49c1-84a1-8650ed072805" resname="MIR·168 | Crimson Roc | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flying</source>
         <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="ad0ece98-5506-4a18-b900-8d1a6cd87385" resname="MIR·8 | Dazzling Beauty | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Cast this spell only during the declare blockers step.</source>
+        <target state="final">只能于宣告阻挡者步骤中施放此咒语。</target>
+      </trans-unit>
+      <trans-unit id="7f6f9ec3-6033-4cd4-a52e-31a559559a93" resname="MIR·3 | Auspicious Ancestor | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>When CARDNAME dies, you gain 3 life.</source>
+        <target state="final">当CARDNAME死去时，你获得3点生命。</target>
+      </trans-unit>
+      <trans-unit id="a9319039-db2f-47bf-9ef0-8d3a381d54fb" resname="MIR·7 | Civic Guildmage | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{G}, {T}: Target creature gets +0/+1 until end of turn.</source>
+        <target state="final">{G}，{T}：目标生物得+0/+1直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="a9319039-db2f-47bf-9ef0-8d3a381d54fb" resname="MIR·7 | Civic Guildmage | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{U}, {T}: Put target creature you control on top of its owner's library.</source>
+        <target state="final">{U}，{T}：将目标由你操控的生物置于其拥有者的牌库顶。</target>
+      </trans-unit>
+      <trans-unit id="ad0ece98-5506-4a18-b900-8d1a6cd87385" resname="MIR·8 | Dazzling Beauty | Card Text | Paragraph 3" xml:space="preserve">
+        <source>Draw a card at the beginning of the next turn's upkeep.</source>
+        <target state="translated">在下个回合的维持开始时，抓一张牌。</target>
       </trans-unit>
     </body>
   </file>
