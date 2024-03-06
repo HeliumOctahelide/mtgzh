@@ -762,14 +762,14 @@
         <target state="translated">无力</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
-      <trans-unit id="bf808509-c6c2-4dcb-b35b-e61291faf5d9" resname="MIR·121 | Enfeeblement | Card Text | Paragraph 1">
+      <trans-unit id="bf808509-c6c2-4dcb-b35b-e61291faf5d9" resname="MIR·121 | Enfeeblement | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)</source>
-        <target state="translated">生物结界（于使用时指定一个生物为目标。 此牌进场时结附在该生物上）</target>
+        <target state="final">结附于生物</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
-      <trans-unit id="bf808509-c6c2-4dcb-b35b-e61291faf5d9" resname="MIR·121 | Enfeeblement | Card Text | Paragraph 2">
+      <trans-unit id="bf808509-c6c2-4dcb-b35b-e61291faf5d9" resname="MIR·121 | Enfeeblement | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Enchanted creature gets -2/-2.</source>
-        <target state="translated">受此结界的生物得-2/-2。</target>
+        <target state="final">所结附的生物得-2/-2。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="672e2d34-1aae-47c7-8b7a-e3354bbbd662" resname="MIR·122 | Feral Shadow | Card Name">
@@ -777,7 +777,7 @@
         <target state="translated">凶猛怪影</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="672e2d34-1aae-47c7-8b7a-e3354bbbd662" resname="MIR·122 | Feral Shadow | Card Text | Paragraph 1">
+      <trans-unit id="672e2d34-1aae-47c7-8b7a-e3354bbbd662" resname="MIR·122 | Feral Shadow | Card Text | Paragraph 1" xml:space="preserve">
         <source>Flying</source>
         <target state="translated">飞行</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
@@ -2377,9 +2377,9 @@
         <source>• Exile up to three target cards from a single graveyard.</source>
         <target state="final">•将至多三张目标在同一坟墓场中的牌从该处放逐。</target>
       </trans-unit>
-      <trans-unit id="937c8016-43c8-418b-9057-b5d6715f71f7" resname="MIR·120 | Ebony Charm | Card Text | Paragraph 4" xml:space="preserve">
+      <trans-unit id="937c8016-43c8-418b-9057-b5d6715f71f7" resname="MIR·120 | Ebony Charm | Card Text | Paragraph 4" xml:space="preserve" approved="yes">
         <source>• Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)</source>
-        <target state="translated">• 目标生物获得恐惧异能直到回合结束。（它只能被神器生物和／或黑色生物阻挡。）</target>
+        <target state="final">•目标生物获得恐惧异能直到回合结束。（它只能被神器生物和／或黑色生物阻挡。）</target>
       </trans-unit>
     </body>
   </file>
