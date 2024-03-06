@@ -7,9 +7,9 @@
         <target state="translated">来生</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
-      <trans-unit id="4644694d-52e6-4d00-8cad-748899eeea84" resname="MIR·1 | Afterlife | Card Text | Paragraph 1">
+      <trans-unit id="4644694d-52e6-4d00-8cad-748899eeea84" resname="MIR·1 | Afterlife | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Destroy target creature. It can't be regenerated. Its controller creates a 1/1 white Spirit creature token with flying.</source>
-        <target state="translated">消灭目标生物。它不能重生。其操控者将一个1/1白色，具飞行异能的精怪衍生生物放进战场。</target>
+        <target state="final">消灭目标生物。它不能重生。其操控者派出一个1/1白色，具飞行异能的精怪衍生生物。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="155f2aa6-6c47-4a06-b0ef-2d9205cd133e" resname="MIR·2 | Alarum | Card Name">
@@ -32,9 +32,9 @@
         <target state="translated">眩光一闪</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
-      <trans-unit id="99b2192a-78a5-4579-94ce-cccf773a809d" resname="MIR·5 | Blinding Light | Card Text | Paragraph 1">
+      <trans-unit id="99b2192a-78a5-4579-94ce-cccf773a809d" resname="MIR·5 | Blinding Light | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Tap all nonwhite creatures.</source>
-        <target state="translated">横置所有非白色的生物。</target>
+        <target state="final">横置所有非白色的生物。</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
       <trans-unit id="89fb4c4a-ccdd-4f3c-80cf-356ab7836e16" resname="MIR·6 | Celestial Dawn | Card Name">
@@ -647,9 +647,9 @@
         <target state="translated">汹涌浪潮</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
-      <trans-unit id="49a9689b-bf1e-404e-ba08-0b04de4288fb" resname="MIR·100 | Tidal Wave | Card Text | Paragraph 1">
+      <trans-unit id="49a9689b-bf1e-404e-ba08-0b04de4288fb" resname="MIR·100 | Tidal Wave | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Create a 5/5 blue Wall creature token with defender. Sacrifice it at the beginning of the next end step.</source>
-        <target state="translated">将一个5/5蓝色，具守军异能的墙衍生生物放进战场。在下一个结束步骤开始时，将它牺牲。</target>
+        <target state="final">派出一个5/5蓝色，具守军异能的墙衍生生物。在下一个结束步骤开始时，将它牺牲。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="e7ea65e2-68d8-429f-9be7-e6e5e12a2a4d" resname="MIR·101 | Vaporous Djinn | Card Name">
@@ -667,9 +667,9 @@
         <target state="translated">深渊猎手</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="08798c53-46f3-4a51-9284-491730605b2b" resname="MIR·103 | Abyssal Hunter | Card Text | Paragraph 1">
+      <trans-unit id="08798c53-46f3-4a51-9284-491730605b2b" resname="MIR·103 | Abyssal Hunter | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>{B}, {T}: Tap target creature. CARDNAME deals damage equal to CARDNAME's power to that creature.</source>
-        <target state="translated">oB，ocT：横置目标生物。CARDNAME对该生物造成等同于CARDNAME之力量的伤害。</target>
+        <target state="final">{B}，{T}：横置目标生物。CARDNAME对该生物造成等同于CARDNAME之力量的伤害。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="686aebd0-0d34-47e3-bbbd-ad08d2a3a864" resname="MIR·104 | Ashen Powder | Card Name">
@@ -677,9 +677,9 @@
         <target state="translated">尸偶粉灰</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="686aebd0-0d34-47e3-bbbd-ad08d2a3a864" resname="MIR·104 | Ashen Powder | Card Text | Paragraph 1">
+      <trans-unit id="686aebd0-0d34-47e3-bbbd-ad08d2a3a864" resname="MIR·104 | Ashen Powder | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Put target creature card from an opponent's graveyard onto the battlefield under your control.</source>
-        <target state="translated">将目标生物牌自任一对手的坟墓场中放置进场，并由你所操控。</target>
+        <target state="final">将目标生物牌从任一对手的坟墓场在你的操控下移回战场。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="1b96810d-72d3-4dee-a29f-cdf85ea5ce6f" resname="MIR·105 | Barbed-Back Wurm | Card Name">
@@ -697,14 +697,14 @@
         <target state="translated">枯萎祭师</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="b5f2b33c-8d4d-406e-98de-b92d92a3012a" resname="MIR·107 | Blighted Shaman | Card Text | Paragraph 1">
+      <trans-unit id="b5f2b33c-8d4d-406e-98de-b92d92a3012a" resname="MIR·107 | Blighted Shaman | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>{T}, Sacrifice a Swamp: Target creature gets +1/+1 until end of turn.</source>
-        <target state="translated">ocT，牺牲一个沼泽：目标生物得+1/+1直到回合结束。</target>
+        <target state="final">{T}，牺牲一个沼泽：目标生物得+1/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="b5f2b33c-8d4d-406e-98de-b92d92a3012a" resname="MIR·107 | Blighted Shaman | Card Text | Paragraph 2">
+      <trans-unit id="b5f2b33c-8d4d-406e-98de-b92d92a3012a" resname="MIR·107 | Blighted Shaman | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.</source>
-        <target state="translated">ocT，牺牲一个生物：目标生物得+2/+2直到回合结束。</target>
+        <target state="final">{T}，牺牲一个生物：目标生物得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="1cfde1ca-52f9-477d-a36e-6e4f7ca2e4d8" resname="MIR·108 | Bone Harvest | Card Name">
