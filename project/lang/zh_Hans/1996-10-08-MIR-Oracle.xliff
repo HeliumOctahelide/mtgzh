@@ -2385,6 +2385,22 @@
         <source>{B}: CARDNAME gets +1/+1 until end of turn.</source>
         <target state="final">{B}：CARDNAME得+1/+1直到回合结束。</target>
       </trans-unit>
+      <trans-unit id="c9dbfc7c-164d-47b8-8f05-987864fca89b" resname="MIR·125 | Forsaken Wastes | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Players can't gain life.</source>
+        <target state="final">牌手不能获得生命。</target>
+      </trans-unit>
+      <trans-unit id="fbe072da-0524-492b-af3d-7c2600e915ab" resname="MIR·126 | Grave Servitude | Card Text | Paragraph 1" xml:space="preserve">
+        <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.</source>
+        <target state="translated">你可以视同具有闪现异能地施放本牌，如果你在非法术时机施放它，则本牌的操控者在下一个清理阶段开始时将它牺牲。</target>
+      </trans-unit>
+      <trans-unit id="c9dbfc7c-164d-47b8-8f05-987864fca89b" resname="MIR·125 | Forsaken Wastes | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>At the beginning of each player's upkeep, that player loses 1 life.</source>
+        <target state="final">在每个牌手的维持开始时，该牌手失去一点生命。</target>
+      </trans-unit>
+      <trans-unit id="c9dbfc7c-164d-47b8-8f05-987864fca89b" resname="MIR·125 | Forsaken Wastes | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>Whenever CARDNAME becomes the target of a spell, that spell's controller loses 5 life.</source>
+        <target state="final">每当CARDNAME成为咒语的目标，该咒语的操控者失去5点生命。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
