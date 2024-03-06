@@ -22,9 +22,21 @@
         <source>Flying</source>
         <target state="translated">飞行</target>
       </trans-unit>
-      <trans-unit id="097910fb-7c48-4535-8ffc-b521d08294b0" resname="MIR·130 | Kaervek's Hex | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="097910fb-7c48-4535-8ffc-b521d08294b0" resname="MIR·130 | Kaervek's Hex | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME deals 1 damage to each nonblack creature and an additional 1 damage to each green creature.</source>
-        <target state="translated">CARDNAME对每个非黑生物各造成1点伤害，且对每个绿色生物造成额外一点伤害。</target>
+        <target state="final">CARDNAME对每个非黑色的生物各造成1点伤害，并对每个绿色生物额外造成1点伤害。</target>
+      </trans-unit>
+      <trans-unit id="7380af0a-8a8f-44fd-9456-14a68a2830d3" resname="MIR·155 | Aleatory | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>Draw a card at the beginning of the next turn's upkeep.</source>
+        <target state="final">在下一个回合维持开始时，抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="5ee67033-7f0f-49b4-8472-3bc4fbb8ffe1" resname="MIR·136 | Ravenous Vampire | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="f8ca7e96-0545-4f36-85c0-944d5c0b760a" resname="MIR·143 | Skulking Ghost | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
       </trans-unit>
     </body>
   </file>
