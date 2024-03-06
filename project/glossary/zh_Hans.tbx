@@ -2712,7 +2712,7 @@
     </langSet>
                 <langSet xml:lang="zh_Hans">
         <tig>
-            <term>结附</term>
+            <term>结附于</term>
         </tig>
     </langSet>
                 <descrip>一个关键字异能，定义灵气咒语可以指定的目标以及一个灵气永久物可以贴附的对象。参见规则303，“结界”以及规则702.5，“结附”。</descrip>
@@ -2881,7 +2881,7 @@
     </langSet>
                 <langSet xml:lang="zh_Hans">
         <tig>
-            <term>进入战场</term>
+            <term>进战场时</term>
         </tig>
     </langSet>
                 <descrip>一个非衍生物永久物当从其他区域转移到战场时“进入战场”。一个永久物当被创造时“进入战场”。参见规则403.3，603.6a，603.6d以及614.12。</descrip>
@@ -8540,7 +8540,7 @@
     </langSet>
                 <langSet xml:lang="zh_Hans">
         <tig>
-            <term>除非</term>
+            <term>除非…否则</term>
         </tig>
     </langSet>
                 <descrip>一个词，用来确定特殊样式的费用。参见规则118.12a。</descrip>
@@ -9430,6 +9430,22 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>At the beginning of upkeep</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>维持开始时</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Whenever an opponent</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>每当任一对手</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>phases out</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>跃离</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>phase in</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>跃回</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>phases in</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>跃回</term></tig></langSet>
             </termEntry>
         </body>
     </text>
