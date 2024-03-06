@@ -2345,9 +2345,9 @@
         <source>{1}{B}{B}: Regenerate CARDNAME.</source>
         <target state="final">{1}{B}{B}：重生CARDNAME。</target>
       </trans-unit>
-      <trans-unit id="46daebe4-199e-4580-8a52-1aebc8492d8c" resname="MIR·112 | Catacomb Dragon | Card Text | Paragraph 2" xml:space="preserve">
+      <trans-unit id="46daebe4-199e-4580-8a52-1aebc8492d8c" resname="MIR·112 | Catacomb Dragon | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Whenever CARDNAME becomes blocked by a nonartifact, non-Dragon creature, that creature gets -X/-0 until end of turn, where X is half the creature's power, rounded down.</source>
-        <target state="translated">每当CARDNAME被一个非神器或非龙生物阻挡，那个生物获得-X/-0直到回合结束，X是此生物的力量的一半，向下取整。</target>
+        <target state="final">每当CARDNAME被一个非神器且非龙的生物阻挡时，该生物获得-X/-0直到回合结束，X为该生物力量的一半，小数点后舍去。</target>
       </trans-unit>
       <trans-unit id="155f2aa6-6c47-4a06-b0ef-2d9205cd133e" resname="MIR·2 | Alarum | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Untap target nonattacking creature. It gets +1/+3 until end of turn.</source>
