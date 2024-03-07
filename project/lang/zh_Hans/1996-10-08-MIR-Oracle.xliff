@@ -2733,6 +2733,46 @@
         <source>CARDNAME enters the battlefield with X echo counters on it.</source>
         <target state="translated">~进战场时上面有X个返响指示物。</target>
       </trans-unit>
+      <trans-unit id="8192bca7-03e5-4ea1-ae77-8bc811c19417" resname="MIR·68 | Hakim, Loreweaver | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="aec06bc9-553c-4e01-8b43-a4eeaa511b4d" resname="MIR·63 | Dream Fighter | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Whenever CARDNAME blocks or becomes blocked by a creature, CARDNAME and that creature phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during their next untap step.)</source>
+        <target state="final">每当CARDNAME阻挡生物或被生物阻挡时，CARDNAME和该生物跃离。（它们于跃离期间视作不存在。它们各自于其操控者的下一个重置步骤中重置之前跃回。）</target>
+      </trans-unit>
+      <trans-unit id="8192bca7-03e5-4ea1-ae77-8bc811c19417" resname="MIR·68 | Hakim, Loreweaver | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{U}{U}: Return target Aura card from your graveyard to the battlefield attached to CARDNAME. Activate only during your upkeep and only if Hakim isn't enchanted.</source>
+        <target state="final">{U}{U}：将目标灵气牌从你的坟墓场移回战场且贴附于CARDNAME上。只能于你的维持中起动，且仅限哈金未被结附时。</target>
+      </trans-unit>
+      <trans-unit id="854ba4e0-f6f3-4b6c-b6cb-ab2b93d64601" resname="MIR·53 | Azimaet Drake | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="87e060d7-42ed-49ab-bc5c-2f3210cbd0d1" resname="MIR·64 | Energy Vortex | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>As CARDNAME enters the battlefield, choose an opponent.</source>
+        <target state="final">于CARDNAME进战场时，选择一位对手。</target>
+      </trans-unit>
+      <trans-unit id="87e060d7-42ed-49ab-bc5c-2f3210cbd0d1" resname="MIR·64 | Energy Vortex | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>At the beginning of your upkeep, remove all vortex counters from CARDNAME.</source>
+        <target state="final">在你的维持开始时，从CARDNAME上移去所有漩涡指示物。</target>
+      </trans-unit>
+      <trans-unit id="87e060d7-42ed-49ab-bc5c-2f3210cbd0d1" resname="MIR·64 | Energy Vortex | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>At the beginning of the chosen player's upkeep, CARDNAME deals 3 damage to that player unless they pay {1} for each vortex counter on CARDNAME.</source>
+        <target state="final">在所选牌手的维持开始时，除非该牌手为CARDNAME上的每个漩涡指示物支付{1}，否则CARDNAME对其造成3点伤害。</target>
+      </trans-unit>
+      <trans-unit id="87e060d7-42ed-49ab-bc5c-2f3210cbd0d1" resname="MIR·64 | Energy Vortex | Card Text | Paragraph 4" xml:space="preserve" approved="yes">
+        <source>{X}: Put X vortex counters on CARDNAME. Activate only during your upkeep.</source>
+        <target state="final">{X}：在CARDNAME上放置X个漩涡指示物。只能于你的维持中起动。</target>
+      </trans-unit>
+      <trans-unit id="0a2cf195-01bf-4076-a0c6-ca5403d84f7d" resname="MIR·65 | Ether Well | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Put target creature on top of its owner's library. If that creature is red, you may put it on the bottom of its owner's library instead.</source>
+        <target state="final">将目标生物置于其拥有者的牌库顶。若该生物是红色，你可以改为将它置于其拥有者的牌库底。</target>
+      </trans-unit>
+      <trans-unit id="8192bca7-03e5-4ea1-ae77-8bc811c19417" resname="MIR·68 | Hakim, Loreweaver | Card Text | Paragraph 3" xml:space="preserve">
+        <source>{U}{U}, {T}: Destroy all Auras attached to Hakim.</source>
+        <target state="translated">{U}{U}，{T}：消灭所有贴附于哈金的灵气。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
