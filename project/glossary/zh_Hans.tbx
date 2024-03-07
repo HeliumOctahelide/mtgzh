@@ -9298,6 +9298,7 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>The same is true for</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>且…亦比照办理</term></tig></langSet>
+                <note from="translator">只要满足条件，某物便具有X异能。且Y…亦比照办理</note>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Activate only as a sorcery</term></tig></langSet>
@@ -9550,6 +9551,19 @@
             <termEntry>
                 <langSet xml:lang="en"><tig><term>each player</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>每位牌手</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nonland permanent</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>非地永久物</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Nonland permanents</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>非地永久物</term></tig></langSet>
+            </termEntry>
+            <termEntry id="X是某类别/颜色。其他X也是如此。">
+                <langSet xml:lang="en"><tig><term>The same is true for</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>也是如此</term></tig></langSet>
+                <note from="translator">满足某条件的X是某类别/颜色，其他Y也是如此。</note>
             </termEntry>
         </body>
     </text>
