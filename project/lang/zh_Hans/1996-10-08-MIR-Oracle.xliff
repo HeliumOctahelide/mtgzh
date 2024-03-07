@@ -2777,6 +2777,26 @@
         <source>The next time a source of your choice would deal damage to you and/or creatures you control this turn, prevent that damage. If damage from a black source is prevented this way, you gain that much life.</source>
         <target state="final">选择一个来源，于本回合中，防止该来源下一次将对你和／或由你操控的生物造成的伤害。如果以此法防止了某个来源为黑色的伤害，则你获得等量的生命。</target>
       </trans-unit>
+      <trans-unit id="048f2368-0e2f-4197-b977-353d38b38ccc" resname="MIR·98 | Teferi's Imp | Card Text | Paragraph 4" xml:space="preserve" approved="yes">
+        <source>Whenever CARDNAME phases in, draw a card.</source>
+        <target state="final">每当CARDNAME跃回时，抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="9e6c7750-bc3b-4790-bc9d-88e2cf16881e" resname="MIR·111 | Carrion | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>As an additional cost to cast this spell, sacrifice a creature.</source>
+        <target state="final">牺牲一个生物，以作为施放CARDNAME的额外费用。</target>
+      </trans-unit>
+      <trans-unit id="9e6c7750-bc3b-4790-bc9d-88e2cf16881e" resname="MIR·111 | Carrion | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Create X 0/1 black Insect creature tokens, where X is the sacrificed creature's power.</source>
+        <target state="final">派出X个0/1黑色昆虫衍生生物，X为所牺牲生物的力量。</target>
+      </trans-unit>
+      <trans-unit id="46daebe4-199e-4580-8a52-1aebc8492d8c" resname="MIR·112 | Catacomb Dragon | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="e41c15fb-01a1-446e-9e88-71e8e95d9bce" resname="MIR·113 | Choking Sands | Card Text | Paragraph 1" xml:space="preserve">
+        <source>Destroy target non-Swamp land. If that land was nonbasic, CARDNAME deals 2 damage to the land's controller.</source>
+        <target state="translated">消灭目标非沼泽地。若该地为非基本，则CARDNAME对它的操控者造成2点伤害。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
