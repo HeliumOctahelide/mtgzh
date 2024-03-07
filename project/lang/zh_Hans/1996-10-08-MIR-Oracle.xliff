@@ -2805,9 +2805,21 @@
         <source>Whenever a player casts a black spell, you may pay {B}. If you do, put a +1/+1 counter on CARDNAME.</source>
         <target state="final">每当任一牌手施放黑色咒语时，你可以支付{B}。若你如此作，在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
-      <trans-unit id="5ee67033-7f0f-49b4-8472-3bc4fbb8ffe1" resname="MIR·136 | Ravenous Vampire | Card Text | Paragraph 2" xml:space="preserve">
+      <trans-unit id="5ee67033-7f0f-49b4-8472-3bc4fbb8ffe1" resname="MIR·136 | Ravenous Vampire | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>At the beginning of your upkeep, you may sacrifice a nonartifact creature. If you do, put a +1/+1 counter on CARDNAME. If you don't, tap CARDNAME.</source>
-        <target state="translated">在你的维持开始时，你可以牺牲一个非神器的生物。若你如此作，在CARDNAME上放置一个+1/+1指示物。若你未如此作，重置CARDNAME。</target>
+        <target state="final">在你的维持开始时，你可以牺牲一个非神器的生物。若你如此作，在CARDNAME上放置一个+1/+1指示物。若你未如此作，横置CARDNAME。</target>
+      </trans-unit>
+      <trans-unit id="cb6f9427-ef5c-49fd-81e1-ddf130d69da0" resname="MIR·40 | Soul Echo | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>You don't lose the game for having 0 or less life.</source>
+        <target state="final">你不因总生命为0或更少而输掉这盘游戏。</target>
+      </trans-unit>
+      <trans-unit id="cb6f9427-ef5c-49fd-81e1-ddf130d69da0" resname="MIR·40 | Soul Echo | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>At the beginning of your upkeep, sacrifice CARDNAME if there are no echo counters on it. Otherwise, target opponent may choose that for each 1 damage that would be dealt to you until your next upkeep, you remove an echo counter from CARDNAME instead.</source>
+        <target state="final">在你的维持开始时，若CARDNAME上没有返响指示物，将它牺牲。若否，目标对手可以选择直到你的下一个维持，每将对你造成1点伤害，便改为从CARDNAME上移去一个返响指示物。</target>
+      </trans-unit>
+      <trans-unit id="2a0bea61-8fd2-4802-90b4-651bebbe9638" resname="MIR·41 | Spectral Guardian | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>As long as CARDNAME is untapped, noncreature artifacts have shroud. (They can't be the targets of spells or abilities.)</source>
+        <target state="final">只要CARDNAME未横置，非生物的神器便具有帷幕异能。（它们不能成为咒语或异能的目标。）</target>
       </trans-unit>
     </body>
   </file>
