@@ -292,9 +292,9 @@
         <target state="translated">文亚若狮鹫</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="d6db3573-2cc5-47ca-b65f-080aab7fdddc" resname="MIR·44 | Unyaro Griffin | Card Text | Paragraph 1">
+      <trans-unit id="d6db3573-2cc5-47ca-b65f-080aab7fdddc" resname="MIR·44 | Unyaro Griffin | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flying</source>
-        <target state="translated">飞行</target>
+        <target state="final">飞行</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="d6db3573-2cc5-47ca-b65f-080aab7fdddc" resname="MIR·44 | Unyaro Griffin | Card Text | Paragraph 2">
@@ -2844,6 +2844,22 @@
       <trans-unit id="96267012-24da-43ae-97af-69ca3d7704f8" resname="MIR·43 | Teremko Griffin | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</source>
         <target state="final">飞行；结合（任意数量具结合异能的攻击生物以及至多一个不具结合异能的攻击生物可以组成攻击团队。团队作为一个整体被阻挡。如果由你操控且具结合异能的生物阻挡生物或被生物阻挡，后者向被它阻挡或阻挡它的生物造成的战斗伤害由你而非该生物的操控者分配。）</target>
+      </trans-unit>
+      <trans-unit id="06d94b21-7568-4e5c-a8ec-ff5bb48a4f36" resname="MIR·142 | Shauku, Endbringer | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>At the beginning of your upkeep, you lose 3 life.</source>
+        <target state="final">在你的维持开始时，你失去3点生命。</target>
+      </trans-unit>
+      <trans-unit id="06d94b21-7568-4e5c-a8ec-ff5bb48a4f36" resname="MIR·142 | Shauku, Endbringer | Card Text | Paragraph 4" xml:space="preserve" approved="yes">
+        <source>{T}: Exile target creature and put a +1/+1 counter on Shauku.</source>
+        <target state="final">{T}：放逐目标生物并在刹酷上放置一个+1/+1指示物。</target>
+      </trans-unit>
+      <trans-unit id="7fa084e1-05c2-4691-b9fe-3e3c717e5c9d" resname="MIR·144 | Soul Rend | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Destroy target creature if it's white. A creature destroyed this way can't be regenerated.</source>
+        <target state="final">如果目标生物是白色，则消灭之。以此法消灭的生物不能重生。</target>
+      </trans-unit>
+      <trans-unit id="7fa084e1-05c2-4691-b9fe-3e3c717e5c9d" resname="MIR·144 | Soul Rend | Card Text | Paragraph 2" xml:space="preserve">
+        <source>Draw a card at the beginning of the next turn's upkeep.</source>
+        <target state="translated">在下个回合的维持开始时，抓一张牌。</target>
       </trans-unit>
     </body>
   </file>
