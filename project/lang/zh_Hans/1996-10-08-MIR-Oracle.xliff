@@ -2681,9 +2681,9 @@
         <source>Target unblocked attacking creature becomes blocked. (This spell works on creatures that can't be blocked.)</source>
         <target state="final">目标进行攻击且未受阻挡的生物成为被阻挡。（此咒语对不能被阻挡的生物同样有效。）</target>
       </trans-unit>
-      <trans-unit id="75629aa3-426e-4e25-a7ab-71e03436e061" resname="MIR·12 | Divine Retribution | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="75629aa3-426e-4e25-a7ab-71e03436e061" resname="MIR·12 | Divine Retribution | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME deals damage to target attacking creature equal to the number of attacking creatures.</source>
-        <target state="translated">CARDNAME对目标进行攻击的生物造成等同于进行攻击的生物数量的伤害。</target>
+        <target state="final">CARDNAME对目标进行攻击的生物造成伤害，其数量等同于进行攻击的生物数量。</target>
       </trans-unit>
       <trans-unit id="65f399cb-dddb-422a-8d36-938b82b59e10" resname="MIR·30 | Noble Elephant | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</source>
@@ -2704,6 +2704,14 @@
       <trans-unit id="814f8976-6612-438f-a04a-8edb63edb1e7" resname="MIR·31 | Null Chamber | Card Text | Paragraph 1" xml:space="preserve">
         <source>As CARDNAME enters the battlefield, you and an opponent each choose a card name other than a basic land card name.</source>
         <target state="translated">于CARDNAME进战场时，你和一位对手各选择一个基本地牌名以外的牌名。</target>
+      </trans-unit>
+      <trans-unit id="ebb48053-da60-477a-b1eb-a9ab9ea682af" resname="MIR·35 | Rashida Scalebane | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{T}: Destroy target attacking or blocking Dragon. It can't be regenerated. You gain life equal to its power.</source>
+        <target state="final">{T}：消灭目标进行攻击或阻挡的龙。它不能重生。你获得等同于其力量的生命。</target>
+      </trans-unit>
+      <trans-unit id="21205189-0d00-44d5-9772-820e607dba25" resname="MIR·36 | Ritual of Steel | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>When CARDNAME enters the battlefield, draw a card at the beginning of the next turn's upkeep.</source>
+        <target state="final">当CARDNAME进战场时，在下一个回合维持开始时，抓一张牌。</target>
       </trans-unit>
     </body>
   </file>
