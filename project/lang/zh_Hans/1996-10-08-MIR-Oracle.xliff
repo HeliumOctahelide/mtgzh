@@ -2665,9 +2665,9 @@
         <source>Whenever a creature of the chosen color deals damage to you or a white creature you control, CARDNAME deals that much damage to that creature.</source>
         <target state="final">每当一个具所选颜色的生物对你或一个由你操控的白色生物造成伤害时，CARDNAME对该生物造成等量的伤害。</target>
       </trans-unit>
-      <trans-unit id="2a243bd7-af98-4e44-af6e-3b0b71d4837b" resname="MIR·4 | Benevolent Unicorn | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="2a243bd7-af98-4e44-af6e-3b0b71d4837b" resname="MIR·4 | Benevolent Unicorn | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>If a spell would deal damage to a permanent or player, it deals that much damage minus 1 to that permanent or player instead.</source>
-        <target state="translated">如果某咒语将对永久物或牌手造成伤害，则改为它对该永久物或牌手造成原数量减1点伤害。</target>
+        <target state="final">如果某咒语将对永久物或牌手造成伤害，则改为它对该永久物或牌手造成原数量减1点伤害。</target>
       </trans-unit>
       <trans-unit id="51f30a3d-1421-4706-b17f-39a9ec7a0d8b" resname="MIR·29 | Mtenda Herder | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</source>
@@ -2684,6 +2684,18 @@
       <trans-unit id="75629aa3-426e-4e25-a7ab-71e03436e061" resname="MIR·12 | Divine Retribution | Card Text | Paragraph 1" xml:space="preserve">
         <source>CARDNAME deals damage to target attacking creature equal to the number of attacking creatures.</source>
         <target state="translated">CARDNAME对目标进行攻击的生物造成等同于进行攻击的生物数量的伤害。</target>
+      </trans-unit>
+      <trans-unit id="65f399cb-dddb-422a-8d36-938b82b59e10" resname="MIR·30 | Noble Elephant | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</source>
+        <target state="final">践踏；结合（任意数量具结合异能的攻击生物以及至多一个不具结合异能的攻击生物可以组成攻击团队。团队作为一个整体被阻挡。如果由你操控且具结合异能的生物阻挡生物或被生物阻挡，后者向被它阻挡或阻挡它的生物造成的战斗伤害由你而非该生物的操控者分配。）</target>
+      </trans-unit>
+      <trans-unit id="814f8976-6612-438f-a04a-8edb63edb1e7" resname="MIR·31 | Null Chamber | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Spells with the chosen names can't be cast and lands with the chosen names can't be played.</source>
+        <target state="final">不能施放具该名称的咒语且不能使用具该名称的地。</target>
+      </trans-unit>
+      <trans-unit id="8d4e3de4-f173-4bcc-a5fb-089eee7108d3" resname="MIR·34 | Prismatic Circle | Card Text | Paragraph 3" xml:space="preserve">
+        <source>{1}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.</source>
+        <target state="translated">{1}：选择一个该色的来源，于本回合中，防止该来源下一次将对你造成的伤害。</target>
       </trans-unit>
     </body>
   </file>
