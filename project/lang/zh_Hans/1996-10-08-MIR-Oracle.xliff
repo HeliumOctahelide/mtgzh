@@ -502,9 +502,9 @@
         <target state="translated">插手干预</target>
         <note xmlns:from="developer">中文数据来自ONS（2002-10-07）；</note>
       </trans-unit>
-      <trans-unit id="0245553c-b483-47df-940b-5d7deb108642" resname="MIR·73 | Meddle | Card Text | Paragraph 1">
+      <trans-unit id="0245553c-b483-47df-940b-5d7deb108642" resname="MIR·73 | Meddle | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>If target spell has only one target and that target is a creature, change that spell's target to another creature.</source>
-        <target state="translated">若目标咒语仅指定单一目标，且该目标为生物，则你以另一生物作为该咒语的目标。</target>
+        <target state="final">若目标咒语仅指定单一目标，且该目标为生物，则将该咒语的目标更改为另一个生物。</target>
         <note xmlns:from="developer">中文数据来自ONS（2002-10-07）；</note>
       </trans-unit>
       <trans-unit id="d0f34166-8946-4bcc-84af-3540c42ac7f7" resname="MIR·75 | Merfolk Raiders | Card Name">
@@ -522,9 +522,9 @@
         <target state="translated">曲解心意</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
-      <trans-unit id="952eb6ae-a530-4f4f-92f0-a6602beaa7b2" resname="MIR·77 | Mind Bend | Card Text | Paragraph 1">
+      <trans-unit id="952eb6ae-a530-4f4f-92f0-a6602beaa7b2" resname="MIR·77 | Mind Bend | Card Text | Paragraph 1" xml:space="preserve">
         <source>Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another. (For example, you may change &amp;quot;nonblack creature&amp;quot; to &amp;quot;nongreen creature&amp;quot; or &amp;quot;forestwalk&amp;quot; to &amp;quot;islandwalk.&amp;quot; This effect lasts indefinitely.)</source>
-        <target state="translated">更改目标永久物的规则叙述文字；将其中一种颜色文字全部更改为另一种，或是将一种基本地类别文字全部更改为另一种。 （例如你可以将「非黑生物」修改为「非绿生物」，或是将「树林行者」修改为「海岛行者」。此效应不因回合结束而终止。）</target>
+        <target state="translated">更改目标永久物的规则叙述文字；将其中一种颜色文字全部更改为另一种，或是将一种基本地类别文字全部更改为另一种。 （例如你可以将「非黑色的生物」修改为「非绿色的生物」，或是将「树林行者」修改为「海岛行者」。此效应不因回合结束而终止。）</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="5bf17780-801d-4ab8-91f4-a803ede51395" resname="MIR·78 | Mind Harness | Card Name">
@@ -2769,9 +2769,9 @@
         <source>Put target creature on top of its owner's library. If that creature is red, you may put it on the bottom of its owner's library instead.</source>
         <target state="final">将目标生物置于其拥有者的牌库顶。若该生物是红色，你可以改为将它置于其拥有者的牌库底。</target>
       </trans-unit>
-      <trans-unit id="8192bca7-03e5-4ea1-ae77-8bc811c19417" resname="MIR·68 | Hakim, Loreweaver | Card Text | Paragraph 3" xml:space="preserve">
+      <trans-unit id="8192bca7-03e5-4ea1-ae77-8bc811c19417" resname="MIR·68 | Hakim, Loreweaver | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
         <source>{U}{U}, {T}: Destroy all Auras attached to Hakim.</source>
-        <target state="translated">{U}{U}，{T}：消灭所有贴附在哈金上的灵气。</target>
+        <target state="final">{U}{U}，{T}：消灭所有贴附在哈金上的灵气。</target>
       </trans-unit>
       <trans-unit id="0fbe8fa5-5ca8-43ce-863e-61802126e485" resname="MIR·38 | Shadowbane | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>The next time a source of your choice would deal damage to you and/or creatures you control this turn, prevent that damage. If damage from a black source is prevented this way, you gain that much life.</source>
@@ -2953,9 +2953,9 @@
         <source>Whenever CARDNAME attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.</source>
         <target state="final">每当CARDNAME攻击且未受阻挡时，检视防御牌手的牌库顶牌。你可以将该牌置于该牌手的牌库底。</target>
       </trans-unit>
-      <trans-unit id="3e0c085a-e17d-4003-bb58-f97555365fcf" resname="MIR·70 | Jolt | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="3e0c085a-e17d-4003-bb58-f97555365fcf" resname="MIR·70 | Jolt | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>You may tap or untap target artifact, creature, or land.</source>
-        <target state="translated">你可以横置或重置目标神器，生物或地。</target>
+        <target state="final">你可以横置或重置目标神器，生物或地。</target>
       </trans-unit>
       <trans-unit id="845c4b06-090f-4217-acb2-8900b7dab37c" resname="MIR·146 | Spirit of the Night | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flying, trample, haste, protection from black</source>
