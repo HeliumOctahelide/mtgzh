@@ -2721,6 +2721,14 @@
         <source>As CARDNAME enters the battlefield, choose a color.</source>
         <target state="final">于CARDNAME进战场时，选择一种颜色。</target>
       </trans-unit>
+      <trans-unit id="743f0d06-cd14-49f3-ad3c-0d419a0c30bc" resname="MIR·39 | Sidar Jabari | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</source>
+        <target state="final">侧面攻击（每当一个不具侧面攻击异能的生物阻挡此生物时，该阻挡生物得-1/-1直到回合结束。）</target>
+      </trans-unit>
+      <trans-unit id="743f0d06-cd14-49f3-ad3c-0d419a0c30bc" resname="MIR·39 | Sidar Jabari | Card Text | Paragraph 2" xml:space="preserve">
+        <source>Whenever CARDNAME attacks, tap target creature defending player controls.</source>
+        <target state="translated">每当~攻击时，横置目标由防御牌手操控的生物。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
