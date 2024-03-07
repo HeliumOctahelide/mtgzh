@@ -2863,7 +2863,99 @@
       </trans-unit>
       <trans-unit id="5c3bf717-2b88-4704-a7e9-f62dbb3d3d3d" resname="MIR·145 | Soulshriek | Card Text | Paragraph 1" xml:space="preserve">
         <source>Target creature you control gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. Sacrifice that creature at the beginning of the next end step.</source>
-        <target state="translated">目标由你操控的生物得+X/+0直到回合结束，X为你坟墓场中生物牌的数量。在你的下个结束步骤开始时，牺牲该生物。</target>
+        <target state="translated">目标由你操控的生物得+X/+0直到回合结束，X为你坟墓场中生物牌的数量。在下一个结束步骤开始时，牺牲该生物。</target>
+      </trans-unit>
+      <trans-unit id="fd25787d-b90c-4b25-8259-1ac41d4dcd15" resname="MIR·46 | Wall of Resistance | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>At the beginning of each end step, if CARDNAME was dealt damage this turn, put a +0/+1 counter on it.</source>
+        <target state="final">在每个结束步骤开始时，若CARDNAME本回合中受过伤害，在其上放置一个+0/+1指示物。</target>
+      </trans-unit>
+      <trans-unit id="6d389daf-c7d8-4bd1-b4ea-5082f5d280c0" resname="MIR·47 | Ward of Lights | Card Text | Paragraph 4" xml:space="preserve" approved="yes">
+        <source>Enchanted creature has protection from the chosen color. This effect doesn't remove CARDNAME.</source>
+        <target state="final">所结附的生物具有反该色保护异能。此效应不会移除CARDNAME。</target>
+      </trans-unit>
+      <trans-unit id="854ba4e0-f6f3-4b6c-b6cb-ab2b93d64601" resname="MIR·53 | Azimaet Drake | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{U}: CARDNAME gets +1/+0 until end of turn. Activate only once each turn.</source>
+        <target state="final">{U}：CARDNAME得+1/+0直到回合结束。每回合只能起动一次。</target>
+      </trans-unit>
+      <trans-unit id="a02e3c10-cc21-4e06-a987-b03aee61bd50" resname="MIR·45 | Vigilant Martyr | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Sacrifice CARDNAME: Regenerate target creature.</source>
+        <target state="final">牺牲CARDNAME：重生目标生物。</target>
+      </trans-unit>
+      <trans-unit id="a02e3c10-cc21-4e06-a987-b03aee61bd50" resname="MIR·45 | Vigilant Martyr | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{W}{W}, {T}, Sacrifice CARDNAME: Counter target spell that targets an enchantment.</source>
+        <target state="final">{W}{W}，{T}，牺牲CARDNAME：反击目标咒语，且该咒语须以结界为目标。</target>
+      </trans-unit>
+      <trans-unit id="fd25787d-b90c-4b25-8259-1ac41d4dcd15" resname="MIR·46 | Wall of Resistance | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Defender (This creature can't attack.)</source>
+        <target state="final">守军 （此生物不能攻击。）</target>
+      </trans-unit>
+      <trans-unit id="fd25787d-b90c-4b25-8259-1ac41d4dcd15" resname="MIR·46 | Wall of Resistance | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="6d389daf-c7d8-4bd1-b4ea-5082f5d280c0" resname="MIR·47 | Ward of Lights | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.</source>
+        <target state="final">你可以将CARDNAME视同具有闪现异能地来施放。如果你是于无法施放法术的时机下施放之，则在下一个清除步骤开始时，它所成之永久物的操控者将它牺牲。</target>
+      </trans-unit>
+      <trans-unit id="6d389daf-c7d8-4bd1-b4ea-5082f5d280c0" resname="MIR·47 | Ward of Lights | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Enchant creature</source>
+        <target state="final">结附于生物</target>
+      </trans-unit>
+      <trans-unit id="6d389daf-c7d8-4bd1-b4ea-5082f5d280c0" resname="MIR·47 | Ward of Lights | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>As CARDNAME enters the battlefield, choose a color.</source>
+        <target state="final">于CARDNAME进战场时，选择一种颜色。</target>
+      </trans-unit>
+      <trans-unit id="9a14343d-c2cd-4a67-ae54-6b6a4677ca85" resname="MIR·48 | Yare | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Target creature defending player controls gets +3/+0 until end of turn. That creature can block up to two additional creatures this turn.</source>
+        <target state="final">目标由防御牌手操控的生物得+3/+0直到回合结束。该生物本回合可以额外多阻挡至多两个生物。</target>
+      </trans-unit>
+      <trans-unit id="eb65d104-bd50-481e-a70e-62aeb2f2c12b" resname="MIR·50 | Zhalfirin Knight | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</source>
+        <target state="final">侧面攻击（每当一个不具侧面攻击异能的生物阻挡此生物时，该阻挡生物得-1/-1直到回合结束。）</target>
+      </trans-unit>
+      <trans-unit id="eb65d104-bd50-481e-a70e-62aeb2f2c12b" resname="MIR·50 | Zhalfirin Knight | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{W}{W}: CARDNAME gains first strike until end of turn.</source>
+        <target state="final">{W}{W}：CARDNAME获得先攻异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="c1b24a80-b5e1-484f-9e21-886cb6b5db48" resname="MIR·51 | Zuberi, Golden Feather | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="c1b24a80-b5e1-484f-9e21-886cb6b5db48" resname="MIR·51 | Zuberi, Golden Feather | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Other Griffin creatures get +1/+1.</source>
+        <target state="final">其他狮鹫生物得+1/+1。</target>
+      </trans-unit>
+      <trans-unit id="df45268a-b757-4ad2-bab0-869058ee9186" resname="MIR·54 | Bay Falcon | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying, vigilance</source>
+        <target state="final">飞行，警戒</target>
+      </trans-unit>
+      <trans-unit id="78e7a165-e135-4b85-943d-8352b6e65870" resname="MIR·55 | Bazaar of Wonders | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>When CARDNAME enters the battlefield, exile all graveyards.</source>
+        <target state="final">当CARDNAME进战场时，放逐所有坟墓场。</target>
+      </trans-unit>
+      <trans-unit id="78e7a165-e135-4b85-943d-8352b6e65870" resname="MIR·55 | Bazaar of Wonders | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Whenever a player casts a spell, counter it if a card with the same name is in a graveyard or a nontoken permanent with the same name is on the battlefield.</source>
+        <target state="final">每当任一牌手施放咒语时，如果坟墓场中有与其同名的牌或战场上有与其同名且非衍生物的永久物，则反击之。</target>
+      </trans-unit>
+      <trans-unit id="5c599f95-c0dd-4dd8-a8d7-9481df0cf649" resname="MIR·57 | Cerulean Wyvern | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying, protection from green</source>
+        <target state="final">飞行，反绿保护</target>
+      </trans-unit>
+      <trans-unit id="3f6e21e6-fb3e-49c1-b5a0-499faf66d279" resname="MIR·58 | Cloak of Invisibility | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Enchant creature</source>
+        <target state="final">结附于生物</target>
+      </trans-unit>
+      <trans-unit id="3f6e21e6-fb3e-49c1-b5a0-499faf66d279" resname="MIR·58 | Cloak of Invisibility | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Enchanted creature has phasing and can't be blocked except by Walls. (It phases in or out before its controller untaps during each of their untap steps. While it's phased out, it's treated as though it doesn't exist.)</source>
+        <target state="final">所结附的生物具有时间跳跃异能且只能被墙阻挡。（于其操控者的重置步骤中重置之前，它跃回或跃离。它于跃离期间视作不存在。）</target>
+      </trans-unit>
+      <trans-unit id="08f9dfa0-bdb3-4419-ae4b-cc394552af74" resname="MIR·59 | Coral Fighters | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Whenever CARDNAME attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.</source>
+        <target state="final">每当CARDNAME攻击且未受阻挡时，检视防御牌手的牌库顶牌。你可以将该牌置于该牌手的牌库底。</target>
+      </trans-unit>
+      <trans-unit id="3e0c085a-e17d-4003-bb58-f97555365fcf" resname="MIR·70 | Jolt | Card Text | Paragraph 1" xml:space="preserve">
+        <source>You may tap or untap target artifact, creature, or land.</source>
+        <target state="translated">你可以横置或重置目标神器，生物或地。</target>
       </trans-unit>
     </body>
   </file>
