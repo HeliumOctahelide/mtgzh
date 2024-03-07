@@ -3017,6 +3017,38 @@
         <source>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</source>
         <target state="final">累积维持{1}（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物支付其维持费用，否则牺牲之。）</target>
       </trans-unit>
+      <trans-unit id="5bf17780-801d-4ab8-91f4-a803ede51395" resname="MIR·78 | Mind Harness | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>You control enchanted creature.</source>
+        <target state="final">你操控所结附的生物。</target>
+      </trans-unit>
+      <trans-unit id="3b9b4be4-74c8-4fe5-a5e4-de57c11e8ec1" resname="MIR·79 | Mist Dragon | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{0}: CARDNAME gains flying. (This effect lasts indefinitely.)</source>
+        <target state="final">{0}：CARDNAME获得飞行异能。（此效应不因回合结束而终止。）</target>
+      </trans-unit>
+      <trans-unit id="3b9b4be4-74c8-4fe5-a5e4-de57c11e8ec1" resname="MIR·79 | Mist Dragon | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{0}: CARDNAME loses flying. (This effect lasts indefinitely.)</source>
+        <target state="final">{0}：CARDNAME失去飞行异能。（此效应不因回合结束而终止。）</target>
+      </trans-unit>
+      <trans-unit id="3b9b4be4-74c8-4fe5-a5e4-de57c11e8ec1" resname="MIR·79 | Mist Dragon | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>{3}{U}{U}: CARDNAME phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)</source>
+        <target state="final">{3}{U}{U}：CARDNAME跃离。（它于跃离期间视作不存在。于你的重置步骤中重置之前，它跃回。）</target>
+      </trans-unit>
+      <trans-unit id="3e56e720-5e8b-4685-969c-e073de78b9a1" resname="MIR·81 | Political Trickery | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Exchange control of target land you control and target land an opponent controls. (This effect lasts indefinitely.)</source>
+        <target state="final">交换目标由你操控的地与目标由对手操控的地之操控权。（此效应不因回合结束而终止。）</target>
+      </trans-unit>
+      <trans-unit id="d1129585-6d59-4217-9404-747a100f1e8c" resname="MIR·84 | Prismatic Lace | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Target permanent becomes the color or colors of your choice. (This effect lasts indefinitely.)</source>
+        <target state="final">选择一种或多种颜色。目标永久物成为该些颜色。（此效应不因回合结束而终止。）</target>
+      </trans-unit>
+      <trans-unit id="c5b94eed-2a45-4a6b-a06b-a2021b174bc5" resname="MIR·87 | Reality Ripple | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Target artifact, creature, or land phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during their next untap step.)</source>
+        <target state="final">目标神器，生物或地跃离。（它于跃离期间视作不存在。于你的重置步骤中重置之前，它跃回。）</target>
+      </trans-unit>
+      <trans-unit id="450b79d9-5ab8-4699-8052-a278c316a5c3" resname="MIR·88 | Sandbar Crocodile | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)</source>
+        <target state="final">时间跳跃（于其操控者的重置步骤中重置之前，它跃回或跃离。它于跃离期间视作不存在。）</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
