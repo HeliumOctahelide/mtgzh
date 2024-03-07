@@ -187,14 +187,14 @@
         <target state="translated">和平主义</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
-      <trans-unit id="c891df1b-bae6-4d6d-85ee-42901c149f98" resname="MIR·32 | Pacifism | Card Text | Paragraph 1">
+      <trans-unit id="c891df1b-bae6-4d6d-85ee-42901c149f98" resname="MIR·32 | Pacifism | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Enchant creature</source>
-        <target state="translated">结附于生物</target>
+        <target state="final">结附于生物</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
-      <trans-unit id="c891df1b-bae6-4d6d-85ee-42901c149f98" resname="MIR·32 | Pacifism | Card Text | Paragraph 2">
+      <trans-unit id="c891df1b-bae6-4d6d-85ee-42901c149f98" resname="MIR·32 | Pacifism | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Enchanted creature can't attack or block.</source>
-        <target state="translated">所结附的生物不能进行攻击或阻挡。</target>
+        <target state="final">所结附的生物不能进行攻击或阻挡。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="41ac3411-3286-4698-b5d9-d4bb2db30770" resname="MIR·33 | Pearl Dragon | Card Name">
@@ -202,14 +202,14 @@
         <target state="translated">珍珠龙</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="41ac3411-3286-4698-b5d9-d4bb2db30770" resname="MIR·33 | Pearl Dragon | Card Text | Paragraph 1">
+      <trans-unit id="41ac3411-3286-4698-b5d9-d4bb2db30770" resname="MIR·33 | Pearl Dragon | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flying</source>
-        <target state="translated">飞行</target>
+        <target state="final">飞行</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="41ac3411-3286-4698-b5d9-d4bb2db30770" resname="MIR·33 | Pearl Dragon | Card Text | Paragraph 2">
+      <trans-unit id="41ac3411-3286-4698-b5d9-d4bb2db30770" resname="MIR·33 | Pearl Dragon | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{1}{W}: CARDNAME gets +0/+1 until end of turn.</source>
-        <target state="translated">o1oW：CARDNAME得+0/+1直到回合结束。</target>
+        <target state="final">{1}{W}：CARDNAME得+0/+1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="8d4e3de4-f173-4bcc-a5fb-089eee7108d3" resname="MIR·34 | Prismatic Circle | Card Name">
@@ -2672,6 +2672,18 @@
       <trans-unit id="51f30a3d-1421-4706-b17f-39a9ec7a0d8b" resname="MIR·29 | Mtenda Herder | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</source>
         <target state="final">侧面攻击（每当一个不具侧面攻击异能的生物阻挡此生物时，该阻挡的生物得-1/-1直到回合结束。）</target>
+      </trans-unit>
+      <trans-unit id="8d4e3de4-f173-4bcc-a5fb-089eee7108d3" resname="MIR·34 | Prismatic Circle | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</source>
+        <target state="final">累积维持{1}（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物支付其维持费用，否则牺牲之。）</target>
+      </trans-unit>
+      <trans-unit id="ad0ece98-5506-4a18-b900-8d1a6cd87385" resname="MIR·8 | Dazzling Beauty | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Target unblocked attacking creature becomes blocked. (This spell works on creatures that can't be blocked.)</source>
+        <target state="final">目标进行攻击且未受阻挡的生物成为被阻挡。（此咒语对不能被阻挡的生物同样有效。）</target>
+      </trans-unit>
+      <trans-unit id="75629aa3-426e-4e25-a7ab-71e03436e061" resname="MIR·12 | Divine Retribution | Card Text | Paragraph 1" xml:space="preserve">
+        <source>CARDNAME deals damage to target attacking creature equal to the number of attacking creatures.</source>
+        <target state="translated">CARDNAME对目标进行攻击的生物造成等同于进行攻击的生物数量的伤害。</target>
       </trans-unit>
     </body>
   </file>
