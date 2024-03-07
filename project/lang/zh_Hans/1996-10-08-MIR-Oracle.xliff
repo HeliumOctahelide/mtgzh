@@ -542,9 +542,9 @@
         <target state="translated">神秘导师</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
-      <trans-unit id="5d98101f-e32a-4a4a-a649-faa920d111ee" resname="MIR·80 | Mystical Tutor | Card Text | Paragraph 1">
+      <trans-unit id="5d98101f-e32a-4a4a-a649-faa920d111ee" resname="MIR·80 | Mystical Tutor | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top.</source>
-        <target state="translated">从你牌库中搜寻一张瞬间或法术牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
+        <target state="final">从你牌库中搜寻一张瞬间或法术牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="3e56e720-5e8b-4685-969c-e073de78b9a1" resname="MIR·81 | Political Trickery | Card Name">
@@ -557,9 +557,9 @@
         <target state="translated">型态转变</target>
         <note xmlns:from="developer">中文数据来自M10（2009-07-17）；</note>
       </trans-unit>
-      <trans-unit id="fbae8702-a152-4c53-8a76-691a221f2475" resname="MIR·82 | Polymorph | Card Text | Paragraph 1">
+      <trans-unit id="fbae8702-a152-4c53-8a76-691a221f2475" resname="MIR·82 | Polymorph | Card Text | Paragraph 1" xml:space="preserve">
         <source>Destroy target creature. It can't be regenerated. Its controller reveals cards from the top of their library until they reveal a creature card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into their library.</source>
-        <target state="translated">消灭目标生物。 它不能重生。 其操控者自他的牌库顶开始展示牌，直到展示出一张生物牌为止。 该牌手将该牌放进战场，然后将所有其他以此法展示的牌洗入其牌库中。</target>
+        <target state="translated">消灭目标生物。它不能重生。其操控者从他的牌库顶开始展示牌，直到展示一张生物牌为止。该牌手将该牌放进战场，然后将所有其他以此法展示的牌洗入其牌库。</target>
         <note xmlns:from="developer">中文数据来自M10（2009-07-17）；</note>
       </trans-unit>
       <trans-unit id="d1129585-6d59-4217-9404-747a100f1e8c" resname="MIR·84 | Prismatic Lace | Card Name">
@@ -572,9 +572,9 @@
         <target state="translated">心灵转换</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="5507c474-5c4b-4292-b7bc-3ab4b48ea290" resname="MIR·85 | Psychic Transfer | Card Text | Paragraph 1">
+      <trans-unit id="5507c474-5c4b-4292-b7bc-3ab4b48ea290" resname="MIR·85 | Psychic Transfer | Card Text | Paragraph 1" xml:space="preserve">
         <source>If the difference between your life total and target player's life total is 5 or less, exchange life totals with that player.</source>
-        <target state="translated">如果你的总生命与目标牌手的总生命相差5点或更少，则与该牌手交换总生命。</target>
+        <target state="translated">如果你的总生命与目标牌手的总生命差值为5点或更少，则与该牌手交换总生命。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="c5b94eed-2a45-4a6b-a06b-a2021b174bc5" resname="MIR·87 | Reality Ripple | Card Name">
@@ -777,9 +777,9 @@
         <target state="translated">凶猛怪影</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="672e2d34-1aae-47c7-8b7a-e3354bbbd662" resname="MIR·122 | Feral Shadow | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="672e2d34-1aae-47c7-8b7a-e3354bbbd662" resname="MIR·122 | Feral Shadow | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flying</source>
-        <target state="translated">飞行</target>
+        <target state="final">飞行</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="4be39d50-1e36-4dac-a923-81fc9f229b8d" resname="MIR·123 | Fetid Horror | Card Name">
@@ -2793,9 +2793,9 @@
         <source>Flying</source>
         <target state="final">飞行</target>
       </trans-unit>
-      <trans-unit id="e41c15fb-01a1-446e-9e88-71e8e95d9bce" resname="MIR·113 | Choking Sands | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="e41c15fb-01a1-446e-9e88-71e8e95d9bce" resname="MIR·113 | Choking Sands | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Destroy target non-Swamp land. If that land was nonbasic, CARDNAME deals 2 damage to the land's controller.</source>
-        <target state="translated">消灭目标非沼泽地。如果该地为非基本地，则CARDNAME对该地的操控者造成2点伤害。</target>
+        <target state="final">消灭目标非沼泽地。如果该地为非基本地，则CARDNAME对该地的操控者造成2点伤害。</target>
       </trans-unit>
       <trans-unit id="4f7bcd36-13e2-4ac7-a449-246cecb3fc0f" resname="MIR·114 | Crypt Cobra | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Whenever CARDNAME attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)</source>
@@ -2837,9 +2837,9 @@
         <source>Flying</source>
         <target state="final">飞行</target>
       </trans-unit>
-      <trans-unit id="06d94b21-7568-4e5c-a8ec-ff5bb48a4f36" resname="MIR·142 | Shauku, Endbringer | Card Text | Paragraph 2" xml:space="preserve">
+      <trans-unit id="06d94b21-7568-4e5c-a8ec-ff5bb48a4f36" resname="MIR·142 | Shauku, Endbringer | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>CARDNAME can't attack if there's another creature on the battlefield.</source>
-        <target state="translated">如果战场上有其他生物，则CARDNAME不能攻击。</target>
+        <target state="final">如果战场上有其他生物，则CARDNAME不能攻击。</target>
       </trans-unit>
       <trans-unit id="96267012-24da-43ae-97af-69ca3d7704f8" resname="MIR·43 | Teremko Griffin | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</source>
@@ -2857,13 +2857,13 @@
         <source>Destroy target creature if it's white. A creature destroyed this way can't be regenerated.</source>
         <target state="final">如果目标生物是白色，则消灭之。以此法消灭的生物不能重生。</target>
       </trans-unit>
-      <trans-unit id="7fa084e1-05c2-4691-b9fe-3e3c717e5c9d" resname="MIR·144 | Soul Rend | Card Text | Paragraph 2" xml:space="preserve">
+      <trans-unit id="7fa084e1-05c2-4691-b9fe-3e3c717e5c9d" resname="MIR·144 | Soul Rend | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Draw a card at the beginning of the next turn's upkeep.</source>
-        <target state="translated">在下一个回合维持开始时，抓一张牌。</target>
+        <target state="final">在下一个回合维持开始时，抓一张牌。</target>
       </trans-unit>
-      <trans-unit id="5c3bf717-2b88-4704-a7e9-f62dbb3d3d3d" resname="MIR·145 | Soulshriek | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="5c3bf717-2b88-4704-a7e9-f62dbb3d3d3d" resname="MIR·145 | Soulshriek | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Target creature you control gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. Sacrifice that creature at the beginning of the next end step.</source>
-        <target state="translated">目标由你操控的生物得+X/+0直到回合结束，X为你坟墓场中生物牌的数量。在下一个结束步骤开始时，牺牲该生物。</target>
+        <target state="final">目标由你操控的生物得+X/+0直到回合结束，X为你坟墓场中生物牌的数量。在下一个结束步骤开始时，牺牲该生物。</target>
       </trans-unit>
       <trans-unit id="fd25787d-b90c-4b25-8259-1ac41d4dcd15" resname="MIR·46 | Wall of Resistance | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
         <source>At the beginning of each end step, if CARDNAME was dealt damage this turn, put a +0/+1 counter on it.</source>
@@ -3013,9 +3013,9 @@
         <source>Enchant red or green creature</source>
         <target state="final">结附于红色或绿色生物</target>
       </trans-unit>
-      <trans-unit id="5bf17780-801d-4ab8-91f4-a803ede51395" resname="MIR·78 | Mind Harness | Card Text | Paragraph 2" xml:space="preserve">
+      <trans-unit id="5bf17780-801d-4ab8-91f4-a803ede51395" resname="MIR·78 | Mind Harness | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</source>
-        <target state="translated">累积维持{1}（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物支付其维持费用，否则牺牲之。）</target>
+        <target state="final">累积维持{1}（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物支付其维持费用，否则牺牲之。）</target>
       </trans-unit>
     </body>
   </file>
