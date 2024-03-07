@@ -2977,6 +2977,46 @@
         <source>Cumulative upkeep {1}{B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</source>
         <target state="final">累积维持{1}{B}（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物支付其维持费用，否则牺牲之。）</target>
       </trans-unit>
+      <trans-unit id="3e0c085a-e17d-4003-bb58-f97555365fcf" resname="MIR·70 | Jolt | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Draw a card at the beginning of the next turn's upkeep.</source>
+        <target state="final">在下一个回合维持开始时，抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="d10b5ce7-16c9-48f3-a1da-8a91092d053a" resname="MIR·71 | Kukemssa Pirates | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Whenever CARDNAME attacks and isn't blocked, you may gain control of target artifact defending player controls. If you do, CARDNAME assigns no combat damage this turn.</source>
+        <target state="final">每当CARDNAME攻击且未受阻挡时，你可以获得目标由防御牌手操控之神器的操控权。若你如此作，CARDNAME本回合中不分配战斗伤害。</target>
+      </trans-unit>
+      <trans-unit id="9099eacf-1898-493c-ae87-d5ff4a3646a2" resname="MIR·72 | Kukemssa Serpent | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>CARDNAME can't attack unless defending player controls an Island.</source>
+        <target state="final">除非防御牌手操控海岛，否则CARDNAME不能攻击。</target>
+      </trans-unit>
+      <trans-unit id="9099eacf-1898-493c-ae87-d5ff4a3646a2" resname="MIR·72 | Kukemssa Serpent | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{U}, Sacrifice an Island: Target land an opponent controls becomes an Island until end of turn.</source>
+        <target state="final">{U}，牺牲一个海岛：目标由对手操控的地成为海岛直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="9099eacf-1898-493c-ae87-d5ff4a3646a2" resname="MIR·72 | Kukemssa Serpent | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>When you control no Islands, sacrifice CARDNAME.</source>
+        <target state="final">当你未操控海岛时，牺牲CARDNAME。</target>
+      </trans-unit>
+      <trans-unit id="d0f34166-8946-4bcc-84af-3540c42ac7f7" resname="MIR·75 | Merfolk Raiders | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)</source>
+        <target state="final">海岛行者（只要防御牌手操控海岛，此生物便不能被阻挡。）</target>
+      </trans-unit>
+      <trans-unit id="d0f34166-8946-4bcc-84af-3540c42ac7f7" resname="MIR·75 | Merfolk Raiders | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)</source>
+        <target state="final">时间跳跃（于其操控者的重置步骤中重置之前，它跃回或跃离。它于跃离期间视作不存在。）</target>
+      </trans-unit>
+      <trans-unit id="63139890-e860-4791-9bb6-b79bb361ef8b" resname="MIR·76 | Merfolk Seer | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>When CARDNAME dies, you may pay {1}{U}. If you do, draw a card.</source>
+        <target state="final">当CARDNAME死去时，你可以支付{1}{U}。若你如此作，则抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="5bf17780-801d-4ab8-91f4-a803ede51395" resname="MIR·78 | Mind Harness | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Enchant red or green creature</source>
+        <target state="final">结附于红色或绿色生物</target>
+      </trans-unit>
+      <trans-unit id="5bf17780-801d-4ab8-91f4-a803ede51395" resname="MIR·78 | Mind Harness | Card Text | Paragraph 2" xml:space="preserve">
+        <source>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</source>
+        <target state="translated">累积维持{1}（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物支付其维持费用，否则牺牲之。）</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
