@@ -267,19 +267,19 @@
         <target state="translated">日光之网</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
-      <trans-unit id="4b4dc838-3022-42f1-bc92-8e8358c27ea4" resname="MIR·42 | Sunweb | Card Text | Paragraph 1">
+      <trans-unit id="4b4dc838-3022-42f1-bc92-8e8358c27ea4" resname="MIR·42 | Sunweb | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Defender (This creature can't attack.)</source>
-        <target state="translated">（墙不能攻击）</target>
+        <target state="final">守军（此生物不能攻击。）</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
-      <trans-unit id="4b4dc838-3022-42f1-bc92-8e8358c27ea4" resname="MIR·42 | Sunweb | Card Text | Paragraph 2">
+      <trans-unit id="4b4dc838-3022-42f1-bc92-8e8358c27ea4" resname="MIR·42 | Sunweb | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Flying</source>
-        <target state="translated">飞行（此生物可以阻挡具飞行异能的生物。）</target>
+        <target state="final">飞行</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
-      <trans-unit id="4b4dc838-3022-42f1-bc92-8e8358c27ea4" resname="MIR·42 | Sunweb | Card Text | Paragraph 3">
+      <trans-unit id="4b4dc838-3022-42f1-bc92-8e8358c27ea4" resname="MIR·42 | Sunweb | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
         <source>CARDNAME can't block creatures with power 2 or less.</source>
-        <target state="translated">CARDNAME不能阻挡力量小于或等于2的生物。</target>
+        <target state="final">CARDNAME不能阻挡力量小于或等于2的生物。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="96267012-24da-43ae-97af-69ca3d7704f8" resname="MIR·43 | Teremko Griffin | Card Name">
@@ -2820,6 +2820,26 @@
       <trans-unit id="2a0bea61-8fd2-4802-90b4-651bebbe9638" resname="MIR·41 | Spectral Guardian | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>As long as CARDNAME is untapped, noncreature artifacts have shroud. (They can't be the targets of spells or abilities.)</source>
         <target state="final">只要CARDNAME未横置，非生物的神器便具有帷幕异能。（它们不能成为咒语或异能的目标。）</target>
+      </trans-unit>
+      <trans-unit id="a237cff4-af6f-4745-bda1-e3ed2267fa89" resname="MIR·138 | Restless Dead | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{B}: Regenerate CARDNAME.</source>
+        <target state="final">{B}：重生CARDNAME。</target>
+      </trans-unit>
+      <trans-unit id="42fe08c3-5024-486c-ba03-19d371ceccb0" resname="MIR·139 | Sewer Rats | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{B}, Pay 1 life: CARDNAME gets +1/+0 until end of turn. Activate no more than three times each turn.</source>
+        <target state="final">{B}，支付1点生命：CARDNAME得+1/+0直到回合结束。此异能每回合中最多只能起动三次。</target>
+      </trans-unit>
+      <trans-unit id="d5c782cc-c951-4c6f-a93f-774ae6c1c214" resname="MIR·141 | Shallow Grave | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.</source>
+        <target state="final">将你坟墓场顶起第一张生物牌移回战场。该生物获得敏捷异能直到回合结束。在下一个结束步骤开始时将它放逐。</target>
+      </trans-unit>
+      <trans-unit id="06d94b21-7568-4e5c-a8ec-ff5bb48a4f36" resname="MIR·142 | Shauku, Endbringer | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="06d94b21-7568-4e5c-a8ec-ff5bb48a4f36" resname="MIR·142 | Shauku, Endbringer | Card Text | Paragraph 2" xml:space="preserve">
+        <source>CARDNAME can't attack if there's another creature on the battlefield.</source>
+        <target state="translated">CARDNAME于战场上有其他生物时不能攻击。</target>
       </trans-unit>
     </body>
   </file>
