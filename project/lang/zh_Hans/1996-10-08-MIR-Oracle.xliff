@@ -3055,7 +3055,19 @@
       </trans-unit>
       <trans-unit id="30b09e65-5e69-48f8-be9b-a1e9706f18bf" resname="MIR·170 | Dwarven Nomad | Card Text | Paragraph 1" xml:space="preserve">
         <source>{T}: Target creature with power 2 or less can't be blocked this turn.</source>
-        <target state="translated">{T}：目标力量小于等于2的生物本回合不能被阻挡。</target>
+        <target state="translated">{T}：目标力量等于或小于2的生物本回合不能被阻挡。</target>
+      </trans-unit>
+      <trans-unit id="f8fe2f99-7ec2-490c-8ec3-aa2fb4680826" resname="MIR·149 | Tombstone Stairwell | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>At the beginning of each upkeep, if CARDNAME is on the battlefield, each player creates a 2/2 black Zombie creature token with haste named Tombspawn for each creature card in their graveyard.</source>
+        <target state="final">在每个维持开始时，若CARDNAME在战场上，对每位牌手而言，其坟墓场中每有一张生物牌，他便派出一个2/2黑色，名称为墓涌行尸，具敏捷异能的灵俑衍生生物。</target>
+      </trans-unit>
+      <trans-unit id="edc9ff0f-adec-4d39-b281-98c5862f506b" resname="MIR·150 | Urborg Panther | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{B}, Sacrifice CARDNAME: Destroy target creature blocking CARDNAME.</source>
+        <target state="final">{B}，牺牲CARDNAME：消灭目标阻挡CARDNAME的生物。</target>
+      </trans-unit>
+      <trans-unit id="edc9ff0f-adec-4d39-b281-98c5862f506b" resname="MIR·150 | Urborg Panther | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Sacrifice a creature named Feral Shadow, a creature named Breathstealer, and CARDNAME: Search your library for a card named Spirit of the Night, put that card onto the battlefield, then shuffle.</source>
+        <target state="final">牺牲一个名称为凶猛怪影的生物、一个名称为窃息者的生物以及CARDNAME：从你的牌库中搜寻一张名称为夜之灵的牌，将它放进战场，然后洗牌。</target>
       </trans-unit>
     </body>
   </file>
