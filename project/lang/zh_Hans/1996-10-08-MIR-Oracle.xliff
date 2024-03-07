@@ -3049,6 +3049,14 @@
         <source>Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)</source>
         <target state="final">时间跳跃（于其操控者的重置步骤中重置之前，它跃回或跃离。它于跃离期间视作不存在。）</target>
       </trans-unit>
+      <trans-unit id="b7142196-c379-4932-9402-97642ad2ebdb" resname="MIR·169 | Dwarven Miner | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{2}{R}, {T}: Destroy target nonbasic land.</source>
+        <target state="final">{2}{R}，{T}：消灭目标非基本地。</target>
+      </trans-unit>
+      <trans-unit id="30b09e65-5e69-48f8-be9b-a1e9706f18bf" resname="MIR·170 | Dwarven Nomad | Card Text | Paragraph 1" xml:space="preserve">
+        <source>{T}: Target creature with power 2 or less can't be blocked this turn.</source>
+        <target state="translated">{T}：目标力量小于等于2的生物本回合不能被阻挡。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
