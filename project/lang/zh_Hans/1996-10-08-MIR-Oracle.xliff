@@ -2653,9 +2653,13 @@
         <source>As CARDNAME enters the battlefield, choose black or red.</source>
         <target state="final">于CARDNAME进战场时，选择黑色或红色。</target>
       </trans-unit>
-      <trans-unit id="6d796153-3f7f-4d94-8ad4-5a4b2c8e09bb" resname="MIR·26 | Mangara's Equity | Card Text | Paragraph 2" xml:space="preserve">
+      <trans-unit id="6d796153-3f7f-4d94-8ad4-5a4b2c8e09bb" resname="MIR·26 | Mangara's Equity | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>At the beginning of your upkeep, sacrifice CARDNAME unless you pay {1}{W}.</source>
-        <target state="translated">在你的维持开始时，除非你支付{1}{W}，否则牺牲~。</target>
+        <target state="final">在你的维持开始时，除非你支付{1}{W}，否则牺牲CARDNAME。</target>
+      </trans-unit>
+      <trans-unit id="7f6f9ec3-6033-4cd4-a52e-31a559559a93" resname="MIR·3 | Auspicious Ancestor | Card Text | Paragraph 2" xml:space="preserve">
+        <source>Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.</source>
+        <target state="translated">每当一名牌手施放白色咒语时，你可以支付{1}。若你如此作，你获得1点生命。</target>
       </trans-unit>
     </body>
   </file>
