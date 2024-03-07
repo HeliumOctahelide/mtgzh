@@ -2839,7 +2839,11 @@
       </trans-unit>
       <trans-unit id="06d94b21-7568-4e5c-a8ec-ff5bb48a4f36" resname="MIR·142 | Shauku, Endbringer | Card Text | Paragraph 2" xml:space="preserve">
         <source>CARDNAME can't attack if there's another creature on the battlefield.</source>
-        <target state="translated">CARDNAME于战场上有其他生物时不能攻击。</target>
+        <target state="translated">如果战场上有其他生物，则CARDNAME不能攻击。</target>
+      </trans-unit>
+      <trans-unit id="96267012-24da-43ae-97af-69ca3d7704f8" resname="MIR·43 | Teremko Griffin | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</source>
+        <target state="final">飞行；结合（任意数量具结合异能的攻击生物以及至多一个不具结合异能的攻击生物可以组成攻击团队。团队作为一个整体被阻挡。如果由你操控且具结合异能的生物阻挡生物或被生物阻挡，后者向被它阻挡或阻挡它的生物造成的战斗伤害由你而非该生物的操控者分配。）</target>
       </trans-unit>
     </body>
   </file>
