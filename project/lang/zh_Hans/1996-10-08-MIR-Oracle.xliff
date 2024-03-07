@@ -2797,6 +2797,18 @@
         <source>Destroy target non-Swamp land. If that land was nonbasic, CARDNAME deals 2 damage to the land's controller.</source>
         <target state="translated">消灭目标非沼泽地。如果该地为非基本地，则CARDNAME对该地的操控者造成2点伤害。</target>
       </trans-unit>
+      <trans-unit id="4f7bcd36-13e2-4ac7-a449-246cecb3fc0f" resname="MIR·114 | Crypt Cobra | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Whenever CARDNAME attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)</source>
+        <target state="final">每当CARDNAME攻击且未受阻挡时，防御牌手得到一个中毒指示物。（具有十个或更多中毒指示物的牌手会输掉这盘游戏。）</target>
+      </trans-unit>
+      <trans-unit id="4704bf02-c6be-4983-9bc7-a1d464d21b31" resname="MIR·135 | Purraj of Urborg | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Whenever a player casts a black spell, you may pay {B}. If you do, put a +1/+1 counter on CARDNAME.</source>
+        <target state="final">每当任一牌手施放黑色咒语时，你可以支付{B}。若你如此作，在CARDNAME上放置一个+1/+1指示物。</target>
+      </trans-unit>
+      <trans-unit id="5ee67033-7f0f-49b4-8472-3bc4fbb8ffe1" resname="MIR·136 | Ravenous Vampire | Card Text | Paragraph 2" xml:space="preserve">
+        <source>At the beginning of your upkeep, you may sacrifice a nonartifact creature. If you do, put a +1/+1 counter on CARDNAME. If you don't, tap CARDNAME.</source>
+        <target state="translated">在你的维持开始时，你可以牺牲一个非神器的生物。若你如此作，在CARDNAME上放置一个+1/+1指示物。若你未如此作，重置CARDNAME。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
