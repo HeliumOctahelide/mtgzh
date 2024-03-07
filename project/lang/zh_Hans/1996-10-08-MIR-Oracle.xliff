@@ -2729,9 +2729,9 @@
         <source>Whenever CARDNAME attacks, tap target creature defending player controls.</source>
         <target state="final">每当CARDNAME攻击时，横置目标由防御牌手操控的生物。</target>
       </trans-unit>
-      <trans-unit id="cb6f9427-ef5c-49fd-81e1-ddf130d69da0" resname="MIR·40 | Soul Echo | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="cb6f9427-ef5c-49fd-81e1-ddf130d69da0" resname="MIR·40 | Soul Echo | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield with X echo counters on it.</source>
-        <target state="translated">~进战场时上面有X个返响指示物。</target>
+        <target state="final">CARDNAME进战场时上面有X个返响指示物。</target>
       </trans-unit>
       <trans-unit id="8192bca7-03e5-4ea1-ae77-8bc811c19417" resname="MIR·68 | Hakim, Loreweaver | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flying</source>
@@ -2772,6 +2772,10 @@
       <trans-unit id="8192bca7-03e5-4ea1-ae77-8bc811c19417" resname="MIR·68 | Hakim, Loreweaver | Card Text | Paragraph 3" xml:space="preserve">
         <source>{U}{U}, {T}: Destroy all Auras attached to Hakim.</source>
         <target state="translated">{U}{U}，{T}：消灭所有贴附于哈金的灵气。</target>
+      </trans-unit>
+      <trans-unit id="0fbe8fa5-5ca8-43ce-863e-61802126e485" resname="MIR·38 | Shadowbane | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>The next time a source of your choice would deal damage to you and/or creatures you control this turn, prevent that damage. If damage from a black source is prevented this way, you gain that much life.</source>
+        <target state="final">选择一个来源，于本回合中，防止该来源下一次将对你和／或由你操控的生物造成的伤害。如果以此法防止了某个来源为黑色的伤害，则你获得等量的生命。</target>
       </trans-unit>
     </body>
   </file>
