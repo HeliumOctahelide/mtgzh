@@ -1771,9 +1771,9 @@
         <target state="translated">凶暴龙卷风</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
-      <trans-unit id="eb73313b-d39a-46ab-abfc-76f94a75dfca" resname="MIR·280 | Savage Twister | Card Text | Paragraph 1">
+      <trans-unit id="eb73313b-d39a-46ab-abfc-76f94a75dfca" resname="MIR·280 | Savage Twister | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME deals X damage to each creature.</source>
-        <target state="translated">CARDNAME对每个生物各造成X点伤害。</target>
+        <target state="final">CARDNAME对每个生物各造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自MM2（2015-05-22）；</note>
       </trans-unit>
       <trans-unit id="c24e74e9-ce88-48af-a113-b4fe76f963d4" resname="MIR·281 | Sawback Manticore | Card Name">
@@ -1836,14 +1836,14 @@
         <target state="translated">琥珀牢笼</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="046475e5-36d1-4b5f-af31-6df715c7a368" resname="MIR·292 | Amber Prison | Card Text | Paragraph 1">
+      <trans-unit id="046475e5-36d1-4b5f-af31-6df715c7a368" resname="MIR·292 | Amber Prison | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>You may choose not to untap CARDNAME during your untap step.</source>
-        <target state="translated">你可选择在重置步骤中不重置CARDNAME。</target>
+        <target state="final">你可以选择于你的重置步骤中不重置CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="046475e5-36d1-4b5f-af31-6df715c7a368" resname="MIR·292 | Amber Prison | Card Text | Paragraph 2">
+      <trans-unit id="046475e5-36d1-4b5f-af31-6df715c7a368" resname="MIR·292 | Amber Prison | Card Text | Paragraph 2" xml:space="preserve">
         <source>{4}, {T}: Tap target artifact, creature, or land. That permanent doesn't untap during its controller's untap step for as long as CARDNAME remains tapped.</source>
-        <target state="translated">o4，ocT：横置目标神器、生物或地。只要CARDNAME持续被横置，该永久物便不能在其操控者的重置步骤中重置。</target>
+        <target state="translated">{4}，{T}：横置目标神器，生物或地。于CARDNAME持续横置的时段内，该永久物于其操控者的重置步骤中不能重置。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="fdbd94c8-611c-4b20-99ca-dd2d7661d644" resname="MIR·293 | Amulet of Unmaking | Card Name">
@@ -1866,14 +1866,14 @@
         <target state="translated">炭黑钻石</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
-      <trans-unit id="2a81b3f1-babc-4bd7-8b87-754c8389ae85" resname="MIR·296 | Charcoal Diamond | Card Text | Paragraph 1">
+      <trans-unit id="2a81b3f1-babc-4bd7-8b87-754c8389ae85" resname="MIR·296 | Charcoal Diamond | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">CARDNAME须横置进战场。</target>
+        <target state="final">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
-      <trans-unit id="2a81b3f1-babc-4bd7-8b87-754c8389ae85" resname="MIR·296 | Charcoal Diamond | Card Text | Paragraph 2">
+      <trans-unit id="2a81b3f1-babc-4bd7-8b87-754c8389ae85" resname="MIR·296 | Charcoal Diamond | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}: Add {B}.</source>
-        <target state="translated">{T}：加{B}。</target>
+        <target state="final">{T}：加{B}。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="2e3bc470-cfcc-4835-b46f-c08d698ee1ab" resname="MIR·297 | Chariot of the Sun | Card Name">
@@ -1891,9 +1891,9 @@
         <target state="translated">诅咒图腾像</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
-      <trans-unit id="cc99ee76-45b6-4f1d-b0b0-7da8775ca90c" resname="MIR·299 | Cursed Totem | Card Text | Paragraph 1">
+      <trans-unit id="cc99ee76-45b6-4f1d-b0b0-7da8775ca90c" resname="MIR·299 | Cursed Totem | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Activated abilities of creatures can't be activated.</source>
-        <target state="translated">生物的起动式异能都不能起动。</target>
+        <target state="final">生物的起动式异能都不能起动。</target>
         <note xmlns:from="developer">中文数据来自MH2（2021-06-18）；</note>
       </trans-unit>
       <trans-unit id="60450239-6055-4561-9f8c-565b4e4d9cb1" resname="MIR·300 | Elixir of Vitality | Card Name">
@@ -1911,14 +1911,14 @@
         <target state="translated">焰红钻石</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
-      <trans-unit id="bcca5bbe-df01-45ea-a6ac-4e3d1cf237c8" resname="MIR·302 | Fire Diamond | Card Text | Paragraph 1">
+      <trans-unit id="bcca5bbe-df01-45ea-a6ac-4e3d1cf237c8" resname="MIR·302 | Fire Diamond | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">CARDNAME须横置进战场。</target>
+        <target state="final">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
-      <trans-unit id="bcca5bbe-df01-45ea-a6ac-4e3d1cf237c8" resname="MIR·302 | Fire Diamond | Card Text | Paragraph 2">
+      <trans-unit id="bcca5bbe-df01-45ea-a6ac-4e3d1cf237c8" resname="MIR·302 | Fire Diamond | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}: Add {R}.</source>
-        <target state="translated">{T}：加{R}。</target>
+        <target state="final">{T}：加{R}。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="f3558ddf-2bc6-4870-bd24-2467d870ffe5" resname="MIR·303 | Grinning Totem | Card Name">
@@ -1926,9 +1926,9 @@
         <target state="translated">微笑图腾像</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
-      <trans-unit id="f3558ddf-2bc6-4870-bd24-2467d870ffe5" resname="MIR·303 | Grinning Totem | Card Text | Paragraph 1">
+      <trans-unit id="f3558ddf-2bc6-4870-bd24-2467d870ffe5" resname="MIR·303 | Grinning Totem | Card Text | Paragraph 1" xml:space="preserve">
         <source>{2}, {T}, Sacrifice CARDNAME: Search target opponent's library for a card and exile it. Then that player shuffles. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard.</source>
-        <target state="translated">{2}，{T}，牺牲CARDNAME：从目标对手的牌库中搜寻一张牌，并将它移出对战。 然后该牌手将他的牌库洗牌。 直到你下个维持开始，你可以使用该牌。 在你下个维持开始时，若你尚未使用它，则将它置入其拥有者的坟墓场。</target>
+        <target state="translated">{2}，{T}，牺牲CARDNAME：从目标对手牌库中搜寻一张牌，将它放逐。然后该牌手洗牌。直到你的下一个维持开始，你可以使用该牌。在你下个维持开始时，若你未使用它，则将它置入其拥有者的坟墓场。</target>
         <note xmlns:from="developer">中文数据来自TSB（2006-10-06）；</note>
       </trans-unit>
       <trans-unit id="cf04f2cd-d9f8-4e0c-adaf-6d38bc14dd7a" resname="MIR·304 | Horrible Hordes | Card Name">
@@ -1946,9 +1946,9 @@
         <target state="translated">铅魔像</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="dc9afb9e-eab3-4969-9a44-2c01bf730e68" resname="MIR·306 | Lead Golem | Card Text | Paragraph 1">
+      <trans-unit id="dc9afb9e-eab3-4969-9a44-2c01bf730e68" resname="MIR·306 | Lead Golem | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Whenever CARDNAME attacks, it doesn't untap during its controller's next untap step.</source>
-        <target state="translated">每当CARDNAME进行攻击时，它在其操控者的下个重置步骤中不可重置。</target>
+        <target state="final">每当CARDNAME攻击时，它于其操控者的下一个重置步骤中不能重置。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="63bacc32-d6ba-420c-9b49-299c08e5fb39" resname="MIR·307 | Lion's Eye Diamond | Card Name">
@@ -1961,14 +1961,14 @@
         <target state="translated">魔力棱镜</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="81137c17-18b8-484e-8334-28f143c08177" resname="MIR·308 | Mana Prism | Card Text | Paragraph 1">
+      <trans-unit id="81137c17-18b8-484e-8334-28f143c08177" resname="MIR·308 | Mana Prism | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>{T}: Add {C}.</source>
-        <target state="translated">ocT：加一点无色法术力到你的法术力池中。</target>
+        <target state="final">{T}：加{C}。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="81137c17-18b8-484e-8334-28f143c08177" resname="MIR·308 | Mana Prism | Card Text | Paragraph 2">
+      <trans-unit id="81137c17-18b8-484e-8334-28f143c08177" resname="MIR·308 | Mana Prism | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{1}, {T}: Add one mana of any color.</source>
-        <target state="translated">o1，ocT：加一点任意颜色的法术力到你的法术力池中。</target>
+        <target state="final">{1}，{T}：加一点任意颜色的法术力。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="557ebacf-4a8f-4548-a142-533b7adfdac3" resname="MIR·309 | Mangara's Tome | Card Name">
@@ -1981,14 +1981,14 @@
         <target state="translated">乳白钻石</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
-      <trans-unit id="4731eb16-3088-4d4d-80a4-7e39d00c1a87" resname="MIR·310 | Marble Diamond | Card Text | Paragraph 1">
+      <trans-unit id="4731eb16-3088-4d4d-80a4-7e39d00c1a87" resname="MIR·310 | Marble Diamond | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">CARDNAME须横置进战场。</target>
+        <target state="final">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
-      <trans-unit id="4731eb16-3088-4d4d-80a4-7e39d00c1a87" resname="MIR·310 | Marble Diamond | Card Text | Paragraph 2">
+      <trans-unit id="4731eb16-3088-4d4d-80a4-7e39d00c1a87" resname="MIR·310 | Marble Diamond | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}: Add {W}.</source>
-        <target state="translated">{T}：加{W}。</target>
+        <target state="final">{T}：加{W}。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="f4c00691-26b1-4e7a-bdf5-4b15f0eb45ce" resname="MIR·311 | Misers' Cage | Card Name">
@@ -2001,14 +2001,14 @@
         <target state="translated">苔绿钻石</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
-      <trans-unit id="87cea56a-b64f-452a-8e4b-40363aabb452" resname="MIR·312 | Moss Diamond | Card Text | Paragraph 1">
+      <trans-unit id="87cea56a-b64f-452a-8e4b-40363aabb452" resname="MIR·312 | Moss Diamond | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">CARDNAME须横置进战场。</target>
+        <target state="final">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
-      <trans-unit id="87cea56a-b64f-452a-8e4b-40363aabb452" resname="MIR·312 | Moss Diamond | Card Text | Paragraph 2">
+      <trans-unit id="87cea56a-b64f-452a-8e4b-40363aabb452" resname="MIR·312 | Moss Diamond | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}: Add {G}.</source>
-        <target state="translated">{T}：加{G}。</target>
+        <target state="final">{T}：加{G}。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="89920b7a-fd56-4fa8-96c9-fb66c2af6fbf" resname="MIR·313 | Patagia Golem | Card Name">
@@ -2016,9 +2016,9 @@
         <target state="translated">翼翅魔像</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
-      <trans-unit id="89920b7a-fd56-4fa8-96c9-fb66c2af6fbf" resname="MIR·313 | Patagia Golem | Card Text | Paragraph 1">
+      <trans-unit id="89920b7a-fd56-4fa8-96c9-fb66c2af6fbf" resname="MIR·313 | Patagia Golem | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>{3}: CARDNAME gains flying until end of turn.</source>
-        <target state="translated">{3}：CARDNAME获得飞行异能直到回合结束。（只有具飞行异能的生物才能阻挡它。）</target>
+        <target state="final">{3}：CARDNAME获得飞行异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="3411c350-a940-4172-b558-f5dc44b4fb33" resname="MIR·314 | Paupers' Cage | Card Name">
@@ -2036,9 +2036,9 @@
         <target state="translated">非瑞克西亚地窖</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
-      <trans-unit id="0966a4e7-bf0f-4880-a4ba-8641fb7e4519" resname="MIR·316 | Phyrexian Vault | Card Text | Paragraph 1">
+      <trans-unit id="0966a4e7-bf0f-4880-a4ba-8641fb7e4519" resname="MIR·316 | Phyrexian Vault | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>{2}, {T}, Sacrifice a creature: Draw a card.</source>
-        <target state="translated">{2}，{T}，牺牲一个生物：抓一张牌。</target>
+        <target state="final">{2}，{T}，牺牲一个生物：抓一张牌。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="72562860-6097-4c63-9858-ae130805f4d6" resname="MIR·317 | Razor Pendulum | Card Name">
@@ -2056,14 +2056,14 @@
         <target state="translated">天蓝钻石</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
-      <trans-unit id="8959aef9-77bb-45a3-939e-324bd59aec89" resname="MIR·319 | Sky Diamond | Card Text | Paragraph 1">
+      <trans-unit id="8959aef9-77bb-45a3-939e-324bd59aec89" resname="MIR·319 | Sky Diamond | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">CARDNAME须横置进战场。</target>
+        <target state="final">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
-      <trans-unit id="8959aef9-77bb-45a3-939e-324bd59aec89" resname="MIR·319 | Sky Diamond | Card Text | Paragraph 2">
+      <trans-unit id="8959aef9-77bb-45a3-939e-324bd59aec89" resname="MIR·319 | Sky Diamond | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}: Add {U}.</source>
-        <target state="translated">{T}：加{U}。</target>
+        <target state="final">{T}：加{U}。</target>
         <note xmlns:from="developer">中文数据来自CLB（2022-06-10）；</note>
       </trans-unit>
       <trans-unit id="57e8971d-baeb-4e4f-8c4d-0e8109e4505e" resname="MIR·320 | Teeka's Dragon | Card Name">
@@ -2091,14 +2091,14 @@
         <target state="translated">腐败河流</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
-      <trans-unit id="7a78abdb-d1ac-49cb-a74b-9de21c06364a" resname="MIR·324 | Bad River | Card Text | Paragraph 1">
+      <trans-unit id="7a78abdb-d1ac-49cb-a74b-9de21c06364a" resname="MIR·324 | Bad River | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">CARDNAME须横置进战场。</target>
+        <target state="final">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
-      <trans-unit id="7a78abdb-d1ac-49cb-a74b-9de21c06364a" resname="MIR·324 | Bad River | Card Text | Paragraph 2">
+      <trans-unit id="7a78abdb-d1ac-49cb-a74b-9de21c06364a" resname="MIR·324 | Bad River | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}, Sacrifice CARDNAME: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</source>
-        <target state="translated">{T}，牺牲CARDNAME：从你牌库中搜寻一张海岛或沼泽牌，将之放进战场，然后洗牌。</target>
+        <target state="final">{T}，牺牲CARDNAME：从你牌库中搜寻一张海岛或沼泽牌，将之放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="1afb6e29-058e-44c5-a3fa-56c462f070a0" resname="MIR·325 | Crystal Vein | Card Name">
@@ -2106,14 +2106,14 @@
         <target state="translated">水晶矿脉</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
-      <trans-unit id="1afb6e29-058e-44c5-a3fa-56c462f070a0" resname="MIR·325 | Crystal Vein | Card Text | Paragraph 1">
+      <trans-unit id="1afb6e29-058e-44c5-a3fa-56c462f070a0" resname="MIR·325 | Crystal Vein | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>{T}: Add {C}.</source>
-        <target state="translated">{T}：加{1}到你的法术力池中。</target>
+        <target state="final">{T}：加{C}。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
-      <trans-unit id="1afb6e29-058e-44c5-a3fa-56c462f070a0" resname="MIR·325 | Crystal Vein | Card Text | Paragraph 2">
+      <trans-unit id="1afb6e29-058e-44c5-a3fa-56c462f070a0" resname="MIR·325 | Crystal Vein | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}, Sacrifice CARDNAME: Add {C}{C}.</source>
-        <target state="translated">{T}，牺牲CARDNAME：加{2}到你的法术力池中。</target>
+        <target state="final">{T}，牺牲CARDNAME：加{C}{C}。</target>
         <note xmlns:from="developer">中文数据来自C14（2014-11-07）；</note>
       </trans-unit>
       <trans-unit id="7b7610f3-f182-404e-80b9-ccd94e174db0" resname="MIR·326 | Flood Plain | Card Name">
@@ -2121,9 +2121,9 @@
         <target state="translated">洪泛平原</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
-      <trans-unit id="7b7610f3-f182-404e-80b9-ccd94e174db0" resname="MIR·326 | Flood Plain | Card Text | Paragraph 1">
+      <trans-unit id="7b7610f3-f182-404e-80b9-ccd94e174db0" resname="MIR·326 | Flood Plain | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME enters the battlefield tapped.</source>
-        <target state="translated">CARDNAME须横置进战场。</target>
+        <target state="final">CARDNAME须横置进战场。</target>
         <note xmlns:from="developer">中文数据来自DMC（2022-09-09）；</note>
       </trans-unit>
       <trans-unit id="7b7610f3-f182-404e-80b9-ccd94e174db0" resname="MIR·326 | Flood Plain | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
@@ -3283,7 +3283,7 @@
       </trans-unit>
       <trans-unit id="3a2bf39b-9665-426b-b618-eb731d24a1ee" resname="MIR·277 | Reflect Damage | Card Text | Paragraph 1" xml:space="preserve">
         <source>The next time a source of your choice would deal damage this turn, that damage is dealt to that source's controller instead.</source>
-        <target state="translated">选择一个来源。于本回合中，该来源下一次将对你造成的伤害改为对那个来源的操控者造成。</target>
+        <target state="translated">选择一个来源。于本回合中，该来源下一次将对你造成的伤害改为对该来源的操控者造成。</target>
       </trans-unit>
     </body>
   </file>
