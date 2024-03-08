@@ -1244,9 +1244,9 @@
         <target state="translated">塔路姆牛头怪</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="51657034-2c30-40a2-a215-a00277f01642" resname="MIR·196 | Talruum Minotaur | Card Text | Paragraph 1">
+      <trans-unit id="51657034-2c30-40a2-a215-a00277f01642" resname="MIR·196 | Talruum Minotaur | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Haste</source>
-        <target state="translated">敏捷（你操控此生物的该回合中，它便可以攻击以及ocT）</target>
+        <target state="final">敏捷</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="33cc89c8-a3ea-469e-b499-f48acec4f538" resname="MIR·197 | Telim'Tor | Card Name">
@@ -3105,9 +3105,9 @@
         <source>Target player reveals their hand. For each blue instant card revealed this way, that player discards that card unless they pay 4 life.</source>
         <target state="translated">目标牌手展示其手牌。每以此法展示出一张蓝色瞬间牌，该牌手除非支付4点生命，否则便弃掉该牌。</target>
       </trans-unit>
-      <trans-unit id="132e8aac-9698-45fa-8d64-b460fd5deffc" resname="MIR·195 | Subterranean Spirit | Card Text | Paragraph 2" xml:space="preserve">
+      <trans-unit id="132e8aac-9698-45fa-8d64-b460fd5deffc" resname="MIR·195 | Subterranean Spirit | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}: CARDNAME deals 1 damage to each creature without flying.</source>
-        <target state="translated">{T}：CARDNAME对每个不具有飞行异能的生物造成1点伤害。</target>
+        <target state="final">{T}：CARDNAME对每个不具飞行异能的生物各造成1点伤害。</target>
       </trans-unit>
       <trans-unit id="132e8aac-9698-45fa-8d64-b460fd5deffc" resname="MIR·195 | Subterranean Spirit | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Protection from red</source>
