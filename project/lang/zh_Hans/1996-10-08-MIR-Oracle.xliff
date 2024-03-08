@@ -3179,7 +3179,7 @@
       </trans-unit>
       <trans-unit id="79949237-dcce-4ac1-bdc6-7c6d8b5f5fde" resname="MIR·279 | Rock Basilisk | Card Text | Paragraph 1">
         <source>Whenever CARDNAME blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="20c5e4d6-b716-4994-b226-b1eb799bec25" resname="MIR·209 | Canopy Dragon | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Trample</source>
@@ -3195,7 +3195,7 @@
       </trans-unit>
       <trans-unit id="49b53861-97aa-4fff-9526-7d496d1717a4" resname="MIR·211 | Cycle of Life | Card Text | Paragraph 1" xml:space="preserve">
         <source>Return CARDNAME to its owner's hand: Target creature you cast this turn has base power and toughness 0/1 until your next upkeep. At the beginning of your next upkeep, put a +1/+1 counter on that creature.</source>
-        <target state="translated">将CARDNAME移回其拥有者手上：直到你的下个维持，你本回合施放的目标生物的基础力量和防御力变成0/1。在你的下个维持开始时，在那个生物上放置一个+1/+1指示物。</target>
+        <target state="translated">将CARDNAME移回其拥有者手上：直到你的下个维持，目标你本回合中施放的生物之基础力量与防御力为0/1。在你的下一个维持开始时，在该生物上放置一个+1/+1指示物。</target>
       </trans-unit>
     </body>
   </file>
