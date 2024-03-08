@@ -1484,19 +1484,19 @@
         <target state="translated">奎利恩地精</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
-      <trans-unit id="be9a64fb-1e8d-4ed8-b4c5-3d44db9c1d3b" resname="MIR·234 | Quirion Elves | Card Text | Paragraph 1">
+      <trans-unit id="be9a64fb-1e8d-4ed8-b4c5-3d44db9c1d3b" resname="MIR·234 | Quirion Elves | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>As CARDNAME enters the battlefield, choose a color.</source>
-        <target state="translated">于CARDNAME进场时，选择一个颜色。</target>
+        <target state="final">于CARDNAME进战场时，选择一种颜色。</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
-      <trans-unit id="be9a64fb-1e8d-4ed8-b4c5-3d44db9c1d3b" resname="MIR·234 | Quirion Elves | Card Text | Paragraph 2">
+      <trans-unit id="be9a64fb-1e8d-4ed8-b4c5-3d44db9c1d3b" resname="MIR·234 | Quirion Elves | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{T}: Add {G}.</source>
-        <target state="translated">ocT：加oG到你的法术力池中。</target>
+        <target state="final">{T}：加{G}。</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
-      <trans-unit id="be9a64fb-1e8d-4ed8-b4c5-3d44db9c1d3b" resname="MIR·234 | Quirion Elves | Card Text | Paragraph 3">
+      <trans-unit id="be9a64fb-1e8d-4ed8-b4c5-3d44db9c1d3b" resname="MIR·234 | Quirion Elves | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
         <source>{T}: Add one mana of the chosen color.</source>
-        <target state="translated">ocT：加一点该色的法术力到你的法术力池中。</target>
+        <target state="final">{T}：加一点该色的法术力。</target>
         <note xmlns:from="developer">中文数据来自INV（2000-10-02）；</note>
       </trans-unit>
       <trans-unit id="a9dd8043-4099-42bb-9d54-4efc8b38fe18" resname="MIR·235 | Rampant Growth | Card Name">
@@ -1504,9 +1504,9 @@
         <target state="translated">徒长</target>
         <note xmlns:from="developer">中文数据来自40K（2022-10-07）；</note>
       </trans-unit>
-      <trans-unit id="a9dd8043-4099-42bb-9d54-4efc8b38fe18" resname="MIR·235 | Rampant Growth | Card Text | Paragraph 1">
+      <trans-unit id="a9dd8043-4099-42bb-9d54-4efc8b38fe18" resname="MIR·235 | Rampant Growth | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</source>
-        <target state="translated">从你的牌库中搜寻一张基本地牌，将该牌横置放进战场，然后洗牌。</target>
+        <target state="final">从你牌库中搜寻一张基本地牌，将该牌横置放进战场，然后洗牌。</target>
         <note xmlns:from="developer">中文数据来自40K（2022-10-07）；</note>
       </trans-unit>
       <trans-unit id="26724a51-87dd-4159-b012-71598e4cf5eb" resname="MIR·237 | Roots of Life | Card Name">
@@ -1539,9 +1539,9 @@
         <target state="translated">潜行之虎</target>
         <note xmlns:from="developer">中文数据来自W17（2017-04-15）；</note>
       </trans-unit>
-      <trans-unit id="f12cc4e9-010a-4ff7-a026-dcb6113a36fb" resname="MIR·243 | Stalking Tiger | Card Text | Paragraph 1">
+      <trans-unit id="f12cc4e9-010a-4ff7-a026-dcb6113a36fb" resname="MIR·243 | Stalking Tiger | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME can't be blocked by more than one creature.</source>
-        <target state="translated">CARDNAME不能被一个以上的生物阻挡。</target>
+        <target state="final">CARDNAME不能被多于一个生物阻挡。</target>
         <note xmlns:from="developer">中文数据来自W17（2017-04-15）；</note>
       </trans-unit>
       <trans-unit id="43d90914-ddfc-49c2-8e58-fdc3693040f2" resname="MIR·244 | Superior Numbers | Card Name">
@@ -1569,14 +1569,14 @@
         <target state="translated">乌克塔比野猫</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
-      <trans-unit id="d0f287ff-1b1b-454a-9360-fac34c8e1f24" resname="MIR·248 | Uktabi Wildcats | Card Text | Paragraph 1">
+      <trans-unit id="d0f287ff-1b1b-454a-9360-fac34c8e1f24" resname="MIR·248 | Uktabi Wildcats | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME's power and toughness are each equal to the number of Forests you control.</source>
-        <target state="translated">CARDNAME的力量和防御力各等同于你所操控的树林之数量。</target>
+        <target state="final">CARDNAME的力量和防御力各等同于由你操控的树林数量。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
-      <trans-unit id="d0f287ff-1b1b-454a-9360-fac34c8e1f24" resname="MIR·248 | Uktabi Wildcats | Card Text | Paragraph 2">
+      <trans-unit id="d0f287ff-1b1b-454a-9360-fac34c8e1f24" resname="MIR·248 | Uktabi Wildcats | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{G}, Sacrifice a Forest: Regenerate CARDNAME.</source>
-        <target state="translated">绿，牺牲一张树林：重生CARDNAME。</target>
+        <target state="final">{G}，牺牲一个树林：重生CARDNAME。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="0861a73d-8810-42f7-b20a-a6dd53586220" resname="MIR·249 | Unseen Walker | Card Name">
@@ -1584,14 +1584,14 @@
         <target state="translated">隐身旅人</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="0861a73d-8810-42f7-b20a-a6dd53586220" resname="MIR·249 | Unseen Walker | Card Text | Paragraph 1">
+      <trans-unit id="0861a73d-8810-42f7-b20a-a6dd53586220" resname="MIR·249 | Unseen Walker | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)</source>
-        <target state="translated">树林行者（若防御牌手操控任何树林，则此生物无法被阻挡）</target>
+        <target state="final">树林行者（只要防御牌手操控树林，此生物便不能被阻挡。）</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="0861a73d-8810-42f7-b20a-a6dd53586220" resname="MIR·249 | Unseen Walker | Card Text | Paragraph 2">
+      <trans-unit id="0861a73d-8810-42f7-b20a-a6dd53586220" resname="MIR·249 | Unseen Walker | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{1}{G}{G}: Target creature gains forestwalk until end of turn.</source>
-        <target state="translated">o1oGoG：目标生物获得树林行者异能直到回合结束。</target>
+        <target state="final">{1}{G}{G}：目标生物获得树林行者异能直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="71bdd944-e86c-4e5e-b75c-9bbf4fb27ccd" resname="MIR·250 | Unyaro Bee Sting | Card Name">
@@ -1609,9 +1609,9 @@
         <target state="translated">草丛静待</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="5f91ec4e-6818-46f4-94da-f3f8c4489fb2" resname="MIR·252 | Waiting in the Weeds | Card Text | Paragraph 1">
+      <trans-unit id="5f91ec4e-6818-46f4-94da-f3f8c4489fb2" resname="MIR·252 | Waiting in the Weeds | Card Text | Paragraph 1" xml:space="preserve">
         <source>Each player creates a 1/1 green Cat creature token for each untapped Forest they control.</source>
-        <target state="translated">每位牌手计算他所操控之未横置树林的数量，并放置同样多的1/1绿色猫衍生物进场。</target>
+        <target state="translated">每位牌手派出若干1/1绿色猫衍生生物，其数量等同于由其操控且未横置的树林数量。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="aeb151d2-c313-44d2-972e-33487f070c23" resname="MIR·253 | Wall of Roots | Card Name">
@@ -1619,14 +1619,14 @@
         <target state="translated">根墙</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
-      <trans-unit id="aeb151d2-c313-44d2-972e-33487f070c23" resname="MIR·253 | Wall of Roots | Card Text | Paragraph 1">
+      <trans-unit id="aeb151d2-c313-44d2-972e-33487f070c23" resname="MIR·253 | Wall of Roots | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Defender</source>
-        <target state="translated">守军</target>
+        <target state="final">守军</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
-      <trans-unit id="aeb151d2-c313-44d2-972e-33487f070c23" resname="MIR·253 | Wall of Roots | Card Text | Paragraph 2">
+      <trans-unit id="aeb151d2-c313-44d2-972e-33487f070c23" resname="MIR·253 | Wall of Roots | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Put a -0/-1 counter on CARDNAME: Add {G}. Activate only once each turn.</source>
-        <target state="translated">在CARDNAME上放置一个-0/-1指示物：加{G}。每回合只能起动一次。</target>
+        <target state="final">在CARDNAME上放置一个-0/-1指示物：加{G}。每回合只能起动一次。</target>
         <note xmlns:from="developer">中文数据来自NCC（2022-04-29）；</note>
       </trans-unit>
       <trans-unit id="7809131c-747c-4c33-a3ca-13e573a92b66" resname="MIR·254 | Wild Elephant | Card Name">
@@ -1639,9 +1639,9 @@
         <target state="translated">处世导师</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
-      <trans-unit id="f00115bc-b551-4bf5-a121-bebb37201575" resname="MIR·255 | Worldly Tutor | Card Text | Paragraph 1">
+      <trans-unit id="f00115bc-b551-4bf5-a121-bebb37201575" resname="MIR·255 | Worldly Tutor | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Search your library for a creature card, reveal it, then shuffle and put the card on top.</source>
-        <target state="translated">从你牌库中搜寻一张生物牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
+        <target state="final">从你牌库中搜寻一张生物牌，展示该牌，然后洗牌，并将该牌置于牌库顶。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="a7d64600-84fc-42a5-a6a6-b26f98fac0a4" resname="MIR·256 | Asmira, Holy Avenger | Card Name">
@@ -2661,9 +2661,9 @@
         <source>Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.</source>
         <target state="final">每当任一牌手施放白色咒语时，你可以支付{1}。若你如此作，你获得1点生命。</target>
       </trans-unit>
-      <trans-unit id="6d796153-3f7f-4d94-8ad4-5a4b2c8e09bb" resname="MIR·26 | Mangara's Equity | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+      <trans-unit id="6d796153-3f7f-4d94-8ad4-5a4b2c8e09bb" resname="MIR·26 | Mangara's Equity | Card Text | Paragraph 3" xml:space="preserve" approved="no">
         <source>Whenever a creature of the chosen color deals damage to you or a white creature you control, CARDNAME deals that much damage to that creature.</source>
-        <target state="final">每当一个具所选颜色的生物对你或一个由你操控的白色生物造成伤害时，CARDNAME对该生物造成等量的伤害。</target>
+        <target state="translated">每当一个该色生物对你或一个由你操控的白色生物造成伤害时，CARDNAME对该生物造成等量的伤害。</target>
       </trans-unit>
       <trans-unit id="2a243bd7-af98-4e44-af6e-3b0b71d4837b" resname="MIR·4 | Benevolent Unicorn | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>If a spell would deal damage to a permanent or player, it deals that much damage minus 1 to that permanent or player instead.</source>
@@ -3275,7 +3275,7 @@
       </trans-unit>
       <trans-unit id="59ce9668-78ef-44a5-ba9c-49fa740b8cb5" resname="MIR·233 | Preferred Selection | Card Text | Paragraph 1" xml:space="preserve">
         <source>At the beginning of your upkeep, look at the top two cards of your library. You may sacrifice CARDNAME and pay {2}{G}{G}. If you do, put one of those cards into your hand. If you don't, put one of those cards on the bottom of your library.</source>
-        <target state="translated">在你的维持开始时，检视你牌库顶的两张牌。你可以牺牲CARDNAME并支付{2}{G}{G}。如你如此做，则将其中的一张牌放入你的手牌。如你未为此做，则将其中的一张牌放至牌库底。</target>
+        <target state="translated">在你的维持开始时，检视你牌库顶的两张牌。你可以牺牲CARDNAME并支付{2}{G}{G}。若你如此作，则将其中一张牌置于你手上。若你未如此作，则将其中一张牌置于牌库底。</target>
       </trans-unit>
       <trans-unit id="7b5aa60d-91aa-4eee-9d13-55a357c8eced" resname="MIR·232 | Nettletooth Djinn | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>At the beginning of your upkeep, CARDNAME deals 1 damage to you.</source>
