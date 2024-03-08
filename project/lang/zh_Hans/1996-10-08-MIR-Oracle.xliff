@@ -1449,9 +1449,9 @@
         <target state="translated">玛洛</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
-      <trans-unit id="bcfec2de-cff3-4015-9a43-a58be525a2da" resname="MIR·228 | Maro | Card Text | Paragraph 1">
+      <trans-unit id="bcfec2de-cff3-4015-9a43-a58be525a2da" resname="MIR·228 | Maro | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME's power and toughness are each equal to the number of cards in your hand.</source>
-        <target state="translated">CARDNAME的力量和防御力各等同于你的手牌数量。</target>
+        <target state="final">CARDNAME的力量和防御力各等同于你的手牌数量。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="f41066eb-be5e-4a6d-9156-64f5e56c7ab3" resname="MIR·229 | Mindbender Spores | Card Name">
@@ -3243,7 +3243,7 @@
       </trans-unit>
       <trans-unit id="f17f81b9-1fa1-4062-a9b3-048179274c05" resname="MIR·224 | Jungle Wurm | Card Text | Paragraph 1" xml:space="preserve">
         <source>Whenever CARDNAME becomes blocked, it gets -1/-1 until end of turn for each creature blocking it beyond the first.</source>
-        <target state="translated">每当CARDNAME被阻挡，它在第一个阻挡者之外每有一个阻挡者，便得-1/-1直到回合结束。</target>
+        <target state="translated">每当CARDNAME被阻挡时，在第一个阻挡它的生物之外每有一个阻挡它的生物，它便得-1/-1直到回合结束。</target>
       </trans-unit>
     </body>
   </file>
