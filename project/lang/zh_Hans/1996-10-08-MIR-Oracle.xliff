@@ -3149,9 +3149,13 @@
         <source>At the beginning of your upkeep, move a +1/+1 counter from CARDNAME onto target creature.</source>
         <target state="final">在你的维持开始时，将一个+1/+1指示物从CARDNAME移到目标生物上。</target>
       </trans-unit>
-      <trans-unit id="c495e1f3-0845-4556-83e6-de8b9d518d1d" resname="MIR·205 | Afiya Grove | Card Text | Paragraph 3" xml:space="preserve">
+      <trans-unit id="c495e1f3-0845-4556-83e6-de8b9d518d1d" resname="MIR·205 | Afiya Grove | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
         <source>When CARDNAME has no +1/+1 counters on it, sacrifice it.</source>
-        <target state="translated">当CARDNAME上没有+1/+1指示物时，牺牲它。</target>
+        <target state="final">当CARDNAME上没有+1/+1指示物时，将它牺牲。</target>
+      </trans-unit>
+      <trans-unit id="dacdb9e7-d79e-4d24-8678-a37ab6e3a413" resname="MIR·206 | Armor of Thorns | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.</source>
+        <target state="final">你可以将CARDNAME视同具有闪现异能地来施放。如果你是于无法施放法术的时机下施放之，则在下一个清除步骤开始时，它所成之永久物的操控者将它牺牲。</target>
       </trans-unit>
     </body>
   </file>
