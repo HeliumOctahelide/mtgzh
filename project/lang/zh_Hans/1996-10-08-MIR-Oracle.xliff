@@ -2363,7 +2363,7 @@
       </trans-unit>
       <trans-unit id="00c48e08-9a77-4ba2-8041-90998f7e3812" resname="MIR·119 | Dread Specter | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Whenever CARDNAME blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.</source>
-        <target state="final">每当CARDNAME阻挡非黑色的生物或被非黑色的生物阻挡，在战斗结束时消灭该生物。</target>
+        <target state="final">每当CARDNAME阻挡非黑色的生物或被非黑色的生物阻挡，在战斗结束时消灭后者。</target>
       </trans-unit>
       <trans-unit id="937c8016-43c8-418b-9057-b5d6715f71f7" resname="MIR·120 | Ebony Charm | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Choose one —</source>
@@ -3173,9 +3173,13 @@
         <source>Whenever a creature without flying attacks you, CARDNAME deals 1 damage to it.</source>
         <target state="final">每当一个不具飞行异能的生物攻击你时，CARDNAME对它造成1点伤害。</target>
       </trans-unit>
-      <trans-unit id="6c20edc3-5ad0-42c1-a5ec-3e680fb03297" resname="MIR·208 | Brushwagg | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="6c20edc3-5ad0-42c1-a5ec-3e680fb03297" resname="MIR·208 | Brushwagg | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Whenever CARDNAME blocks or becomes blocked, it gets -2/+2 until end of turn.</source>
-        <target state="translated">每当CARDNAME阻挡或被阻挡，它得-2/+2直到回合结束。</target>
+        <target state="final">每当CARDNAME进行阻挡或被阻挡时，它得-2/+2直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="79949237-dcce-4ac1-bdc6-7c6d8b5f5fde" resname="MIR·279 | Rock Basilisk | Card Text | Paragraph 1">
+        <source>Whenever CARDNAME blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.</source>
+        <target state="new"></target>
       </trans-unit>
     </body>
   </file>
