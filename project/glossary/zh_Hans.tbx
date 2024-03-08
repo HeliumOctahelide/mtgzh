@@ -9597,6 +9597,15 @@
                 <langSet xml:lang="en"><tig><term>search your library for</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>从你牌库中搜寻</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>blocks or becomes blocked</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>进行阻挡或被阻挡</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>blocks or becomes blocked by</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>阻挡…或被…阻挡时，后者</term></tig></langSet>
+                <note from="translator">如果下半句同时出现了攻击者和阻挡者，则用CARDNAME和「该生物」；若只出现后者，则用「后者」</note>
+            </termEntry>
         </body>
     </text>
 </martif>
