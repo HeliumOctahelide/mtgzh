@@ -1274,9 +1274,9 @@
         <target state="translated">火山龙</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
-      <trans-unit id="bda123a7-d121-483a-8ff0-a541ccdbc7ca" resname="MIR·201 | Volcanic Dragon | Card Text | Paragraph 1">
+      <trans-unit id="bda123a7-d121-483a-8ff0-a541ccdbc7ca" resname="MIR·201 | Volcanic Dragon | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Flying, haste</source>
-        <target state="translated">飞行，敏捷</target>
+        <target state="final">飞行，敏捷</target>
         <note xmlns:from="developer">中文数据来自CMR（2020-11-20）；</note>
       </trans-unit>
       <trans-unit id="911787db-9023-46f8-9501-3ad26b6ca51d" resname="MIR·202 | Volcanic Geyser | Card Name">
@@ -1284,9 +1284,9 @@
         <target state="translated">火泉喷发</target>
         <note xmlns:from="developer">中文数据来自M21（2020-07-03）；</note>
       </trans-unit>
-      <trans-unit id="911787db-9023-46f8-9501-3ad26b6ca51d" resname="MIR·202 | Volcanic Geyser | Card Text | Paragraph 1">
+      <trans-unit id="911787db-9023-46f8-9501-3ad26b6ca51d" resname="MIR·202 | Volcanic Geyser | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME deals X damage to any target.</source>
-        <target state="translated">CARDNAME对任意一个目标造成X点伤害。</target>
+        <target state="final">CARDNAME对任意一个目标造成X点伤害。</target>
         <note xmlns:from="developer">中文数据来自M21（2020-07-03）；</note>
       </trans-unit>
       <trans-unit id="6d99204c-b42d-48bc-9a93-fae5660665c7" resname="MIR·203 | Wildfire Emissary | Card Name">
@@ -1294,14 +1294,14 @@
         <target state="translated">野火密使</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
-      <trans-unit id="6d99204c-b42d-48bc-9a93-fae5660665c7" resname="MIR·203 | Wildfire Emissary | Card Text | Paragraph 1">
+      <trans-unit id="6d99204c-b42d-48bc-9a93-fae5660665c7" resname="MIR·203 | Wildfire Emissary | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Protection from white</source>
-        <target state="translated">反白保护</target>
+        <target state="final">反白保护</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
-      <trans-unit id="6d99204c-b42d-48bc-9a93-fae5660665c7" resname="MIR·203 | Wildfire Emissary | Card Text | Paragraph 2">
+      <trans-unit id="6d99204c-b42d-48bc-9a93-fae5660665c7" resname="MIR·203 | Wildfire Emissary | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{1}{R}: CARDNAME gets +1/+0 until end of turn.</source>
-        <target state="translated">{1}{R}：CARDNAME得+1/+0直到回合结束。</target>
+        <target state="final">{1}{R}：CARDNAME得+1/+0直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自EMA（2016-06-10）；</note>
       </trans-unit>
       <trans-unit id="a105b7f4-c93b-4b54-acf8-7212907d9cd6" resname="MIR·204 | Zirilan of the Claw | Card Name">
@@ -3121,9 +3121,9 @@
         <source>Whenever CARDNAME attacks, all attacking creatures with flanking get +1/+1 until end of turn.</source>
         <target state="final">每当CARDNAME攻击时，所有具侧面攻击异能且进行攻击的生物得+1/+1直到回合结束。</target>
       </trans-unit>
-      <trans-unit id="088a60f0-2224-4e00-a06a-1d376c8d82a4" resname="MIR·198 | Telim'Tor's Edict | Card Text | Paragraph 1" xml:space="preserve">
+      <trans-unit id="088a60f0-2224-4e00-a06a-1d376c8d82a4" resname="MIR·198 | Telim'Tor's Edict | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Exile target permanent you own or control.</source>
-        <target state="translated">放逐目标你拥有或操控的永久物。</target>
+        <target state="final">放逐目标由你拥有或操控的永久物。</target>
       </trans-unit>
     </body>
   </file>
