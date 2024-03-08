@@ -1354,9 +1354,9 @@
         <target state="translated">提早收成</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
-      <trans-unit id="4f4e18b5-baef-4fe9-807e-097b972c879f" resname="MIR·213 | Early Harvest | Card Text | Paragraph 1">
+      <trans-unit id="4f4e18b5-baef-4fe9-807e-097b972c879f" resname="MIR·213 | Early Harvest | Card Text | Paragraph 1" xml:space="preserve">
         <source>Target player untaps all basic lands they control.</source>
-        <target state="translated">目标牌手重置所有由他操控的基本地。</target>
+        <target state="translated">目标牌手重置所有由其操控的基本地。</target>
         <note xmlns:from="developer">中文数据来自9ED（2005-07-29）；</note>
       </trans-unit>
       <trans-unit id="1482c390-69cf-484e-a06c-8d63f770c7de" resname="MIR·214 | Fallow Earth | Card Name">
@@ -1374,9 +1374,9 @@
         <target state="translated">费米瑞甫弓箭手</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
-      <trans-unit id="e859180f-084c-4023-848a-96f22b8f9698" resname="MIR·215 | Femeref Archers | Card Text | Paragraph 1">
+      <trans-unit id="e859180f-084c-4023-848a-96f22b8f9698" resname="MIR·215 | Femeref Archers | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>{T}: CARDNAME deals 4 damage to target attacking creature with flying.</source>
-        <target state="translated">{T}：CARDNAME对目标具飞行异能、且进行攻击的生物造成4点伤害。</target>
+        <target state="final">{T}：CARDNAME对目标具飞行异能、且进行攻击的生物造成4点伤害。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="b2e1195d-443f-4826-a748-bc6e7e24153a" resname="MIR·217 | Foratog | Card Name">
@@ -1384,9 +1384,9 @@
         <target state="translated">树木阿托格</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
-      <trans-unit id="b2e1195d-443f-4826-a748-bc6e7e24153a" resname="MIR·217 | Foratog | Card Text | Paragraph 1">
+      <trans-unit id="b2e1195d-443f-4826-a748-bc6e7e24153a" resname="MIR·217 | Foratog | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>{G}, Sacrifice a Forest: CARDNAME gets +2/+2 until end of turn.</source>
-        <target state="translated">{G}，牺牲一个树林：CARDNAME得+2/+2直到回合结束。</target>
+        <target state="final">{G}，牺牲一个树林：CARDNAME得+2/+2直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="2b56c895-37d3-4475-a542-dc6d21c46f06" resname="MIR·218 | Giant Mantis | Card Name">
@@ -1394,9 +1394,9 @@
         <target state="translated">巨型螳螂</target>
         <note xmlns:from="developer">中文数据来自BFZ（2015-10-02）；</note>
       </trans-unit>
-      <trans-unit id="2b56c895-37d3-4475-a542-dc6d21c46f06" resname="MIR·218 | Giant Mantis | Card Text | Paragraph 1">
+      <trans-unit id="2b56c895-37d3-4475-a542-dc6d21c46f06" resname="MIR·218 | Giant Mantis | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Reach (This creature can block creatures with flying.)</source>
-        <target state="translated">延势（此生物能阻挡具飞行异能的生物。）</target>
+        <target state="final">延势（此生物能阻挡具飞行异能的生物。）</target>
         <note xmlns:from="developer">中文数据来自BFZ（2015-10-02）；</note>
       </trans-unit>
       <trans-unit id="a252a1f5-bba5-4525-8141-57caea9624e9" resname="MIR·219 | Gibbering Hyenas | Card Name">
@@ -3205,9 +3205,9 @@
         <source>Enchanted creature has &amp;quot;Cumulative upkeep—Pay 1 life.&amp;quot; (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless they pay its upkeep cost for each age counter on it.)</source>
         <target state="translated">所结附的生物具有「累积维持～支付1点生命。」（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物支付其维持费用，否则牺牲之。）</target>
       </trans-unit>
-      <trans-unit id="b0ea46a1-ea65-4802-812c-4f0e0f3088d2" resname="MIR·212 | Decomposition | Card Text | Paragraph 3" xml:space="preserve">
+      <trans-unit id="b0ea46a1-ea65-4802-812c-4f0e0f3088d2" resname="MIR·212 | Decomposition | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
         <source>When enchanted creature dies, its controller loses 2 life.</source>
-        <target state="translated">当所结附的生物死去时，它的操控者失去2点生命。</target>
+        <target state="final">当所结附的生物死去时，其操控者失去2点生命。</target>
       </trans-unit>
     </body>
   </file>
