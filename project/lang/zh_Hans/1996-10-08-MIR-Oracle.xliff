@@ -3217,6 +3217,14 @@
         <source>{R}, {T}: CARDNAME deals 1 damage to any target and 1 damage to you.</source>
         <target state="final">{R}，{T}：CARDNAME对任意一个目标造成1点伤害，且对你造成1点伤害。</target>
       </trans-unit>
+      <trans-unit id="18e4551f-9f6c-4421-ad66-a270df6d3463" resname="MIR·221 | Hall of Gemstone | Card Text | Paragraph 1" xml:space="preserve">
+        <source>At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.</source>
+        <target state="translated">在每位牌手的维持开始时，该牌手选择一个颜色。直到回合结束，所有的地横置以产生法术力时，只能产生选择的那个颜色。</target>
+      </trans-unit>
+      <trans-unit id="3f495b27-3eed-4962-b69a-b86f9fc6a9a7" resname="MIR·220 | Granger Guildmage | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{W}, {T}: Target creature gains first strike until end of turn.</source>
+        <target state="final">{W}，{T}：目标生物获得先攻异能直到回合结束。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
