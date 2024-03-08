@@ -3141,6 +3141,14 @@
         <source>As long as CARDNAME is on the stack, each creature has &amp;quot;{T}: Prevent the next 1 damage that would be dealt to this creature by CARDNAME this turn.&amp;quot;</source>
         <target state="final">只要CARDNAME在堆叠上，每个生物便具有「{T}：于本回合中，防止CARDNAME接下来将对此生物造成的1点伤害。」</target>
       </trans-unit>
+      <trans-unit id="c495e1f3-0845-4556-83e6-de8b9d518d1d" resname="MIR·205 | Afiya Grove | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>CARDNAME enters the battlefield with three +1/+1 counters on it.</source>
+        <target state="final">CARDNAME进战场时上面有三个+1/+1指示物。</target>
+      </trans-unit>
+      <trans-unit id="c495e1f3-0845-4556-83e6-de8b9d518d1d" resname="MIR·205 | Afiya Grove | Card Text | Paragraph 2" xml:space="preserve">
+        <source>At the beginning of your upkeep, move a +1/+1 counter from CARDNAME onto target creature.</source>
+        <target state="translated">在你的维持开始时，将一个+1/+1指示物从CARDNAME移到目标生物上。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
