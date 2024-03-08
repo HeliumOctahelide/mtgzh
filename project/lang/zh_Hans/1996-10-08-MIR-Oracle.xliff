@@ -1364,9 +1364,9 @@
         <target state="translated">休耕地</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="1482c390-69cf-484e-a06c-8d63f770c7de" resname="MIR·214 | Fallow Earth | Card Text | Paragraph 1">
+      <trans-unit id="1482c390-69cf-484e-a06c-8d63f770c7de" resname="MIR·214 | Fallow Earth | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Put target land on top of its owner's library.</source>
-        <target state="translated">将目标地置于其拥有者的牌库顶。</target>
+        <target state="final">将目标地置于其拥有者的牌库顶。</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="e859180f-084c-4023-848a-96f22b8f9698" resname="MIR·215 | Femeref Archers | Card Name">
@@ -3219,11 +3219,15 @@
       </trans-unit>
       <trans-unit id="18e4551f-9f6c-4421-ad66-a270df6d3463" resname="MIR·221 | Hall of Gemstone | Card Text | Paragraph 1" xml:space="preserve">
         <source>At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.</source>
-        <target state="translated">在每位牌手的维持开始时，该牌手选择一个颜色。直到回合结束，所有的地横置以产生法术力时，只能产生选择的那个颜色。</target>
+        <target state="translated">在每位牌手的维持开始时，该牌手选择一种颜色。直到回合结束，横置以产生法术力的地改为产生所选颜色的法术力，而非其他颜色。</target>
       </trans-unit>
       <trans-unit id="3f495b27-3eed-4962-b69a-b86f9fc6a9a7" resname="MIR·220 | Granger Guildmage | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{W}, {T}: Target creature gains first strike until end of turn.</source>
         <target state="final">{W}，{T}：目标生物获得先攻异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="31588ea3-31d2-4118-9b9f-4ce820c16a15" resname="MIR·222 | Jolrael's Centaur | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</source>
+        <target state="final">侧面攻击（每当一个不具侧面攻击异能的生物阻挡此生物时，该阻挡生物得-1/-1直到回合结束。）</target>
       </trans-unit>
     </body>
   </file>
