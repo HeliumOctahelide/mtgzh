@@ -3125,6 +3125,14 @@
         <source>Exile target permanent you own or control.</source>
         <target state="final">放逐目标由你拥有或操控的永久物。</target>
       </trans-unit>
+      <trans-unit id="088a60f0-2224-4e00-a06a-1d376c8d82a4" resname="MIR·198 | Telim'Tor's Edict | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Draw a card at the beginning of the next turn's upkeep.</source>
+        <target state="final">在下一个回合维持开始时，抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="a105b7f4-c93b-4b54-acf8-7212907d9cd6" resname="MIR·204 | Zirilan of the Claw | Card Text | Paragraph 1" xml:space="preserve">
+        <source>{1}{R}{R}, {T}: Search your library for a Dragon permanent card, put that card onto the battlefield, then shuffle. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step.</source>
+        <target state="translated">{1}{R}{R}，{T}：在你的牌库搜寻一张龙永久物牌，将那张牌放入战场，然后洗牌。那张牌获得敏捷异能直到回合结束。在下一个结束步骤开始时，将它放逐。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
