@@ -1099,9 +1099,9 @@
         <target state="translated">最终一搏</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
-      <trans-unit id="83589c25-58a2-4172-8f60-6033a61f34c6" resname="MIR·173 | Final Fortune | Card Text | Paragraph 1">
+      <trans-unit id="83589c25-58a2-4172-8f60-6033a61f34c6" resname="MIR·173 | Final Fortune | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.</source>
-        <target state="translated">你在此回合结束以后，继续进行额外的一回合。在该额外的回合结束时，你便输去此盘对战。</target>
+        <target state="final">于本回合后进行额外的一个回合。在该回合的结束步骤开始时，你输掉这盘游戏。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="498e813d-b0b3-4040-b87a-4fa2be681ec5" resname="MIR·175 | Flame Elemental | Card Name">
@@ -1114,9 +1114,9 @@
         <target state="translated">精灵精英步兵</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
-      <trans-unit id="12b9c6b8-9f87-41f1-9e81-b5995e3ed6b7" resname="MIR·177 | Goblin Elite Infantry | Card Text | Paragraph 1">
+      <trans-unit id="12b9c6b8-9f87-41f1-9e81-b5995e3ed6b7" resname="MIR·177 | Goblin Elite Infantry | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>Whenever CARDNAME blocks or becomes blocked, it gets -1/-1 until end of turn.</source>
-        <target state="translated">每当CARDNAME阻挡或被阻挡时，它得-1/-1直到回合结束。</target>
+        <target state="final">每当CARDNAME阻挡或被阻挡时，它得-1/-1直到回合结束。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="a4b87068-aaa6-41de-9b9a-76ca4210a485" resname="MIR·178 | Goblin Scouts | Card Name">
@@ -1139,14 +1139,14 @@
         <target state="translated">博卡登之锤</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
-      <trans-unit id="f7285f52-5df0-4f90-9cf7-a57295d90fd4" resname="MIR·181 | Hammer of Bogardan | Card Text | Paragraph 1">
+      <trans-unit id="f7285f52-5df0-4f90-9cf7-a57295d90fd4" resname="MIR·181 | Hammer of Bogardan | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME deals 3 damage to any target.</source>
-        <target state="translated">CARDNAME对目标生物或牌手造成3点伤害。</target>
+        <target state="final">CARDNAME对任意一个目标造成3点伤害。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
-      <trans-unit id="f7285f52-5df0-4f90-9cf7-a57295d90fd4" resname="MIR·181 | Hammer of Bogardan | Card Text | Paragraph 2">
+      <trans-unit id="f7285f52-5df0-4f90-9cf7-a57295d90fd4" resname="MIR·181 | Hammer of Bogardan | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>{2}{R}{R}{R}: Return CARDNAME from your graveyard to your hand. Activate only during your upkeep.</source>
-        <target state="translated">{2}{R}{R}{R}：将CARDNAME从你坟墓场中移回你手上。你只可以于你的维持中使用此异能。（维持步骤是在重置之后、抓牌之前的时段。）</target>
+        <target state="final">{2}{R}{R}{R}：将CARDNAME从你的坟墓场移回你手上。只能于你的维持中起动。</target>
         <note xmlns:from="developer">中文数据来自8ED（2003-07-28）；</note>
       </trans-unit>
       <trans-unit id="ee84e61e-d99a-489b-a3b1-cb45fc81bce6" resname="MIR·182 | Hivis of the Scale | Card Name">
@@ -1159,9 +1159,9 @@
         <target state="translated">非法拍卖</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
-      <trans-unit id="9c3f633f-538c-4581-b3cc-9285ed6bc4fe" resname="MIR·183 | Illicit Auction | Card Text | Paragraph 1">
+      <trans-unit id="9c3f633f-538c-4581-b3cc-9285ed6bc4fe" resname="MIR·183 | Illicit Auction | Card Text | Paragraph 1" xml:space="preserve">
         <source>Each player may bid life for control of target creature. You start the bidding with a bid of 0. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and gains control of the creature. (This effect lasts indefinitely.)</source>
-        <target state="translated">选择目标生物。每位牌手可用生命为代价进行喊价，以获得该生物的操控权。你由0开始出价。如此依照顺序进行，每位牌手皆可喊更高的价。若无人再喊更高价，则此程序结束。喊出最高价的牌手失去与最高价相等数量的生命，并获得该生物的操控权。</target>
+        <target state="translated">每位牌手可以以生命来为获得目标生物的操控权喊价。喊价从你以0点生命开始。依照回合的顺序，每位牌手可出更高的价。如果无人出更高的价，则此喊价结束。出最高价的牌手失去等同于其出价的生命，并获得该生物的操控权。（此效应不因回合结束而终止）</target>
         <note xmlns:from="developer">中文数据来自6ED（1999-04-21）；</note>
       </trans-unit>
       <trans-unit id="0a1624ab-e50e-48a3-acf7-457069914616" resname="MIR·185 | Kaervek's Torch | Card Name">
@@ -1174,19 +1174,19 @@
         <target state="translated">闪电反射</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
-      <trans-unit id="271febe5-98ea-403d-87be-7865cf9f426d" resname="MIR·186 | Lightning Reflexes | Card Text | Paragraph 1">
+      <trans-unit id="271febe5-98ea-403d-87be-7865cf9f426d" resname="MIR·186 | Lightning Reflexes | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>You may cast CARDNAME as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.</source>
-        <target state="translated">你可以将CARDNAME视同具有闪现异能地来施放。如果你是于无法施放法术的时机下施放之，则在下一个清除步骤开始时，它所成之永久物的操控者将它牺牲。</target>
+        <target state="final">你可以将CARDNAME视同具有闪现异能地来施放。如果你是于无法施放法术的时机下施放之，则在下一个清除步骤开始时，它所成之永久物的操控者将它牺牲。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
-      <trans-unit id="271febe5-98ea-403d-87be-7865cf9f426d" resname="MIR·186 | Lightning Reflexes | Card Text | Paragraph 2">
+      <trans-unit id="271febe5-98ea-403d-87be-7865cf9f426d" resname="MIR·186 | Lightning Reflexes | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
         <source>Enchant creature</source>
-        <target state="translated">结附于生物</target>
+        <target state="final">结附于生物</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
-      <trans-unit id="271febe5-98ea-403d-87be-7865cf9f426d" resname="MIR·186 | Lightning Reflexes | Card Text | Paragraph 3">
+      <trans-unit id="271febe5-98ea-403d-87be-7865cf9f426d" resname="MIR·186 | Lightning Reflexes | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
         <source>Enchanted creature gets +1/+0 and has first strike.</source>
-        <target state="translated">所结附的生物得+1/+0且具有先攻异能。</target>
+        <target state="final">所结附的生物得+1/+0且具有先攻异能。</target>
         <note xmlns:from="developer">中文数据来自DMR（2023-01-13）；</note>
       </trans-unit>
       <trans-unit id="7f2dc1a7-4b70-4643-90a8-fdc7877c01ca" resname="MIR·187 | Pyric Salamander | Card Name">
@@ -1204,9 +1204,9 @@
         <target state="translated">鲁莽烬法师</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
-      <trans-unit id="9e41febe-6fad-451e-afe8-20d3ca3c88a4" resname="MIR·189 | Reckless Embermage | Card Text | Paragraph 1">
+      <trans-unit id="9e41febe-6fad-451e-afe8-20d3ca3c88a4" resname="MIR·189 | Reckless Embermage | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>{1}{R}: CARDNAME deals 1 damage to any target and 1 damage to itself.</source>
-        <target state="translated">1红：CARDNAME对目标生物或牌手造成1点伤害，并且对它自己造成1点伤害。</target>
+        <target state="final">{1}{R}：CARDNAME对任意一个目标造成1点伤害，并对本身造成1点伤害。</target>
         <note xmlns:from="developer">中文数据来自7ED（2001-04-11）；</note>
       </trans-unit>
       <trans-unit id="9285b14a-fc8e-457a-b803-202e05be41e5" resname="MIR·190 | Reign of Chaos | Card Name">
@@ -3092,6 +3092,10 @@
       <trans-unit id="7380af0a-8a8f-44fd-9456-14a68a2830d3" resname="MIR·155 | Aleatory | Card Text | Paragraph 1" xml:space="preserve">
         <source>Cast this spell only during combat after blockers are declared.</source>
         <target state="translated">只能于战斗中，宣告阻挡者后施放此咒语。</target>
+      </trans-unit>
+      <trans-unit id="7380af0a-8a8f-44fd-9456-14a68a2830d3" resname="MIR·155 | Aleatory | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Flip a coin. If you win the flip, target creature gets +1/+1 until end of turn.</source>
+        <target state="final">掷一枚硬币。如果你猜对此掷，目标生物得+1/+1直到回合结束。</target>
       </trans-unit>
     </body>
   </file>
