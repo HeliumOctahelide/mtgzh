@@ -3229,6 +3229,14 @@
         <source>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</source>
         <target state="final">侧面攻击（每当一个不具侧面攻击异能的生物阻挡此生物时，该阻挡生物得-1/-1直到回合结束。）</target>
       </trans-unit>
+      <trans-unit id="31588ea3-31d2-4118-9b9f-4ce820c16a15" resname="MIR·222 | Jolrael's Centaur | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Shroud (This creature can't be the target of spells or abilities.)</source>
+        <target state="final">帷幕（此生物不能成为咒语或异能的目标。）</target>
+      </trans-unit>
+      <trans-unit id="91c343b8-bbfd-4bc5-b80a-4bc4565cdd40" resname="MIR·223 | Jungle Patrol | Card Text | Paragraph 1" xml:space="preserve">
+        <source>{1}{G}, {T}: Create a 0/1 green Wall creature token with defender named Wood.</source>
+        <target state="translated">{1}{G}，{T}：派出一个名称为木材，具有守军异能的0/1绿色墙生物。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
