@@ -3097,6 +3097,14 @@
         <source>Flip a coin. If you win the flip, target creature gets +1/+1 until end of turn.</source>
         <target state="final">掷一枚硬币。如果你猜对此掷，目标生物得+1/+1直到回合结束。</target>
       </trans-unit>
+      <trans-unit id="5cf66916-7f6b-412f-acd6-f96ad4539a46" resname="MIR·191 | Searing Spear Askari | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{1}{R}: CARDNAME gains menace until end of turn. (It can't be blocked except by two or more creatures.)</source>
+        <target state="final">{1}{R}：CARDNAME获得威慑异能直到回合结束。（此生物只能被两个或更多生物阻挡。）</target>
+      </trans-unit>
+      <trans-unit id="ce37492e-4f07-4171-97d4-84f28fb4e2be" resname="MIR·192 | Sirocco | Card Text | Paragraph 1" xml:space="preserve">
+        <source>Target player reveals their hand. For each blue instant card revealed this way, that player discards that card unless they pay 4 life.</source>
+        <target state="translated">目标牌手展示他的手牌。对每个以此法展示的蓝色瞬间牌而言，该牌手除非支付4点生命否则弃掉该牌。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
