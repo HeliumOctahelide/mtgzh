@@ -1229,9 +1229,9 @@
         <target state="translated">飞砾走石</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
-      <trans-unit id="e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee" resname="MIR·193 | Spitting Earth | Card Text | Paragraph 1">
+      <trans-unit id="e6b774d2-1272-4cd2-b5f8-dfe3ca6e41ee" resname="MIR·193 | Spitting Earth | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
         <source>CARDNAME deals damage to target creature equal to the number of Mountains you control.</source>
-        <target state="translated">CARDNAME对目标生物造成伤害，其数量等同于由你操控的山脉数量。</target>
+        <target state="final">CARDNAME对目标生物造成伤害，其数量等同于由你操控的山脉数量。</target>
         <note xmlns:from="developer">中文数据来自10E（2007-07-13）；</note>
       </trans-unit>
       <trans-unit id="132e8aac-9698-45fa-8d64-b460fd5deffc" resname="MIR·195 | Subterranean Spirit | Card Name">
@@ -3103,7 +3103,7 @@
       </trans-unit>
       <trans-unit id="ce37492e-4f07-4171-97d4-84f28fb4e2be" resname="MIR·192 | Sirocco | Card Text | Paragraph 1" xml:space="preserve">
         <source>Target player reveals their hand. For each blue instant card revealed this way, that player discards that card unless they pay 4 life.</source>
-        <target state="translated">目标牌手展示他的手牌。对每个以此法展示的蓝色瞬间牌而言，该牌手除非支付4点生命否则弃掉该牌。</target>
+        <target state="translated">目标牌手展示其手牌。每以此法展示出一张蓝色瞬间牌，该牌手除非支付4点生命，否则便弃掉该牌。</target>
       </trans-unit>
     </body>
   </file>
