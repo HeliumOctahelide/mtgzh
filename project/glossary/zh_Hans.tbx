@@ -9479,8 +9479,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>(At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless they pay its upkeep cost for each age counter on it.)</term></tig></langSet>
-                <langSet xml:lang="zh_Hans"><tig><term>（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物各支付其维持费用，否则牺牲之。）</term></tig></langSet>
-                <note from="translator">参考CSP#078的翻译</note>
+                <langSet xml:lang="zh_Hans"><tig><term>（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物支付其维持费用，否则牺牲之。）</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>(This creature can't be the target of spells or abilities.)</term></tig></langSet>
@@ -9605,6 +9604,11 @@
                 <langSet xml:lang="en"><tig><term>blocks or becomes blocked by</term></tig></langSet>
                 <langSet xml:lang="zh_Hans"><tig><term>阻挡…或被…阻挡时，后者</term></tig></langSet>
                 <note from="translator">如果下半句同时出现了攻击者和阻挡者，则用CARDNAME和「该生物」；若只出现后者，则用「后者」</note>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>—</term></tig></langSet>
+                <langSet xml:lang="zh_Hans"><tig><term>～</term></tig></langSet>
+                <note from="translator">异能～费用</note>
             </termEntry>
         </body>
     </text>
