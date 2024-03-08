@@ -3133,6 +3133,14 @@
         <source>{1}{R}{R}, {T}: Search your library for a Dragon permanent card, put that card onto the battlefield, then shuffle. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step.</source>
         <target state="translated">{1}{R}{R}，{T}：在你的牌库搜寻一张龙永久物牌，将那张牌放入战场，然后洗牌。那张牌获得敏捷异能直到回合结束。在下一个结束步骤开始时，将它放逐。</target>
       </trans-unit>
+      <trans-unit id="19528a24-4968-4742-a2d1-06f94e60f290" resname="MIR·199 | Torrent of Lava | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>CARDNAME deals X damage to each creature without flying.</source>
+        <target state="final">CARDNAME对每个不具飞行异能的生物各造成X点伤害。</target>
+      </trans-unit>
+      <trans-unit id="19528a24-4968-4742-a2d1-06f94e60f290" resname="MIR·199 | Torrent of Lava | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>As long as CARDNAME is on the stack, each creature has &amp;quot;{T}: Prevent the next 1 damage that would be dealt to this creature by CARDNAME this turn.&amp;quot;</source>
+        <target state="final">只要CARDNAME在堆叠上，每个生物便具有「{T}：于本回合中，防止CARDNAME接下来将对此生物造成的1点伤害。」</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
