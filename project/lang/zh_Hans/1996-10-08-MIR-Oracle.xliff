@@ -3209,6 +3209,14 @@
         <source>When enchanted creature dies, its controller loses 2 life.</source>
         <target state="final">当所结附的生物死去时，其操控者失去2点生命。</target>
       </trans-unit>
+      <trans-unit id="a252a1f5-bba5-4525-8141-57caea9624e9" resname="MIR·219 | Gibbering Hyenas | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>CARDNAME can't block black creatures.</source>
+        <target state="final">CARDNAME不能阻挡黑色生物。</target>
+      </trans-unit>
+      <trans-unit id="3f495b27-3eed-4962-b69a-b86f9fc6a9a7" resname="MIR·220 | Granger Guildmage | Card Text | Paragraph 1" xml:space="preserve">
+        <source>{R}, {T}: CARDNAME deals 1 damage to any target and 1 damage to you.</source>
+        <target state="translated">{R}，{T}：CARDNAME对任意目标造成1点伤害，且对你造成1点伤害。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
