@@ -3073,6 +3073,26 @@
         <source>Flying</source>
         <target state="final">飞行</target>
       </trans-unit>
+      <trans-unit id="dde6d3d1-75db-445f-9f17-632ee0292211" resname="MIR·151 | Wall of Corpses | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{B}, Sacrifice CARDNAME: Destroy target creature CARDNAME is blocking.</source>
+        <target state="final">{B}，牺牲CARDNAME：消灭目标CARDNAME阻挡的生物。</target>
+      </trans-unit>
+      <trans-unit id="6e6499cb-6073-4c94-8c82-47f489094df5" resname="MIR·152 | Withering Boon | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>As an additional cost to cast this spell, pay 3 life.</source>
+        <target state="final">支付3点生命，以作为施放此咒语的额外费用。</target>
+      </trans-unit>
+      <trans-unit id="ab85551f-c9cc-409c-9fb5-a45de695e521" resname="MIR·153 | Zombie Mob | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>When CARDNAME enters the battlefield, exile all creature cards from your graveyard.</source>
+        <target state="final">当CARDNAME进战场时，放逐你坟墓场中的所有生物牌。</target>
+      </trans-unit>
+      <trans-unit id="5694cb42-7489-40c5-b21a-aeb36636015f" resname="MIR·154 | Agility | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Enchanted creature gets +1/+1 and has flanking. (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</source>
+        <target state="final">所结附的生物得+1/+1且具有侧面攻击异能。（每当一个不具侧面攻击异能的生物阻挡此生物时，该阻挡生物得-1/-1直到回合结束。）</target>
+      </trans-unit>
+      <trans-unit id="7380af0a-8a8f-44fd-9456-14a68a2830d3" resname="MIR·155 | Aleatory | Card Text | Paragraph 1" xml:space="preserve">
+        <source>Cast this spell only during combat after blockers are declared.</source>
+        <target state="translated">只能于战斗中、宣告阻挡者后施放此咒语。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
