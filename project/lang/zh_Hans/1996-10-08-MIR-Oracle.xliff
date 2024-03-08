@@ -3245,6 +3245,26 @@
         <source>Whenever CARDNAME becomes blocked, it gets -1/-1 until end of turn for each creature blocking it beyond the first.</source>
         <target state="translated">每当CARDNAME被阻挡时，在第一个阻挡它的生物之外每有一个阻挡它的生物，它便得-1/-1直到回合结束。</target>
       </trans-unit>
+      <trans-unit id="16396594-4f59-4600-8e39-d99544062265" resname="MIR·225 | Karoo Meerkat | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Protection from blue</source>
+        <target state="final">反蓝保护</target>
+      </trans-unit>
+      <trans-unit id="bd269842-4c31-4398-9451-be0d941397ac" resname="MIR·226 | Locust Swarm | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="bd269842-4c31-4398-9451-be0d941397ac" resname="MIR·226 | Locust Swarm | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{G}: Regenerate CARDNAME.</source>
+        <target state="final">{G}：重生CARDNAME。</target>
+      </trans-unit>
+      <trans-unit id="bd269842-4c31-4398-9451-be0d941397ac" resname="MIR·226 | Locust Swarm | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>{G}: Untap CARDNAME. Activate only once each turn.</source>
+        <target state="final">{G}：重置CARDNAME。每回合只能起动一次。</target>
+      </trans-unit>
+      <trans-unit id="f41066eb-be5e-4a6d-9156-64f5e56c7ab3" resname="MIR·229 | Mindbender Spores | Card Text | Paragraph 3" xml:space="preserve">
+        <source>Whenever CARDNAME blocks a creature, put four fungus counters on that creature. The creature gains &amp;quot;This creature doesn't untap during your untap step if it has a fungus counter on it&amp;quot; and &amp;quot;At the beginning of your upkeep, remove a fungus counter from this creature.&amp;quot;</source>
+        <target state="translated">每当CARDNAME阻挡一个生物，在那个生物上放置四个黏菌指示物。那个生物获得“只要这个生物上有黏菌指示物，它在重置步骤不能重置。”和“在维持开始时，从此生物上移除一个黏菌指示物”异能。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
