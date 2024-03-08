@@ -3281,6 +3281,10 @@
         <source>At the beginning of your upkeep, CARDNAME deals 1 damage to you.</source>
         <target state="final">在你的维持开始时，CARDNAME对你造成1点伤害。</target>
       </trans-unit>
+      <trans-unit id="3a2bf39b-9665-426b-b618-eb731d24a1ee" resname="MIR·277 | Reflect Damage | Card Text | Paragraph 1" xml:space="preserve">
+        <source>The next time a source of your choice would deal damage this turn, that damage is dealt to that source's controller instead.</source>
+        <target state="translated">选择一个来源。于本回合中，该来源下一次将对你造成的伤害改为对那个来源的操控者造成。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
