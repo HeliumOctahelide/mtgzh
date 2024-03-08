@@ -3181,6 +3181,22 @@
         <source>Whenever CARDNAME blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.</source>
         <target state="new"></target>
       </trans-unit>
+      <trans-unit id="20c5e4d6-b716-4994-b226-b1eb799bec25" resname="MIR·209 | Canopy Dragon | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Trample</source>
+        <target state="final">践踏</target>
+      </trans-unit>
+      <trans-unit id="20c5e4d6-b716-4994-b226-b1eb799bec25" resname="MIR·209 | Canopy Dragon | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{1}{G}: CARDNAME gains flying and loses trample until end of turn.</source>
+        <target state="final">{1}{G}：CARDNAME获得飞行异能且失去践踏异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="d74e0337-d9ac-4bf2-b2b5-aadc97433030" resname="MIR·210 | Crash of Rhinos | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Trample</source>
+        <target state="final">践踏</target>
+      </trans-unit>
+      <trans-unit id="49b53861-97aa-4fff-9526-7d496d1717a4" resname="MIR·211 | Cycle of Life | Card Text | Paragraph 1" xml:space="preserve">
+        <source>Return CARDNAME to its owner's hand: Target creature you cast this turn has base power and toughness 0/1 until your next upkeep. At the beginning of your next upkeep, put a +1/+1 counter on that creature.</source>
+        <target state="translated">将CARDNAME移回其拥有者手上：直到你的下个维持，你本回合施放的目标生物的基础力量和防御力变成0/1。在你的下个维持开始时，在那个生物上放置一个+1/+1指示物。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
