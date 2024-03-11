@@ -3701,6 +3701,82 @@
         <source>CARDNAME enters the battlefield tapped.</source>
         <target state="translated">CARDNAME须横置进场。</target>
       </trans-unit>
+      <trans-unit id="7b8197b9-0cd1-4fa1-9668-d1b5f1759151" resname="MIR·315 | Phyrexian Dreadnought | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Trample</source>
+        <target state="final">践踏</target>
+      </trans-unit>
+      <trans-unit id="7b8197b9-0cd1-4fa1-9668-d1b5f1759151" resname="MIR·315 | Phyrexian Dreadnought | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>When CARDNAME enters the battlefield, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater.</source>
+        <target state="final">当CARDNAME进战场时，除非你牺牲任意数量力量总和等于或大于12的生物，否则牺牲之。</target>
+      </trans-unit>
+      <trans-unit id="60450239-6055-4561-9f8c-565b4e4d9cb1" resname="MIR·300 | Elixir of Vitality | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{T}, Sacrifice CARDNAME: You gain 4 life.</source>
+        <target state="final">{T}，牺牲CARDNAME：你获得4点生命。</target>
+      </trans-unit>
+      <trans-unit id="60450239-6055-4561-9f8c-565b4e4d9cb1" resname="MIR·300 | Elixir of Vitality | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>{8}, {T}, Sacrifice CARDNAME: You gain 8 life.</source>
+        <target state="final">{8}，{T}，牺牲CARDNAME：你获得8点生命。</target>
+      </trans-unit>
+      <trans-unit id="5a2747ab-00c8-4f59-b9a6-54ff4e99f6c8" resname="MIR·301 | Ersatz Gnomes | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{T}: Target spell becomes colorless.</source>
+        <target state="final">{T}：目标咒语成为无色。</target>
+      </trans-unit>
+      <trans-unit id="5a2747ab-00c8-4f59-b9a6-54ff4e99f6c8" resname="MIR·301 | Ersatz Gnomes | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{T}: Target permanent becomes colorless until end of turn.</source>
+        <target state="final">{T}：目标永久物成为无色直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="cf04f2cd-d9f8-4e0c-adaf-6d38bc14dd7a" resname="MIR·304 | Horrible Hordes | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</source>
+        <target state="final">狂暴1（每当此生物被阻挡时，从第二个生物起，每个阻挡它的生物都使它得+1/+1直到回合结束。）</target>
+      </trans-unit>
+      <trans-unit id="f44c5e24-98f9-4a4d-9ecc-c862363eb66d" resname="MIR·305 | Igneous Golem | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{2}: CARDNAME gains trample until end of turn.</source>
+        <target state="final">2：CARDNAME获得践踏异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="63bacc32-d6ba-420c-9b49-299c08e5fb39" resname="MIR·307 | Lion's Eye Diamond | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Discard your hand, Sacrifice CARDNAME: Add three mana of any one color. Activate only as an instant.</source>
+        <target state="final">弃掉你的手牌，牺牲CARDNAME：加三点任意颜色的单色法术力。只能于瞬间时机起动。</target>
+      </trans-unit>
+      <trans-unit id="557ebacf-4a8f-4548-a142-533b7adfdac3" resname="MIR·309 | Mangara's Tome | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>When CARDNAME enters the battlefield, search your library for five cards, exile them in a face-down pile, and shuffle that pile. Then shuffle your library.</source>
+        <target state="final">当CARDNAME进战场时，从你的牌库搜寻五张牌，将它们放逐作面朝下的一堆，将该堆洗牌。然后洗牌。</target>
+      </trans-unit>
+      <trans-unit id="557ebacf-4a8f-4548-a142-533b7adfdac3" resname="MIR·309 | Mangara's Tome | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{2}: The next time you would draw a card this turn, instead put the top card of the exiled pile into its owner's hand.</source>
+        <target state="final">{2}：于本回合中，下一次你将要抓一张牌时，改为将所放逐的堆顶牌置入其拥有者的手上。</target>
+      </trans-unit>
+      <trans-unit id="f4c00691-26b1-4e7a-bdf5-4b15f0eb45ce" resname="MIR·311 | Misers' Cage | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>At the beginning of each opponent's upkeep, if that player has five or more cards in hand, CARDNAME deals 2 damage to that player.</source>
+        <target state="final">在每位对手的维持开始时，若该牌手的手牌为五张或更多，则CARDNAME对其造成2点伤害。</target>
+      </trans-unit>
+      <trans-unit id="3411c350-a940-4172-b558-f5dc44b4fb33" resname="MIR·314 | Paupers' Cage | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, CARDNAME deals 2 damage to that player.</source>
+        <target state="final">在每位对手的维持开始时，若该牌手的手牌为两张或更少，则CARDNAME对其造成2点伤害。</target>
+      </trans-unit>
+      <trans-unit id="72562860-6097-4c63-9858-ae130805f4d6" resname="MIR·317 | Razor Pendulum | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>At the beginning of each player's end step, if that player has 5 or less life, CARDNAME deals 2 damage to that player.</source>
+        <target state="final">在每位牌手的结束步骤开始时，若该牌手的生命为5或更少，CARDNAME对该牌手造成2点伤害。</target>
+      </trans-unit>
+      <trans-unit id="84e4a955-ce9a-4386-b6ac-c00fd25de882" resname="MIR·318 | Sand Golem | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>When a spell or ability an opponent controls causes you to discard CARDNAME, return CARDNAME from your graveyard to the battlefield with a +1/+1 counter on it at the beginning of the next end step.</source>
+        <target state="final">当由对手操控的咒语或异能使得你弃掉CARDNAME时，在下一个结束步骤开始时，将CARDNAME从你的坟墓场移回战场，且上面有一个+1/+1指示物。</target>
+      </trans-unit>
+      <trans-unit id="57e8971d-baeb-4e4f-8c4d-0e8109e4505e" resname="MIR·320 | Teeka's Dragon | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying; trample; rampage 4 (Whenever this creature becomes blocked, it gets +4/+4 until end of turn for each creature blocking it beyond the first.)</source>
+        <target state="final">飞行；践踏；狂暴4（每当此生物被阻挡时，从第二个生物起，每个阻挡它的生物都使它得+4/+4直到回合结束。）</target>
+      </trans-unit>
+      <trans-unit id="59733b76-3b44-4543-8bb2-a160232cee27" resname="MIR·321 | Telim'Tor's Darts | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{2}, {T}: CARDNAME deals 1 damage to target player or planeswalker.</source>
+        <target state="final">{2}，{T}：CARDNAME对目标牌手或鹏洛客造成1点伤害。</target>
+      </trans-unit>
+      <trans-unit id="ecf946b8-8574-406a-83fd-966ed912921f" resname="MIR·322 | Unerring Sling | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{3}, {T}, Tap an untapped creature you control: CARDNAME deals damage equal to the tapped creature's power to target attacking or blocking creature with flying.</source>
+        <target state="final">{3}，{T}，横置一个由你操控且未横置的生物：CARDNAME对目标进行攻击或阻挡且具飞行异能的生物造成伤害，其数量等同于所横置生物的力量。</target>
+      </trans-unit>
+      <trans-unit id="520f4a24-fb1a-4964-887c-2f08a752fae2" resname="MIR·323 | Ventifact Bottle | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>At the beginning of your precombat main phase, if CARDNAME has a charge counter on it, tap it and remove all charge counters from it. Add {C} for each charge counter removed this way.</source>
+        <target state="final">在你战斗前的行动阶段开始时，若CARDNAME上有充电指示物，将它横置并移去所有充电指示物。每以此法移去一个充电指示物，便加{C}。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
