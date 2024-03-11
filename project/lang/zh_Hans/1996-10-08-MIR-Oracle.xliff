@@ -3293,6 +3293,18 @@
         <source>{X}{1}, {T}: Put X charge counters on CARDNAME. Activate only as a sorcery.</source>
         <target state="final">{X}{1}，{T}：在CARDNAME上放置X个充电指示物。只能于法术时机起动。</target>
       </trans-unit>
+      <trans-unit id="e999fdc3-9269-44d7-9015-e16f5e5b73eb" resname="MIR·156 | Armorer Guildmage | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{B}, {T}: Target creature gets +1/+0 until end of turn.</source>
+        <target state="final">{B}，{T}：目标生物得+1/+0直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="a3a2955e-e714-419e-9e3d-7ae3d7fae041" resname="MIR·157 | Barreling Attack | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Target creature gains trample until end of turn. When that creature becomes blocked this turn, it gets +1/+1 until end of turn for each creature blocking it.</source>
+        <target state="final">目标生物获得践踏异能直到回合结束。当该生物本回合中被阻挡时，每有一个阻挡它的生物，它便得+1/+1直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="c9e8c9f5-61dd-4dcc-bd40-8f366374ea18" resname="MIR·172 | Emberwilde Djinn | Card Text | Paragraph 2" xml:space="preserve">
+        <source>At the beginning of each player's upkeep, that player may pay {R}{R} or 2 life. If the player does, they gain control of CARDNAME.</source>
+        <target state="translated">在每位牌手的维持开始时，该牌手可以支付{R}{R}或2点生命。若他如此作，他获得CARDNAME的操控权。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
