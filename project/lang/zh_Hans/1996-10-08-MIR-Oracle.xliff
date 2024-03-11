@@ -3425,6 +3425,78 @@
         <source>CARDNAME deals X damage to each creature with flying and 1 additional damage to each blue creature.</source>
         <target state="translated">CARDNAME对每个具有飞行异能的生物各造成X点伤害，并对每个蓝色生物各再造成1点伤害。</target>
       </trans-unit>
+      <trans-unit id="c9bef70b-61c7-4df5-b4df-09cd6ab2015c" resname="MIR·258 | Cadaverous Bloom | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Exile a card from your hand: Add {B}{B} or {G}{G}.</source>
+        <target state="final">从你手上放逐一张牌：加{B}{B}或{G}{G}。</target>
+      </trans-unit>
+      <trans-unit id="ef9d2c05-0d2f-4d02-aef3-e1078d78e5ff" resname="MIR·259 | Circle of Despair | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{1}, Sacrifice a creature: The next time a source of your choice would deal damage to any target this turn, prevent that damage.</source>
+        <target state="final">{1}，牺牲一个生物：选择一个来源。于本回合中，防止该来源下一次将对任意一个目标造成的伤害。</target>
+      </trans-unit>
+      <trans-unit id="be67b950-dfe3-4159-aa53-63df25d2a926" resname="MIR·261 | Discordant Spirit | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>At the beginning of each end step, if it's an opponent's turn, put a +1/+1 counter on CARDNAME for each 1 damage dealt to you this turn.</source>
+        <target state="final">在每个结束步骤开始时，若是在对手的回合中，本回合你每受到1点伤害，便在CARDNAME上放置一个+1/+1指示物。</target>
+      </trans-unit>
+      <trans-unit id="c3cdee9f-7ea9-4397-a230-ce610be5d3af" resname="MIR·247 | Uktabi Faerie | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="c3cdee9f-7ea9-4397-a230-ce610be5d3af" resname="MIR·247 | Uktabi Faerie | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{3}{G}, Sacrifice CARDNAME: Destroy target artifact.</source>
+        <target state="final">{3}{G}，牺牲CARDNAME：消灭目标神器。</target>
+      </trans-unit>
+      <trans-unit id="71bdd944-e86c-4e5e-b75c-9bbf4fb27ccd" resname="MIR·250 | Unyaro Bee Sting | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>CARDNAME deals 2 damage to any target.</source>
+        <target state="final">CARDNAME对任意一个目标造成2点伤害。</target>
+      </trans-unit>
+      <trans-unit id="253a1d97-ec45-41c9-ba81-bbb6ab584b2b" resname="MIR·251 | Village Elder | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{G}, {T}, Sacrifice a Forest: Regenerate target creature.</source>
+        <target state="final">{G}，{T}：牺牲一个树林：重生目标生物。</target>
+      </trans-unit>
+      <trans-unit id="7809131c-747c-4c33-a3ca-13e573a92b66" resname="MIR·254 | Wild Elephant | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Trample</source>
+        <target state="final">践踏</target>
+      </trans-unit>
+      <trans-unit id="a7d64600-84fc-42a5-a6a6-b26f98fac0a4" resname="MIR·256 | Asmira, Holy Avenger | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="a7d64600-84fc-42a5-a6a6-b26f98fac0a4" resname="MIR·256 | Asmira, Holy Avenger | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>At the beginning of each end step, put a +1/+1 counter on CARDNAME for each creature put into your graveyard from the battlefield this turn.</source>
+        <target state="final">在每个结束步骤开始时，本回合每有一个生物从战场进入你的坟墓场，便在CARDNAME上放置一个+1/+1指示物。</target>
+      </trans-unit>
+      <trans-unit id="95b03586-8d04-4114-a7ce-b8c8ab5ff857" resname="MIR·257 | Benthic Djinn | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Islandwalk (This creature can't be blocked as long as defending player controls an Island.)</source>
+        <target state="final">海岛行者（只要防御牌手操控海岛，此生物就不能被阻挡。）</target>
+      </trans-unit>
+      <trans-unit id="95b03586-8d04-4114-a7ce-b8c8ab5ff857" resname="MIR·257 | Benthic Djinn | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>At the beginning of your upkeep, you lose 2 life.</source>
+        <target state="final">在你的维持开始时，你失去2点生命。</target>
+      </trans-unit>
+      <trans-unit id="c52981ea-1173-4f4b-a929-705a11c6e381" resname="MIR·260 | Delirium | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Cast this spell only during an opponent's turn.</source>
+        <target state="final">只能于对手的回合中施放此咒语。</target>
+      </trans-unit>
+      <trans-unit id="c52981ea-1173-4f4b-a929-705a11c6e381" resname="MIR·260 | Delirium | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Tap target creature that player controls. That creature deals damage equal to its power to the player. Prevent all combat damage that would be dealt to and dealt by the creature this turn.</source>
+        <target state="final">横置目标由该牌手操控的生物。该生物对该牌手造成等同于其力量的伤害。防止该生物本回合将受到与造成的所有战斗伤害。</target>
+      </trans-unit>
+      <trans-unit id="be67b950-dfe3-4159-aa53-63df25d2a926" resname="MIR·261 | Discordant Spirit | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>At the beginning of your end step, remove all +1/+1 counters from CARDNAME.</source>
+        <target state="final">在你的结束步骤开始时，移去CARDNAME上的所有+1/+1指示物。</target>
+      </trans-unit>
+      <trans-unit id="9598a9b4-15bb-4645-92ed-8eedef75dc24" resname="MIR·262 | Emberwilde Caliph | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying, trample</source>
+        <target state="final">飞行，践踏</target>
+      </trans-unit>
+      <trans-unit id="9598a9b4-15bb-4645-92ed-8eedef75dc24" resname="MIR·262 | Emberwilde Caliph | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>CARDNAME attacks each combat if able.</source>
+        <target state="final">CARDNAME每次战斗若能攻击，则必须攻击。</target>
+      </trans-unit>
+      <trans-unit id="9598a9b4-15bb-4645-92ed-8eedef75dc24" resname="MIR·262 | Emberwilde Caliph | Card Text | Paragraph 3" xml:space="preserve">
+        <source>Whenever CARDNAME deals damage, you lose that much life.</source>
+        <target state="translated">每当CARDNAME造成伤害时，你失去等量生命。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
