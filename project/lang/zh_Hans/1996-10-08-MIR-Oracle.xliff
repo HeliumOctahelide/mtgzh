@@ -3685,6 +3685,14 @@
         <source>Whenever CARDNAME becomes blocked by a creature, that creature's controller sacrifices it at end of combat. If the player does, they create a 0/2 colorless Wall artifact creature token with defender.</source>
         <target state="translated">每当CARDNAME被一个生物阻挡时，该生物的操控者在战斗结束时将它牺牲。若该牌手如此作，则其派出一个0/2无色，具守军异能的墙衍生神器生物。</target>
       </trans-unit>
+      <trans-unit id="1f46aea3-ea00-46c4-b207-522ceeeae68b" resname="MIR·295 | Bone Mask | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{2}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage. Exile cards from the top of your library equal to the damage prevented this way.</source>
+        <target state="final">{2}，{T}：选择一个来源。于本回合中，防止该来源下一次将对你造成的伤害。从你的牌库顶放逐等同于以此法防止伤害数量的牌。</target>
+      </trans-unit>
+      <trans-unit id="2e3bc470-cfcc-4835-b46f-c08d698ee1ab" resname="MIR·297 | Chariot of the Sun | Card Text | Paragraph 1" xml:space="preserve">
+        <source>{2}, {T}: Until end of turn, target creature you control gains flying and has base toughness 1.</source>
+        <target state="translated">{2}，{T}：直到回合结束，目标由你操控的生物获得飞行异能且它的基础防御力为1。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
