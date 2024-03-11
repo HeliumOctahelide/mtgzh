@@ -3497,6 +3497,106 @@
         <source>Whenever CARDNAME deals damage, you lose that much life.</source>
         <target state="translated">每当CARDNAME造成伤害时，你失去等量的生命。</target>
       </trans-unit>
+      <trans-unit id="760b6703-ac92-45f6-8c32-60f760eba866" resname="MIR·272 | Malignant Growth | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</source>
+        <target state="final">累积维持{1}（在你的维持开始时，在此永久物上放置一个岁月指示物，然后除非你为其上每个岁月指示物各支付其维持费用，否则牺牲之。）</target>
+      </trans-unit>
+      <trans-unit id="fb774a9b-d29f-4f41-9fb8-a0189205e16f" resname="MIR·274 | Prismatic Boon | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Choose a color. X target creatures gain protection from the chosen color until end of turn.</source>
+        <target state="final">选择一种颜色。X个目标生物获得反该色保护异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="711f4cff-0256-44b2-a2fe-1cae6e9edb2b" resname="MIR·263 | Energy Bolt | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Choose one —</source>
+        <target state="final">选择一项～</target>
+      </trans-unit>
+      <trans-unit id="711f4cff-0256-44b2-a2fe-1cae6e9edb2b" resname="MIR·263 | Energy Bolt | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>• CARDNAME deals X damage to target player or planeswalker.</source>
+        <target state="final">•CARDNAME对目标牌手或鹏洛客造成X点伤害。</target>
+      </trans-unit>
+      <trans-unit id="711f4cff-0256-44b2-a2fe-1cae6e9edb2b" resname="MIR·263 | Energy Bolt | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>• Target player gains X life.</source>
+        <target state="final">•目标牌手获得X点生命。</target>
+      </trans-unit>
+      <trans-unit id="50d4468b-f7de-44fe-898a-4125d26d242f" resname="MIR·264 | Frenetic Efreet | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="50d4468b-f7de-44fe-898a-4125d26d242f" resname="MIR·264 | Frenetic Efreet | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{0}: Flip a coin. If you win the flip, CARDNAME phases out. If you lose the flip, sacrifice CARDNAME. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)</source>
+        <target state="final">{0}：掷一枚硬币。如果你猜对此掷，CARDNAME跃离。如果你猜错此掷，牺牲CARDNAME。（它于跃离期间视作不存在。于你的重置步骤中重置之前，它跃回。）</target>
+      </trans-unit>
+      <trans-unit id="a69dc4ac-7354-465e-b859-d8556f3b1498" resname="MIR·265 | Grim Feast | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>At the beginning of your upkeep, CARDNAME deals 1 damage to you.</source>
+        <target state="final">在你的维持开始时，CARDNAME对你造成1点伤害。</target>
+      </trans-unit>
+      <trans-unit id="a69dc4ac-7354-465e-b859-d8556f3b1498" resname="MIR·265 | Grim Feast | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Whenever a creature is put into an opponent's graveyard from the battlefield, you gain life equal to its toughness.</source>
+        <target state="final">每当一个生物从战场进入任一对手的坟墓场时，你获得等同于其防御力的生命。</target>
+      </trans-unit>
+      <trans-unit id="78a2359f-6586-42a6-a855-c0049b448cb9" resname="MIR·266 | Harbor Guardian | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Reach (This creature can block creatures with flying.)</source>
+        <target state="final">延势（此生物能阻挡具飞行异能的生物。）</target>
+      </trans-unit>
+      <trans-unit id="78a2359f-6586-42a6-a855-c0049b448cb9" resname="MIR·266 | Harbor Guardian | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Whenever CARDNAME attacks, defending player may draw a card.</source>
+        <target state="final">每当CARDNAME攻击时，防御牌手可以抓一张牌。</target>
+      </trans-unit>
+      <trans-unit id="8ce9c58f-6470-4e0f-8f6b-457fbaac7451" resname="MIR·267 | Haunting Apparition | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="8ce9c58f-6470-4e0f-8f6b-457fbaac7451" resname="MIR·267 | Haunting Apparition | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>As CARDNAME enters the battlefield, choose an opponent.</source>
+        <target state="final">于CARDNAME进战场时，选择一位对手。</target>
+      </trans-unit>
+      <trans-unit id="8ce9c58f-6470-4e0f-8f6b-457fbaac7451" resname="MIR·267 | Haunting Apparition | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>CARDNAME's power is equal to 1 plus the number of green creature cards in the chosen player's graveyard.</source>
+        <target state="final">CARDNAME的力量等同于所选牌手坟墓场中绿色生物牌的数量加1。</target>
+      </trans-unit>
+      <trans-unit id="68d2ae5c-58b9-4690-8039-d50cca9ef6cf" resname="MIR·268 | Hazerider Drake | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying, protection from red</source>
+        <target state="final">飞行，反红保护</target>
+      </trans-unit>
+      <trans-unit id="59fb9591-399a-4196-a52d-f2954d287a10" resname="MIR·269 | Jungle Troll | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>{R}: Regenerate CARDNAME.</source>
+        <target state="final">{R}：重生CARDNAME。</target>
+      </trans-unit>
+      <trans-unit id="59fb9591-399a-4196-a52d-f2954d287a10" resname="MIR·269 | Jungle Troll | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{G}: Regenerate CARDNAME.</source>
+        <target state="final">{G}：重生CARDNAME。</target>
+      </trans-unit>
+      <trans-unit id="7a42ef95-92ec-40fe-ab30-a476f012a525" resname="MIR·270 | Kaervek's Purge | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Destroy target creature with mana value X. If that creature dies this way, CARDNAME deals damage equal to the creature's power to the creature's controller.</source>
+        <target state="final">消灭目标法术力值为X的生物。如果该生物以此法死去，CARDNAME对其操控者造成等同于该生物力量的伤害。</target>
+      </trans-unit>
+      <trans-unit id="a05d1cac-7012-4d22-82d3-0f82b168fe68" resname="MIR·271 | Leering Gargoyle | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Flying</source>
+        <target state="final">飞行</target>
+      </trans-unit>
+      <trans-unit id="a05d1cac-7012-4d22-82d3-0f82b168fe68" resname="MIR·271 | Leering Gargoyle | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>{T}: CARDNAME gets -2/+2 and loses flying until end of turn.</source>
+        <target state="final">{T}：CARDNAME得-2/+2且失去飞行异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="760b6703-ac92-45f6-8c32-60f760eba866" resname="MIR·272 | Malignant Growth | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>At the beginning of your upkeep, put a growth counter on CARDNAME.</source>
+        <target state="final">在你的维持开始时，在CARDNAME上放置一个生长指示物。</target>
+      </trans-unit>
+      <trans-unit id="760b6703-ac92-45f6-8c32-60f760eba866" resname="MIR·272 | Malignant Growth | Card Text | Paragraph 3" xml:space="preserve" approved="yes">
+        <source>At the beginning of each opponent's draw step, that player draws an additional card for each growth counter on CARDNAME, then CARDNAME deals damage to the player equal to the number of cards they drew this way.</source>
+        <target state="final">在每位对手的抓牌步骤开始时，CARDNAME上每有一个生长指示物，该牌手便额外抓一张牌，然后CARDNAME对该牌手造成等同于其以此法所抓之牌数量的伤害。</target>
+      </trans-unit>
+      <trans-unit id="312bbc1b-4c2a-44c1-8e62-c0f94fd2ba8e" resname="MIR·273 | Phyrexian Purge | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>This spell costs 3 life more to cast for each target.</source>
+        <target state="final">此咒语每有一个目标，便增加3点生命来施放。</target>
+      </trans-unit>
+      <trans-unit id="312bbc1b-4c2a-44c1-8e62-c0f94fd2ba8e" resname="MIR·273 | Phyrexian Purge | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>Destroy any number of target creatures.</source>
+        <target state="final">消灭任意数量的目标生物。</target>
+      </trans-unit>
+      <trans-unit id="9ed5e58b-46f3-437c-89ac-24235a65bd1f" resname="MIR·275 | Purgatory | Card Text | Paragraph 1" xml:space="preserve">
+        <source>Whenever a nontoken creature is put into your graveyard from the battlefield, exile that card.</source>
+        <target state="translated">每当一个非衍生的生物从战场进入你的坟墓场时，放逐该牌。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
