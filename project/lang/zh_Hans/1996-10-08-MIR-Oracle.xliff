@@ -3693,6 +3693,14 @@
         <source>{2}, {T}: Until end of turn, target creature you control gains flying and has base toughness 1.</source>
         <target state="translated">{2}，{T}：直到回合结束，目标由你操控的生物获得飞行异能，且基础防御力为1。</target>
       </trans-unit>
+      <trans-unit id="4b1d3280-f3e1-42ea-93e1-dbab7336fb73" resname="MIR·298 | Crystal Golem | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>At the beginning of your end step, CARDNAME phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)</source>
+        <target state="final">在你的结束步骤开始时，CARDNAME跃离。（它于跃离期间视作不存在。于你的重置步骤中重置之前，它跃回。）</target>
+      </trans-unit>
+      <trans-unit id="60450239-6055-4561-9f8c-565b4e4d9cb1" resname="MIR·300 | Elixir of Vitality | Card Text | Paragraph 1" xml:space="preserve">
+        <source>CARDNAME enters the battlefield tapped.</source>
+        <target state="translated">CARDNAME须横置进场。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
