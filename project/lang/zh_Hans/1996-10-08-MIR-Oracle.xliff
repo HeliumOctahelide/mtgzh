@@ -3401,6 +3401,22 @@
         <source>• Regenerate target green creature.</source>
         <target state="final">•重生目标绿色生物。</target>
       </trans-unit>
+      <trans-unit id="e42746e1-f422-4453-a860-3993d5796479" resname="MIR·240 | Seedling Charm | Card Text | Paragraph 4" xml:space="preserve" approved="yes">
+        <source>• Target creature gains trample until end of turn.</source>
+        <target state="final">•目标生物获得践踏异能直到回合结束。</target>
+      </trans-unit>
+      <trans-unit id="f9c868f5-0f90-4f7e-bafb-c45d2372fe06" resname="MIR·241 | Seeds of Innocence | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Destroy all artifacts. They can't be regenerated. The controller of each of those artifacts gains life equal to its mana value.</source>
+        <target state="final">消灭所有神器。它们不能重生。这些神器的操控者各自获得等同于其法术力值的生命。</target>
+      </trans-unit>
+      <trans-unit id="aff19d9d-8069-4f8d-a81b-e2fcd94c13b3" resname="MIR·242 | Serene Heart | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>Destroy all Auras.</source>
+        <target state="final">消灭所有灵气。</target>
+      </trans-unit>
+      <trans-unit id="43d90914-ddfc-49c2-8e58-fdc3693040f2" resname="MIR·244 | Superior Numbers | Card Text | Paragraph 1" xml:space="preserve">
+        <source>CARDNAME deals damage to target creature equal to the number of creatures you control in excess of the number of creatures target opponent controls.</source>
+        <target state="translated">CARDNAME对目标生物造成等同于由你操控的生物数量与由目标对手操控的生物数量之差值的伤害。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
