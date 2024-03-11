@@ -3597,6 +3597,18 @@
         <source>Whenever a nontoken creature is put into your graveyard from the battlefield, exile that card.</source>
         <target state="translated">每当一个非衍生物的生物从战场进入你的坟墓场时，放逐该牌。</target>
       </trans-unit>
+      <trans-unit id="9ed5e58b-46f3-437c-89ac-24235a65bd1f" resname="MIR·275 | Purgatory | Card Text | Paragraph 2" xml:space="preserve" approved="yes">
+        <source>At the beginning of your upkeep, you may pay {4} and 2 life. If you do, return a card exiled with CARDNAME to the battlefield.</source>
+        <target state="final">在你的维持开始时，你可以支付{4}和2点生命。若你如此作，将一张以CARDNAME放逐之牌移回战场。</target>
+      </trans-unit>
+      <trans-unit id="d9b1853c-d5b9-4361-8a2f-36946a62847b" resname="MIR·276 | Radiant Essence | Card Text | Paragraph 1" xml:space="preserve" approved="yes">
+        <source>CARDNAME gets +1/+2 as long as an opponent controls a black permanent.</source>
+        <target state="final">只要任一对手操控黑色永久物，CARDNAME便得+1/+2。</target>
+      </trans-unit>
+      <trans-unit id="0a9edf28-79c0-42a5-af0f-6df9c3a1f546" resname="MIR·278 | Reparations | Card Text | Paragraph 1" xml:space="preserve">
+        <source>Whenever an opponent casts a spell that targets you or a creature you control, you may draw a card.</source>
+        <target state="translated">每当任一对手施放咒语，且其须以你或由你操控的生物为目标时，你可以抓一张牌。</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
