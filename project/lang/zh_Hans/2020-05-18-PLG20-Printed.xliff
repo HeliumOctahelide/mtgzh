@@ -2,37 +2,29 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1">
   <file>
     <body>
-      <trans-unit id="d27b6a46-f9be-437a-a13c-ad8077ac0127" resname="PLG20·1 | Reliquary Tower | Card Name">
+      <trans-unit id="d27b6a46-f9be-437a-a13c-ad8077ac0127" resname="PLG20·1 | Reliquary Tower | Card Name" approved="no">
         <source>Reliquary Tower</source>
         <target state="translated">圣物塔</target>
       </trans-unit>
-      <trans-unit id="d27b6a46-f9be-437a-a13c-ad8077ac0127" resname="PLG20·1 | Reliquary Tower | Card Text | Paragraph 1">
-        <source>You have no maximum hand size.</source>
-        <target state="translated">你的手牌数量没有上限。</target>
+      <trans-unit id="d27b6a46-f9be-437a-a13c-ad8077ac0127" resname="PLG20·1 | Reliquary Tower | Card Text | Paragraphs" approved="no">
+        <source>You have no maximum hand size.\n{T}: Add {C}.</source>
+        <target state="translated">你的手牌数量没有上限。
+{T}：加{C}。</target>
       </trans-unit>
-      <trans-unit id="d27b6a46-f9be-437a-a13c-ad8077ac0127" resname="PLG20·1 | Reliquary Tower | Card Text | Paragraph 2">
-        <source>{T}: Add {C}.</source>
-        <target state="translated">{T}：加{C}。</target>
-      </trans-unit>
-      <trans-unit id="d27b6a46-f9be-437a-a13c-ad8077ac0127" resname="PLG20·1 | Reliquary Tower | Flavor Text">
+      <trans-unit id="d27b6a46-f9be-437a-a13c-ad8077ac0127" resname="PLG20·1 | Reliquary Tower | Flavor Text" approved="yes">
         <source>&amp;quot;The tower isn't the structure itself. It is all of us, and the wisdom we share. It grows ever upward, a stone for every new arrival.&amp;quot;\n—Archmage Vintra</source>
-        <target state="translated">「这塔并不只是一座建物，而是我们所有人，我们所分享之智慧的象征。每位新人到来都会为其添砖加瓦，促其不断攀高。」\n～大法师薇卓拉</target>
+        <target state="translated">「这塔并不只是一座建物，而是我们所有人，我们所分享之智慧的象征。每位新人到来都会为其添砖加瓦，促其不断攀高。」
+～大法师薇卓拉</target>
       </trans-unit>
-      <trans-unit id="773916fd-060e-4abc-a060-e18768807571" resname="PLG20·2 | Hangarback Walker | Card Name">
+      <trans-unit id="773916fd-060e-4abc-a060-e18768807571" resname="PLG20·2 | Hangarback Walker | Card Name" approved="no">
         <source>Hangarback Walker</source>
         <target state="translated">行走机库</target>
       </trans-unit>
-      <trans-unit id="773916fd-060e-4abc-a060-e18768807571" resname="PLG20·2 | Hangarback Walker | Card Text | Paragraph 1">
-        <source>CARDNAME enters the battlefield with X +1/+1 counters on it.</source>
-        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物。</target>
-      </trans-unit>
-      <trans-unit id="773916fd-060e-4abc-a060-e18768807571" resname="PLG20·2 | Hangarback Walker | Card Text | Paragraph 2">
-        <source>When CARDNAME dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on CARDNAME.</source>
-        <target state="translated">当CARDNAME死去时，其上每有一个+1/+1指示物，便派出一个1/1无色，具飞行异能的振翼机衍生神器生物。</target>
-      </trans-unit>
-      <trans-unit id="773916fd-060e-4abc-a060-e18768807571" resname="PLG20·2 | Hangarback Walker | Card Text | Paragraph 3">
-        <source>{1}, {T}: Put a +1/+1 counter on CARDNAME.</source>
-        <target state="translated">{1}，{T}：在CARDNAME上放置一个+1/+1指示物。</target>
+      <trans-unit id="773916fd-060e-4abc-a060-e18768807571" resname="PLG20·2 | Hangarback Walker | Card Text | Paragraphs" approved="no">
+        <source>CARDNAME enters the battlefield with X +1/+1 counters on it.\nWhen CARDNAME dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on CARDNAME.\n{1}, {T}: Put a +1/+1 counter on CARDNAME.</source>
+        <target state="translated">CARDNAME进战场时上面有X个+1/+1指示物。
+当CARDNAME死去时，其上每有一个+1/+1指示物，便派出一个1/1无色，具飞行异能的振翼机衍生神器生物。
+{1}，{T}：在CARDNAME上放置一个+1/+1指示物。</target>
       </trans-unit>
     </body>
   </file>
