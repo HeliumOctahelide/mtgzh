@@ -22,7 +22,7 @@
         <target state="needs-adaptation">空鲨骑手布雷林</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="d5e857aa-06b7-4bce-b56d-6f6be5cfc77b" resname="C20·5 | Cazur, Ruthless Stalker | Card Name" approved="no">
+      <trans-unit id="d5e857aa-06b7-4bce-b56d-6f6be5cfc77b" resname="C20·5 | Cazur, Ruthless Stalker | Card Name" approved="yes">
         <source>Cazur, Ruthless Stalker</source>
         <target state="translated">无情潜伏客卡祖尔</target>
         <note xmlns:from="developer">官方翻译于OTC（2024-04-19）；非官方翻译于legacy card name（2024-02-28）</note>
@@ -50,6 +50,16 @@
       <trans-unit id="f990cd78-2165-446f-a116-ae55d7a0f00d" resname="C20·9 | Kalamax, the Stormsire | Card Name" approved="no">
         <source>Kalamax, the Stormsire</source>
         <target state="needs-adaptation">风暴君父卡拉马科斯</target>
+        <note xmlns:from="developer">官方翻译于SPG（2023-11-17）；非官方翻译于legacy card name（2024-02-28）</note>
+      </trans-unit>
+      <trans-unit id="f990cd78-2165-446f-a116-ae55d7a0f00d" resname="C20·9 | Kalamax, the Stormsire | Card Text | Paragraph 1" approved="no">
+        <source>Whenever you cast your first instant spell each turn, if CARDNAME is tapped, copy that spell. You may choose new targets for the copy.</source>
+        <target state="translated">每当你施放每回合中你的第一个瞬间咒语时，若CARDNAME已横置，则复制该咒语。你可以为该复制品选择新的目标。</target>
+        <note xmlns:from="developer">官方翻译于SPG（2023-11-17）；非官方翻译于legacy card name（2024-02-28）</note>
+      </trans-unit>
+      <trans-unit id="f990cd78-2165-446f-a116-ae55d7a0f00d" resname="C20·9 | Kalamax, the Stormsire | Card Text | Paragraph 2" approved="no">
+        <source>Whenever you copy an instant spell, put a +1/+1 counter on Kalamax.</source>
+        <target state="translated">每当你复制瞬间咒语时，在卡勒麦上放置一个+1/+1指示物。</target>
         <note xmlns:from="developer">官方翻译于SPG（2023-11-17）；非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
       <trans-unit id="ebc57f73-a517-463e-8d55-56aa996d091e" resname="C20·10 | Kathril, Aspect Warper | Card Name" approved="no">
@@ -87,7 +97,7 @@
         <target state="needs-adaptation">灿光谜兽塔亚姆</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="c44cfa67-6276-4d23-9f25-a0576bfe1d25" resname="C20·17 | Ukkima, Stalking Shadow | Card Name" approved="no">
+      <trans-unit id="c44cfa67-6276-4d23-9f25-a0576bfe1d25" resname="C20·17 | Ukkima, Stalking Shadow | Card Name" approved="yes">
         <source>Ukkima, Stalking Shadow</source>
         <target state="translated">潜伏阴影乌漆玛</target>
         <note xmlns:from="developer">官方翻译于OTC（2024-04-19）；非官方翻译于legacy card name（2024-02-28）</note>
@@ -97,7 +107,7 @@
         <target state="translated">与无情潜伏客卡祖尔拍档（当此生物进战场时，目标牌手可以将卡祖尔从其牌库置于其手上，然后洗牌。）CARDNAME不能被阻挡。当CARDNAME离开战场时，它对目标牌手造成X点伤害且你获得X点生命，X为其力量。</target>
         <note xmlns:from="developer">官方翻译于OTC（2024-04-19）；非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="447db519-7825-4330-99e7-a2429e1f6b2e" resname="C20·18 | Xyris, the Writhing Storm | Card Name" approved="no">
+      <trans-unit id="447db519-7825-4330-99e7-a2429e1f6b2e" resname="C20·18 | Xyris, the Writhing Storm | Card Name" approved="yes">
         <source>Xyris, the Writhing Storm</source>
         <target state="translated">纠拧风暴塞利兹</target>
         <note xmlns:from="developer">官方翻译于DMC（2022-09-09）</note>
@@ -122,7 +132,7 @@
         <target state="needs-adaptation">食腐哨卫雅尼克</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="c07de85d-343e-49e0-b438-ddf1342ab654" resname="C20·20 | Zaxara, the Exemplary | Card Name" approved="no">
+      <trans-unit id="c07de85d-343e-49e0-b438-ddf1342ab654" resname="C20·20 | Zaxara, the Exemplary | Card Name" approved="yes">
         <source>Zaxara, the Exemplary</source>
         <target state="translated">斑斓模范札煞拉</target>
         <note xmlns:from="developer">官方翻译于DMC（2022-09-09）</note>
@@ -147,7 +157,7 @@
         <target state="needs-adaptation">隐密三叶虫</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="24ad6b07-3487-4e19-b554-196697a413df" resname="C20·22 | Avenging Huntbonder | Card Name" approved="no">
+      <trans-unit id="24ad6b07-3487-4e19-b554-196697a413df" resname="C20·22 | Avenging Huntbonder | Card Name" approved="yes">
         <source>Avenging Huntbonder</source>
         <target state="translated">复仇猎绊人</target>
         <note xmlns:from="developer">官方翻译于NCC（2022-04-29）</note>
@@ -162,7 +172,7 @@
         <target state="translated">每当CARDNAME攻击时，在另一个目标进行攻击的生物上放置一个连击指示物。</target>
         <note xmlns:from="developer">官方翻译于NCC（2022-04-29）</note>
       </trans-unit>
-      <trans-unit id="e11cb353-d864-4b22-bdaf-1d42c25f0918" resname="C20·23 | Call the Coppercoats | Card Name" approved="no">
+      <trans-unit id="e11cb353-d864-4b22-bdaf-1d42c25f0918" resname="C20·23 | Call the Coppercoats | Card Name" approved="yes">
         <source>Call the Coppercoats</source>
         <target state="translated">召集紫铜军</target>
         <note xmlns:from="developer">官方翻译于NCC（2022-04-29）</note>
@@ -177,7 +187,7 @@
         <target state="translated">选择任意数量的目标对手。派出X个1/1白色人类／士兵衍生生物，X为由这些对手操控的生物数量。</target>
         <note xmlns:from="developer">官方翻译于NCC（2022-04-29）</note>
       </trans-unit>
-      <trans-unit id="1b1d26c3-ce06-4d46-87fc-7623edae85b2" resname="C20·24 | Cartographer's Hawk | Card Name" approved="no">
+      <trans-unit id="1b1d26c3-ce06-4d46-87fc-7623edae85b2" resname="C20·24 | Cartographer's Hawk | Card Name" approved="yes">
         <source>Cartographer's Hawk</source>
         <target state="translated">制图师翔鹰</target>
         <note xmlns:from="developer">官方翻译于CMM（2023-08-04）</note>
@@ -197,7 +207,7 @@
         <target state="needs-adaptation">击散浪潮</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="c972abe6-c732-4745-bde4-8b51698f05be" resname="C20·26 | Flawless Maneuver | Card Name" approved="no">
+      <trans-unit id="c972abe6-c732-4745-bde4-8b51698f05be" resname="C20·26 | Flawless Maneuver | Card Name" approved="yes">
         <source>Flawless Maneuver</source>
         <target state="translated">无懈计略</target>
         <note xmlns:from="developer">官方翻译于CMM（2023-08-04）</note>
@@ -217,7 +227,7 @@
         <target state="needs-adaptation">遗世传令使</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="25656d3d-dc5a-4085-8461-cab11b96e70a" resname="C20·28 | Martial Impetus | Card Name" approved="no">
+      <trans-unit id="25656d3d-dc5a-4085-8461-cab11b96e70a" resname="C20·28 | Martial Impetus | Card Name" approved="yes">
         <source>Martial Impetus</source>
         <target state="translated">尚武促动</target>
         <note xmlns:from="developer">官方翻译于CLB（2022-06-10）</note>
@@ -267,7 +277,7 @@
         <target state="needs-adaptation">虚相搜粮群</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="4c5ffa83-c88d-4f5d-851e-a642b229d596" resname="C20·35 | Fierce Guardianship | Card Name" approved="no">
+      <trans-unit id="4c5ffa83-c88d-4f5d-851e-a642b229d596" resname="C20·35 | Fierce Guardianship | Card Name" approved="yes">
         <source>Fierce Guardianship</source>
         <target state="translated">厉行守护</target>
         <note xmlns:from="developer">官方翻译于CMM（2023-08-04）</note>
@@ -287,7 +297,7 @@
         <target state="needs-adaptation">初生蜕变妖</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="9440d3f3-f4f4-450b-ab88-0acbaeec972b" resname="C20·37 | Psychic Impetus | Card Name" approved="no">
+      <trans-unit id="9440d3f3-f4f4-450b-ab88-0acbaeec972b" resname="C20·37 | Psychic Impetus | Card Name" approved="yes">
         <source>Psychic Impetus</source>
         <target state="translated">心灵促动</target>
         <note xmlns:from="developer">官方翻译于CLB（2022-06-10）</note>
@@ -327,7 +337,7 @@
         <target state="needs-adaptation">大胆邪绊人</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="c61fa2c0-63c0-4dc2-9f17-5a00530e3348" resname="C20·42 | Deadly Rollick | Card Name" approved="no">
+      <trans-unit id="c61fa2c0-63c0-4dc2-9f17-5a00530e3348" resname="C20·42 | Deadly Rollick | Card Name" approved="yes">
         <source>Deadly Rollick</source>
         <target state="translated">致命嬉闹</target>
         <note xmlns:from="developer">官方翻译于CMM（2023-08-04）</note>
@@ -357,7 +367,7 @@
         <target state="needs-adaptation">冥生祭坛</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="b51e0d11-e970-4535-87ac-49ae8ad594df" resname="C20·46 | Parasitic Impetus | Card Name" approved="no">
+      <trans-unit id="b51e0d11-e970-4535-87ac-49ae8ad594df" resname="C20·46 | Parasitic Impetus | Card Name" approved="yes">
         <source>Parasitic Impetus</source>
         <target state="translated">寄生促动</target>
         <note xmlns:from="developer">官方翻译于CLB（2022-06-10）</note>
@@ -387,7 +397,7 @@
         <target state="needs-adaptation">巨物猎人</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="29d1122e-ac2d-4d95-829b-7b3b54159a4a" resname="C20·49 | Agitator Ant | Card Name" approved="no">
+      <trans-unit id="29d1122e-ac2d-4d95-829b-7b3b54159a4a" resname="C20·49 | Agitator Ant | Card Name" approved="yes">
         <source>Agitator Ant</source>
         <target state="translated">煽动蚁</target>
         <note xmlns:from="developer">官方翻译于CLB（2022-06-10）</note>
@@ -397,7 +407,7 @@
         <target state="translated">在你的结束步骤开始时，每位牌手各可以在一个由其操控的生物上放置两个+1/+1指示物。煽惑每个上面以此法放置了指示物的生物。（直到你的下一个回合，那些生物每次战斗若能攻击，则必须攻击，且若能攻击除你以外的牌手，则必须如此作。）</target>
         <note xmlns:from="developer">官方翻译于CLB（2022-06-10）</note>
       </trans-unit>
-      <trans-unit id="84f035e1-6c89-457b-b05f-85680a50ed91" resname="C20·50 | Deflecting Swat | Card Name" approved="no">
+      <trans-unit id="84f035e1-6c89-457b-b05f-85680a50ed91" resname="C20·50 | Deflecting Swat | Card Name" approved="yes">
         <source>Deflecting Swat</source>
         <target state="translated">偏转击</target>
         <note xmlns:from="developer">官方翻译于CMM（2023-08-04）</note>
@@ -417,7 +427,7 @@
         <target state="needs-adaptation">焰流小队</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="233e1a27-c8d6-46de-a128-89791e7f2e9b" resname="C20·52 | Frontier Warmonger | Card Name" approved="no">
+      <trans-unit id="233e1a27-c8d6-46de-a128-89791e7f2e9b" resname="C20·52 | Frontier Warmonger | Card Name" approved="yes">
         <source>Frontier Warmonger</source>
         <target state="translated">前线好战者</target>
         <note xmlns:from="developer">官方翻译于CMM（2023-08-04）</note>
@@ -432,7 +442,7 @@
         <target state="needs-adaptation">熔缘城闸门</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="8ca1dbc4-2177-477e-88e2-d07cefb542e4" resname="C20·54 | Molten Echoes | Card Name" approved="no">
+      <trans-unit id="8ca1dbc4-2177-477e-88e2-d07cefb542e4" resname="C20·54 | Molten Echoes | Card Name" approved="yes">
         <source>Molten Echoes</source>
         <target state="translated">热熔应和</target>
         <note xmlns:from="developer">官方翻译于VOC（2021-11-19）</note>
@@ -447,7 +457,7 @@
         <target state="translated">每当一个非衍生物的该类别生物在你的操控下进战场时，派出一个衍生物，此衍生物为该生物的复制品。该衍生物获得敏捷异能。在下一个结束步骤开始时，将它放逐。</target>
         <note xmlns:from="developer">官方翻译于VOC（2021-11-19）</note>
       </trans-unit>
-      <trans-unit id="0aa80931-0501-4712-a11b-563a3cd1e1c9" resname="C20·55 | Shiny Impetus | Card Name" approved="no">
+      <trans-unit id="0aa80931-0501-4712-a11b-563a3cd1e1c9" resname="C20·55 | Shiny Impetus | Card Name" approved="yes">
         <source>Shiny Impetus</source>
         <target state="translated">闪耀促动</target>
         <note xmlns:from="developer">官方翻译于OTC（2024-04-19）</note>
@@ -482,7 +492,7 @@
         <target state="needs-adaptation">林地缪思</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="c1ae35e6-5401-481a-8104-24f53e3d160f" resname="C20·61 | Obscuring Haze | Card Name" approved="no">
+      <trans-unit id="c1ae35e6-5401-481a-8104-24f53e3d160f" resname="C20·61 | Obscuring Haze | Card Name" approved="yes">
         <source>Obscuring Haze</source>
         <target state="translated">遮掩迷雾</target>
         <note xmlns:from="developer">官方翻译于CMM（2023-08-04）</note>
@@ -497,7 +507,7 @@
         <target state="translated">于本回合中，防止由对手操控之生物将造成的所有伤害。</target>
         <note xmlns:from="developer">官方翻译于CMM（2023-08-04）</note>
       </trans-unit>
-      <trans-unit id="13c29179-99f4-4e02-bc04-2ffe6ca4a7c3" resname="C20·62 | Predatory Impetus | Card Name" approved="no">
+      <trans-unit id="13c29179-99f4-4e02-bc04-2ffe6ca4a7c3" resname="C20·62 | Predatory Impetus | Card Name" approved="yes">
         <source>Predatory Impetus</source>
         <target state="translated">掠食促动</target>
         <note xmlns:from="developer">官方翻译于CLB（2022-06-10）</note>
@@ -527,7 +537,7 @@
         <target state="needs-adaptation">选择性适应</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="c2f9c4a7-ea53-4da0-9746-2195579f98f6" resname="C20·66 | Slippery Bogbonder | Card Name" approved="no">
+      <trans-unit id="c2f9c4a7-ea53-4da0-9746-2195579f98f6" resname="C20·66 | Slippery Bogbonder | Card Name" approved="yes">
         <source>Slippery Bogbonder</source>
         <target state="translated">油滑沼绊人</target>
         <note xmlns:from="developer">官方翻译于NCC（2022-04-29）</note>
@@ -547,7 +557,7 @@
         <target state="translated">当CARDNAME进战场时，在目标生物上放置一个辟邪指示物。然后将由你操控之生物上总共任意数量的指示物移到该生物上。</target>
         <note xmlns:from="developer">官方翻译于NCC（2022-04-29）</note>
       </trans-unit>
-      <trans-unit id="5afe425c-50a7-4d29-ac14-0edb094fc770" resname="C20·67 | Bonder's Ornament | Card Name" approved="no">
+      <trans-unit id="5afe425c-50a7-4d29-ac14-0edb094fc770" resname="C20·67 | Bonder's Ornament | Card Name" approved="yes">
         <source>Bonder's Ornament</source>
         <target state="translated">持绊人饰物</target>
         <note xmlns:from="developer">官方翻译于CMM（2023-08-04）</note>
@@ -572,7 +582,7 @@
         <target state="needs-adaptation">庇护地之刃</target>
         <note xmlns:from="developer">非官方翻译于legacy card name（2024-02-28）</note>
       </trans-unit>
-      <trans-unit id="e7971306-700e-4677-bf52-83e4f9ac04c1" resname="C20·70 | Twinning Staff | Card Name" approved="no">
+      <trans-unit id="e7971306-700e-4677-bf52-83e4f9ac04c1" resname="C20·70 | Twinning Staff | Card Name" approved="yes">
         <source>Twinning Staff</source>
         <target state="translated">双身杖</target>
         <note xmlns:from="developer">官方翻译于NCC（2022-04-29）</note>
@@ -587,7 +597,7 @@
         <target state="translated">{7}，{T}：复制目标由你操控的瞬间或法术咒语。你可以为该复制品选择新的目标。</target>
         <note xmlns:from="developer">官方翻译于NCC（2022-04-29）</note>
       </trans-unit>
-      <trans-unit id="cf559d4e-07a7-4ca4-b76a-d0615222cb60" resname="C20·71 | Nesting Grounds | Card Name" approved="no">
+      <trans-unit id="cf559d4e-07a7-4ca4-b76a-d0615222cb60" resname="C20·71 | Nesting Grounds | Card Name" approved="yes">
         <source>Nesting Grounds</source>
         <target state="translated">筑巢栖地</target>
         <note xmlns:from="developer">官方翻译于PIP（2024-03-08）</note>
